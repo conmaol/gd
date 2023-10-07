@@ -12,6 +12,7 @@ class entry {
     private $_translations = array();
     private $_parts = array();
     private $_compounds = array();
+    private $_url;
     private $_db;   // an instance of models\database
 
 	public function __construct($id,$db) {
@@ -34,7 +35,7 @@ class entry {
     private function _load() {
         $id = $this->_id;
         $sql = <<<SQL
-SELECT hw, pos, reg
+SELECT hw, pos, reg, url
 FROM entry
 WHERE id = :id
 SQL;
@@ -42,6 +43,7 @@ SQL;
         $this->_hw = $results[0]["hw"];
         $this->_pos = $results[0]["pos"];
         $this->_reg = $results[0]["reg"];
+        $this->_url = $results[0]["url"];
         $sql = <<<SQL
 SELECT text
 FROM translation
@@ -75,12 +77,12 @@ SQL;
         $sql = <<<SQL
 SELECT form, morph, id
 FROM forms
-WHERE `lexeme_id` = :id
+WHERE `lexeme_id` = :id AND morph != ''
 SQL;
         $results = $this->_db->fetch($sql, array(":id" => $id));
         foreach ($results as $nextResult) {
             $this->_forms[] = [$nextResult["form"], $nextResult["morph"], $nextResult["id"]];
-        }
+        }        
 
     }
 
@@ -114,9 +116,13 @@ SQL;
         return $this->_parts;
     }
 
-  public function getCompounds() {
-    return $this->_compounds;
-  }
+    public function getCompounds() {
+        return $this->_compounds;
+    }
+
+    public function getURL() {
+        return $this->_url;
+    }
 
   public static function getPosInfo($pos) {
     switch ($pos) {
@@ -155,6 +161,18 @@ SQL;
         break;
       case "vn":
         return ['ainm.', 'ainmear gnìomaireach', 'verbal noun'];
+        break;
+      case "pres":
+        return ['pres.', 'present tense', 'present tense'];
+        break;
+      case "past":
+        return ['pst.', 'past tense', 'past tense'];
+        break;
+      case "fut":
+        return ['fut.', 'future tense', 'future tense'];
+        break;
+      case "cond":
+        return ['cond.', 'conditional tense', 'conditional tense'];
         break;
       default:
         return [$pos, $pos, $pos];

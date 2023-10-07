@@ -2,8 +2,7 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = Module
 
-Module = element module { 
-  attribute status { "bronze"|"silver"|"gold" } ,
+Module = element module {
   attribute id { xsd:ID }? , # Is module expandable and linkable
   element h { TextContent+ } ,
   (element p { TextContent+ } | Module | Section)*

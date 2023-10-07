@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
   <h>bi</h>
   <p><g>bi</g>
-    <en>be</en> is the predicative verb</p>
+    <en>be</en> is the predicative verb.</p>
   <section id="forms">
     <h>forms</h>
     <p>The principal parts of <g>bi</g> are – <ul>
-        <li><m>bidh</m> – future independent <en>will be</en>
-        </li>
-        <li><m>bha</m> – past independent <en>was</en>
-        </li>
-        <li><m>bhiodh</m> – conditional independent <en>would be</en>
-        </li>
-        <li><m>bith</m> – verbal noun <en>being</en>
-        </li>
+        <li><m>tha</m> / <m>(bh)eil</m> – present independent/dependent <en>is, are, am</en></li>
+        <li><m>bidh</m> / <m>bi</m> – future independent/dependent <en>will be</en></li>
+        <li><m>bha</m> / <m>robh</m> – past independent/dependent <en>was, were</en></li>
+        <li><m>bhiodh</m> – conditional independent <en>would be</en></li>
+        <li><m>bith</m> – verbal noun <en>being</en></li>
       </ul>
     </p>
-    <section>
+    <section id="forms-tense">
       <h>tense</h>
       <p><ul>
-          <li>present <ul id="present">
+          <li>present <ul id="forms-tense-present">
               <li>active <ul>
                   <li>independent – <m>tha</m></li>
                   <li>relative – a <m>tha</m></li>
@@ -34,7 +31,7 @@
               </li>
             </ul>
           </li>
-          <li>past <ul id="past">
+          <li>past <ul id="forms-tense-past">
               <li>active <ul>
                   <li>independent – <m>bha</m></li>
                   <li>relative – a <m>bha</m></li>
@@ -49,7 +46,7 @@
               </li>
             </ul>
           </li>
-          <li>future <ul id="future">
+          <li>future <ul id="forms-tense-future">
               <li>active <ul>
                   <li>independent – <m>bidh</m></li>
                   <li>relative – a <m>bhios</m></li>
@@ -64,7 +61,7 @@
               </li>
             </ul>
           </li>
-          <li>conditional <ul id="conditional">
+          <li>conditional <ul id="forms-tense-conditional">
               <li>active <ul>
                   <li>first person singular <ul>
                       <li>independent – <m>bhithinn</m></li>
@@ -81,7 +78,7 @@
                   <li>second/third persons <ul>
                       <li>independent – <m>bhiodh</m></li>
                       <li>relative – a <m>bhiodh</m></li>
-                      <li>dependent – cha <m>bhiodh</m>, am/nach <m>bhiodh</m></li>
+                      <li>dependent – cha <m>bhiodh</m>, am/nach <m>biodh</m></li>
                     </ul>
                   </li>
                 </ul>
@@ -96,161 +93,188 @@
           </li>
         </ul></p>
     </section>
-    <!--
-    <section>
+    <section id="forms-status">
       <h>status</h>
       <p><ul>
-          <li>independent <ul id="independent">
+          <li>independent <ul id="forms-status-independent">
+              <li>present <ul>
+                  <li>active – <m>tha</m></li>
+                  <li>passive – <m>thathar</m></li>
+                </ul>
+              </li>
               <li>past <ul>
-                  <li>active – <m>chaidh</m></li>
-                  <li>passive – <m>chaidheas</m></li>
+                  <li>active – <m>bha</m></li>
+                  <li>passive – <m>bhathar</m></li>
                 </ul>
               </li>
               <li>future <ul>
-                  <li>active – <m>thèid</m></li>
-                  <li>passive – <m>thèidear</m></li>
+                  <li>active – <m>bidh</m></li>
+                  <li>passive – <m>bithear</m></li>
                 </ul>
               </li>
               <li>conditional <ul>
                   <li>active <ul>
-                      <li>first person singular – <m>rachainn / dheighinn</m></li>
-                      <li>first person plural – <m>rachamaid / dheigheamaid</m></li>
-                      <li>second/third persons – <m>rachadh / dheigheadh</m></li>
+                      <li>first person singular – <m>bhithinn</m></li>
+                      <li>first person plural – <m>bhiomaid</m></li>
+                      <li>second/third persons – <m>bhiodh</m></li>
                     </ul>
                   </li>
-                  <li>passive – <m>rachte / dheighte</m></li>
+                  <li>passive – <m>bhite</m></li>
                 </ul>
               </li>
             </ul>
           </li>
-          <li>relative <ul id="relative">
+          <li>relative <ul id="forms-status-relative">
+              <li>present <ul>
+                  <li>active – a <m>tha</m></li>
+                  <li>passive – a <m>thathar</m></li>
+                </ul>
+              </li>
               <li>past <ul>
-                  <li>active – a <m>chaidh</m></li>
-                  <li>passive – a <m>chaidheas</m></li>
+                  <li>active – a <m>bha</m></li>
+                  <li>passive – a <m>bhathar</m></li>
                 </ul>
               </li>
               <li>future <ul>
-                  <li>active – a <m>thèid</m></li>
-                  <li>passive – a <m>thèidear</m></li>
+                  <li>active – a <m>bhios</m></li>
+                  <li>passive – a <m>bhithear</m></li>
                 </ul>
               </li>
               <li>conditional <ul>
                   <li>active <ul>
-                      <li>first person singular – a <m>rachainn / dheighinn</m></li>
-                      <li>first person plural – a <m>rachamaid / dheigheamaid</m></li>
-                      <li>second/third persons – a <m>rachadh / dheigheadh</m></li>
+                      <li>first person singular – a <m>bhithinn</m></li>
+                      <li>first person plural – a <m>bhiomaid</m></li>
+                      <li>second/third persons – a <m>bhiodh</m></li>
                     </ul>
                   </li>
-                  <li>passive – a <m>rachte / dheighte</m></li>
+                  <li>passive – a <m>bhite</m></li>
                 </ul>
               </li>
             </ul>
           </li>
-          <li>dependent <ul id="dependent">
+          <li>dependent <ul id="forms-status-dependent">
+              <li>present <ul>
+                  <li>active – chan/nach <m>eil</m>, a <m>bheil</m></li>
+                  <li>passive – chan/nach <m>eilear</m>, a <m>bheilear</m></li>
+                </ul>
+              </li>
               <li>past <ul>
-                  <li>active – cha/an/nach <m>deach</m></li>
-                  <li>passive – cha/an/nach <m>deachas</m></li>
+                  <li>active – cha/an/nach <m>robh</m></li>
+                  <li>passive – cha/an/nach <m>robhar</m></li>
                 </ul>
               </li>
               <li>future <ul>
-                  <li>active – cha/an/nach <m>tèid</m></li>
-                  <li>passive – cha/an/nach <m>tèidear</m></li>
+                  <li>active – cha <m>bhi</m>, am/nach <m>bi</m></li>
+                  <li>passive – cha <m>bhithear</m>, am/nach <m>bithear</m></li>
                 </ul>
               </li>
               <li>conditional <ul>
                   <li>active <ul>
-                      <li>first person singular – cha/an/nach <m>rachainn / deighinn</m></li>
-                      <li>first person plural – cha/an/nach <m>rachamaid / deigheamaid</m></li>
-                      <li>second/third persons – cha/an/nach <m>rachadh / deigheadh</m></li>
+                      <li>first person singular – cha <m>bhithinn</m>, am/nach <m>bithinn</m></li>
+                      <li>first person plural – cha <m>bhiomaid</m>, am/nach <m>biomaid</m></li>
+                      <li>second/third persons – cha <m>bhiodh</m>, am/nach <m>biodh</m></li>
                     </ul>
                   </li>
-                  <li>passive – cha/an/nach <m>rachte / deighte</m></li>
+                  <li>passive – cha <m>bhite</m>, am/nach <m>bite</m></li>
                 </ul>
               </li>
             </ul>
           </li>
         </ul></p>
     </section>
-    <section>
+    <section id="forms-voice">
       <h>voice</h>
       <p><ul>
-          <li>active <ul id="active">
+          <li>active <ul id="forms-voice-active">
+              <li>present <ul>
+                  <li>independent – <m>tha</m></li>
+                  <li>relative – a <m>tha</m></li>
+                  <li>dependent – chan/nach <m>eil</m>, a <m>bheil</m></li>
+                </ul>
+              </li>
               <li>past <ul>
-                  <li>independent – <m>chaidh</m></li>
-                  <li>relative – a <m>chaidh</m></li>
-                  <li>dependent – cha/an/nach <m>deach</m></li>
+                  <li>independent – <m>bha</m></li>
+                  <li>relative – a <m>bha</m></li>
+                  <li>dependent – cha/an/nach <m>robh</m></li>
                 </ul>
               </li>
               <li>future <ul>
-                  <li>independent – <m>thèid</m></li>
-                  <li>relative – a <m>thèid</m></li>
-                  <li>dependent – cha/an/nach <m>tèid</m></li>
+                  <li>independent – <m>bidh</m></li>
+                  <li>relative – a <m>bhios</m></li>
+                  <li>dependent – cha <m>bhi</m>, am/nach <m>bi</m></li>
                 </ul>
               </li>
               <li>conditional <ul>
                   <li>independent <ul>
-                      <li>first person singular – <m>rachainn / dheighinn</m></li>
-                      <li>first person plural – <m>rachamaid / dheigheamaid</m></li>
-                      <li>second/third persons – <m>rachadh / dheigheadh</m></li>
+                      <li>first person singular – <m>bhithinn</m></li>
+                      <li>first person plural – <m>bhiomaid</m></li>
+                      <li>second/third persons – <m>bhiodh</m></li>
                     </ul>
                   </li>
                   <li>relative <ul>
-                      <li>first person singular – a <m>rachainn / dheighinn</m></li>
-                      <li>first person plural – a <m>rachamaid / dheigheamaid</m></li>
-                      <li>second/third persons – a <m>rachadh / dheigheadh</m></li>
+                      <li>first person singular – a <m>bhithinn</m></li>
+                      <li>first person plural – a <m>bhiomaid</m></li>
+                      <li>second/third persons – a <m>bhiodh</m></li>
                     </ul>
                   </li>
                   <li>dependent <ul>
-                      <li>first person singular – cha/an/nach <m>rachainn / deighinn</m></li>
-                      <li>first person plural – cha/an/nach <m>rachamaid / deigheamaid</m></li>
-                      <li>second/third persons – cha/an/nach <m>rachadh / deigheadh</m></li>
+                      <li>first person singular – cha <m>bhithinn</m>, am/nach <m>bithinn</m></li>
+                      <li>first person plural – cha <m>bhiomaid</m>, am/nach <m>biomaid</m></li>
+                      <li>second/third persons – cha <m>bhiodh</m>, am/nach <m>biodh</m></li>
                     </ul>
                   </li>
                 </ul>
               </li>
             </ul>
           </li>
-          <li>passive <ul id="passive">
+          <li>passive <ul id="forms-voice-passive">
+              <li>present <ul>
+                  <li>independent – <m>thathar</m></li>
+                  <li>relative – a <m>thathar</m></li>
+                  <li>dependent – chan/nach <m>eilear</m>, a <m>bheilear</m></li>
+                </ul>
+              </li>
               <li>past <ul>
-                  <li>independent – <m>chaidheas</m></li>
-                  <li>relative – a <m>chaidheas</m></li>
-                  <li>dependent – cha/an/nach <m>deachas</m></li>
+                  <li>independent – <m>bhathar</m></li>
+                  <li>relative – a <m>bhathar</m></li>
+                  <li>dependent – cha/an/nach <m>robhar</m></li>
                 </ul>
               </li>
               <li>future <ul>
-                  <li>independent – <m>thèidear</m></li>
-                  <li>relative – a <m>thèidear</m></li>
-                  <li>dependent – cha/an/nach <m>tèidear</m></li>
+                  <li>independent – <m>bithear</m></li>
+                  <li>relative – a <m>bhithear</m></li>
+                  <li>dependent – cha <m>bhithear</m>, am/nach <m>bithear</m></li>
                 </ul>
               </li>
               <li>conditional <ul>
-                  <li>independent – <m>rachte / dheighte</m></li>
-                  <li>relative – a <m>rachte / dheighte</m></li>
-                  <li>dependent – cha/an/nach <m>rachte / deighte</m></li>
+                  <li>independent – <m>bhite</m></li>
+                  <li>relative – a <m>bhite</m></li>
+                  <li>dependent – cha <m>bhite</m>, am/nach <m>bite</m></li>
                 </ul>
               </li>
             </ul>
           </li>
         </ul></p>
     </section>
-    <section>
+    <!--
+    <section id="forms-imperative">
       <h>imperative</h>
       <p>
         <ul>
-          <li>independent <ul id="independent-imp">
-              <li>first person singular – <m>racham</m>!</li>
-              <li>second person singular – <m>rach</m>!</li>
-              <li>first person plural – <m>rachamaid</m>!</li>
-              <li>second person plural – <m>rachaibh</m>!</li>
+          <li>independent <ul id="forms-imperative-independent">
+              <li>first person singular – <m>bitheam</m>!</li>
+              <li>second person singular – <m>bi</m>!</li>
+              <li>first person plural – <m>biomaid</m>!</li>
+              <li>second person plural – <m>bithibh</m>!</li>
               <li>third person – <m>rachadh</m>!</li>
               <li>passive – <m>rach(t)ar</m>!</li>
             </ul>
           </li>
-          <li>dependent <ul id="dependent-imp">
+          <li>dependent <ul id="forms-imperative-dependent">
               <li>first person singular – na <m>racham</m>!</li>
-              <li>second person singular – na <m>rach</m>!</li>
+              <li>second person singular – na <m>bi</m>!</li>
               <li>first person plural – na <m>rachamaid</m>!</li>
-              <li>second person plural – na <m>rachaibh</m>!</li>
+              <li>second person plural – na <m>bithibh</m>!</li>
               <li>third person – na <m>rachadh</m>!</li>
               <li>passive – na <m>rach(t)ar</m>!</li>
             </ul>
@@ -392,6 +416,104 @@
     </section>
 
   </section>
+
+
+<section>
+  <h>examples</h>
+  <p>
+    <xl id="xs">
+      <li>
+        <gd>Tha an cù dubh.</gd>
+        <tr>The dog is black.</tr>
+        <ref text="617">td. 6</ref>
+        <note>bi, an, cù, dubh</note>
+      </li>
+      <li>
+        <gd>Tha an cat bàn.</gd>
+        <tr>The cat is white.</tr>
+        <ref text="617">td. 6</ref>
+        <note>bi, an, cat, bàn</note>
+      </li>
+      <li>
+        <gd>Tha an cù mòr.</gd>
+        <tr>The dog is big.</tr>
+        <ref text="617">td. 6</ref>
+        <note>bi, an, cù, mòr</note>
+      </li>
+      <li>
+        <gd>Tha an cat beag.</gd>
+        <tr>The cat is small.</tr>
+        <ref text="617">td. 6</ref>
+        <note>bi, an, cat, beag</note>
+      </li>
+      <li>
+        <gd>Tha an cù aig an dorus.</gd>
+        <tr>The dog is at the door.</tr>
+        <ref text="617">td. 6</ref>
+        <note>bi, an, cù, aig, doras</note>
+      </li>
+      <li>
+        <gd>Tha an cat aig an teine.</gd>
+        <tr>The cat is by the fire.</tr>
+        <ref text="617">td. 6</ref>
+        <note>bi, an, cat, aig, teine</note>
+      </li>
+      <li>
+        <gd>Tha an dorus mór.</gd>
+        <tr>The door is big.</tr>
+        <ref text="617">td. 6</ref>
+        <note>bi, an, doras, mór</note>
+      </li>
+      <li>
+        <gd>Tha an teine mór.</gd>
+        <tr>The fire is big.</tr>
+        <ref text="617">td. 6</ref>
+        <note>bi, an, teine, mór</note>
+      </li>
+      <li>
+        <gd>Tha teas anns an teine.</gd>
+        <tr>There is heat in the fire.</tr>
+        <ref text="617">td. 6</ref>
+        <note>bi, teas, an-prep, an, teine</note>
+      </li>
+      <li>
+        <gd>Tha Màiri beag.</gd>
+        <tr>Mary is small.</tr>
+        <ref text="617">td. 6</ref>
+        <note>bi, Màiri, beag</note>
+      </li>
+      <li>
+        <gd>Tha Calum mór.</gd>
+        <tr>Malcolm is big.</tr>
+        <ref text="617">td. 6</ref>
+        <note>bi, Calum, mór</note>
+      </li>
+      <li>
+        <gd>Tha Màiri ag obair.</gd>
+        <tr>Mary is working.</tr>
+        <ref text="617">td. 6</ref>
+        <note>bi, Màiri, ag, obair</note>
+      </li>
+      <li>
+        <gd>Tha Calum ag obair.</gd>
+        <tr>Malcolm is working.</tr>
+        <ref text="617">td. 6</ref>
+        <note>bi, Calum, ag, obair</note>
+      </li>
+      <li>
+        <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+        <tr>Mary is working.</tr>
+        <ref text="617">td. 6–7</ref>
+        <note>bi, Màiri, agus, Calum, ag, obair, an^prep, an, an-diugh</note>
+      </li>
+      
+      
+    </xl>
+    
+  </p>
+  
+</section>
+  
 
   <!--
  
