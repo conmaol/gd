@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="silver">
+    <h>object pronouns in the progressive</h>
+    <p>When the object of a transitive verb in the progressive is a personal pronoun, it is fused
+        with the <a href="?gd=ag"><g>ag</g></a> particle as follows – <ul>
+            <li><m>gam fhaicinn</m>
+                <en>seeing me</en></li>
+            <li><m>gad fhaicinn</m>
+                <en>seeing you</en></li>
+            <li><m>ga faicinn</m>
+                <en>seeing her/it</en></li>
+            <li><m>ga fhaicinn</m>
+                <en>seeing him/it</en></li>
+            <li><m>gar faicinn</m>
+                <en>seeing us</en></li>
+            <li><m>gur faicinn</m>
+                <en>seeing you</en></li>
+            <li><m>gam faicinn</m>
+                <en>seeing them</en></li>
+        </ul>
+    </p>
+    <p>Emphasis is expressed using a suffix on the verbal noun – <ul>
+            <li><m>gam fhaicinn-sa</m>
+                <en>seeing <emph>me</emph></en></li>
+            <li><m>gad fhaicinn-sa</m>
+                <en>seeing <emph>you</emph></en></li>
+            <li><m>ga faicinn-se</m>
+                <en>seeing <emph>her/it</emph></en></li>
+            <li><m>ga fhaicinn-san</m>
+                <en>seeing <emph>him/it</emph></en></li>
+            <li><m>gar faicinn-ne</m>
+                <en>seeing <emph>us</emph></en></li>
+            <li><m>gur faicinn-se</m>
+                <en>seeing <emph>you</emph></en></li>
+            <li><m>gam faicinn-san</m>
+                <en>seeing <emph>them</emph></en></li>
+        </ul>
+    </p>
+    <p>A reflexive pronoun can be emphasised using <g>fhèin</g> as follows – <ul>
+            <li><m>gam fhaicinn fhìn</m>
+                <en>seeing myself</en></li>
+            <li><m>gad fhaicinn fhèin</m>
+                <en>seeing yourself</en></li>
+            <li><m>ga faicinn fhèin</m>
+                <en>seeing herself/itself</en></li>
+            <li><m>ga fhaicinn fhèin</m>
+                <en>seeing himself/itself</en></li>
+            <li><m>gar faicinn fhèin</m>
+                <en>seeing ourselves</en></li>
+            <li><m>gur faicinn fhèin</m>
+                <en>seeing yourselves</en></li>
+            <li><m>gam faicinn fhèin</m>
+                <en>seeing themselves</en></li>
+        </ul>
+    </p>
+    <p>Note that forms with an object pronoun <emph>after</emph> the verbal noun are ungrammatical – <ul>
+            <li><bad>a’ faicinn mi</bad></li>
+            <li><bad>a’ faicinn ise</bad></li>
+            <li><bad>a’ faicinn sinn fhèin</bad></li>
+        </ul>
+    </p>
+    <p>See also – <a href="?gd=ag"><g>ag</g></a>, <a href="?xx=nouns/verbal_nouns">verbal nouns</a></p>
+</module>

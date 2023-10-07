@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h lang="en">impis</h>
+    <h lang="gd">impis</h>
+    <p lang="en"><b>an impis</b> can be used to mark <a href="?q=verbal_aspect">prospective
+            aspect</a>
+        <en>about to, on the verge/point of</en> – <ul>
+            <li>Tha iad <m>an impis a dhol ann</m>. <en>They are on the verge/point of
+                going.</en></li>
+        </ul>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">Intransitive examples – <xl id="intransitive">
+            <li>
+                <gd>Bha sinn <m>an impis ruith air adhart</m> nuair a stad Lachlainn mar gum
+                    buaileadh am peilear e.</gd>
+                <tr>about to run off ??</tr>
+                <ref text="400-44">td. 419</ref>
+            </li>
+            <li>
+                <gd>Fhuair an nighean bhochd a bha <m>an impis a dol</m> á cochall a cridhe leis an
+                    eagal, gu tèaruinte dhachaidh gu bhith toirt a beannachd cho fad ’s bu bheò i
+                    airsan a theasairg i.</gd>
+                <tr>about to go from ... ??</tr>
+                <ref text="400-55">td. 212</ref>
+            </li>
+            <li>
+                <gd>Bha mi <m>dìreach an impis éirigh</m> agus a dhol dhachaidh, nuair a chuala mi
+                    grùsdaich am bad-eigin.</gd>
+                <tr>I was about to get up and go home ...</tr>
+                <ref text="400-55">td. 271</ref>
+            </li>
+            <li>
+                <gd>Tha e furasda gu leòir dhoibh iarraidh oirnn ar n-eanchainnean a chur air ghleus
+                    – Moire, tha mo chlaigeann truagh fhéin <m>an impis sgàinidh</m> mar tha, ’s is
+                    faoin domh bhi ’ga sgròbadh.</gd>
+                <tr>my skull is about to burst ... ??</tr>
+                <ref text="234-2">td. 136</ref>
+                <note>The verbal noun is in the genitive here.</note>
+            </li>
+            <li>
+                <gd><m>an impis falbh</m></gd>
+                <tr>about to leave/go</tr>
+                <ref text="605">td. 22</ref>
+            </li>
+            <li>
+                <gd>Bha i <m>an impis dol fodha</m>.</gd>
+                <tr>She was on the point of sinking / about to sink.</tr>
+                <ref text="601">td. 356</ref>
+            </li>
+            <li>
+                <gd><m>an impis teicheadh</m></gd>
+                <tr>on the eve of scampering</tr>
+                <ref text="602">td. 541</ref>
+            </li>
+            <li>
+                <gd><m>an impis a bhi</m> sgàinte</gd>
+                <tr>like to burst</tr>
+                <ref text="602">td. 541</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">Transitive examples with inversion – <xl id="transitive-inversion">
+            <li>
+                <gd>Bha e<m> an ìmpis an dorus a bhristeadh</m> asteach roimhe anuair a dh’fhosgail
+                    boireannach mór ruadh e agus thug i rabhadh is àithne dha a theicheadh le
+                    bheatha mun tigeadh a bràithrean dhachaidh.</gd>
+                <tr>He was about to break into the door ...</tr>
+                <ref text="400-30">td. 106</ref>
+            </li>
+            <li>
+                <gd>Chaidh deich thaighean tomadach snasail a thogail as ùr o chionn ghoirid, agus
+                    thathar <m>an impis sia eile thogail</m> an dràsda.</gd>
+                <tr>... six others are about to be built ...</tr>
+                <ref text="400-78">td. 131</ref>
+            </li>
+            <li>
+                <gd>’S ann a bha e spìonadh na luibhean grannda, gun fheum a bha <m>an impis an
+                        tuirneip agus mùiran-buidhe [sic!] a thachdadh</m>.</gd>
+                <tr>... about to ... ??</tr>
+                <ref text="43">td. 43</ref>
+            </li>
+            <li>
+                <gd><m>an impis an dùthaich fhàgail</m></gd>
+                <tr>on the point of leaving the country</tr>
+                <ref text="605">td. 22</ref>
+            </li>
+            <li>
+                <gd><m>an impis a chiall a chall</m></gd>
+                <tr>almost losing his reason</tr>
+                <ref text="602">td. 541</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">Transitive examples with possessive determiners – <xl id="transitive-possessive">
+            <li>
+                <gd>Bha ’ghaoth a bha e tarruinn <m>an impis mo thilgeadh dheth</m>, ach bha mo
+                    dheich iongan an greim-bais ris a’ roth, ’s gun mi faighinn m’ anail ach le
+                    riasladh.</gd>
+                <tr>The wind (= turbulence) that it (= the car) was creating nearly threw me of it
+                    ...</tr>
+                <ref text="34">td. 16</ref>
+            </li>
+            <li>
+                <gd>A thaobh fuinn nan salm tha eagal air gu bheil dòighean ùra <m>an ìmpis am
+                        milleadh</m>.</gd>
+                <tr>... about to destroy them ??</tr>
+                <ref text="400-56">td. 380</ref>
+            </li>
+            <li>
+                <gd>Cha e mhàin gun cluinnear manadh leis a’ chluais, ach fairichear e leis a’
+                    bhiodaig cuideachd. Tha cuimhne agam air boireannach a bhith ag innse dhomh uair
+                    gun do dh’fhairich i is i anns an leabaidh, cudthrom anabarrach a’ tighinn oirre
+                    a bha <m>an impis a mort</m>. Mhair e mu thuaiream trì mionaidean, ’s an sin,
+                    thog e dhith.</gd>
+                <tr> ... about to kill her ??</tr>
+                <ref text="400-57">td. 88</ref>
+            </li>
+            <li>
+                <gd>Bha na tonnan <m>an impis an slugadh</m>.</gd>
+                <tr>The waves were on the point of engulfing them.</tr>
+                <ref text="601">td. 356</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">Other forms – <b>an imfhios</b>, <b>an imis</b>.</p>
+    <p lang="gd">...</p>
+    <p lang="en">cf. Other markers of prospective aspect – <a href="?gd=gu-prospective">gu(s)</a>,
+            <a href="?gd=lunn">air lunn</a>, <a href="?gd=beul">air bheul</a>, <a href="?gd=tuar"
+            >air thuar</a> (evidential).</p>
+    <p lang="gd">...</p>
+</module>

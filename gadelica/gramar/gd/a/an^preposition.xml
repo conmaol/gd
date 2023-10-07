@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>an</h>
+  <p><g>an</g>
+    <en>in(side), within</en> is the (non-leniting) inessive <a href="?xx=prepositions/prepositions"
+      >preposition</a>.</p>
+  <p>The inessive preposition should not be confused with other uses of the particle <a
+      href="?gd=an"><g>an</g></a>.</p>
+  <section>
+    <h>forms</h>
+    <section id="indefinite">
+      <h>indefinite</h>
+      <p>The default form of the inessive preposition is the reduplicated <g>ann an</g> – <ul>
+          <li><m>ann an</m> taigh <en>in a house</en></li>
+          <li><m>ann an</m> aislingean <en>in dreams</en></li>
+          <li><m>ann an</m> Nirribhidh <en>in Norway</en></li>
+          <li><m>ann an</m> trì làithean <en>in three days</en></li>
+        </ul>
+      </p>
+      <p>When the immediately following word begins with a labial consonant (ie. <g>b-</g>,
+          <g>p-</g>, <g>m-</g>, <g>f-</g>) the (assimilated, co-articulated) form <g>ann am</g> is
+        used instead – <ul>
+          <li><m>ann am</m> bròig <en>in a shoe</en></li>
+          <li><m>ann am</m> Pàrlamaid na h-Alba <en>in the Scottish Parliament</en></li>
+          <li><m>ann am</m> Machair Aonghais <en>in Angus</en></li>
+          <li><m>ann am</m> fichead latha <en>in twenty days</en></li>
+        </ul>
+      </p>
+      <p>Note that the non-reduplicated form <g>an</g> (or <g>am</g> before labials) is sometimes
+        found as well.</p>
+    </section>
+    <section id="definite">
+      <h>definite</h>
+      <p>When the immediately following word is a form of the definite article, the linking form
+          <g>anns</g> is used – <ul>
+          <li><m>anns an</m> taigh <en>in the house</en></li>
+          <li><m>anns a’</m> bhaile <en>in the town</en></li>
+          <li><m>anns na h-</m>aislingean <en>in the dreams</en></li>
+        </ul>
+      </p>
+      <!--<p><ed>Add note on ‘anns a-màireach’, ‘anns a h-uile ...’, ‘anns a bheil ...’</ed></p>-->
+      <p>Note the following commonly used, fused forms – <ul>
+          <li><m>san</m> taigh <en>in the house</en> ≈ <g>anns an</g> taigh</li>
+          <li><m>sa</m> bhaile <en>in the town</en> ≈ <g>anns a’</g> bhaile</li>
+          <li><m>sna h-</m>aislingean <en>in the dreams</en> ≈ <g>anns na h-</g>aislingean</li>
+        </ul>
+      </p>
+      <p>Note also that these fused forms are occasionally found in older texts with an initial
+        apostrophe – <g>’san taigh</g>, <g>’sa bhaile</g>, ...</p>
+      <p>It is common to use fused forms when the immediately following word is a <a
+          href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+          <li><m>’nam</m> thaigh <en>in my house</en> ≈ <g>ann am mo</g> thaigh</li>
+          <li><m>’nad</m> bhaile <en>in your town</en> ≈ <g>ann an do</g> bhaile</li>
+          <li><m>’na h-</m>òran <en>in her song</en> ≈ <g>ann an a h-</g>òran</li>
+          <li><m>’na</m> chraoibh <en>in his tree</en> ≈ <g>ann an a</g> chraoibh</li>
+          <li><m>’nar n-</m>achadh <en>in our field</en> ≈ <g>ann an ar n-</g>achadh</li>
+          <li><m>’nur</m> leapannan <en>in your beds</en> ≈ <g>ann am bhur</g> leapannan</li>
+          <li><m>’nan</m> taighean <en>in their houses</en> ≈ <g>ann an an</g> taighean</li>
+          <li><m>’nam</m> baile <en>in their town</en> ≈ <g>ann an am</g> baile</li>
+        </ul>
+      </p>
+      <p>Note that the fused forms are usually written without the initial apostrophe nowadays,
+        which can lead to confusion with forms of the definite article.</p>
+    </section>
+    <section id="pronouns">
+      <h>prepositional pronouns</h>
+      <p>Conjugated prepositions are used in place of <bad>ann am mi</bad>, <bad>ann an t(h)u</bad>,
+        ... , <bad>ann an iad</bad> – <ul>
+          <li><m>annam</m>
+            <en>in me</en></li>
+          <li><m>annad</m>
+            <en>in you</en></li>
+          <li><m>innte</m>
+            <en>in her/it</en></li>
+          <li><m>ann</m>
+            <en>in him/it</en></li>
+          <li><m>annainn</m>
+            <en>in us</en></li>
+          <li><m>annaibh</m>
+            <en>in you</en></li>
+          <li><m>annta</m>
+            <en>in them</en></li>
+        </ul>
+      </p>
+      <p>There are also emphatic forms (cf. <bad>ann am mise</bad>, <bad>ann an t(h)usa</bad>, ... ,
+          <bad>ann an iadsan</bad>) – <ul>
+          <li><m>annamsa</m>
+            <en>in <emph>me</emph></en></li>
+          <li><m>annadsa</m>
+            <en>in <emph>you</emph></en></li>
+          <li><m>inntese</m>
+            <en>in <emph>her/it</emph></en></li>
+          <li><m>annsan</m>
+            <en>in <emph>him/it</emph></en></li>
+          <li><m>annainne</m>
+            <en>in <emph>us</emph></en></li>
+          <li><m>annaibhse</m>
+            <en>in <emph>you</emph></en></li>
+          <li><m>anntasan</m>
+            <en>in <emph>them</emph></en></li>
+        </ul>
+      </p>
+      <p>Finally, there are also reflexive forms (cf. <bad>ann am mi fhìn</bad>, <bad>ann an t(h)u
+          fhèin</bad>, ... , <bad>ann an iad fhèin</bad>) – <ul>
+          <li><m>annam fhìn</m>
+            <en>in myself</en></li>
+          <li><m>annad fhèin</m>
+            <en>in yourself</en></li>
+          <li><m>innte fhèin</m>
+            <en>in herself/itself</en></li>
+          <li><m>ann fhèin</m>
+            <en>in himself/itself</en></li>
+          <li><m>annainn fhìn</m>
+            <en>in ourselves</en></li>
+          <li><m>annaibh fhèin</m>
+            <en>in yourself</en></li>
+          <li><m>annta fhèin</m>
+            <en>in themselves</en></li>
+        </ul>
+      </p>
+    </section>
+  </section>
+
+  <section>
+    <h>dependents</h>
+    <section id="deps-comp">
+      <h>complement</h>
+      <p>Like all (true) prepositions, <g>an</g> governs a noun complement in the dative case.</p>
+      <p>These complements can belong to a number of different semantic classes.</p>
+      <section id="deps-comp-human">
+        <h>humans</h>
+      </section>
+
+
+
+      <p>Some examples – <ul>
+          <li><g>ann am <a href="?gd=bogsa">bogsa</a></g>
+            <en>in a box</en></li>
+          <li><g>ann an <a href="?gd=càr">càr</a></g>
+            <en>in a car</en></li>
+          <li><g>ann an <a href="?gd=làmh">làimh</a></g>
+            <en>in someone’s hand</en></li>
+        </ul>
+      </p>
+
+      <module id="countries">
+        <h>with names of countries</h>
+        <h lang="gd">...</h>
+        <p>Biblical examples – <xl id="basic-exs">
+            <li>
+              <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig do’n Eiphit; thàinig gach
+                duine agus a theaghlach maille re Iacob: Reuben, Simeon, Lebhi, agus Iudah, [...]
+                Agus na h-anman uile a thàinig a mach a leasraidh Iacoib, bu deich agus tri fichead
+                anam iad; oir bha Ioseph <m>’san Eiphit</m> a cheana. [...]</gd>
+              <tr>Now these are the names of the children of Israel, which came into Egypt; every
+                man and his household came with Jacob. Reuben, Simeon, Levi, and Judah, [...] And
+                all the souls that came out of the loins of Jacob were seventy souls: for Joseph was
+                in Egypt already. [...] [KJV]</tr>
+              <ref text="160">Ecsodus I.1–5</ref>
+            </li>
+          </xl>
+        </p>
+
+      </module>
+
+      <module id="towns">
+        <h>with names of towns and cities</h>
+        <p>Examples from Gairm – <xl id="gairm">
+            <li>
+              <gd>Ma rannsaicheas sinn air ais fada gu leòir chì sinn nach robh sgoilean <m>anns an
+                  Oban</m> gus an ochdamh linn deug. Bha an sgoil bheag a b’ fhaisge air anns a’
+                Chill Mhóir cóig mìle air falbh, agus tha e coltach gu robh an sgoil sin air an
+                fheadhainn bu shine an Earra-Ghaidheal.</gd>
+              <tr>If we research back long enough we will see that there were no schools in Oban
+                until the eighteenth century. The closest little school was in Kilmore five miles
+                away, and it appears that that school was one of the oldest in Argyll.</tr>
+              <ref text="400-20">td. 363</ref>
+            </li>
+          </xl>
+        </p>
+      </module>
+    </section>
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section id="uses-comp">
+      <h>complement</h>
+      <p><g>an</g> can be used to introduce the complement of certain verbs – <ul>
+          <li><g><a href="?gd=tilg">tilg</a> ann an</g>
+            <en>throw something into something</en></li>
+        </ul>
+      </p>
+    </section>
+    <section id="uses-mod">
+      <h>modifier</h>
+      <p><g>an</g> can be used to introduce a modifier of a noun – <ul>
+          <li>older pedagogical examples – <xl id="an-older-pedag">
+              <li>
+                <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh. Thubhairt mo
+                  mhàthair, “An téid thu do bhocsa nan litrichean leis an litir seo, Iain?” “Théid,”
+                  ars Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi i is gus an cuir mi
+                  seòladh oirre. Ceannaich fhéin stamp agus cuir oirre i.” Tha Iain a’ ruith sìos an
+                  rathad leis <m>an litir ’na làimh</m>. </gd>
+                <tr>My mother is writing a letter to my father who is away. My mother said, “Will
+                  you go to the postbox with this letter, John?” “Yes, I will,” said John, “I will
+                  leave now.” “Wait until I seal it and put an address on it. Buy a stamp and put it
+                  on it.” John is running down the road with the letter in his hand. </tr>
+                <ref text="621">td. 5</ref>
+              </li>
+            </xl>
+          </li>
+        </ul>
+      </p>
+      <p>Or a modifier of a verb – <ul>
+          <li>older pedagogical examples – <xl id="an-verb-older-pedag">
+              <li>
+                <gd>Bha an latha brèagha blàth is <m>thug</m> an athair leis Iain agus Anna <m>anns
+                    a’ chàr</m>. [...]</gd>
+                <tr>The day was lovely and warm and their father took John and Ann in the car.
+                  [...]</tr>
+                <ref text="621">td. 6</ref>
+              </li>
+            </xl>
+          </li>
+        </ul>
+      </p>
+
+    </section>
+  </section>
+
+  <!--
+  <hr/>
+  <h><i>an(n)</i> as a locative preposition</h>
+  <ul>
+    <li><m>Tha taigh Raonaid <u>ann an Glaschu</u></m>
+      <en>Rachel’s house is in Glasgow</en></li>
+  </ul>
+  <ulx id="locative">
+    <li>
+                <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os
+                    cionn obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach ag
+                    ath-nuadhachadh dreach a’ Chomuinn. [...] Ach dh’ fheumadh am Fear-stiùiridh ùr
+                    barrachd air a sin a dhèanamh. Dh’ fheumadh e siubhal a dhèanamh eadar Rubha
+                    Robhanais agus Ceann Bharraidh, eadar am Parbh is Maol Chinn-tìre, agus cha
+                    deanadh math dha dìochuimhneachadh gu robh obair a’ Chomuinn <m>a’ buntainn
+                        ri</m> Coimisean nan Croitearan an Inbhirnis, ri Roinn an Fhoghluim an
+                    Dùn-Eideann, agus ri Tigh nan Cumantan an Lunnainn.</gd>
+                <tr>The Highland Society is talking about choosing a new General who will oversee
+                    the Society’s work. [...] He would have enough to do initially reforming the
+                    Society. [...] But the new leader would have to do more than (just) that. He
+                    would have to travel between the Butt of Lewis and Barra Head, between Cape
+                    Wrath and the Mull of Kintyre, and he should not forget that the Society’s work
+                        is related to the Crofters’ Commission in Inverness, to the Education
+                    Department in Edinburgh, and to the House of Commons in London.</tr>
+                <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+            </li>
+    <lix>
+      <gd>Rugadh am feallsanach Soren Kierkegaard ann sa’ bhliadhna 1813, <m>an Copenhagen</m> far
+        na bhàsaich e nuair a bha e dà fhichead, ’s a dhà.</gd>
+      <tr>The philosopher Soren Kierkegaard was born in 1813, <u>in Copenhagen</u> where he died
+        when he was 42.</tr>
+      <ref text="400-41">td. 103</ref>
+    </lix>
+    <lix>
+      <gd><m>Ann an Dùn Èideann</m> anns na naochadan bha barrachd agus barrachd inbhich airson
+        Gàidhlig ionnsachadh.</gd>
+      <tr><u>In Edinburgh</u> in the 90s there were more and more people wanting to learn
+        Gaelic.</tr>
+      <ref text="610">td. 85</ref>
+    </lix>
+  </ulx>
+  <hr/>
+  <h id="temporal"><i>an(n)</i> as a temporal preposition</h>
+  <p>With years – <ulx id="year">
+      <lix>
+        <gd>Rugadh am feallsanach Soren Kierkegaard <m>ann sa’ bhliadhna 1813</m>, an Copenhagen far
+          na bhàsaich e nuair a bha e dà fhichead, ’s a dhà.</gd>
+        <tr>The philosopher Soren Kierkegaard was born <u>in 1813</u>, in Copenhagen where he died
+          when he was 42.</tr>
+        <ref text="400-41">td. 103</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p>With decades – <ulx id="decades">
+      <lix>
+        <gd>Ann an Dùn Èideann <m>anns na naochadan</m> bha barrachd agus barrachd inbhich airson
+          Gàidhlig ionnsachadh.</gd>
+        <tr>In Edinburgh <u>in the 90s</u> there were more and more people wanting to learn
+          Gaelic.</tr>
+        <ref text="610">td. 85</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p>With time intervals – <ulx id="time-extent">
+      <lix>
+        <gd><m>Ann an dà bhliadhna dheug</m> sgrìobh e fichead leabhar ’s a h-aon ’s dh’ fhàg e
+          grunn mór phàipearan a chùl air a sin.</gd>
+        <tr><u>In 12 years</u> he [Kierkegaard] wrote 21 books and he left behind a large quantity
+          of papers.</tr>
+        <ref text="400-41">td. 103</ref>
+      </lix>
+    </ulx>
+  </p>
+  <hr/>
+  <h id="aspectual"><i>an(n)</i> as an aspectual preposition</h>
+  <p>Consider the following example –</p>
+  <ul>
+    <li><m><u>Bha</u> Raghnall <u>na shuidhe</u> fon a’ chraoibh</m>
+      <en>Ronald was sitting/sat under the tree</en>, literally <en>Ronald was <u>in his sitting</u>
+        ...</en></li>
+  </ul>
+  <p>Here, the prepositional form <strong>na</strong> (= <strong>ann an a</strong>
+    <en>in his</en>) serves as the predicate of the verb <strong>bha</strong>
+    <en>was</en>, and the incorporated personal determiner (‘possessive adjective’)
+      <strong>a</strong>
+    <en>his</en> agrees with the subject of <strong>bha</strong>, ie. <strong>Raghnall</strong>
+    <en>Ronald</en>, cf. <m>bha <u>Ealasaid</u>
+      <u>na</u> suidhe</m>
+    <en>Elizabeth was sitting/sat</en>, <m>bha <u>sibh</u>
+      <u>nur</u> suidhe</m>
+    <en>you were sitting/sat</en> &amp;c. The complement of the preposition is the verbal noun
+      <strong>suidhe</strong>
+    <en>sitting</en>, derived from the inchoative/perfective (‘change of state’) verb
+      <strong>suidh</strong>
+    <en>sit (down), become seated</en>. Thus, while <m>shuidh Raghnall</m>
+    <en>Ronald sat (down)</en> describes an event, the sentence <m>bha Raghnall na shuidhe</m>
+    describes the state resulting from such an event – <en>Ronald is in the state of having sat
+      down</en>.</p>
+  <p>This idiom can be used with the following inchoative verbs –</p>
+  <ul>
+    <li><strong>suidh</strong>
+      <en>sit (down)</en>, eg. <m>shuidh e</m>
+      <en>he sat (down)</en>, <m>bha e na shuidhe</m>
+      <en>he was sitting/seated/sedentary</en>
+      <ulx id="suidh">
+        <lix>
+          <gd>Bha ise <m>’na suidhe</m> air a’ bhruaich is a cùl ris, is a casan rùisgte anns a’
+            bhùrn fhuar, is i a’ plubadaich leotha air a socair.</gd>
+          <tr>She was sitting on the bank with her back to him, and her bare feet in the cold water,
+            and splashing with them leisurely.</tr>
+          <ref text="40">td. 69</ref>
+        </lix>
+        <lix>
+          <gd>Bha sinn <m>’nar suidhe</m> air balla ìosal mu choinneamh Tigh Dhréimisdail [...]</gd>
+          <tr>We were sitting on a low wall in front of Drimsdale House [...]</tr>
+          <ref text="36">td. 32</ref>
+        </lix>
+        <lix>
+          <gd>Bha iad uile <m>’nan suidhe</m> aig am biadh, an triùir aca. Sheas a h-athair ’s
+            thubhairt e [...]</gd>
+          <tr>They were all sitting at [their] dinner, the three of them. Her father stood up and he
+            said [...]</tr>
+          <ref text="198">td. 31</ref>
+        </lix>
+        <lix>
+          <gd> Bha mi <m>nam shuidhe</m> air bruaich uaine ri taobh cidhe beag.</gd>
+          <tr>I was sitting on a green bank beside a little quay.</tr>
+          <ref text="2">td. 44</ref>
+        </lix>
+      </ulx>
+    </li>
+    <li><strong>seas</strong>
+      <en>stand (up)</en>, eg. <m>sheas mi</m>
+      <en>I stood (up)</en>, <m>bha mi nam sheasamh</m>
+      <en>I was standing/stood up/upright</en>
+      <ulx id="seas">
+        <lix>
+          <gd>Bha i <m>’na seasamh</m> ri balla aosd na colaisde [...]</gd>
+          <tr>She was sitting on the old wall of the college [...]</tr>
+          <ref text="205">td. 26</ref>
+        </lix>
+        <lix>
+          <gd>Cò an nighean tha <m>na seasamh</m> leatha fhèin an sin?</gd>
+          <tr>Who is the girl who is sitting there on her own?</tr>
+          <ref text="608">td. 120</ref>
+        </lix>
+        <lix>
+          <gd>Bha mi <m>nam sheasamh</m> air a’chathair.</gd>
+          <tr>I was standing on the chair.</tr>
+          <ref text="601">td. 509</ref>
+        </lix>
+      </ulx>
+    </li>
+    <li><strong>laigh</strong>
+      <en>lie (down)</en>, eg. <m>laigh iad</m>
+      <en>they lay down</en>, <m>bha iad nan laighe</m>
+      <en>they were lying/lain down/recumbant</en>
+      <ulx id="laigh">
+        <lix>
+          <gd>Shaoileadh duine gu robh cuideam <m>’na laighe</m> air a dhruim.</gd>
+          <tr>A man would think that there was a weight lying on his back.</tr>
+          <ref text="198">td. 62</ref>
+        </lix>
+        <lix>
+          <gd>Tha an cat <m>na laighe</m> sa chidsin.</gd>
+          <tr>The cat is lying in the kitchen.</tr>
+          <ref text="608">td. 120</ref>
+        </lix>
+        <lix>
+          <gd>Bha na duilleagan <m>nan laighe</m> air an làr.</gd>
+          <tr>The leaves were lying on the ground.</tr>
+          <ref text="601">td. 39</ref>
+        </lix>
+      </ulx>
+    </li>
+    <li><strong>sìn</strong>
+      <en>stretch (out), lie (down)</en>, eg. <m>shìn thu</m>
+      <en>you stretched out</en>, <m>bha thu nad shìneadh</m>
+      <en>you were stretched out</en>
+      <ulx id="sin">
+        <lix>
+          <gd>Bhiodh iad <m>nan sìneadh</m> gu seasgar anns na leapannan [...]</gd>
+          <tr>They would be stretched out snugly in the beds [...]</tr>
+          <ref text="217-4">td. 122–3</ref>
+        </lix>
+        <lix>
+          <gd>Chunnaic e bean an dotair aon là <m>na sìneadh</m> anns a’ ghrèin gun stiall oirre ach
+            bikini.</gd>
+          <tr>He saw the doctor’s wife one day stretched out in the sun, naked apart from a
+            bikini.</tr>
+          <ref text="2">td. 66</ref>
+        </lix>
+        <lix>
+          <gd>Bha an cat <m>na shìneadh</m> gu cadalach anns a’ bhlàths.</gd>
+          <tr>The cat was stretched out sleepily in the warmth.</tr>
+          <ref text="601">td. 106</ref>
+        </lix>
+      </ulx>
+    </li>
+    <li><strong>dùisg</strong>
+      <en>wake (up)</en>, eg. <m>dhùisg sinn</m>
+      <en>we woke (up)</en>, <m>bha sinn nar dùisg/dùsgadh</m>
+      <en>we were awake</en>
+      <ulx id="duisg">
+        <lix>
+          <gd>A Dhiarmaid! am bheil thu <m>’nad dhùsgadh</m>?</gd>
+          <tr>Dermot! Are you awake?</tr>
+          <ref text="217-1">td. 214</ref>
+        </lix>
+        <lix>
+          <gd>Faodaidh an gille a bhith <m>’na dhuisg</m> [...]</gd>
+          <tr>The boy may be awake [...]</tr>
+          <ref text="400-151">td. 236</ref>
+        </lix>
+        <lix>
+          <gd>Aig an dara bùth chun deach iad bha an ceannaiche agus a bhean <m>nan dùisg</m>, oir
+            bha an leanabh aca tinn agus bha iad a’ feitheamh ris an dotair.</gd>
+          <tr>at the second store they went to the owener and his wife were awake, because their
+            child was sick and thet were waiting for the doctor.</tr>
+          <ref text="2">td. 53</ref>
+        </lix>
+        <lix>
+          <gd>Bha sinn <m>nar dùisg</m> fad na h-oidhche.</gd>
+          <tr>We were awake all night long.</tr>
+          <ref text="608">td. 120</ref>
+        </lix>
+        <lix>
+          <gd>A bheil thu nad chadal fhathast? Chan eil. ’S ann a tha mi <m>nam dhùisg</m>.</gd>
+          <tr>Are you asleep still/yet? No. I am awake.</tr>
+          <ref text="607">td. 276</ref>
+        </lix>
+        <lix>
+          <gd>Bha i <m>na leth-dhùsgadh</m>.</gd>
+          <tr>She was half-awake.</tr>
+          <ref text="605">td. 161</ref>
+        </lix>
+        <lix>
+          <gd>Bha i <m>na làn dhùisg</m> a-nise.</gd>
+          <tr>She was fully awake now.</tr>
+          <ref text="601">td. 251</ref>
+        </lix>
+      </ulx>
+    </li>
+    <li><strong>stad</strong>
+      <en>stop, come to a halt</en>, eg. <m>stad i</m>
+      <en>she stopped</en>, <m>bha i na stad</m>
+      <en>she was stopped/stationary/at a standstill</en>
+      <ulx id="stad">
+        <lix>
+          <gd>Cha robh i fada <m>’na stad</m> nuair a dh’fhairich i bhith ’ga togail suas ’san
+            athar.</gd>
+          <tr>She had not been stooped for long when she felt herself being lifted up into the
+            air.</tr>
+          <ref text="294">td. 27</ref>
+        </lix>
+        <lix>
+          <gd>Tha a’ chùis <m>na stad</m>.</gd>
+          <tr>The affair/matter/business is at a standstill.</tr>
+          <ref text="605">td. 353</ref>
+        </lix>
+        <lix>
+          <gd>Bha na càraichean <m>nan stad</m> fad uair a thìde.</gd>
+          <tr>The cars were stopped/stationary for an hour.</tr>
+          <ref text="608">td. 120</ref>
+        </lix>
+      </ulx>
+    </li>
+  </ul>
+  <p>Predicates like <strong>na[m] shuidhe</strong> can occur in a few other verbal
+    constructions – <ulx id="xx_na_vn">
+      <lix>
+        <gd>Dh’èirich e <m>na sheasamh</m>.</gd>
+        <tr>He stood up.</tr>
+        <ref text="601">td. 509</ref>
+      </lix>
+      <lix>
+        <gd>Dh’èirich e <m>na shuidhe</m>.</gd>
+        <tr>He sat up.</tr>
+        <ref text="601">td. 556</ref>
+      </lix>
+      <lix>
+        <gd>Leum e <m>na sheasamh</m>.</gd>
+        <tr>He leapt to his feet.</tr>
+        <ref text="601">td. 509</ref>
+      </lix>
+      <lix>
+        <gd>Chuir iad an crann <m>na sheasamh</m>.</gd>
+        <tr>They stepped the mast.</tr>
+        <ref text="601">td. 509</ref>
+      </lix>
+      <lix>
+        <gd>cuir cuideigin <m>na shuidhe</m>.</gd>
+        <tr>seat someone, sit someone down</tr>
+        <ref text="605">td. 358</ref>
+      </lix>
+      <lix>
+        <gd>Fhuair mi Francis <m>’na dhùisg</m>, agus bha e anabarrach toilichte m’ fhaicinn.</gd>
+        <tr>I found Francis awake, and he was very happy to see me.</tr>
+        <ref text="81-9-18">td. 2</ref>
+      </lix>
+      <lix>
+        <gd>’Nuair bha i tighinn faisg air an fhearann, chunnaic i duine <m>’na shuidhe</m> air
+          carraig am beul an làin, agus stiùir i direach air.</gd>
+        <tr>When she was coming close to the land, she saw a man sitting on a rock in front of the
+          tide[?], and she steered straight for him.</tr>
+        <ref text="199">td. 298</ref>
+      </lix>
+      <lix>
+        <gd>Thug mi sùil os mo chionn ach gu dé an nì a bha ’gam chumail <m>’nam stad</m>.</gd>
+        <tr>I looked up but what thing was keeping me stationary.</tr>
+        <ref text="400-11">td. 273</ref>
+      </lix>
+      <lix>
+        <gd>Mus sealladh tu riut fhèin rinn iad as aig peilear am beatha, a’ fàgail a’ chàir <m>na
+            stad</m> far an robh e.</gd>
+        <tr>Before you would look at yourself (?), they ran for their lives, leaving the car stopped
+          where it was</tr>
+        <ref text="309">td. 8</ref>
+      </lix>
+      <lix>
+        <gd>Chuir e a ghunna <m>’na laighe</m> air an talamh [...]</gd>
+        <tr>He laid his gun on the ground [...]</tr>
+        <ref text="204">td. 36</ref>
+      </lix>
+      <lix>
+        <gd>Dh’éirich an saighdear <m>’na sheasamh</m> air an ùrlar.</gd>
+        <tr>The soldier stood up on the floor.</tr>
+        <ref text="217-1">td. 111</ref>
+      </lix>
+      <lix>
+        <gd>Chaidh athair <m>’na stad</m> mar uaireadair a’ dol a bhualadh.</gd>
+        <tr>His father stopped like a clock that was going to strike.</tr>
+        <ref text="204">td. 44</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p>They can also appear as noun modifiers – <ulx id="n_mod">
+      <lix>
+        <gd>figear <m>na laighe</m></gd>
+        <tr>a reclining/recumbant figure</tr>
+        <ref text="605">td. 238</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p>Note that these six inchoative verbs can also occur with the usual imperfective
+    particle <a href="?gd=ag">ag</a>, but with a progressive or habitual reading, rather than a
+    resultative one –</p>
+  <ul>
+    <li><m>Bha Raghnall <u>a’ suidhe</u> fon a’ chraoibh</m>
+      <en>Ronald was in the process of sitting (himself) down under the tree; Ronald used to sit
+        (down) under the tree</en></li>
+  </ul>
+  <p>Examples – <ulx id="ag">
+      <lix>
+        <gd>Tha a’ ghaoth <m>a’ laighe</m> a-nis.</gd>
+        <tr>The wind’s subsiding now.</tr>
+        <ref text="605">td. 238</ref>
+      </lix>
+      <lix>
+        <gd>“Cha tèid mi ann,” ars esan, is e <m>a’ suidhe</m> sìos a-rithist.</gd>
+        <tr>“I shan’t go,” he said, sitting down again.</tr>
+        <ref text="601">td. 556</ref>
+      </lix>
+      <lix>
+        <gd>Tha mi <m>a’ suidhe</m> – tha mi a’ gluasad gu bith a’ cur mo thòin sa chathair.</gd>
+        <tr>I am sitting down – I am moving to be putting my buttocks on the chair.</tr>
+        <ref text="607">td. 276</ref>
+      </lix>
+      <lix>
+        <gd>Tha seo <m>a’ dùsgadh</m> cuimhne air ...</gd>
+        <tr>This awakens memories of ...</tr>
+        <ref text="601">td. 251</ref>
+        <note>transitive usage in this example</note>
+      </lix>
+    </ulx>
+  </p>
+  <p>Note also that other inchoative verbs cannot occur in this construction – <bad>tha
+      Seumas na bhàsachadh</bad> and <bad>tha mi nam thuiteam</bad> are unacceptable for <en>James
+      is dead</en> or <en>I have fallen</en>. <ed>Contrast with other resultative constructions eg.
+      glaiste, air a ghlasadh? cf. Cox p. 276: Bha mi dùisgte. An robh thu dùisgte? (Islay,
+      Argyll).</ed></p>
+  <hh>bi na[m] chadal</hh>
+  <p>Although <strong>caidil</strong>
+    <en>sleep</en> is not an inchoative verb (but rather an imperfective/activity verb), it is used
+    in this construction as well, eg.</p>
+  <ul>
+    <li><m>Tha Dòmhnall <u>na chadal</u></m>
+      <en>Donald is asleep</en></li>
+  </ul>
+  <p>Examples – <ulx id="na_cadal">
+      <lix>
+        <gd>Ach ged a bha mo shuilean duinte, cha robh mi <m>’nam chadal</m> idir [...]</gd>
+        <tr>But though my eyes were closed, I was not at all asleep [...]</tr>
+        <ref text="232-1">td. 67</ref>
+      </lix>
+      <lix>
+        <gd>Bha Ailig <m>na chadal</m> air an t-sòfa, a bhroinn làn uisge-beatha, agus am botal ’s
+          a’ ghlainne air bòrd beag ri thaobh.</gd>
+        <tr>Alec was asleep on the sofa, his belly full of whisky, and the bottle and the glass on a
+          little table beside him.</tr>
+        <ref text="2">td. 110</ref>
+      </lix>
+      <lix>
+        <gd>Bha mi <m>nam chadal</m> anns a’ chathair</gd>
+        <tr>I was sleeping in the chair</tr>
+        <ref text="601">td. 107</ref>
+      </lix>
+      <lix>
+        <gd>A bheil thu <m>nad chadal</m> fhathast? Chan eil. ’S ann a tha mi nam dhùisg.</gd>
+        <tr>Are you still asleep? No, I am awake.</tr>
+        <ref text="607">td. 276</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p>Other constructions – <ulx id="cadal_other">
+      <lix>
+        <gd>Bha e eadar <m>a chadal</m> ’s a dhùisg.</gd>
+        <tr>He was between sleeping and waking.</tr>
+        <ref text="601">td. 106</ref>
+      </lix>
+      <lix>
+        <gd>An neach nach cinn <m>na chadal</m>, cha chinn e na dhùisg.</gd>
+        <tr>He who will not prosper in his sleep, will not prosper when awake.</tr>
+        <ref text="601">td. 106</ref>
+      </lix>
+      <lix>
+        <gd>Bhitheadh e a’ coiseachd <m>na chadal</m>.</gd>
+        <tr>He used to walk in his sleep.</tr>
+        <ref text="601">td. 106</ref>
+      </lix>
+      <lix>
+        <gd>Dh’fhàg e <m>’na chadal</m> e trì mìle bho’n uaimh.</gd>
+        <tr>He left him asleep three miles from the cave.</tr>
+        <ref text="205">td. 71</ref>
+      </lix>
+      <lix>
+        <gd>Ghrad thuit thu <m>nad chadal</m> [...]</gd>
+        <tr>Suddenly you fell asleep [...]</tr>
+        <ref text="81-10-24">td. 182</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p>The default imperfective <strong>a’ cadal</strong> is usually used with habitual
+    meaning – <ulx id="ag_cadal">
+      <lix>
+        <gd>Aon oidhche chuir e dà dhuine gu taigh an Deucoin airson Rob a phronnadh, ach nuair a
+          bhris iad a-steach bha leabaidh Roib falamh. Bha e air a bhith <m>a’ cadal</m> ann an
+          taigh nàbaidh bho dh’innis Mab dha an cunnart san robh e.</gd>
+        <tr>One night he sent two men to the Deacon’s house to rough up Rob, but when they broke in
+          Rob’s bed was empty. He had been sleeping at a neighbour’s house since Mab told him the
+          danger he was in.</tr>
+        <ref text="2">td. 115</ref>
+      </lix>
+    </ulx>
+  </p>
+  <hh>bi na[m] ruith</hh>
+  <p>The manner-of-motion (activity) verb <strong>ruith</strong>
+    <en>run</en> is also often used in this construction, eg.</p>
+  <ul>
+    <li><m>Bha sinn <u>nar ruith</u></m>
+      <en>we were running</en></li>
+  </ul>
+  <p>Examples – <ulx id="na_ruith">
+      <lix>
+        <gd>Tha i <m>na ruith</m>.</gd>
+        <tr>She is running.</tr>
+        <ref text="609">td. 51</ref>
+      </lix>
+      <lix>
+        <gd>Bha a’ chlann <m>nan ruith</m> anns a’ phàirc.</gd>
+        <tr>The children were running in the park.</tr>
+        <ref text="601">td. 39</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p>Other constructions – <ulx id="na_ruith_other">
+      <lix>
+        <gd>Dh’fhalbh iad <m>nan ruith</m>.</gd>
+        <tr>They went away at a run.</tr>
+        <ref text="605">td. 313</ref>
+      </lix>
+      <lix>
+        <gd><m>nan dian-ruith</m>.</gd>
+        <tr>at full tilt, hell for leather</tr>
+        <ref text="605">td. 313</ref>
+      </lix>
+      <lix>
+        <gd>Chunnaic mi sibh <m>nur ruith</m>.</gd>
+        <tr>I saw you running.</tr>
+        <ref text="607">td. 325</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p>The default imperfective <strong>a’ ruith</strong> is used with a direct object and
+    in idiomatic usages – <ulx id="ag_ruith">
+      <lix>
+        <gd>Chan eil an trèana / an t-uisge <m>a’ ruith</m>.</gd>
+        <tr>The train’s / the water’s not running.</tr>
+        <ref text="605">td. 313</ref>
+      </lix>
+      <lix>
+        <gd>ann a bhith <m>a’ ruith</m> a’ Mhòid</gd>
+        <tr>in running the Mod</tr>
+        <ref text="601">td. 494</ref>
+      </lix>
+      <lix>
+        <gd>Bha an cù glè dhèidheil air a bhith <m>ruith</m> clach.</gd>
+        <tr>The dog was very fond of chasing stones.</tr>
+        <ref text="601">td. 494</ref>
+      </lix>
+      <lix>
+        <gd>Bha sinn <m>a’ ruith</m> leis a’ ghaoith.</gd>
+        <tr>We were running before the wind.</tr>
+        <ref text="601">td. 495</ref>
+        <note>a sailing idiom</note>
+      </lix>
+    </ulx>
+  </p>
+  <p>cf. <strong>bha i na coiseachd</strong>
+    <en>she was walking</en> [2017 Richard Cox <i>Geàrr-Ghràmar na Gàidhlig</i> td. 276].</p>
+  <hh>bi na[m] chrùbadh/chrùban</hh>
+  <p><en>be crouched</en> – <ulx id="na_chruba">
+      <lix>
+        <gd>bha e <m>na chrùban</m> ri taobh na h-uinneig</gd>
+        <tr>he was crouched beside the window</tr>
+        <ref text="601">td. 183</ref>
+      </lix>
+      <lix>
+        <gd>Choimhead e air an dithis a bha <m>nan crùban</m> mun teine.</gd>
+        <tr>He looked at the pair who were crouched around the fire.</tr>
+        <ref text="601">td. 183</ref>
+      </lix>
+      <lix>
+        <gd>rach <m>nad chrùban</m></gd>
+        <tr>crouch</tr>
+        <ref text="601">td. 183</ref>
+      </lix>
+      <lix>
+        <gd>Chaidh e <m>na chrùban</m> ri a thaobh.</gd>
+        <tr>He crouched down beside him.</tr>
+        <ref text="601">td. 183</ref>
+      </lix>
+      <lix>
+        <gd>Bha iad <m>nan leth chrùban</m>.</gd>
+        <tr>They were half crouching.</tr>
+        <ref text="601">td. 183</ref>
+      </lix>
+      <lix>
+        <gd>Bha e <m>na chrùbadh</m>.</gd>
+        <tr>He was crouched.</tr>
+        <ref text="607">td. 276</ref>
+      </lix>
+      <lix>
+        <gd>Bha mi <m>nam chrùban</m>.</gd>
+        <tr>I was crouched.</tr>
+        <ref text="607">td. 325</ref>
+      </lix>
+    </ulx>
+  </p>
+  -->
+</module>

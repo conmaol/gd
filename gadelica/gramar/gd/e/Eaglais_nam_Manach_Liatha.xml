@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>Eaglais nam Manach Liatha</h>
+    <p><g><a href="?gd=eaglais">Eaglais</a> <a href="?gd=Na_Manaich_Liatha">nam
+            Manach Liatha</a></g>
+        <en>Greyfriars Kirk</en> is a <a href="?xx=nouns/toponymic_name_descriptions">toponymic
+            name-description</a>.</p>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>subject</h>
+            <p>Some examples – <xl id="uses-sbj">
+                    <li>
+                        <gd>Tha Eaglais nam Manach Liath co-cheangailte ri eachdraidh nan
+                            Cùmhnantach.</gd>
+                        <tr>Greyfriars Kirk is connected with the history of the Covenanters.</tr>
+                        <ref text="wiki">Eaglais nam Manach Liath</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>complement</h>
+            <p>Some examples – <xl id="uses-comp">
+                    <li>
+                        <gd>’S e eaglais pharaiste Eaglais na h-Alba ann an Dùn Èideann a th’ ann an
+                            Eaglais nam Manach Liath.</gd>
+                        <tr>Greyfriars Kirk is a parish church of the Church of Scotland located in
+                            Edinburgh.</tr>
+                        <ref text="wiki">Eaglais nam Manach Liath</ref>
+                    </li>
+                    <li>
+                        <gd>Tha carragh-cuimhne mòr do Dhonnchadh Bàn ann an Eaglais nam Manach
+                            Liath ann an Dùn Èideann.</gd>
+                        <tr>There is a large memorial to Duncan Ban in Greyfriars Kirk in
+                            Edinburgh.</tr>
+                        <ref text="wiki">Donnchadh Bàn Mac an t-Saoir</ref>
+                    </li>
+                </xl>
+            </p>
+            <p/>
+        </section>
+        <section>
+            <h>specifier</h>
+            <section>
+                <h>name descriptions</h>
+                <p><g><a href="?gd=cladh">Cladh</a> Eaglais nam Manach Liatha</g>
+                    <en>Greyfriars Kirkyard</en></p>
+            </section>
+        </section>
+    </section>
+</module>

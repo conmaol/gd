@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>ro</h>
+    <p><g>ro</g>
+        <en>before, in front of</en> is the (leniting) antessive <a
+            href="?xx=prepositions/prepositions">preposition</a>.</p>
+    <section>
+        <h>forms</h>
+        <section id="indefinite">
+            <h>indefinite</h>
+            <p>The default form of the antessive preposition is simply <g>ro</g> – <ul>
+                    <li><m>ro</m> thaigh <en>before a house</en></li>
+                    <li><m>ro</m> aislingean <en>before dreams</en></li>
+                    <li><m>ro</m> Nirribhidh <en>before Norway</en></li>
+                    <li><m>ro</m> thrì làithean <en>before three days</en></li>
+                </ul></p>
+        </section>
+        <!-- <p><ed>Note on older forms like <b>roimh</b>?</ed></p> -->
+
+        <section id="definite">
+            <h>definite</h>
+            <p>When the immediately following word is a singular form of the definite article, the
+                linking form <g>ron</g> is used – <ul>
+                    <li><m>ron an</m> taigh <en>before the house</en>, rather than <bad>ro an
+                            taigh</bad></li>
+                    <li><m>ron a’</m> bhaile <en>before the town</en>, rather than <bad>ro a’
+                            bhaile</bad></li>
+                </ul> But – <ul>
+                    <li><m>ro na h-</m>aislingean <en>before the dreams</en>, rather than <bad>ron
+                            na h-aislingean</bad></li>
+                </ul>
+            </p>
+            <!-- <p><ed>Add note on ‘ron a-màireach’, ‘ron a h-uile ...’, ‘ron a bheil ...’? Older forms
+                    with apostrophes?</ed></p> -->
+            <p>Note that <g>ron an</g> and <g>ron a’</g> often reduce to just <g>ron</g> – <g>ron
+                    taigh</g>, <g>ron bhaile</g>.</p>
+            <p>Fused forms are sometimes found when the immediately following word is a <a
+                    href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+                    <li><m>ro mo</m> thaigh <en>before my house</en> ≈ <g>rom</g> thaigh</li>
+                    <li><m>ro do</m> bhaile <en>before your town</en> ≈ <g>rod</g> bhaile</li>
+                    <li><m>ro a h-</m>òran <en>before her song</en> ≈ <g>ro h-</g>òran</li>
+                    <li><m>ro a</m> chraoibh <en>before his tree</en> ≈ <g>ro</g> chraoibh</li>
+                    <li><m>ro ar n-</m>achadh <en>before our field</en> ≈ <g>rar n-</g>achadh</li>
+                    <li><m>ro ur</m> leapannan <en>before your beds</en> ≈ <g>rur</g> leapannan</li>
+                    <li><m>ro an</m> taighean <en>before their houses</en> ≈ <g>ron</g>
+                        taighean</li>
+                    <li><m>ro am</m> baile <en>before their town</en> ≈ <g>rom</g> baile</li>
+                </ul></p>
+            <p>Note that these fused forms are rather awkward and sometimes ambiguous and hence are
+                best avoided in writing nowadays.</p>
+        </section>
+        <section id="pronouns">
+            <h>prepositional pronouns</h>
+            <p>Conjugated prepositions are used in place of <bad>ro mi</bad>, <bad>ro thu</bad>, ...
+                , <bad>ro iad</bad> – <ul>
+                    <li><m>romham</m>
+                        <en>before me</en></li>
+                    <li><m>romhad</m>
+                        <en>before you</en></li>
+                    <li><m>roimhpe</m>
+                        <en>before her/it</en></li>
+                    <li><m>roimhe</m>
+                        <en>before him/it</en></li>
+                    <li><m>romhainn</m>
+                        <en>before us</en></li>
+                    <li><m>romhaibh</m>
+                        <en>before you</en></li>
+                    <li><m>romhpa</m>
+                        <en>before them</en></li>
+                </ul>
+            </p>
+
+            <p>There are also emphatic forms (cf. <bad>ro mise</bad>, <bad>ro thusa</bad>, ... ,
+                    <bad>ro iadsan</bad>) – <ul>
+                    <li><m>romhamsa</m>
+                        <en>before <emph>me</emph></en></li>
+                    <li><m>romhadsa</m>
+                        <en>before <emph>you</emph></en></li>
+                    <li><m>roimhpese</m>
+                        <en>before <emph>her/it</emph></en></li>
+                    <li><m>roimhesan</m>
+                        <en>before <emph>him/it</emph></en></li>
+                    <li><m>romhainne</m>
+                        <en>before <emph>us</emph></en></li>
+                    <li><m>romhaibhse</m>
+                        <en>before <emph>you</emph></en></li>
+                    <li><m>romhpasan</m>
+                        <en>before <emph>them</emph></en></li>
+                </ul>
+            </p>
+            <p>Note that the form <g>roimhesan</g> breaks the ‘slender-to-slender, broad-to-broad’
+                spelling rule, and hence is sometimes found written with a hyphen –
+                    <g>roimhe-san</g>.</p>
+            <p>Finally, there are also reflexive forms (cf. <bad>ro mi fhìn</bad>, <bad>ro thu
+                    fhèin</bad>, ... , <bad>ro iad fhèin</bad>) – <ul>
+                    <li><m>romham fhìn</m>
+                        <en>before myself</en></li>
+                    <li><m>romhad fhèin</m>
+                        <en>before yourself</en></li>
+                    <li><m>roimhpe fhèin</m>
+                        <en>before herself/itself</en></li>
+                    <li><m>roimhe fhèin</m>
+                        <en>before himself/itself</en></li>
+                    <li><m>romhainn fhìn</m>
+                        <en>before ourselves</en></li>
+                    <li><m>romhaibh fhèin</m>
+                        <en>before yourselves</en></li>
+                    <li><m>romhpa fhèin</m>
+                        <en>before themselves</en></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section id="uses">
+        <h>uses</h>
+        <module id="cuir_ro" status="bronze">
+            <h>cuir ro</h>
+            <p>Corpus examples – <xl id="exs">
+                    <li>
+                        <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a
+                            bhios os cionn obair a’ Chomuinn. [...] Cha b’ fhuilear do dhuine de ’n
+                            t-seòrsa so tomhas mhath de chumhachd a bhith aige. Cha dean math dha a
+                            bhith air a shlaodadh aig tòin Coimitidh, ach feumaidh an Coimitidh
+                            earbsa a bhith aca ás. Bhiodh sin aca nan <m>cuireadh e obair
+                            romhpa</m>, agus nan tugadh e gu buil gach obair air an tugadh iad
+                            làmh.</gd>
+                        <tr>The Highland Society is talking about choosing a new General who will
+                            oversee the Society’s work. [...] A person of this kind would have to
+                            have a good measure of power. It would do him no good to be dragged
+                            along by the Committee <ed>??</ed>, but the Committee must have trust in
+                            him. They would have that if he would put work before them <ed>??</ed>,
+                            and if he would complete every job which they would get a hold of
+                                <ed>??</ed>.</tr>
+                        <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                    </li>
+                </xl>
+            </p>
+
+        </module>
+    </section>
+
+</module>

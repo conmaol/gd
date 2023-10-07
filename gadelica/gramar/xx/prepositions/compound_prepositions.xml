@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title>compound prepositions</title>
+  <p lang="en"><ed>under construction</ed></p>
+  <p>A compound <a href="?xx=prepositions/prepositions">preposition</a> is a complex construction consisting of a simple preposition and a noun complement. The noun itself takes an obligatory
+    specifier – either a preceding personal article or a following (traditionally genitive) noun.</p>
+  <p>Here is a list of compound prepositions –</p>
+
+  <ul>
+    <li><a href="?gd=aindeoin">a dh’aindeoin</a> <en>in spite of</en></li>
+    <li><strong>a chum</strong> <en>for the purpose of</en></li>
+    <li><strong>a dh’ionnsaigh</strong> <en>towards</en></li>
+    <li><strong>a rèir</strong> <en>according to</en></li>
+    <li><strong>a thaobh</strong> <en>regarding</en></li>
+    <li><a href="?gd=cùl">air cùlaibh</a> <en>behind</en></li>
+    <li><strong>air feadh</strong> <en>amongst</en></li>
+    <li><strong>air muin</strong> <en>on top of</en></li>
+    <li><strong>air sgàth</strong> <en>for the sake of</en></li>
+    <li><strong>air son</strong> <en>for</en></li>
+    <li><strong>air tòir</strong> <en>in pursuit of</en></li>
+    <li><strong>an aghaidh</strong> <en>against</en></li>
+    <li><strong>an àite</strong> <en>in place of</en></li>
+    <li><strong>an ceann</strong> <en>within</en></li>
+    <li><strong>an coinneamh</strong> <en>to meet</en></li>
+    <li><a href="?gd=dèidh">an dèidh</a> <en>after</en></li>
+    <li><strong>am fianais</strong> <en>in the presence of</en></li>
+    <li><strong>an làthair</strong> <en>in the presence of</en></li>
+    <li><strong>am measg</strong> <en>among</en></li>
+    <li><strong>às aonais</strong> <en>without</en></li>
+    <li><strong>às eugmhais</strong> <en>without</en></li>
+    <li><strong>às leth</strong> <en>on behalf of</en></li>
+    <li><strong>fa chomhair</strong> <en>opposite</en></li>
+    <li><strong>mu choinneamh</strong> <en>opposite</en></li>
+    <li><strong>mu chomhair</strong> <en>opposite</en></li>
+    <li><strong>mu dheidhinn</strong> <en>concerning</en></li>
+    <li><strong>mu th</strong> <en>concerning</en></li>
+  </ul>
+  <p>mun cuairt air <en>around</en>, air muin <en>on top of</en>, mu thimcheall <en>about, around</en></p>
+  <hr/>
+
+</module>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">ùr</h>
+    <h lang="gd">ùr</h>
+    <p lang="en">Corpus examples – <xl id="xs">
+            <li>
+                <gd>[...] A nis, tha an Taghadh Nàiseanta seachad, agus tha <m>Riaghaltas ùr</m>
+                    againn. Tha sinn an dòchas gun téid gu math dhaibh, agus gun cuir iad spionnadh
+                    ás ùr anns an dùthaich air fad. Agus gu seachd àraidh anns a’ Ghaidhealtachd:
+                    gun tòisich obair an dealain a rithist, gun cuirear tuilleadh
+                    bhàtaichean-iasgaich an sàs, gum faigh na Gaidheil cothrom air fearann na
+                    Gaidhealtachd obrachadh dhaibh fhéin, ás bith an ann mar chroitean no mar innis
+                    no mar choille, gun bhacadh o bhàllidh no o thighearna. Tha sinn an dòchas gun
+                    tig <m>rathaidean ùra</m>, chan ann dìreach gu feum an luchd-turais, ach gu feum
+                    nan Gaidheal. [...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n
+                    Ghàidhlig no do fhoghlum agus do litreachas na Gàidhlig. Cuin a chualas
+                    ball-Pàrlarnaid a’ togail a ghuth a dh’ iarraidh leasachaidh do staid Gàidhlig
+                    ann an Albainn? Am bi cothrom a nis aig cuideigin a ghuth a thogail, anns an
+                    t-suidheachadh iongantach a th’ againn anns <m>a’ Phàrlamaid ùr</m>?</gd>
+                <tr>[...] Now, the General Election is behind us, and we have <u>a new
+                        Government</u>. We hope that they will do well, and that they will
+                    re-energise the whole country. And most especially in the Highlands: that
+                    electricity work will restart, that more fishing boats will be put into service
+                    [?], that the Gaels will get the opportunity to work the land of the Highlands
+                    for themselves, whether as crofts or as grazing or as forest, without hindrance
+                    from a bailiff or from a laird. We hope that <u>new roads</u> will come, not
+                    just to benefit tourists, but to benefit the Gaels. [...] The Parliament has
+                    given very little assistance ever to the Gaelic language or to Gaelic education
+                    and literature. When has a member of Parliament been heard raising his voice to
+                    demand improvement for the state of Gaelic in Scotland? Will someone have an
+                    opportunity now to raise his voice, in the unexpected situation we have in
+                        <u>the new Parliament</u>?</tr>
+                <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+            </li>
+            <li>
+                <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir <m>ùr</m> a thaghadh a
+                    bhios os cionn obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an
+                    toiseach ag ath-nuadhachadh dreach a’ Chomuinn. Tha móran ri dhèanamh ris a’
+                    Mhòd mus beir e air linn an telebhisean, no eadhon air linn an réidio: bu mhath
+                    gun cuirte luchd-sgrìobhaidh is luchd-ciùil an sàs ann a bhith a’ cruthachadh ás
+                    ùr, an àite bhith an còmhnaidh a’ cur seòrsa de dhreach <m>ùr</m> air seann
+                    rudan; tha co-fharpaisean <m>ùra</m> ann an litreachas, ann an ceòl, ann an
+                    dràma is ann an ealain a dhìth air a’ Mhòd. Tha cumadh <u>ùr</u> a dhìth air na
+                    co-fharpaisean is air na cuirmean-ciùil. [...] Tha cumadh, is dreach, is brìgh
+                        <m>ùr</m> a dhìth air leabhraichean, ’s air mìosachan a’ Chomuinn. Ach dh’
+                    fheumadh am Fear-stiùiridh <m>ùr</m> barrachd air a sin a dhèanamh.</gd>
+                <tr>The Highland Society is talking about choosing a <u>new</u> General who will
+                    oversee the Society’s work. [...] He would have enough to do initially reforming
+                    the Society. There is much to do at the Mod before it catches up with
+                        <ed>??</ed> the era of television, or even with the era of radio: writers
+                    and musicians should be involved in creating afresh, instead of always putting a
+                    sort of <u>new</u> form on old things; <u>new</u> competitions in literature, in
+                    music, in drama and in art are needed at the Mod. The competitions and the
+                    concerts need a <u>new</u> format. [...] The Society’s books and monthly
+                    magazines need a <u>new</u> format, design and substance. But the <u>new</u>
+                    leader would have to do more than (just) that.</tr>
+                <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <module id="as_ur">
+        <h lang="en">as ùr</h>
+        <h lang="gd">...</h>
+        <p lang="en">Corpus examples – <xl id="as-ur-xs">
+                <li>
+                    <gd>[...] A nis, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas ùr
+                        againn. Tha sinn an dòchas gun téid gu math dhaibh, agus gun cuir iad
+                            <m>spionnadh ás ùr</m> anns an dùthaich air fad. Agus gu seachd àraidh
+                        anns a’ Ghaidhealtachd: [...]</gd>
+                    <tr>[...] Now, the General Election is behind us, and we have a new Government.
+                        We hope that they will do well, and that they will <u>re-energise</u> the
+                        whole country. And most especially in the Highlands: [...]</tr>
+                    <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                </li>
+                <li>
+                    <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios
+                        os cionn obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach
+                        ag ath-nuadhachadh dreach a’ Chomuinn. Tha móran ri dhèanamh ris a’ Mhòd mus
+                        beir e air linn an telebhisean, no eadhon air linn an réidio: bu mhath gun
+                        cuirte luchd-sgrìobhaidh is luchd-ciùil an sàs ann a bhith a’ cruthachadh
+                            <m>ás ùr</m>, an àite bhith an còmhnaidh a’ cur seòrsa de dhreach ùr air
+                        seann rudan [...]</gd>
+                    <tr>The Highland Society is talking about choosing a new General who will
+                        oversee the Society’s work. [...] He would have enough to do initially
+                        reforming the Society. There is much to do at the Mod before it catches up
+                        with <ed>??</ed> the era of television, or even with the era of radio:
+                        writers and musicians should be involved in creating <u>afresh</u>, instead
+                        of always putting a sort of new form on old things [...]</tr>
+                    <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                </li>
+            </xl>
+        </p>
+        <p>cf. <a href="?gd=toiseach">tòisich às ùr</a> <en>start afresh, resume</en>.</p>
+    </module>
+
+</module>

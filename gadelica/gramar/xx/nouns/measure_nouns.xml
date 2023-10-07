@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <title lang="en">measure nouns</title>
+    <title lang="gd">ainmearan</title>
+    <p>Measure nouns are a kind of <a href="?xx=nouns/quantity_words">quantity word</a>.</p>
+    <hr/>
+    <p>cf. punnd <en>pound</en>, òirleach <en>inch</en>, ...</p>
+    <p>Measure nouns only occur with mass nouns.</p>
+  
+  <!--
+    <h5>Length</h5>
+    
+    <h5>Area</h5>
+    <p>Pure area –</p>
+    <ul>
+        <li>acaire f acre</li>
+    </ul>
+    <p>By length squared –</p>
+    <ul>
+        <li>òirleach cheàrnagach square inch</li>
+    </ul>
+    
+    <p>By production –</p>
+    <ul>
+        <li><m>damh-iomair</m> f. <en>oxgang, bovate, area of land an ox can plough in a year, c. 20  acres</en> gen. <strong>damh-iomaire</strong> pl. <strong>damh-iomairean</strong></li>
+        <li><m>dabhach</m> f. <en>davoch, 32 oxgangs</en> gen. <strong>dabhaich</strong> pl. <strong>dabhaichean</strong></li>
+    </ul>
+    <p>By rent or taxation –</p>
+    <ul>
+        <li><m>peighinn</m> f. <en>pennyland, area of land with rental value of one penny</en> gen. <strong>peighinne</strong> pl. <strong>peighinnean</strong></li>
+        <li><m>tìr unnsa</m> <en>ounceland, area of land with rental value equivalent to an ounce of silver, 16 pennylands</en> pl. <strong>tìrean unnsa</strong></li>
+    </ul>
+    -->
+    
+</module>
+

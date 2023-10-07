@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>numeric quantity expressions</h>
+  <p>Numeric quantity expressions are <a href="?xx=nouns/quantity_expressions">quantity
+      expressions</a> involving a specific number of things, eg. <ul>
+      <li>Cia mheud chon a tha aig Màiri? <en>How many dogs does Mary have?</en>
+        <ul>
+          <li><m>còig coin</m>
+            <en>five dogs</en></li>
+          <li><m>dusan cù</m>
+            <en>a dozen dogs</en></li>
+          <li><m>ceud cù agus a h-aon</m>
+            <en>a hundred and one dogs</en></li>
+          <li><m>còrr agus deich coin</m>
+            <en>more than ten dogs</en></li>
+        </ul>
+      </li>
+    </ul>
+  </p>
+  <p>Partitive versions of these numeric quantity expressions are – <ul>
+      <li>Cia mheud de na coin a tha aig Màiri? <en>How many of the dogs does Mary have?</en>
+        <ul>
+          <li><m>a còig de na coin</m>
+            <en>five of the dogs</en></li>
+          <li><m>dusan de na coin</m>
+            <en>a dozen of the dogs</en></li>
+          <li><m>ceud de na coin agus a h-aon</m>
+            <en>a hundred and one of the dogs</en></li>
+          <li><m>còrr agus deich de na coin</m>
+            <en>more than ten of the dogs</en></li>
+        </ul>
+      </li>
+    </ul>
+  </p>
+  <p>Numeric quantity expressions contrast with non-numeric, <a
+      href="?xx=nouns/generic_quantity_expressions">generic quantity expressions</a>.</p>
+
+  <section id="exact">
+    <h>exact numeric quantities</h>
+    <p>The most basic kind of numeric quantity expression expresses an exact numeric quantity, for
+      example using a <!--<a href="?xx=nouns/numerals">-->numeral<!--</a>--> – <ul>
+        <li><g>Tha <emph>aon chù</emph> aig Màiri</g>
+          <en>Mary has one dog</en></li>
+        <li>... <g>dà chù</g> ... <en>... two dogs</en></li>
+        <li>... <g>trì coin</g> ... <en>... three dogs</en></li>
+        <li>...</li>
+        <li>... <g>deich coin</g> ... <en>... ten dogs</en></li>
+      </ul>
+    </p>
+    <p>Exact numeric quantities between 11 and 19 can be expressed by adding the numeric adjective <!--<a href="?gd=deug">-->deug<!--</a>-->
+      <en>-teen</en> – <ul>
+        <li><g>Tha <emph>aon chù deug</emph> aig Màiri</g>
+          <en>Mary has eleven dogs</en></li>
+        <li>... <g>dà chù dheug</g> ... <en>... twelve dogs</en></li>
+        <li>... <g>trì coin dheug</g> ... <en>... thirteen dogs</en></li>
+        <li>...</li>
+        <li>... <g>naoi coin dheug</g> ... <en>... nineteen dogs</en></li>
+      </ul>
+    </p>
+    <p>For larger numeric quantities, we can use the
+      <!--<a href="?xx=nouns/numeric_nouns">-->numeric nouns<!--</a>--> – <ul>
+        <li><g>Tha <emph>dusan cù</emph> aig Màiri</g>
+          <en>Mary has a dozen dogs</en></li>
+        <li>... <g>fichead cù</g> ... <en>... twenty dogs</en></li>
+        <li>... <g>ceud cù</g> ... <en>... a hundred dogs</en></li>
+      </ul>
+    </p>
+    <p>Multiples of numeric nouns can be expressed by combining them with the numerals – <ul>
+        <li><g>Tha <emph>trì dusan cù</emph> aig Màiri</g>
+          <en>Mary has three dozen dogs</en></li>
+        <li>... <g>dà fhichead cù</g> ... <en>... forty dogs</en></li>
+        <li>... <g>ochd ceud cù</g> ... <en>... eight hundred dogs</en></li>
+      </ul>
+    </p>
+    <p>More complex examples involve conjoining numeric quantity expressions using
+        <!--<a href="?gd=agus"
+      >--><g>agus</g><!--</a>--> – <ul>
+        <li><g>Tha <emph>fichead cù agus a trì</emph> aig Màiri</g>
+          <en>Mary has twenty-three dogs</en></li>
+        <li>... <g>fichead cù agus a trì deug</g> ... <en>... thirty-three dogs</en></li>
+        <li>... <g>ceithir fichead cù agus a naoi deug</g> ... <en>... ninety-nine dogs</en></li>
+        <li>... <g>naoi ceud cù deug, ceithir fichead agus a naoi deug</g> ... <en>... nineteen
+            hundred and ninety-nine dogs ...</en></li>
+      </ul>
+    </p>
+  </section>
+
+
+
+
+
+<!--
+  <p>Finally, here are some examples involving partitives – <ed>??</ed>
+    <ul>
+      <li><m>Tha <u>a h-aon de na coin</u> aig Màiri</m>
+        <en>Mary has <u>one of the dogs</u></en></li>
+      <li><m>... a trì deug de na coin ...</m>
+        <en>... thirteen of the dogs</en></li>
+      <li><m>... fichead de na coin ...</m>
+        <en>... twenty of the dogs</en></li>
+      <li><m>... ceithir fichead de na coin ...</m>
+        <en>... eighty of the dogs</en></li>
+      <li><m>... dà fhichead agus a còig de na coin ...</m>
+        <en>... forty five of the dogs</en></li>
+    </ul>
+  </p>
+  <p>approximate numeric quantities</p>
+  <p>There are various ways of expressing non-exact, approximate numeric quantities – <ul>
+      <li><m>mu dheich coin</m>
+        <ed>??</ed>
+        <en>around five dogs</en></li>
+      <li><m>eadar deich agus fichead cù</m>
+        <ed>??</ed>
+        <en>between ten and twenty dogs</en></li>
+      <li><m>ficheadan de choin</m>
+        <ed>??</ed>
+        <en>scores of dogs</en></li>
+    </ul>
+  </p>
+  <p>Partitive examples – <ul>
+      <li><m>mu (a) deich de na coin</m>
+        <ed>??</ed>
+        <en>around five of the dogs</en></li>
+      <li><m>eadar a deich agus fichead de na coin</m>
+        <ed>??</ed>
+        <en>between ten and twenty of the dogs</en></li>
+      <li><m>(na) ficheadan de na coin</m>
+        <ed>??</ed>
+        <en>scores of the dogs</en></li>
+    </ul>
+  </p>
+  <p>lower-bounded numeric quantities</p>
+  <p>Lower-bounded numeric quantities involve an approximate numeric quantity with a <u>minimum</u>
+    number of things – <ul>
+      <li><m>còrr agus còig coin</m>, <m>barrachd air còig coin</m>
+        <en>more than five dogs</en></li>
+      <li><m>còrr agus a còig de na coin</m>, <m>barrachd air a còig de na coin</m>
+        <en>more than five of the dogs</en></li>
+      <li><ed>??</ed>
+        <en>far more than five dogs</en></li>
+      <li><ed>??</ed>
+        <en>a few more than five dogs</en></li>
+      <li><ed>??</ed>
+        <en>as few as five dogs</en></li>
+      <li><ed>??</ed>
+        <en>at least five dogs</en> (co-dhiù còig coin?, còig coin air/aig a’ chàr/chuid as
+        lugha?)</li>
+    </ul>
+  </p>
+  <p>upper-bounded numeric quantities</p>
+  <p>Upper-bounded numeric quantities involve an approximate numeric quantity with a <u>maximum</u>
+    number of things – <ul>
+      <li><ed>??</ed>
+        <en>fewer than five [of the] dogs</en></li>
+      <li><ed>??</ed>
+        <en>far fewer than five dogs</en></li>
+      <li><ed>??</ed>
+        <en>a few fewer than five dogs</en></li>
+      <li><ed>??</ed>
+        <en>as many as five dogs</en></li>
+      <li><ed>??</ed>
+        <en>at most five dogs</en> (còig coin air/aig a’ chàr/chuid as fheàrr?)</li>
+      <li><ed>??</ed>
+        <en>nearly/almost five dogs</en></li>
+    </ul>
+  </p>
+  <p><ed>fractional quantities? half a pound, three-fifths of a gallon etc.</ed></p>
+  -->
+  
+</module>

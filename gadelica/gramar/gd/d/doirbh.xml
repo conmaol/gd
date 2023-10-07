@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>doirbh</h>
+    <p><g>doirbh</g>
+        <en>difficult</en> is an adjective.</p>
+    
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>complement</h>
+            <p>Some examples – <xl id="deps-comp-xs">
+                <li>
+                    <gd>Tha e doirbh am bun-bheachd seo a thuigsinn.</gd>
+                    <tr>It is difficult to understand this concept.</tr>
+                    <ref text="601">td. 103</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+    </section>
+    
+</module>
+

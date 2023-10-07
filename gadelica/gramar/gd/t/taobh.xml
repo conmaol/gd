@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>taobh</h>
+    <p><g>taobh</g>
+        <en>side</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="spec-older-pedag">
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                                    anns a’ chàr. Chaidh iad sìos <m>taobh an locha</m> is stad iad
+                                    aig àite bòidheach gorm. Chuir iad an càr a stigh gu <m>taobh an
+                                        rathaid</m> is thug iad brat a mach as a’ chàr air son
+                                    suidhe air. [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. They put the car into the side of
+                                    the road and they took a blanket out of the car for sitting on.
+                                    [...]</tr>
+                                <ref text="621">td. 6–7</ref>
+                                <note><a href="?gd=loch">loch</a>
+                                    <masc/>
+                                    <en>lake</en>, <a href="?gd=rathad">rathad</a>
+                                    <masc/>
+                                    <en>road</en></note>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="comp-older-pedag">
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                                    anns a’ chàr. Chaidh iad <m>sìos taobh an locha</m> is stad iad
+                                    aig àite bòidheach gorm. Chuir iad an càr a stigh <m>gu taobh an
+                                        rathaid</m> is thug iad brat a mach as a’ chàr air son
+                                    suidhe air. [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. They put the car into the side of
+                                    the road and they took a blanket out of the car for sitting on.
+                                    [...]</tr>
+                                <ref text="621">td. 6–7</ref>
+                                <note><a href="?gd=sìos">sìos</a>
+                                    <en>downwards</en>, <a href="?gd=gu^preposition">gu</a>
+                                    <en>to</en></note>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+
+            <module id="a_thaobh" status="bronze">
+                <h>a thaobh</h>
+                <p>Examples from Gairm – <xl id="exs">
+                        <li>
+                            <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh
+                                a bhios os cionn obair a’ Chomuinn. [...] Bhiodh a leòr aige ri
+                                dhèanamh an toiseach ag ath-nuadhachadh dreach a’ Chomuinn. Tha
+                                móran ri dhèanamh ris a’ Mhòd mus beir e air linn an telebhisean, no
+                                eadhon air linn an réidio: [...] <m>A thaobh propaganda</m>, tha
+                                obair a’ Chomuinn gun tòiseachadh fhathast; am faca tusa riamh
+                                postair Gàidhlig air balla, no an cuala tu guth a’ Chomuinn ann an
+                                sanas-reic air STV?</gd>
+                            <tr>The Highland Society is talking about choosing a new General who
+                                will oversee the Society’s work. [...] He would have enough to do
+                                initially reforming the Society. There is much to do at the Mod
+                                before it catches up with <ed>??</ed> the era of television, or even
+                                with the era of radio: [...] On the subject of propaganda,
+                                the Society’s work is yet to start; have you ever seen a Gaelic
+                                poster on a wall, or have you heard the voice of the Society in an
+                                advert on STV?</tr>
+                            <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+
+            <module status="bronze" id="ri_taobh">
+                <h>ri taobh</h>
+                <p><g><a href="?gd=rach">rach</a> ri taobh ...</g>
+                    <en>go along(side) ...</en> – <ul>
+                        <li>pedagogical examples – <xl id="comps-misc-pedag">
+                                <li>
+                                    <gd>An deach sibh tarsainn air an abhainn no seachad air Càrn
+                                        Sheumais? Chaidh, le chèile, agus timcheall air an t-Sìdhean
+                                        agus <m>ri taobh na mara air an rathad dhachaigh</m>.</gd>
+                                    <tr>Did you go across the river or past Càrn Sheumais? Yes we
+                                        did, both of them, and round the Sìdhean and beside the sea
+                                        on the way home.</tr>
+                                    <ref text="609">td. 99</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </module>
+
+        </section>
+        <section>
+            <h>derivatives</h>
+            <p><g>taobh</g> can be used as a pseudo-preposition meaning <en>via</en> – <ul>
+                    <li><g><a href="?gd=rach">rach</a> taobh ...</g>
+                        <en>go via ...</en> – <ul>
+                            <li>pedagogical examples – <xl id="comps-misc-pedag">
+                                    <li>
+                                        <gd>Am faigh mi tiocaid a bheir à seo gu ruige gu ruige na
+                                            h-eileanan An-iar mi? Gheibh, agus bidh sin còig
+                                            notaichean air fhichead, a’ dol <m>taobh an
+                                            Òbain</m>.</gd>
+                                        <tr>Can I get a ticket that will take me from here to the
+                                            Western Isles? Yes, and that will be £25, going via
+                                            Oban.</tr>
+                                        <ref text="609">td. 134</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+
+        </section>
+    </section>
+
+
+</module>

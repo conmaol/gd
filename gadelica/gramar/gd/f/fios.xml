@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>fios</h>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>subject</h>
+            <module status="bronze" id="uses-sbj-bi">
+                <h>bi fios aig ...</h>
+                <p>cf. <a href="?gd=aig"><g>aig</g></a> <en>at</en>.</p>
+                <p>Some examples – <ul>
+                    <li>pedagogical examples – <xl id="uses-sbj-bi-pedag">
+                        <li>
+                            <gd>Tha <m>f(h)ios</m> aig Iain. Tha <m>f(h)ios</m> agam. | A bheil cù agus cat
+                                aca, a bheil <m>fios</m> agad? | A bheil <m>fios</m> agaibh càite a bheil am
+                                banca agus oifis a’ phuist? | Chan eil <m>fios</m> agam cò a chuir an litir. A
+                                bheil <m>fios</m> agaibh cuin a thàinig an trèan? A bheil <m>fios</m> agad
+                                càit a bheil an stèisean? Chan eil <m>fios</m> aig Anna dè a thachair. | Chan
+                                eil <m>f(h)ios</m> aig duine. | Chan eil <m>f(h)ios</m> agam an tàinig Seumas.
+                                | Dh’fhosglainn an doras dhut nam biodh fios <m>agam</m> gun robh thu
+                                ann.</gd>
+                            <tr>John knows. I know. | Do they have a dog and a cat, do you know? | Do you
+                                know where the bank and the post office are? | I don’t know who sent the
+                                letter. Do you know when the train came? Do you know where the station is? Ann
+                                doesn’t know what happened. | Nobody knows. | I don’t know whether James has
+                                come. | I would open the door for you if I knew you were there.</tr>
+                            <ref text="609">td. 3 | 7 | 35 | 78 | 115 | 139 | 198</ref>
+                        </li>
+                        <li>
+                            <gd>Chan eil <m>sìon a dh’fhios</m> agamsa.</gd>
+                            <tr>I’ve no idea.</tr>
+                            <ref text="609">td. 116</ref>
+                        </li>
+                    </xl></li>
+                    <li>Examples from Gairm – <xl id="gairm">
+                        <li>
+                            <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan fhalbh aon
+                                choigreach le mo leanabh. Cha teid i gu aon dannsa, tha sin cinnteach. Tha. Tha.
+                                Na bi smaoineachadh gun teid, a leanaibh. Chan eil fhios agad mu ’n deidhinn,
+                                mar a th’ agamsa.” “Carson nach do bhàsaich thu o chionn leth-cheud bliadhna,”
+                                dh’ éigh Màiri. Bha i smaoineachadh air na gnothaichean ud fhathast! “Greas ort
+                                leis an tea,” ars a màthair. Agus, mu dheireadh. “A’ chlann òga an diugh,
+                                <m>chan eil fhios dé na smaointean th[a] ruith orra</m>. Tha iad air bhoil, air
+                                bhoil.”</gd>
+                            <tr>[...] Her voice grew louder. “One thing is certain, not one stranger will leave
+                                [go out?] with my child. She will not go to a single dance, that is certain. It
+                                is. It is. Do not be thinking that you will, child. You don’t know about them,
+                                as I do.” “Why did you not die fifty years ago,” shouted Mary. She was still
+                                thinking about those matters! “Hurry up with the tea,” said her mother. And,
+                                eventually. “The young children today, it is not known what thoughts are running
+                                on them. They are in a rage, in a rage.”</tr>
+                            <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+                            <note>No explicit experiencer.</note>
+                        </li>
+                    </xl>
+                    </li>
+                </ul></p>
+            </module>
+        </section>
+    </section>
+    
+    
+    
+</module>
+
+

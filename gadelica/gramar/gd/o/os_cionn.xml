@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>os cionn</h>
+    <p><g>os cionn</g>
+        <en>above, beyond, in charge of, over, overhead</en> is a prepositional compound, with head
+            <a href="?gd=os"><g>os</g></a>
+        <en>over, above</en> and complement <a href="?gd=cionn"><g>cionn</g></a>
+        <en>head [old dative form]</en>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>Examples – <xl id="deps-spr-xs">
+                    <li>
+                        <gd>os cionn na mara</gd>
+                        <tr>above the sea, above sea level</tr>
+                        <ref text="601">td. 463</ref>
+                    </li>
+                    <li>
+                        <gd>os mo chionn; os ar cionn</gd>
+                        <tr>overhead, over my head; over our heads</tr>
+                        <ref text="601">td. 135</ref>
+                    </li>
+                    <li>
+                        <gd>Aig aon àm bha e os cionn na sgoile seo.</gd>
+                        <tr>At one time he was in charge of this school.</tr>
+                        <ref text="601">td. 463</ref>
+                    </li>
+                    <li>
+                        <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a
+                            bhios os cionn obair a’ Chomuinn.</gd>
+                        <tr>The Highland Society is talking about choosing a new General to [who
+                            will] oversee the Society’s work.</tr>
+                        <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>modifiers</h>
+            <p>Examples – <xl id="deps-mods-xs">
+                    <li>
+                        <gd>beagan os cionn</gd>
+                        <tr>a cut above</tr>
+                        <ref text="601">td. 135</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>predicate</h>
+            <p>Examples – <xl id="uses-pred-xs">
+                    <li>
+                        <gd>Aig aon àm bha e os cionn na sgoile seo.</gd>
+                        <tr>At one time he was in charge of this school.</tr>
+                        <ref text="601">td. 463</ref>
+                    </li>
+                    <li>
+                        <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a
+                            bhios os cionn obair a’ Chomuinn.</gd>
+                        <tr>The Highland Society is talking about choosing a new General to [who
+                            will] oversee the Society’s work.</tr>
+                        <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>modifier</h>
+            <p><a href="?gd=bun-os-cionn"><g>bun-os-cionn</g></a>
+                <en>head over heels, topsy-turvy, upside-down</en></p>
+        </section>
+    </section>
+</module>

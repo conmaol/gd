@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>sin</h>
+    <p><g>sin</g>
+        <en>that (one)</en> is a <a href="?xx=nouns/demonstrative_pronouns">demonstrative
+            pronoun</a>, identifying an entity based on its spatial location proximal to the
+        hearer.</p>
+    <p><g>sin</g> contrasts with <a href="?gd=seo"><g>seo</g></a>
+        <en>this (one)</en> (proximal to the speaker) and <a href="?gd=siud"><g>siud</g></a>
+        <en>that (one) over there</en> (proximal to neither speaker nor hearer). </p>
+    <section>
+        <h>uses</h>
+        <section id="subject">
+            <h>subject</h>
+            <p><g>sin</g> can be used as the subject of a verb – <ul>
+                    <li><g>Tha <m>sin</m> cudromach.</g>
+                        <en>That is important.</en></li>
+                    <li><g>Cha tèid <m>sin</m> fodha.</g>
+                        <en>That (one) will not go down.</en></li>
+                </ul>
+            </p>
+            <p>Pedagogical examples – <xl id="subject-pedag">
+                    <li>
+                        <gd>Tha sin blasta. | Tha sin glè mhath. | Tha sin glan. | A bheil sin comhfhurtail?</gd>
+                        <tr>That is tasty. | That is very good. | That’s nice. | Is that comfortable?</tr>
+                        <ref text="609">td. 27, 195, 19</ref>
+                    </li>
+                </xl>
+            </p>
+            <section id="copula">
+                <h>subject of copula</h>
+                <p>When <g>sin</g> is used as the subject of the copula <g>is</g>, the copula itself
+                    is usually dropped – <ul>
+                        <li><g>Is <m>sin</m> Dòmhnall.</g> ⇒ <g><m>Sin</m> Dòmhnall.</g>
+                            <en>That is Donald.</en></li>
+                    </ul>
+                </p>
+                <p>Pedagogical examples – <xl id="copula-pedag">
+                        <li>
+                            <gd>Sin an tidsear. | Sin an cat. | Sin an sgian. | Sin a’ bheinn ud
+                                a-rithist.</gd>
+                            <tr>That is the teacher. | That is the cat. | That is the knife. | That
+                                is yon mountain again.</tr>
+                            <ref text="609">td. 27–8, 195</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>Examples with dummy subject pronouns – <ul>
+                        <li>pedagogical examples – <xl id="copula-alt-pedag">
+                                <li>
+                                    <gd>Is e sin Iain.</gd>
+                                    <tr>That is John.</tr>
+                                    <ref text="609">td. 27</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>negative examples – <xl id="copula-neg-pedag">
+                                <li>
+                                    <gd>Chan e sin Iain.</gd>
+                                    <tr>That is not John.</tr>
+                                    <ref text="609">td. 27</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </section>
+        </section>
+        <section id="object">
+            <h>object</h>
+            <p><g>sin</g> can be used as the object of a verb – <ul>
+                    <li><g>Chunnaic mi <m>sin</m> a-rithist.</g>
+                        <en>I saw that (one) again.</en></li>
+                </ul>
+            </p>
+            <p>Examples from modern usage – <xl id="xs">
+                    <li>
+                        <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe
+                            taidhcùn. Rinn e <m>sin</m> tro dhìcheall, obair chruaidh agus tàlant
+                            malairt a bha neo-ghnàthach. An-diugh tha iomadh companaidh na ainm air
+                            feadh na Gàidhealtachd. [...]</gd>
+                        <tr>Thomas is the only crofter I know who has risen to the status of a
+                            tycoon. He did that through diligence, hard work and a talent for
+                            business that was unusual. Today there are many companies in his name
+                            all over the Highlands. [...]</tr>
+                        <ref text="2">td. 5</ref>
+                        <note><g>(dèan) sin</g> refers to a recently described event.</note>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="dative">
+            <h>prepositional complement</h>
+            <p><g>sin</g> can be used as the complement of a preposition – <ul>
+                    <li><g>Thàinig iad le <m>sin</m>.</g>
+                        <en>They came with that (one).</en></li>
+                </ul>
+            </p>
+        </section>
+        <section id="specifier">
+            <h>specifier</h>
+            <p><g>sin</g> can be used as the specifier of a noun – <ul>
+                    <li><g>Tha mi a’ faicinn <m>sin</m>.</g>
+                        <en>I can see that (one).</en></li>
+                    <li><g>Tha e ri taobh <m>sin</m>.</g>
+                        <en>It is beside that (one).</en></li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>modifier</h>
+            <section id="article_modifier">
+                <h>definite article modifier</h>
+                <p><g>sin</g> can serve as a modifier of the definite article, appearing after the
+                    specified noun and any attributive adjectives – <ul>
+                        <li><g>am balach beag <m>sin</m></g>
+                            <en>that little boy</en></li>
+                        <li><g>na craobhan àrda <m>sin</m></g>
+                            <en>those tall trees</en></li>
+                    </ul>
+                </p>
+                <p>Pedagogical examples –<ul>
+                        <li>singular – <xl id="adj-sing-pedag">
+                                <li>
+                                    <gd>an taigh sin | a’ bhùth sin | a’ bheinn mhòr àrd sin</gd>
+                                    <tr>that house | that shop | that big high mountain</tr>
+                                    <ref text="609">td. 26, 195</ref>
+                                </li>
+                            </xl></li>
+                        <li>plural – <xl id="adj-plur-pedag">
+                                <li>
+                                    <gd>na dealbhannan sin</gd>
+                                    <tr>those pictures</tr>
+                                    <ref text="609">td. 26</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </section>
+            <section id="pron-mod">
+                <h>third-person pronoun modifier</h>
+                <p><g>sin</g> can modify a third-person personal pronoun, thus yielding explicitly
+                    gendered or plural demonstratives – <ul>
+                        <li><g>e sin</g>
+                            <en>that [masc.]</en></li>
+                        <li><g>i sin</g>
+                            <en>that [fem.]</en></li>
+                        <li><g>iad sin</g>
+                            <en>those</en></li>
+                    </ul>
+                </p>
+            </section>
+        </section>
+        <section>
+            <h>derivatives</h>
+            <module>
+                <h>an·sin</h>
+                <p><a href="?gd=an-sin"><g>an·sin</g></a>
+                    <en>there, at that place</en> is the demonstrative adverb derived from
+                        <g>sin</g>.</p>
+                <p>Pedagogical examples – <xl id="adverb-pred-pedag">
+                        <li>
+                            <gd>Tha an cat an sin.</gd>
+                            <tr>The cat is there.</tr>
+                            <ref text="609">td. 28</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>Adnominal examples – <xl id="adverb-pred-adnom-pedag">
+                        <li>
+                            <gd>am boireannach sin <m>an sin</m></gd>
+                            <tr>that woman there</tr>
+                            <ref text="609">td. 195</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+</module>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>prìomh</h>
+    <p><b>prìomh</b>
+        <en>prime</en> is a prefix used in compound nouns.</p>
+    <p>eg. <a href="?gd=sagart">sagart</a>
+        <masc/>
+        <en>priest</en> ⇒ <b>prìomh-shagart</b>
+        <masc/>
+        <en>primate</en>.</p>
+</module>

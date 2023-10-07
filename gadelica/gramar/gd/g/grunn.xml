@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title lang="en">grunn</title>
+  <title lang="gd">grunn</title>
+  <p><strong>grunn</strong>
+    <en>number, group</en> is a masculine <a href="?xx=nouns/generic_quantity_nouns">generic quantity noun</a>. Dictionaries list the genitive singular <strong>grunna</strong> and the plural
+      <strong>grunnan</strong>.</p>
+  <hr/>
+  <p>In terms of the stuff being quantified, <strong>grunn</strong> generally works like other generic quantity nouns, apart from the fact that it can only be followed by a plural count noun –</p>
+  <ul>
+    <li>When the stuff being quantified is new information, it is usually expressed as a noun modifier/specifier of <strong>grunn</strong> eg. <ul>
+        <li>Tha <m>grunn <u>chon</u></m> aig Màiri. <en>Mary has some dogs.</en></li>
+      </ul>
+      <ul id="grunn_specifier">
+        <li>
+          <gd/>
+          <tr/>
+          <ref text="198">td. 54</ref>
+        </li>
+      </ul>
+    </li>
+    <li>When the stuff being quantified is already known, it is usually introduced by the partitive preposition <a href="?gd=de">de</a>
+      <en>of</en> governing a specified (ie. ‘definite’) noun eg. <ul>
+        <li>Cheannaich Màiri <m>grunn <u>de mo choin</u></m>. <en>Mary bought some of my dogs.</en></li>
+      </ul>
+      <ul id="grunn_de">
+        <li>
+          <gd/>
+          <tr/>
+          <ref text="">td.</ref></li>
+      </ul>
+    </li>
+    <li>When the stuff being quantified is already known, and has just been referred to, or can be inferred, <strong>grunn</strong> can occur on its own eg. <ul>
+        <li>Tha <m>grunn</m> aig Màiri. <en>Mary has some.</en></li>
+      </ul>
+      <ul id="grunn">
+        <li>
+          <gd/>
+          <tr/>
+          <ref text="2">td. 55</ref>
+        </li>
+      </ul>
+    </li>
+    <li>Alternatively, <strong>grunn</strong> can be followed by one of the <a href="?gd=de">de</a> prepositional pronouns eg. <ul>
+        <li>Tha <m>grunn <u>dhiubh</u></m> aig Màiri. <en>Mary has some of them.</en></li>
+      </ul>
+      <ul id="grunn_de_pron">
+        <li>
+          <gd/>
+          <tr/>
+          <ref text="">td.</ref>
+        </li>
+      </ul>
+    </li>
+  </ul>
+  <p lang="en">However, there is some variation in usage to be found here. <ul id="grunn_de_variation">
+      <li>
+        <gd/>
+        <tr/>
+        <ref text="2">td. 44</ref>
+      </li>
+    </ul>
+  </p>
+  <hr/>
+  <h lang="en">grunn mòr</h>
+  <p lang="en"><strong>grunn mòr</strong> = <a href="?gd=mòran">mòran</a>
+    <en>a lot</en> –</p>
+  <ulx id="grunn_mor">
+    <lix>
+      <gd>Ann an dà bhliadhna dheug sgrìobh e fichead leabhar ’s a h-aon ’s dh’ fhàg e <m>grunn mór phàipearan</m> a chùl air a sin.</gd>
+      <tr>In 12 years he [Kierkegaard] wrote 21 books and he left <u>a large quantity of papers</u> besides.</tr>
+      <ref text="400-41">td. 103</ref>
+    </lix>
+  </ulx>
+  <hr/>
+  <p lang="en">cf. <a href="?gd=grunnan">grunnan</a>
+    <en>small number/group</en>.</p>
+  <hr/>
+</module>

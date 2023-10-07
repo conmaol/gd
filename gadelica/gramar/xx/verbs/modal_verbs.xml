@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title>modal verbs</title>
+  <p>cf. <a href="?xx=verbs/verbs">verbs</a></p>
+  <p>cf. <a href="?gd=faod">faod</a>, <a href="?gd=feum">feum</a></p>
+  <hr/>
+  <p>cf. <a href="?gd=leas">cha leig leas</a> <en>needn’t</en>, <a href="?gd=gnothach">cha bhi gnothaich aig</a> <en>shouldn’t</en></p>
+</module>
+

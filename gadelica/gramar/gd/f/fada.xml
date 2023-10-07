@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>fada</h>
+  <p><g>fada</g>
+    <en>long</en> is an adjective.</p>
+  <p>Examples from Gairm – <xl id="gairm">
+      <li>
+        <gd>Ma rannsaicheas sinn air ais <m>fada gu leòir</m> chì sinn nach robh sgoilean anns an
+          Oban gus an ochdamh linn deug. Bha an sgoil bheag a b’ fhaisge air anns a’ Chill Mhóir
+          cóig mìle air falbh, agus tha e coltach gu robh an sgoil sin air an fheadhainn bu shine an
+          Earra-Ghaidheal.</gd>
+        <tr>If we research back long enough we will see that there were no schools in Oban until the
+          eighteenth century. The closest little school was in Kilmore five miles away, and it
+          appears that that school was one of the oldest in Argyll.</tr>
+        <ref text="400-20">td. 363</ref>
+      </li>
+    </xl>
+  </p>
+  <p><g>fada</g> is the root of the abstract de-adjectival noun <g><a href="?gd=fad">fad</a></g>
+    <en>length</en>.</p>
+  <p lang="en"><g>is fhada bhon a ...</g>
+    <en>for a long time</en> – <xl id="is_fhada">
+      <li>
+        <gd><m>Is fhada bhon a bha</m> daoine ag ràdh gum biodh àite cruinneachaidh do
+          luchd-labhairt na Gàidhlig na leas do chor a’ chànain, na ghoireas don fheadhainn a bha
+          an-sàs ann an gnìomhan Gàidhlig mar-thà agus na mheadhan air aire agus ùidh sa Ghàidhlig a
+          thogail.</gd>
+        <tr>For a long time people were saying that a gathering place for Gaelic speakers would be a
+          benefit to the state of the language, an amenity for those who were involved in Gaelic
+          activities already and a means of raising awareness and interest in Gaelic.</tr>
+        <ref text="610">td. 85</ref>
+      </li>
+    </xl>
+  </p>
+
+
+</module>

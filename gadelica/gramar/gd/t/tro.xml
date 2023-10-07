@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>tro</h>
+    <p><g>tro</g>
+        <en>through</en> is the (leniting) perlative <a href="?xx=prepositions/prepositions"
+            >preposition</a>.</p>
+    <section>
+        <h>forms</h>
+        <section id="indefinite">
+            <h>indefinite</h>
+            <p>The default form of the perlative preposition is simply <g>tro</g> – <ul>
+                    <li><m>tro</m> thaigh <en>through a house</en></li>
+                    <li><m>tro</m> aislingean <en>through dreams</en></li>
+                    <li><m>tro</m> Nirribhidh <en>through Norway</en></li>
+                    <li><m>tro</m> thrì làithean <en>through three days</en></li>
+                </ul></p>
+            <!--<p><ed>Note on older forms like <g>troimh</g>?</ed></p>-->
+        </section>
+        <section id="definite">
+            <h>definite</h>
+            <p>When the immediately following word is a singular form of the definite article, the
+                linking form <g>tron</g> is used – <ul>
+                    <li><m>tron an</m> taigh <en>through the house</en>, rather than <bad>tro an
+                            taigh</bad></li>
+                    <li><m>tron a’</m> bhaile <en>through the town</en>, rather than <bad>tro a’
+                            bhaile</bad></li>
+                </ul> But – <ul>
+                    <li><m>tro na h-</m>aislingean <en>through the dreams</en>, rather than
+                            <bad>tron na h-aislingean</bad></li>
+                </ul>
+            </p>
+            <!--<p><ed>Add note on ‘tron a-màireach’, ‘tron a h-uile ...’, ‘tron a bheil ...’? Older
+                    forms with apostrophes?</ed></p>-->
+            <p>Fused forms are sometimes found when the immediately following word is a <a
+                href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+                    <li><m>tro mo</m> thaigh <en>through my house</en> ≈ <g>trom</g> thaigh</li>
+                    <li><m>tro do</m> bhaile <en>through your town</en> ≈ <g>trod</g> bhaile</li>
+                    <li><m>tro a h-</m>òran <en>through her song</en> ≈ <g>tro h-</g>òran</li>
+                    <li><m>tro a</m> chraoibh <en>through his tree</en> ≈ <g>tro</g> chraoibh</li>
+                    <li><m>tro ar n-</m>achadh <en>through our field</en> ≈ <g>trar n-</g>achadh</li>
+                    <li><m>tro ur</m> leapannan <en>through your beds</en> ≈ <g>trur</g> leapannan</li>
+                    <li><m>tro an</m> taighean <en>through their houses</en> ≈ <g>tron</g>
+                        taighean</li>
+                    <li><m>tro am</m> baile <en>through their town</en> ≈ <g>trom</g> baile</li>
+                </ul></p>
+            <p>Note that these fused forms are rather awkward and sometimes ambiguous and hence are
+                best avoided in writing nowadays.</p>
+        </section>
+        <section id="pronouns">
+            <h>prepositional pronouns</h>
+            <p>Conjugated prepositions are used in place of <bad>tro mi</bad>, <bad>tro thu</bad>,
+                ... , <bad>tro iad</bad> – <ul>
+                    <li><m>tromham</m>
+                        <en>through me</en></li>
+                    <li><m>tromhad</m>
+                        <en>through you</en></li>
+                    <li><m>troimhpe</m>
+                        <en>through her/it</en></li>
+                    <li><m>troimhe</m>
+                        <en>through him/it</en></li>
+                    <li><m>tromhainn</m>
+                        <en>through us</en></li>
+                    <li><m>tromhaibh</m>
+                        <en>through you</en></li>
+                    <li><m>tromhpa</m>
+                        <en>through them</en></li>
+                </ul>
+            </p>
+            <p>There are also emphatic forms (cf. <bad>tro mise</bad>, <bad>tro thusa</bad>, ... ,
+                    <bad>tro iadsan</bad>) – <ul>
+                    <li><m>tromhamsa</m>
+                        <en>through <emph>me</emph></en></li>
+                    <li><m>tromhadsa</m>
+                        <en>through <emph>you</emph></en></li>
+                    <li><m>troimhpese</m>
+                        <en>through <emph>her/it</emph></en></li>
+                    <li><m>troimhesan</m>
+                        <en>through <emph>him/it</emph></en></li>
+                    <li><m>tromhainne</m>
+                        <en>through <emph>us</emph></en></li>
+                    <li><m>tromhaibhse</m>
+                        <en>through <emph>you</emph></en></li>
+                    <li><m>tromhpasan</m>
+                        <en>through <emph>them</emph></en></li>
+                </ul>
+            </p>
+            <p>Note that the form <g>troimhesan</g> breaks the ‘slender-to-slender, broad-to-broad’
+                spelling rule, and hence is sometimes found written with a hyphen –
+                    <g>troimhe-san</g>.</p>
+            <p>Finally, there are also reflexive forms (cf. <bad>tro mi fhìn</bad>, <bad>tro thu
+                    fhèin</bad>, ... , <bad>tro iad fhèin</bad>) – <ul>
+                    <li><m>tromham fhìn</m>
+                        <en>through myself</en></li>
+                    <li><m>tromhad fhèin</m>
+                        <en>through yourself</en></li>
+                    <li><m>troimhpe fhèin</m>
+                        <en>through herself/itself</en></li>
+                    <li><m>troimhe fhèin</m>
+                        <en>through himself/itself</en></li>
+                    <li><m>tromhainn fhìn</m>
+                        <en>through ourselves</en></li>
+                    <li><m>tromhaibh fhèin</m>
+                        <en>through yourselves</en></li>
+                    <li><m>tromhpa fhèin</m>
+                        <en>through themselves</en></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+    <section>
+        <h>uses</h>
+        <section id="uses-comp">
+            <h>complement</h>
+            <module status="bronze" id="rach_tro">
+                <h>rach tro ...</h>
+                <p><g><a href="?gd=rach">rach</a> tro ...</g>
+                    <en>go through something/someone</en> – <ul>
+                        <li>pedagogical examples – <xl id="uses-comp-rach-pedag">
+                                <li>
+                                    <gd><m>am baile tron</m> an deach sinn / a chaidh sinn
+                                        troimhe</gd>
+                                    <tr>the town through which we went</tr>
+                                    <ref text="609">td. 123</ref>
+                                    <note>Chaidh sinn <m>tro bhaile</m>; concrete motion</note>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+
+            </module>
+        </section>
+
+
+        <section id="uses-mod">
+            <h>modifier</h>
+            <p>Examples from modern usage – <xl id="xs">
+                    <li>
+                        <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe
+                            taidhcùn. Rinn e sin <m>tro dhìcheall, obair chruaidh agus tàlant
+                                malairt</m> a bha neo-ghnàthach. An-diugh tha iomadh companaidh na
+                            ainm air feadh na Gàidhealtachd. [...]</gd>
+                        <tr>Thomas is the only crofter I know who has risen to the status of a
+                            tycoon. He did that through duty, hard work and a talent for business
+                            that was unusual. Today there are many companies in his name all over
+                            the Highlands. [...]</tr>
+                        <ref text="2">td. 5</ref>
+                        <note>instrument, explanation</note>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+</module>

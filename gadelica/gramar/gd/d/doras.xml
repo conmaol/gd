@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>doras</h>
+    <p><g>doras</g>
+        <en>door</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>doras</g> are – <ul>
+                <li><m>doras</m> – nominative/dative singular</li>
+                <li><m>dorais</m> – genitive singular</li>
+                <li><m>dorsan</m> – plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>doras</m></li>
+                                    <li>dative – (aig) <m>doras</m></li>
+                                    <li>genitive – (bun) <m>dorais</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>dorsan</m></li>
+                                    <li>dative – (aig) <m>dorsan</m></li>
+                                    <li>genitive – (bunan) <m>dhorsan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an doras</m></li>
+                                    <li>dative – (aig) <m>an doras</m></li>
+                                    <li>genitive – (bun) <m>an dorais</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na dorsan</m></li>
+                                    <li>dative – (aig) <m>na dorsan</m></li>
+                                    <li>genitive – (bunan) <m>nan dorsan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>doras</m></li>
+                                    <li>dative – (aig) <m>doras</m></li>
+                                    <li>genitive – (bun) <m>dorais</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an doras</m></li>
+                                    <li>dative – (aig) <m>an doras</m></li>
+                                    <li>genitive – (bun) <m>an dorais</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>dorais</m></li>
+                                    <li>dative – (aig) <m>doras</m></li>
+                                    <li>genitive – (bunan) <m>dhorsan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na dorsan</m></li>
+                                    <li>dative – (aig) <m>na dorsan</m></li>
+                                    <li>genitive – (bunan) <m>nan dorsan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>doras</m></li>
+                                    <li>plural – <m>dorsan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an doras</m></li>
+                                    <li>plural – <m>na dorsan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (aig) <m>doras</m></li>
+                                    <li>plural – (aig) <m>dorsan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (aig) <m>an doras</m></li>
+                                    <li>plural – (aig) <m>na dorsan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (bun) <m>dorais</m></li>
+                                    <li>plural – (bunan) <m>dhorsan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (bun) <m>an dorais</m></li>
+                                    <li>plural – (bunan) <m>nan dorsan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>Some examples – <xl id="deps-spr-xs">
+                    <li>
+                        <gd>Chunnaic mi cù aig an dorus.</gd>
+                        <tr>I saw a dog at the door.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <p>Some examples – <xl id="uses-comp-xs">
+                    <li>
+                        <gd>Chunnaic mi cù aig an dorus.</gd>
+                        <tr>I saw a dog at the door.</tr>
+                        <ref text="617">td. 6</ref>
+                        <note>preposition</note>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+</module>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>chrematonyms</h>
+  <p>Chrematonyms are <a href="?xx=nouns/names">names</a> identifying scholarly and literary texts
+    and other creative works, collections or archives.</p>
+  <p>Like other kinds of name, chrematonyms can be classified into two grammatical types – <ul>
+      <li>chrematonymic <a href="?xx=nouns/proper_nouns">proper nouns</a> – <g>Gairm</g>
+        <en>[name of quarterly periodical]</en>, <g>Bannan</g>
+        <en>[name of television drama serial]</en></li>
+      <li>chrematonymic <a href="?xx=nouns/name_descriptions">name-descriptions</a> – <g>An
+          Seann Tiomnadh</g>
+        <en>The Old Testament</en>, <g>Òran na Cloiche</g>
+        <en>The Song of the Stone [song title]</en>. </li>
+    </ul>
+  </p>
+  <p>Note that chrematonyms (whether proper nouns or post-specified name-descriptions) are generally
+      <emph>not lenited</emph> when they occur as (genitive) specifiers of another noun – <g>fear
+      deasachaidh Gairm</g>
+    <en>the editor of Gairm</en>, <g>oifis Tobar an Dualchais</g>
+    <en>the Tobar an Dualchais office</en>, rather than <bad>fear deasachaidh Ghairm</bad>,
+      <bad>oifis Thobar an Dualchais</bad>.</p>
+
+
+
+<!--
+
+  <box id="proper_nouns">
+    <title>chrematonymic proper nouns</title>
+    <p>Either ‘uncommon nouns’ (i.e. common nouns which have been turned into proper nouns) or
+      acronyms –</p>
+    <table>
+      <tbody>
+        <tr><td>Bannan</td><td>television serial</td></tr>
+        <tr><td>CLAG</td><td>research project, acronym</td></tr>
+        <tr><td>Comasan Labhairt ann an Gàidhlig</td><td>research project, post-modified</td></tr>
+        <tr><td>Dachaigh Airson Stòras na Gàidhlig</td><td>archive, post-modified</td></tr>
+        <tr><td>DASG</td><td>archive, acronym</td></tr>
+        <tr><td>Gairm</td><td>periodical</td></tr>
+        <tr><td>Gath</td><td>periodical</td></tr>
+        <tr><td>Litir do Luchd Ionnsachaidh</td><td>radio serial, post-modified</td></tr>
+        <tr><td>Mac-Talla</td><td>newspaper</td></tr>
+      </tbody>
+    </table>
+  </box>
+
+  <box id="name_descriptions">
+    <title>chrematonymic name-descriptions</title>
+    <p>Pre-specified –</p>
+    <table>
+      <tbody>
+        <tr><td>Am Bìoball</td><td><en>The Bible</en></td></tr>
+        <tr><td>An Deò-Grèine</td><td>periodical</td></tr>
+        <tr><td>An Gàidheal</td><td>periodical</td></tr>
+        <tr><td>An Gàidheal Ùr</td><td>periodical</td></tr>
+        <tr><td>An Litir Bheag</td><td>radio serial</td></tr>
+        <tr><td>An Seann Tiomnadh</td><td><en>The Old Testament</en></td></tr>
+        <tr><td>An Seotal</td><td>dictionary</td></tr>
+        <tr><td>An Tiomnadh Nuadh</td><td><en>The New Testament</en></td></tr>
+      </tbody>
+    </table>
+    <p>Post-specified –</p>
+    <table>
+      <tbody>
+        <tr><td>Aithris na Maidne</td><td>radio news programme</td></tr>
+        <tr><td>Corpas na Gàidhlig</td><td>archive</td></tr>
+        <tr><td>Faclair na Gàidhlig</td><td>dictionary</td></tr>
+        <tr><td>Òran na Cloiche</td><td>song</td></tr>
+        <tr><td>Prògram Chòinnich</td><td>radio programme</td></tr>
+        <tr><td>Tobar an Dualchais</td><td>archive</td></tr>
+      </tbody>
+    </table>
+  </box>
+
+  <box id="genitive">
+    <title>Chrematonyms as specifiers</title>
+    <p/>
+    <xlx>
+      <li>
+        <gd>An uiridh, mar eiseamplair, cha do ràinig dad <m>oifis Gairm</m> ach aon phasgan a
+          chaidh iomrall anns a’ phost, agus seachd litrichean bho fheadhainn a bha ag iarraidh an
+          cuid airgid a thilleadh thuca seach nach d’fhuair iad Gairm an fhoghair mun do thog iad am
+          buntàta.</gd>
+        <en2>Last year, for example, nothing arrived in the office of Gairm apart from one parcel
+          that gone astray in the post, and seven letters from some who wanted their money returned
+          to them since they did not get the autumn [issue of] Gairm before they had lifted the
+          potatoes. </en2>
+        <ref text="400014">Gairm 14</ref>
+      </li>
+    </xlx>
+
+  </box>
+  -->
+
+</module>

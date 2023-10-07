@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>bogsa</h>
+    <p><g>bogsa</g>
+        <en>box</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+    <section>
+        <h>forms</h>
+        <p>The principal parts of <g>bogsa</g> are – <ul>
+                <li><m>bogsa</m> – nominative/dative singular</li>
+                <li><m>bogsa</m> – genitive singular</li>
+                <li><m>bogsaichean</m> – plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>bogsa</m></li>
+                                    <li>dative – (ann am) <m>bogsa</m></li>
+                                    <li>genitive – (ceann) <m>bogsa</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>bogsaichean</m></li>
+                                    <li>dative – (ann am) <m>bogsaichean</m></li>
+                                    <li>genitive – (taigh) <m>bhogsaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>am bogsa</m></li>
+                                    <li>dative – (anns) <m>a’ bhogsa</m></li>
+                                    <li>genitive – (ceann) <m>a’ bhogsa</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na bogsaichean</m></li>
+                                    <li>dative – (anns) <m>na bogsaichean</m></li>
+                                    <li>genitive – (taigh) <m>nam bogsaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>bogsa</m></li>
+                                    <li>dative – (ann am) <m>bogsa</m></li>
+                                    <li>genitive – (ceann) <m>bogsa</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>am bogsa</m></li>
+                                    <li>dative – (anns) <m>a’ bhogsa</m></li>
+                                    <li>genitive – (ceann) <m>a’ bhogsa</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>bogsaichean</m></li>
+                                    <li>dative – (ann am) <m>bogsaichean</m></li>
+                                    <li>genitive – (taigh) <m>bhogsaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na bogsaichean</m></li>
+                                    <li>dative – (anns) <m>na bogsaichean</m></li>
+                                    <li>genitive – (taigh) <m>nam bogsaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>bogsa</m></li>
+                                    <li>plural – <m>bogsaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>am bogsa</m></li>
+                                    <li>plural – <m>na bogsaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (ann am) <m>bogsa</m></li>
+                                    <li>plural – (ann am) <m>bogsaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (anns) <m>a’ bhogsa</m></li>
+                                    <li>plural – (anns) <m>na bogsaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (ceann) <m>bogsa</m></li>
+                                    <li>plural – (taigh) <m>bhogsaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (ceann) <m>a’ bhogsa</m></li>
+                                    <li>plural – (taigh) <m>nam bogsaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>The following compounds involve bogsa with a post-specifier – <ul>
+                    <li><g>bogsa nan <a href="?gd=litir">litrichean</a></g>
+                        <en>postbox</en></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+
+    <section>
+        <h>uses</h>
+
+        <section>
+            <h>complement</h>
+            <p><g>bogsa</g> can be the complement of certain prespoitions – <ul>
+                    <li><g><a href="?gd=an^preposition">ann am</a> bogsa</g>
+                        <en>in a box</en> – <ul>
+                            <li><g><a href="?gd=tilg">tilg</a> ann am bogsa</g>
+                                <en>throw something into a box</en> – <ul>
+                                    <li>older pedagogical examples – <xl id="dep-comps-older-pedag">
+                                            <li>
+                                                <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu
+                                                  m’athair a tha air falbh. Thubhairt mo mhàthair,
+                                                  “An téid thu do bhocsa nan litrichean leis an
+                                                  litir seo, Iain?” “Théid,” ars Iain, “falbhaidh mi
+                                                  an dràsda”. “Fuirich gus an dùin mi i is gus an
+                                                  cuir mi seòladh oirre. Ceannaich fhéin stamp agus
+                                                  cuir oirre i.” Tha Iain a’ ruith sìos an rathad
+                                                  leis an litir ’na làimh. Théid e a steach do oifig
+                                                  a’ phuist, ceannaichidh e stamp is cuiridh e sud
+                                                  air an litir. <m>Tilgidh e an litir ann am bocsa
+                                                  nan litrichean.</m>
+                                                </gd>
+                                                <tr>My mother is writing a letter to my father who
+                                                  is away. My mother said, “Will you go to the
+                                                  postbox with this letter, John?” “Yes, I will,”
+                                                  said John, “I will leave now.” “Wait until I seal
+                                                  it and put an address on it. Buy a stamp and put
+                                                  it on it.” John is running down the road with the
+                                                  letter in his hand. He will go into the post
+                                                  office, he will buy a stamp and put that on the
+                                                  letter. He will toss the letter into the
+                                                  postbox.</tr>
+                                                <ref text="621">td. 5</ref>
+                                            </li>
+                                        </xl></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+
+</module>

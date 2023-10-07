@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>deich</h>
+  <p><b>deich</b>
+    <en>ten, 10</en> is a <a href="?xx=nouns/numerals">numeral</a>.</p>
+  <p>Pedagogical examples – <xl id="deich-pedag">
+      <li>
+        <gd>Co mheud leabhar a tha agad an sin? / Tha deich leabhraochean agam.</gd>
+        <tr>How many books do you have there? / I have ten books.</tr>
+        <ref text="601">td. 221</ref>
+      </li>
+      <li>
+        <gd>deich a(i)r fhichead / ceithir fichead ’s a deich</gd>
+        <tr>thirty / ninety</tr>
+        <ref text="601">td. 221</ref>
+      </li>
+    </xl>
+  </p>
+  <p lang="en">Biblical examples – <xl id="bible">
+      <li>
+        <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig do’n Eiphit; thàinig gach duine
+          agus a theaghlach maille re Iacob: Reuben, Simeon, Lebhi, agus Iudah, [...] Agus na
+          h-anman uile a thàinig a mach a leasraidh Iacoib, bu <m>deich agus tri fichead anam</m>
+          iad; oir bha Ioseph ’san Eiphit a cheana. [...]</gd>
+        <tr>Now these are the names of the children of Israel, which came into Egypt; every man and
+          his household came with Jacob. Reuben, Simeon, Levi, and Judah, [...] And all the souls
+          that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt already.
+          [KJV]</tr>
+        <ref text="160">Ecsodus I.1–5</ref>
+      </li>
+    </xl>
+  </p>
+
+
+  <module id="a_deich">
+    <h>a deich</h>
+    <p>Pedagogical examples – <xl id="a_deich-pedag">
+        <li>
+          <gd>Co mheud leabhar a tha agad an sin? / Tha <m>a deich</m>.</gd>
+          <tr>How many books do you have there? / I have ten.</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+        <li>
+          <gd>air taobh-duilleig a deich</gd>
+          <tr>on page ten</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+
+  <module id="deicheamh">
+    <h>deicheamh</h>
+    <p><b>deicheamh</b>
+      <en>tenth, 10th</en> is a derived ordinal, with suffix <a href="?gd=_amh">-(e)amh</a>.</p>
+    <p>Pedagogical examples – <xl id="deicheamh-pedag">
+        <li>
+          <gd>an deicheamh fear</gd>
+          <tr>the tenth man/one</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+        <li>
+          <gd>ron deicheamh latha den Lùnastal</gd>
+          <tr>before the tenth (day) of August</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+        <li>
+          <gd>Seall dhomh am boireannach a ghabhadh ris an deicheamh cuid dheth.</gd>
+          <tr>Show me the woman who would put up with the tenth [part] of it.</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+        <li>
+          <gd>an deicheamh earrann</gd>
+          <tr>a tenth</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+      </xl>
+    </p>
+    <module id="deicheamh-noun">
+      <h>deicheamh – noun</h>
+      <p><b>deicheamh</b>
+        <en>a tenth, a decimal, tithe</en> is a derived masculine noun, with genitive singular
+          <b>deicheimh</b>. Alternative spelling: <b>deachamh</b>.</p>
+      <p>Pedagogical examples – <xl id="deicheamh-noun-pedag">
+          <li>
+            <gd>deicheamh meatair</gd>
+            <tr>a tenth of a meter</tr>
+            <ref text="601">td. 221</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+  </module>
+
+  <module id="deichnear">
+    <h>deichnear</h>
+    <p><b>deichnear</b>
+      <en>ten people</en> is a masculine <a href="?xx=nouns/numeric_nouns">numeric noun</a></p>
+    <p>Pedagogical examples – <xl id="deichnear-pedag">
+        <li>
+          <gd>deichnear mhac</gd>
+          <tr>ten sons</tr>
+          <ref text="605">td. 14</ref>
+        </li>
+        <li>
+          <gd>deichnear bhalach</gd>
+          <tr>ten boys</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+        <li>
+          <gd>naoinear no deichnear de chaileagan</gd>
+          <tr>nine or ten girls</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+
+  <module id="deug">
+    <h>deug</h>
+    <p><b>deug</b>
+      <en>-teen, plus ten, +10</en> is a derived numeric adjective.</p>
+    <module id="aon_deug">
+      <h>aon deug</h>
+      <p><b>aon ... deug</b>
+        <en>eleven, 11</en> is a compound numeral, formed from <a href="?gd=aon">aon</a>
+        <en>one, 1</en>.</p>
+      <p>Pedagogical examples – <xl id="aon_deug-pedag">
+          <li>
+            <gd>aon bhreac deug</gd>
+            <tr>eleven trout</tr>
+            <ref text="601">td. 226</ref>
+          </li>
+        </xl>
+      </p>
+      <module id="a_h-aon_deug">
+        <h>a h-aon deug</h>
+        <p><b>a h-aon deug</b>
+          <en>eleven, 11</en> is an absolute numeral form.</p>
+      </module>
+    </module>
+    <module id="da_dheug">
+      <h>dà dheug</h>
+      <p><b>dà ... dheug</b>
+        <en>twelve, 12</en> is a compound numeral, formed from <a href="?gd=dà">dà</a>
+        <en>two, 2</en>.</p>
+      <p>Pedagogical examples – <xl id="da_deug-pedag">
+          <li>
+            <gd>dà bhreac dheug</gd>
+            <tr>twelve trout</tr>
+            <ref text="601">td. 226</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Examples from Gairm – <xl id="da_deug-Gairm">
+          <li>
+            <gd>Ann an <m>dà bhliadhna dheug</m> sgrìobh e fichead leabhar ’s a h-aon ’s dh’ fhàg e
+              grunn mór phàipearan a chùl air a sin.</gd>
+            <tr>In 12 years he [Kierkegaard] wrote 21 books and he left behind a large quantity of
+              papers.</tr>
+            <ref text="400-41">td. 103</ref>
+          </li>
+        </xl>
+      </p>
+      <module id="a_dha_dheug">
+        <h>a dhà dheug</h>
+        <p><b>a dhà dheug</b>
+          <en>twelve, 12</en> is an absolute numeral form.</p>
+      </module>
+    </module>
+    <module id="tri_deug">
+      <h>trì deug</h>
+      <p><b>trì ... deug</b>
+        <en>thirteen, 13</en> is a compound numeral, formed from <a href="?gd=trì">trì</a>
+        <en>three, 3</en>.</p>
+      <p>Pedagogical examples – <xl id="tri_deug-pedag">
+          <li>
+            <gd>trì bric dheug</gd>
+            <tr>thirteen trout</tr>
+            <ref text="601">td. 226</ref>
+          </li>
+        </xl>
+      </p>
+      <module id="a_tri_deug">
+        <h>a trì deug</h>
+        <p><b>a trì deug</b>
+          <en>thirteen, 13</en> is an absolute numeral form.</p>
+      </module>
+    </module>
+    <module id="ceithir_deug">
+      <h>ceithir deug</h>
+      <p><b>ceithir ... deug</b>
+        <en>fourteen, 14</en> is a compound numeral, formed from <a href="?gd=ceithir">ceithir</a>
+        <en>four, 4</en>.</p>
+      <p>Pedagogical examples – <xl id="ceithir_deug-pedag">
+          <li>
+            <gd>ceithir bric dheug</gd>
+            <tr>fourteen trout</tr>
+            <ref text="601">td. 226</ref>
+          </li>
+        </xl>
+      </p>
+      <module id="a_ceithir_deug">
+        <h>a ceithir deug</h>
+        <p><b>a ceithir deug</b>
+          <en>fourteen, 14</en> is an absolute numeral form.</p>
+      </module>
+    </module>
+    <module id="coig_deug">
+      <h>còig deug</h>
+      <p><b>còig ... deug</b>
+        <en>fifteen, 15</en> is a compound numeral, formed from <a href="?gd=còig">còig</a>
+        <en>five, 5</en>.</p>
+      <p>Pedagogical examples – <xl id="coig_deug-pedag">
+          <li>
+            <gd>còig bric dheug</gd>
+            <tr>fifteen trout</tr>
+            <ref text="601">td. 226</ref>
+          </li>
+        </xl>
+      </p>
+      <module id="a_coig_deug">
+        <h>a còig deug</h>
+        <p><b>a còig deug</b>
+          <en>fifteen, 15</en> is an absolute numeral form.</p>
+      </module>
+    </module>
+    <module id="sia_deug">
+      <h>sia deug</h>
+      <p><b>sia ... deug</b>
+        <en>sixteen, 16</en> is a compound numeral, formed from <a href="?gd=sia">sia</a>
+        <en>six, 6</en>.</p>
+      <p>Pedagogical examples – <xl id="sia_deug-pedag">
+          <li>
+            <gd>sia bric dheug</gd>
+            <tr>sixteen trout</tr>
+            <ref text="601">td. 226</ref>
+          </li>
+        </xl>
+      </p>
+      <module id="a_sia_deug">
+        <h>a sia deug</h>
+        <p><b>a sia deug</b>
+          <en>sixteen, 16</en> is an absolute numeral form.</p>
+      </module>
+    </module>
+    <module id="seachd_deug">
+      <h>seachd deug</h>
+      <p><b>seachd ... deug</b>
+        <en>seventeen, 17</en> is a compound numeral, formed from <a href="?gd=seachd">seachd</a>
+        <en>seven, 7</en>.</p>
+      <p>Pedagogical examples – <xl id="seachd_deug-pedag">
+          <li>
+            <gd>seachd bric dheug</gd>
+            <tr>seventeen trout</tr>
+            <ref text="601">td. 226</ref>
+          </li>
+        </xl>
+      </p>
+      <module id="a_seachd_deug">
+        <h>a seachd deug</h>
+        <p><b>a seachd deug</b>
+          <en>seventeen, 17</en> is an absolute numeral form.</p>
+      </module>
+    </module>
+    <module id="ochd_deug">
+      <h>ochd deug</h>
+      <p><b>ochd ... deug</b>
+        <en>eighteen, 18</en> is a compound numeral, formed from <a href="?gd=ochd">ochd</a>
+        <en>eight, 8</en>.</p>
+      <p>Pedagogical examples – <xl id="ochd_deug-pedag">
+          <li>
+            <gd>ochd bric dheug</gd>
+            <tr>eighteen trout</tr>
+            <ref text="601">td. 226</ref>
+          </li>
+        </xl>
+      </p>
+      <module id="a_h-ochd_deug">
+        <h>a h-ochd deug</h>
+        <p><b>a h-ochd deug</b>
+          <en>eighteen, 18</en> is an absolute numeral form.</p>
+      </module>
+    </module>
+    <module id="naoi_deug">
+      <h>naoi deug</h>
+      <p><b>naoi ... deug</b>
+        <en>nineteen, 19</en> is a compound numeral, formed from <a href="?gd=naoi">naoi</a>
+        <en>nine, 9</en>.</p>
+      <p>Pedagogical examples – <xl id="naoi_deug-pedag">
+          <li>
+            <gd>naoi bric dheug</gd>
+            <tr>nineteen trout</tr>
+            <ref text="601">td. 226</ref>
+          </li>
+        </xl>
+      </p>
+      <module id="a_naoi_deug">
+        <h>a naoi deug</h>
+        <p><b>a naoi deug</b>
+          <en>nineteen, 19</en> is an absolute numeral form.</p>
+      </module>
+    </module>
+
+    <module id="deugaire">
+      <h>deugaire</h>
+      <p><b>deugaire</b>
+        <en>teenager</en> is a masculine <a href="?xx=nouns/anthropic_common_nouns"
+          >anthropic common noun</a>, with plural form <b>deugairean</b>.</p>
+    </module>
+    <module id="deugan">
+      <h>deugan</h>
+      <p><b>deugan</b>
+        <en>teens</en> is a derived plural common noun.</p>
+    </module>
+    <module id="deugaich">
+      <h>deugaich</h>
+      <p><b>deugaich</b>
+        <en>go into one’s teens, become more than ten</en> is a derived verb, with suffix <a
+          href="?gd=_ich">-(a)ich</a>. The verbal noun is <b>deugachadh</b>
+        <masc/></p>
+      <module id="deugachadh">
+        <h>deugachadh</h>
+        <p><b>deugachadh</b>
+          <en>going into one’s teens, becoming more than ten, tens</en> is a derived masculine
+          common noun, with genitive singular <b>deugachaidh</b>.</p>
+        <p>Pedagogical examples – <xl id="deugachadh-pedag">
+            <li>
+              <gd>an dèidh deugachadh a dh’uairean a thìde</gd>
+              <tr>after tens of hours [of time]</tr>
+              <ref text="601">td. 226</ref>
+            </li>
+            <li>
+              <gd>Bha deugachadh dhaoine againn aig a’ choinneimh.</gd>
+              <tr>We had tens of people at the meeting.</tr>
+              <ref text="601">td. 226</ref>
+            </li>
+          </xl>
+        </p>
+      </module>
+    </module>
+  </module>
+
+  <module id="deich-noun">
+    <h>deich – noun</h>
+    <p><b>deich</b>
+      <en>a ten</en> is a derived masculine noun, with plural form <b>deichean</b>.</p>
+    <p>Pedagogical examples – <xl id="deich-noun-pedag">
+        <li>
+          <gd>deichean agus aonadan</gd>
+          <tr>tens and units</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+        <li>
+          <gd>Tha ar figearan a’ dol nan deichean.</gd>
+          <tr>Our figures work in [their] tens.</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+        <li>
+          <gd>Seo bonn leth-cheud agus an còrr [ann] an deichean.</gd>
+          <tr>Here’s a fifty pence piece and the rest in tens.</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+        <li>
+          <gd>anns na deichean air fhichead</gd>
+          <tr>in the thirties, in the 30s</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+
+  <module id="deichead">
+    <h>deichead</h>
+    <p><b>deichead</b>
+      <en>decade, ten years, decimal</en> is a masculine derived common noun, with genitive singular
+        <b>deicheid</b> and plural <b>deicheadan</b>.</p>
+    <p>Pedagogical examples – <xl id="deichead-pedag">
+        <li>
+          <gd>anns na deicheadan roimhe seo</gd>
+          <tr>in the preceding decades</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+        <li>
+          <gd>san deichead a tha romhainn</gd>
+          <tr>in the decade before us</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+
+  <module id="deicheach">
+    <h>deicheach</h>
+    <p><b>deicheach</b>
+      <en>decimal</en> is a derived adjective, with suffix <a href="?gd=_ach">-(e)ach</a>.</p>
+    <p>Pedagogical examples – <xl id="deicheach-pedag">
+        <li>
+          <gd>cùnntas deicheach / riochd deicheach / bloigh dheicheach / comharrachadh deicheach /
+            ionad deicheach</gd>
+          <tr>decimal counting / decimal form / decimal fraction / decimal notation / decimal
+            place</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+
+  <module id="deicheil">
+    <h>deicheil</h>
+    <p><b>deicheil</b>
+      <en>decimal</en> is a derived adjective, with suffix <a href="?gd=_il">-(a)il</a>.</p>
+  </module>
+
+  <module id="deich-bhliadhnail">
+    <h>deich-bhliadhnail</h>
+    <p><b>deich-bhliadhnail</b>
+      <en>decennial, every ten years</en> is a derived adjective, with suffix <a href="?gd=_il"
+        >-(a)il</a>. cf. <a href="?gd=bliadhna">bliadhna</a>
+      <i>fem.</i>
+      <en>year</en>.</p>
+  </module>
+
+</module>

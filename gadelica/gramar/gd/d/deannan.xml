@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title>deannan</title>
+  <p><strong>deannan</strong>
+    <en>small amount, little, few</en> is a masculine <a href="?xx=nouns/generic_quantity_nouns">generic quantity noun</a>, a diminutive of the feminine noun <strong>deann</strong>
+    <en>particle</en>. Dictionaries list the genitive singular form <strong>deannain</strong> and the plural <strong>deannanan</strong>, though it is not clear the extent to which these are used.</p>
+  <hr/>
+  <p>In terms of the stuff being quantified, <strong>deannan</strong> generally works like other generic quantity nouns –</p>
+  <ul>
+    <li>When the stuff being quantified is new information, it is usually expressed as a noun modifier/specifier of <strong>deannan</strong>, either the genitive singular of a mass noun or the
+      genitive plural of a count noun eg. <ul>
+        <li>Dh’òl Raonaid <m>deannan <u>fìona</u></m>. <en>Rachel drank a little wine.</en></li>
+        <li>Tha <m>deannan <u>chon</u></m> aig Màiri. <en>Mary has a few dogs.</en></li>
+      </ul>
+      <ulx id="deannan_specifier">
+        <li>
+          <gd>Nis bha na làithean a’ dol seachad agus na seachduinnean cuideachd, ’s cha robh Alasdair a’ brath creic fhaotainn do’n Dolaidh Anna. 
+            Ràinig deannan choigrich ’ga coimhead, ceart gu leòr,
+            ach cha robh ann ach aon duine a bha cho fad air ais ’s gun robh an coltas air gum faodadh cumadh glan agus peanta dheàrrsach a mhealladh.</gd>
+          <tr>Now the days were going by and the weeks as well, and Alexander was not [managing to?] find a buyer for Dollyanna [a boat]. 
+              A few strangers came to see her, true enough, but there was only one man who was so [old-fashioned?] that he looked as 
+              though a [clean shape]? and bright paint might deceive him.</tr>
+          <ref text="44">td. 29</ref>
+        </li>
+        <li>
+          <gd>Bha sinn glé thric ag iasgach. B’e sin an t-iasgach – iasgach phartan, gun slat, gun dubhan ach pìos sreinge agus sgonn mhath biadhaidh air a ceann: 
+            earrann mhath de rionnach saillte a fhuaireadh a thoirt gu falchaidh as a’ bharailte a bha san taigh bheag aig ceann an taighe. 
+            Nuair a gheibhte deannan phartan, dh’fhalbhamaid an sin a dhèanamh fang, a’ toirt a chreidsinn
+            oirnn fhìn gur ann a bh’againn caoraich.</gd>
+          <tr>We went fishing a lot. That was the fishing – fishing for crabs, without a rod, without a hook, 
+            only a piece of string and a good lump of bait at the end: a good piece of salted mackerel that was [snuck?] 
+            from the barrel that was in the little shed at the end of the house. When a few crabs were found, we left [there] to make a pen,
+            pretending to ourselves that we had sheep.</tr>
+          <ref text="28">td. 7</ref></li>
+        <li>
+          <gd>Bhiodh sgur ga chur air iasgach an sgadain sa’ Mhaoil airson deannan sheachdainean o mheadhoin na Giblein 
+            gu cothrom a thoirt dhan iasg tighinn gu abaichead.</gd>
+          <tr>The herring fishing was stopped in the Minch for a few weeks from the middle of April to give the fish a chance to mature.</tr>
+          <ref text="400-154">td. 123</ref></li>
+        <li>
+          <gd>Ciamar a tha mi tomhas trèigil is siorap? Chosg e deannan math uisge teth is siabainn, gun tighinn air – ciamar a fhuair trèigil dham fhalt? — 
+            siampù, mus tàinig mi chun a’ cho-dhùnaidh
+            gum feumadh gu robh dòigh shònraichte aig Catrìona air faighinn timcheall air an duilgheadas seo.</gd>
+          <tr>How do I measure out treacle and syrup? It [costs] quite a bit of hot water and soap, not to mention – how did treacle get in my hair? – shampoo,
+            before I came to the conclusion that Catherine must have a special way of getting around this difficulty.</tr>
+          <ref text="331">td. 70</ref></li>
+      </ulx>
+    </li>
+    <li>When the stuff being quantified is already known, it is usually introduced by the partitive preposition <a href="?gd=de">de</a>
+      <en>of</en> governing a specified (ie. ‘definite’) noun eg. <ul>
+        <li>Dh’òl Raonaid <m>deannan <u>den fhìon</u></m>. <en>Rachel drank a little of the wine.</en></li>
+        <li>Cheannaich Màiri <m>deannan <u>de mo choin</u></m>. <en>Mary bought a few of my dogs.</en></li>
+      </ul>
+      <ulx id="deannan_de">
+        <li>
+          <gd>Bhiodh poca seòladair agus na badan aodaich a chaidh aige air a chruinneachadh aig gach fear an àm fàgail an
+            taighe. Bha deannan math de dh’fhir a’ bhaile a’ falbh còmhla ris a’ giùlain, fear mu seach, greis dhen phoca air a ghualainn 
+            fhad ’s a bhathar a’ coiseachd nan sia mìle gu Bàgh a’ Chaisteil.</gd>
+          <tr>Each man would have a sailor’s bag and the bunch of clothes that he had managed to gather together when he left the house.
+            Quite a few of the the men of the town were leaving together with the [bier?], one after the other, [for a while?] of the bag on his shoulder
+            while walking the six miles to Castlebay.</tr>
+          <ref text="28">td. 21</ref></li>
+      </ulx>
+    </li>
+    <li>When the stuff being quantified is already known, and has just been referred to, or can be inferred, <strong>deannan</strong> can occur on its own eg. <ul>
+        <li>Dh’òl Raonaid <m>deannan</m>. <en>Rachel drank a little.</en></li>
+        <li>Tha <m>deannan</m> aig Màiri. <en>Mary has a few.</en></li>
+      </ul>
+    </li>
+    <li>Alternatively, <strong>deannan</strong> can be followed by one of the <a href="?gd=de">de</a> prepositional pronouns eg. <ul>
+        <li>Dh’òl Raonaid <m>deannan <u>dheth</u></m>. <en>Rachel drank a little of it.</en></li>
+        <li>Tha <m>deannan <u>dhiubh</u></m> aig Màiri. <en>Mary has a few of them.</en></li>
+      </ul>
+    </li>
+  </ul>
+  <p>However, there is some variation in usage to be found here. <ulx id="deannan_de_variation">
+      <li>
+        <gd>Bha deannan math de shaighdearan à caochladh rèiseamaidean a seo air a rathad a-null — 
+          feadhainn a chuir latha no dhà no barrachd ris an fhòrladh mar a rinn sinn fhìn.</gd>
+        <tr>Quite a few soldiers from different regiments were here on the road over to there – 
+          those who had spent a couple of days or more on leave as we ourselves had done.</tr>
+        <ref text="400-128">td. 303</ref>
+      </li>
+    </ulx>
+  </p>
+  <p>In addition, it appears that <strong>deannan</strong> is used much more frequently with plural countable nouns, especially those describing groups of people or intervals of time, than with singular mass nouns.</p>
+  <hr/>
+  <p>Note the idioms <strong>deannan math</strong>
+    <en>a good amount</en> and <strong>deannan beag</strong>
+    <en>very few/little</en>
+    <ulx id="deannan_math">
+      <li>
+        <gd>Ciamar a tha mi tomhas trèigil is siorap? Chosg e deannan math uisge teth is siabainn, gun tighinn air – ciamar a fhuair trèigil dham fhalt? — siampù, mus tàinig mi chun a’ cho-dhùnaidh
+          gum feumadh gu robh dòigh shònraichte aig Catrìona air faighinn timcheall air an duilgheadas seo.</gd>
+        <tr>How do I measure out treacle and syrup? It [costs] quite a bit of hot water and soap, not to mention – how did treacle get in my hair? – shampoo,
+          before I came to the conclusion that Catherine must have a special way of getting around this difficulty.</tr>
+        <ref text="331">td. 70</ref></li>
+      <li>
+        <gd>Bhiodh poca seòladair agus na badan aodaich a chaidh aige air a chruinneachadh aig gach fear an àm fàgail an
+          taighe. Bha deannan math de dh’fhir a’ bhaile a’ falbh còmhla ris a’ giùlain, fear mu seach, greis dhen phoca air a ghualainn fhad ’s a bhathar a’ coiseachd nan sia mìle gu Bàgh a’
+          Chaisteil.</gd>
+        <tr>Each man would have a sailor’s bag and the bunch of clothes that he had managed to gather together when he left the house.
+          Quite a few of the the men of the town were leaving together with the [bier?], one after the other, [for a while?] of the bag on his shoulder
+          while walking the six miles to Castlebay.</tr>
+        <ref text="28">td. 21</ref></li>
+    </ulx>
+  </p>
+  <p>Note also the synonymous, but less common, feminine diminutive <strong>deannag</strong>.</p>
+  <hr/>
+</module>

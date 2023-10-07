@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>beairteas</h>
+    <p><g>beairteas</g>
+        <en>riches, wealth, affluence</en> is a masculine derived common noun, with stem
+            <a href="?gd=beairt"><g>beairt</g></a>
+        <fem/>
+        <en>engine, (hand) loom, contrivance, instrument</en> and suffix <a href="?gd=_as"
+                ><g>-eas</g></a>.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>stem</h>
+            <p><a href="?gd=bun-bheairteas"><g>bun-bheairteas</g></a>
+                <masc/>
+                <en>basic wealth, original wealth</en></p>
+        </section>
+    </section>
+
+
+</module>

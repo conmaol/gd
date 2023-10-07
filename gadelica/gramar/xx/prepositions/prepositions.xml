@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>prepositions</h>
+
+  <!--
+  <p>Prepositions are word which typically describe <u>spaces</u> – both in the physical world, and
+    in more abstract domains as well.</p>
+  <hr/>
+  <p>Prepositions govern an <u>object</u>, which must be a <a href="?xx=nouns/nouns">noun</a> in the
+    dative.</p>
+  <hr/>
+  -->
+  <p>The non-leniting prepositions are – <ul>
+      <li><a href="?gd=a^preposition"><g>à</g></a>
+        <en>out of</en> (elative)</li>
+      <li><a href="?gd=aig"><g>aig</g></a>
+        <en>at</en> (adessive)</li>
+      <li><a href="?gd=air"><g>air</g></a>
+        <en>on</en> (superessive)</li>
+      <li><a href="?gd=an^preposition"><g>an</g></a>
+        <en>in</en> (inessive)</li>
+      <li><a href="?gd=gu^preposition"><g>gu</g></a>
+        <en>to</en> (allative)</li>
+      <li><a href="?gd=le"><g>le</g></a>
+        <en>with</en> (instrumental)</li>
+      <li><a href="?gd=ri"><g>ri</g></a>
+        <en>at</en></li>
+    </ul>
+  </p>
+
+
+  <!--
+  <p>Apart from <strong>aig</strong> and <strong>air</strong>, these prepositions all have a special
+    form in <strong>-s</strong> which is used before the definite article ie. <strong>às</strong>,
+      <strong>anns</strong>, <strong>gus</strong>, <strong>leis</strong>, <strong>ris</strong>.</p>
+      -->
+
+
+  <p>The leniting prepositions are – <ul>
+      <li><a href="?gd=bho"><g>bho</g></a>
+        <en>from</en> (ablative)</li>
+      <li><a href="?gd=de"><g>de</g></a> [<g>a</g>] <en>of</en> (partitive)</li>
+      <li><a href="?gd=do^preposition"><g>do</g></a> [<g>a</g>] <en>into</en> (illative)</li>
+      <li><a href="?gd=fo"><g>fo</g></a>
+        <en>under</en> (subessive)</li>
+      <li><a href="?gd=mu"><g>mu</g></a>
+        <en>about</en></li>
+      <li><a href="?gd=ro"><g>ro</g></a>
+        <en>before</en> (antessive)</li>
+      <li><a href="?gd=tro"><g>tro</g></a>
+        <en>through</en> (perlative)</li>
+    </ul>
+  </p>
+
+  <!--
+  <p>These prepositions all have a special form in <strong>-n</strong> which is used before the
+    definite article ie. <strong>bhon</strong>, <strong>den</strong>, <strong>dhan</strong>,
+      <strong>fon</strong>, <strong>mun</strong>, <strong>ron</strong>, <strong>tron</strong>.</p>
+  <hr/>
+  <p>Since personal pronouns do not have dative forms, they cannot occur as the object of a preposition.</p>
+  <p><a href="?xx=prepositions/compound_prepositions">compound prepositions</a></p>
+  <hr/>
+  -->
+
+  <section id="relatives">
+    <h>relative clauses</h>
+    <section>
+      <h>fronting</h>
+      <p>Some examples –<ul>
+          <li><g>Bha mi a’ bruidhinn ri tè.</g>
+            <en>I was speaking to a woman.</en>
+            <ul>
+              <li><g>an tè <m>ris an robh</m> mi a' bruidhinn</g>
+                <en>the woman to whom I was speaking</en></li>
+              <li><g>an tè <m>ris nach robh</m> mi a' bruidhinn</g>
+                <en>the woman to whom I was not speaking</en></li>
+            </ul>
+          </li>
+          <li><g>Bidh mullach ùr air eaglais.</g>
+            <en>There will be a new roof on a church.</en>
+            <ul>
+              <li><g>an eaglais <m>air am bi</m> mullach ùr</g>
+                <en>the church on which there will be a new roof</en></li>
+              <li><g>an eaglais <m>air nach bi</m> mullach ùr</g>
+                <en>the church on which there will not be a new roof</en></li>
+            </ul>
+          </li>
+          <li><g>Bha am pasgan air a cheangal le snàthainn.</g>
+            <en>The parcel was tied up with thread.</en>
+            <ul>
+              <li><g>an t-snàthainn <m>leis an robh</m> am pasgan air a cheangal</g>
+                <en>the thread with which the parcel was tied up</en></li>
+              <li><g>an t-snàthainn <m>leis nach robh</m> am pasgan air a cheangal</g>
+                <en>the thread with which the parcel was not tied up</en></li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+
+    <section>
+      <h>stranding</h>
+      <p>Some examples –<ul>
+          <li><g>Bha mi a’ bruidhinn ri tè.</g>
+            <en>I was speaking to a woman.</en>
+            <ul>
+              <li><g>an tè <m>a bha</m> mi a' bruidhinn <m>rithe</m></g>
+                <en>the woman who I was speaking to</en></li>
+              <li><g>an tè <m>nach robh</m> mi a' bruidhinn <m>rithe</m></g>
+                <en>the woman who I was not speaking to</en></li>
+            </ul>
+          </li>
+          <li><g>Bidh mullach ùr air eaglais.</g>
+            <en>There will be a new roof on a church.</en>
+            <ul>
+              <li><g>an eaglais <m>a bhios</m> mullach ùr <m>oirre</m></g>
+                <en>the church which there will be a new roof on</en></li>
+              <li><g>an eaglais <m>nach bi</m> mullach ùr <m>oirre</m></g>
+                <en>the church which there will not be a new roof on</en></li>
+            </ul>
+          </li>
+          <li><g>Bha am pasgan air a cheangal le snàthainn.</g>
+            <en>The parcel was tied up with thread.</en>
+            <ul>
+              <li><g>an t-snàthainn <m>a bha</m> am pasgan air a cheangal leatha</g>
+                <en>the thread which the parcel was tied up with</en></li>
+              <li><g>an t-snàthainn <m>nach robh</m> am pasgan air a cheangal leatha</g>
+                <en>the thread which the parcel was not tied up with</en></li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+  </section>
+
+</module>

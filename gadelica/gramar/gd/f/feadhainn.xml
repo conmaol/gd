@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>feadhainn</h>
+  <p><g>feadhainn</g> <en>people, folk</en> is a feminine common noun.</p>
+  <p>Examples from Gairm – <xl id="gairm">
+      <li>
+        <gd>Ma rannsaicheas sinn air ais fada gu leòir chì sinn nach robh sgoilean anns an Oban gus
+          an ochdamh linn deug. Bha an sgoil bheag a b’ fhaisge air anns a’ Chill Mhóir cóig mìle
+          air falbh, agus tha e coltach gu robh an sgoil sin air <m>an fheadhainn bu shine an
+            Earra-Ghaidheal</m>.</gd>
+        <tr>If we research back long enough we will see that there were no schools in Oban until the
+          eighteenth century. The closest little school was in Kilmore five miles away, and it
+          appears that that school was one of the oldest in Argyll.</tr>
+        <ref text="400-20">td. 363</ref>
+      </li>
+    </xl>
+  </p>
+  <p>Other examples from modern usage – <xl id="other">
+      <li>
+        <gd>Bha a h-uile duine a dh’aithnicheadh e a’ smaoineachadh gu robh beatha shòlasach aig
+          Ailig Smart. Bha <m>feadhainn</m> a’ dèanamh fealla-dhà air ainm, ag ràdh ‘Smart Ailig’,
+          ach cha robh an sin ach farmad. [...]</gd>
+        <tr>Everybody who got to know him thought that Alec Smart had a good life. Some people made
+          fun of his name, saying ‘Smart Alec’, but there was nothing there but envy. [...]</tr>
+        <ref text="2">td. 103</ref>
+      </li>
+      <li>
+        <gd>Is fhada bhon a bha daoine ag ràdh gum biodh àite cruinneachaidh do luchd-labhairt na
+          Gàidhlig na leas do chor a’ chànain, na ghoireas don <m>fheadhainn</m> a bha an-sàs ann an
+          gnìomhan Gàidhlig mar-thà agus na mheadhan air aire agus ùidh sa Ghàidhlig a thogail.</gd>
+        <tr>For a long time people were saying that a gathering place for Gaelic speakers would be a
+          benefit to the state of the language, an amenity for <u>those</u> who were involved in
+          Gaelic activities already and a means of raising awareness and interest in Gaelic.</tr>
+        <ref text="610">td. 85</ref>
+      </li>
+    </xl>
+  </p>
+
+
+</module>

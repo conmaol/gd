@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="silver">
+  <h>mòran</h>
+  <p><g>mòran</g>
+    <en>lot, many, much</en> is a masculine <a href="?xx=nouns/generic_quantity_nouns">generic
+      quantity noun</a>, expressing a <emph>large</emph> quantity. It is <!--<a
+      href="?xx=nouns/derived_common_nouns">-->derived<!--</a>--> from the adjective
+      <!--<a href="?gd=mòr"
+        >--><g>mòr</g><!--</a>-->
+    <en>big, large</en> using the suffix <!--<a href="?gd=_an">--><g>-an</g><!--</a>-->, and has the
+    genitive singular form <g>mòrain</g>.</p>
+  <!--<p>cf. <a href="?gd=beagan">beagan</a>
+    <en>small quantity</en>, <a href="?gd=mòran_a_bharrachd">mòran a bharrachd</a>
+    <en>many more</en>.</p>
+  -->
+  <section>
+    <h>dependents</h>
+    <p>Like other generic quantity nouns, <g>mòran</g> characteristically occurs in three different
+      kinds of grammatical construction.</p>
+    <section id="indefinite">
+      <h>indefinite</h>
+      <p>On its own – <ul>
+          <li>Dh’ith Mairead <m>mòran</m>. <en>Margaret ate a lot.</en></li>
+          <li>Tha <m>mòran</m> aig Seumas. <en>James has a lot.</en></li>
+        </ul>
+        <xl id="moran">
+          <li>
+            <gd>Ach bha eagal air gun cuireadh sin Ealasaid na teine agus cha robh mòran na shaoghal
+              na bu phrìseil’ na an t-eathar.</gd>
+            <tr>But he was afraid that that would set fire to Elisabeth and there was not much in
+              his world that was more valuable than the boat.</tr>
+            <ref text="2">td. 100</ref>
+          </li>
+          <li>
+            <gd>Ach tha mi coimhead gu bheil an treubh seo bochd is acrach ’s nach eil mòran as
+              urrainn dhomh a dhèanamh air an son.</gd>
+            <tr>But I can see that this tribe is poor and hungry and there is not much I can do for
+              them.</tr>
+            <ref text="501">td. 20</ref>
+            <note>‘coimhead’ instead of ‘faicinn’ is a dialectal feature specific to Point in
+              Lewis.</note>
+          </li>
+          <li>
+            <gd>am beachd mòrain</gd>
+            <tr>in the opinion of many</tr>
+            <ref text="601">td. 439</ref>
+          </li>
+        </xl>
+      </p>
+      <p>With a genitive modifier – <ul>
+          <li>Dh’òl Raonaid <m>mòran <emph>uisge</emph></m>. <en>Rachel drank a lot of
+            water.</en></li>
+          <li>Tha <m>mòran <emph>chon</emph></m> aig Màiri. <en>Mary has a lot of dogs.</en></li>
+        </ul>
+        <xl id="moran_specifier">
+          <li>
+            <gd>Mu dheireadh fhuair e beairt ’s bha i aige shìos anns an t-sabhal ’s bhiodh e cluich
+              oirre shìos an sin, ged nach robh e dèanamh móran airgid aiste.</gd>
+            <tr>Eventually he got a loom and he had it down in the barn and he would be playing with
+              it down there, even though he wasn’t making much money from it.</tr>
+            <ref text="198">td. 75</ref>
+          </li>
+          <li>
+            <gd>Mar a bha nàdarrach, ’s ann aice a dh’fhàg an Caiptean an taigh, agus mòran
+              earrannan ann an dà chompanaidh.</gd>
+            <tr>As was natural, the Captain left the house to her, and a lot of shares in two
+              companies.</tr>
+            <ref text="2">td. 43</ref>
+          </li>
+          <li>
+            <gd>“Tha iad ag iarraidh air mòran iseanan a chur thuca, oir tha anaman nan nàimhdean a’
+              sgiathalaich air falbh don adhar nuair a dh’fhàgas iad an cuirp.”</gd>
+            <tr>“They are asking for lots of chicks to be sent to them, because the souls of the
+              enemies are flying away to the sky when they leave their bodies.”</tr>
+            <ref text="501">td. 54</ref>
+          </li>
+          <li>
+            <gd>Bha e air leth modhail, a’ toirt ‘Sir’ dhomh glè thric. Chan eil <m>mòran de dhaoine
+                òga</m> a bheir urram dhan aois an-diugh.</gd>
+            <tr>He was exceptionally polite, addressing me as ‘Sir’ frequently. There are not many
+              young people who pay respect to age today.</tr>
+            <ref text="2">td. 48</ref>
+            <note>Note the use of the preposition <g>de</g> here, rather than a simple
+              genitive.</note>
+          </li>
+          <li>
+            <gd>Ann an Dùn Èideann anns na naochadan bha barrachd agus barrachd inbhich airson
+              Gàidhlig ionnsachadh agus ged a nochd <m>mòran chlasaichean agus cùrsaichean
+                Gàidhlig</m> airson iarrtasan nan daoine sin a fhreagradh, bha ionnsachadh na
+              Gàidhlig ga bhacadh gu mòr air sgàth dìth shuidheachaidhean far an cluinnear an cànan
+              ga bruidhinn gu nàdarra.</gd>
+            <tr>In Edinburgh in the 90s there were more and more people wanting to learn Gaelic and
+              although <emph>a lot of Gaelic classes and courses</emph> sprang up to respond to the
+              demands of those people, Gaelic learning was largely inhibited because of lack of
+              situations where one could hear the language spoken naturally.</tr>
+            <ref text="610">td. 85</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="partitive">
+      <h>partitive</h>
+      <p>The preposition <a href="?gd=dhe"><g>de</g></a> with a definite noun – <ul>
+          <li>Chleachd Iain <m>mòran <emph>den ìm</emph></m>. <en>John used a lot [too much?] of the
+              butter.</en></li>
+          <li>Leugh Mairead <m>mòran <emph>de mo leabhraichean</emph></m>. <en>Margaret read a lot
+              of my books.</en></li>
+        </ul>
+        <xl id="moran_de">
+          <li>
+            <gd>Bha e ’na sheòladair uair mar a bha móran <m>do’n</m> fheadhainn a th’ anns a’
+              bhaile [...]</gd>
+            <tr>He had been a sailor at one time as had many of those who were in the village
+              [...]</tr>
+            <ref text="2">td. 100</ref>
+          </li>
+          <li>
+            <gd>Gu mì-fhortanach dhaibhsan, bha litrichean na h-aibidil air mòran <m>dhe</m> na
+              fàdan.</gd>
+            <tr>Unfortunately for them, there were letters of the alphabet on many of the
+              peats.</tr>
+            <ref text="2">td. 74</ref>
+          </li>
+          <li>
+            <gd>Bha mòran de seo air a chur an cèill le ...</gd>
+            <tr>Much of this was expressed by ...</tr>
+            <ref text="601">td. 439</ref>
+          </li>
+        </xl>
+      </p>
+      <p>With a prepositional pronoun – <ul>
+          <li>Dh’òl Raonaid <m>mòran <emph>dheth</emph></m>. <en>Rachel drank a lot of it.</en></li>
+          <li>Tha <m>mòran <emph>dhiubh</emph></m> aig Màiri. <en>Mary has a lot of them.</en></li>
+        </ul>
+        <xl id="moran_de_prep">
+          <li>
+            <gd>Thàinig sgrios air sluagh an eilein le breac, uair no dhà, is an 1856 chaidh 35
+              thairis gu Astràlia ach gu mì-fhortunach chailleadh móran diubh air an t-slighe null
+              le tinneas.</gd>
+            <tr>The island’s population was destroyed by smallpox, once or twice, and in 1856 35
+              went over to Australia but unfortunately many of them were lost on the voyage due to
+              sickness.</tr>
+            <ref text="400-1">td. 15</ref>
+          </li>
+          <li>
+            <gd>mòran <m>aca</m></gd>
+            <tr>many of them</tr>
+            <ref text="605">td. 273</ref>
+            <note>Note the use of <g>aca</g>
+              <en>at them</en> rather than <g>dhiubh</g>
+              <en>of them</en> here.</note>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="idiomatic">
+      <h>idiomatic</h>
+      <p><g>mòran mu</g>
+        <en>a lot [of information/knowledge] about</en> – <ul>
+          <li>Tha Màiri ag iarraidh <m>mòran</m> a chluinntinn <m><emph>mu choin</emph></m>.
+              <en>Mary wants to hear a lot about dogs.</en>
+          </li>
+        </ul>
+        <xl id="moran_mu">
+          <li>
+            <gd>Tha e ag innse mòran mu dheidhinn a’ ghille mar a thachair seo.</gd>
+            <tr>It says a lot about the boy how this happened.</tr>
+            <ref text="2">td. 25</ref>
+          </li>
+          <li>
+            <gd>Tha so a’ teagasg móran dhuinn mu Khierkegaard, duine ciogailteach, ro-mhothachail,
+              taghte le gibht a tharraing deuchainnean gun sgur mu a cheann.</gd>
+            <tr>This teaches us a lot about Kierkegaard, a difficult, oversensitive man, with a gift
+              for endlessly attracting trouble.</tr>
+            <ref text="400-41">td. 105</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Also: <g>chan eil mòran aice mu a dhèidhinn</g>
+        <en>she doesn’t care much for him</en>.</p>
+      <!--
+      <p><b>mòran ri (dhèanamh)</b>
+        <en>a lot to do, a lot to be done</en> – <ul>
+          <li>Tha <m>mòran</m> aig Raonaid <m><emph>ri dhèanamh</emph></m>. <en>Rachel has a lot to
+              do.</en>
+          </li>
+        </ul>
+        <xl id="moran_ri">
+          <li>
+            <gd>Bha mòran ri dhèanamh san taigh ùr, agus fad a’ gheamhraidh bha e ag obair a’ cur
+              nithean air dòigh am broinn an taighe.</gd>
+            <tr>There was a lot to do in the new house, and all winter long he was working to
+              organise things inside the house.</tr>
+            <ref text="14">td. 24</ref>
+          </li>
+          <li>
+            <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os cionn
+              obair a’ Chomuinn. [...] Cha b’ fhuilear do dhuine de ’n t-seòrsa so tomhas mhath de
+              chumhachd a bhith aige. [...] Bhiodh a leòr aige ri dhèanamh an toiseach ag
+              ath-nuadhachadh dreach a’ Chomuinn. Tha <m>móran ri dhèanamh</m> ris a’ Mhòd mus beir
+              e air linn an telebhisean, no eadhon air linn an réidio [...]</gd>
+            <tr>The Highland Society is talking about choosing a new General who will oversee the
+              Society’s work. [...] A person of this kind would have to have a good measure of
+              power. [...] He would have enough to do initially reforming the Society. There is
+                <emph>much to do</emph> at the Mod before it catches up with <ed>??</ed> the era of
+              television, or even with the era of radio [...]</tr>
+            <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+          </li>
+        </xl>
+      </p>
+      -->
+    </section>
+  </section>
+  <section id="other">
+    <h>other uses</h>
+    <p>When used inside a negative construction (ie. <g>cha</g>, <g>nach</g>, <g>gun</g>
+      <en>without</en>), <g>mòran</g> generally connotes a <emph>small</emph> quantity (cf.
+        <!--<a
+        href="?gd=beagan">--><g>beagan</g><!--</a>-->
+      <masc/>
+      <en>few, little, modicum</en>) and not just a ‘non-large’ quantity – <ul>
+        <li><m>Cha</m> do dh’òl Raonaid <m>mòran uisge</m>. <en>Rachel didn’t drink much water. [She
+            drank little water.]</en></li>
+        <li><m>Chan</m> eil <m>mòran leabhraichean</m> aig Màiri. <en>Mary doesn’t have many books.
+            [She has few books.]</en></li>
+      </ul>
+      <xl id="cha_moran">
+        <li>
+          <gd>Thubhairt Kierkegaard riutha gu feumadh iad an leum amaideach a dheanamh ach ma bha
+            duine aca ga thuigsinn cha robh móran airson an deuchainn sin a ghiùlain.</gd>
+          <tr>Kierkegaard said to them that they must take the leap of faith but if any of them
+            understood him few wanted to undertake the experiment.</tr>
+          <ref text="400-41">td. 105</ref>
+        </li>
+        <li>
+          <gd>Chan eil móran Chrìosdaidhean cho dìleas rithe-se.</gd>
+          <tr>Few Christians are as faithful as her.</tr>
+          <ref text="198">td. 30</ref>
+        </li>
+        <li>
+          <gd>Bha fear na garaids [...] ag ràdh gu robh am Ford cho aosta ’s nach robh e furasta na
+            pàirtean a bha air am milleadh a lorg. Cha robh e a’ dèanamh mòran strì airson am
+            faighinn co-dhiù.</gd>
+          <tr>The mechanic said that the Ford was so old that it was not easy to find the parts that
+            had been damaged. He wasn’t making much effort to get them anyway.</tr>
+          <ref text="2">td. 77</ref>
+        </li>
+      </xl>
+    </p>
+    <p>In addition, <g>mòran</g> can be used to emphasise a comparative adjective form – <ul>
+        <li>Tha Seumas <m>mòran nas beairtiche</m> na Dòmhnall. <en>James is much richer than
+            Donald.</en></li>
+      </ul>
+      <xl id="moran_nas">
+        <li>
+          <gd>Bha e a’ ruith mòran na bu luaithe na Ted, agus leum e an gàrradh [...]</gd>
+          <tr>He was running much faster than Ted, and he jumped the fence [...]</tr>
+          <ref text="2">td. 81</ref>
+        </li>
+      </xl>
+    </p>
+    <!--<p>Also: <b>fìor-mhòran</b> – <en>a very large amount, an awful lot</en>; <b>chan eil mòran aice mu a dhèidhinn</b>
+      <en>she doesn’t care much for him</en>.</p>
+    -->
+  </section>
+</module>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>stèidhich</h>
+    <p><g>stèidhich</g>
+        <en>establish, base, found, ground</en> is a derived verb, consisting of stem <a href="?gd=stèidh"
+                ><g>stèidh</g></a>
+        <fem/>
+        <en>base, foundation</en> and suffix <a href="?gd=_ich"><g>-ich</g></a>.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>stem</h>
+            <p><a href="?gd=stèidhichte"><g>stèidhichte</g></a>
+                <adj/>
+                <en>based, founded, established</en></p>
+        </section>
+    </section>
+
+</module>

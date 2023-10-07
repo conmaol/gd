@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>oifig</h>
+    <p><g>oifig</g>
+        <en>office</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p><g>oifig</g> can take another noun as post-specifier – <ul>
+                    <li><g>oifig a’ <a href="?gd=post">phuist</a></g>
+                        <en>the post office</en></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <p><g>oifig</g> can be the complement of certain prepositions – <ul>
+                    <li><g><a href="?gd=do^preposition">do</a> dh’oifig</g>
+                        <en>to an office</en> – <ul>
+                            <li>older pedagogical examples – <xl id="uses-comp-older-pedag">
+                                    <li>
+                                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha
+                                            air falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa
+                                            nan litrichean leis an litir seo, Iain?” “Théid,” ars
+                                            Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi
+                                            i is gus an cuir mi seòladh oirre. Ceannaich fhéin stamp
+                                            agus cuir oirre i.” Tha Iain a’ ruith sìos an rathad
+                                            leis an litir ’na làimh. Théid e a steach <m>do oifig a’
+                                                phuist</m>, ceannaichidh e stamp is cuiridh e sud
+                                            air an litir. [...]</gd>
+                                        <tr>My mother is writing a letter to my father who is away.
+                                            My mother said, “Will you go to the postbox with this
+                                            letter, John?” “Yes, I will,” said John, “I will leave
+                                            now.” “Wait until I seal it and put an address on it.
+                                            Buy a stamp and put it on it.” John is running down the
+                                            road with the letter in his hand. He will go into the
+                                            post office, he will buy a stamp and put that on the
+                                            letter. [...]</tr>
+                                        <ref text="621">td. 5</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+</module>

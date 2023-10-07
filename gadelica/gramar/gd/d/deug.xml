@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>deug</h>
+    <p><b>deug</b>
+        <en>-teen, +10</en> is a numeric adjective.</p>
+    <p>cf. <a href="?gd=dà"><g>dà ... dheug</g></a> <en>twelve, 12</en></p>
+    
+    
+</module>
+

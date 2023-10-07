@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h lang="en">èigh</h>
+    <h lang="gd">èigh</h>
+    <p lang="en"><b>èigh</b>
+        <en>shout, yell</en> is a verb.</p>
+    <p lang="gd">...</p>
+    <p lang="en">Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan fhalbh aon
+                    choigreach le mo leanabh. Cha teid i gu aon dannsa, tha sin cinnteach. Tha. Tha.
+                    Na bi smaoineachadh gun teid, a leanaibh. Chan eil fhios agad mu ’n deidhinn,
+                    mar a th’ agamsa.” <m>“Carson nach do bhàsaich thu o chionn leth-cheud
+                        bliadhna,” dh’ éigh Màiri.</m> Bha i smaoineachadh air na gnothaichean ud
+                    fhathast! “Greas ort leis an tea,” ars a màthair. [...]</gd>
+                <tr>[...] Her voice grew louder. “One thing is certain, not one stranger will leave
+                    [go out?] with my child. She will not go to a single dance, that is certain. It
+                    is. It is. Do not be thinking that you will, child. You don’t know about them,
+                    as I do.” “Why did you not die fifty years ago,” shouted Mary. She was still
+                    thinking about those matters! “Hurry up with the tea,” said her mother.
+                    [...]</tr>
+                <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>

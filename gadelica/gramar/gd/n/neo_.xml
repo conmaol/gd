@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>neo-</h>
+    <p><b>neo-</b> is a prefix used to create negative <a href="?xx=adjectives/compund_adjectives"
+            >compound adjectives</a> from other adjectives. <ul>
+            <li><a href="?gd=crìoch">crìoch</a>
+                <i>fem.</i> (pl. <b>crìochan</b>) <en>end, boundary</en> ⇒ <b>crìoch(n)ach</b>
+                <en>finite</en> ⇒ <b>neo-chrìoch(n)ach</b>
+                <en>infinite</en></li>
+            <li><a href="?gd=gnàth">gnàth</a>
+                <masc/>
+                <en>custom, practice, habit, usage, convention</en> ⇒ <b>gnàthach</b>
+                <en>customary, normal, usual, habitual, routine</en> ⇒ <b>neo-ghnàthach</b>
+                <en>unusual, unconventional, unorthodox, uncommon</en></li>
+        </ul>
+    </p>
+</module>

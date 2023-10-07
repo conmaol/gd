@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">tomhas</h>
+    <h lang="gd">tomhas</h>
+    <module id="tomhas_math">
+        <h lang="en">tomhas math</h>
+        <h lang="gd">tomhas math</h>
+        <p lang="en">Corpus examples – <xl id="exs">
+            <li>
+                <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios
+                    os cionn obair a’ Chomuinn. [...] Cha b’ fhuilear do dhuine de ’n
+                    t-seòrsa so <m>tomhas mhath de chumhachd</m> a bhith aige.</gd>
+                <tr>The Highland Society is talking about choosing a new General who will
+                    oversee the Society’s work. [...] A person of this kind would have to
+                    have <u>a good measure of power</u>.</tr>
+                <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+            </li>
+        </xl>
+            cf. <a href="?gd=math">math</a>.
+        </p>
+        <p lang="gd">...</p>
+    </module>
+</module>
+

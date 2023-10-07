@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>names</h>
+  <p>Names identify and refer to a single definite entity – a specific person, object, place, song, etc.</p>
+  <section>
+    <h>derivation</h>
+    <p>Names can be classified into two grammatical types – <ul>
+        <li><a href="?xx=nouns/proper_nouns">proper nouns</a> – (capitalised) single words –
+            <g>Mairead</g>
+          <fem/>
+          <en>Margaret</en>, <g>Glaschu</g>
+          <masc/>
+          <en>Glasgow</en>, <g>Gairm</g>
+          <fem/> <en>Crowing/Calling [name of literary periodical]</en> </li>
+        <li><a href="?xx=nouns/name_descriptions">name-descriptions</a> – (capitalised) specified
+          common noun expressions – <g>An Caiptean</g>
+          <en>The Captain</en>, <g>Ceann Loch Chille Chiarain</g>
+          <en>Campbeltown, lit. The Head of the Bay of Kieran’s Chapel</en>, <g>Òran na Cloiche</g>
+          <en>The Song of the Stone</en>.</li>
+      </ul>
+    </p>
+  </section>
+  <section>
+    <h>uses</h>
+    <p>Names can also be classified into a number of semantic classes, depending on the kind of entity
+      being named – <ul>
+        <li><a href="?xx=nouns/anthroponyms">anthroponyms</a> – names (and nicknames) of individual
+          persons – <g>Seumas</g>
+          <masc/>
+          <en>James</en>, <g>Màiri Ruadh</g>
+          <en>Ginger Mary</en>, <g>Am Bàrd Bochd</g>
+          <en>The Poor Poet [Norman MacLeod]</en>, <g>Fear Chanaigh</g>
+          <en>The Man of Canna [John Lorne Campbell]</en></li>
+        <li><a href="?xx=nouns/toponyms">toponyms</a> – names of places – <g>Sasainn</g>
+          <fem/>
+          <en>England</en>, <g>Alba Nuadh</g>
+          <en>Nova Scotia</en>, <g>Am Ploc</g>
+          <en>Plockton</en>, <g>Loch nam Madadh</g>
+          <en>Lochmaddy</en></li>
+        <li><a href="?xx=nouns/ergonyms">ergonyms</a> – names of groups of people (teams,
+          organisations, institutions, companies, tribes, etc.) – <g>Misneachd</g> <en>[name of
+          pressure group]</en>, <g>Alba Chruthachail</g>
+          <en>Creative Scotland</en>, <g>An Comunn Gàidhealach</g>
+          <en>The Highland Society</en>, <g>Bòrd na Gàidhlig</g> <en>[name of government
+          agency]</en></li>
+        <li><a href="?xx=nouns/chrematonyms">chrematonyms</a> – names (titles) of songs, poems,
+          stories and other creative works – <g>Gairm</g> <en>[name of literary periodical]</en>, <g>Am
+            Bìoball</g>
+          <en>The Bible</en>, <g>Òran a’ Phrionnsa</g>
+          <en>The Song of the Prince</en>, <g>Faclair na Gàidhlig</g>
+          <en>The [Historical] Dictionary of Scottish Gaelic</en></li>
+        <li><a href="?xx=nouns/glottonyms">glottonyms</a> – names of languages and dialects –
+            <g>Laideann</g>
+          <fem/>
+          <en>Latin</en>, <g>A’ Ghrèigis</g>
+          <en>Greek</en>, <g>Gàidhlig na h-Èireann</g>
+          <en>Irish [Gaelic]</en></li>
+        <li><a href="?xx=nouns/chrononyms">chrononyms</a> – names of events and historical eras –
+            <g>An Cogadh Mòr</g>
+          <en>The Great War</en>, <g>Bliadhna Theàrlaich</g>
+          <en>The Year of Bonnie Prince Charlie (1745–6)</en>, <g>Linn an Umha</g>
+          <en>The Bronze Age</en>.</li>
+      </ul>
+    </p>
+  </section>
+</module>

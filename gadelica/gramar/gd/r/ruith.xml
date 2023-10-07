@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>ruith</h>
+    <p><g>ruith</g>
+        <en>run</en> is a <a href="?xx=verbs/simple_verbs">simple verb</a>, denoting an
+        event/activity of <a href="?q=motion">manner of motion</a>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>ruith</g> are – <ul>
+                <li><m>ruithidh</m> – future independent ie. <en>will run</en></li>
+                <li><m>ruith</m> – past independent ie. <en>ran</en></li>
+                <li><m>ruith</m> – verbal noun ie. <en>running</en></li>
+            </ul>
+        </p>
+        <section>
+            <h>tense</h>
+            <p>
+                <ul>
+                    <li>past <ul id="past">
+                            <li>active <ul>
+                                    <li>independent – <m>ruith</m></li>
+                                    <li>relative – a <m>ruith</m></li>
+                                    <li>dependent – cha/an/nach <m>do ruith</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>ruitheadh</m></li>
+                                    <li>relative – a <m>ruitheadh</m></li>
+                                    <li>dependent – cha/an/nach <m>do ruitheadh</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>future <ul id="future">
+                            <li>active <ul>
+                                    <li>independent – <m>ruithidh</m></li>
+                                    <li>relative – a <m>ruitheas</m></li>
+                                    <li>dependent – cha/an/nach <m>ruith</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>ruithear</m></li>
+                                    <li>relative – a <m>ruithear</m></li>
+                                    <li>dependent – cha/an/nach <m>ruithear</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>conditional <ul id="conditional">
+                            <li>active <ul>
+                                    <li>first person singular <ul>
+                                            <li>independent – <m>ruithinn</m></li>
+                                            <li>relative – a <m>ruithinn</m></li>
+                                            <li>dependent – cha/an/nach <m>ruithinn</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>first person plural <ul>
+                                            <li>independent – <m>ruitheamaid</m></li>
+                                            <li>relative – a <m>ruitheamaid</m></li>
+                                            <li>dependent – cha/an/nach <m>ruitheamaid</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>second/third persons <ul>
+                                            <li>independent – <m>ruitheadh</m></li>
+                                            <li>relative – a <m>ruitheadh</m></li>
+                                            <li>dependent – cha/an/nach <m>ruitheadh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>ruithte</m></li>
+                                    <li>relative – a <m>ruithte</m></li>
+                                    <li>dependent – cha/an/nach <m>ruithte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>status</h>
+            <p><ul>
+                    <li>independent <ul id="independent">
+                            <li>past <ul>
+                                    <li>active – <m>ruith</m></li>
+                                    <li>passive – <m>ruitheadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – <m>ruithidh</m></li>
+                                    <li>passive – <m>ruithear</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – <m>ruithinn</m></li>
+                                            <li>first person plural – <m>ruitheamaid</m></li>
+                                            <li>second/third persons – <m>ruitheadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – <m>ruithte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>relative <ul id="relative">
+                            <li>past <ul>
+                                    <li>active – a <m>ruith</m></li>
+                                    <li>passive – a <m>ruitheadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – a <m>ruitheas</m></li>
+                                    <li>passive – a <m>ruithear</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – a <m>ruithinn</m></li>
+                                            <li>first person plural – a <m>ruitheamaid</m></li>
+                                            <li>second/third persons – a <m>ruitheadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – a <m>ruithte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="dependent">
+                            <li>past <ul>
+                                    <li>active – cha/an/nach <m>do ruith</m></li>
+                                    <li>passive – cha/an/nach <m>do ruitheadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – cha/an/nach <m>ruith</m></li>
+                                    <li>passive – cha/an/nach <m>ruithear</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – cha/an/nach
+                                                <m>ruithinn</m></li>
+                                            <li>first person plural – cha/an/nach
+                                                <m>ruitheamaid</m></li>
+                                            <li>second/third persons – cha/an/nach
+                                                <m>ruitheadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – cha/an/nach <m>ruithte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul></p>
+        </section>
+        <section>
+            <h>voice</h>
+            <p>
+                <ul>
+                    <li>active <ul id="active">
+                            <li>past <ul>
+                                    <li>independent – <m>ruith</m></li>
+                                    <li>relative – a <m>ruith</m></li>
+                                    <li>dependent – cha/an/nach <m>do ruith</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>ruithidh</m></li>
+                                    <li>relative – a <m>ruitheas</m></li>
+                                    <li>dependent – cha/an/nach <m>ruith</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent <ul>
+                                            <li>first person singular – <m>ruithinn</m></li>
+                                            <li>first person plural – <m>ruitheamaid</m></li>
+                                            <li>second/third persons – <m>ruitheadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>relative <ul>
+                                            <li>first person singular – a <m>ruithinn</m></li>
+                                            <li>first person plural – a <m>ruitheamaid</m></li>
+                                            <li>second/third persons – a <m>ruitheadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>dependent <ul>
+                                            <li>first person singular – cha/an/nach
+                                                <m>ruithinn</m></li>
+                                            <li>first person plural – cha/an/nach
+                                                <m>ruitheamaid</m></li>
+                                            <li>second/third persons – cha/an/nach
+                                                <m>ruitheadh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>passive <ul id="passive">
+                            <li>past <ul>
+                                    <li>independent – <m>ruitheadh</m></li>
+                                    <li>relative – a <m>ruitheadh</m></li>
+                                    <li>dependent – cha/an/nach <m>do ruitheadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>ruithear</m></li>
+                                    <li>relative – a <m>ruithear</m></li>
+                                    <li>dependent – cha/an/nach <m>ruithear</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent – <m>ruithte</m></li>
+                                    <li>relative – a <m>ruithte</m></li>
+                                    <li>dependent – cha/an/nach <m>ruithte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>imperative</h>
+            <p>
+                <ul>
+                    <li>independent <ul id="imp-ind">
+                            <li>first person singular – <m>ruitheam</m>!</li>
+                            <li>second person singular – <m>ruith</m>!</li>
+                            <li>first person plural – <m>ruitheamaid</m>!</li>
+                            <li>second person plural – <m>ruithibh</m>!</li>
+                            <li>third person – <m>ruitheadh</m>!</li>
+                            <li>passive – <m>ruith(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="imp-dep">
+                            <li>first person singular – na <m>ruitheam</m>!</li>
+                            <li>second person singular – na <m>ruith</m>!</li>
+                            <li>first person plural – na <m>ruitheamaid</m>!</li>
+                            <li>second person plural – na <m>ruithibh</m>!</li>
+                            <li>third person – na <m>ruitheadh</m>!</li>
+                            <li>passive – na <m>ruith(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section id="sbj">
+            <h>subject</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="dep-sbj-older-pedag">
+                            <li>
+                                <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air
+                                    falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa nan
+                                    litrichean leis an litir seo, Iain?” “Théid,” ars Iain,
+                                    “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi i is gus an
+                                    cuir mi seòladh oirre. Ceannaich fhéin stamp agus cuir oirre i.”
+                                        <m>Tha <u>Iain</u> a’ ruith</m> sìos an rathad leis an litir
+                                    ’na làimh. </gd>
+                                <tr>My mother is writing a letter to my father who is away. My
+                                    mother said, “Will you go to the postbox with this letter,
+                                    John?” “Yes, I will,” said John, “I will leave now.” “Wait until
+                                    I seal it and put an address on it. Buy a stamp and put it on
+                                    it.” John is running down the road with the letter in his
+                                    hand.</tr>
+                                <ref text="621">td. 5</ref>
+                            </li>
+                        </xl></li>
+                    <li>examples from Gairm – <xl id="deps-sbj-gairm">
+                            <li>
+                                <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan
+                                    fhalbh aon choigreach le mo leanabh. Cha teid i gu aon dannsa,
+                                    tha sin cinnteach. Tha. Tha. Na bi smaoineachadh gun teid, a
+                                    leanaibh. Chan eil fhios agad mu ’n deidhinn, mar a th’ agamsa.”
+                                    “Carson nach do bhàsaich thu o chionn leth-cheud bliadhna,” dh’
+                                    éigh Màiri. Bha i smaoineachadh air na gnothaichean ud fhathast!
+                                    “Greas ort leis an tea,” ars a màthair. Agus, mu dheireadh. “A’
+                                    chlann òga an diugh, chan eil fhios dé <m><u>na smaointean</u>
+                                        th[a] ruith</m> orra. Tha iad air bhoil, air bhoil.”</gd>
+                                <tr>[...] Her voice grew louder. “One thing is certain, not one
+                                    stranger will leave [go out?] with my child. She will not go to
+                                    a single dance, that is certain. It is. It is. Do not be
+                                    thinking that you will, child. You don’t know about them, as I
+                                    do.” “Why did you not die fifty years ago,” shouted Mary. She
+                                    was still thinking about those matters! “Hurry up with the tea,”
+                                    said her mother. And, eventually. “The young children today, it
+                                    is not known what thoughts are running on them. They are in a
+                                    rage, in a rage.”</tr>
+                                <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+                            </li>
+                        </xl>
+                    </li>
+
+                </ul>
+            </p>
+        </section>
+        <section id="comps">
+            <h>complements</h>
+            <p>Some examples – <ul>
+                    <li><g>ruith <a href="?gd=sìos">sìos</a></g>
+                        <en>run down [something]</en> – <ul>
+                            <li>older pedagogical examples – <xl id="dep-comp-older-pedag">
+                                    <li>
+                                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha
+                                            air falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa
+                                            nan litrichean leis an litir seo, Iain?” “Théid,” ars
+                                            Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi
+                                            i is gus an cuir mi seòladh oirre. Ceannaich fhéin stamp
+                                            agus cuir oirre i.” <m>Tha Iain a’ ruith sìos an
+                                                rathad</m> leis an litir ’na làimh. </gd>
+                                        <tr>My mother is writing a letter to my father who is away.
+                                            My mother said, “Will you go to the postbox with this
+                                            letter, John?” “Yes, I will,” said John, “I will leave
+                                            now.” “Wait until I seal it and put an address on it.
+                                            Buy a stamp and put it on it.” John is running down the
+                                            road with the letter in his hand.</tr>
+                                        <ref text="621">td. 5</ref>
+                                    </li>
+                                </xl></li>
+                        </ul>
+                    </li>
+                    <li><g>ruith <a href="?gd=air">air</a></g>
+                        <en>run on something[?]</en> – <ul>
+                            <li>Examples from Gairm – <xl id="dep-comp-gairm">
+                                    <li>
+                                        <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud
+                                            cinnteach, chan fhalbh aon choigreach le mo leanabh. Cha
+                                            teid i gu aon dannsa, tha sin cinnteach. Tha. Tha. Na bi
+                                            smaoineachadh gun teid, a leanaibh. Chan eil fhios agad
+                                            mu ’n deidhinn, mar a th’ agamsa.” “Carson nach do
+                                            bhàsaich thu o chionn leth-cheud bliadhna,” dh’ éigh
+                                            Màiri. Bha i smaoineachadh air na gnothaichean ud
+                                            fhathast! “Greas ort leis an tea,” ars a màthair. Agus,
+                                            mu dheireadh. “A’ chlann òga an diugh, chan eil fhios dé
+                                                <m>na smaointean th[a] ruith orra</m>. Tha iad air
+                                            bhoil, air bhoil.”</gd>
+                                        <tr>[...] Her voice grew louder. “One thing is certain, not
+                                            one stranger will leave [go out?] with my child. She
+                                            will not go to a single dance, that is certain. It is.
+                                            It is. Do not be thinking that you will, child. You
+                                            don’t know about them, as I do.” “Why did you not die
+                                            fifty years ago,” shouted Mary. She was still thinking
+                                            about those matters! “Hurry up with the tea,” said her
+                                            mother. And, eventually. “The young children today, it
+                                            is not known what thoughts are running on them. They are
+                                            in a rage, in a rage.”</tr>
+                                        <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section id="modifiers">
+            <h>modifiers</h>
+            <p>Some examples – <ul>
+                    <li><g>ruith <a href="?gd=le">le</a></g>
+                        <en>run with something</en> – <ul>
+                            <li>older pedagogical examples – <xl id="dep-mods-older-pedag">
+                                    <li>
+                                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha
+                                            air falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa
+                                            nan litrichean leis an litir seo, Iain?” “Théid,” ars
+                                            Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi
+                                            i is gus an cuir mi seòladh oirre. Ceannaich fhéin stamp
+                                            agus cuir oirre i.” Tha Iain a’ <m>ruith</m> sìos an
+                                            rathad <m>leis an litir ’na làimh</m>. </gd>
+                                        <tr>My mother is writing a letter to my father who is away.
+                                            My mother said, “Will you go to the postbox with this
+                                            letter, John?” “Yes, I will,” said John, “I will leave
+                                            now.” “Wait until I seal it and put an address on it.
+                                            Buy a stamp and put it on it.” John is running down the
+                                            road with the letter in his hand.</tr>
+                                        <ref text="621">td. 5</ref>
+                                    </li>
+                                </xl></li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>derivatives</h>
+            <module id="ruith-noun">
+                <h>ruith</h>
+                <p><g>ruith</g>
+                    <en>running</en> is a feminine derived common noun.</p>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module id="a_ruith">
+                            <h>a’ ruith</h>
+                            <p><g>(bi) a’ ruith</g>
+                                <en>be running</en> is a progressive verb compound, with the
+                                deverbal noun appearing as the complement of the progressive
+                                particle <a href="?gd=aig"><g>ag</g></a>.</p>
+                            <p>Examples –<ul>
+                                    <li>older pedagogical examples – <xl id="a_ruith-older-pedag">
+                                            <li>
+                                                <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu
+                                                  m’athair a tha air falbh. Thubhairt mo mhàthair,
+                                                  “An téid thu do bhocsa nan litrichean leis an
+                                                  litir seo, Iain?” “Théid,” ars Iain, “falbhaidh mi
+                                                  an dràsda”. “Fuirich gus an dùin mi i is gus an
+                                                  cuir mi seòladh oirre. Ceannaich fhéin stamp agus
+                                                  cuir oirre i.” <m>Tha Iain a’ ruith sìos an
+                                                  rathad</m> leis an litir ’na làimh. </gd>
+                                                <tr>My mother is writing a letter to my father who
+                                                  is away. My mother said, “Will you go to the
+                                                  postbox with this letter, John?” “Yes, I will,”
+                                                  said John, “I will leave now.” “Wait until I seal
+                                                  it and put an address on it. Buy a stamp and put
+                                                  it on it.” John is running down the road with the
+                                                  letter in his hand.</tr>
+                                                <ref text="621">td. 5</ref>
+                                            </li>
+                                        </xl></li>
+                                    <li>Examples from Gairm – <xl id="a_ruith-gairm">
+                                            <li>
+                                                <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud
+                                                  cinnteach, chan fhalbh aon choigreach le mo
+                                                  leanabh. Cha teid i gu aon dannsa, tha sin
+                                                  cinnteach. Tha. Tha. Na bi smaoineachadh gun teid,
+                                                  a leanaibh. Chan eil fhios agad mu ’n deidhinn,
+                                                  mar a th’ agamsa.” “Carson nach do bhàsaich thu o
+                                                  chionn leth-cheud bliadhna,” dh’ éigh Màiri. Bha i
+                                                  smaoineachadh air na gnothaichean ud fhathast!
+                                                  “Greas ort leis an tea,” ars a màthair. Agus, mu
+                                                  dheireadh. “A’ chlann òga an diugh, chan eil fhios
+                                                  dé <m>na smaointean th[a] ruith orra</m>. Tha iad
+                                                  air bhoil, air bhoil.”</gd>
+                                                <tr>[...] Her voice grew louder. “One thing is
+                                                  certain, not one stranger will leave [go out?]
+                                                  with my child. She will not go to a single dance,
+                                                  that is certain. It is. It is. Do not be thinking
+                                                  that you will, child. You don’t know about them,
+                                                  as I do.” “Why did you not die fifty years ago,”
+                                                  shouted Mary. She was still thinking about those
+                                                  matters! “Hurry up with the tea,” said her mother.
+                                                  And, eventually. “The young children today, it is
+                                                  not known what thoughts are running on them. They
+                                                  are in a rage, in a rage.”</tr>
+                                                <ref text="400-46">td. 171, le Iain Mac a’
+                                                  Ghobhainn</ref>
+                                            </li>
+                                        </xl>
+                                    </li>
+
+                                </ul></p>
+
+                        </module>
+                    </section>
+                </section>
+
+            </module>
+        </section>
+    </section>
+
+
+
+
+
+
+
+</module>

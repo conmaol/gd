@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>-(e)amh</h>
+    <p><b>-(e)amh</b> is a suffix used to create ordinals from <a href="?xx=nouns/nouns"
+            >numerals</a> and numeric base nouns.</p>
+    <p>Examples – <ul>
+        <li><a href="?gd=ceithir">ceithir</a>
+            <en>four, 4</en> ⇒ <b>ceathramh</b>
+            <en>fourth, 4th</en></li>
+        <li><a href="?gd=còig">còig</a>
+            <en>five, 5</en> ⇒ <b>còigeamh</b>
+            <en>fifth, 5th</en></li>
+        <li><a href="?gd=sia">sia</a>
+            <en>six, 6</en> ⇒ <b>siathamh</b>
+            <en>sixth, 6th</en></li>
+        <li><a href="?gd=seachd">seachd</a>
+            <en>seven, 7</en> ⇒ <b>seachdamh</b>
+            <en>seventh, 7th</en></li>
+        <li><a href="?gd=ochd">ochd</a>
+            <en>eight, 8</en> ⇒ <b>ochdamh</b>
+            <en>eighth, 8th</en></li>
+        <li><a href="?gd=naoi">naoi</a>
+            <en>nine, 9</en> ⇒ <b>naoidheamh</b>
+            <en>ninth, 9th</en></li>
+            <li><a href="?gd=deich">deich</a>
+                <en>ten, 10</en> ⇒ <b>deicheamh</b>
+                <en>tenth, 10th</en></li>
+        </ul>
+    </p>
+
+
+</module>

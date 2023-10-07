@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>èirich</h>
+    <p>Examples from Gairm – <xl id="gairm">
+        <li>
+            <gd>[...] ’Se madainn bhòidheach foghair a bh’ ann—tioram, le ceileir eòin, is
+                beagan dealt air an fheur. <m>Bha a[m] muir ’s na tighean ag éirigh á
+                inntinn an latha.</m> [...]</gd>
+            <tr>[...] It was a beautiful autumn morning – dry, with the chirping of birds, and a
+                little dew on the grass. The sea and the houses were rising from the mind of the
+                day [??]. [...]</tr>
+            <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+    </xl>
+    </p>
+    <p>Other examples from modern usage –
+        <xl id="other">
+            <li>
+                <gd>’S e Tòmas an aon chroitear as aithne dhomh a <m>dh’èirich</m> gu inbhe
+                    taidhcùn. Rinn e sin tro dhìcheall, obair chruaidh agus tàlant malairt a
+                    bha neo-ghnàthach. An-diugh tha iomadh companaidh na ainm air feadh na
+                    Gàidhealtachd. [...]</gd>
+                <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. He
+                    did that through duty, hard work and a talent for business that was unusual.
+                    Today there are many companies in his name all over the Highlands. [...]</tr>
+                <ref text="2">td. 5</ref>
+            </li>
+        </xl>
+    </p>
+</module>
+

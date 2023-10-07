@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>athair</h>
+    <p><g>athair</g>
+        <en>father</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section id="spec">
+            <h>specifier</h>
+            <p>Older pedagogical examples – <xl id="spec-older-pedag">
+                    <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu <m>m’athair</m> a tha air
+                            falbh.</gd>
+                        <tr>My mother is writing a letter to my father who is away.</tr>
+                        <ref text="621">td. 5</ref>
+                    </li>
+                <li>
+                    <gd>Bha an latha brèagha blàth is thug <m>an athair</m> leis Iain
+                        agus Anna anns a’ chàr.</gd>
+                    <tr>The day was lovely and warm and their father took John and Ann
+                        in the car.</tr>
+                    <ref text="621">td. 6</ref>
+                </li>
+                </xl>
+            </p>
+        </section>
+
+        <section id="mod">
+            <h>modifiers</h>
+            <p>Older pedagogical examples – <xl id="mod-older-pedag">
+                    <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’<m>athair a tha air
+                                falbh</m>.</gd>
+                        <tr>My mother is writing a letter to my father who is away.</tr>
+                        <ref text="621">td. 5</ref>
+                        <note>non-restrictive relative</note>
+                    </li>
+                </xl>
+            </p>
+        </section>
+
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="sbj">
+            <h>subject</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="uses-sbj-older-pedag">
+                            <li>
+                                <gd>Bha an latha brèagha blàth is <m>thug an athair</m> leis Iain
+                                    agus Anna anns a’ chàr.</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car.</tr>
+                                <ref text="621">td. 6</ref>
+                            </li>
+                        </xl></li>
+                </ul></p>
+        </section>
+        <section id="comp">
+            <h>complement</h>
+            <p>Older pedagogical examples – <xl id="comp-older-pedag">
+                    <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach <m>gu m’athair</m> a tha air
+                            falbh.</gd>
+                        <tr>My mother is writing a letter to my father who is away.</tr>
+                        <ref text="621">td. 5</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+</module>

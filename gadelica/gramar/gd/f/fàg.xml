@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h lang="en">fàg</h>
+    <h lang="gd">fàg</h>
+    <p lang="en"><b>fàg</b>
+        <en>leave, quit, abandon</en> is a transitive (non-durative) <a href="?q=verbal_aspect"
+            >telic</a> verb, with verbal noun <b>fàgail</b>
+        <i>fem.</i></p>
+    <p lang="gd">...</p>
+    <p lang="en">Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha fhios gun dig
+                    iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C. <m>Dh’ fhàg Eóghan Mac-a-
+                        phì a sheula fhéin air an roinn sin, agus air a’ Bh.B.C. an Albainn gu
+                        h-iomlan</m>, agus air dha a nis a dhreuchd a leigeil dheth, dh’ iarramaid
+                    taing a thoirt dha airson gach seirbhis a thug e do ar cànain, is ghuidheamaid
+                    dhà saorsainn is toileachas ’na shaorsa, agus obair ás ùr anns na raointean a
+                    thaghas e.</gd>
+                <tr>During the seasons and the years that are ahead of us, it is known that many
+                    changes will come to the Gaelic Department of the BBC. Ewan MacPhee has left his
+                    own seal on that Department, and on the BBC in Scotland as a whole, and after
+                    him now giving up his job, we would ask for thanks to be given him for all the
+                    service he has given to our language, and wish him liberty and pleasure in his
+                    freedom, and new work in the areas that he will choose.</tr>
+                <ref text="400-48">td. 297, ‘Air an Spiris’</ref>
+            </li>
+        </xl>
+    </p>
+    <p>Other examples from modern usage – <xl id="other">
+            <li>
+                <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. [...]
+                    Bha seachdnar de theaghlach aige, ceathrar mhac agus triùir nighean, agus bha a
+                    h-uile fear is tè anns a’ mhalairt ach Rob. B’ e Rob a b’ òige agus lean e an
+                    sgoil. Nuair a ràinig e an t-oilthigh bha càch airson gun ionnsaicheadh e
+                    cunntasachd, a bhiodh feumail anns a’ mhalairt, ach ’s ann a bha ùidh-san ann an
+                    ealain. <m>Dh’fhàg e an t-oilthigh</m> agus chaidh e do sgoil ealain. [...]</gd>
+                <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. [...]
+                    He had a family of seven, four sons and three daughters, and every man and woman
+                    was in the business except Rob. Rob was the youngest and he stayed on at school.
+                    When he reached the university the others wanted him to learn accountancy, which
+                    would be useful in the business, but his interest was in art. He left the
+                    university and went to an art school. [...]</tr>
+                <ref text="2">td. 5</ref>
+            </li>
+        </xl>
+    </p>
+
+
+    <p lang="gd">...</p>
+</module>

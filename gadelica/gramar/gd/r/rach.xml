@@ -1,0 +1,1998 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <!-- 
+  Look at other pedagogical materials. [Done Mark dictionary and Robby textbook.]
+  -->
+  <h>rach</h>
+  <p><g>rach</g>
+    <en>go</en> is an irregular simple verb. It generally
+    denotes a (distal) event of <a href="?q=motion">motion along a trajectory</a>, usually not towards the
+    speaker or other deictic centre (cf. the equivalent proximal verb <a href="?gd=thig"><g>thig</g></a>
+    <en>come</en>).</p>
+  <section id="forms">
+    <h>forms</h>
+    <p>The principal parts of <g>rach</g> are – <ul>
+        <li><m>thèid</m> – future independent <en>will go</en>
+        </li>
+        <li><m>chaidh</m> – past independent <en>went</en>
+        </li>
+        <li><!--<m>dheigheadh</m> / --><m>rachadh</m> – conditional independent <en>would go</en>
+        </li>
+        <li><m>dol</m> – verbal noun <en>going</en>
+        </li>
+      </ul>
+    </p>
+    <section>
+      <h>tense</h>
+      <p><ul>
+          <li>past <ul id="past">
+              <li>active <ul>
+                  <li>independent – <m>chaidh</m></li>
+                  <li>relative – a <m>chaidh</m></li>
+                  <li>dependent – cha/an/nach <m>deach</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>chaidheas</m></li>
+                  <li>relative – a <m>chaidheas</m></li>
+                  <li>dependent – cha/an/nach <m>deachas</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>future <ul id="future">
+              <li>active <ul>
+                  <li>independent – <m>thèid</m></li>
+                  <li>relative – a <m>thèid</m></li>
+                  <li>dependent – cha/an/nach <m>tèid</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>thèidear</m></li>
+                  <li>relative – a <m>thèidear</m></li>
+                  <li>dependent – cha/an/nach <m>tèidear</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>conditional <ul id="conditional">
+              <li>active <ul>
+                  <li>first person singular <ul>
+                      <li>independent – <m>rachainn / dheighinn</m></li>
+                      <li>relative – a <m>rachainn / dheighinn</m></li>
+                      <li>dependent – cha/an/nach <m>rachainn / deighinn</m></li>
+                    </ul>
+                  </li>
+                  <li>first person plural <ul>
+                      <li>independent – <m>rachamaid / dheigheamaid</m></li>
+                      <li>relative – a <m>rachamaid / dheigheamaid</m></li>
+                      <li>dependent – cha/an/nach <m>rachamaid / deigheamaid</m></li>
+                    </ul>
+                  </li>
+                  <li>second/third persons <ul>
+                      <li>independent – <m>rachadh / dheigheadh</m></li>
+                      <li>relative – a <m>rachadh / dheigheadh</m></li>
+                      <li>dependent – cha/an/nach <m>rachadh / deigheadh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>rachte / dheighte</m></li>
+                  <li>relative – a <m>rachte / dheighte</m></li>
+                  <li>dependent – cha/an/nach <m>rachte / deighte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul></p>
+    </section>
+    <section>
+      <h>status</h>
+      <p><ul>
+          <li>independent <ul id="independent">
+              <li>past <ul>
+                  <li>active – <m>chaidh</m></li>
+                  <li>passive – <m>chaidheas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – <m>thèid</m></li>
+                  <li>passive – <m>thèidear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – <m>rachainn / dheighinn</m></li>
+                      <li>first person plural – <m>rachamaid / dheigheamaid</m></li>
+                      <li>second/third persons – <m>rachadh / dheigheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – <m>rachte / dheighte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>relative <ul id="relative">
+              <li>past <ul>
+                  <li>active – a <m>chaidh</m></li>
+                  <li>passive – a <m>chaidheas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – a <m>thèid</m></li>
+                  <li>passive – a <m>thèidear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – a <m>rachainn / dheighinn</m></li>
+                      <li>first person plural – a <m>rachamaid / dheigheamaid</m></li>
+                      <li>second/third persons – a <m>rachadh / dheigheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – a <m>rachte / dheighte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>dependent <ul id="dependent">
+              <li>past <ul>
+                  <li>active – cha/an/nach <m>deach</m></li>
+                  <li>passive – cha/an/nach <m>deachas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – cha/an/nach <m>tèid</m></li>
+                  <li>passive – cha/an/nach <m>tèidear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – cha/an/nach <m>rachainn / deighinn</m></li>
+                      <li>first person plural – cha/an/nach <m>rachamaid / deigheamaid</m></li>
+                      <li>second/third persons – cha/an/nach <m>rachadh / deigheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – cha/an/nach <m>rachte / deighte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul></p>
+    </section>
+    <section>
+      <h>voice</h>
+      <p><ul>
+          <li>active <ul id="active">
+              <li>past <ul>
+                  <li>independent – <m>chaidh</m></li>
+                  <li>relative – a <m>chaidh</m></li>
+                  <li>dependent – cha/an/nach <m>deach</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>thèid</m></li>
+                  <li>relative – a <m>thèid</m></li>
+                  <li>dependent – cha/an/nach <m>tèid</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent <ul>
+                      <li>first person singular – <m>rachainn / dheighinn</m></li>
+                      <li>first person plural – <m>rachamaid / dheigheamaid</m></li>
+                      <li>second/third persons – <m>rachadh / dheigheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>relative <ul>
+                      <li>first person singular – a <m>rachainn / dheighinn</m></li>
+                      <li>first person plural – a <m>rachamaid / dheigheamaid</m></li>
+                      <li>second/third persons – a <m>rachadh / dheigheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>dependent <ul>
+                      <li>first person singular – cha/an/nach <m>rachainn / deighinn</m></li>
+                      <li>first person plural – cha/an/nach <m>rachamaid / deigheamaid</m></li>
+                      <li>second/third persons – cha/an/nach <m>rachadh / deigheadh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>passive <ul id="passive">
+              <li>past <ul>
+                  <li>independent – <m>chaidheas</m></li>
+                  <li>relative – a <m>chaidheas</m></li>
+                  <li>dependent – cha/an/nach <m>deachas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>thèidear</m></li>
+                  <li>relative – a <m>thèidear</m></li>
+                  <li>dependent – cha/an/nach <m>tèidear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent – <m>rachte / dheighte</m></li>
+                  <li>relative – a <m>rachte / dheighte</m></li>
+                  <li>dependent – cha/an/nach <m>rachte / deighte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul></p>
+    </section>
+    <section>
+      <h>imperative</h>
+      <p>
+        <ul>
+          <li>independent <ul id="independent-imp">
+              <li>first person singular – <m>racham</m>!</li>
+              <li>second person singular – <m>rach</m>!</li>
+              <li>first person plural – <m>rachamaid</m>!</li>
+              <li>second person plural – <m>rachaibh</m>!</li>
+              <li>third person – <m>rachadh</m>!</li>
+              <li>passive – <m>rach(t)ar</m>!</li>
+            </ul>
+          </li>
+          <li>dependent <ul id="dependent-imp">
+              <li>first person singular – na <m>racham</m>!</li>
+              <li>second person singular – na <m>rach</m>!</li>
+              <li>first person plural – na <m>rachamaid</m>!</li>
+              <li>second person plural – na <m>rachaibh</m>!</li>
+              <li>third person – na <m>rachadh</m>!</li>
+              <li>passive – na <m>rach(t)ar</m>!</li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>notes</h>
+      <p><ol>
+          <li>The conditional stem varies according to dialect – <g>deigh–</g>, <g>geobh-</g>,
+              <g>rach-</g>, <g>reigh-</g>, <g>reagh-</g>, <g>deidh-</g>.</li>
+          <li>The future dependent forms in <g>tèid-</g> are pronounced as if they were spelled
+              <g>dèid-</g>. </li>
+          <li>There is a dialectal alternative to past dependent <g>deach</g> ie.
+            <g>deachaidh</g>.</li>
+        </ol>
+      </p>
+    </section>
+  </section>
+  <section>
+    <h>dependents</h>
+    <section id="sbj">
+      <h>subject</h>
+      <p>The subject of <g>rach</g> is usually a noun or pronoun denoting one or more human beings
+        moving somewhere under their own volition – <ul>
+          <li><m>Chaidh <emph>Raonaid</emph></m> dhan bhaile. <en>Rachel went into town.</en></li>
+          <li>Cha <m>tèid <emph>na balaich</emph></m> dhachaigh. <en>The boys won’t go
+            home.</en></li>
+          <li>An <m>deigheadh <emph>iad</emph></m> a-mach gu tric? <en>Would they go out a
+            lot?</en></li>
+        </ul>
+      </p>
+      <p>Some examples – <ul id="sbj-exs">
+          <li>proper nouns – <ul>
+              <li>pedagogical examples – <xl id="sbj-prop-pedag">
+                  <li>
+                    <gd><m>Chaidh Iain</m> a-mach. Cha <m>deach Uilleam</m> a-mach. | Cha <m>tèid
+                        Màiri</m> air lathaichean saora ged a bhios an t-airgead aice. | <m>Thèid
+                        Anna</m> a Ghlaschu a h-uile Dimàirt. | Is ann an-dè a <m>chaidh Iain</m> a
+                      Ghlaschu. | <m>Chaidh Anna</m> a dh’fhuireach còmhla ri Peigi. | <m>Chaidh
+                        Iain</m> gan iarraidh. | <m>Chaidh Calum</m> ga coimhead. | An abradh tu gun
+                        <m>rachadh Iain</m> dhan an dealbh-chluich?</gd>
+                    <tr>John went out. William did not go out. | Mary will not go on holiday even
+                      though she will have the money. | Ann goes to Glasgow every Tuesday. | It is
+                      yesterday that John went to Glasgow. | Ann went to stay with Peggy. | John
+                      went to get them. | Calum went to watch her. | Would you say that John would
+                      go to the drama?</tr>
+                    <ref text="609">td. 38–9, 105, 120, 144, 153, 156, 157 [199], 169 [199]</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+          <li>common nouns – <ul>
+              <li>pedagogical examples – <xl id="sbj-comm-pedag">
+                  <li>
+                    <gd>An <m>tèid do bhràthair</m> dhan a’ chèilidh? | an tidsear a <m>chaidh a
+                        mhac</m> a Pheairt</gd>
+                    <tr>Will your brother go to the cèilidh? | the teacher whose son went to
+                      Perth</tr>
+                    <ref text="609">td. 119 [197–8], 121</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+          <li>pronouns – <ul>
+              <li>first person – <ul>
+                  <li>pedagogical examples – <xl id="sbj-pron-1-pedag">
+                      <li>
+                        <gd><m>Chaidh mi</m> suas. | <m>Chaidh mi</m> a Pheairt a chionn is gun robh
+                          mo charaid a’ fuireach ann. | <m>Thèid sinn</m> a Ghlaschu. Dè nì sinn ma
+                            <m>thèid sinn</m> air chall? | am baile tron an <m>deach sinn</m> |
+                          Càite an <m>tèid mi</m> airson nan tiocaidean?</gd>
+                        <tr>I went up(stairs). | I went to Perth because my friend was living there.
+                          | We will go to Glasgow. What will we do if we get lost? | the town
+                          through which we went | Where can I go for the tickets?</tr>
+                        <ref text="609">td. 39, 105, 118, 123, 134</ref>
+                      </li>
+                      <li>
+                        <gd><m>Thèid mi</m> air ais don talla.</gd>
+                        <tr>I’ll go back to the hall.</tr>
+                        <ref text="601">td. 476</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+              <li>second person – <ul>
+                  <li>pedagogical examples – <xl id="sbj-pron-2-pedag">
+                      <li>
+                        <gd>An <m>deach sibh</m> tarsainn air an abhainn no seachad air Càrn
+                          Sheumais?</gd>
+                        <tr>Did you go across the river or past Càrn Sheumais? </tr>
+                        <ref text="609">td. 99</ref>
+                      </li>
+                      <li>
+                        <gd>An <m>tèid thu</m> còmhla rium? | An <m>rachadh tu</m> air ais
+                          a-rithist?</gd>
+                        <tr>Will you go with me? | Would you go back again?</tr>
+                        <ref text="601">td. 476, 477</ref>
+                      </li>
+                    </xl>
+                  </li>
+                  <li>older pedagogical examples – <xl id="sbj-pron-2-older-pedag">
+                      <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                          Thubhairt mo mhàthair, “An <m>téid thu</m> do bhocsa nan litrichean leis
+                          an litir seo, Iain?” “Théid,” ars Iain, “falbhaidh mi an dràsda”.
+                          [...]</gd>
+                        <tr>My mother is writing a letter to my father who is away. My mother said,
+                          “Will you go to the postbox with this letter, John?” “Yes, I will,” said
+                          John, “I will leave now.” [...]</tr>
+                        <ref text="621">td. 5</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+              <li>third person – <ul>
+                  <li>pedagogical examples – <xl id="sbj-pron-3-pedag">
+                      <li>
+                        <gd><m>Chaidh iad</m> a cheannach leabhraichean.</gd>
+                        <tr>They went to buy books.</tr>
+                        <ref text="609">td. 154</ref>
+                      </li>
+                      <li>
+                        <gd>Nach <m>tèid iad</m> don chèilidh? | <m>Chaidh iad</m> don àrd-sgoil
+                          anns an ath bhaile. An <m>deach(aidh) iad</m> don eaglais? Nach
+                            <m>deach(aidh) iad</m> dhachaigh? Nach <m>rachadh iad</m> air bòrd?
+                            <m>Chaidh i</m> a dhannsa còmhla ris. <m>Chaidh e</m> a dhùnadh an
+                          dorais. <m>Chaidh i</m> a dh’fhosgladh na h-uinneig. | <m>Chaidh e</m> air
+                          ais.</gd>
+                        <tr>Won’t they go to the ceilidh? | They went to the high-school in the next
+                          town. Did they go to (the) church? Did they not go home? Wouldn’t they go
+                          aboard? She went to dance with him. He went to shut the door. She went to
+                          open the window. | He went back.</tr>
+                        <ref text="601">td. 476, 477, 478</ref>
+                      </li>
+                    </xl>
+                  </li>
+                  <li>older pedagogical examples – <xl id="sbj-pron-3-older-pedag">
+                      <li>
+                        <gd>[...] Tha Iain a’ ruith sìos an rathad leis an litir ’na làimh. <m>Théid
+                            e</m> a steach do oifig a’ phuist, ceannaichidh e stamp is cuiridh e sud
+                          air an litir. [...]</gd>
+                        <tr>[...] John is running down the road with the letter in his hand. He will
+                          go into the post office, he will buy a stamp and put that on the letter.
+                          [...]</tr>
+                        <ref text="621">td. 6</ref>
+                      </li>
+                      <li>
+                        <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’
+                          chàr. <m>Chaidh iad</m> sìos taobh an locha is stad iad aig àite bòidheach
+                          gorm. Chuir iad an càr a stigh gu taobh an rathaid is thug iad brat a mach
+                          as a’ chàr air son suidhe air. Tha bascaid làn de bhiadh aca is tha iad a’
+                          dol a ghabhail an tea air a’ chnocan ghorm. Is toigh leis a’ chloinn biadh
+                          a ghabhail a muigh ri latha brèagha. <m>Thèid iad</m> dhachaidh feasgar an
+                          uair a tha a’ ghrian a’ dol fodha.</gd>
+                        <tr>The day was lovely and warm and their father took John and Ann in the
+                          car. They went down the side of the lake and they stopped at a beautiful
+                          green place. They put the car into the side of the road and they took a
+                          blanket out of the car for sitting on. They have a basket full of food and
+                          they are going to have their tea on the little green hill. The children
+                          like eating al fresco on a nice day. They will go home in the evening when
+                          the sun is going down.</tr>
+                        <ref text="621">td. 6–7</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>first person conditionals – <ul>
+              <li>singular – <ul>
+                  <li>pedagogical examples – <xl id="sbj-pron-cond-sg-pedag">
+                      <li>
+                        <gd><m>Rachainn</m> ann nan tigeadh tusa còmhla rium. | <m>Rachainn</m> a
+                          Ghlaschu nan tigeadh Anna còmhla rium.</gd>
+                        <tr>I would go there if you came along with me. | I would go to Glasgow if
+                          Ann came with me.</tr>
+                        <ref text="609">td. 168, 176</ref>
+                      </li>
+                      <li>
+                        <gd><m>Rachainn</m> còmhla riut nam b’urrainn dhomh.</gd>
+                        <tr>I’d go with you if I could.</tr>
+                        <ref text="601">td. 477</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+              <li>plural – <ul>
+                  <li>pedagogical examples – <xl id="sbj-pron-cond-pl-pedag">
+                      <li>
+                        <gd><m>Rachamaid</m> dhan an taigh-thasgaidh a h-uile mìos.</gd>
+                        <tr>We used to go to the museum every month.</tr>
+                        <ref text="609">td. 169 [199]</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>relativised subjects – <ul>
+              <li>pedagogical examples – <xl id="sbj-rel-pedag">
+                  <li>
+                    <gd><m>a’ chaileag a chaidh</m> a-mach | <m>a’ chaileag nach deach</m>
+                      a-mach</gd>
+                    <tr>the girl who went out | the girl who did not go out</tr>
+                    <ref text="609">td. 121, 124</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+      <p>When responding to a question, the subject is normally dropped – <ul>
+          <li>An deach thu a Lunnainn? <en>Did you go to London?</en>
+            <ul>
+              <li><m>Chaidh.</m>
+                <en>Yes, I did.</en></li>
+              <li><m>Cha deach.</m>
+                <en>No, I didn’t.</en></li>
+            </ul>
+          </li>
+          <li>Càite an tèid Raonaid? <en>Where will Rachel go?</en>
+            <ul>
+              <li><m>Thèid</m> don bhaile. <en>She will go into town.</en></li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+      <p>Some examples – <ul id="sbj-q-exs">
+          <li>yes/no questions – <ul>
+              <li>pedagogical examples – <xl id="sbj-quest-pedag">
+                  <li>
+                    <gd>An deach sibh tarsainn air an abhainn no seachad air Càrn Sheumais?
+                        <m>Chaidh</m>, le chèile, agus timcheall air an t-Sìdhean agus ri taobh na
+                      mara air an rathad dhachaigh.</gd>
+                    <tr>Did you go across the river or past Càrn Sheumais? Yes we did, both of them,
+                      and round the Sìdhean and beside the sea on the way home.</tr>
+                    <ref text="609">td. 99</ref>
+                  </li>
+                  <li>
+                    <gd>Thèid mi air ais don talla. An tèid thu còmhla rium? <m>Cha tèid.</m> | Nach
+                      tèid iad don chèilidh? <m>Thèid.</m> | An deach(aidh) iad don eaglais? <m>Cha
+                        deach(aidh).</m> | Nach deach(aidh) iad dhachaigh? <m>Chaidh.</m> | An
+                      rachadh tu air ais a-rithist? <m>Cha rachadh.</m> | Nach rachadh iad air bòrd?
+                        <m>Rachadh.</m></gd>
+                    <tr>I’ll go back to the hall. Will you go with me? No, I won’t. | Won’t they go
+                      to the ceilidh? Yes, they will. | Did they go to [the] church? No they didn’t.
+                      | Did they not go home? Yes, they did. | Would you go back again? Yes, I
+                      would. | Wouldn’t the go aboard? Yes, they would.</tr>
+                    <ref text="601">td. 476, ibid, 477, ibid, ibid, ibid</ref>
+                  </li>
+                </xl>
+              </li>
+              <li>older pedagogical examples – <xl id="sbj-quest-closed-older-pedag">
+                  <li>
+                    <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                      Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an litir
+                      seo, Iain?” “<m>Théid</m>,” ars Iain, “falbhaidh mi an dràsda”. [...]</gd>
+                    <tr>My mother is writing a letter to my father who is away. My mother said,
+                      “Will you go to the postbox with this letter, John?” “Yes, I will,” said John,
+                      “I will leave now.” [...]</tr>
+                    <ref text="621">td. 5</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+          <li>open questions – <ul>
+              <li>pedagogical examples – <xl id="sbj-quest-open-pedag">
+                  <li>
+                    <gd>Càite an tèid mi airson nan tiocaidean? <m>Thèid</m> chun an dorais anns a
+                      bheil fear an stèisein na sheasamh.</gd>
+                    <tr>Where can I go for the tickets? To the door where the station-master is
+                      standing.</tr>
+                    <ref text="609">td. 134</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+      <!--<p><ed>Examples where the subject is non-human or non-volitional?</ed></p>
+      <p><ed>Imperatives? theirig etc.</ed></p>-->
+      <section id="impersonal">
+        <h>impersonal uses</h>
+        <p><g>rach</g> can be used impersonally, without an explicit or even implicit subject, in a
+          number of constructions.</p>
+        <section id="passive-impersonal">
+          <h>passive</h>
+          <p><g>rach</g> can be used impersonally, with a single non-finite verbal argument, as a
+            modern alternative to using a passive form of a verb – <ul>
+              <li>Dh’fhosgail i an uinneag. <en>She opened the window.</en>
+                <ul>
+                  <li>Chaidh <m>an uinneag (a) fhosgladh</m>. <en>The window was opened.</en> (cf.
+                    Dh’fhosgladh an uinneag.)</li>
+                  <li>Chaidh <m>a fosgladh</m>. <en>It [fem.] was opened.</en> (cf. Dh’fhosgladh i.)</li>
+                </ul>
+              </li>
+              <li>Marbhaidh i am fear. <en>She will kill the man.</en>
+                <ul>
+                  <li>Thèid <m>am fear a mharbhadh</m>. <en>The man will be killed.</en> (cf.
+                    Marbhar am fear.)</li>
+                  <li>Thèid <m>a mharbhadh</m>. <en>He will be killed.</en> (cf. Marbhar e.)</li>
+                </ul>
+              </li>
+            </ul>
+          </p>
+          <p>Some examples – <ul id="passive-exs">
+              <li>intransitive – <ul>
+                  <li>pedagogical examples – <xl id="passive-intr-pedag">
+                      <li>
+                        <gd><m>Thèid innse</m> dhuinn a-nochd. | <m>Chaidh tòiseachadh</m> air an
+                          t-siostam ùr an t-seachdain seo chaidh.</gd>
+                        <tr>We’ll be told tonight. | The new system was begun last week.</tr>
+                        <ref text="601">td. 477</ref>
+                        <note>Maybe not intransitive at all?</note>
+                      </li>
+                    </xl>
+                  </li>
+                  <li>other examples from modern usage – <xl id="passive-intr-other">
+                      <li>
+                        <gd>Gu cumanta ’s an arm, nuair a rachadh òrdan a dhiùltadh ’s e cionta trom
+                          a bh’ ann ’s <m>rachadh deiligeadh</m> ris a chiontach air reir a chiont,
+                          ach ’s e bha so gnothach eile.</gd>
+                        <tr>Usually in the army, when an order was disobeyed it was a serious
+                          transgression and the offender would be dealt with according to his crime,
+                          but this was another matter</tr>
+                        <ref text="34">td. 10–11</ref>
+                      </li>
+                      <li>
+                        <gd>Anns a’ Mhàrt 1992, <m>chaidh ghabhail</m> ri Moladh Eòrpach air
+                          cùram-cloinne.</gd>
+                        <tr>In March 1992, the European Recommendation on childcare was
+                          accepted.</tr>
+                        <ref text="6">td. 11</ref>
+                        <note>the lenition on ‘ghabhail’ may well be a hypercorrection here</note>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+              <li>transitive with inversion – <ul>
+                  <li>pedagogical examples – <xl id="passive-trans-pedag">
+                      <li>
+                        <gd>Chaidh an doras a dhùnadh. | Chaidh Iain a bhualadh. | Cha deach an
+                          telebhisean a ghoid. | An deach am biadh a ithe? | Thèid an càr a
+                          reic.</gd>
+                        <tr>The door was closed. | John was hit. | The television was not stolen. |
+                          Was the food eaten? | The car will be sold.</tr>
+                        <ref text="609">td. 172</ref>
+                      </li>
+                      <li>
+                        <gd>Nuair a sheallar air na chaidh a sgrìobhadh ann an Gàidhlig, shaoileadh
+                          duine gun <m>deach òigridh na Gàidhealtachd a oideachadh</m> nan cànan
+                          fhèin ann an sgoiltean na Stàite bho shean. [...] Ann an 1709 <m>chaidh
+                            Comann a stèidheachadh</m> ann an Dùn Èideann, le barrantas rìoghail,
+                          airson sgoiltean a chur air bhonn gus leughadh is sgrìobhadh a ionnsachadh
+                          do mhuinntir na Gàidhlig an Alba agus gu sònraichte airson am Bìoball agus
+                          leabhraichean cràbhach a chur an eòlas nan Gàidheal. [...] Ann an 1946
+                            <m>chaidh Gàidhlig a chur air a’ chlàr-oideachaidh</m> ann am beagan
+                          sgoiltean anns na bailtean mòra, Glaschu gu h-àraid, airson a’ chiad uair.
+                          [...] <m>Chaidh a’ chiad sgoil Ghàidhlig neo-eisimeileach [...] a
+                            stèidheachadh</m> ann an Glaschu anns a’ bhliadhna 2006.</gd>
+                        <tr>When one considers how much has been written in Gaelic, one would think
+                          that the youth of the Gaidhealtachd had been instructed in their own
+                          language in the schools from olden times. [...] In 1709 a Society was set
+                          up in Edinburgh, under royal charter, to establish schools in order to
+                          teach reading and writing to the Gaelic speakers in Scotland and
+                          particularly to give Gaels a knowledge of the Bible and books of piety.
+                          [...] In 1946 Gaelic was placed on the curriculum of a few city schools,
+                          especially in Glasgow, for the first time. [...] The first independent
+                          Gaelic school [...] was established in Glasgow in 2006.</tr>
+                        <ref text="609">td. 193–4</ref>
+                      </li>
+                      <li>
+                        <gd>Chaidh an ròpa a ghearradh. Thèid an doras fhosgladh aig sia uairean.
+                          Thuirt e gun deach an càr aige a ghoid.</gd>
+                        <tr>The rope was cut. The door will be opened at six o’ clock. He said that
+                          his car had been stolen.</tr>
+                        <ref text="601">td. 477</ref>
+                      </li>
+                    </xl>
+                  </li>
+                  <li>examples from Gairm – <xl id="passive-trans-gairm">
+                      <li>
+                        <gd>An déidh crìoch a’ Chogaidh <m>chaidh deachdaireachdan co-mhaoineach a
+                            stéidheachadh</m> le cul-taic an armailt ruiseanaich ann an dùthchannan
+                          na h-Eòrpa an Ear.</gd>
+                        <tr>After the end of the War communist dictatorships were established with
+                          the support of the Russian army in the countries of Eastern Europe.</tr>
+                        <ref text="400-66">td. 121</ref>
+                      </li>
+                    </xl>
+                  </li>
+                  <li>other examples from modern usage – <xl id="passive-trans-other">
+                      <li>
+                        <gd>’S e litir a bh’ ann gun ainm ’s gun seòladh, agus an àite
+                          làmh-sgrìobhaidh bha <m>facail a chaidh a ghearradh</m> à
+                          pàipear-naidheachd.</gd>
+                        <tr>It was a letter with no name or address, and in place of handwriting
+                          there were words that had been cut out of a newspaper.</tr>
+                        <ref text="2">td. 107</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+              <li>transitive with pronoun – <ul>
+                  <li>pedagogical examples – <xl id="passive-pron-pedag">
+                      <li>
+                        <gd>Chaidh mo bhualadh. Chaidh do mholadh. Chaidh a dhèanamh. Chaidh a
+                          pòsadh. Chaidh ar stiùireadh. An deach ur leantail? Cha deach an
+                          clò-bhualadh fhathast. | Chuir mi a-staigh airson dreuchd teagaisg ann an
+                          àrd-sgoil is <m>chaidh mo thaghadh</m> airson na h-obrach.</gd>
+                        <tr>I was hit. You were recommended. It was done. She was married. We were
+                          directed. Were you followed? They were not printed yet. | I applied for a
+                          teaching post in a secondary school and I was chosen for the work.</tr>
+                        <ref text="609">td. 172, 180</ref>
+                      </li>
+                      <li>
+                        <gd>Chaidh mo bhreabadh leis an each. Thèid an cur sa phost a-màireach.
+                          Rachadh a mhilleadh.</gd>
+                        <tr>I was kicked by the horse. They will be posted tomorrow. It would be
+                          destroyed.</tr>
+                        <ref text="601">td. 477</ref>
+                      </li>
+                    </xl>
+                  </li>
+                  <li>other examples from modern usage – <xl id="passive-pron-other">
+                      <li>
+                        <gd>Chaidh an sàthadh le rud biorach air choreigin [...]</gd>
+                        <tr>They were stabbed with something pointed [...]</tr>
+                        <ref text="2">td. 122</ref>
+                      </li>
+                      <li>
+                        <gd>’S <m>chaidh a thìodhlacadh</m> ’s chaidh a’ bheairt a reic.</gd>
+                        <tr>And he was buried and the loom was sold.</tr>
+                        <ref text="198">td. 76</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+              <li>examples with an explicit agent introduced by <a href="?gd=le"><g>le</g></a>
+                <en>with</en> – <ul>
+                  <li>pedagogical examples – <xl id="passive-pedag">
+                      <li>
+                        <gd>Chaidh a’ bhùth a cheannach le Iain. | Chaidh a’ chaora a leagail le
+                          càr. | An deach Anna a bhreabadh leis an each?</gd>
+                        <tr>The shop was bought by John. | The sheep was knocked down by a car. |
+                          Was Anna kicked by the horse?</tr>
+                        <ref text="609">td. 172–3</ref>
+                      </li>
+                      <li>
+                        <gd>Chaidh mo bhreabadh leis an each.</gd>
+                        <tr>I was kicked by the horse.</tr>
+                        <ref text="601">td. 477</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </p>
+          <section id="passive-notes">
+            <h>notes</h>
+            <p>Note that the particle <g>a</g> used in the inverting passives with a non-prononimal
+              direct object is not a possessive determiner meaning <en>his, her, its</en>. Examples
+              like the following with feminine or plural nouns are hypercorrections, influenced by
+              other passive constructions – <ul>
+                <li><bad>Chaidh na fir am marbhadh.</bad>
+                  <en>The men were killed</en> – Chaidh na fir <m>a mh</m>arbhadh.</li>
+                <li><bad>a’ chailleach a thèid a marbhadh</bad>
+                  <en>the old woman who will be killed</en> – a’ chailleach a thèid <m>a
+                  mh</m>arbhadh</li>
+              </ul>
+            </p>
+            <!--<p>Note also that it is not clear that this construction can be used in the progressive
+              – <ul>
+                <li><bad>Tha a’ dol an uinneag (a) fhosgladh.</bad> for <en>The window is being
+                    opened.</en> (cf. Thathar a’ fosgladh na h-uinneig(e).)</li>
+              </ul>
+            </p>-->
+            <p>See also the original LeaCaG guidance <ax href="https://www.gramar-g.scot/pdfs/section-5.pdf">here</ax>.</p>
+          </section>
+        </section>
+        <section>
+          <h>modal uses</h>
+          <p><g>rach</g> can also be used impersonally in a couple of quasi-modal constructions.</p>
+          <module id="rach_aig_air" status="bronze">
+            <h>rach aig ... air ...</h>
+            <p>The impersonal construction <g>rach aig [duine] air [rud a dhèanamh]</g> can be used
+              to express the notion of success – <en>succeed in doing something, manage to do
+                something</en> – <ul>
+                <li>Chaidh <m>aig Raonaid</m>
+                  <m>air an uinneag (a) fhosgladh</m>. <en>Rachel managed to open the
+                  window.</en></li>
+                <li>Cha tèid <m>aice</m>
+                  <m>air seinn</m>. <en>She won’t manage to sing.</en></li>
+              </ul>
+            </p>
+            <p>Some examples – <ul id="rach_aig_air-exs">
+                <li>intransitive – <ul>
+                    <li>pedagogical examples – <xl id="modal-intrans-pedag">
+                        <li>
+                          <gd>Tha mi toilichte gun deach <m>agad</m>
+                            <m>air tighinn</m>.</gd>
+                          <tr>I’m glad you managed to come.</tr>
+                          <ref text="601">td. 477</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+                <li>transitive with inversion – <ul>
+                    <li>pedagogical examples – <xl id="modal-trans-pedag">
+                        <li>
+                          <gd>Chaidh <m>agam</m>
+                            <m>air a’ chraobh a dhìreadh</m>.</gd>
+                          <tr>I managed to climb the tree.</tr>
+                          <ref text="601">td. 477</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+                <li>transitive with pronoun – <ul>
+                    <li>pedagogical examples – <xl id="modal-pron-pedag">
+                        <li>
+                          <gd>Cha deach <m>aig a nàimhdean</m>
+                            <m>air a ghlacadh</m>.</gd>
+                          <tr>His enemies didn’t succeed in catching him.</tr>
+                          <ref text="601">td. 477</ref>
+                        </li>
+                        <li><gd>An tèid <m>agad</m>
+                            <m>air an toirt a-nuas</m>?</gd>
+                          <tr>Will you manage to get them down?</tr>
+                          <ref text="">??</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+                <li>understood action – <ul>
+                    <li>pedagogical examples – <xl id="modal-implicit-pedag">
+                        <li>
+                          <gd>cho tric ’s a thèid <m>agaibh</m>
+                            <m>air</m></gd>
+                          <tr>as often as you can manage</tr>
+                          <ref text="601">td. 477</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </p>
+          </module>
+          <module id="rach_le" status="bronze">
+            <h>rach le ...</h>
+            <p>Another way of expressing the notion of success is with the impersonal construction
+                <g>rach <a href="?gd=le">le</a> [duine]</g>
+              <en>someone succeeds</en> – <ul>
+                <li><m>Chaidh le Raonaid.</m>
+                  <en>Rachel succeeded.</en></li>
+                <li><m>Cha tèid leat.</m>
+                  <en>You won’t succeed.</en></li>
+              </ul>
+            </p>
+            <p>Some examples – <ul>
+                <li>pedagogical examples – <xl id="rach_le-pedag">
+                    <li>
+                      <gd>Chun na h-ìre sin <m>chaidh leis</m>. | Chaidh leatha. | Ma thèid leinn
+                        ... </gd>
+                      <tr>To that extent he/it has succeeded. | She succeeded. | If we are
+                        successful ...</tr>
+                      <ref text="601">td. 477</ref>
+                    </li>
+                    <li>
+                      <gd>Aig toiseach tòiseachaidh b’ e rùn a’ Chomainn foghlam Beurla a thoirt don
+                        t-sluagh Ghàidhealach; bha Gàidhlig is Laideann le chèile, uime sin, air an
+                        toirmeasg anns na sgoiltean. Ach <m>cha deach leotha</m>.</gd>
+                      <tr>At the outset the aim of the Society was to provide education in English
+                        to the Gaelic population. Gaelic and Latin together were therefore forbidden
+                        in the schools. But they did not succeed in that policy.</tr>
+                      <ref text="609">td. 193</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </p>
+            <p>A more emphatic variant is <g>rach gu <a href="?gd=math">math</a> le [duine]</g>
+              <en>flourish, do well</en> – <ul>
+                <li>pedagogical examples – <xl id="rach_gu_math_le-pedag">
+                    <li>
+                      <gd>Chaidh gu math leotha.</gd>
+                      <tr>They flourished.</tr>
+                      <ref text="601">td. 477</ref>
+                    </li>
+                    <li>
+                      <gd>Gun tèid (gu math) leat! | Gur/guma math a thèid leat!</gd>
+                      <tr>Good luck!</tr>
+                      <ref text="609">td. 177</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </p>
+            <p>This construction is used in the following common subjunctive imprecations, all of which mean
+              something like <en>Good luck!</en> – <ul>
+                <li><m>Gun tèid (gu math) leat!</m></li>
+                <li><m>Gur math a thèid leat!</m></li>
+              </ul>
+            </p>
+            <p>Some examples – <ul>
+                <li>pedagogical examples – <xl id="imprec-rach_gu_math_le-pedag">
+                    <li>
+                      <gd>Gun tèid (gu math) leat! | Gur/guma math a thèid leat!</gd>
+                      <tr>Good luck!</tr>
+                      <ref text="609">td. 177</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </p>
+          </module>
+          <module id="rach_gu_math_do" status="bronze">
+            <h>rach gu math do ...</h>
+            <p>Yet another way of expressing the notion of success is with the impersonal
+              construction <g>rach gu <a href="?gd=math">math</a> do [dhuine]</g> – <ul>
+                <li><m>Chaidh gu math do Raonaid.</m>
+                  <en>It went well for Rachel.</en></li>
+                <li><m>An tèid gu math dhut?</m>
+                  <en>Will it go well for you?</en></li>
+              </ul>
+            </p>
+            <p>Some examples – <ul>
+                <li>basic – <ul>
+                    <li>pedagogical examples – <xl id="rach_gu_math_do-pedag">
+                        <li>
+                          <gd>An toiseach chaidh dhomh gu math.</gd>
+                          <tr>At first it went well for me.</tr>
+                          <ref text="601">td. 477</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+                <li>comparatives – <ul>
+                    <li>pedagogical examples – <xl id="rach_nas_fhearr-pedag">
+                        <li>
+                          <gd>Cha deach dhaibh na b’ fheàrr an sin.</gd>
+                          <tr>It didn’t go any better for them there. / They didn’t fare any better
+                            there.</tr>
+                          <ref text="601">td. 477</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+                <li>with <a href="?gd=ciamar"><g>ciamar?</g></a>
+                  <en>how?</en> – <ul>
+                    <li>pedagogical examples – <xl id="rach_ciamar-pedag">
+                        <li>
+                          <gd>Leigidh sinn fios thugad uaireigin air an ath-sheachdain ciamar a
+                            chaidh dhut anns an agallamh.</gd>
+                          <tr>We’ll let you know sometime next week how you fared in the
+                            interview.</tr>
+                          <ref text="609">td. 150</ref>
+                          <note>no subject</note>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </p>
+            <p>This construction can also be used non-impersonally, with an explicit subject – <ul>
+                <li>pedagogical examples – <xl id="rach_nas_miosa-pedag">
+                    <li>
+                      <gd>Tha <m>cùisean</m> air a dhol nas miosa dhaibh bhon uairsin.</gd>
+                      <tr>Matters have become worse for them since then.</tr>
+                      <ref text="601">td. 477</ref>
+                      <note>negative, comparative, retrospective</note>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </p>
+          </module>
+        </section>
+      </section>
+    </section>
+    <section id="comps">
+      <h>complements</h>
+      <p><g>rach</g> usually takes one or more complements – prepositional phrases or adverbs.</p>
+      <section>
+        <h>concrete</h>
+        <p>Concrete uses of <g>rach</g> involve a material (generally animate, volitional) subject
+          moving along a trajectory/path in three-dimensional physical space, often with a specific
+          goal/purpose in mind.</p>
+        <section id="paths">
+          <h>paths</h>
+          <p>A complement of concrete <g>rach</g> can denote the physical trajectory of motion
+            itself, usually with respect to one or more reference objects – <ul>
+              <li>Chaidh Raonaid <m>bho Lunnainn</m>
+                <m>gu Dùn Èideann</m>. <en>Rachel went from London to Edinburgh.</en></li>
+              <li>Dheigheamaid <m>a-mach</m> a h-uile feasgar. <en>We would go out every
+                  evening.</en></li>
+            </ul>
+          </p>
+          <p>A path complement can be queried using <a href="?gd=càite"><g>càite ?</g></a>
+            <en>(to) where?, whither?</en> – <ul>
+              <li><m>Càite</m> an deach sibh? <en>Where did you go?</en></li>
+            </ul>
+          </p>
+          <section id="path-preps">
+            <h>prepositions</h>
+            <p>There are a number of prepositions which can be used to introduce concrete path
+              complements of <g>rach</g> – <ul>
+                <li><g>rach <a href="?gd=dha">dha</a> ...</g> [<g>do</g>, <g>a</g>]
+                    <en>go (in)to something</en> – <ul>
+                    <li>proper nouns/names – <ul>
+                        <li>pedagogical examples – <xl id="comps-do-proper-pedag">
+                            <li>
+                              <gd>Tha Anna a’ dol a-null <m>a Ghlaschu</m>. | Tha mi a’ dol a-null
+                                thairis <m>a Pharas</m>. | Chaidh mi <m>a Pheairt</m> a chionn is
+                                gun robh mo charaid a’ fuireach ann. | Thèid sinn <m>a Ghlaschu</m>.
+                                | Thèid Anna <m>a Ghlaschu</m> a h-uile Dimàirt. | an tidsear a
+                                chaidh a mhac <m>a Pheairt</m> | Is ann an-dè a chaidh Iain <m>a
+                                  Ghlaschu</m>. | Is àbhaist dhomh a bhith a’ dol <m>a dh’Èirinn</m>
+                                as t-samhradh. | An àbhaist dha a bhith a’ dol <m>a dh’Uibhist</m>?
+                                | Rachainn <m>a Ghlaschu</m> nan tigeadh Anna còmhla rium.</gd>
+                              <tr>Ann is going over there to Glasgow. | I am going abroad to Paris.
+                                | I went to Perth because my friend was living there. | We will go
+                                to Glasgow. | Ann goes to Glasgow every Tuesday. | the teacher whose
+                                son went to Perth | It is yesterday that John went to Glasgow. | I
+                                usually go to Ireland in the summer. | Does he usually go to Uist? |
+                                I would go to Glasgow if Ann came with me.</tr>
+                              <ref text="609">td. 31, 66, 105, 118, 120, 121, 144, 170, 176</ref>
+                            </li>
+                          </xl>
+                        </li>
+                      </ul>
+                    </li>
+                    <li>common nouns – <ul>
+                        <li>pedagogical examples – <xl id="comps-do-common-pedag">
+                            <li>
+                              <gd>Rachamaid <m>dhan an taigh-thasgaidh</m> a h-uile mìos. | Nuair a
+                                dh’fhàg mi an sgoil, chaidh mi <m>dhan an oilthigh</m> an Dùn
+                                Èideann. | A chionn is gum feumadh a h-uile leanabh a-nis dol
+                                  <m>dhan sgoil</m>, agus leis gur h-e Beurla an aon chainnt
+                                ionnsachaidh a bha innte, thug an t-Achd buille mhairbhteach dhan
+                                chànan.</gd>
+                              <tr>We used to go to the museum every month. | When I left school, I
+                                went to the university in Edinburgh. | Since every child now had to
+                                go to school, and since English was the only language of
+                                instruction, the Act gave Gaelic a fatal blow.</tr>
+                              <ref text="609">td. 119 [199], 169 [199], 180, 193</ref>
+                            </li>
+                            <li>
+                              <gd>Dh’iarr i orm a dhol <m>don bhuth</m>. Thèid mi air ais <m>don
+                                  talla</m>. | Chaidh iad <m>don àrd-sgoil</m> anns an ath bhaile.
+                                An deach(aidh) iad <m>don eaglais</m>? | Chaidh e a-steach <m>don
+                                togalach</m> às an robh an t-seinn a’ tighinn.</gd>
+                              <tr>She asked me to go to the shop. I’ll go back to the hall. | They
+                                went to the high-school in the next town. Did they go to [the]
+                                church? | He entered the building from which the singing was
+                                coming.</tr>
+                              <ref text="601">td. 476, 477, 49</ref>
+                            </li>
+                          </xl>
+                        </li>
+                        <li>older pedagogical examples – <xl id="comps-do-older-pedag">
+                            <li>
+                              <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air
+                                falbh. Thubhairt mo mhàthair, “An téid thu <m>do bhocsa nan
+                                  litrichean</m> leis an litir seo, Iain?” “Théid,” ars Iain,
+                                “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi i is gus an cuir
+                                mi seòladh oirre. Ceannaich fhéin stamp agus cuir oirre i.” Tha Iain
+                                a’ ruith sìos an rathad leis an litir ’na làimh. Théid e a steach
+                                  <m>do oifig a’ phuist</m>, ceannaichidh e stamp is cuiridh e sud
+                                air an litir. [...]</gd>
+                              <tr>My mother is writing a letter to my father who is away. My mother
+                                said, “Will you go to the postbox with this letter, John?” “Yes, I
+                                will,” said John, “I will leave now.” “Wait until I seal it and put
+                                an address on it. Buy a stamp and put it on it.” John is running
+                                down the road with the letter in his hand. He will go into the post
+                                office, he will buy a stamp and put that on the letter. [...]</tr>
+                              <ref text="621">td. 5</ref>
+                            </li>
+                          </xl>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li><g>rach <a href="?gd=gu^preposition">gu</a> ...</g>
+                  <en>go to something/someone</en> – <ul>
+                    <li>proper nouns/names – <ul>
+                        <li>pedagogical examples – <xl id="comps-gu-proper-pedag">
+                            <li>
+                              <gd>Bu chòir dhut a dhol <m>gu Baile Àtha Cliath</m>.</gd>
+                              <tr>You should go to Dublin.</tr>
+                              <ref text="609">td. 154 [199]</ref>
+                            </li>
+                            <li>
+                              <gd>Chaidh e <m>gu Glaschu</m>.</gd>
+                              <tr>He went to (the outskirts of) Glasgow.</tr>
+                              <ref text="605">td. 220</ref>
+                            </li>
+                          </xl>
+                        </li>
+                      </ul>
+                    </li>
+                    <li>common nouns – <ul>
+                        <li>pedagogical examples – <xl id="comps-gu-common-pedag">
+                            <li>
+                              <gd> Càite an tèid mi airson nan tiocaidean? Thèid <m>chun an
+                                  dorais</m> anns a bheil fear an stèisein na sheasamh. | Chaidh an
+                                iolaire <m>chun na goibhre</m> is chuir i an dearbh cheist oirrese.
+                                [...] Chaidh an iolaire <m>chun a’ bhric</m>.</gd>
+                              <tr>Where can I go for the tickets? To the door where the
+                                station-master is standing. | The eagle went to the goat and out the
+                                very same question to her. [...] The eagle went to the salmon.</tr>
+                              <ref text="609">td. 134, 191</ref>
+                            </li>
+                          </xl>
+                        </li>
+                      </ul>
+                    </li>
+                    <li><g>rach gu ruige ...</g> – <ul>
+                        <li>pedagogical examples – <xl id="comps-gu-pedag">
+                            <li>
+                              <gd>Agus theich prìosanaich a bha a’ dol <m>gu ruige cùirt</m>.</gd>
+                              <tr>And prisoners who were going to court escaped.</tr>
+                              <ref text="609">td. 83</ref>
+                            </li>
+                          </xl>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li><g>rach <a href="?gd=tro">tro</a> ...</g>
+                  <en>go through something/someone</en></li>
+              </ul>
+            </p>
+          </section>
+
+          <section id="path-adverbs">
+            <h>adverbs</h>
+            <p>There are many adverbs (and prepositional compounds) which can serve as the
+              complement of <g>rach</g>, denoting a concrete trajectory – <ul>
+                <li><g>rach <a href="?gd=a-mach">a-mach</a></g>
+                  <en>go out(side)</en> (cf. <bad>rach a-muigh</bad>)</li>
+                <li><g>rach <a href="?gd=a-null">a-null</a></g>
+                  <en>go (over there)</en> (cf. <bad>rach a-nall</bad>)</li>
+                <li><g>rach <a href="?gd=a-steach">a-steach</a></g>
+                  <en>go in(side), enter</en> <!--(cf. <bad>rach a-staigh</bad>)--></li>
+                <li><g>rach <a href="?gd=adhart">air adhart</a></g>
+                  <en>advance, go forwards</en></li>
+                <li><g>rach <a href="?gd=ais">air ais</a></g>
+                  <en>go back(wards), recede, regress, reverse</en></li>
+                <li><g>rach <a href="?gd=bòrd">air bòrd</a></g>
+                  <en>go aboard</en></li>
+                <li><g>rach <a href="?gd=toiseach">air thoiseach</a></g>
+                  <en>advance, go forwards</en></li>
+                <li><g>rach <a href="?gd=dachaigh">dhachaigh</a></g>
+                  <en>go home(wards)</en></li>
+                <li><g>rach <a href="?gd=sìos">sìos</a></g>
+                  <en>go down(wards), charge (in battle)</en> (cf. <bad>rach a-nuas</bad>, <bad>rach
+                    shìos</bad>)</li>
+                <li><g>rach <a href="?gd=suas">suas</a></g>
+                  <en>go up(wards)</en> (cf. <bad>rach a-nìos</bad>, <bad>rach shuas</bad>)</li>
+                <li><g>rach <a href="?gd=seachad">seachad</a></g>
+                  <en>go past</en></li>
+                <li><g>rach <a href="?gd=tarsainn">tarsainn</a></g>
+                  <en>go across/over</en></li>
+                <li><g>rach <a href="?gd=timcheall">timcheall</a></g>
+                  <en>go (a)round</en></li>
+                <li><g>rach <a href="?gd=cuairt">mun cuairt</a></g>
+                  <en>revolve</en></li>
+                <li><g>rach <a href="?gd=uisge">fon uisge</a></g>
+                  <en>dive, submerge, go underwater</en></li>
+                <li><g>rach <a href="?gd=taobh">ri taobh ...</a></g>
+                  <en>go along(side) ...</en>, <g>rach <a href="?gd=taobh">taobh ...</a></g>
+                  <en>go via ...</en></li>
+                <li><g>rach <a href="?gd=far">far an ...</a></g>
+                  <en>go (to the place) where ...</en></li>
+              </ul>
+            </p>
+          </section>
+        </section>
+        <section id="comps-purpose">
+          <h>purpose</h>
+          <p>A complement of concrete <g>rach</g> can denote the purpose of the motion, the reason
+            why the volitional subject decided to act in that way. This is usually introduced by the
+            preposition <a href="?gd=do^preposition"><g>do</g></a> [<g>a</g>]
+              <en>to</en> governing a verbal noun – <ul>
+              <li>Chaidh Raonaid (dhan bhùth) <m>a dh’fhaighinn isbeanan</m>. <en>Rachel went (to
+                  the shop) to get sausages.</en></li>
+              <li>Dheigheamaid <m>gam/dham faighinn</m> a h-uile madainn. <en>We would go to get them
+                  every morning.</en></li>
+            </ul>
+          </p>
+          <p>A purpose complement can be queried using <a href="?gd=son"><g>carson ?</g></a>
+            <en>why?</en> – <ul>
+              <li><m>Carson</m> a chaidh sibh ann? <en>Why did you go?</en></li>
+            </ul>
+          </p>
+          <p>Some examples – <ul id="comps-purpose-exs">
+              <li>intransitive – <ul>
+                  <li>pedagogical examples – <xl id="comps-purpose-intrans-pedag">
+                      <li>
+                        <gd>Chaidh Anna <m>a dh’fhuireach còmhla ri Peigi</m>.</gd>
+                        <tr>Ann went to stay with Peggy.</tr>
+                        <ref text="609">td. 153</ref>
+                      </li>
+                      <li>
+                        <gd>Chaidh i <m>a dhannsa</m> còmhla ris.</gd>
+                        <tr>She went to dance with him.</tr>
+                        <ref text="601">td. 477</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+              <li>transitive – <ul>
+                  <li>pedagogical examples – <xl id="comps-purpose-trans-pedag">
+                      <li>
+                        <gd>Chaidh iad <m>a cheannach leabhraichean</m>.</gd>
+                        <tr>They went to buy books.</tr>
+                        <ref text="609">td. 154</ref>
+                      </li>
+                      <li>
+                        <gd>Chaidh e <m>a dhùnadh an dorais</m>. Chaidh i <m>a dh’fhosgladh na
+                            h-uinneig</m>.</gd>
+                        <tr>He went to shut the door. She went to open the window.</tr>
+                        <ref text="601">td. 477</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+              <li>transitive with pronoun – <ul>
+                  <li>pedagogical examples – <xl id="comps-purpose-pron-pedag">
+                      <li>
+                        <gd>Chaidh Iain <m>gan iarraidh</m>. | Chaidh Calum <m>ga coimhead</m>.</gd>
+                        <tr>John went to get them. | Calum went to watch her.</tr>
+                        <ref text="609">td. 156, 157 [199]</ref>
+                        <note>ie. dhan iarraidh, dha coimhead</note>
+                      </li>
+                      <li>
+                        <gd>Thuirt e gun robhas a’ dol ga mhort.</gd>
+                        <tr>He said that he was going to be murdered.</tr>
+                        <ref text="601">td. 477</ref>
+                        <note>ie. Thuirt e gun robh duine a’ dol dha mhort.</note>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </p>
+          <p>Some idioms – <ul>
+              <li><g>rach a/air chèilidh air</g>
+                <en>visit, call in on</en></li>
+            </ul>
+          </p>
+
+          <section>
+            <h>other</h>
+            <p>When the complement of one of the trajectory prepositions <a
+                href="?gd=do^preposition"><g>do</g></a> or <a href="?gd=gu^preposition"
+                ><g>gu</g></a> denotes a social event, the intention is understood as one of
+              attendance – <ul>
+                <li>Chaidh Raonaid <m>gu banais Sheumais</m>. <en>Rachel went to James’
+                    wedding.</en></li>
+                <li>Dheighinn <m>gu adhlacadh</m> gach seachdain. <en>I would go to a funeral every
+                    week.</en></li>
+              </ul> An alternative interpretation is that these are just path complements meaning
+                <en>to the place where the wedding/funeral happened</en>. </p>
+            <p>Some examples – <ul id="party-purpose">
+                <li>examples with <g>do</g> – <ul>
+                    <li>pedagogical examples – <xl id="purpose-party-do-pedag">
+                        <li>
+                          <gd>An tèid do bhràthair <m>dhan a’ chèilidh</m>? | An abradh tu gun
+                            rachadh Iain <m>dhan an dealbh-chluich</m>? </gd>
+                          <tr>Will your brother go to the cèilidh? | Would you say that John would
+                            go to the drama?</tr>
+                          <ref text="609">td. 119 [199], 169 [199]</ref>
+                        </li>
+                        <li>
+                          <gd>Nach tèid iad <m>don chèilidh</m>?</gd>
+                          <tr>Won’t they go to the ceilidh?</tr>
+                          <ref text="601">td. 476</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+                <li>examples with <g>gu</g> – <ul>
+                    <li>pedagogical examples – <xl id="purpose-party-gu-pedag">
+                        <li>
+                          <gd>Chaidh sinn <m>gu cèilidh</m>.</gd>
+                          <tr>We went to a ceilidh.</tr>
+                          <ref text="601">td. 346</ref>
+                        </li>
+                        <li>
+                          <gd>Càite am bi sinn a’ dol a-nochd? Bidh <m>chun a’ chèilidh</m>.</gd>
+                          <tr>Where will we be going tonight? To the ceilidh.</tr>
+                          <ref text="609">td. 116</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </p>
+            <p>Note also examples with <a href="?gd=air"><g>air</g></a>
+              <en>on</en> – <ul>
+                <li><g>rach <a href="?gd=lorg">air lorg</a> ...</g>
+                  <en>go looking for, track, trail</en></li>
+                <li><g>rach <a href="?gd=latha">air làithean saora</a></g>
+                  <en>go on holiday/vacation</en>
+                </li>
+              </ul>
+            </p>
+          </section>
+        </section>
+
+        <section id="concrete-other">
+          <h>other</h>
+          <module id="rach_ann" status="bronze">
+            <h>rach ann</h>
+            <p>As seen with the subject above, the complement of concrete <g>rach</g> can only be
+              dropped when it is implied in the response to a question.</p>
+            <p>In the absence of any other explicit complement or modifier, the prepositional
+              pronoun <g>ann</g> is used as a default trajectory complement – <ul>
+                <li>Chaidh Raonaid <m>ann</m>. <en>Rachel went.</en></li>
+              </ul>
+            </p>
+            <p>Examples – <ul>
+                <li>pedagogical examples – <xl id="comps-ann-pedag">
+                    <li>
+                      <gd>Cò a bhios a’ seinn aig a’ chèilidh? Chan eil sìon a dh’fhios agamsa ach
+                        tha seinneadairean is pìobairean is fìdhleirean às an àite seo fhèin a’ dol
+                          <m>ann</m>. | Tha mise a’ dol <m>ann</m> ma tha Anna a’ tighinn. |
+                        Rachainn <m>ann</m> nan tigeadh tusa còmhla rium. | Thathar a’ dol
+                          <m>ann</m> a h-uile bliadhna. Dh’fheumte a dhol <m>ann</m>.</gd>
+                      <tr>Who will be singing at the ceilidh? I’ve no idea, but there are plenty of
+                        singers and pipers and fiddlers from this place itself going there. | I am
+                        going (there) if Ann is coming. | I would go there if you came along with
+                        me. | People are going there every year. People had to go there.</tr>
+                      <ref text="609">td. 116, 138, 168, 173</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </p>
+          </module>
+          <section>
+            <h>idioms</h>
+            <p>Some quasi-idiomatic usages that seem to involve concrete senses of <g>rach</g> are – <ul>
+                <li><g>rach <a href="?gd=fo">fodha*</a></g>
+                  <en>go down, sink</en></li>
+                <li><g>rach <a href="?gd=caill">air chall</a></g>
+                  <en>get/become lost</en></li>
+                <li><g>rach <a href="?gd=seall">à(s an t-)sealladh</a></g>
+                  <en>disappear, vanish</en></li>
+                <li><g>rach <a href="?gd=tàmh">mu thàmh</a></g>
+                  <en>go to bed</en></li>
+              </ul>
+            </p>
+          </section>
+        </section>
+      </section>
+
+      <section>
+        <h>abstract</h>
+        <p>Abstract uses of <g>rach</g> do not involve physical motion along a concrete spatial
+          trajectory.</p>
+        <section id="change_of_state">
+          <h>change of state</h>
+          <p>A complement of abstract <g>rach</g> can denote a new state which the subject
+            transitions into.</p>
+          <module status="bronze" id="rach_ann_an">
+            <h>rach ann an ...</h>
+            <p>The new state can be represented by a deadjectival abstract noun, introduced by the
+              preposition <a href="?gd=an^preposition"><g>an</g></a>
+              <en>in</en> – <ul>
+                <li><g>rach am miosad</g>
+                  <en>deteriorate, get/become worse</en> – <xl id="miosad-pedag">
+                    <li>
+                      <gd>Tha cogadh is gort a’ dol am miosad.</gd>
+                      <tr>War and famine are becoming worse.</tr>
+                      <ref text="601">td. 433</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </p>
+            <module status="bronze" id="rach_na_">
+              <h>rach na* ...</h>
+              <p>A special implementation of this is the pseudo-reflexive <g>rach <a
+                    href="?gd=an^preposition">na*</a> ...</g>
+                <en>become, turn into</en> – <ul>
+                  <li>human subjects – <ul>
+                      <li>pedagogical examples – <xl id="rach_na-human-pedag">
+                          <li>
+                            <gd>’S dòcha nach rachadh e na dhotair idir.</gd>
+                            <tr>Perhaps he wouldn’t become a doctor at all.</tr>
+                            <ref text="601">td. 477</ref>
+                          </li>
+                          <li>
+                            <gd>... mun deach e na mhinistear</gd>
+                            <tr>... before he became a minister</tr>
+                            <ref text="601">td. 477</ref>
+                          </li>
+                        </xl>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>inanimate subjects – <ul>
+                      <li>pedagogical examples – <xl id="rach_na-inanimate-pedag">
+                          <li>
+                            <gd>Bha ùir a’ cheuma gu luath a’ dol na h-eabar.</gd>
+                            <tr>The soil of the path was quickly turning into mud.</tr>
+                            <ref text="601">td. 477</ref>
+                            <note>progressive</note>
+                          </li>
+                        </xl>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </p>
+              <p>Some idioms – <ul>
+                  <li><g>rach na* teine</g>
+                    <en>catch fire, go on fire</en> – <ul>
+                      <li>pedagogical examples – <xl id="teine-pedag">
+                          <li>
+                            <gd>Chaidh an sabhal na theine.</gd>
+                            <tr>The barn went on fire.</tr>
+                            <ref text="601">td. 478</ref>
+                          </li>
+                        </xl>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </p>
+            </module>
+          </module>
+          <module status="bronze" id="rach_a">
+            <h>rach à ...</h>
+            <p>The new state can be introduced by the preposition <a href="?gd=a^preposition"
+                  ><g>à</g></a>
+              <en>out of</en> – <ul>
+                <li><g>rach às a* chiall</g>
+                  <en>go out of one’s mind</en> – <ul>
+                    <li>pedagogical examples – <xl id="ciall-pedag">
+                        <li>
+                          <gd>Theab i <m>a dhol às a ciall</m>.</gd>
+                          <tr>She almost went out of her mind.</tr>
+                          <ref text="609">td. 177</ref>
+                          <note>non-finite verb</note>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </p>
+          </module>
+          <module status="bronze" id="rach_gu">
+            <h>rach gu ...</h>
+            <p>The new state can be introduced by the preposition <a href="?gd=gu^preposition"
+                  ><g>gu</g></a>
+              <en>to</en> – <ul>
+                <li><g>rach <a href="?gd=tàmh">gu tàmh</a></g>
+                  <en>go to rest, die</en></li>
+              </ul>
+            </p>
+          </module>
+        </section>
+        <section id="comps-idioms">
+          <h>idioms</h>
+
+          <p>Other, idiomatic, abstract uses of <g>rach</g> do not seem to involve an obvious change
+            of state – <ul>
+              <li><g>rach <a href="?gd=a-mach">a-mach</a> air</g>
+                <en>quarrel with, fall out with</en></li>
+              <li><g>rach an aghaidh</g>
+                <en>denounce, disagree with, discriminate against, disagree</en></li>
+              <li><g>rach <a href="?gd=seachad">seachad</a> air</g>
+                <en>ignore</en></li>
+              <li><g>rach ri ... gu math</g>
+                <en>make a good job of</en> – <ul>
+                  <li>pedagogical examples – <xl id="rach_gu_math-pedag">
+                      <li>
+                        <gd>Feuch dè cho math’s a thèid thu ris. | Is math a thèid thu ris, a
+                          Mhàiri.</gd>
+                        <tr>See how good a job you can make of it. | You made a good job of it,
+                          Mary.</tr>
+                        <ref text="601">td. 477, ibid</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+              <li><g>rach ri cuideachd ...</g>
+                <en>take after</en> – <xl id="cuideachd-pedag">
+                  <li>
+                    <gd>Is ann ri cuideachd athar a chaidh Raghnall.</gd>
+                    <tr>Ronald favoured his father’s people / looked like his father’s side of the
+                      family.</tr>
+                    <ref text="601">td. 478</ref>
+                  </li>
+                </xl>
+              </li>
+              <li><g>rach ris an deoch</g>
+                <en>take to drink</en> – <ul>
+                  <li>pedagogical examples – <xl id="deoch-pedag">
+                      <li>
+                        <gd>Chaidh e ris an deoch.</gd>
+                        <tr>He took to drink.</tr>
+                        <ref text="601">td. 478</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+              <li><g>rach an comhairle</g>
+                <en>confer</en></li>
+              <li><g>rach gu sabaid</g>
+                <en>begin to fight</en> – <ul>
+                  <li>pedagogical examples – <xl id="sabaid-pedag">
+                      <li>
+                        <gd>nuair a chaidh buill a’ chomainn gu sabaid nam measg fhèin</gd>
+                        <tr>when the members of the society began to fight among themselves</tr>
+                        <ref text="601">td. 478</ref>
+                        <note>concrete? inchoative?</note>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </p>
+        </section>
+      </section>
+    </section>
+    <section id="modifiers">
+      <h>modifiers</h>
+      <p>Forms of <g>rach</g> can be used with a wide range of adverbial modifiers – <ul>
+          <li>temporal – <ul>
+              <li>pedagogical examples – <xl id="mods-temp-pedag">
+                  <li>
+                    <gd>Thèid Anna a Ghlaschu <m>a h-uile Dimàirt</m>. | Is ann <m>an-dè</m> a
+                      chaidh Iain a Ghlaschu. | Rachamaid dhan an taigh-thasgaidh <m>a h-uile
+                        mìos</m>.</gd>
+                    <tr>Ann goes to Glasgow every Tuesday. | It is yesterday that John went to
+                      Glasgow. | We used to go to the museum every month.</tr>
+                    <ref text="609">td. 120, 144, 169 [199]</ref>
+                  </li>
+                  <li>
+                    <gd>An rachadh tu air ais <m>a-rithist</m>?</gd>
+                    <tr>Would you go back again?</tr>
+                    <ref text="601">td. 477</ref>
+                  </li>
+                </xl>
+              </li>
+              <li>older pedagogical examples – <xl id="mods-temp-older-pedag">
+                  <li>
+                    <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’
+                      chàr. Chaidh iad sìos taobh an locha is stad iad aig àite bòidheach gorm.
+                      Chuir iad an càr a stigh gu taobh an rathaid is thug iad brat a mach as a’
+                      chàr air son suidhe air. Tha bascaid làn de bhiadh aca is tha iad a’ dol a
+                      ghabhail an tea air a’ chnocan ghorm. Is toigh leis a’ chloinn biadh a
+                      ghabhail a muigh ri latha brèagha. Thèid iad dhachaidh <m>feasgar</m>
+                      <m>an uair a tha a’ ghrian a’ dol fodha</m>.</gd>
+                    <tr>The day was lovely and warm and their father took John and Ann in the car.
+                      They went down the side of the lake and they stopped at a beautiful green
+                      place. They put the car into the side of the road and they took a blanket out
+                      of the car for sitting on. They have a basket full of food and they are going
+                      to have their tea on the little green hill. The children like eating al fresco
+                      on a nice day. They will go home in the evening when the sun is going
+                      down.</tr>
+                    <ref text="621">td. 6–7</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+          <li>accompanying – <ul>
+              <li><g>rach còmhla ri ...</g>
+                <en>accompany</en> – <ul>
+                  <li>pedagogical examples – <xl id="comps-comhla-pedag">
+                      <li>
+                        <gd>Is ann a dh’fhaodainn fhìn a dhol <m>còmhla riut</m>.</gd>
+                        <tr>Indeed, I could go with you myself.</tr>
+                        <ref text="609">td. 165</ref>
+                      </li>
+                      <li>
+                        <gd>Rachainn <m>còmhla riut</m> nam b’urrainn dhomh. Chaidh i a dhannsa
+                            <m>còmhla ris</m>.</gd>
+                        <tr>I’d go with you if I could. She went to dance with him.</tr>
+                        <ref text="601">td. 477</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+              <li><g>rach <a href="?gd=le">le</a> ...</g>
+                <en>go with, take</en>
+                <ul>
+                  <li>pedagogical examples – <xl id="comps-le-pedag">
+                      <li>
+                        <gd>An tèid an ad seo leis a’ chòta.</gd>
+                        <tr>Will this hat go with the coat?</tr>
+                        <ref text="601">td. 478</ref>
+                      </li>
+                    </xl>
+                  </li>
+                  <li>older pedagogical examples – <xl id="comps-le-older-pedag">
+                      <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                          Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean <m>leis an
+                            litir seo</m>, Iain?” [...]</gd>
+                        <tr>My mother is writing a letter to my father who is away. My mother said,
+                          “Will you go to the postbox with this letter, John?” [...]</tr>
+                        <ref text="621">td. 5</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>concessive/contrastive – <ul>
+              <li>pedagogical examples – <xl id="mods-concess-pedag">
+                  <li>
+                    <gd>Cha tèid Màiri air lathaichean saora <m>ged a bhios an t-airgead
+                      aice</m>.</gd>
+                    <tr>Mary will not go on holiday even though she will have the money.</tr>
+                    <ref text="609">td. 105</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+          <li>causal/purposive – <ul>
+              <li>pedagogical examples – <xl id="mods-cause-pedag">
+                  <li>
+                    <gd>Chaidh mi a Pheairt <m>a chionn is gun robh mo charaid a’ fuireach ann</m>.
+                      | Càite an tèid mi <m>airson nan tiocaidean</m>?</gd>
+                    <tr>I went to Perth because my friend was living there. | Where can I go for the
+                      tickets?</tr>
+                    <ref text="609">td. 105, 134</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+          <li>conditional – <ul>
+              <li>pedagogical examples – <xl id="mods-cond-pedag">
+                  <li>
+                    <gd>Rachainn a Ghlaschu <m>nan tigeadh Anna còmhla rium</m>.</gd>
+                    <tr>I would go to Glasgow if Ann came with me.</tr>
+                    <ref text="609">td. 176</ref>
+                  </li>
+                  <li>
+                    <gd>Rachainn còmhla riut <m>nam b’urrainn dhomh</m>.</gd>
+                    <tr>I’d go with you if I could.</tr>
+                    <ref text="601">td. 477</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+  </section>
+  <section>
+    <h>uses</h>
+    <section id="complement">
+      <h>complement</h>
+      <module status="bronze">
+        <h>... a chaidh/thèid/dheigheadh</h>
+        <p>Relative forms of <g>rach</g> can be used as the complement of the positive relative
+          particle <a href="?gd=a^relative"><g>a</g></a>.</p>
+        <module status="bronze">
+          <h>... seo a chaidh</h>
+          <p>Used with expressions of time to denote <en>last ..., this past ...</en></p>
+          <p>Some examples involving days of the week – <ul>
+              <li>pedagogical examples – <xl id="days-seo_a_chaidh-pedag">
+                  <li>
+                    <gd>Bha mi anns a’ bhaile Disathairne seo (a) chaidh. | Dimàirt seo chaidh</gd>
+                    <tr>I was in [the] town last Saturday. | last Tuesday</tr>
+                    <ref text="601">td. 478, ibid</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </p>
+        </module>
+      </module>
+    </section>
+    <section id="derivatives">
+      <h>derivatives</h>
+      <module id="dol" status="bronze">
+        <h>dol</h>
+        <p><g>dol</g>
+          <en>going</en> is a masculine common noun<!--derived from <g>rach</g> via suppletion-->.</p>
+        <section>
+          <h>uses</h>
+          <section>
+            <h>complement</h>
+            <module id="a_dol" status="bronze">
+              <h>a’ dol</h>
+              <p>When used as the complement of the progressive particle <a href="?gd=aig"
+                  ><g>ag</g></a>, as in <g>a’ dol</g>
+                <en>(in the process of) going</en> has progressive meaning, and usually occurs as
+                the predicate of the verb <a href="?gd=bi"><g>bi</g></a>.</p>
+              <p>This progressive construction is compatible with most of the senses of
+                non-progressive <g>rach</g> discussed previously.</p>
+              <section id="prog-paths">
+                <h>concrete paths</h>
+                <p>
+                  <ul>
+                    <li><g>a’ dol bho Lunnainn gu Dùn Èideann</g>
+                      <en>going from London to Edinburgh</en></li>
+                    <li><g>a’ dol ann</g>
+                      <en>going (there)</en></li>
+                    <li><g>a’ dol fodha</g>
+                      <en>going down, sinking</en></li>
+                  </ul>
+                </p>
+                <p>Some examples involving motion in progress – <ul>
+                    <li>pedagogical examples – <xl id="concrete-dol-prog-pedag">
+                        <li>
+                          <gd>Chan eil iad a’ dol a-mach. | Tha Anna a’ dol suas an staidhre. | Tha
+                            Anna a’ dol a-null a Ghlaschu. Tha Màiri a’ dol a-mach. | Càit a bheil
+                            thu a’ dol? Tha mi a’ dol a-null thairis a Pharas. | Agus theich
+                            prìosanaich a bha a’ dol gu ruige cùirt. | Càite am bi sinn a’ dol
+                            a-nochd? Bidh chun a’ chèilidh. Cò a bhios a’ seinn aig a’ chèilidh?
+                            Chan eil sìon a dh’fhios agamsa ach tha seinneadairean is pìobairean is
+                            fìdhleirean às an àite seo fhèin a’ dol ann. | nuair as ann a’ dol
+                            dhachaigh a bhios tu | Am faigh mi tiocaid a bheir à seo gu ruige na
+                            h-eileanan An-iar mi? Gheibh, agus bidh sin còig notaichean air
+                            fhichead, a’ dol taobh an Òbain. | Tha mise a’ dol ann ma tha Anna a’
+                            tighinn. | Is àbhaist dhomh a bhith a’ dol a dh’Èirinn as t-samhradh. An
+                            àbhaist dha a bhith a’ dol a dh’Uibhist? Nach àbhaist dhi a bhith a’ dol
+                            a-mach feasgar? | Thathar a’ dol ann a h-uile bliadhna.</gd>
+                          <tr>They are not going out. | Ann is going up the stairs. | Ann is going
+                            over there to Glasgow. Mary is going out. | Where are you going? I am
+                            going abroad to Paris. | And prisoners who were going to court escaped.
+                            | Where will we be going tonight? To the ceilidh. Who will be singing at
+                            the ceilidh? I’ve no idea, but there are plenty of singers and pipers
+                            and fiddlers from this place itself going there. | when it’s going home
+                            that you will be | Can I get a ticket that will take me from here to the
+                            Western Isles? Yes, and that will be £25, going via Oban. | I am going
+                            (there) if Ann is coming. | I usually go to Ireland in the summer. Does
+                            he usually go to Uist? Doesn’t she usually go out in the evening? |
+                            People are going there every year.</tr>
+                          <ref text="609">td. 22, 30, 31, 66, 83, 116, 126, 134, 138, 170, 173</ref>
+                        </li>
+                        <li>
+                          <gd>Tha mi a’ dol dhachaigh.</gd>
+                          <tr>I’m going home.</tr>
+                          <ref text="601">td. 476</ref>
+                        </li>
+                      </xl>
+                    </li>
+                    <li>older pedagogical examples – <xl id="a_dol-older-pedag">
+                        <li>
+                          <gd>Thèid iad dhachaidh feasgar an uair a <m>tha a’ ghrian a’ dol
+                              fodha</m>.</gd>
+                          <tr>They will go home in the evening when the sun is going down.</tr>
+                          <ref text="621">td. 7</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </p>
+              </section>
+              <section id="prog-purpose">
+                <h>concrete purpose</h>
+                <p>
+                  <ul>
+                    <li><g>a’ dol a dh’fhaighinn isbeanan</g>
+                      <en>going to get sausages</en></li>
+                    <li><g>a’ dol gan/dhan ceannach</g>
+                      <en>going to buy them</en></li>
+                    <li><g>a’ dol air làithean saora</g>
+                      <en>going on holiday</en></li>
+                  </ul>
+                </p>
+                <section>
+                  <h>prospective</h>
+                  <p>However, when used with a purpose complement, <g>bi a’ dol</g> can have a
+                    purely prospective (non-motional) interpretation – <ul>
+                      <li><m>Tha Raonaid a’ dol a bhith sgìth.</m>
+                        <en>Rachel is going to be tired.</en></li>
+                      <li><m>Tha Ailig a’ dol a dhol a dh’Ealaghol.</m>
+                        <en>Alec is going to go to Elgol.</en></li>
+                    </ul>
+                  </p>
+                  <p>Some examples – <ul id="prospective">
+                      <li>pedagogical examples – <xl id="dol-prosp-pedag">
+                          <li>
+                            <gd>Tha Ailean a’ dol a dh’innse dhuinn. | Bha e a’ dol a thighinn. Nach
+                              eil thu a’ dol a dh’èisteachd? | Tha Peigi a’ dol a leughadh a’
+                              phàipeir. | Tha mi a’ dol a bhith an Dùn Èideann. Tha Dòmhnall a’ dol
+                              a bhith ag obair.</gd>
+                            <tr>Alan is going to tell us. | He was going to come. Aren’t you going
+                              to listen? | Peggy is going to read the paper. | I am going to be in
+                              Edinburgh. Donald is going to be working.</tr>
+                            <ref text="609">td. 153, 154 [199], 155, 157</ref>
+                          </li>
+                        </xl>
+                      </li>
+                      <li>older pedagogical examples – <xl id="dol-prosp-older-pedag">
+                          <li>
+                            <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                              anns a’ chàr. Chaidh iad sìos taobh an locha is stad iad aig àite
+                              bòidheach gorm. Chuir iad an càr a stigh gu taobh an rathaid is thug
+                              iad brat a mach as a’ chàr air son suidhe air. Tha bascaid làn de
+                              bhiadh aca is <m>tha iad a’ dol a ghabhail an tea</m> air a’ chnocan
+                              ghorm. [...]</gd>
+                            <tr>The day was lovely and warm and their father took John and Ann in
+                              the car. They went down the side of the lake and they stopped at a
+                              beautiful green place. They put the car into the side of the road and
+                              they took a blanket out of the car for sitting on. They have a basket
+                              full of food and they are going to have their tea on the little green
+                              hill. [...]</tr>
+                            <ref text="621">td. 6–7</ref>
+                          </li>
+                        </xl>
+                      </li>
+                    </ul>
+                  </p>
+                  <p>In other cases the interpretation is ambiguous between progressive/prospective
+                    and purely prospective – <ul id="dol-prog-prosp-ambig">
+                      <li>pedagogical examples – <xl id="dol-prog-prosp-pedag">
+                          <li>
+                            <gd>Tha sinn a’ dol a dh’fhaighinn bainne. Tha sinn a’ dol ga choimhead.
+                              Tha Anna a’ dol gan dùsgadh.</gd>
+                            <tr>We are going to get milk. We are going to watch him/it. Ann is going
+                              to waken them.</tr>
+                            <ref text="609">td. 156–7 [199]</ref>
+                          </li>
+                        </xl>
+                      </li>
+                    </ul>
+                  </p>
+                </section>
+              </section>
+              <section id="prog-change">
+                <h>change of state</h>
+                <p>
+                  <ul>
+                    <li><g>a’ dol am miosad</g>
+                      <en>getting worse</en></li>
+                    <li><g>a’ dol na mhinistear</g>
+                      <en>becoming a minister</en></li>
+                    <li><g>a’ dol às mo chiall</g>
+                      <en>going out of my mind</en></li>
+                  </ul>
+                </p>
+              </section>
+              <section id="prog-impersonal">
+                <h>impersonal</h>
+                <p>The <g>rach aig ... air ...</g>
+                  <en>manage to ...</en> construction can be used in the progressive – <ul>
+                    <li><m>Bha a’ dol aig Raonaid air an uinneag (a) fhosgladh.</m>
+                      <en>Rachel was managing to open the window.</en></li>
+                  </ul>
+                </p>
+                <p>Some examples – <ul id="modal-prog-exs">
+                    <li>pedagogical examples – <xl id="modal-prog-pedag">
+                        <li>
+                          <gd>Chan eil dol <m>aige</m>
+                            <m>air na puingean seo a dhearbhadh</m>.</gd>
+                          <tr>He doesn’t succeed in proving these points.</tr>
+                          <ref text="601">td. 477</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </p>
+                <!--<p>However, the <g>rach</g> passive and other impersonal uses do not seem to be
+                  compatible with the progressive – <ul>
+                    <li>Chaidh an uinneag (a) fhosgladh. <en>The window was opened.</en>
+                      <ul>
+                        <li><bad>Bha a’ dol an uinneag (a) fhosgladh.</bad></li>
+                        <li><bad>Bha an uinneag a’ dol (a) fhosgladh.</bad></li>
+                        <li><bad>Chaidh a bhith a’ fosgladh na h-uinneig(e).</bad></li>
+                        <li>cf. Bhathar a’ fosgladh na h-uinneig(e). <en>The window was being
+                            opened.</en></li>
+                      </ul>
+                    </li>
+                    <li>Chaidh le Raonaid. <en>Rachel succeeded.</en>
+                      <ul>
+                        <li><bad>Bha a’ dol le Raonaid.</bad>
+                          <ed>Okay or not?</ed></li>
+                      </ul>
+                    </li>
+                    <li>Chaidh do Raonaid gu math. <en>It went well for Rachel.</en>
+                      <ul>
+                        <li><bad>Bha a’ dol do Raonaid gu math.</bad>
+                          <ed>Okay or not?</ed></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </p>-->
+              </section>
+              <section id="other">
+                <h>other</h>
+                <p>Some figurative and difficult to categorise examples – <ul id="prog-fig-exs">
+                    <li>pedagogical examples – <xl id="dol-prog-fig-pedag">
+                        <li>
+                          <gd>Dè an rathad tha dol do Phortrìgh (Phort Ruighe)?</gd>
+                          <tr>Which road leads to Portree?</tr>
+                          <ref text="601">td. 478</ref>
+                          <note>spatial extent</note>
+                        </li>
+                        <li>
+                          <gd>Chan eil dol às bhuaipe [bhon a’ cheist].</gd>
+                          <tr>There is no getting away from it.</tr>
+                          <ref text="601">td. 478</ref>
+                        </li>
+                        <li>
+                          <gd>Cha do dh’fhairich sinn an oidhche a’ dol seachad.</gd>
+                          <tr>We didn’t feel the night passing.</tr>
+                          <ref text="609">td. 165</ref>
+                          <note><m>Chaidh an oidhche</m> seachad.</note>
+                        </li>
+                      </xl></li>
+                  </ul></p>
+                <p>Some examples with adverbial modifiers – <ul id="prog-mods-exs">
+                    <li>pedagogical examples –<xl id="dol-prog-mods-pedag">
+                        <li>
+                          <gd>Is àbhaist dhomh a bhith a’ dol a dh’Èirinn <m>as t-samhradh</m>. Nach
+                            àbhaist dhi a bhith a’ dol a-mach <m>feasgar</m>? | Thathar a’ dol ann
+                              <m>a h-uile bliadhna</m>. | Tha mise a’ dol ann <m>ma tha Anna a’
+                              tighinn</m>.</gd>
+                          <tr>I usually go to Ireland in the summer. | Doesn’t she usually go out in
+                            the evening? | People are going there every year. | I am going if Anna
+                            is coming.</tr>
+                          <ref text="609">td. 170, 173, 138</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </p>
+                <p><g>cùm a’ dol</g>
+                  <en>keep going</en> – <xl id="cum_a_dol">
+                    <li>
+                      <gd>Bha m’ athair ri iasgach. Bha e air a chumail a’ dol.</gd>
+                      <tr>My father was at the fishing. He was kept going/busy.</tr>
+                      <ref text="609">td. 180</ref>
+                      <note>Is this retrospective or passive retrospective?</note>
+                    </li>
+                  </xl>
+                </p>
+                <p>Note also the following ‘complement-less’ use of abstract <g>bi a’ dol</g> – <ul>
+                    <li><m>Dè [a] tha a’ dol?</m>
+                      <en>What’s going on? What’s up?</en></li>
+                  </ul>
+                </p>
+                <p>Examples – <ul id="de_tha_dol-exs">
+                    <li>pedagogical examples – <xl id="misc">
+                        <li>
+                          <gd>Dè (a) tha a’ dol?</gd>
+                          <tr>What is going (on)?</tr>
+                          <ref text="609">td. 22</ref>
+                          <note>no complement</note>
+                        </li>
+                        <li>
+                          <gd>A bheil iad a’ tuigsinn dè tha (a’) dol?</gd>
+                          <tr>Do they realise what’s going on?</tr>
+                          <ref text="601">td. 478</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </p>
+              </section>
+            </module>
+            <module status="bronze" id="a_dhol">
+              <h>a dhol</h>
+              <p>The form used in non-finite clauses is usually <g>a dhol</g>, rather than just
+                  <g>dol</g>.</p>
+              <p>Some examples – <ul id="nonfin-exs">
+                  <li>pedagogical examples – <xl id="sbj-nonfin-pedag">
+                      <li>
+                        <gd>Bu chòir dhut <m>a dhol</m> gu Baile Àtha Cliath. | Is ann a
+                          dh’fhaodainn fhìn <m>a dhol</m> còmhla riut. | Cha toireadh màthair
+                          Dhòmhnaill cead dha <m>a dhol</m> a-mach. | Dh’fheumte <m>a dhol</m>
+                          ann.</gd>
+                        <tr>You should go to Dublin. | Indeed, I could go with you myself. |
+                          Donald’s mother would not give him permission to go out. | People had to
+                          go there.</tr>
+                        <ref text="609">td. 154 [199], 165, 169 [199], 173</ref>
+                      </li>
+                      <li>
+                        <gd>Dh’iarr i orm a dhol don bhùth.</gd>
+                        <tr>She asked me to go to the shop.</tr>
+                        <ref text="601">td. 476</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </p>
+              <!--<p><ed>Add examples from all relevant senses listed above.</ed></p>-->
+              <module id="air_a_dhol" status="bronze">
+                <h>air a dhol</h>
+                <p><g>air a dhol</g>
+                  <en>have gone</en> is a retrospective compound, with the deverbal noun appearing
+                  as the complement of the retrospective preposition <a href="?gd=air"
+                    ><g>air</g></a>. It usually occurs as the predicate of the verb <a href="?gd=bi"
+                      ><g>bi</g></a>.</p>
+                <p>Some examples – <ul id="retro-exs">
+                    <li>pedagogical examples – <xl id="dol-retro-pedag">
+                        <li>
+                          <gd>Tha/bha/bidh/bhiodh iad air a dhol a-mach.</gd>
+                          <tr>They (will/would) have/had gone out.</tr>
+                          <ref text="609">td. 158–9</ref>
+                        </li>
+                      </xl></li>
+                  </ul>
+                </p>
+                <!--<p><ed>Add examples from all relevant senses listed above.</ed></p>-->
+              </module>
+            </module>
+          </section>
+        </section>
+      </module>
+    </section>
+  </section>
+</module>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title lang="en">gidheadh</title>
+  <title lang="gd">gidheadh</title>
+  <p lang="en"><strong>gidheadh</strong>
+    <en>nevertheless, yet, nonetheless, however, though, although, but, albeit, howbeit</en> is a contrastive sentential adverb.</p>
+  <hr/>
+  <p lang="en">Inter-sentential examples – <ulx id="inter-sentential">
+      <lix>
+        <gd>Cha robh a’ Bheurla air a bruidhinn aig leac an teinntein no leis a’ chloinn ’nan cleasachd aig an sgoil. <m>Gidheadh</m>, cha robh maighstir-sgoile aig an robh eòlas air ar cànan
+          Gaidhealachd anns a’ bhaile gu 1933.</gd>
+        <tr>English was not spoken at home or in the chool playground. <u>Nonetheless</u>, there wasn’t a Gaelic-speaking schoolmaster in the village until 1933.</tr>
+        <ref text="400-32">td. 288</ref>
+      </lix>
+      <lix>
+        <gd>Mar sin, is beag nach do bhàsaich a’ Ghàidhlig ann an Argentina agus tha a’ Bheurla a’ bàsachadh mar an ceudna anns an dùthaich ud. Is dòcha nach bi ach Spàinnis aig an sliochd.
+            <m>Gidheadh</m>, tha Argentinach Spàinnteach aig a bheil sloinnidhean Gàidhealach, mar MhacNéill, MacFhearchar, MacDhòmhnuill agus Ròs. An ceann greiseig bithidh iadsan cho Argentinach ri
+          Gonzalez, Garcia agus Guevara.</gd>
+        <tr>Therefore, Gaelic has almost died out in Argentina and English is likewise dying in that country. Their descendents will probably only speak Spanish. <u>Nonetheless</u>, there are Spanish
+          Argentinians with Gaelic surnames, like MacNeil, Farquarson, MacDonald and Ross. Soon they will be as Argentinian as Gonzalez, Garcia and Guevara.</tr>
+        <ref text="400-87">td. 269</ref>
+      </lix>
+      <lix>
+        <gd>Tha e mar gum biodh e ag aideachadh an sin gu bheil buadhan ùra ann a tha a’ teannadh ri tharraing air falbh bho dhualchas agus bho dhùthas. <m>Gidheadh</m>, tha e a’ tilleadh gu dhùthchas
+          a dh’aindeoin cùise.</gd>
+        <tr>It is as if he was admitting there that there are new accomplishments that are starting to pull away from heritage and from tradition. <u>Nonetheless</u>, he returns to tradition in spite
+          of things.</tr>
+        <ref text="400-93">td. 93</ref>
+      </lix>
+      <lix>
+        <gd>Tha tòrr ri dèanamh – <m>gidheadh</m>, soirbichidh leinn.</gd>
+        <tr>There is a lot to be done – <u>nonetheless</u>, we will manage.</tr>
+        <ref text="607">td. 387</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p lang="en">Emphasising <a href="?gd=ged">ged (a)</a>
+    <en>although</en> – <ulx id="emphasis">
+      <lix>
+        <gd><m>Ged a</m> tha sin fìor am bitheantas, <m>gidheadh</m>, chan eil e fìor mun cheist air a bheil sinn a’ bruidhinn an-dràsta.</gd>
+        <tr><u>Although</u> that is usually true, <u>nonetheless</u>, it is not true for the question we are discussing now.</tr>
+        <ref text="607">td. 387</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p lang="en">Intra-sentential examples – <ulx id="exss">
+      <lix>
+        <gd>Chan eil an so ach a’ chiad leabhar do cheithir, agus is fhada ’n t-saoghail bho nach d’fhuair Alba a leithid—làn sgoileireachd, <m>gidheadh</m> am briathran air an ruig am mór phobull aig
+          a cheairt àm.</gd>
+        <tr>This is just the first of four books, and it is a long time since Scotland saw its likes – full of scholarship, <u>though</u>, at the same time, in words that the general public will
+          grasp.</tr>
+        <ref text="400-22">td. 182</ref>
+        <note>contrasts two predicates.</note>
+      </lix>
+      <lix>
+        <gd>Tha ar linn fhìn a’ coimhead gur e feallsanach mór a bh’ ann de Khierkegaard, <m>gidheadh</m> feallsanach eu-coltach ri a roi-shealbhadairean, ach a-mhàin, ’s math dh’ fhaoite,
+          Nietzche.</gd>
+        <tr>Our own era views Kierkegaard as a great philosopher, <u>albeit</u> a philosopher different to his predecessors, aside from, perhaps, Nietzsche.</tr>
+        <ref text="400-41">td. 103</ref>
+        <note>contrasts two noun phrases.</note>
+      </lix>
+      <lix>
+        <gd>Thog e shùilean ’s chunnaic e am fear-teagaisg a’ cromadh os a chionn. Bha a làmh air gualainn an t-seòladair—làmh làidir, <m>gidheadh</m> càirdeil.</gd>
+        <tr>He raised his eyes and saw the teacher leaning down. His hand was on the sailor’s shoulder – a strong hand, <u>yet</u> friendly.</tr>
+        <ref text="313">td. 109</ref>
+        <note>contrasts two adjectives.</note>
+      </lix>
+    </ulx>
+  </p>
+</module>

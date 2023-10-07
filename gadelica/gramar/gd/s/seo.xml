@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>seo</h>
+    <p><g>seo</g>
+        <en>this (one)</en> is a <a href="?xx=nouns/demonstrative_pronouns">demonstrative
+            pronoun</a>, identifying an entity based on its spatial location proximal to the
+        speaker.</p>
+    <p><g>seo</g> contrasts with <a href="?gd=sin"><g>sin</g></a>
+        <en>that (one)</en> (proximal to the hearer) and <a href="?gd=siud"><g>siud</g></a>
+        <en>that (one) over there</en> (proximal to neither speaker nor hearer). </p>
+    <section>
+        <h>uses</h>
+        <section id="subject">
+            <h>subject</h>
+            <p><g>seo</g> can be used as the subject of a verb – <ul>
+                    <li><g>Tha <m>seo</m> cudromach.</g>
+                        <en>This is important.</en></li>
+                </ul>
+            </p>
+            <p>Pedagogical examples – <xl id="subject-pedag">
+                    <li>
+                        <gd>Tha seo math. | Tha seo fuar.</gd>
+                        <tr>This is good. | This is cold.</tr>
+                        <ref text="609">td. 27, 195</ref>
+                    </li>
+                </xl>
+            </p>
+            <section id="copula">
+                <h>subject of copula</h>
+                <p>When <g>seo</g> is used as the subject of the copula <g>is</g>, the copula itself
+                    is usually dropped – <ul>
+                        <li><g>Is <m>seo</m> Dòmhnall.</g> ⇒ <g><m>Seo</m> Dòmhnall.</g>
+                            <en>This is Donald.</en></li>
+                    </ul>
+                </p>
+                <p>Pedagogical examples – <xl id="copula-pedag">
+                        <li>
+                            <gd>Seo Màiri. | Seo mo phiuthar.</gd>
+                            <tr>This is Mary. | This is my sister.</tr>
+                            <ref text="609">td. 27–8, 195</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>Examples with dummy subject pronouns – <ul>
+                        <li>pedagogical examples – <xl id="copula-alt-pedag">
+                                <li>
+                                    <gd>Is i seo Màiri.</gd>
+                                    <tr>This is Mary.</tr>
+                                    <ref text="609">td. 27</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>with relaxed agreement– <xl id="copula-alt-relax-pedag">
+                                <li>
+                                    <gd>Is e seo Màiri.</gd>
+                                    <tr>This is Mary.</tr>
+                                    <ref text="609">td. 27</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>negative examples – <xl id="copula-neg-pedag">
+                                <li>
+                                    <gd>Chan i seo Anna.</gd>
+                                    <tr>This is not Anna.</tr>
+                                    <ref text="609">td. 27</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>with relaxed agreement– <xl id="copula-neg-relax-pedag">
+                                <li>
+                                    <gd>Chan e seo Màiri.</gd>
+                                    <tr>This is not Mary</tr>
+                                    <ref text="609">td. 27</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </section>
+        </section>
+        <section id="object">
+            <h>object</h>
+            <p><g>seo</g> can be used as the object of a verb – <ul>
+                    <li><g>Chunnaic mi <m>seo</m> a-rithist.</g>
+                        <en>I saw this (one) again.</en></li>
+                </ul>
+            </p>
+        </section>
+        <section id="dative">
+            <h>prepositional complement</h>
+            <p><g>seo</g> can be used as the complement of a preposition – <ul>
+                    <li><g>Thàinig iad le <m>seo</m>.</g>
+                        <en>They came with this (one).</en></li>
+                </ul>
+            </p>
+        </section>
+        <section id="specifier">
+            <h>specifier</h>
+            <p><g>seo</g> can be used as the specifier of a noun – <ul>
+                    <li><g>Tha mi a’ faicinn <m>seo</m>.</g>
+                        <en>I can see this (one).</en></li>
+                    <li><g>Tha e ri taobh <m>seo</m>.</g>
+                        <en>It is beside this (one).</en></li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>modifier</h>
+            <section id="article_modifier">
+                <h>definite article modifier</h>
+                <p><g>seo</g> can serve as a modifier of the definite article, appearing after the
+                    specified noun and any attributive adjectives – <ul>
+                        <li><g>am balach beag <m>seo</m></g>
+                            <en>this little boy</en></li>
+                        <li><g>na craobhan àrda <m>seo</m></g>
+                            <en>these tall trees</en></li>
+                    </ul>
+                </p>
+                <p>Pedagogical examples –<ul>
+                        <li>singular – <xl id="adj-sing-pedag">
+                                <li>
+                                    <gd>an dealbh seo | a’ chaileag seo | an dealbh bheag bhrèagha
+                                        seo</gd>
+                                    <tr>this picture | this girl | this small fine picture</tr>
+                                    <ref text="609">td. 26, 195</ref>
+                                </li>
+                            </xl></li>
+                        <li>plural – <xl id="adj-plur-pedag">
+                                <li>
+                                    <gd>na taighean seo</gd>
+                                    <tr>these houses</tr>
+                                    <ref text="609">td. 26</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+                <p>Older pedagogical examples – <xl id="adj-older-pedag">
+                    <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                            Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis
+                            <m>an litir seo</m>, Iain?” [...]</gd>
+                        <tr>My mother is writing a letter to my father who is away. My mother said,
+                            “Will you go to the postbox with this letter, John?” [...]</tr>
+                        <ref text="621">td. 5</ref>
+                    </li>
+                </xl>
+                </p>
+            </section>
+            <section id="pron-mod">
+                <h>third-person pronoun modifier</h>
+                <p>A demonstrative pronoun can modify a third-person personal pronoun, thus yielding
+                    explicitly gendered or plural demonstratives – <ul>
+                        <li><g>e seo</g>
+                            <en>this [masc.]</en></li>
+                        <li><g>i seo</g>
+                            <en>this [fem.]</en></li>
+                        <li><g>iad seo</g>
+                            <en>these</en></li>
+                    </ul>
+                </p>
+            </section>
+        </section>
+        <section>
+            <h>derivatives</h>
+            <module>
+                <h>an·seo</h>
+                <p><a href="?gd=an-seo"><g>an·seo</g></a>
+                    <en>here, at this place</en> is the demonstrative adverb derived from
+                    <g>seo</g>.</p>
+            </module>
+        </section>
+    </section>
+
+</module>

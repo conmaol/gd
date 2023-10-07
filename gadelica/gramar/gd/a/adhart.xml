@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>adhart</h>
+    <p><g>adhart</g>
+        <en>front, progress</en> is a masculine common noun.</p>
+
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <module status="bronze" id="air_adhart">
+                <h>air adhart</h>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module status="bronze" id="rach_air_adhart">
+                            <h>rach air adhart</h>
+                            <p><g><a href="?gd=rach">rach</a> air adhart</g>
+                                <en>advance, go forwards</en></p>
+                        </module>
+                    </section>
+                </section>
+            </module>
+        </section>
+    </section>
+
+
+</module>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">buin</h>
+    <h lang="gd">buin</h>
+    <p lang="en"><b>buin</b>
+        <en>belong (to), pertain/be related (to)</en> is an intransitive static verb, with verbal
+        noun <b>buntainn</b>
+        <masc/></p>
+    <p lang="gd">...</p>
+    <p lang="en"><b>buin</b> appears to be derived from the durative verb <b>bean</b>
+        <en>touch, interfere/meddle/deal/tamper (with)</en> and the two often get confused in modern
+        Gaelic.</p>
+    <p lang="gd">...</p>
+    <p lang="en">Future tense examples (present meaning) from dictionaries and grammars – <xl
+            id="dictionary">
+            <li>
+                <gd>Buinidh iad do Chlann Dhòmhnaill.</gd>
+                <tr>They belong to Clan Donald / They are MacDonalds.</tr>
+                <ref text="605">td. 68</ref>
+            </li>
+            <li>
+                <gd>Buinidh iad d’ a chéile.</gd>
+                <tr>They are related to each other.</tr>
+                <ref text="602">td. 140</ref>
+            </li>
+            <li>
+                <gd>Cha bhuin e don àite seo idir.</gd>
+                <tr>He does not belong to this place at all.</tr>
+                <ref text="601">td. 102</ref>
+            </li>
+            <li>
+                <gd>Cha bhuin e dhuit-se.</gd>
+                <tr>It does not belong to you.</tr>
+                <ref text="602">td. 140</ref>
+            </li>
+            <li>
+                <gd>Am buin e dhutsa?</gd>
+                <tr>Does it belong to you?</tr>
+                <ref text="605">td. 68</ref>
+            </li>
+            <li>
+                <gd>Is ann do Leòdhas a bhuineas e.</gd>
+                <tr>He belongs to Lewis.</tr>
+                <ref text="601">td. 102</ref>
+            </li>
+            <li>
+                <gd>[...] a bhuineas do dh’Ìle [...]</gd>
+                <tr>[...] who belongs to Islay [...]</tr>
+                <ref text="601">td. 102</ref>
+            </li>
+            <li>
+                <gd>[...] às bith cò dhà a bhuineas e [...]</gd>
+                <tr>[...] whoever it belongs to [...]</tr>
+                <ref text="605">td. 68</ref>
+            </li>
+            <li>
+                <gd>[...] a bhuineas do bhaile-mòr</gd>
+                <tr>municipal</tr>
+                <ref text="601">td. 102</ref>
+            </li>
+            <li>
+                <gd>[...] a bhuineas do bhalla</gd>
+                <tr>mural</tr>
+                <ref text="601">td. 102</ref>
+            </li>
+            <li>
+                <gd>faclan a bhuineas ri marachd</gd>
+                <tr>words which pertain to seamanship</tr>
+                <ref text="601">td. 102</ref>
+            </li>
+            <li>
+                <gd>’S ann do Dhia a bhuineas slàinte.</gd>
+                <tr>To God belongs salvation.</tr>
+                <ref text="602">td. 140</ref>
+            </li>
+            <li>
+                <gd>Cò dha a bhuineas seo?</gd>
+                <tr>To whom does this belong?</tr>
+                <ref text="602">td. 140</ref>
+            </li>
+            <li>
+                <gd>[...] nach buin ris a’ ghnothach</gd>
+                <tr>irrelevant</tr>
+                <ref text="601">td. 102</ref>
+            </li>
+            <li>
+                <gd>An rud <m>nach buin duit</m>, na buin da!</gd>
+                <tr>Do not meddle with what does not concern you!</tr>
+                <ref text="602">td. 140</ref>
+                <note>An rud nach buin dhut, na bean dha!</note>
+            </li>
+            <li>
+                <gd>Tha a’ mhuinntir d’am buin e a’ fuireach ann an [...]</gd>
+                <tr>The people to whome he is related live in [...]</tr>
+                <ref text="601">td. 102</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">Conditional tense examples (past meaning) from dictionaries and grammars – <xl
+            id="conditional-dictionary">
+            <li>
+                <gd>Bhuineadh i don teaghlach rìoghail.</gd>
+                <tr>She was related to the royal family.</tr>
+                <ref text="601">td. 102</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+
+    <p lang="en">Other examples – <xl id="other">
+            <li>
+                <gd>gun bhuntainn do [...]</gd>
+                <tr>unrelated to [...]</tr>
+                <ref text="601">td. 104</ref>
+            </li>
+            <li>
+                <gd>[...] gan toirt gu aire nan ùghdarrasan aig a bheil buntainn ris a’ chùis</gd>
+                <tr>[...] bringing them to the attention of the relevant authorities</tr>
+                <ref text="601">td. 104</ref>
+            </li>
+        </xl>
+    </p>
+
+    <module id="buntanas">
+        <h lang="en">buinteanas</h>
+        <h lang="gd">buntanas</h>
+        <p lang="en">buinteanas, buntainneas, buntanas, buintinneas. buntuinneas -is <en>link(s),
+                connection(s) (by family/blood), relevance</en>
+            <xl id="buntanas-dictionary">
+                <li>
+                    <gd>Bha buinteanas aige ris/don an Eilean Sgitheanach.</gd>
+                    <tr>He had Skye connections / family links with Skye.</tr>
+                    <ref text="605">td. 68</ref>
+                </li>
+                <li>
+                    <gd>Thuirt e gun robh buinteanas aig a’ chùis ris an rannsachadh aige.</gd>
+                    <tr>He said that the matter had relevance to his enquiry.</tr>
+                    <ref text="601">td. 103</ref>
+                </li>
+                <li>
+                    <gd>tachartas aig an robh buinteanas ri Albainn</gd>
+                    <tr>an occurrence which had relevance to Scotland</tr>
+                    <ref text="601">td. 103</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+</module>

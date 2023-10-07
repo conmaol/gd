@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>cuairt</h>
+    <p><g>cuairt</g>
+        <en>cycle, circuit, circle, orbit</en> is a feminine simple common noun.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <module status="bronze">
+                <h>mun cuairt</h>
+                <p><g>mun cuairt</g>
+                    <en>about, round about</en> is a prepositional compound.</p>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module status="bronze">
+                            <h>rach mun cuairt</h>
+                            <p><g><a href="?gd=rach">rach</a> mun cuairt</g>
+                                <en>revolve</en></p>
+                            <p>With manner of motion verbs – <ul>
+                                    <li><g>coisich mun cuairt</g> <en>walk around</en> – <ul>
+                                            <li>pedagogical examples – <xl id="coisich-pedag">
+                                                  <li>
+                                                  <gd>Choisich e mun cuairt air a’ phàirc.</gd>
+                                                  <tr>He walked round the park.</tr>
+                                                  <ref text="601">td. 185</ref>
+                                                  </li>
+                                                </xl>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </p>
+
+
+                        </module>
+                    </section>
+                </section>
+            </module>
+        </section>
+    </section>
+
+
+</module>

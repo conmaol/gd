@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>demonstrative pronouns</h>
+    <p>Demonstrative pronouns are <a href="?xx=nouns/pronouns">pronouns</a> which identify an entity
+        based on its spatial location relative to the speaker and hearer – <ul>
+            <li><a href="?gd=seo"><g>seo</g></a>
+                <en>this (one)</en> – proximal to the speaker</li>
+            <li><a href="?gd=sin"><g>sin</g></a>
+                <en>that (one)</en> – proximal to the hearer</li>
+            <li><a href="?gd=siud"><g>siud</g></a>
+                <en>that (one) over there</en> – proximal to neither</li>
+        </ul>
+    </p>
+    <section>
+        <h>uses</h>
+        <section id="subject">
+            <h>subject</h>
+            <p>A demonstrative pronoun can be used as the subject of a verb – <ul>
+                    <li><g>Tha <m>seo</m> cudromach.</g>
+                        <en>This is important.</en></li>
+                    <li><g>Cha tèid <m>sin</m> fodha.</g>
+                        <en>That (one) will not go down.</en></li>
+                </ul>
+            </p>
+            <p>Pedagogical examples – <xl id="subject-pedag">
+                    <li>
+                        <gd>Tha seo math. | Tha sin blasta. | Tha siud dìreach àlainn. | Tha seo
+                            fuar. | Tha sin glè mhath.</gd>
+                        <tr>This is good. | That is tasty. | That is just beautiful. | This is cold.
+                            | That is very good.</tr>
+                        <ref text="609">td. 27, 195</ref>
+                    </li>
+                </xl>
+            </p>
+            <section id="copula">
+                <h>subject of copula</h>
+                <p>When a demonstrative pronoun is used as the subject of the copula <g>is</g>, the copula
+                    itself is usually dropped – <ul>
+                        <li><g>Is <m>seo</m> Dòmhnall.</g> ⇒ <g><m>Seo</m> Dòmhnall.</g>
+                            <en>This is Donald.</en></li>
+                    </ul>
+                </p>
+                <p>Pedagogical examples – <xl id="copula-pedag">
+                        <li>
+                            <gd>Seo Màiri. | Sin an tidsear. | Siud Iain. | Sin an cat. | Seo mo
+                                phiuthar. | Sin an sgian. | Sin a’ bheinn ud a-rithist.</gd>
+                            <tr>This is Mary. | That is the teacher. | Yon is John. | That is the
+                                cat. | This is my sister. | That is the knife. | That is yon
+                                mountain again.</tr>
+                            <ref text="609">td. 27–8, 195</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>Examples with dummy subject pronouns – <ul>
+                        <li>pedagogical examples – <xl id="copula-alt-pedag">
+                                <li>
+                                    <gd>Is i seo Màiri. | Is e sin Iain.</gd>
+                                    <tr>This is Mary. | That is John.</tr>
+                                    <ref text="609">td. 27</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>with relaxed agreement– <xl id="copula-alt-relax-pedag">
+                                <li>
+                                    <gd>Is e seo Màiri. | Is e siud Anna.</gd>
+                                    <tr>This is Mary. | That/yon is Ann.</tr>
+                                    <ref text="609">td. 27</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>negative examples – <xl id="copula-neg-pedag">
+                                <li>
+                                    <gd>Chan i seo Anna. | Chan e sin Iain. | Chan e siud an
+                                        tidsear.</gd>
+                                    <tr>This is not Anna. | That is not John. | That is not the
+                                        teacher.</tr>
+                                    <ref text="609">td. 27</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>with relaxed agreement– <xl id="copula-neg-relax-pedag">
+                                <li>
+                                    <gd>Chan e seo Màiri.</gd>
+                                    <tr>This is not Mary</tr>
+                                    <ref text="609">td. 27</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </section>
+        </section>
+        <section id="object">
+            <h>object</h>
+            <p>A demonstrative pronoun can be used as the object of a verb – <ul>
+                    <li><g>Chunnaic mi <m>sin</m> a-rithist.</g>
+                        <en>I saw that (one) again.</en></li>
+                    <li><g>Bheir i <m>siud</m> leatha.</g>
+                        <en>She will bring that one over there (with her).</en></li>
+                </ul>
+            </p>
+        </section>
+        <section id="dative">
+            <h>prepositional complement</h>
+            <p>A demonstrative pronoun can be used as the complement of a preposition – <ul>
+                    <li><g>Thàinig iad le <m>seo</m>.</g>
+                        <en>They came with this (one).</en></li>
+                </ul>
+            </p>
+        </section>
+        <section id="specifier">
+            <h>specifier</h>
+            <p>A demonstrative pronoun can be used as the specifier of a noun – <ul>
+                    <li><g>Tha mi a’ faicinn <m>sin</m>.</g>
+                        <en>I can see that (one).</en></li>
+                    <li><g>Tha e ri taobh <m>seo</m>.</g>
+                        <en>It is beside this (one).</en></li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>modifier</h>
+            <section id="article_modifier">
+                <h>definite article modifier</h>
+                <p>A demonstrative pronoun can serve as a modifier of the definite article,
+                    appearing after the specified noun and any attributive adjectives – <ul>
+                        <li><g>am balach beag <m>seo</m></g>
+                            <en>this little boy</en></li>
+                        <li><g>na craobhan àrda <m>siud</m></g>
+                            <en>those tall trees (over there)</en></li>
+                    </ul>
+                </p>
+
+                <p>Pedagogical examples –<ul>
+                        <li>singular – <xl id="adj-sing-pedag">
+                                <li>
+                                    <gd>an dealbh seo | an taigh sin | a’ bheinn ud | a’ chaileag
+                                        seo | a’ bhùth sin | am baile ud | a’ bheinn mhòr àrd sin |
+                                        an dealbh bheag bhrèagha seo</gd>
+                                    <tr>this picture | that house | yon mountain | this girl | that
+                                        shop | yon town | that big high mountain | this small fine
+                                        picture</tr>
+                                    <ref text="609">td. 26, 195</ref>
+                                </li>
+                            </xl></li>
+                        <li>plural – <xl id="adj-plur-pedag">
+                                <li>
+                                    <gd>na taighean seo | na dealbhannan sin | na caileagan ud</gd>
+                                    <tr>these houses | those pictures | yon girls</tr>
+                                    <ref text="609">td. 26</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </section>
+            <section id="pron-mod">
+                <h>third-person pronoun modifier</h>
+                <p>A demonstrative pronoun can modify a third-person personal pronoun, thus yielding
+                    explicitly gendered or plural demonstratives – <ul>
+                        <li><g>e seo</g>
+                            <en>this [masc.]</en></li>
+                        <li><g>i seo</g>
+                            <en>this [fem.]</en></li>
+                        <li><g>iad seo</g>
+                            <en>these</en></li>
+                        <li><g>e sin</g>
+                            <en>that [masc.]</en></li>
+                        <li><g>i sin</g>
+                            <en>that [fem.]</en></li>
+                        <li><g>iad sin</g>
+                            <en>those</en></li>
+                        <li><g>e siud</g>
+                            <en>yon [masc.]</en></li>
+                        <li><g>i siud</g>
+                            <en>yon [fem.]</en></li>
+                        <li><g>iad siud</g>
+                            <en>those, yon</en></li>
+                    </ul>
+                </p>
+            </section>
+        </section>
+
+        <section id="demonstrative_adverbs">
+            <h>demonstrative adverbs</h>
+            <p>For each demonstrative pronoun, there is a derived demonstrative adverb – <ul>
+                    <li><g>seo</g>
+                        <en>this</en> ⇒ <a href="?gd=an-seo"><g>an·seo</g></a>
+                        <en>here, at this place</en></li>
+                    <li><g>sin</g>
+                        <en>that</en> ⇒ <a href="?gd=an-sin"><g>an·sin</g></a>
+                        <en>there, at that place</en></li>
+                    <li><g>siud</g>
+                        <en>that over there</en> ⇒ <a href="?gd=an-siud"><g>an·siud</g></a>
+                        <en>over there, yonder, at that place over there</en></li>
+                </ul>
+            </p>
+            <p>Pedagogical examples – <xl id="adverb-pred-pedag">
+                    <li>
+                        <gd>Tha an cat an sin. | Tha an t-aran an siud.</gd>
+                        <tr>The cat is there. | The bread is yonder.</tr>
+                        <ref text="609">td. 28, 195</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Adnominal examples – <xl id="adverb-pred-adnom-pedag">
+                    <li>
+                        <gd>am boireannach sin <m>an sin</m></gd>
+                        <tr>that woman there</tr>
+                        <ref text="609">td. 28, 195</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+</module>

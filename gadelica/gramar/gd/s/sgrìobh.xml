@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>sgrìobh</h>
+    <p><g>sgrìobh</g>
+        <en>write</en> is a <a href="?xx=verbs/simple_verbs">simple verb</a>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>sgrìobh</g> are – <ul>
+                <li><m>sgrìobhaidh</m> – future independent ie. <en>will write</en></li>
+                <li><m>sgrìobh</m> – past independent ie. <en>wrote</en></li>
+                <li><m>sgrìobhadh</m> – verbal noun ie. <en>writing</en></li>
+            </ul>
+        </p>
+        <section>
+            <h>tense</h>
+            <p>
+                <ul>
+                    <li>past <ul id="past">
+                            <li>active <ul>
+                                    <li>independent – <m>sgrìobh</m></li>
+                                    <li>relative – a <m>sgrìobh</m></li>
+                                    <li>dependent – cha/an/nach <m>do sgrìobh</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>sgrìobhadh</m></li>
+                                    <li>relative – a <m>sgrìobhadh</m></li>
+                                    <li>dependent – cha/an/nach <m>do sgrìobhadh</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>future <ul id="future">
+                            <li>active <ul>
+                                    <li>independent – <m>sgrìobhaidh</m></li>
+                                    <li>relative – a <m>sgrìobhas</m></li>
+                                    <li>dependent – cha/an/nach <m>sgrìobh</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>sgrìobhar</m></li>
+                                    <li>relative – a <m>sgrìobhar</m></li>
+                                    <li>dependent – cha/an/nach <m>sgrìobhar</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>conditional <ul id="conditional">
+                            <li>active <ul>
+                                    <li>first person singular <ul>
+                                            <li>independent – <m>sgrìobhainn</m></li>
+                                            <li>relative – a <m>sgrìobhainn</m></li>
+                                            <li>dependent – cha/an/nach <m>sgrìobhainn</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>first person plural <ul>
+                                            <li>independent – <m>sgrìobhamaid</m></li>
+                                            <li>relative – a <m>sgrìobhamaid</m></li>
+                                            <li>dependent – cha/an/nach <m>sgrìobhamaid</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>second/third persons <ul>
+                                            <li>independent – <m>sgrìobhadh</m></li>
+                                            <li>relative – a <m>sgrìobhadh</m></li>
+                                            <li>dependent – cha/an/nach <m>sgrìobhadh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>sgrìobhte</m></li>
+                                    <li>relative – a <m>sgrìobhte</m></li>
+                                    <li>dependent – cha/an/nach <m>sgrìobhte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>status</h>
+            <p><ul>
+                    <li>independent <ul id="independent">
+                            <li>past <ul>
+                                    <li>active – <m>sgrìobh</m></li>
+                                    <li>passive – <m>sgrìobhadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – <m>sgrìobhaidh</m></li>
+                                    <li>passive – <m>sgrìobhar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – <m>sgrìobhainn</m></li>
+                                            <li>first person plural – <m>sgrìobhamaid</m></li>
+                                            <li>second/third persons – <m>sgrìobhadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – <m>sgrìobhte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>relative <ul id="relative">
+                            <li>past <ul>
+                                    <li>active – a <m>sgrìobh</m></li>
+                                    <li>passive – a <m>sgrìobhadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – a <m>sgrìobhas</m></li>
+                                    <li>passive – a <m>sgrìobhar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – a <m>sgrìobhainn</m></li>
+                                            <li>first person plural – a <m>sgrìobhamaid</m></li>
+                                            <li>second/third persons – a <m>sgrìobhadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – a <m>sgrìobhte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="dependent">
+                            <li>past <ul>
+                                    <li>active – cha/an/nach <m>do sgrìobh</m></li>
+                                    <li>passive – cha/an/nach <m>do sgrìobhadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – cha/an/nach <m>sgrìobh</m></li>
+                                    <li>passive – cha/an/nach <m>sgrìobhar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – cha/an/nach
+                                                  <m>sgrìobhainn</m></li>
+                                            <li>first person plural – cha/an/nach
+                                                  <m>sgrìobhamaid</m></li>
+                                            <li>second/third persons – cha/an/nach
+                                                <m>sgrìobhadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – cha/an/nach <m>sgrìobhte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul></p>
+        </section>
+        <section>
+            <h>voice</h>
+            <p>
+                <ul>
+                    <li>active <ul id="active">
+                            <li>past <ul>
+                                    <li>independent – <m>sgrìobh</m></li>
+                                    <li>relative – a <m>sgrìobh</m></li>
+                                    <li>dependent – cha/an/nach <m>do sgrìobh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>sgrìobhaidh</m></li>
+                                    <li>relative – a <m>sgrìobhas</m></li>
+                                    <li>dependent – cha/an/nach <m>sgrìobh</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent <ul>
+                                            <li>first person singular – <m>sgrìobhainn</m></li>
+                                            <li>first person plural – <m>sgrìobhamaid</m></li>
+                                            <li>second/third persons – <m>sgrìobhadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>relative <ul>
+                                            <li>first person singular – a <m>sgrìobhainn</m></li>
+                                            <li>first person plural – a <m>sgrìobhamaid</m></li>
+                                            <li>second/third persons – a <m>sgrìobhadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>dependent <ul>
+                                            <li>first person singular – cha/an/nach
+                                                  <m>sgrìobhainn</m></li>
+                                            <li>first person plural – cha/an/nach
+                                                  <m>sgrìobhamaid</m></li>
+                                            <li>second/third persons – cha/an/nach
+                                                <m>sgrìobhadh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>passive <ul id="passive">
+                            <li>past <ul>
+                                    <li>independent – <m>sgrìobhadh</m></li>
+                                    <li>relative – a <m>sgrìobhadh</m></li>
+                                    <li>dependent – cha/an/nach <m>do sgrìobhadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>sgrìobhar</m></li>
+                                    <li>relative – a <m>sgrìobhar</m></li>
+                                    <li>dependent – cha/an/nach <m>sgrìobhar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent – <m>sgrìobhte</m></li>
+                                    <li>relative – a <m>sgrìobhte</m></li>
+                                    <li>dependent – cha/an/nach <m>sgrìobhte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>imperative</h>
+            <p>
+                <ul>
+                    <li>independent <ul id="imp-ind">
+                            <li>first person singular – <m>sgrìobham</m>!</li>
+                            <li>second person singular – <m>sgrìobh</m>!</li>
+                            <li>first person plural – <m>sgrìobhamaid</m>!</li>
+                            <li>second person plural – <m>sgrìobhaibh</m>!</li>
+                            <li>third person – <m>sgrìobhadh</m>!</li>
+                            <li>passive – <m>sgrìobh(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="imp-dep">
+                            <li>first person singular – na <m>sgrìobham</m>!</li>
+                            <li>second person singular – na <m>sgrìobh</m>!</li>
+                            <li>first person plural – na <m>sgrìobhamaid</m>!</li>
+                            <li>second person plural – na <m>sgrìobhaibh</m>!</li>
+                            <li>third person – na <m>sgrìobhadh</m>!</li>
+                            <li>passive – na <m>sgrìobh(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section id="subject">
+            <h>subject</h>
+            <p>The subject of <g>sgrìobh</g> is generally human.</p>
+            <p>Older pedagogical examples – <xl id="sbj-older-pedag">
+                    <li>
+                        <gd><m>Tha <u>mo mhàthair</u> a’ sgrìobhadh</m> litreach gu m’athair a tha
+                            air falbh.</gd>
+                        <tr>My mother is writing a letter to my father who is away.</tr>
+                        <ref text="621">td. 5</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="object">
+            <h>object</h>
+            <p>The object of <g>sgrìobh</g> is generally an inscribed information object – <ul>
+                    <li><g>sgrìobh <a href="?gd=litir">litir</a></g>
+                        <en>write a letter</en></li>
+                </ul>
+            </p>
+            <p>The object can be omitted if understood from context – <ul>
+                    <li>pedagogical examples – <xl id="intrans-pedag">
+                            <li>
+                                <gd>Sgrìobh e thugam.</gd>
+                                <tr>He wrote [a letter, an email, ...] to me.</tr>
+                                <ref text="601">td. 347</ref>
+                            </li>
+                        </xl></li>
+                </ul>
+            </p>
+        </section>
+        <section id="complements">
+            <h>complements</h>
+            <p>The intended recipient can be introduced by the preposition <a
+                    href="?gd=gu^preposition"><g>gu</g></a>
+                <en>to</en> – <ul>
+                    <li>pedagogical examples – <xl id="gu-pedag">
+                            <li>
+                                <gd>Sgrìobh e litir ghoirid <m>gu caraid dha</m>. | Sgrìobh e
+                                        <m>thugam</m>.</gd>
+                                <tr>He wrote a short letter to a friend of his. | He wrote to
+                                    me.</tr>
+                                <ref text="601">td. 346–7</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li>older pedagogical examples – <xl id="gu-older-pedag">
+                            <li>
+                                <gd>Tha mo mhàthair a’ sgrìobhadh litreach <m>gu m’athair</m> a tha
+                                    air falbh.</gd>
+                                <tr>My mother is writing a letter to my father who is away.</tr>
+                                <ref text="621">td. 5</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>derivatives</h>
+            <module id="sgriobhadh">
+                <h>sgrìobhadh</h>
+                <p><g>sgrìobhadh</g>
+                    <en>writing</en> is a masculine common noun, derived with suffix <a href="?gd=_adh"><g>-adh</g></a>.</p>
+                <section id="sgriobhadh-forms">
+                    <h>forms</h>
+                    <p>The principal parts of <g>sgrìobhadh</g> are – <ul>
+                            <li><m>sgrìobhadh</m> – nominative/dative singular</li>
+                            <li><m>sgrìobhaidh</m> – genitive singular</li>
+                            <li><m>sgrìobhaidhean</m> – plural</li>
+                        </ul>
+                    </p>
+                    <section id="definiteness">
+                        <h>definiteness</h>
+                        <p><ul>
+                                <li>indefinite <ul>
+                                        <li>singular <ul>
+                                                <li>nominative – <m>sgrìobhadh</m></li>
+                                                <li>dative – (ann an) <m>sgrìobhadh</m></li>
+                                                <li>genitive – (modh) <m>sgrìobhaidh</m></li>
+                                            </ul></li>
+                                        <li>plural <ul>
+                                                <li>nominative – <m>sgrìobhaidhean</m></li>
+                                                <li>dative – (ann an) <m>sgrìobhaidhean</m></li>
+                                                <li>genitive – (taigh) <m>sgrìobhaidhean</m></li>
+                                            </ul></li>
+                                    </ul></li>
+                                <li>definite <ul>
+                                        <li>singular <ul>
+                                                <li>nominative – <m>an sgrìobhadh</m></li>
+                                                <li>dative – (anns) <m>an sgrìobhadh</m></li>
+                                                <li>genitive – (modh) <m>an sgrìobhaidh</m></li>
+                                            </ul></li>
+                                        <li>plural <ul>
+                                                <li>nominative – <m>na sgrìobhaidhean</m></li>
+                                                <li>dative – (anns) <m>na sgrìobhaidhean</m></li>
+                                                <li>genitive – (taigh) <m>nan
+                                                  sgrìobhaidhean</m></li>
+                                            </ul></li>
+                                    </ul></li>
+                            </ul></p>
+                    </section>
+                    <section id="number">
+                        <h>number</h>
+                        <p><ul>
+                                <li>singular <ul>
+                                        <li>indefinite <ul>
+                                                <li>nominative – <m>sgrìobhadh</m></li>
+                                                <li>dative – (ann an) <m>sgrìobhadh</m></li>
+                                                <li>genitive – (modh) <m>sgrìobhaidh</m></li>
+                                            </ul></li>
+                                        <li>definite <ul>
+                                                <li>nominative – <m>an sgrìobhadh</m></li>
+                                                <li>dative – (anns) <m>an sgrìobhadh</m></li>
+                                                <li>genitive – (modh) <m>an sgrìobhaidh</m></li>
+                                            </ul></li>
+                                    </ul></li>
+                                <li>plural <ul>
+                                        <li>indefinite <ul>
+                                                <li>nominative – <m>sgrìobhaidhean</m></li>
+                                                <li>dative – (ann an) <m>sgrìobhaidhean</m></li>
+                                                <li>genitive – (taigh) <m>sgrìobhaidhean</m></li>
+                                            </ul></li>
+                                        <li>definite <ul>
+                                                <li>nominative – <m>na sgrìobhaidhean</m></li>
+                                                <li>dative – (anns) <m>na sgrìobhaidhean</m></li>
+                                                <li>genitive – (taigh) <m>nan
+                                                  sgrìobhaidhean</m></li>
+                                            </ul></li>
+                                    </ul></li>
+                            </ul></p>
+
+                    </section>
+                    <section id="case">
+                        <h>case</h>
+                        <p><ul>
+                                <li>nominative <ul>
+                                        <li>indefinite <ul>
+                                                <li>singular – <m>sgrìobhadh</m></li>
+                                                <li>plural – <m>sgrìobhaidhean</m></li>
+                                            </ul></li>
+                                        <li>definite <ul>
+                                                <li>singular – <m>an sgrìobhadh</m></li>
+                                                <li>plural – <m>na sgrìobhaidhean</m></li>
+                                            </ul></li>
+                                    </ul></li>
+                                <li>dative <ul>
+                                        <li>indefinite <ul>
+                                                <li>singular – (ann an) <m>sgrìobhadh</m></li>
+                                                <li>plural – (ann an) <m>sgrìobhaidhean</m></li>
+                                            </ul></li>
+                                        <li>definite <ul>
+                                                <li>singular – (anns) <m>an sgrìobhadh</m></li>
+                                                <li>plural – (anns) <m>na sgrìobhaidhean</m></li>
+                                            </ul></li>
+                                    </ul></li>
+                                <li>genitive <ul>
+                                        <li>indefinite <ul>
+                                                <li>singular – (modh) <m>sgrìobhaidh</m></li>
+                                                <li>plural – (taigh) <m>sgrìobhaidhean</m></li>
+                                            </ul></li>
+                                        <li>definite <ul>
+                                                <li>singular – (modh) <m>an sgrìobhaidh</m></li>
+                                                <li>plural – (taigh) <m>nan sgrìobhaidhean</m></li>
+                                            </ul></li>
+                                    </ul></li>
+                            </ul></p>
+                    </section>
+                </section>
+                <section>
+                    <h>dependents</h>
+                    <section id="sgriobhadh-spec">
+                        <h>specifier/object</h>
+                        <p>The object of the verb <g>sgrìobh</g> appears as the specifier of the
+                            derived (deverbal) noun.</p>
+                        <p>Examples –<ul>
+                                <li>older pedagogical examples – <xl
+                                        id="sgriobhadh-spec-older-pedag">
+                                        <li>
+                                            <gd>Tha mo mhàthair a’ <m>sgrìobhadh litreach</m> gu
+                                                m’athair a tha air falbh.</gd>
+                                            <tr>My mother is writing a letter [lit. at a letter’s
+                                                writing] to my father who is away.</tr>
+                                            <ref text="621">td. 5</ref>
+                                            <note>cf. <g>sgrìobh i litir</g>.</note>
+                                        </li>
+                                    </xl>
+                                </li>
+                            </ul></p>
+                    </section>
+                    <section id="sgriobhadh-complements">
+                        <h>complements</h>
+                        <p>Other complements of the verb remain as complements of the derived
+                            noun.</p>
+                        <p>Examples –<ul>
+                                <li>older pedagogical examples – <xl
+                                        id="sgriobhadh-comp-older-pedag">
+                                        <li>
+                                            <gd>Tha mo mhàthair a’ <m>sgrìobhadh</m> litreach <m>gu
+                                                  m’athair</m> a tha air falbh.</gd>
+                                            <tr>My mother is writing a letter [lit. at a letter’s
+                                                writing] to my father who is away.</tr>
+                                            <ref text="621">td. 5</ref>
+                                            <note>cf. <g>sgrìobh i litir gu m’athair</g>.</note>
+                                        </li>
+                                    </xl>
+                                </li>
+                            </ul></p>
+                    </section>
+                </section>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module id="a_sgriobhadh">
+                            <h>a’ sgrìobhadh</h>
+                            <p><g>(bi) a’ sgrìobhadh</g>
+                                <en>be writing</en> is a progressive verb compound, with the
+                                deverbal noun appearing as the complement of the progressive
+                                particle <a href="?gd=aig"><g>ag</g></a>.</p>
+                            <p>Examples –<ul>
+                                    <li>older pedagogical examples – <xl id="prog-older-pedag">
+                                            <li>
+                                                <gd>Tha mo mhàthair <m>a’ sgrìobhadh litreach</m> gu
+                                                  m’athair a tha air falbh.</gd>
+                                                <tr>My mother is writing a letter to my father who
+                                                  is away.</tr>
+                                                <ref text="621">td. 5</ref>
+                                            </li>
+                                        </xl>
+                                    </li>
+                                </ul></p>
+                        </module>
+                    </section>
+                </section>
+            </module>
+        </section>
+    </section>
+
+</module>

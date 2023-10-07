@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">teaghlach</h>
+    <h lang="gd">teaghlach</h>
+    <p>Examples from modern usage – <xl id="other">
+        <li>
+            <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. Rinn
+                e sin tro dhìcheall, obair chruaidh agus tàlant malairt a bha neo-ghnàthach.
+                An-diugh tha iomadh companaidh na ainm air feadh na Gàidhealtachd. Bha
+                <m>seachdnar de theaghlach</m> aige, ceathrar mhac agus triùir nighean, agus
+                bha a h-uile fear is tè anns a’ mhalairt ach Rob. [...]</gd>
+            <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. He
+                did that through duty, hard work and a talent for business that was unusual.
+                Today there are many companies in his name all over the Highlands. He had a
+                family of seven, four sons and three daughters, and every man and woman was in
+                the business except Rob. [...]</tr>
+            <ref text="2">td. 5</ref>
+        </li>
+    </xl>
+    </p>
+    <p lang="en">Biblical examples – <xl id="bible-exs">
+        <li>
+            <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig do’n Eiphit; thàinig
+                gach duine agus <m>a theaghlach</m> maille re Iacob: Reuben, Simeon, Lebhi, agus Iudah,
+                [...] Agus na h-anman uile a thàinig a mach a leasraidh Iacoib, bu deich agus
+                tri fichead anam iad; oir bha Ioseph ’san Eiphit a cheana. [...]</gd>
+            <tr>Now these are the names of the children of Israel, which came into Egypt; every
+                man and his household came with Jacob. Reuben, Simeon, Levi, and Judah, [...]
+                And all the souls that came out of the loins of Jacob were seventy souls: for
+                Joseph was in Egypt already. [...] [KJV]</tr>
+            <ref text="160">Ecsodus I.1–5</ref>
+        </li>
+    </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>
+

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>a-mach</h>
+    <p><g>a-mach</g>
+        <en>[to] outside</en> is an elative adverb of motion along a <a href="?q=motion"
+            >trajectory</a> (contrasting with both the adessive? <a href="?gd=a-muigh"
+                ><g>a-muigh</g></a>
+        <en>[at] outside</en> and the illative <a href="?gd=a-steach"><g>a-steach</g></a>
+        <en>[to] inside</en>).</p>
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>complement</h>
+            <module id="a-mach_a" status="bronze">
+                <h>a-mach à</h>
+                <p>cf. <a href="?gd=a^preposition"><g>à</g></a>
+                    <en>out of, from</en></p>
+                <p>Some examples – <ul>
+                        <li>older pedagogical examples – <xl id="obj-older-pedag">
+                                <li>
+                                    <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus
+                                        Anna anns a’ chàr. Chaidh iad sìos taobh an locha is stad
+                                        iad aig àite bòidheach gorm. Chuir iad an càr a stigh gu
+                                        taobh an rathaid is thug iad brat <m>a mach as a’ chàr</m>
+                                        air son suidhe air. [...]</gd>
+                                    <tr>The day was lovely and warm and their father took John and
+                                        Ann in the car. They went down the side of the lake and they
+                                        stopped at a beautiful green place. They put the car into
+                                        the side of the road and they took a rug out of the car for
+                                        sitting on. [...]</tr>
+                                    <ref text="621">td. 6</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>examples from Gairm – <xl id="a-gairm">
+                                <li>
+                                    <gd>Bha i ceud bliadhna a dh’ aois is esan dhà air fhichead. Cha
+                                        robh e ach mìos no dhà <m>a-mach ás an oilthigh</m>. Bha a
+                                        nighean a’ fuireachd còmhla rithe. Bha ise ceithir fichead.
+                                        Shaoil e gu robh a’ chailleach ann an dòigh na bu
+                                        shunndaiche na a nighean. [...]</gd>
+                                    <tr>She was a hundred years old and him twenty two. He was just
+                                        a month or two out of the university. Her daughter was
+                                        living with her. She was eighty. He thought that the old
+                                        woman was in a way livelier than her daughter. [...]</tr>
+                                    <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                                    <note>cf. <a href="?gd=a^preposition">à</a>
+                                        <en>out of</en></note>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>biblical examples – <xl id="bible">
+                                <li>
+                                    <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig do’n
+                                        Eiphit; thàinig gach duine agus a theaghlach maille re
+                                        Iacob: Reuben, Simeon, Lebhi, agus Iudah, [...] Agus na
+                                        h-anman uile a thàinig <m>a mach a leasraidh Iacoib</m>, bu
+                                        deich agus tri fichead anam iad; oir bha Ioseph ’san Eiphit
+                                        a cheana. [...]</gd>
+                                    <tr>Now these are the names of the children of Israel, which
+                                        came into Egypt; every man and his household came with
+                                        Jacob. Reuben, Simeon, Levi, and Judah, [...] And all the
+                                        souls that came out of the loins of Jacob were seventy
+                                        souls: for Joseph was in Egypt already. [KJV]</tr>
+                                    <ref text="160">Ecsodus I.1–5</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </module>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <module id="rach" status="bronze">
+                <h>rach a-mach</h>
+                <p><g><a href="?gd=rach">rach</a> a-mach</g>
+                    <en>go out(side)</en> – <ul>
+                        <li>pedagogical examples – <xl id="uses-comp-rach-pedag">
+                                <li>
+                                    <gd>Chan eil iad a’ dol <m>a-mach</m>. | Tha Màiri a’ dol
+                                            <m>a-mach</m>. | Chaidh Iain <m>a-mach</m>. Cha deach
+                                        Uilleam <m>a-mach</m>. | a’ chaileag a chaidh <m>a-mach</m>
+                                        | a’ chaileag nach deach <m>a-mach</m> | Tha/bha/bidh/bhiodh
+                                        iad air a dhol <m>a-mach</m>. | Cha toireadh màthair
+                                        Dhòmhnaill cead dha a dhol <m>a-mach</m>. | Nach àbhaist dhi
+                                        a bhith a’ dol <m>a-mach</m> feasgar?</gd>
+                                    <tr>They are not going out. | Mary is going out. | John went
+                                        out. | William did not go out. | the girl who went out | the
+                                        girl who did not go out | They (will/would) have/had gone
+                                        out. | Donald’s mother would not give him permission to go
+                                        out. | Doesn’t she usually go out in the evening?</tr>
+                                    <ref text="609">td. 22, 31, 38, 121, 124, 158–9, 169 [199],
+                                        170</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+                <p>Note the idiom <g>rach a-mach <a href="?gd=air">air</a> ...</g>
+                    <en>quarrel with, fall out with</en> – <ul>
+                        <li>pedagogical examples – <xl id="rach_a-mach_air-pedag">
+                                <li>
+                                    <gd>Bha Anna a’ teabachadh/teabachdainn <m>a dhol a-mach
+                                        air</m>.</gd>
+                                    <tr>Ann was on the verge of falling out with him.</tr>
+                                    <ref text="609">td. 177</ref>
+                                </li>
+                                <li>
+                                    <gd>Chaidh e a-mach air luchd an airm.</gd>
+                                    <tr>He quarrelled with the army people.</tr>
+                                    <ref text="601">td. 478</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </module>
+            <module id="thig" status="bronze">
+                <h>thig a-mach</h>
+                <p><g><a href="?gd=thig">thig</a> a-mach</g>
+                    <en>come out(side)</en> – <ul>
+                        <li>pedagogical examples – <xl id="uses-comp-thig-pedag">
+                                <li>
+                                    <gd>A bheil sibh a’ tighinn a-mach?</gd>
+                                    <tr>Are you coming out?</tr>
+                                    <ref text="609">td. 195</ref>
+                                </li>
+                                <li>
+                                    <gd>Bha e a’ tighinn a-mach às an taigh.</gd>
+                                    <tr>He was coming out of the house.</tr>
+                                    <ref text="601">td. 49</ref>
+                                </li>
+
+                            </xl>
+                        </li>
+                        <li>biblical examples – <xl id="thig_a-mach-exs">
+                                <li>
+                                    <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig do’n
+                                        Eiphit; thàinig gach duine agus a theaghlach maille re
+                                        Iacob: Reuben, Simeon, Lebhi, agus Iudah, [...] Agus na
+                                        h-anman uile <m>a thàinig a mach a leasraidh Iacoib</m>, bu
+                                        deich agus tri fichead anam iad; oir bha Ioseph ’san Eiphit
+                                        a cheana. [...]</gd>
+                                    <tr>Now these are the names of the children of Israel, which
+                                        came into Egypt; every man and his household came with
+                                        Jacob. Reuben, Simeon, Levi, and Judah, [...] And all the
+                                        souls that came out of the loins of Jacob were seventy
+                                        souls: for Joseph was in Egypt already. [...] [KJV]</tr>
+                                    <ref text="160">Ecsodus I.1–5</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+
+
+
+            </module>
+            <module id="thoir" status="bronze">
+                <h>thoir a-mach</h>
+                <p>cf. <a href="?gd=thoir"><g>thoir</g></a>
+                    <en>give, take, bring</en></p>
+                <p>Some examples – <ul>
+                        <li>older pedagogical examples – <xl id="thoir-older-pedag">
+                                <li>
+                                    <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus
+                                        Anna anns a’ chàr. Chaidh iad sìos taobh an locha is stad
+                                        iad aig àite bòidheach gorm. Chuir iad an càr a stigh gu
+                                        taobh an rathaid is <m>thug iad brat a mach as a’ chàr</m>
+                                        air son suidhe air. [...]</gd>
+                                    <tr>The day was lovely and warm and their father took John and
+                                        Ann in the car. They went down the side of the lake and they
+                                        stopped at a beautiful green place. They put the car into
+                                        the side of the road and they took a blanket out of the car
+                                        for sitting on. [...]</tr>
+                                    <ref text="621">td. 6</ref>
+                                    <note><a href="?gd=brat">brat</a>
+                                        <masc/>
+                                        <en>rug, mat</en></note>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </module>
+
+        </section>
+
+    </section>
+
+
+</module>

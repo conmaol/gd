@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">nach</h>
+    <h lang="gd">nach</h>
+
+    <module id="cleft">
+        <h lang="en">cleft clauses</h>
+        <h lang="gd">...</h>
+        <p lang="en">Examples from Gairm – <xl id="cleft-gairm">
+                <li>
+                    <gd>[...] Shuidh e air cathair. “Tha sinn airson feadhainn de na h-òrain as
+                        aithne dhuibh a chur air clàr, gus nach teid iad air chall.” “Smaoinich,”
+                        arsa Màiri mu dheireadh, “am B.B.C. a’ tighinn thugainn a dh’ aon
+                        ghnothach.” “Thugam-sa,” ars a’ chailleach ann a seòrsa de sgriach,
+                        “thugam-sa.” Theab e innse dhaibh <m>nach ann bho ’n Bh.B.C. a bha e mach</m> ach
+                        cha robh e airson gnothaichean a dheanamh na bu doirbhe. [...]</gd>
+                    <tr>[...] He sat [down] on a chair. “We are wanting to put some of the songs
+                        that you know on record, so that they are not lost.” “Just think,” said Mary
+                        eventually, “the BBC coming to us (deliberately).” “To me,” said the old
+                        woman in a kind of screech, “to me”. He nearly told them that he was not
+                        from the BBC but he did not want to make matters more complicated.
+                        [...]</tr>
+                    <ref text="400-46">td. 170, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+
+    <module id="relative">
+        <h lang="en">relative clauses</h>
+        <h lang="gd">...</h>
+        <p lang="en">Examples from Gairm – <xl id="relative-gairm">
+                <li>
+                    <gd>[...] Cha robh e fhéin a’ faireachdainn uabhasach math, oir, air a’ bhàta,
+                        bha triùir dhaoine le botul uisge-bheatha agus cha robh càil air a shon ach
+                        gu feumadh e òl ’nan cuideachd. [...] An dràsda ’s a rithist shealladh Iain
+                        a-mach air an uinneig ris a’ mhuir ’s na h-eileanan. Chitheadh e aig amannan
+                        na faoileagan a’ gabhail seachad, ’s chluinneadh e an cuid sgriachail. Le an
+                        amhaichean fada caola ’s an cuirp geala biorach mar chlachan bha iad a’ cur
+                        gràin’ air. Theab e an glacadh ’s an lìonadh le uisgebeatha, <m>na biasdan
+                            nach gabhadh sàsachadh</m>, na clachan aosd ud, na sgòrnanan ud làn
+                        gaoith is sgadain. [...]</gd>
+                    <tr>[...] He [John] was not feeling terribly good, because, on the boat, there
+                        were three men with a bottle of whisky and there was nothing for it but that
+                        he would have to drink in their company. [...] Now and again John would look
+                        out the window at the sea and the islands. He could see at times the gulls
+                        going past, and he could hear their screeching. With their long thin necks
+                        and their pointed white bodies like stones they disgusted him. He almost
+                        [??] caught them and filled them with whisky, the beasts that cannot be
+                        satiated, those ancient stones, those throats full of wind and herring.
+                        [...]</tr>
+                    <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">Biblical examples – <xl id="relative-bible">
+                <li>
+                    <gd>[...] A nis dh’éirich <m>righ ùr</m> air an Eiphit, <m>do nach b’aithne
+                            Ioseph</m>. Agus thubhairt e r’a shluagh, Feuch, tha sluagh chloinn
+                        Israeil ni’s lìonmhoire agus ni’s cumhachdaiche na sinne. [...]</gd>
+                    <tr>[...] Now there arose up a new king over Egypt, which knew not Joseph. And
+                        he said unto his people, Behold, the people of the children of Israel are
+                        more and mightier than we: [...]</tr>
+                    <ref text="160">Ecsodus I.8-9</ref>
+                    <note>Non-restrictive. Source: Cha b’ aithne don rìgh Ioseph.</note>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+
+</module>

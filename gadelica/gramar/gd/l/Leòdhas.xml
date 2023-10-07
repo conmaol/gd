@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>Leòdhas</h>
+    <p>Leòdhas is a <a href="?xx=nouns/toponymic_proper_nouns">toponymic proper noun</a>.</p>
+    <module id="Caimbeulach">
+        <h>Leòdhasach</h>
+        <p><b>Leòdhasach</b> is a derived adjective.</p>
+        <module id="Caimbeulach-noun">
+            <h>Leòdhasach – noun</h>
+            <p><b>Leòdhasach</b> is an <a href="?xx=nouns/ethnonymic_common_nouns">ethnonymic common
+                    noun</a>.</p>
+        </module>
+    </module>
+</module>

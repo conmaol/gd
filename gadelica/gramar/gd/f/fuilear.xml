@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">fuilear</h>
+    <h lang="gd">fuilear</h>
+    <module id="cha_b_fhuilear">
+        <h lang="en">cha b’ fhuilear do</h>
+        <h lang="gd">cha b’ fhuilear do</h>
+        <p lang="en">Corpus examples – <xl id="exs">
+                <li>
+                    <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios
+                        os cionn obair a’ Chomuinn. [...] <m>Cha b’ fhuilear do</m> dhuine de ’n
+                        t-seòrsa so tomhas mhath de chumhachd a bhith aige.</gd>
+                    <tr>The Highland Society is talking about choosing a new General who will
+                        oversee the Society’s work. [...] A person of this kind <u>would have to</u>
+                        have a good measure of power.</tr>
+                    <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+</module>

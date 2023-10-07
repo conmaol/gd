@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">caidil</h>
+    <h lang="gd">caidil</h>
+    <p lang="en"><b>caidil</b>
+        <en>fall asleep, go to sleep</en> is an intransitive (non-durative) <a
+            href="?q=verbal_aspect">telic</a> verb, with verbal noun <b>cadal</b>
+        <masc/></p>
+    <p lang="gd">...</p>
+    <p lang="en"><b>caidil</b> is derived from the Old Gaelic verb <ax href="https://dil.ie/12381"
+            >con·tuili</ax>
+        <en>fall asleep, sleep</en>.</p>
+    <p lang="gd">...</p>
+    <p lang="en">cf. <a href="?gd=dùisg">dùisg</a>
+        <en>wake up</en></p>
+    <p lang="gd">...</p>
+    <p lang="en">Examples from dictionaries and grammars – <xl id="dictionary">
+            <li>
+                <gd>Caidil gu math!</gd>
+                <tr>Sleep well!</tr>
+                <ref text="605">td. 72</ref>
+            </li>
+            <li>
+                <gd>Na caidil an sin!</gd>
+                <tr>Don’t sleep [lit. fall asleep] there!</tr>
+                <ref text="601">td. 107</ref>
+            </li>
+            <li>
+                <gd>Caidlidh mise an seo.</gd>
+                <tr>I’ll sleep [lit. fall asleep] here.</tr>
+                <ref text="601">td. 107</ref>
+            </li>
+            <li>
+                <gd>Cò a chaidleas anns an leabaidh seo?</gd>
+                <tr>Who shall sleep [lit. fall asleep] in this bed?</tr>
+                <ref text="601">td. 107</ref>
+            </li>
+            <li>
+                <gd>Thuirt e gun caidleadh e anns a’ chùil.</gd>
+                <tr>He said that he would sleep [lit. fall asleep] in the corner.</tr>
+                <ref text="601">td. 107</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>[...] ’S bha iad ’nan suidhe an sin ag òl uisge-beatha fad na h-oidhch’, na
+                    ceathrar aca. An dràsda ’s a rithist shealladh Iain a-mach air an uinneig ris a’
+                    mhuir ’s na h-eileanan. [...] <m>Chaidil e airson greiseag</m> ’s nuair a dhùisg
+                    e anns a’ mhadainn bha a bheul salach le blas an uisge-bheatha. Choisich e mach
+                    ás a’ bhàta a-measg nam faoileagan, ga[n] sguabadh air falbh le a làmhan, agus
+                    lean e air suas an aon rathad a bh’ ann gus an ruigeadh e an tigh. [...]</gd>
+                <tr>[...] And they were sat there drinking whisky all night, the four of them. Now
+                    and again John would look out the window at the sea and the islands. [...] He
+                    fell asleep for a while and when he woke up in the morning his mouth was dirty
+                    with the taste of the whisky. He walked out of the boat among the gulls,
+                    brushing them away with his hands, and he continued up the only road that there
+                    was until he reached the house. [...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <module>
+        <h lang="en">cadal</h>
+        <h lang="gd">cadal</h>
+        <p lang="en"><b>cadal</b>
+            <en>falling asleep, sleeping, sleep</en> is a masculine noun derived from the verb
+                <b>caidil</b>, with genitive form <b>cadail</b>.</p>
+        <p lang="gd">...</p>
+        <module id="bi_na_chadal">
+            <h lang="en">bi ’na chadal</h>
+            <h lang="gd">bi ’na chadal</h>
+            <p lang="en"><b>bi ’na chadal</b>
+                <en>be asleep</en> is a stative, retrospective verb compound, denoting the state
+                resulting from someone (or something) having falling asleep – <ul>
+                    <li><b>chaidil Iain</b>
+                        <en>John fell asleep</en> → <m>tha Iain ’na chadal</m>
+                        <en>John is asleep / John has fallen asleep</en></li>
+                </ul>
+            </p>
+            <p lang="gd">...</p>
+            <p lang="en">The <a href="?xx=nouns/possessive_determiners">possessive determiner</a>
+                fused with the preposition <a href="?gd=an^preposition">an</a> agrees with the
+                subject of <a href="?gd=bi">bi</a> in person, number and gender (though note that
+                the disambiguating initial apostrophes are usually dropped in contemporary,
+                post-1970s spelling) – <ul>
+                    <li><b>tha mi ’nam chadal</b>
+                        <en>I am asleep / have fallen asleep</en></li>
+                    <li><b>tha thu ’nad chadal</b>
+                        <en>you are asleep / have fallen asleep</en></li>
+                    <li><b>tha i ’na cadal</b>
+                        <en>she is asleep / has fallen asleep</en></li>
+                    <li><b>tha e ’na chadal</b>
+                        <en>he is asleep / has fallen asleep</en></li>
+                    <li><b>tha sinn ’nar cadal</b>
+                        <en>we are asleep / have fallen asleep</en></li>
+                    <li><b>tha sibh ’nur cadal</b>
+                        <en>you are asleep / have fallen asleep</en></li>
+                    <li><b>tha iad ’nan cadal</b>
+                        <en>they are asleep / have fallen asleep</en></li>
+                </ul>
+            </p>
+            <p lang="gd">...</p>
+            <p lang="en">Examples from dictionaries and grammars – <xl id="bi_na_chadal-dictionary">
+                    <li>
+                        <gd>Bha mi nam chadal anns a’ chathair.</gd>
+                        <tr>I was sleeping in the chair.</tr>
+                        <ref text="601">td. 107</ref>
+                    </li>
+                    <li>
+                        <gd>Bha e na chadal air an langasaid.</gd>
+                        <tr>He was sleeping on the sofa.</tr>
+                        <ref text="601">td. 107</ref>
+                    </li>
+                    <li>
+                        <gd>A bheil thu nad chadal fhathast? Chan eil. ’S ann a tha mi nam
+                            dhùisg.</gd>
+                        <tr>Are you still asleep? No, I am awake.</tr>
+                        <ref text="607">td. 276</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+            <p lang="en">Corpus examples – <xl id="bi_na_chadal-corpus">
+                    <li>
+                        <gd>[...] <m>Bha Ailig na chadal air an t-sòfa</m>, a bhroinn làn
+                            uisge-beatha, agus am botal ’s a’ ghlainne air bòrd beag ri thaobh.
+                            [...]</gd>
+                        <tr>[...] Alec was asleep [had fallen asleep] on the sofa, his belly full of
+                            whisky, and the bottle and the glass on a little table beside him.
+                            [...]</tr>
+                        <ref text="2">td. 110</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+            <p lang="en">Older examples – <xl id="bi_na_chadal-older">
+                    <li>
+                        <gd>[...] Ach ged a bha mo shuilean duinte,<m> cha robh mi ’nam chadal
+                                idir</m> [...]</gd>
+                        <tr>[...] But though my eyes were closed, I was not asleep [had not fallen
+                            asleep] at all [...]</tr>
+                        <ref text="232-1">td. 67</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+            <module id="tuit_na_chadal">
+                <h lang="en">tuit ’na chadal</h>
+                <h lang="gd">tuit ’na chadal</h>
+                <p lang="en"><b>tuit ’na chadal</b>
+                    <b>fall asleep</b> is a (non-durative) telic verb compound, with the same basic
+                    meaning as the verb caidil itself – <ul>
+                        <li><m>thuit mi ’nam chadal</m> ≡ <b>chaidil mi</b>
+                            <en>I fell sleep</en></li>
+                    </ul> cf. <a href="?gd=tuit">tuit</a>
+                    <en>fall</en>
+                </p>
+                <p lang="gd">...</p>
+                <p lang="en">Older examples – <xl id="tuit_na_chadal-older">
+                        <li>
+                            <gd>[...] Ghrad <m>thuit thu nad chadal</m> [...]</gd>
+                            <tr>[...] Suddenly you fell asleep [...]</tr>
+                            <ref text="81-10-24">td. 182</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p lang="gd">...</p>
+            </module>
+            <module id="na_chadal-adverbial">
+                <h lang="en">’na chadal as adverb</h>
+                <h lang="gd">...</h>
+                <p lang="en">Examples from dictionaries and grammars – <xl
+                        id="na_chadal-adverbial-dictionary">
+                        <li>
+                            <gd>Bhitheadh e a’ coiseachd <m>na chadal</m>.</gd>
+                            <tr>He used to walk in his sleep.</tr>
+                            <ref text="601">td. 106</ref>
+                        </li>
+                        <li>
+                            <gd>An neach nach cinn <m>na chadal</m>, cha chinn e na dhùisg.</gd>
+                            <tr>He who will not prosper in his sleep, will not prosper when
+                                awake.</tr>
+                            <ref text="601">td. 106</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p lang="gd">...</p>
+                <p lang="en">Corpus examples – <xl id="na_chadal-adverbial-corpus">
+                        <li>
+                            <gd>[...] Dh’fhàg e <m>’na chadal</m> e trì mìle bho’n uaimh. [...]</gd>
+                            <tr>[...] He left him asleep three miles from the cave. [...]</tr>
+                            <ref text="205">td. 71</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p lang="gd">...</p>
+            </module>
+        </module>
+        <module id="bi_a_cadal">
+            <h lang="en">bi a’ cadal</h>
+            <h lang="gd">bi a’ cadal</h>
+            <p lang="en"><b>bi a’ cadal</b>
+                <en>be falling asleep</en> is a imperfective verb compound, with two distinct senses
+                – <ul>
+                    <li><b>chaidil Iain</b>
+                        <en>John fell asleep</en> → <ul>
+                            <li>[progressive] <m>tha Iain a’ cadal (aig an àm seo)</m>
+                                <en>John is falling asleep (at this moment)</en></li>
+                            <li>[habitual] <m>tha Iain a’ cadal anns an sgoil uaireannan</m>
+                                <en>John falls asleep at school sometimes</en></li>
+                        </ul>
+                    </li>
+                </ul> Note that the habitual usage is an informal alternative to the traditional
+                future-tense-as-present-habitual – <m>caidlidh Iain anns an sgoil uaireannan</m>. </p>
+            <p lang="gd">...</p>
+            <p lang="en">Corpus examples – <xl id="a_cadal-corpus">
+                    <li>
+                        <gd>[...] Aon oidhche chuir e dà dhuine gu taigh an Deucoin airson Rob a
+                            phronnadh, ach nuair a bhris iad a-steach bha leabaidh Roib falamh.
+                                <m>Bha e air a bhith a’ cadal ann an taigh nàbaidh bho dh’innis Mab
+                                dha an cunnart san robh e.</m> [...]</gd>
+                        <tr>[...] One night he sent two men to the Deacon’s house to rough up Rob,
+                            but when they broke in Rob’s bed was empty. He had been sleeping [lit.
+                            falling asleep] at a neighbour’s house since Mab told him the danger he
+                            was in. [...]</tr>
+                        <ref text="2">td. 115</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+        <module id="dean_cadal">
+            <h lang="en">dèan cadal</h>
+            <h lang="gd">dèan cadal</h>
+            <p lang="en"><b>dèan cadal</b>
+                <en>sleep, go to sleep</en> [Angus Watson]</p>
+            <p lang="gd">...</p>
+        </module>
+        <module id="rach_a_chadal">
+            <h lang="en">rach a chadal</h>
+            <h lang="gd">rach a chadal</h>
+            <p lang="en"><b>rach a [do?] chadal</b>
+                <en>go to bed/sleep</en> [Angus Watson]</p>
+            <p lang="gd">...</p>
+        </module>
+        <module id="cuir_a_chadal">
+            <h lang="en">cuir a chadal</h>
+            <h lang="gd">...</h>
+            <p lang="en"><b>cuir a [do?] chadal</b>
+                <en>put/send to bed/sleep, lull</en></p>
+            <p lang="gd">...</p>
+            <p lang="en">Examples from dictionaries and grammars – <xl id="cuir-dictionary">
+                    <li>
+                        <gd>[...] nuair a bha e ga chur a chadal an oidhche sin [...]</gd>
+                        <tr>[...] when he was putting her to sleep that night [...]</tr>
+                        <ref text="601">td. 107</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+        <module id="other">
+            <h lang="en">other compounds and idioms</h>
+            <h lang="gd">...</h>
+            <p lang="en">
+                <ul>
+                    <li><b>faigh cadal</b>
+                        <en>get some sleep</en>
+                        <xl id="faigh">
+                            <li>
+                                <gd>Chan fhaigh i cadal gus an tèid mi dhachaigh.</gd>
+                                <tr>she won’t get any sleep until I get home.</tr>
+                                <ref text="601">td. 106</ref>
+                            </li>
+                        </xl></li>
+                    <li><b>bi an cadal air</b>
+                        <en>be sleepy</en>
+                        <xl id="bi_an_cadal_air">
+                            <li>
+                                <gd>Tha an cadal orm.</gd>
+                                <tr>I am sleepy.</tr>
+                                <ref text="605">td. 72</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li><b>tuit an cadal air</b>
+                        <en>fall asleep</en> [cf. <b>caidil</b>, <b>tuit ’na chadal</b>] <xl
+                            id="tuit_an_cadal_air">
+                            <li>
+                                <gd>Thuit an cadal orm.</gd>
+                                <tr>Sleep fell upon me.</tr>
+                                <ref text="601">td. 72</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li><b>(an) cadal deilgneach</b>
+                        <en>pins and needles</en></li>
+                    <li><b>àm cadail</b>
+                        <en>bedtime</en>
+                        <xl id="am_cadail">
+                            <li>
+                                <gd>[...] nuair a thàinig àm cadail [...]</gd>
+                                <tr>[...] when bedtime came [...]</tr>
+                                <ref text="601">td. 106</ref>
+                            </li>
+                        </xl></li>
+                    <li><b>an cadal</b>
+                        <en>asleep</en></li>
+                    <li><b>gun chadal</b>
+                        <en>sleepless</en>
+                        <xl id="gun_chadal">
+                            <li>
+                                <gd>oidhche gun chadal</gd>
+                                <tr>a sleepless night</tr>
+                                <ref text="605">td. 72</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li><b>cadal geamhraidh</b>
+                        <en>hibernation</en></li>
+                    <li><b>eadar a chadal ’s a dhùisg</b>
+                        <xl id="eadar">
+                            <li>
+                                <gd>Bha e eadar a chadal ’s a dhùisg.</gd>
+                                <tr>He was between sleeping and waking.</tr>
+                                <ref text="601">td. 106</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li><b>norrag chadail</b>
+                        <en>nap, snooze, wink of sleep</en>
+                        <xl id="norrag">
+                            <li>
+                                <gd>Cha d’fhuair mi <m>norrag chadail</m> a-raoir.</gd>
+                                <tr>I didn't get a wink of sleep last night.</tr>
+                                <ref text="605">td. 72</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li><b>cadal sàmhach</b>
+                        <en>a peaceful sleep</en></li>
+                    <li><b>Cadal math dhut!</b>
+                        <en>Sleep well!</en></li>
+                </ul>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+        <module id="cadalach">
+            <h lang="en">cadalach</h>
+            <h lang="gd">cadalach</h>
+            <p lang="en"><b>cadalach</b>
+                <en>sleepy, drowsy, dozy, soporific</en> is an adjective derived from the noun
+                    <b>cadal</b>. In certain dialects, the form is <b>cadaltach</b>.</p>
+            <p lang="gd">...</p>
+            <p lang="en">Examples from dictionaries and grammars – <xl id="cadalach-dictionary">
+                    <li>
+                        <gd>Dh’èist sinn gu <m>torman cadalach</m> nan calman.</gd>
+                        <tr>We listened to the drowsy/soporific murmur of the doves.</tr>
+                        <ref text="601">td. 106</ref>
+                    </li>
+                    <li>
+                        <gd>’S ann cadalach a bha a’ chlann.</gd>
+                        <tr>The children were sleepy.</tr>
+                        <ref text="601">td. 106</ref>
+                    </li>
+                    <li>
+                        <gd>Bha an cat na shìneadh <m>gu cadalach</m> anns a’ bhlàths.</gd>
+                        <tr>The cat was stretched out sleepily in the warmth.</tr>
+                        <ref text="601">td. 106</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+    </module>
+</module>

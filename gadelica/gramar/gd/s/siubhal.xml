@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">siubhal</h>
+    <h lang="gd">siubhal</h>
+    <p lang="en">Corpus examples – <xl id="exs">
+            <li>
+                <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os
+                    cionn obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach ag
+                    ath-nuadhachadh dreach a’ Chomuinn. [...] Ach dh’ fheumadh am Fear-stiùiridh ùr
+                    barrachd air a sin a dhèanamh. Dh’ fheumadh e <m>siubhal a dhèanamh</m> eadar Rubha
+                    Robhanais agus Ceann Bharraidh, eadar am Parbh is Maol Chinn-tìre, agus cha
+                    deanadh math dha dìochuimhneachadh gu robh obair a’ Chomuinn a’ buntainn ri
+                    Coimisean nan Croitearan an Inbhirnis, ri Roinn an Fhoghluim an Dùn-Eideann,
+                    agus ri Tigh nan Cumantan an Lunnainn.</gd>
+                <tr>The Highland Society is talking about choosing a new General who will oversee
+                    the Society’s work. [...] He would have enough to do initially reforming the
+                    Society. [...] But the new leader would have to do more than (just) that. He
+                    would have to <u>travel</u> between the Butt of Lewis and Barra Head, between Cape
+                    Wrath and the Mull of Kintyre, and he should not forget that the Society’s work
+                    is related to the Crofters’ Commission in Inverness, to the Education Department
+                    in Edinburgh, and to the House of Commons in London.</tr>
+                <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>

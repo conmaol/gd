@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>easbaigeach</h>
+    <p><g>easbaigeach</g>
+        <en>episcopal(ian)</en> is a <a href="?xx=adjectives/derived_adjectives">derived
+            adjective</a>, with stem <a href="?gd=easbaig"><g>easbaig</g></a>
+        <masc/>
+        <en>bishop</en>, and suffix <a href="?gd=_ach"><g>-(e)ach</g></a>.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>modifier</h>
+            <p>Compounds – <ul>
+                    <li><g><a href="?gd=eaglais">eaglais</a> easbaigeach</g>
+                        <en>an episcopal(ian) church, church governed by bishops</en>
+                        <ul>
+                            <li><b>An Eaglais Easbaigeach</b>
+                                <en>The Episcopal(ian) Church</en> [<a href="?xx=nouns/ergonyms"
+                                    >ergonymic name description</a>]</li>
+                        </ul>
+                    </li>
+                </ul></p>
+        </section>
+        <section>
+            <h>stem</h>
+
+            <p>Derivatives – <ul>
+                    <li><g>Easbaigeach</g>
+                        <masc/>
+                        <en>an Episcopalian, member of the Episcopal Church</en> [<a
+                            href="?xx=nouns/sectarian_common_nouns">sectarian common noun</a>], gen.
+                        sg. / pl. <g>Easbaigich</g>.</li>
+                </ul></p>
+        </section>
+    </section>
+</module>

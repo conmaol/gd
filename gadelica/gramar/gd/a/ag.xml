@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>ag</h>
+    <p><g>ag</g> is a special form of the adessive preposition <a href="?gd=aig"><g>aig</g></a>,
+        used before verbal nouns in the <a href="?q=verbal_aspect">progressive</a>
+        construction.</p>
+
+    <!--
+<section id="forms">
+    <h>forms</h>
+</section>
+    -->
+    <section id="forms">
+        <h>forms</h>
+        <p>When the verbal noun starts with a vowel, the preposition takes the (deslenderised) form
+                <g>ag</g>; otherwise, it takes the reduced form <g>a’</g> – <ul>
+                <li><m>Tha Raonaid a’ dèanamh rud</m>
+                    <en>Rachel is doing something</en></li>
+                <li><m>Tha Raonaid ag òl</m>
+                    <en>Rachel is drinking</en></li>
+            </ul>
+        </p>
+        <p>Notes – <ol>
+                <li>When the word preceding <g>ag</g> ends with a vowel, the particle often reduces
+                    to <g>’g</g> in speech, and occasionally in writing too eg. <m>tha mi ’g òl</m>
+                    <en>I’m drinking</en>, <m>thòisich i ’g ithe ùbhlan</m>
+                    <en>she started eating apples</en>.</li>
+                <li>In older writing, the <g>ag</g> form is sometimes found before consonants as
+                    well, eg. <g>ag bualadh</g>
+                    <en>(in the process of) hitting</en>.</li>
+                <li><g>ag</g> is used before <g>ràdh</g> (the verbal noun of <a href="?gd=abair"
+                            ><g>abair</g></a>
+                    <en>say</en>) ie. <m>ag ràdh</m><!-- and not <bad>a’ ràdh</bad>-->.</li>
+            </ol>
+        </p>
+    </section>
+    <section id="intrans">
+        <h>intransitive</h>
+        <p>Basic pattern – <ul>
+                <li><m>Tha Seumas ag èirigh</m>
+                    <en>James is rising</en></li>
+                <li><m>Tha Màiri a’ snàmh</m>
+                    <en>Mary is swimming</en></li>
+            </ul>
+        </p>
+        <p>Examples from dictionaries and grammars – <xl id="prog-intr-dictionary">
+                <li>
+                    <gd>Bha iad ag èigheach gu h-àrd. / Bha ag ràdh gun robh e sgìth.</gd>
+                    <tr>They were shouting loudly. / He was saying that he was tired.</tr>
+                    <ref text="601">td. 11</ref>
+                </li>
+            </xl>
+        </p>
+        <p>Older pedagogical examples – <xl id="prog-intr-older-pedag">
+                <li>
+                    <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                        Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an litir
+                        seo, Iain?” “Théid,” ars Iain, “falbhaidh mi an dràsda”. “Fuirich gus an
+                        dùin mi i is gus an cuir mi seòladh oirre. Ceannaich fhéin stamp agus cuir
+                        oirre i.” <m>Tha Iain a’ ruith sìos an rathad leis an litir ’na làimh.</m>
+                        Théid e a steach do oifig a’ phuist, ceannaichidh e stamp is cuiridh e sud
+                        air an litir. Tilgidh e an litir ann am bocsa nan litrichean. </gd>
+                    <tr>My mother is writing a letter to my father who is away. My mother said,
+                        “Will you go to the postbox with this letter, John?” “Yes, I will,” said
+                        John, “I will leave now.” “Wait until I seal it and put an address on it.
+                        Buy a stamp and put it on it.” John is running down the road with the letter
+                        in his hand. He will go into the post office, he will buy a stamp and put
+                        that on the letter. He will toss the letter into the postbox.</tr>
+                    <ref text="621">td. 5–6</ref>
+                </li>
+                <li>
+                    <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’
+                        chàr. Chaidh iad sìos taobh an locha is stad iad aig àite bòidheach gorm.
+                        Chuir iad an càr a stigh gu taobh an rathaid is thug iad brat a mach as a’
+                        chàr air son suidhe air. Tha bascaid làn de bhiadh aca is tha iad <m>a’
+                            dol</m> a ghabhail an tea air a’ chnocan ghorm. Is toigh leis a’ chloinn
+                        biadh a ghabhail a muigh ri latha brèagha. Thèid iad dhachaidh feasgar an
+                        uair a tha a’ ghrian <m>a’ dol</m> fodha.</gd>
+                    <tr>The day was lovely and warm and their father took John and Ann in the car.
+                        They went down the side of the lake and they stopped at a beautiful green
+                        place. They put the car into the side of the road and they took a blanket
+                        out of the car for sitting on. They have a basket full of food and they are
+                        going to have their tea on the little green hill. The children like eating
+                        al fresco on a nice day. They will go home in the evening when the sun is
+                        going down.</tr>
+                    <ref text="621">td. 6–7</ref>
+                </li>
+            </xl>
+        </p>
+        <p>Examples from Gairm – <xl id="prog-intr-gairm">
+                <li>
+                    <gd>Tha ar linn fhìn <m>a’ coimhead</m> gur e feallsanach mór a bh’ ann de
+                        Khierkegaard, gidheadh feallsanach eu-coltach ri a roi-shealbhadairean, ach
+                        a-mhàin, ’s math dh’ fhaoite, Nietzche.</gd>
+                    <tr>Our own era views Kierkegaard as a great philosopher, even if a philosopher
+                        different to his predecessors, aside from, perhaps, Nietzsche.</tr>
+                    <ref text="400-41">td. 103</ref>
+                </li>
+                <li>
+                    <gd>Ma bha Hegel <m>a’</m> déiligeadh ris an t-saoghal ar an taobh a-muigh,
+                        ’sann a bha Kierkegaard <m>a’</m> déiligeadh gu tric ris an fheallsanach
+                        fhéin.</gd>
+                    <tr>If Hegel dealt with the outside world, it was the philosopher himself that
+                        K. usually dealt with.</tr>
+                    <ref text="400-41">td. 103</ref>
+                </li>
+            </xl></p>
+        <p>Other examples from modern usage – <xl id="retro-intr-modern">
+                <li>
+                    <gd>[...] ’S ann an taigh Aonghais a’ Bhàillidh – caraid a bha còmhla ris san
+                        sgoil – a <m>bhiodh Rob a’ fuireach</m> nuair a bhiodh e aig an taigh. Bha
+                        muinntir Thòmais air an clachan fhàgail o chionn fhada. [...] </gd>
+                    <tr>[...] It was in Angus of the Baillie’s house – a friend who was with him in
+                        the school – that Rob would be staying when he would be at home. Thomàs’
+                        [Rob’s father] people had left the village long before. [...]</tr>
+                    <ref text="2">td. 5</ref>
+                    <note>Habitual usage.</note>
+                </li>
+            </xl>
+        </p>
+    </section>
+    <section id="trans-1">
+        <h>transitive with post-specifier</h>
+        <p>Basic pattern – <ul>
+                <li><m>Tha Raonaid a’ pògadh nam balach</m>
+                    <en>Rachel is kissing the boys</en></li>
+                <li><m>Tha Iain ag ithe ubhail</m>
+                    <en>John is eating an apple</en></li>
+            </ul>
+        </p>
+        <p>Pedagogical examples – <xl id="prog-trans-pedag">
+                <li>
+                    <gd>Bidh sinn a’ clàradh an òrain. / Chan eil iad a’ tuigsinn an t-suidheachaidh
+                        idir. / Chan eil mi ag iarraidh gum bi thu a’ rùsgadh nan ubhal air
+                        fad.</gd>
+                    <tr>We’ll be recording the song. / They don’t understand the situation at all. /
+                        We don’t want you to be peeling all the apples.</tr>
+                    <ref text="608">td. 122</ref>
+                </li>
+            </xl>
+        </p>
+        <p>Older pedagogical examples – <xl id="prog-trans-older-pedag">
+                <li>
+                    <gd>Tha mo mhàthair <m>a’ sgrìobhadh litreach</m> gu m’athair a tha air
+                        falbh.</gd>
+                    <tr>My mother is writing a letter to my father who is away.</tr>
+                    <ref text="621">td. 5</ref>
+                </li>
+            </xl>
+        </p>
+
+        <p>Examples from Gairm – <xl id="prog-trans-gairm">
+                <li>
+                    <gd>Bha feallsanach mar Hegel <m>a’</m> togail riaghailtean móra a dheanadh an
+                        saoghal air a thaobh a-muigh fhéin soilleir, ach cha b’ ann mar sin a bha
+                        Kierkegaard.</gd>
+                    <tr>A philosopher like Hegel constructed grand rules which made the external
+                        world itself clear but K. was not like that.</tr>
+                    <ref text="400-41">td. 103</ref>
+                </li>
+            </xl>
+        </p>
+        <p>Other examples from modern usage – <xl id="prog-trans-modern">
+                <li>
+                    <gd>[...] B’ e Rob a b’ òige agus lean e an sgoil. Nuair a ràinig e an
+                        t-oilthigh bha càch airson gun ionnsaicheadh e cunntasachd, a bhiodh feumail
+                        anns a’ mhalairt, ach ’s ann a bha ùidh-san ann an ealain. Dh’fhàg e an
+                        t-oilthigh agus chaidh e do sgoil ealain. Bha cuibhreann aige bho athair a
+                        bha tuilleadh ’s gu leòr airson fheumalachd ged a bha e dèidheil air a’
+                        bhotal, agus <m>cha robh e a’ dèanamh spàirn sam bith</m> airson faighinn
+                        air adhart san t-saoghal. <m>Bhiodh e a’ dèanamh sgrùdadh ealain</m> do
+                        phàipear-naidheachd agus corra dhealbh, ach bha a chaitheamh-beatha glè
+                        fhada bho ùpraid muinntir Thòmais, no ‘mafia’ Thòmais, mar a chanadh e
+                        fhèin. Nuair a dh’innis e gu robh e air nighean a thoirt a dh’fhuireach
+                        còmhla ris, thuirt Tòmas ri càch, [...]</gd>
+                    <tr>[...] Rob was the youngest [in the family] and he stayed on at school. When
+                        he reached the university the others wanted him to learn accountancy, which
+                        would be useful in the business, but his interest was in art. He left the
+                        university and went to an art school. He had an allowance from his father
+                        which more more than enough for his needs even though he was fond of the
+                        bottle, and he was not making any effort to get on in the world. He would be
+                        making art reviews for a newspaper and some pictures, but his way of life
+                        was very far from the commotion of Thomas’ people, or Thomas’ ‘mafia’, as he
+                        would say himself. When he announced that he had brought a girl to live with
+                        him, Thomas said to the others, [...]</tr>
+                    <ref text="2">td. 5</ref>
+                    <note>Habitual usage.</note>
+                </li>
+            </xl>
+        </p>
+    </section>
+    <section id="trans-2">
+        <h>transitive with possessive determiner</h>
+        <p>Basic pattern – <ul>
+                <li><m>Tha Raonaid gam mharbhadh</m>
+                    <en>Rachel is killing me</en></li>
+                <li><m>Tha Teàrlach gan atharrachadh</m>
+                    <en>Charles is changing them</en></li>
+            </ul>
+        </p>
+        <p>Examples from dictionaries and grammars – <xl id="prog-poss-dictionary">
+                <li>
+                    <gd>Tha iad gam bhrìodal. / Bidh sinn gur faicinn!</gd>
+                    <tr>They are flattering/courting me. / We’ll be seeing you!</tr>
+                    <ref text="605">td. 6</ref>
+                </li>
+                <li>
+                    <gd>A bheil sibh gam fhaicinn? / Cha bhi sinn ga do thoirt leinn? / Bidh iad ga
+                        fhosgladh an-dràsta. / A bheil sibh ga h-iarraidh a-staigh sa bhad? / Bidh
+                        iad gar coinneachadh a-màireach. / Cha bhi sinn gur leigeil a-staigh gus a
+                        deich. / Dè mu na cait? Am bi thu gan cumail an seo?</gd>
+                    <tr>Can you see me? / We won’t be taking you with us. / They’ll be opening it
+                        now. / Are you wanting her inside immediately? / They’ll be meeting us
+                        tomorrow. / We won’t be letting you in until ten. / What about the cats?
+                        Will you be keeping them here?</tr>
+                    <ref text="608">td. 123</ref>
+                </li>
+            </xl>
+        </p>
+        <section id="passive">
+            <h>progressive passive</h>
+            <p>When the possessive determiner agrees with the subject in person, number and gender,
+                a passive-like sense is possible – <ul>
+                    <li><m>Tha rud ga dhèanamh</m>
+                        <en>Something is being done</en></li>
+                    <li><m>Tha rudan gan dèanamh</m>
+                        <en>Things are being done</en></li>
+                </ul>
+            </p>
+            <p>Examples from dictionaries and grammars – <xl id="prog-pass-dictionary">
+                    <li>
+                        <gd>Bha a’ bhò ga bleoghann.</gd>
+                        <tr>The cow was being milked.</tr>
+                        <ref text="605">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Bha Gàidhlig ga bruidhinn air feadh Alba. / Tha leabhraichean gan reic
+                            anns a’ bhùth sin. / Bhiodh an t-òran sin ga ghabhail gu math tric air
+                            an rèidio.</gd>
+                        <tr>Gaelic was (being) spoken all over Scotland. / Books are being sold in
+                            that shop. / That song used to be sung fairly often on the radio.</tr>
+                        <ref text="609">td. 175</ref>
+                    </li>
+                    <li>
+                        <gd>A bheil mi ga mo chlàradh an-dràsta? / Bha thu ga do tharraing a-steach
+                            gun fhiosta. / Bha sinn gar bualadh le clachan.</gd>
+                        <tr>Am I being recorded now? / You were being drawn in unknowingly. / We
+                            were being struck by stones.</tr>
+                        <ref text="608">td. 138</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with implicit <g>bi</g> – <xl id="prog-pass-no-bi-dictionary">
+                    <li>
+                        <gd>“Cò tha an siud?” thuirt e, is e an doras ga fhosgladh. / Chuala mi
+                            uinneag ga fosgladh. / Leig iad sgreuch às, ’s iad gan sgaldàdh.</gd>
+                        <tr>“Who’s there?” he said, as the door was being opened. / I heard a window
+                            being opened. / They let out a scream, as they were being scalded.</tr>
+                        <ref text="608">td. 138</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Other examples from modern usage – <xl id="prog-pass-other">
+                    <li>
+                        <gd>Ann an Dùn Èideann anns na naochadan bha barrachd agus barrachd inbhich
+                            airson Gàidhlig ionnsachadh agus ged a nochd mòran chlasaichean agus
+                            cùrsaichean Gàidhlig airson iarrtasan nan daoine sin a fhreagradh,
+                                <m>bha ionnsachadh na Gàidhlig ga bhacadh gu mòr</m> air sgàth dìth
+                            shuidheachaidhean far an cluinnear <m>an cànan ga bruidhinn gu
+                                nàdarra</m>.</gd>
+                        <tr>In Edinburgh in the 90s there were more and more people wanting to learn
+                            Gaelic and although a lot of Gaelic classes and courses sprang up to
+                            respond to the demands of those people, Gaelic learning was largely
+                                inhibited because of lack of situations where one could hear
+                                <u>the language being spoken naturally</u>.</tr>
+                        <ref text="610">td. 85</ref>
+                    </li>
+                </xl></p>
+        </section>
+    </section>
+
+</module>

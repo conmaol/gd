@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">determiners</h>
+    <h lang="gd">ainmearan</h>
+    <p lang="en">Determiners are words which can be used as the pre-specifier of a <a
+            href="?xx=nouns/common_nouns">common noun</a> – <ul>
+            <li>the <a href="?xx=nouns/definite_article">definite article</a> – <b>an</b>
+                (<b>am</b>), <b>a’</b>, <b>na</b>, <b>nan</b> (<b>nam</b>)</li>
+            <li>the <a href="?xx=nouns/possessive_determiners">possessive determiners</a> –
+                    <b>mo</b>, <b>do</b>, <b>a</b>, <b>ar</b>, <b>bhur</b> (<b>ur</b>), <b>an</b>
+                    (<b>am</b>)</li>
+            <li><a href="?gd=gach">gach</a>
+                <en>each, every, all</en></li>
+        </ul> There are no demonstrative determiners in Gaelic, corresponding to
+                <en><u>this/that</u> (cat)</en>, <en><u>these/those</u> (cats)</en>. Rather, the
+        definite article is used with a following <a href="?xx=nouns/demonstrative_pronouns"
+            >demonstrative pronoun</a> – <b>an cat seo/sin/siud</b>, <b>na cait
+        seo/sin/siud</b>.</p>
+    <p lang="gd">...</p>
+</module>

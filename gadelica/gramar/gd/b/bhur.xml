@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">bhur</h>
+    <h lang="gd">bhur</h>
+    <p lang="en"><b>bhur</b>
+        <en>your</en> is the second person plural <a href="?xx=nouns/possessive_determiners">possessive
+            determiner</a>, related to the personal pronoun <a href="?gd=sibh">sibh</a> <en>you</en>.</p>
+    <p lang="gd">...</p>
+    <module id="noun">
+        <h lang="en">noun specifier</h>
+        <h lang="gd">...</h>
+        <p lang="en">Examples from Gairm – <xl id="noun-gairm-xs"> </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+    <module id="infinitive">
+        <h lang="en">with infinitives</h>
+        <h lang="gd">...</h>
+        <p lang="en">Examples from Gairm – <xl id="inf-gairm-xs"> </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+</module>
+
+

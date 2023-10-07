@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <!-- start at G12W ch. 10 -->
+  <h>aig</h>
+  <p><g>aig</g>
+    <en>at</en> is the (non-leniting) adessive <a href="?xx=prepositions/prepositions"
+      >preposition</a>.</p>
+  <section>
+    <h>forms</h>
+    <section id="indefinite">
+      <h>indefinite</h>
+      <p>The default form of the adessive preposition is simply <g>aig</g> – <ul>
+          <li><m>aig</m> balla <en>at a wall</en></li>
+          <li><m>aig</m> eaglaisean <en>at churches</en></li>
+          <li><m>aig</m> Tormod <en>at Norman</en></li>
+          <li><m>aig</m> còig craobhan <en>at five trees</en></li>
+        </ul></p>
+      <p>However, when the complement of <g>aig</g> is a verbal noun denoting an event or activity
+        in progress, the preposition takes the special form <a href="?gd=ag"><g>ag</g></a>, <eg/>
+        <g>ag ithe</g>
+        <en>(in the process of) eating</en>.</p>
+    </section>
+    <section id="definite">
+      <h>definite</h>
+      <p>Unlike with some other prepositions, there is no special form of <g>aig</g> used before the
+        definite article – <ul>
+          <li><m>aig an</m> taigh <en>at the house</en></li>
+          <li><m>aig a’</m> chraoibh <en>at the tree</en></li>
+          <li><m>aig na h-</m>eaglaisean <en>at the churches</en></li>
+        </ul>
+      </p>
+      <p>Fused forms are occasionally found when the immediately following word is a <a
+          href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+          <li><m>aig mo</m> thaigh <en>at my house</en> ≈ <g>gam</g> thaigh </li>
+          <li><m>aig do</m> bhaile <en>at your town</en> ≈ <g>gad</g> bhaile </li>
+          <li><m>aig a h-</m>eaglais <en>at her church</en> ≈ <g>ga h-</g>eaglais</li>
+          <li>
+            <m>aig a</m> chraoibh <en>at his tree</en> ≈ <g>ga</g> chraoibh</li>
+          <li><m>aig ar n-</m>achadh <en>at our field</en> ≈ <g>gar n-</g>achadh</li>
+          <li><m>aig bhur</m> leapannan <en>at your beds</en> ≈ <g>gur</g> leapannan</li>
+          <li><m>aig an</m> taighean <en>at their houses</en> ≈ <g>gan</g> taighean</li>
+          <li><m>aig am</m> baile <en>at their town</en> ≈ <g>gam</g> baile</li>
+        </ul></p>
+      <p>Note that these fused forms are often ambiguous and hence are probably best avoided in
+        writing. Note also that, in older texts, you will sometimes find them written with initial
+        apostrophes – <g>’gam thaigh</g>, <g>’gad bhaile</g>, ...</p>
+    </section>
+    <section id="pronouns">
+      <h>prepositional pronouns</h>
+      <p>Conjugated prepositions are used in place of <bad>aig mi</bad>, <bad>aig thu</bad>, ... ,
+          <bad>aig iad</bad> – <ul>
+          <li><m>agam</m>
+            <en>at me</en></li>
+          <li><m>agad</m>
+            <en>at you</en></li>
+          <li><m>aice</m>
+            <en>at her/it</en></li>
+          <li><m>aige</m>
+            <en>at him/it</en></li>
+          <li><m>againn</m>
+            <en>at us</en></li>
+          <li><m>agaibh</m>
+            <en>at you</en></li>
+          <li><m>aca</m>
+            <en>at them</en></li>
+        </ul>
+      </p>
+      <p>There are also emphatic forms (cf. <bad>aig mise</bad>, <bad>aig thusa</bad>, ... ,
+          <bad>aig iadsan</bad>) – <ul>
+          <li><m>agamsa</m>
+            <en>at <emph>me</emph></en></li>
+          <li><m>agadsa</m>
+            <en>at <emph>you</emph></en></li>
+          <li><m>aicese</m>
+            <en>at <emph>her/it</emph></en></li>
+          <li><m>aigesan</m>
+            <en>at <emph>him/it</emph></en></li>
+          <li><m>againne</m>
+            <en>at <emph>us</emph></en></li>
+          <li><m>agaibhse</m>
+            <en>at <emph>you</emph></en></li>
+          <li><m>acasan</m>
+            <en>at <emph>them</emph></en></li>
+        </ul>
+      </p>
+      <p>Note that the form <g>aigesan</g> breaks the ‘slender-to-slender, broad-to-broad’ spelling
+        rule, and hence is sometimes found written with a hyphen – <g>aige-san</g>.</p>
+      <p>Finally, there are also reflexive forms (cf. <bad>aig mi fhìn</bad>, <bad>aig thu
+          fhèin</bad>, ... , <bad>aig iad fhèin</bad>) – <ul>
+          <li><m>agam fhìn</m>
+            <en>at myself</en></li>
+          <li><m>agad fhèin</m>
+            <en>at yourself</en></li>
+          <li><m>aice fhèin</m>
+            <en>at herself/itself</en></li>
+          <li><m>aige fhèin</m>
+            <en>at himself/itself</en></li>
+          <li><m>againn fhìn</m>
+            <en>at ourselves</en></li>
+          <li><m>agaibh fhèin</m>
+            <en>at yourself</en></li>
+          <li><m>aca fhèin</m>
+            <en>at themselves</en></li>
+        </ul>
+      </p>
+    </section>
+  </section>
+  <section>
+    <h>dependents</h>
+    <section id="complement">
+      <h>complement</h>
+      <p>Like all (true) prepositions, <g>aig</g> governs a noun complement in the dative case.</p>
+      <p>These complements can belong to a number of different semantic classes.</p>
+      <section id="comp-human">
+        <h>humans</h>
+        <p>When the complement of <g>aig</g> denotes a human, they usually play the role of
+          possessor of something – <ul>
+            <li><m>aig Eilidh</m>
+              <en>in Helen’s possession</en></li>
+            <li><m>aig a’ chailleach</m>
+              <en>in the old woman’s possession</en></li>
+            <li><m>againn</m>
+              <en>in our possession</en></li>
+          </ul>
+        </p>
+        <p>The nature of the possessive relationship depends on the nature of the possession itself
+          – <ul>
+            <li>possession of concrete, material entities – <ul id="comp-human-concrete">
+                <li>proper noun possessors – <ul id="comp-human-concrete-proper-xs">
+                    <li>female – <ul>
+                        <li>pedagogical examples – <xl id="comp-human-concrete-proper-female-pedag">
+                            <li>
+                              <gd>Tha cù aig Màiri. Tha leabhar aig Anna. | Chan eil cat aig Màiri.
+                                | Agus chan eil taigh aig Uilleam no aig Màiri. | Tha dealbhannan
+                                aig Màiri agus tha feadhainn aig Anna cuideachd. | an càr aig
+                                Catrìona</gd>
+                              <tr>Mary has a dog. Ann has a book. | Mary doesn’t have a cat. | And
+                                neither Willeam nor Mary have a house. | Mary has photographs and
+                                Anna also has some. | Catherine’s car</tr>
+                              <ref text="609">td. 2 | 4 | 7 | 81 | 85</ref>
+                            </li>
+                          </xl>
+                        </li>
+                      </ul>
+                    </li>
+                    <li>male – <ul>
+                        <li>pedagogical examples – <xl id="comp-human-concrete-proper-male-pedag">
+                            <li>
+                              <gd>Tha cat aig Iain. Tha taigh aig Seumas. | Tha càr aig Seumas. |
+                                Chan eil deoch aig Dòmhnall. Nach eil cù aig Dòmhnall? | an leabhar
+                                aig Iain</gd>
+                              <tr>John has a cat. James has a house. | James has a car. | Donald
+                                doesn’t have a drink. Doesn’t Donald have a dog? | John’s book</tr>
+                              <ref text="609">td. 2 | 195 | 4 | 85</ref>
+                            </li>
+                            <li>
+                              <gd>Tha càr aig Dòmhnall. A bheil sgian aig Calum?</gd>
+                              <tr>Donald has a car. Does Calum have a knife?</tr>
+                              <ref text="601">td. 15</ref>
+                            </li>
+                          </xl>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li>common noun possessors – <ul id="comp-human-concrete-common-xs">
+                    <li>pedagogical examples – <xl id="comp-human-noun-pedag">
+                        <li>
+                          <gd>Chan eil aig an iasgair air fhàgail ach lìontan sracte</gd>
+                          <tr>The fisherman has nothing left but torn nets.</tr>
+                          <ref text="601">td. 15</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+                <li>prepositional pronoun possessors – <ul id="comp-human-concrete-pron-xs">
+                    <li><g>agam</g> – <ul>
+                        <li>pedagogical examples – <xl id="comp-human-concrete-agam-pedag">
+                            <li>
+                              <gd>Tha càr agam. | Tha deoch agam. | Chan eil taigh agam. | an cat
+                                agam | Tha basaidh agam an seo. | an cù agamsa </gd>
+                              <tr>I have a car. | I have a drink. | I have no house. | my cat | I’ve
+                                got a basin here. | James is not my teacher. | <emph>my</emph>
+                                dog</tr>
+                              <ref text="609">td. 3 | 195 | 7 | 14 | 19 | 33</ref>
+                            </li>
+                            <li>
+                              <gd>Tha bàta agam.</gd>
+                              <tr>I have a boat.</tr>
+                              <ref text="601">td. 14</ref>
+                            </li>
+                          </xl>
+                        </li>
+                      </ul>
+                    </li>
+                    <li><g>agad</g> – <ul>
+                        <li>pedagogical examples – <xl id="comp-human-concrete-agad-pedag">
+                            <li>
+                              <gd>Tha leabhar agad. | A-nis, a bheil càr agad? Agus a bheil taigh
+                                agad? A bheil deoch agad? | an cù agad | a’ bhò agad | A bheil a’
+                                bhròg agad ro theann? | an cat agad fhèin | Nach ann agadsa a bha an
+                                iuchair?</gd>
+                              <tr>You have a book. | Now, do you have a car? And do you have a
+                                house? Do you have a drink? | your dog | your cow | Is your shoe too
+                                tight? | your own cat | Wasn’t it <emph>you</emph> who had the
+                                key?</tr>
+                              <ref text="609">td. 3 | 7 | 14 | 195 | 19 | 48 | 57</ref>
+                            </li>
+                          </xl>
+                        </li>
+                      </ul>
+                    </li>
+                    <li><g>aice</g> – <ul>
+                        <li>pedagogical examples – <xl id="comp-human-concrete-aice-pedag">
+                            <li>
+                              <gd>Nach eil taigh aice? | an càr aicese | an càr aice fhèin | Òlaidh
+                                Anna an tì aice.</gd>
+                              <tr>Doesn’t she have a house? | <emph>her</emph> car | Ann will drink
+                                her tea.</tr>
+                              <ref text="609">td. 4 | 33 | 197</ref>
+                            </li>
+                          </xl>
+                        </li>
+                      </ul>
+                    </li>
+                    <li><g>aige</g> – <ul>
+                        <li>pedagogical examples – <xl id="comp-human-concrete-aige-pedag">
+                            <li>
+                              <gd>Tha taigh aige. | Nach eil càr aige? | Tha Raghnall an seo. Tha
+                                rùm aige. Tha leabhar aige agus tha e math.</gd>
+                              <tr>He has a house. | Doesn’t he have a car? | Ronald is here. He has
+                                a room. He has a book and it’s good.</tr>
+                              <ref text="609">td. 3 | 195 | 7</ref>
+                            </li>
+                          </xl>
+                        </li>
+                      </ul>
+                    </li>
+                    <li><g>againn</g> – <ul>
+                        <li>pedagogical examples – <xl id="comp-human-concrete-againn-pedag">
+                            <li>
+                              <gd>Tha taigh againn. | a’ bho againn | an cù againn | an t-aodach
+                                againn fhìn</gd>
+                              <tr>We have a house. | our cow | our dog | our own clothes</tr>
+                              <ref text="609">td. 3 | 14 | 195 | 48</ref>
+                            </li>
+                          </xl>
+                        </li>
+                      </ul>
+                    </li>
+                    <li><g>agaibh</g> – <ul>
+                        <li>pedagogical examples – <xl id="comp-human-concrete-agaibh-pedag">
+                            <li>
+                              <gd>an leabhar agaibhse</gd>
+                              <tr><emph>your</emph> book</tr>
+                              <ref text="609">td. 33</ref>
+                            </li>
+                          </xl>
+                        </li>
+                      </ul>
+                    </li>
+                    <li><g>aca</g> – <ul>
+                        <li>pedagogical examples – <xl id="comp-human-concrete-aca-pedag">
+                            <li>
+                              <gd>Chan eil cù no cat aca. | an deoch aca | an sgoil acasan | a’
+                                chraobh a tha an taigh aca foidhpe</gd>
+                              <tr>They don’t have a dog or a cat. | their drink | <emph>their</emph>
+                                school | the tree that their house is under </tr>
+                              <ref text="609">td. 7 | 15 | 33 | 123</ref>
+                            </li>
+                          </xl>
+                        </li>
+                        <li>older pedagogical examples – <xl
+                            id="comp-human-concrete-aca-older-pedag">
+                            <li>
+                              <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                                anns a’ chàr. Chaidh iad sìos taobh an locha is stad iad aig àite
+                                bòidheach gorm. Chuir iad an càr a stigh gu taobh an rathaid is thug
+                                iad brat a mach as a’ chàr air son suidhe air. <m>Tha bascaid làn de
+                                  bhiadh aca</m> is tha iad a’ dol a ghabhail an tea air a’ chnocan
+                                ghorm. [...]</gd>
+                              <tr>The day was lovely and warm and their father took John and Ann in
+                                the car. They went down the side of the lake and they stopped at a
+                                beautiful green place. They put the car into the side of the road
+                                and they took a blanket out of the car for sitting on. They have a
+                                basket full of food and they are going to have their tea on the
+                                little green hill. [...] </tr>
+                              <ref text="621">td. 6–7</ref>
+                            </li>
+                          </xl>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li>questions – <ul id="comp-human-concrete-questions-xs">
+                    <li>pedagogical examples – <xl id="comp-human-concrete-quest-pedag">
+                        <li>
+                          <gd>Cò aige a tha an iuchair?</gd>
+                          <tr>Who has the key?</tr>
+                          <ref text="609">td. 125</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>‘possession’ of people – <ul id="comp-human-people">
+                <li>pedagogical examples – <xl id="comp-human-people-xs">
+                    <li>
+                      <gd>Tha caileag agus balach aca. | Chan e Seumas an tidsear agam. Tha balach
+                        aice. Is e Màiri am ministear ùr aca. | Is e Seumas (an duine) as sine anns
+                        an teaghlach aige.</gd>
+                      <tr>They have a girl and a boy. | James is not my teacher. She has a boy. Mary
+                        is their new minister. | James is the eldest in his family.</tr>
+                      <ref text="609">td. 7 | 195 | 198</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>possession of more abstract entities, like money or knowledge – <ul
+                id="comp-human-abstract">
+                <li>pedagogical examples – <xl id="comp-human-abstract-xs">
+                    <li>
+                      <gd>Cha robh airgead gu leòr aig Màiri. | Chan eil sgillinn aig Seumas. | Tha
+                        gu leòr agam. | An do rinn thusa an obair agadsa? | Agus dè an obair a tha
+                        agad an sin? | Chuala mi an guth aice, bha mi a’ smaoineachadh. | Cha tèid
+                        Màiri air lathaichean-saora ged a bhios an t-airgead aice. | Agus nach robh
+                        taghadh-pàrlamaid anns an Fhraing? – Bha agus thagh iad ceann-suidh ùr air
+                        a’ phàrlamaid aca. | Am faigh iad na lathaichean saora aca a-màireach? |
+                        Chan eil fios aig Anna dè a thachair. | Tha òrain gu leòr acasan. | Dè na
+                        planaichean a bhiodh agad airson luchd-ionnsachaidh na Gàidhlig ann an Alba
+                        an-diugh? Chumadh sin a’ Ghàidhlig aca fileanta fuasgailte.</gd>
+                      <tr>Mary didn’t have enough money. | James hasn’t got a penny. | I have
+                        enough. | Did <emph>you</emph> do <emph>your</emph> work? | And what’s your
+                        job there? | I heard her voice, I thought. | Mary will not go on holiday
+                        even though she will have the money. | And wasn’t there a parliamentary
+                        election in France? – Yes, and they elected a new president for their
+                        parliament. | Will they get their holidays tomorrow? | Ann doesn’t know what
+                        happened. | They have songs galore. | What plans would you have for Gaelic
+                        learners in Scotland today? That would keep their Gaelic fluent and
+                        active.</tr>
+                      <ref text="609">td. 15 | 5 | 35 | 37 | 66 | 50 | 105 | 83 | 197 | 78 | 116 |
+                        150</ref>
+                    </li>
+                    <li>
+                      <gd>gach nì a tha agam | Bha airgead gu leòr aige.</gd>
+                      <tr>all that I have/possess | He had plenty of money.</tr>
+                      <ref text="601">td. 15 | ibid</ref>
+                    </li>
+                  </xl>
+                </li>
+                <li>examples from Gairm – <xl id="comp-human-semi-concrete-aige-gairm">
+                    <li>
+                      <gd>Bha beagan airgid aige ’s mar sin chaith e a bheatha a’ sgrìobhadh, gun
+                        feum aige air obair eile a dhèanamh.</gd>
+                      <tr>He had a little money and therefore he devoted his life to writing,
+                        without the need to do other work.</tr>
+                      <ref text="400-41">td. 103</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </p>
+      </section>
+      <section id="inanimate">
+        <h>inanimate objects</h>
+        <p>When the complement of <g>aig</g> denotes an inanimate object, like an artifact or a
+          geographical feature, it usually marked the reference point for a physical location – <ul>
+            <li><m>aig taigh solais</m>
+              <en>[located] at a lighthouse</en></li>
+            <li><m>aig an eas</m>
+              <en>[located] at the waterfall</en></li>
+          </ul>
+        </p>
+        <p>Some examples – <ul>
+            <li>artifacts – <ul id="comp-inanimate-artifact-xs">
+                <li>pedagogical examples – <xl id="comp-inanimate-artifact-pedag">
+                    <li>
+                      <gd>Bha iad nan suidhe aig bòrd mòr. | Tha [an siùcar] thall an sin aig an
+                        doras. | Bha mi aig an taigh Diluain. | aig balla | aig geata | aig an
+                        uinneig</gd>
+                      <tr>They were sitting at a large table. | [The sugar] is over there at the
+                        door. | I was at home on Monday. | at a wall | at a gate | at the
+                        window</tr>
+                      <ref text="601">td. 14 | 34 | 39 | 62 | 196 | 69</ref>
+                    </li>
+                    <li>
+                      <gd>Chunnaic mi cù aig an dorus.</gd>
+                      <tr>I saw a dog at the door.</tr>
+                      <ref text="617">td. 6</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>geographical features – <ul id="comp-inanimate-geo-xs">
+                <li>pedagogical examples – <xl id="comp-inanimate-geo-pedag">
+                    <li>
+                      <gd>Bha [sinn] gu tric air Loch na Creige agus aig Linne na Ciste.</gd>
+                      <tr>[We] were often on Loch na Creige and at Linne na Ciste.</tr>
+                      <ref text="609">td. 99</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </p>
+      </section>
+      <section id="comp-spatial">
+        <h>places and spaces</h>
+        <p>When the complement of <g>aig</g> denotes a space or place, the sense is again locative – <ul>
+            <li>older pedagogical examples – <xl id="comp-place-older-pedag">
+                <li>
+                  <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’ chàr.
+                    Chaidh iad sìos taobh an locha is stad iad aig àite bòidheach gorm. [...]</gd>
+                  <tr>The day was lovely and warm and their father took John and Ann in the car.
+                    They went down the side of the lake and they stopped at a beautiful green place.
+                    [...] </tr>
+                  <ref text="621">td. 6–7</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <p>When the complement of <g>aig</g> denotes a social occasion or event, it marks the
+          location of attendance – <ul>
+            <li><m>aig a’ bhanais</m>
+              <en>[located] at [the place where] the wedding [is happening]</en></li>
+          </ul>
+        </p>
+        <p>Some examples – <ul id="comp-event-xs">
+            <li>pedagogical examples – <xl id="comp-event-pedag">
+                <li>
+                  <gd>An robh thu aig a’ chèilidh? | Chuala sinn Anna a’ seinn aig a’ chèilidh
+                    a-raoir.</gd>
+                  <tr>Were you at the ceilidh? | We heard Ann singing at the ceilidh last
+                    night.</tr>
+                  <ref text="609">td. 40 | 58</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+      </section>
+      <section id="comp-time">
+        <h>times</h>
+        <p>When the complement of <g>aig</g> denotes a clock time (or equivalent), the sense is a
+          temporal locative – <ul>
+            <li><m>aig ceithir uairean</m>
+              <en>at 4 o’clock</en></li>
+            <li><m>aig meadhan latha</m>
+              <en>at noon</en></li>
+          </ul>
+        </p>
+        <p>Some examples – <ul>
+            <li>pedagogical examples – <xl id="comp-time-pedag">
+                <li>
+                  <gd>aig deireadh an latha | aig seachd uairean</gd>
+                  <tr>at the end of the day | at seven o’clock</tr>
+                  <ref text="601">td. 14 | ibid</ref>
+                </li>
+                <li>
+                  <gd>Nach fhalbhadh Anna aig dà uair? | Nam biodh tu ann aig deich uairean
+                    dh’fhalbhadh sinn còmhla.</gd>
+                  <tr>Wouldn’t Ann leave at two o’clock? | If you were there at ten o’clock we would
+                    leave together.</tr>
+                  <ref text="609">td. 136 | 138</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+      </section>
+    </section>
+  </section>
+  <section>
+    <h>uses</h>
+    <section id="uses-pred">
+      <h>predicate</h>
+      <p>One common use of the preposition <g>aig</g> is to introduce the predicate of the verb <a
+          href="?gd=bi"><g>bi</g></a> – <ul>
+          <li><m>Tha</m> Seònaid <m>aig</m> an taigh sholais. <en>Shona is at the
+            lighthouse</en>.</li>
+          <li><m>Tha</m> each ùr <m>againn</m>. <en>We have a new horse.</en></li>
+          <li><m>Bidh</m> a’ chèilidh <m>aig</m> ochd uairean. <en>The ceilidh will be at eight
+              o’clock.</en></li>
+        </ul>
+      </p>
+      <p>Some specific subtypes of predicate relation are described in the following sections.</p>
+      <section id="uses-pred-location">
+        <h>location</h>
+        <p>Predicative <g>aig</g> can be used to state the (adessive) location of an entity with
+          respect to another (concrete or abstract) entity – <ul>
+            <li>Càite a bheil Seònaid? <en>Where is Shona?</en>
+              <ul>
+                <li>Tha i <m>aig a’ charragh chuimhne chogaidh</m>. <en>She is at the war
+                    memorial.</en></li>
+                <li>Tha i <m>aig an loch</m>. <en>She is at the loch.</en></li>
+                <li>Tha i <m>aig adhlacadh Nèill</m>. <en>She is at Neil’s funeral.</en></li>
+              </ul>
+            </li>
+          </ul>
+        </p>
+        <!-- <p>Note – <bad>Cò aige a bheil Seònaid? – Tha i aig an loch.</bad></p> -->
+        <p>Some examples – <ul id="uses-pred-location-xs">
+            <li>at a physical object – <ul>
+                <li>pedagogical examples – <xl id="uses-pred-location-phys-pedag">
+                    <li>
+                      <gd>Tha [an siùcar] thall an sin aig an doras. | Bha mi aig an taigh
+                        Diluain.</gd>
+                      <tr>[The sugar] is over there at the door. | I was at home on Monday.</tr>
+                      <ref text="609">td. 34 | 39</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>at a geographical feature – <ul>
+                <li>pedagogical examples – <xl id="uses-pred-location-geo-pedag">
+                    <li>
+                      <gd>An robh sibh ag iasgach còmhla riutha? – Bha [agus sinn] gu tric air Loch
+                        na Creige agus aig Linne na Ciste.</gd>
+                      <tr>Were you fishing along with them? – Yes, often on Loch na Creige and at
+                        Linne na Ciste.</tr>
+                      <ref text="609">td. 99</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>at a social occasion – <ul>
+                <li>pedagogical examples – <xl id="uses-pred-location-event-pedag">
+                    <li>
+                      <gd>An robh thu aig a’ chèilidh?</gd>
+                      <tr>Were you at the ceilidh?</tr>
+                      <ref text="601">td. 40</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+          </ul></p>
+      </section>
+      <section id="uses-pred-possession">
+        <h>possession</h>
+        <p>Predicative <g>aig</g> can be used to state the possessor of an entity – <ul>
+            <li>Cò aige a tha am bàta seo? <en>Whose is this boat?</en>
+              <ul>
+                <li>Tha e <m>aig Dòmhnall</m>. <en>It is Donald’s.</en></li>
+              </ul>
+            </li>
+            <li>Dè a tha aig Màiri? <en>What does Mary have?</en><ul>
+                <li>Tha cuilean <m>aice</m>. <en>She has a puppy.</en></li>
+              </ul>
+            </li>
+          </ul>
+        </p>
+        <p>Some examples – <ul id="uses-pred-possess-xs">
+            <li>possession of artifacts – <ul>
+                <li>vehicles – <ul>
+                    <li>pedagogical examples – <xl id="uses-pred-possession-vehicles-pedag">
+                        <li>
+                          <gd>A-nis, a bheil càr agad? – Tha, tha càr agam ach chan eil e mòr
+                            idir.</gd>
+                          <tr>Now, do you have a car? – I have a car but it’s not big at all.</tr>
+                          <ref text="609">td. 7</ref>
+                        </li>
+                        <li>
+                          <gd>Tha bàta agam. Tha càr aig Dòmhnall.</gd>
+                          <tr>I have a boat. Donald has a car.</tr>
+                          <ref text="601">td. 14–5</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+                <li>possession of buildings and property – <ul>
+                    <li>pedagogical examples – <xl id="uses-pred-possession-buildings-pedag">
+                        <li>
+                          <gd>A bheil taigh aig Seumas an seo? – Tha, tha taigh aig Seumas an siud.
+                            Tha taigh aig Dòmhnall cuideachd agus tha e brèagha. Agus a bheil taigh
+                            agad? – Chan eil, chan eil taigh agam. Chan eil airgead agam. Agus chan
+                            eil taigh aig Uilleam no aig Màiri. A bheil Raghnall an seo? – Tha, tha
+                            Raghnall an seo. Tha rùm aige.</gd>
+                          <tr>Does James have a house here? – Yes, James has a house over there.
+                            Donald has a house also, and it’s lovely. And do you have a house? – I
+                            have no house. I have no money. And neither William nor Mary have a
+                            house. Is Ronald here? – Ronald is here. He has a room.</tr>
+                          <ref text="609">td. 7</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+                <li>possession of clothing – <ul>
+                    <li>pedagogical examples – <xl id="uses-pred-possession-clothing-pedag">
+                        <li>
+                          <gd>A bheil a’ bhròg [a tha] agad ro theann? | an t-aodach [a tha]
+                            againne</gd>
+                          <tr>Is your shoe too tight? | <emph>our</emph> clothes</tr>
+                          <ref text="609">td. 19 | 33</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+                <li>possession of other artifacts – <ul>
+                    <li>pedagogical examples – <xl id="uses-pred-possession-artifacts-other-pedag">
+                        <li>
+                          <gd>Tha leabhar aig Anna. | Tha basaidh agam an seo. | Nach ann agadsa a
+                            bha an iuchair? | Tha dealbhannan aig Màiri agus tha feadhainn aig Anna
+                            cuideachd. | Cò aige a tha an iuchair?</gd>
+                          <tr>Ann has a book. | I’ve got a basin here. | Wasn’t it you who had the
+                            key? | Mary has photographs and Anna also has some. | Who has the
+                            key?</tr>
+                          <ref text="609">td. 2 | 19 | 57 | 81 | 125</ref>
+                        </li>
+                        <li>
+                          <gd>A bheil sgian aig Calum? Chan eil aig an iasgair air fhàgail ach
+                            lìontan sracte.</gd>
+                          <tr>Does Calum have a knife? The fisherman has nothing left but torn
+                            nets.</tr>
+                          <ref text="601">td. 15</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>possession of food and drink – <ul>
+                <li>pedagogical examples – <xl id="uses-pred-possession-food-pedag">
+                    <li>
+                      <gd>A bheil deoch agad? – Tha, tha deoch agam an seo – blàth agus làidir. |
+                        Òlaidh Anna an tì [a tha] aice.</gd>
+                      <tr>Do you have a drink? – I have a drink here – warm and strong. | Ann will
+                        drink her tea.</tr>
+                      <ref text="609">td. 7 | 197</ref>
+                    </li>
+                  </xl>
+                </li>
+                <li>older pedagogical examples – <xl id="use-pred-older-pedag">
+                    <li>
+                      <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’
+                        chàr. Chaidh iad sìos taobh an locha is stad iad aig àite bòidheach gorm.
+                        Chuir iad an càr a stigh gu taobh an rathaid is thug iad brat a mach as a’
+                        chàr air son suidhe air. Tha <m>bascaid làn de bhiadh</m> aca is tha iad a’
+                        dol a ghabhail an tea air a’ chnocan ghorm. [...]</gd>
+                      <tr>The day was lovely and warm and their father took John and Ann in the car.
+                        They went down the side of the lake and they stopped at a beautiful green
+                        place. They put the car into the side of the road and they took a blanket
+                        out of the car for sitting on. They have a basket full of food and they are
+                        going to have their tea on the little green hill. [...] </tr>
+                      <ref text="621">td. 6–7</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>possession of money – <ul>
+                <li>pedagogical examples – <xl id="uses-pred-possession-money-pedag">
+                    <li>
+                      <gd>Chan eil not agam. Chan eil aig Seumas ach sgillinn. | Agus a bheil taigh
+                        agad? – Chan eil, chan eil taigh agam. Chan eil airgead agam. | Cha tèid
+                        Màiri air lathaichean-saora ged a bhios an t-airgead aice.</gd>
+                      <tr>I haven’t got a pound. James has only a penny. And do you have a house? –
+                        I have no house. I have no money. | Mary will not go on holiday even though
+                        she will have the money.</tr>
+                      <ref text="609">td. 5 | 7 | 105</ref>
+                    </li>
+                    <li>
+                      <gd>Bha airgead gu leòr aige. Cha robh airgead gu leòr aig Màiri.</gd>
+                      <tr>He had plenty of money. Mary didn’t have enough money.</tr>
+                      <ref text="601">td. 15</ref>
+                    </li>
+                  </xl>
+                </li>
+                <li>examples from Gairm – <xl id="uses-pred-possession-money-gairm">
+                    <li>
+                      <gd>Bha beagan airgid aige ’s mar sin chaith e a bheatha a’ sgrìobhadh, gun
+                        feum aige air obair eile a dhèanamh.</gd>
+                      <tr>He had a little money and therefore he devoted his life to writing,
+                        without the need to do other work.</tr>
+                      <ref text="400-41">td. 103</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>possession of pets and other animals – <ul>
+                <li>pedagogical examples – <xl id="uses-pred-possession-animals-pedag">
+                    <li>
+                      <gd>A bheil cù agus cat aca, a bheil fios agad? – Chan eil, chan eil cù no cat
+                        aca. | a’ bhò [a tha] againn</gd>
+                      <tr>Do they have a dog and cat, do you know? – No, they don’t have a dog or a
+                        cat. | our cow</tr>
+                      <ref text="609">td. 7 | 14 </ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>‘possession’ of other humans – <ul>
+                <li>pedagogical examples – <xl id="uses-pred-possession-humans-pedag">
+                    <li>
+                      <gd>Tha balaich aice. | Agus chan eil taigh aig Uilleam no aig Màiri. Tha
+                        caileag agus balach aca. | Chan e Seumas an tidsear [a tha] agam. Is e Màiri
+                        am ministear ùr [a tha] aca. | Is e Seumas (an duine) as sine anns an
+                        teaghlach [a tha] aige.</gd>
+                      <tr>She has boys. | And neither Willeam nor Mary have a house. They have a
+                        girl and a boy. | James is not my teacher. Mary is their new minister. |
+                        James is the eldest in his family.</tr>
+                      <ref text="609">td. 195 | 7 | 195 | 198</ref>
+                    </li>
+                    <li>
+                      <gd>Cò a tha agam an seo?</gd>
+                      <tr>Who is this? Who do I have here? [answering the telephone]</tr>
+                      <ref text="609">td. 116</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>possession of body parts (and associated behaviours) – <ul>
+                <li>pedagogical examples – <xl id="uses-pred-possession-body-pedag">
+                    <li>
+                      <gd>Chuala mi an guth [a bha] aice, bha mi a’ smaoineachadh.</gd>
+                      <tr>I heard her voice, I thought.</tr>
+                      <ref text="609">td. 50</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>possession of more abstract entities – <ul>
+                <li>pedagogical examples – <xl id="uses-pred-possession-misc-pedag">
+                    <li>
+                      <gd>Tha gu leòr agam. | Agus dè an obair a tha agad an sin? | A bheil gu leòr
+                        agad? | Dè na planaichean a bhiodh agad airson luchd-ionnsachaidh na
+                        Gàidhlig ann an Alba an-diugh? | Am faigh iad na lathaichean saora [a tha]
+                        aca a-màireach? | Bhiodh e na b’ fhasa do mhòran luchd-ionnsachaidh air a’
+                        Ghalltachd nam biodh cothrom aca air cùrsaichean a bhiodh na b’ fhaisge
+                        orra.</gd>
+                      <tr>I have enough. | And what’s your job there? | Do you have enough? | What
+                        plans would you have for Gaelic learners in Scotland today? | Will they get
+                        their holidays tomorrow? | It would be easier for most of the learners in
+                        the Lowlands if they had an opportunity to have courses that were nearer
+                        them.</tr>
+                      <ref text="609">td. 35 | 66 | 91 | 150 | 118 | 150</ref>
+                    </li>
+                    <li>
+                      <gd>gach nì a tha agam</gd>
+                      <tr>all that I have/possess</tr>
+                      <ref text="601">td. 15</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </p>
+      </section>
+      <section id="uses-pred-temporal">
+        <h>temporal</h>
+        <p>Predicative <g>aig</g> can be used to state the location of an event in clock time – <ul>
+            <li>Cùine a bhios a’ choinneamh? / Dè an uair a bhios a’ choinneamh? <en>When / at what
+                time will the meeting be?</en>
+              <ul>
+                <li><m>Bidh</m> i <m>aig</m> uair. <en>It will be at one o’clock.</en></li>
+              </ul>
+            </li>
+          </ul>
+        </p>
+      </section>
+      <section id="uses-pred-knowledge">
+        <h>knowledge</h>
+        <p>Predicative <g>aig</g> can be used to state that someone knows something – <ul>
+            <li><m>Tha</m> Gàidhlig <m>aig</m> Raonaid. <en>Rachel knows Gaelic.</en></li>
+            <li><m>Tha</m> fios <m>aca</m> gu bheil Màiri pòsta. <en>They know that Mary is
+                married.</en></li>
+          </ul>
+        </p>
+        <p>Some examples – <ul id="uses-pred-know-xs">
+            <li>pedagogical examples – <xl id="uses-pred-know-pedag">
+                <li>
+                  <gd>Seinnidh Pàdraig agus Catrìona co-dhiù. Tha òrain gu leòr acasan. | Chumadh
+                    sin a’ Ghàidhlig [a tha] aca fileanta fuasgailte.</gd>
+                  <tr>Patrick and Catherine will sing anyway. They have songs galore. | That would
+                    keep their Gaelic fluent and active.</tr>
+                  <ref text="609">td. 116 | 150</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <p>See also – <ul>
+            <li><g>bi <a href="?gd=fios">fios</a> aig ...</g>
+              <en>know that ...</en></li>
+            <li><g>bi <a href="?gd=sgeul">sgeul</a> air ... aig ...</g>
+              <en>know where something is</en></li>
+          </ul>
+        </p>
+      </section>
+      <section id="uses-pred-other">
+        <h>other</h>
+        <p>Some idioms – <ul>
+            <li><g>bi <a href="?gd=feum">feum</a> air ... aig ...</g>
+              <en>need something</en></li>
+          </ul>
+        </p>
+        <p>Miscellaneous predicative examples – <ul>
+            <li>pedagogical examples – <xl id="uses-pred-other-pedag">
+                <li>
+                  <gd>Gu robh math agad/agaibh!</gd>
+                  <tr>Thank you!</tr>
+                  <ref text="609">td. 59 [176]</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+      </section>
+    </section>
+    <section id="uses-comp">
+      <h>complement</h>
+      <p>The <g>aig</g> prepositional pronouns are occasionally found used as the complement of a
+        quantity noun, with a partitive meaning, as an alternative to the more usual <a
+          href="?gd=dhe"><g>dhe</g></a>
+        <en>of</en> – <ul>
+          <li><g>mòran aca</g>
+            <en>many of them</en></li>
+          <li><g>seachdnar aca</g>
+            <en>seven of them</en></li>
+        </ul>
+      </p>
+      <p>Some examples – <ul id="uses-comp-xs">
+          <li>pedagogical examples – <xl id="uses-comp-pedag">
+              <li>
+                <gd>Bha dithis(t) aca ann. | Dh’iarainn gum biodh cuid aca air a’ Ghàidhealtachd a
+                  chionn is gur h-ann an sin as motha a tha a’ Ghàidhlig beò.</gd>
+                <tr>There were two of them there. | I would want some of them to be in the Gaelic
+                  speaking area since that is where Gaelic is most alive.</tr>
+                <ref text="609">td. 150</ref>
+              </li>
+            </xl>
+          </li>
+        </ul>
+      </p>
+      <p>Some examples as a verbal complement – <xl id="uses-obj-verb-xs">
+          <li>
+            <gd>Chunnaic mi cù aig an dorus.</gd>
+            <tr>I saw a dog at the door.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="uses-modifier">
+      <h>modifier</h>
+      <p>Another common use of the preposition <g>aig</g> is to introduce a modifier of a verb or
+        noun – <ul>
+          <li><m>Lorg</m> Raonaid an cù <m>aig</m> an taigh sholais. <en>Rachel found the dog at the
+              lighthouse.</en></li>
+          <li>a’ <m>choinneamh</m>
+            <m>aig</m> còig uairean <en>the meeting at five o’clock</en></li>
+        </ul>
+      </p>
+      <section id="uses-mod-adverbal">
+        <h>adverbal</h>
+        <p>The preposition <g>aig</g> can introduce locative and temporal modifiers of verbs – <ul>
+            <li><m>Dh’òladh</m> Raonaid fìon dearg <m>aig</m> an taigh. <en>Rachel would drink red
+                wine at home.</en></li>
+            <li><m>Bha</m> Dòmhnall a’ leughadh <m>aig</m> leth uair an dèidh seachd uairean.
+                <en>Donald was reading at half past seven.</en></li>
+          </ul>
+        </p>
+        <p>Some examples – <ul id="uses-mod-adverb-xs">
+            <li>locative modifiers – <ul>
+                <li>pedagogical examples – <xl id="uses-mod-adv-loc-pedag">
+                    <li>
+                      <gd>Bha iad nan suidhe aig bòrd mòr.</gd>
+                      <tr>They were sitting at a large table.</tr>
+                      <ref text="601">td. 14</ref>
+                    </li>
+                    <li>
+                      <gd>An robh sibh ag iasgach còmhla riutha? – Bha gu tric air Loch na Creige
+                        agus aig Linne na Ciste. | Dh’innis Iain dhomh gur h-e Màiri a sheinn aig a’
+                        chèilidh.</gd>
+                      <tr>Were you fishing along with them? – Yes, often on Loch na Creige and at
+                        Linne na Ciste. | John told me that it was Mary who sang at the
+                        ceilidh.</tr>
+                      <ref text="609">td. 99 | 145</ref>
+                    </li>
+                  </xl>
+                </li>
+                <li>older pedagogical examples – <xl id="uses-mod-adv-loc-older-pedag">
+                    <li>
+                      <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’
+                        chàr. Chaidh iad sìos taobh an locha is stad iad aig àite bòidheach gorm.
+                        [...]</gd>
+                      <tr>The day was lovely and warm and their father took John and Ann in the car.
+                        They went down the side of the lake and they stopped at a beautiful green
+                        place. [...]</tr>
+                      <ref text="621">td. 6–7</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>temporal modifiers – <ul>
+                <li>pedagogical examples – <xl id="uses-mod-adv-temp-pedag">
+                    <li>
+                      <gd>Nach fhalbhadh Anna aig dà uair? | Nam biodh tu ann aig deich uairean
+                        dh’fhalbhadh sinn còmhla.</gd>
+                      <tr>Wouldn’t Ann leave at two o’clock? | If you were there at ten o’clock we
+                        would leave together.</tr>
+                      <ref text="609">td. 136 | 138</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </p>
+      </section>
+      <section id="uses-mod-adnominal">
+        <h>adnominal</h>
+        <p>The preposition <g>aig</g> can introduce locative, possessive and temporal modifiers of
+          nouns – <ul>
+            <li>Thàinig am <m>fear</m>
+              <m>aig</m> an doras a-steach. <en>The man at the door came in.</en></li>
+            <li>Tha an <m>cù</m>
+              <m>againn</m> anns a’ ghàrradh. <en>Our dog is in the garden.</en></li>
+            <li>Tha mi an·seo airson na <m>coinneimhe</m>
+              <m>aig</m> deich uairean. <en>I am here for the meeting at ten o’clock.</en></li>
+          </ul>
+        </p>
+        <p>Some examples – <ul id="uses-mod-adnominal-xs">
+            <!--<li>locative –</li>-->
+            <li>possessive – <ul>
+                <li>pedagogical examples – <xl id="uses-mod-adnominal-poss-pedag">
+                    <li>
+                      <gd>an leabhar aig Seumas | an cat agam | Is e Seumas (an duine) as sine anns
+                        an teaghlach aige. | A bheil a’ bhròg agad ro theann? | Chumadh sin a’
+                        Ghàidhlig aca fileanta fuasgailte.</gd>
+                      <tr>James’ book | my cat | James is the eldest in his family. | Is your shoe
+                        too tight? | That would keep their Gaelic fluent and active.</tr>
+                      <ref text="609">td. 85| 14 | 198 | 19 | 150</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <!--<li>temporal –</li>-->
+          </ul>
+        </p>
+      </section>
+      <section id="uses-mod-other">
+        <h>other</h>
+        <p>Various other uses of aig as a modifier are found.</p>
+        <module id="uses-mod-other-seo" status="bronze">
+          <h>seo agad/agaibh</h>
+          <p>Some examples – <ul>
+              <li>pedagogical examples – <xl id="seo-pedag">
+                  <li>
+                    <gd>Seall dhomh an tiocaid agad agus do chairt-shiubhail mas e do thoil e. –
+                        <m>Seo agad i</m>.</gd>
+                    <tr>Show me your ticket and your passport please. – Here it is.</tr>
+                    <ref text="609">td. 66</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </p>
+        </module>
+      </section>
+    </section>
+
+
+  </section>
+
+</module>

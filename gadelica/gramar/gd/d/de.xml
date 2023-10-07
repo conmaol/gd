@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>dhe</h>
+  <p><g>dhe</g>
+    <en>of</en> is the (leniting) partitive <a href="?xx=prepositions/prepositions"
+    >preposition</a>.</p>
+  <section>
+    <h>forms</h>
+    <section id="indefinite">
+      <h>indefinite</h>
+      <p>The default form of the partitive preposition is simply <g>dhe</g> – <ul>
+          <li><m>dhe</m> thaigh <en>of a house</en></li>
+          <li><m>dhe dh’</m>aislingean <en>of dreams</en></li>
+          <li><m>dhe</m> Nirribhidh <en>of Norway</en></li>
+          <li><m>dhe</m> thrì làithean <en>of three days</en></li>
+        </ul></p>
+      <p>Before a word beginning with a vowel or <g>fh-</g>, <g>dhe</g> is reduplicated to <g>dhe
+          dh’</g> – <ul>
+          <li><m>dhe dh’</m>aislingean <en>of dreams</en></li>
+          <li><m>dhe dh’</m>Èirinn <en>of Ireland</en></li>
+          <li><m>dhe dh’</m>ochd rionnagan <en>of eight stars</en></li>
+        </ul>
+      </p>
+      <p>Note that <g>dhe</g> is often spelled (and even pronounced) as <g>de</g>. Also, <g>dhe</g>
+        is often reduced to just <g>a</g>, even in writing.</p>
+    </section>
+    <section id="definite">
+      <h>definite</h>
+      <p>When the immediately following word is a singular form of the definite article, the linking
+        form <g>dhen</g> is used – <ul>
+          <li><m>dhen</m> an taigh <en>of the house</en></li>
+          <li><m>dhen</m> a’ bhaile <en>of the town</en></li>
+        </ul> But – <ul>
+          <li><m>dhe na h-</m>aislingean <en>of the dreams</en>, rather than <bad>dhen na
+              h-aislingean</bad></li>
+        </ul>
+      </p>
+      <!--<p><ed>Add note on ‘den a-màireach’, ‘den a h-uile ...’, ‘den a bheil ...’? Older forms with
+          apostrophes?</ed></p>-->
+      <p>Note that <g>dhen an</g> and <g>dhen a’</g> often reduce to just <g>dhen</g> – <g>dhen
+          taigh</g>, <g>dhen bhaile</g>. Note also that the non-lenited form <g>den</g> is often
+        found instead.</p>
+      <p>Fused forms are sometimes found when the immediately following word is a <a
+          href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+          <li><m>dhe mo</m> thaigh <en>of my house</en> ≈ <g>d[h]em</g> thaigh</li>
+          <li><m>dhe do</m> bhaile <en>of your town</en> ≈ <g>d[h]ed</g> bhaile</li>
+          <li><m>dhe a h-</m>òran <en>of her song</en> ≈ <g>d[h]e h-</g>òran</li>
+          <li><m>dhe a</m> chraoibh <en>of his tree</en> ≈ <g>d[h]e</g> chraoibh</li>
+          <li><m>dhe ar n-</m>achadh <en>of our field</en> ≈ <g>d[h]er n-</g>achadh</li>
+          <li><m>dhe ur</m> leapannan <en>of your beds</en> ≈ <g>d[h]ur</g> leapannan</li>
+          <li><m>dhe an</m> taighean <en>of their houses</en> ≈ <g>d[h]en</g> taighean</li>
+          <li><m>dhe am</m> baile <en>of their town</en> ≈ <g>d[h]em</g> baile</li>
+        </ul></p>
+      <p>Note that these fused forms are rather awkward and sometimes ambiguous and hence are best
+        avoided in writing nowadays.</p>
+    </section>
+    <section id="pronouns">
+      <h>prepositional pronouns</h>
+      <p>Conjugated prepositions are used in place of <bad>dhe mi</bad>, <bad>dhe thu</bad>, ... ,
+          <bad>dhe iad</bad> – <ul>
+          <li><m>dhiom</m>
+            <en>of me</en></li>
+          <li><m>dhiot</m>
+            <en>of you</en></li>
+          <li><m>dhith</m>
+            <en>of her/it</en></li>
+          <li><m>dheth</m>
+            <en>of him/it</en></li>
+          <li><m>dhinn</m>
+            <en>of us</en></li>
+          <li><m>dhibh</m>
+            <en>of you</en></li>
+          <li><m>dhiubh</m>
+            <en>of them</en></li>
+        </ul>
+      </p>
+      <p>There are also emphatic forms (cf. <bad>dhe mise</bad>, <bad>dhe thusa</bad>, ... ,
+          <bad>dhe iadsan</bad>) – <ul>
+          <li><m>dhiomsa</m>
+            <en>of <emph>me</emph></en></li>
+          <li><m>dhiotsa</m>
+            <en>of <emph>you</emph></en></li>
+          <li><m>dhithse</m>
+            <en>of <emph>her/it</emph></en></li>
+          <li><m>dhethsan</m>
+            <en>of <emph>him/it</emph></en></li>
+          <li><m>dhinne</m>
+            <en>of <emph>us</emph></en></li>
+          <li><m>dhibhse</m>
+            <en>of <emph>you</emph></en></li>
+          <li><m>dhiubhsan</m>
+            <en>of <emph>them</emph></en></li>
+        </ul>
+      </p>
+      <p>Note that the form <g>dhethsan</g> breaks the ‘slender-to-slender, broad-to-broad’ spelling
+        rule, and hence is sometimes found written with a hyphen – <g>dheth-san</g>.</p>
+      <p>Finally, there are also reflexive forms (cf. <bad>dhe mi fhìn</bad>, <bad>dhe thu
+          fhèin</bad>, ... , <bad>dhe iad fhèin</bad>) – <ul>
+          <li><m>dhiom fhìn</m>
+            <en>of myself</en></li>
+          <li><m>dhiot fhèin</m>
+            <en>of yourself</en></li>
+          <li><m>dhith fhèin</m>
+            <en>of herself/itself</en></li>
+          <li><m>dheth fhèin</m>
+            <en>of himself/itself</en></li>
+          <li><m>dhinn fhìn</m>
+            <en>of ourselves</en></li>
+          <li><m>dhibh fhèin</m>
+            <en>of yourselves</en></li>
+          <li><m>dhiubh fhèin</m>
+            <en>of themselves</en></li>
+        </ul>
+      </p>
+    </section>
+  </section>
+
+  <section>
+    <h>dependents</h>
+    <section id="deps-comps">
+      <h>complements</h>
+      <p>Some examples – <ul>
+          <li>older pedagogical examples – <xl id="comps-older-pedag">
+              <li>
+                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’ chàr.
+                  Chaidh iad sìos taobh an locha is stad iad aig àite bòidheach gorm. Chuir iad an
+                  càr a stigh gu taobh an rathaid is thug iad brat a mach as a’ chàr air son suidhe
+                  air. Tha bascaid làn <m>de bhiadh</m> aca is tha iad a’ dol a ghabhail an tea air
+                  a’ chnocan ghorm. [...]</gd>
+                <tr>The day was lovely and warm and their father took John and Ann in the car. They
+                  went down the side of the lake and they stopped at a beautiful green place. They
+                  put the car into the side of the road and they took a blanket out of the car for
+                  sitting on. They have a basket full of food and they are going to have their tea
+                  on the little green hill. [...] </tr>
+                <ref text="621">td. 6–7</ref>
+                <note><a href="?gd=biadh"><g>biadh</g></a>
+                  <masc/>
+                  <en>food</en></note>
+              </li>
+            </xl>
+          </li>
+        </ul>
+      </p>
+    </section>
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section id="uses-comp">
+      <h>complement</h>
+      <section>
+        <h>adjectival</h>
+        <p>Some examples – <ul>
+            <li>older pedagogical examples – <xl id="use-comp-older-pedag">
+                <li>
+                  <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’ chàr.
+                    Chaidh iad sìos taobh an locha is stad iad aig àite bòidheach gorm. Chuir iad an
+                    càr a stigh gu taobh an rathaid is thug iad brat a mach as a’ chàr air son
+                    suidhe air. Tha bascaid <m>làn de bhiadh</m> aca is tha iad a’ dol a ghabhail an
+                    tea air a’ chnocan ghorm. [...]</gd>
+                  <tr>The day was lovely and warm and their father took John and Ann in the car.
+                    They went down the side of the lake and they stopped at a beautiful green place.
+                    They put the car into the side of the road and they took a blanket out of the
+                    car for sitting on. They have a basket full of food and they are going to have
+                    their tea on the little green hill. [...] </tr>
+                  <ref text="621">td. 6–7</ref>
+                  <note><a href="?gd=làn"><g>làn</g></a>
+                    <adj/>
+                    <en>full</en></note>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+      </section>
+      <section>
+        <h>verbal</h>
+        <p><g><a href="?gd=sguir">sguir</a> dhe ...</g>, <g><a href="?gd=stad">stad</a> dhe ...</g>
+          <en>stop something</en></p>
+      </section>
+    </section>
+  </section>
+
+
+</module>
+<!--
+  <p>Examples of usage –</p>
+  <ulx id="exs">
+    <lix>
+      <gd>Tha ar linn fhìn a’ coimhead gur e feallsanach mór a bh’ ann <m>de</m> Khierkegaard, gidheadh feallsanach eu-coltach ri a roi-shealbhadairean, ach a-mhàin, ’s math dh’ fhaoite, Nietzche.</gd>
+      <tr>Our own era views Kierkegaard as a great philosopher, even if a philosopher different to his predecessors, aside from, perhaps, Nietzsche.</tr>
+      <ref text="400-41">td. 103</ref>
+      <note>is e ... a tha ann de ... = is e ... a tha ann an ...</note>
+    </lix>
+    <lix>
+      <gd>’Se duine crotach a bh’ ann <m>de</m> Khierkegaard ’s chan eil teagamh nach bu chòir dhuinn cuimhn’ a chumail air a sin.</gd>
+      <tr>K was a hunchback and we should remember that.</tr>
+      <ref text="400-41">td. 103</ref>
+    </lix>
+  </ulx>
+  -->

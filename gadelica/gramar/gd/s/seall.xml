@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>seall</h>
+    <p><g>seall</g>
+        <en>look, show</en> is a simple verb.</p>
+    
+    <section>
+        <h>uses</h>
+        <section>
+            <h>derivatives</h>
+            <module status="bronze" id="deriv-sealladh">
+                <h>sealladh</h>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module status="bronze" id="a_sealladh">
+                            <h>à sealladh</h>
+                            <section>
+                                <h>uses</h>
+                                <section>
+                                    <h>complement</h>
+                                    <module status="bronze" id="rach_a_sealladh">
+                                        <h>rach à sealladh</h>
+                                        <p><g><a href="?gd=rach">rach</a> à(s an t-)sealladh</g>
+                                            <en>disappear, vanish</en></p>
+                                    </module>
+                                </section>
+                            </section>
+                        </module>
+                    </section>
+                </section>
+            </module>
+        </section>
+    </section>
+    
+    <section id="other">
+        <h>other</h>
+        <p>Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>[...] Cha robh e fhéin a’ faireachdainn uabhasach math, oir, air a’ bhàta, bha
+                    triùir dhaoine le botul uisge-bheatha agus cha robh càil air a shon ach gu
+                    feumadh e òl ’nan cuideachd. “Dé ’n innleachd a th’ agad an sin?” arsa fear aca
+                    ris. “Clàr airson guthan,” fhreagair e, “tape-recorder.” “Eil thu ’g iarraidh a
+                    chur air,” dh’fhaighnich e. “Uh? chan eil na!” Ach <m>bha e sealltainn ri Iain</m> mar
+                    gum biodh tùr iongantach aige. [...]</gd>
+                <tr>[...] He himself was not feeling terribly good/well, because, on the boat, there
+                    were three men with a bottle of whisky and there was nothing for it but that he
+                    would have to drink in their company. “What is the machine that you have there?”
+                    said one of them to him. “A recorder for voices.” he replied, “a tape recorder.”
+                    “Do you want to put it on,” he asked. “Uh? No!” But he was looking at John as if
+                    he were surprised [?]. [...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+            <li>
+                <gd>[...] ’S bha iad ’nan suidhe an sin ag òl uisge-beatha fad na h-oidhch’, na
+                    ceathrar aca. An dràsda ’s a rithist <m>shealladh Iain a-mach air an uinneig ris
+                        a’ mhuir ’s na h-eileanan</m>. [...]</gd>
+                <tr>[...] And they were sat there drinking whisky all night, the four of them. Now
+                    and again John would look out the window at the sea and the islands. [...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+        </xl>
+    </p></section>
+
+</module>

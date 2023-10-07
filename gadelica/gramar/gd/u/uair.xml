@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+  <h lang="en">uair</h>
+  <h lang="gd">uair</h>
+  <p lang="en">Corpus examples – <xl id="exs">
+    <li>
+      <gd>Bha grunnan de ar luchd-leughaidh an dùil, nuair a nochd an àireamh mu dheireadh
+        de Ghairm, gu robh sin a’ strì ri buidheann shònraichte, no duine
+        sònraichte, a chur do ’n Phàrlamaid, agus bha wèireichean an telefon
+        gu math teth, <m>uair no dhà</m>, an déidh dhuinn tighinn o ’n chlò. Thog iad ceàrr
+        sinn.</gd>
+      <tr>Some of our readers were expecting [?], when the last issue of Gairm appeared,
+        that that was striving to send a particular group [party?], or a
+        particular person, to the Parliament, and the telephone wires were
+        pretty hot, <u>for an hour or two [once or twice?]</u>, after we came from the
+        printers. They misunderstood us.</tr>
+      <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+    </li>
+  </xl>
+  </p>
+  <p lang="gd">...</p>
+</module>
+
+<!--
+<module>
+  <title lang="en">uair</title>
+  <title lang="gd">uair</title>
+  <p lang="en"><strong>uair</strong>
+    <en>time, hour</en> feminine <a href="?xx=nouns/simple_common_nouns">simple common noun</a>, with genitive singular <strong>uarach</strong> and plural <strong>uairean</strong>.</p>
+  <hr/>
+  <p lang="en">cf. the temporal conjunction <a href="?gd=nuair">nuair</a> <en>when</en>.</p>
+</module>
+-->

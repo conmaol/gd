@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h lang="en">temporal unit nouns</h>
+    <h lang="gd">ainmearan</h>
+    <p lang="en">Temporal base nouns are a kind of <a href="?xx=nouns/common_nouns">common noun</a>
+        used in temporal quantity expressions.</p>
+    <p lang="gd"/>
+    <p lang="en">cf. <a href="?gd=latha">latha</a>
+        <en>day</en>, <a href="?gd=seachdain">seachdain</a>
+        <en>week</en>, <a href="?gd=mìos">mìos</a>
+        <en>month</en>, <a href="?gd=bliadhna">bliadhna</a>
+        <en>year</en>, ...</p>
+    <p lang="gd">...</p>
+</module>

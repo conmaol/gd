@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="coitheanalach">
+    <h>coitheanalach</h>
+    <p><b>coitheanalach</b>
+        <en>congregational</en> is a <a href="?xx=adjectives/derived_adjectives">derived
+            adjective</a>, from <a href="?gd=coitheanal">coitheanal</a>
+        <masc/>
+        <en>congregation</en>, with suffix <a href="?gd=_ach">-(e)ach</a>.</p>
+    <section id="coitheanalach-forms">
+        <h>forms</h>
+        <p>Alternative spellings – <b>coithionalach</b>.</p>
+    </section>
+    <section>
+        <h>relations</h>
+    </section>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>modifier</h>
+            <p>
+                <ul>
+                    <li><b><a href="?gd=eaglais">eaglais</a> choitheanalach</b>
+                        <en>congregational(ist) church, church governed by its congregation</en>
+                        <ul>
+                            <li><b>An Eaglais Choitheanalach</b>
+                                <en>The Congregational(ist) Church</en> [<a
+                                    href="?xx=nouns/ergonyms">ergonymic name description</a>] </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+</module>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>e</h>
+  <p><g>e</g>
+    <en>he, him, it</en> is the masculine singular <a href="?xx=nouns/personal_pronouns">personal
+      pronoun</a>.</p>
+
+  <section>
+    <h>uses</h>
+    <section id="sbj">
+      <h>subject</h>
+      <p><g>e</g> can be used as the subject of a verb – <ul>
+          <li>older pedagogical examples – <xl id="sbj-older-pedag">
+              <li>
+                <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh. Thubhairt mo
+                  mhàthair, “An téid thu do bhocsa nan litrichean leis an litir seo, Iain?” “Théid,”
+                  ars Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi i is gus an cuir mi
+                  seòladh oirre. Ceannaich fhéin stamp agus cuir oirre i.” Tha Iain a’ ruith sìos an
+                  rathad leis an litir ’na làimh. <m>Théid e</m> a steach do oifig a’ phuist,
+                    <m>ceannaichidh e</m> stamp is <m>cuiridh e</m> sud air an litir. <m>Tilgidh e</m> an
+                  litir ann am bocsa nan litrichean. </gd>
+                <tr>My mother is writing a letter to my father who is away. My mother said, “Will
+                  you go to the postbox with this letter, John?” “Yes, I will,” said John, “I will
+                  leave now.” “Wait until I seal it and put an address on it. Buy a stamp and put it
+                  on it.” John is running down the road with the letter in his hand. He will go into
+                  the post office, he will buy a stamp and put that on the letter. He will toss the
+                  letter into the postbox.</tr>
+                <ref text="621">td. 5–6</ref>
+              </li>
+            </xl></li>
+          <li>examples from Gairm – <xl id="sbj-gairm">
+              <li>
+                <gd><m>Bha</m> i ceud bliadhna a dh’ aois is <m>esan</m> dhà air fhichead. <m>Cha
+                    robh e</m> ach mìos no dhà a-mach ás an oilthigh. Bha a nighean a’ fuireachd
+                  còmhla rithe. Bha ise ceithir fichead. <m>Shaoil e</m> gu robh a’ chailleach ann
+                  an dòigh na bu shunndaiche na a nighean. [...]</gd>
+                <tr>She was a hundred years old and him twenty two. He was just a month or two out
+                  of the university. Her daughter was living with her. She was eighty. He thought
+                  that the old woman was in a way livelier than her daughter. [...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+              </li>
+            </xl>
+          </li>
+        </ul>
+      </p>
+    </section>
+  </section>
+
+  <section id="misc">
+    <h>misc</h>
+    <p lang="en">Examples of usage – <xl id="exs">
+        <li>
+          <gd>Rugadh <m>am feallsanach Soren Kierkegaard</m> ann sa’ bhliadhna 1813, an Copenhagen
+            far na bhàsaich <m>e</m> nuair a bha <m>e</m> dà fhichead, ’s a dhà.</gd>
+          <tr>The <u>philosopher Soren Kierkegaard</u> was born in 1813, in Copenhagen where
+              <u>he</u> died when <u>he</u> was 42.</tr>
+          <ref text="400-41">td. 103</ref>
+        </li>
+        <li>
+          <gd>Bha beagan airgid <m>aige</m> ’s mar sin chaith <m>e</m> a bheatha a’ sgrìobhadh, gun
+            feum aige air obair eile a dhèanamh.</gd>
+          <tr><u>He</u> had a little money and therefore <u>he</u> devoted his life to writing,
+            without the need to do other work.</tr>
+          <ref text="400-41">td. 103</ref>
+          <note>antecedent is a prepositional pronoun.</note>
+        </li>
+        <li>
+          <gd>Tha ar linn fhìn a’ coimhead gur <m>e</m> feallsanach mór a bh’ ann de Khierkegaard,
+            gidheadh feallsanach eu-coltach ri a roi-shealbhadairean, ach a-mhàin, ’s math dh’
+            fhaoite, Nietzche.</gd>
+          <tr>Our own era views Kierkegaard as a great philosopher, even if a philosopher different
+            to his predecessors, aside from, perhaps, Nietzsche.</tr>
+          <ref text="400-41">td. 103</ref>
+          <note>no referent?</note>
+        </li>
+
+      </xl>
+    </p>
+  </section>
+</module>

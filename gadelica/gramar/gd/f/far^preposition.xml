@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>far</h>
+    <p><g>far</g>
+        <en>through</en> is the (genitive-governing) delative pseudo-preposition. It is generally used to introduce a spatial <a href="?q=motion"
+                >trajectory</a>, along which an event of motion takes place.</p>
+    
+</module>
+

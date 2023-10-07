@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>sìos</h>
+    <p><g>sìos</g>
+        <en>[to] down there</en> is is a distal adverb of motion along a <a href="?q=motion"
+            >trajectory</a> (contrasting with both the proximal <a href="?gd=a-nuas"
+                ><g>a-nuas</g></a>
+        <en>[to] down here</en> and the distal <a href="?gd=suas"><g>suas</g></a>
+        <en>[to] up there</en>).</p>
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>complement</h>
+            <p><g>sìos</g> can be used as a quasi-preposition, governing a noun in the nominative
+                case – <ul>
+                    <li><g>sìos an <a href="?gd=rathad">rathad</a></g>
+                        <en>down the road</en> – <ul>
+                            <li>older pedagogical examples – <xl id="rathad-older-pedag">
+                                    <li>
+                                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha
+                                            air falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa
+                                            nan litrichean leis an litir seo, Iain?” “Théid,” ars
+                                            Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi
+                                            i is gus an cuir mi seòladh oirre. Ceannaich fhéin stamp
+                                            agus cuir oirre i.” Tha Iain a’ ruith <m>sìos an
+                                                rathad</m> leis an litir ’na làimh. </gd>
+                                        <tr>My mother is writing a letter to my father who is away.
+                                            My mother said, “Will you go to the postbox with this
+                                            letter, John?” “Yes, I will,” said John, “I will leave
+                                            now.” “Wait until I seal it and put an address on it.
+                                            Buy a stamp and put it on it.” John is running down the
+                                            road with the letter in his hand.</tr>
+                                        <ref text="621">td. 5</ref>
+                                    </li>
+                                </xl></li>
+                        </ul>
+                    </li>
+                    <li><g>sìos <a href="?gd=taobh">taobh</a> (an locha)</g>
+                        <en>down the side (of the lake)</en> – <ul>
+                            <li>older pedagogical examples – <xl id="taobh-older-pedag">
+                                    <li>
+                                        <gd>Bha an latha brèagha blàth is thug an athair leis Iain
+                                            agus Anna anns a’ chàr. Chaidh iad <m>sìos taobh an
+                                                locha</m> is stad iad aig àite bòidheach gorm.
+                                            [...]</gd>
+                                        <tr>The day was lovely and warm and their father took John
+                                            and Ann in the car. They went down the side of the lake
+                                            and they stopped at a beautiful green place. [...]</tr>
+                                        <ref text="621">td. 6–7</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <p><g>sìos</g> can be used to introduce the complement of certain verbs – <ul>
+                    <li><g><a href="?gd=ruith">ruith</a> sìos</g>
+                        <en>run down [something]</en></li>
+                    <li><g><a href="?gd=rach">rach</a> sìos</g>
+                        <en>go down [something]</en> – <ul>
+                            <li>older pedagogical examples – <xl id="comps-sios-older-pedag">
+                                    <li>
+                                        <gd>Bha an latha brèagha blàth is thug an athair leis Iain
+                                            agus Anna anns a’ chàr. Chaidh iad <m>sìos taobh an
+                                                locha</m> is stad iad aig àite bòidheach gorm. Chuir
+                                            iad an càr a stigh gu taobh an rathaid is thug iad brat
+                                            a mach as a’ chàr air son suidhe air. Tha bascaid làn de
+                                            bhiadh aca is tha iad a’ dol a ghabhail an tea air a’
+                                            chnocan ghorm. Is toigh leis a’ chloinn biadh a ghabhail
+                                            a muigh ri latha brèagha. Thèid iad dhachaidh feasgar an
+                                            uair a tha a’ ghrian a’ dol fodha.</gd>
+                                        <tr>The day was lovely and warm and their father took John
+                                            and Ann in the car. They went down the side of the lake
+                                            and they stopped at a beautiful green place. They put
+                                            the car into the side of the road and they took a
+                                            blanket out of the car for sitting on. They have a
+                                            basket full of food and they are going to have their tea
+                                            on the little green hill. The children like eating al
+                                            fresco on a nice day. They will go home in the evening
+                                            when the sun is going down.</tr>
+                                        <ref text="621">td. 6–7</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+</module>

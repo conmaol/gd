@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">guth</h>
+    <h lang="gd">guth</h>
+    <p lang="en">Corpus examples – <xl id="exs">
+            <li>
+                <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no
+                    do fhoghlum agus do litreachas na Gàidhlig. Cuin a chualas ball-Pàrlamaid <m>a’
+                        togail a ghuth</m> a dh’ iarraidh leasachaidh do staid Gàidhlig ann an
+                    Albainn? Am bi cothrom a nis aig cuideigin <m>a ghuth a thogail</m>, anns an
+                    t-suidheachadh iongantach a th’ againn anns a’ Phàrlamaid ùr?</gd>
+                <tr>[...] The Parliament has given very little assistance ever to the Gaelic language or
+                    to Gaelic education and literature. When has a member of Parliament been heard
+                        <u>raising his voice</u> to demand improvement for the state of Gaelic in
+                    Scotland? Will someone have an opportunity now <u>to raise his voice</u>, in the
+                    unexpected situation we have in the new Parliament?</tr>
+                <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+            </li>
+            <li>
+                <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os
+                    cionn obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach ag
+                    ath-nuadhachadh dreach a’ Chomuinn. Tha móran ri dhèanamh ris a’ Mhòd mus beir e
+                    air linn an telebhisean, no eadhon air linn an réidio: [...] A thaobh
+                    propaganda, tha obair a’ Chomuinn gun tòiseachadh fhathast; am faca tusa riamh
+                    postair Gàidhlig air balla, no an cuala tu <m>guth</m> a’ Chomuinn ann an
+                    sanas-reic air STV?</gd>
+                <tr>The Highland Society is talking about choosing a new General who will oversee
+                    the Society’s work. [...] He would have enough to do initially reforming the
+                    Society. There is much to do at the Mod before it catches up with <ed>??</ed>
+                    the era of television, or even with the era of radio: [...] On the subject of
+                    propaganda, the Society’s work is yet to start; have you ever seen a Gaelic
+                    poster on a wall, or have you heard the <u>voice</u> of the Society in an advert
+                    on STV?</tr>
+                <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>

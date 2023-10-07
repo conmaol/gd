@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>cainnt</h>
+    <p><b>cainnt</b>
+        <en>speech</en> is a feminine noun, with genitive
+        singular <b>cainnte</b>.</p>
+
+</module>
+

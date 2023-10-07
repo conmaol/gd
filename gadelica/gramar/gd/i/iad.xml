@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>iad</h>
+    <p lang="en"><g>iad</g>
+        <en>they, them</en> is the third person plural singular <a
+            href="?xx=nouns/personal_pronouns">personal pronoun</a>.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>subject</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="sbj-older-pedag">
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                                    anns a’ chàr. <m>Chaidh iad</m> sìos taobh an locha is <m>stad
+                                        iad</m> aig àite bòidheach gorm. <m>Chuir iad</m> an càr a
+                                    stigh gu taobh an rathaid is <m>thug iad</m> brat a mach as a’
+                                    chàr air son suidhe air. Tha bascaid làn de bhiadh aca is <m>tha
+                                        iad</m> a’ dol a ghabhail an tea air a’ chnocan ghorm. Is
+                                    toigh leis a’ chloinn biadh a ghabhail a muigh ri latha brèagha.
+                                        <m>Thèid iad</m> dhachaidh feasgar an uair a tha a’ ghrian
+                                    a’ dol fodha.</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. They put the car into the side of
+                                    the road and they took a blanket out of the car for sitting on.
+                                    They have a basket full of food and they are going to have their
+                                    tea on the little green hill. The children like eating al fresco
+                                    on a nice day. They will go home in the evening when the sun is
+                                    going down.</tr>
+                                <ref text="621">td. 6–7</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li> Examples from Gairm – <xl id="sbj-gairm">
+                            <li>
+                                <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan
+                                    fhalbh aon choigreach le mo leanabh. Cha teid i gu aon dannsa,
+                                    tha sin cinnteach. Tha. Tha. Na bi smaoineachadh gun teid, a
+                                    leanaibh. Chan eil fhios agad mu ’n deidhinn, mar a th’ agamsa.”
+                                    “Carson nach do bhàsaich thu o chionn leth-cheud bliadhna,” dh’
+                                    éigh Màiri. Bha i smaoineachadh air na gnothaichean ud fhathast!
+                                    “Greas ort leis an tea,” ars a màthair. Agus, mu dheireadh. “A’
+                                    chlann òga an diugh, chan eil fhios dé na smaointean th[a] ruith
+                                    orra. <m>Tha iad</m> air bhoil, air bhoil.”</gd>
+                                <tr>[...] Her voice grew louder. “One thing is certain, not one
+                                    stranger will leave [go out?] with my child. She will not go to
+                                    a single dance, that is certain. It is. It is. Do not be
+                                    thinking that you will, child. You don’t know about them, as I
+                                    do.” “Why did you not die fifty years ago,” shouted Mary. She
+                                    was still thinking about those matters! “Hurry up with the tea,”
+                                    said her mother. And, eventually. “The young children today, it
+                                    is not known what thoughts are running on them. They are in a
+                                    rage, in a rage.”</tr>
+                                <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+</module>

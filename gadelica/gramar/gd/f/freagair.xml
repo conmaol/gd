@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>freagair</h>
+    <p><g>freagair</g>
+        <en>reply</en> is a verb.</p>
+    <p>Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>[...] Cha robh e fhéin a’ faireachdainn uabhasach math, oir, air a’ bhàta, bha triùir
+                    dhaoine le botul uisge-bheatha agus cha robh càil air a shon ach gu feumadh e òl
+                    ’nan cuideachd. “Dé ’n innleachd a th’ agad an sin?” arsa fear aca ris. <m>“Clàr
+                    airson guthan,” fhreagair e, “tape-recorder.”</m> [...]</gd>
+                <tr>[...] He himself was not feeling terribly good/well, because, on the boat, there were
+                    three men with a bottle of whisky and there was nothing for it but that he would
+                    have to drink in their company. “What is the machine that you have there?” said
+                    one of them to him. “A recorder for voices.” he replied, “a tape recorder.” [...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+        </xl>
+    </p>
+</module>

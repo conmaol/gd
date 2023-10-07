@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>-(e)adh</h>
+    <p/>
+    <p>Examples – <ul>
+            <li><a href="?gd=seòl"><g>seòl</g></a>
+                <vb/>
+                <en>sail</en> ⇒ <g>seòladh</g>
+                <masc/>
+                <en>sailing, address</en></li>
+            <li><a href="?gd=sgrìobh"><g>sgrìobh</g></a>
+                <vb/>
+                <en>write</en> ⇒ <g>sgrìobhadh</g>
+                <masc/>
+                <en>writing</en></li>
+        </ul>
+    </p>
+
+</module>

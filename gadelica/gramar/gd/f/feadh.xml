@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>air feadh</h>
+    <p><b>air feadh</b>
+        <en>all over, through, throughout</en> is a prepositional compound.</p>
+    <p>Examples from modern usage – <xl id="other">
+            <li>
+                <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. Rinn
+                    e sin tro dhìcheall, obair chruaidh agus tàlant malairt a bha neo-ghnàthach.
+                    An-diugh tha iomadh companaidh na ainm <m>air feadh na Gàidhealtachd</m>.
+                    [...]</gd>
+                <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. He
+                    did that through diligence, hard work and a talent for business that was
+                    unusual. Today there are many companies in his name all over the Highlands.
+                    [...]</tr>
+                <ref text="2">td. 5</ref>
+            </li>
+        </xl>
+    </p>
+</module>

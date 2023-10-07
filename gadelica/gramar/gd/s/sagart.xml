@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>sagart</h>
+    <p><b>sagart</b>
+        <en>priest</en> is a masculine <a href="?xx=nouns/occupational_common_nouns"
+            >occupational</a>
+        <a href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
+    <section>
+        <h>forms</h>
+        <p>The principal parts of <g>sagart</g> are – <ul>
+                <li><m>sagart</m> – nominative/dative singular</li>
+                <li><m>sagairt</m> – genitive singular</li>
+                <li><m>sagartan</m> – plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>sagart</m></li>
+                                    <li>dative – (le) <m>sagart</m></li>
+                                    <li>genitive – (leabhar) <m>sagairt</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>sagartan</m></li>
+                                    <li>dative – (le) <m>sagartan</m></li>
+                                    <li>genitive – (leabhraichean) <m>shagart(an)</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an sagart</m></li>
+                                    <li>dative – (leis) <m>an t-sagart</m></li>
+                                    <li>genitive – (leabhar) <m>an t-sagairt</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na sagartan</m></li>
+                                    <li>dative – (leis) <m>na sagartan</m></li>
+                                    <li>genitive – (leabhraichean) <m>nan sagart(an)</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>sagart</m></li>
+                                    <li>dative – (le) <m>sagart</m></li>
+                                    <li>genitive – (leabhar) <m>sagairt</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an sagart</m></li>
+                                    <li>dative – (leis) <m>an t-sagart</m></li>
+                                    <li>genitive – (leabhar) <m>an t-sagairt</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>sagartan</m></li>
+                                    <li>dative – (le) <m>sagartan</m></li>
+                                    <li>genitive – (leabhraichean) <m>shagart(an)</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na sagartan</m></li>
+                                    <li>dative – (leis) <m>na sagartan</m></li>
+                                    <li>genitive – (leabhraichean) <m>nan sagart(an)</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>sagart</m></li>
+                                    <li>plural – <m>sagartan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an sagart</m></li>
+                                    <li>plural – <m>na sagartan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (le) <m>sagart</m></li>
+                                    <li>plural – (le) <m>sagartan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (leis) <m>an t-sagart</m></li>
+                                    <li>plural – (leis) <m>na sagartan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (leabhar) <m>sagairt</m></li>
+                                    <li>plural – (leabhraichean) <m>shagart(an)</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (leabhar) <m>an t-sagairt</m></li>
+                                    <li>plural – (leabhraichean) <m>nan sagart(an)</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>modifiers</h>
+            <p>Compounds – <ul>
+                    <li><g>sagart <a href="?gd=faoisid">faoisid(e)</a></g>
+                        <en>confessor</en></li>
+                </ul></p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>modifier</h>
+        </section>
+        <section>
+            <h>stem</h>
+            <section>
+                <h>prefixed</h>
+                <p>Compounds – <ul>
+                        <li><g><a href="?gd=prìomh">prìomh</a>-shagart</g>
+                            <masc/>
+                            <en>primate</en></li>
+                    </ul></p>
+            </section>
+            <section>
+                <h>suffixed</h>
+                <p>Derivatives – <ul>
+                        <li><a href="?gd=sagartail"><g>sagartail</g></a>
+                            <adj/>
+                            <en>priestly</en></li>
+                        <li><a href="?gd=sagartachd"><g>sagartachd</g></a>
+                            <fem/>
+                            <en>priesthood</en></li>
+                    </ul>
+                </p>
+            </section>
+        </section>
+    </section>
+
+    <section id="etymology">
+        <h>etymology</h>
+        <p>From Old Gaelic <ax href="https://dil.ie/35846">sacart</ax>
+            <en>priest</en>.</p>
+    </section>
+
+</module>

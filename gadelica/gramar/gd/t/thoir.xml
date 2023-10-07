@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>thoir</h>
+  <p><g>thoir</g>
+    <en>give, take, bring</en> is an irregular simple verb.</p>
+
+  <!--
+  <p>
+    <xl id="mmmmm">
+      <li>
+        <gd>Thug Anna pòg do Raghnall.</gd>
+        <tr>Ann gave a kiss to Donald.</tr>
+        <ref text="609">td. 38</ref>
+      </li>
+      <li>
+        <gd>An tug a mhàthair airgead dha?</gd>
+        <tr>Did his mother give money to him?</tr>
+        <ref text="609">td. 38</ref>
+      </li>
+      <li>
+        <gd>Thug e an t-airgead air ais.</gd>
+        <tr>He gave the money back.</tr>
+        <ref text="609">td. 39</ref>
+      </li>
+      <li>
+        <gd>Na toir airgead dha!</gd>
+        <tr>Don’t give him money!</tr>
+        <ref text="609">td. 42</ref>
+      </li>
+      <li>
+        <gd>Na toiribh airgead do Pheigi!</gd>
+        <tr>Don’t give money to Peggy!</tr>
+        <ref text="609">td. 42</ref>
+      </li>
+      <li>
+        <gd>Thoir sin do Sheumas!</gd>
+        <tr>Give that to James!</tr>
+        <ref text="609">td. 43 [196]</ref>
+      </li>
+      <li>
+        <gd>Thoir dhomh siuga uisge, a Sheumais, agus faigh dhomh gloine fhalamh agus deigh mas
+          urrainn dhut.</gd>
+        <tr>Give me a jug of water, James, and fetch me an empty glass and some ice if you can.</tr>
+        <ref text="609">td. 50</ref>
+      </li>
+      <li>
+        <gd>Tha Calum a’ toirt pòg dhan a’ chaileig.</gd>
+        <tr>Calum is giving a kiss to the girl [kissing the girl].</tr>
+        <ref text="609">td. 92</ref>
+      </li>
+      <li>
+        <gd>An tug Iain an t-airgead sin dhut?</gd>
+        <tr>Did John give you that money?</tr>
+        <ref text="609">td. 113</ref>
+      </li>
+      <li>
+        <gd>Nach toir thu an t-airgead aige air ais?</gd>
+        <tr>Will you not give back his money?</tr>
+        <ref text="609">td. 118</ref>
+      </li>
+      <li>
+        <gd>Dè a bheir thu do bhean an taighe?</gd>
+        <tr>What will you give to the woman of the house?</tr>
+        <ref text="609">td. 119 [197]</ref>
+      </li>
+      <li>
+        <gd>Am faigh mi tiocaid a bheir à seo gu ruige na h-Eileanan An-iar mi? [...] An toir an
+          tiocaid fad an rathaid mi? Tha mi duilich. Cha toir.</gd>
+        <tr>Can I get a ticket that will take me from here to the Western Isles? [...] Will the
+          ticket take me the whole way? I’m sorry. No.</tr>
+        <ref text="609">td. 134</ref>
+      </li>
+      <li>
+        <gd>Cha toireadh iad sgillinn dhut.</gd>
+        <tr>They wouldn’t give you a penny.</tr>
+        <ref text="609">td. 168</ref>
+      </li>
+      <li>
+        <gd>An toireadh Anna an leabhar do Pheigi? Bheireadh. / Cha toireadh.</gd>
+        <tr>Would Ann give the book to Peggy? Yes. / No.</tr>
+        <ref text="609">td. 168</ref>
+      </li>
+      <li>
+        <gd>Cha toireadh màthair Dhòmhnaill cead dha a dhol a-mach.</gd>
+        <tr>Donald’s mother would not give him permission to go out.</tr>
+        <ref text="609">td. 169 [199]</ref>
+      </li>
+      <li>
+        <gd>Dè a thug oirbh tòiseachadh air sgrìobhadh agus cùin a thòisich sibh air
+          sgrìobhadh?</gd>
+        <tr>What caused you to begin writing and when did you start to write?</tr>
+        <ref text="609">td. 180</ref>
+      </li>
+      <li>
+        <gd>Anns na linntean Meadhanach bha sgoiltean nam filidh [...] a’ toirt foghlam ann an
+          Gàidhlig do na sgrìobhadairean agus do theaghlaichean nan uaislean.</gd>
+        <tr>In the Middle Ages the poets’ schools [...] gave instruction in Gaelic to writers and
+          the families of the aristocracy.</tr>
+        <ref text="609">td. 193</ref>
+      </li>
+      <li>
+        <gd>Aig toiseach tòiseachaidh b’ e rùn a’ Chomainn foghlam Beurla a thoirt don t-sluagh
+          Ghàidhealach.</gd>
+        <tr>At the outset the aim of the Society was to provide education in English to the Gaelic
+          population.</tr>
+        <ref text="609">td. 193</ref>
+      </li>
+      <li>
+        <gd>Bha comainn eile a chuireadh air bhonn gus taic a thoirt do sgoiltean Gàidhlig.</gd>
+        <tr>Other societies were set up to support Gaelic schools.</tr>
+        <ref text="609">td. 193</ref>
+      </li>
+      <li>
+        <gd>Ach a dh’aindeoin sin thug na sgoiltean litearrachd do ghinealaichean dhe na
+          Gàidheil.</gd>
+        <tr>But despite that, the schools made generations od Gaels literate.</tr>
+        <ref text="609">td. 193</ref>
+      </li>
+      <li>
+        <gd>Nuair a thugadh a-mach Achd an Fhoghlaim leis an Stàit, ann an 1872, cha robh àite no
+          cothrom air a thoirt dhan Ghàidhlig.</gd>
+        <tr>When the Education Act of 1872 was passed, no place or opportunity was given to
+          Gaelic.</tr>
+        <ref text="609">td. 193</ref>
+      </li>
+      <li>
+        <gd>A chionn is gum feumadh a h-uile leanabh a-nis dol dhan sgoil, agus leis gur h-e Beurla
+          an aon chainnt ionnsachaidh a bha innte, thug an t-Achd buille mhairbhteach dhan
+          chànan.</gd>
+        <tr>Since every child now had to go to school, and since English was the only language of
+          instruction, the Act gave Gaelic a fatal blow.</tr>
+        <ref text="609">td. 193</ref>
+      </li>
+      <li>
+        <gd>Ann an 1918 thàinig achd a thug inbhe air choireigin dhan Ghàidhlig.</gd>
+        <tr>In 1918, a new act came which gave some status to Gaelic.</tr>
+        <ref text="609">td. 193</ref>
+      </li>
+    </xl>
+  </p>
+-->
+
+  <section id="forms">
+    <h>forms</h>
+    <p>The principal parts of <g>thoir</g> are – <ul>
+        <li><m>bheir</m> – future independent ie. <en>will give</en></li>
+        <li><m>thug</m> – past independent ie. <en>gave</en></li>
+        <li><m>toirt</m> – verbal noun ie. <en>giving</en></li>
+      </ul>
+    </p>
+    <section>
+      <h>tense</h>
+      <p><ul>
+          <li>past <ul id="past">
+              <li>active <ul>
+                  <li>independent – <m>thug</m></li>
+                  <li>relative – a <m>thug</m></li>
+                  <li>dependent – cha/an/nach <m>tug</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>thugadh</m></li>
+                  <li>relative – a <m>thugadh</m></li>
+                  <li>dependent – cha/an/nach <m>tugadh</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>future <ul id="future">
+              <li>active <ul>
+                  <li>independent – <m>bheir</m></li>
+                  <li>relative – a <m>bheir</m></li>
+                  <li>dependent – cha/an/nach <m>toir</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>bheirear</m></li>
+                  <li>relative – a <m>bheirear</m></li>
+                  <li>dependent – cha/an/nach <m>toirear</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>conditional <ul id="conditional">
+              <li>active <ul>
+                  <li>first person singular <ul>
+                      <li>independent – <m>bheirinn</m></li>
+                      <li>relative – a <m>bheirinn</m></li>
+                      <li>dependent – cha/an/nach <m>toirinn</m></li>
+                    </ul>
+                  </li>
+                  <li>first person plural <ul>
+                      <li>independent – <m>bheireamaid</m></li>
+                      <li>relative – a <m>bheireamaid</m></li>
+                      <li>dependent – cha/an/nach <m>toireamaid</m></li>
+                    </ul>
+                  </li>
+                  <li>second/third persons <ul>
+                      <li>independent – <m>bheireadh</m></li>
+                      <li>relative – a <m>bheireadh</m></li>
+                      <li>dependent – cha/an/nach <m>toireadh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>bheirte</m></li>
+                  <li>relative – a <m>bheirte</m></li>
+                  <li>dependent – cha/an/nach <m>toirte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul></p>
+    </section>
+    <section>
+      <h>status</h>
+      <p>
+        <ul>
+          <li>independent <ul id="independent">
+              <li>past <ul>
+                  <li>active – <m>thug</m></li>
+                  <li>passive – <m>thugadh</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – <m>bheir</m></li>
+                  <li>passive – <m>bheirear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – <m>bheirinn</m></li>
+                      <li>first person plural – <m>bheireamaid</m></li>
+                      <li>second/third persons – <m>bheireadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – <m>bheirte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>relative <ul id="relative">
+              <li>past <ul>
+                  <li>active – a <m>thug</m></li>
+                  <li>passive – a <m>thugadh</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – a <m>bheir</m></li>
+                  <li>passive – a <m>bheirear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – a <m>bheirinn</m></li>
+                      <li>first person plural – a <m>bheireamaid</m></li>
+                      <li>second/third persons – a <m>bheireadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – a <m>bheirte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>dependent <ul id="dependent">
+              <li>past <ul>
+                  <li>active – cha/an/nach <m>tug</m></li>
+                  <li>passive – cha/an/nach <m>tugadh</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – cha/an/nach <m>toir</m></li>
+                  <li>passive – cha/an/nach <m>toirear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – cha/an/nach <m>toirinn</m></li>
+                      <li>first person plural – cha/an/nach <m>toireamaid</m></li>
+                      <li>second/third persons – cha/an/nach <m>toireadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – cha/an/nach <m>toirte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>voice</h>
+      <p>
+        <ul>
+          <li>active <ul id="active">
+              <li>past <ul>
+                  <li>independent – <m>thug</m></li>
+                  <li>relative – a <m>thug</m></li>
+                  <li>dependent – cha/an/nach <m>tug</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>bheir</m></li>
+                  <li>relative – a <m>bheir</m></li>
+                  <li>dependent – cha/an/nach <m>toir</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent <ul>
+                      <li>first person singular – <m>bheirinn</m></li>
+                      <li>first person plural – <m>bheireamaid</m></li>
+                      <li>second/third persons – <m>bheireadh</m></li>
+                    </ul>
+                  </li>
+                  <li>relative <ul>
+                      <li>first person singular – a <m>bheirinn</m></li>
+                      <li>first person plural – a <m>bheireamaid</m></li>
+                      <li>second/third persons – a <m>bheireadh</m></li>
+                    </ul>
+                  </li>
+                  <li>dependent <ul>
+                      <li>first person singular – cha/an/nach <m>toirinn</m></li>
+                      <li>first person plural – cha/an/nach <m>toireamaid</m></li>
+                      <li>second/third persons – cha/an/nach <m>toireadh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>passive <ul id="passive">
+              <li>past <ul>
+                  <li>independent – <m>thugadh</m></li>
+                  <li>relative – a <m>thugadh</m></li>
+                  <li>dependent – cha/an/nach <m>tugadh</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>bheirear</m></li>
+                  <li>relative – a <m>bheirear</m></li>
+                  <li>dependent – cha/an/nach <m>toirear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent – <m>bheirte</m></li>
+                  <li>relative – a <m>bheirte</m></li>
+                  <li>dependent – cha/an/nach <m>toirte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>imperative</h>
+      <p><ul>
+          <li>independent <ul id="indep">
+              <li>first person singular – <m>thoiream</m>!</li>
+              <li>second person singular – <m>thoir</m>!</li>
+              <li>first person plural – <m>thoireamaid</m>!</li>
+              <li>second person plural – <m>thoiribh</m>!</li>
+              <li>third person – <m>thoireadh</m>!</li>
+              <li>passive – <m>thoir(t)ear</m>!</li>
+            </ul>
+          </li>
+          <li>dependent <ul id="dep">
+              <li>first person singular – na <m>toiream</m>!</li>
+              <li>second person singular – na <m>toir</m>!</li>
+              <li>first person plural – na <m>toireamaid</m>!</li>
+              <li>second person plural – na <m>toiribh</m>!</li>
+              <li>third person – na <m>toireadh</m>!</li>
+              <li>passive – na <m>toir(t)ear</m>!</li>
+            </ul>
+          </li>
+        </ul></p>
+    </section>
+    <section>
+      <h>notes</h>
+      <p><ol>
+          <li>The future dependent stem <g>toir–</g> has the archaic alternative <g>tabhair–</g>.
+            Similarly, the verbal noun <g>toirt</g> has the archaic alternative
+            <g>tabhairt</g>.</li>
+          <li>The dependent forms in <g>toir-</g> and <g>tug-</g> are pronounced as if they were
+            spelled <g>doir-</g> and <g>dug-</g>. </li>
+        </ol>
+      </p>
+    </section>
+  </section>
+
+
+<!--
+  <section>
+    <h>dependents</h>
+    <section id="sbj">
+      <h>subject</h>
+      <p>Some examples – <ul>
+          <li>older pedagogical examples – <xl id="sbj-older-pedag">
+              <li>
+                <gd>Bha an latha brèagha blàth is <m>thug an athair</m> leis Iain agus Anna anns a’
+                  chàr. Chaidh iad sìos taobh an locha is stad iad aig àite bòidheach gorm. Chuir
+                  iad an càr a stigh gu taobh an rathaid is <m>thug iad</m> brat a mach as a’ chàr
+                  air son suidhe air. [...]</gd>
+                <tr>The day was lovely and warm and their father took John and Ann in the car. They
+                  went down the side of the lake and they stopped at a beautiful green place. They
+                  put the car into the side of the road and they took a blanket out of the car for
+                  sitting on. [...]</tr>
+                <ref text="621">td. 6</ref>
+              </li>
+            </xl>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section id="comps">
+      <h>complements</h>
+      <module id="thoir_leam">
+        <h>thoir leam</h>
+        <p>cf. <a href="?gd=le"><g>le</g></a>
+          <en>with</en></p>
+        <p>Some examples – <ul>
+            <li>older pedagogical examples – <xl id="leam-older-pedag">
+                <li>
+                  <gd>Bha an latha brèagha blàth is <m>thug an athair leis Iain agus Anna</m> anns
+                    a’ chàr. Chaidh iad sìos taobh an locha is stad iad aig àite bòidheach gorm.
+                    [...]</gd>
+                  <tr>The day was lovely and warm and their father took John and Ann with him in the
+                    car. They went down the side of the lake and they stopped at a beautiful green
+                    place. [...]</tr>
+                  <ref text="621">td. 6</ref>
+                </li>
+              </xl>
+            </li>
+            <li>Examples from Gairm – <xl id="leam-gairm">
+                <li>
+                  <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os
+                    cionn obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach ag
+                    ath-nuadhachadh dreach a’ Chomuinn. [...] Ach dh’ fheumadh am Fear-stiùiridh ùr
+                    barrachd air a sin a dhèanamh. Dh’ fheumadh e siubhal a dhèanamh eadar Rubha
+                    Robhanais agus Ceann Bharraidh, eadar am Parbh is Maol Chinn-tìre, agus cha
+                    deanadh math dha dìochuimhneachadh gu robh obair a’ Chomuinn a’ buntainn ri
+                    Coimisean nan Croitearan an Inbhirnis, ri Roinn an Fhoghluim an Dùn-Eideann,
+                    agus ri Tigh nan Cumantan an Lunnainn. An duine a theid do gach àite dhiubh sin,
+                    agus a <m>bheir barrachd air còmhradh leis dhachaidh</m>, nì e feum do ’n
+                    Chomunn is do ’n Ghàidhlig.</gd>
+                  <tr>The Highland Society is talking about choosing a new General who will oversee
+                    the Society’s work. [...] He would have enough to do initially reforming the
+                    Society. [...] But the new leader would have to do more than (just) that. He
+                    would have to travel between the Butt of Lewis and Barra Head, between Cape
+                    Wrath and the Mull of Kintyre, and he should not forget that the Society’s work
+                    is related to the Crofters’ Commission in Inverness, to the Education Department
+                    in Edinburgh, and to the House of Commons in London. The person who goes to each
+                    of those places, and who brings home more than (just) conversation, will benefit
+                    the Society and the Gaelic language.</tr>
+                  <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                </li>
+              </xl>
+            </li>
+
+          </ul>
+        </p>
+      </module>
+      <module id="a-mach">
+        <h>thoir a-mach</h>
+        <p>cf. <a href="?gd=a-mach"><g>a-mach</g></a>
+          <en>[to] outside</en></p>
+      </module>
+    </section>
+    <section id="mods">
+      <h>modifiers</h>
+      <p>Some examples – <ul>
+          <li><g>thoir <a href="?gd=an^preposition">ann an</a></g> – <ul>
+              <li>older pedagogical examples – <xl id="mods-older-pedag">
+                  <li>
+                    <gd>Bha an latha brèagha blàth is <m>thug an athair leis Iain agus Anna anns a’
+                        chàr</m>. Chaidh iad sìos taobh an locha is stad iad aig àite bòidheach
+                      gorm. [...]</gd>
+                    <tr>The day was lovely and warm and their father took John and Ann with him in
+                      the car. They went down the side of the lake and they stopped at a beautiful
+                      green place. [...]</tr>
+                    <ref text="621">td. 6</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+  </section>
+
+  <module id="thoir_do">
+    <h>thoir do</h>
+    <h lang="gd">...</h>
+    <p>Corpus examples – <xl id="exs-do">
+        <li>
+          <gd>[...] ’Se <m>glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no do
+              fhoghlum agus do litreachas na Gàidhlig</m>. Cuin a chualas ball-Pàrlamaid a’ togail a
+            ghuth a dh’ iarraidh leasachaidh do staid Gàidhlig ann an Albainn? [...] Dé na rudan a
+            dh’ fhaodadh sinn iarraidh? [...] Chan eil an sin ach rud no dhà a dh’ fhaodamaid
+            iarraidh. Tha Comunn nan Croitearan air nì de ’n t-seòrsa so iarraidh mar tha, air a’
+            Bh.B.C. <m>Thug sin togail inntinn dhuinn.</m> Có a nis a chuireas fead chruaidh ann an
+            cluais Luchd an Ionmhais ann a Westminster?</gd>
+          <tr><u>The Parliament has given very little assistance ever to the Gaelic language or to
+              Gaelic education and literature.</u> When has a member of Parliament been heard
+            raising his voice to demand improvement for the state of Gaelic in Scotland? [...] [...]
+            What are the things that we could demand? [...] Those are just a couple of things that
+            we could demand. The Crofters’ Society has demanded something of this kind already, on
+            the BBC. <u>That has given us inspiration.</u> Who now will put a hard whistle [?] in
+            the ear of the Finance People in Westminster?</tr>
+          <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+        </li>
+      </xl>
+    </p>
+    <p lang="gd">...</p>
+  </module>
+
+  <module id="thoir_gu_buil">
+    <h>thoir gu buil</h>
+    <h lang="gd">...</h>
+    <p>Corpus examples – <xl id="exs-buil">
+        <li>
+          <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os cionn
+            obair a’ Chomuinn. [...] Cha b’ fhuilear do dhuine de ’n t-seòrsa so tomhas mhath de
+            chumhachd a bhith aige. Cha dean math dha a bhith air a shlaodadh aig tòin Coimitidh,
+            ach feumaidh an Coimitidh earbsa a bhith aca ás. Bhiodh sin aca nan cuireadh e obair
+            romhpa, agus nan <m>tugadh e gu buil</m> gach obair air an tugadh iad làmh.</gd>
+          <tr>The Highland Society is talking about choosing a new General who will oversee the
+            Society’s work. [...] A person of this kind would have to have a good measure of power.
+            It would do him no good to be dragged along by the Committee <ed>??</ed>, but the
+            Committee must have trust in him. They would have that if he would put work before them
+              <ed>??</ed>, and if he would <u>complete</u> every job which they would get a hold of
+              <ed>??</ed>.</tr>
+          <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+        </li>
+      </xl>
+    </p>
+    <p lang="gd">...</p>
+  </module>
+  <module id="thoir_lamh">
+    <h>thoir làmh</h>
+    <h lang="gd">...</h>
+    <p>Corpus examples – <xl id="exs-lamh">
+        <li>
+          <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os cionn
+            obair a’ Chomuinn. [...] Cha b’ fhuilear do dhuine de ’n t-seòrsa so tomhas mhath de
+            chumhachd a bhith aige. Cha dean math dha a bhith air a shlaodadh aig tòin Coimitidh,
+            ach feumaidh an Coimitidh earbsa a bhith aca ás. Bhiodh sin aca nan cuireadh e obair
+            romhpa, agus nan tugadh e gu buil gach obair air an <m>tugadh iad làmh</m>.</gd>
+          <tr>The Highland Society is talking about choosing a new General who will oversee the
+            Society’s work. [...] A person of this kind would have to have a good measure of power.
+            It would do him no good to be dragged along by the Committee <ed>??</ed>, but the
+            Committee must have trust in him. They would have that if he would put work before them
+              <ed>??</ed>, and if he would complete every job which they would <u>get a hold of</u>
+            <ed>??</ed>.</tr>
+          <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+        </li>
+      </xl>
+    </p>
+    <p lang="gd">...</p>
+  </module>
+  -->
+</module>

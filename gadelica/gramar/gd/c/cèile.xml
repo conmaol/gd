@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">cèile</h>
+    <h lang="gd">cèile</h>
+    <p lang="en"><b>cèile</b>
+        <en>spouse, consort, mate, wife, husband; counterpart, fellow</en> is a masculine common
+        noun, with plural form <b>cèilean</b>.</p>
+    <p lang="gd">...</p>
+    <module id="mo_cheile">
+        <h lang="en">mo chèile</h>
+        <h lang="gd">mo chèile</h>
+        <p lang="en">The basic use of <b>cèile</b> is as a (sex-neutral) interpersonal relationship
+            noun, usually occurring with a possessive determiner as pre-specifier – <ul>
+                <li>Seo <m>mo chèile</m>. <en>This is my husband/wife.</en></li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">
+            <xl id="mo_cheile_xs">
+                <li>
+                    <gd>a chèile</gd>
+                    <tr>his spouse/wife</tr>
+                    <ref text="605">td. 86</ref>
+                </li>
+                <li>
+                    <gd>a cèile</gd>
+                    <tr>her spouse/wife</tr>
+                    <ref text="605">td. 86</ref>
+                </li>
+                <li>
+                    <gd>seo mo chèile</gd>
+                    <tr>this is my husband/wife/spouse</tr>
+                    <ref text="601">td. 126</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">Note the following compounds – <ul>
+                <li><m>bràthair mo chèile</m>
+                    <en>my brother-in-law</en></li>
+                <li><m>piuthar do chèile</m>
+                    <en>your sister-in-law</en></li>
+                <li><m>màthair a chèile</m>
+                    <en>his mother-in-law</en></li>
+                <li><m>athair a cèile</m>
+                    <en>her father-in-law</en></li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">As well as the more innovative, English-flavoured alternatives – <ul>
+                <li><m>mo bhràthair cèile</m>
+                    <en>my brother-in-law</en></li>
+                <li><m>do phiuthar chèile</m>
+                    <en>your sister-in-law</en></li>
+                <li><m>a mhàthair chèile</m>
+                    <en>his mother-in-law</en></li>
+                <li><m>a h-athair cèile</m>
+                    <en>her father-in-law</en></li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">cf. <b>cèile mo bhràthar</b> &amp;c?</p>
+        <p lang="gd">...</p>
+    </module>
+    <module id="a_cheile">
+        <h lang="en">a chèile</h>
+        <h lang="gd">a chèile</h>
+        <p lang="en"><b>a chèile</b>
+            <en>each other, one another</en> functions like a (fossilised?) reciprocal pronoun – <ul>
+                <li><m>Phòg iad a chèile.</m>
+                    <en>They kissed each other.</en></li>
+                <li><m>Bha sinn a’ bruidhinn ri (a) chèile.</m>
+                    <en>We were talking to each other.</en></li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">Note the lack of explicit agreement in modern Gaelic – <ul>
+                <li><bad>phòg iad an cèile</bad></li>
+                <li><bad>bha sinn a’ bruidhinn ri ar cèile</bad></li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">
+            <xl id="a_cheile_xs">
+                <li>
+                    <gd>Bha iad a’ pògadh a chèile.</gd>
+                    <tr>They were kissing each other.</tr>
+                    <ref text="601">td. 130</ref>
+                </li>
+                <li>
+                    <gd>Cha robh iad pòsta aig a chèile.</gd>
+                    <tr>They weren’t married to each other.</tr>
+                    <ref text="601">td. 130</ref>
+                </li>
+
+
+                <li>
+                    <gd>... ’s iad a’ leughadh aodann a chèile ...</gd>
+                    <tr>[and they] reading each other’s faces</tr>
+                    <ref text="601">td. 130</ref>
+                </li>
+                
+                <li>
+                    <gd>Bithibh an comain a chèile.</gd>
+                    <tr>Be obligated to each other.</tr>
+                    <ref text="601">td. 130</ref>
+                </li>
+
+
+
+                <li>
+                    <gd>fillte na chèile</gd>
+                    <tr>folded together</tr>
+                    <ref text="601">td. 130</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">Also: <b>càch a chèile</b> – <xl id="cach_a_cheile">
+                <li>
+                    <gd>Cha robh iad a’ bruidhinn ri càch a chèile.</gd>
+                    <tr>They weren’t speaking to each other.</tr>
+                    <ref text="601">td. 130</ref>
+                </li>
+                <li>
+                    <gd>na bòidean a thug iad do chàch a chèile</gd>
+                    <tr>the vows that they had given to each other</tr>
+                    <ref text="601">td. 130</ref>
+                </li>
+                <li>
+                    <gd>Biodh gràdh agaibh do chàch a chèile.</gd>
+                    <tr>[You should] love one another.</tr>
+                    <ref text="601">td. 130</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">Note also the following idioms – <ul>
+                <li><b>tha na bràithrean thar a chèile</b>
+                    <en>the brothers are at loggerheads / have fallen out with each other</en></li>
+                <li><b>tha sinn mòr aig a chèile</b>
+                    <en>we are good friends (with each other)</en></li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <module id="as_a_cheile">
+            <h lang="en">às a chèile</h>
+            <h lang="gd">às a chèile</h>
+            <p lang="en"><b>às a chèile</b>
+                <en>asunder</en>
+                <note>[2004 Colin Mark <i>Am Faclair Gàidhlig-Beurla</i> td. 130]</note></p>
+            <p lang="gd">...</p>
+            <p lang="en"><b>thoir às a chèile</b>
+                <en>dismantle</en>
+                <note>[2004 Colin Mark <i>Am Faclair Gàidhlig-Beurla</i> td. 130]</note>
+            <xl id="thoir_as_a_cheile">
+                <li>
+                    <gd>Faodaidh mise an taigh a rannsachadh agus a h-uile càil a tha na bhroinn a thoirt às a chèile.</gd>
+                    <tr>I can search the house and take apart everything that is in it.</tr>
+                    <ref text="2">td. 22</ref>
+                </li>
+            </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+        <module id="as_deidh_a_cheile">
+            <h lang="en">às dèidh a chèile</h>
+            <h lang="gd">às dèidh a chèile</h>
+            <p lang="en"><b>às</b> (or <b>an</b>) <b>dèidh a chèile</b>
+                <en>after each other, successive, in succession</en>
+                <note>[2004 Colin Mark <i>Am Faclair Gàidhlig-Beurla</i> td. 130]</note>
+                <xl id="as_deidh_a_cheile_xs">
+                    <li>
+                        <gd>Thàinig iad a-steach às dèidh a chèile.</gd>
+                        <tr>They entered one after the other / in succession.</tr>
+                        <ref text="601">td. 130</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+        <module id="air_a_cheile">
+            <h lang="en">air a chèile</h>
+            <h lang="gd">air a chèile</h>
+            <p lang="en">Non-idiomatic uses 
+                <xl id="air_a_cheile_basic">
+                    <li>
+                        <gd>Ach nuair a chuala iad mo sgeulachd, mhothaich mi gun tug iad sùil air a chèile.</gd>
+                        <tr>But when they heard my story, I noticed that they glanced at each other.</tr>
+                        <ref text="2">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Cha bhi sinn a’ sgreuchail ri chèile idir, no a’ sadadh nan soithichean air a chèile.</gd>
+                        <tr>We don’t scream at eah other at all, nor throw dishes at each other.</tr>
+                        <ref text="2">td. 104</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+        <module id="an_aghaidh_a_cheile">
+            <h lang="en">an aghaidh a chèile</h>
+            <h lang="gd">an aghaidh a chèile</h>
+            <p lang="en">Non-idiomatic uses 
+                <xl id="an_aghaidh_a_cheile_xs">
+                    <li>
+                        <gd>Na leugh thu Lebhiticus XX:21 agus Deuteronomi XXV:5? Nach eil iad calg-dhìreach an aghaidh a chèile?</gd>
+                        <tr>Have you not reas Leviticus 20:21 and Deutoronomy 25:5? Are they not diametrically opposed to each other?</tr>
+                        <ref text="2">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+        
+        <module id="bho_cheile">
+            <h lang="en">bho chèile</h>
+            <h lang="gd">bho chèile</h>
+            <p lang="en">Non-idiomatic uses 
+                <xl id="bho_cheile_basic">
+                    <li>
+                        <gd>Chan aithnich thu bho chèile iad [ie. dà dhual].</gd>
+                        <tr>You can’t tell them [two locks of hair] apart.</tr>
+                        <ref text="2">td. 43</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+            <p lang="en"><b>(bh)o chèile</b>
+                <en>apart</en>
+                <note>[2004 Colin Mark <i>Am Faclair Gàidhlig-Beurla</i> td. 130]</note></p>
+            <p lang="gd">...</p>
+            <p lang="en"><b>cuir (bh)o chèile</b>
+                <en>pry (open)</en>
+                <note>[2004 Colin Mark <i>Am Faclair Gàidhlig-Beurla</i> td. 130]</note></p>
+            <p lang="gd">...</p>
+            <p lang="en"><b>spìon (bh)o chèile</b>
+                <en>dismember</en>
+                <note>[2004 Colin Mark <i>Am Faclair Gàidhlig-Beurla</i> td. 130]</note></p>
+            <p lang="gd">...</p>
+            <p lang="en"><b>(bh)o aon a chèile</b>
+                <en>from each other / from one another</en>
+                <note>[2004 Colin Mark <i>Am Faclair Gàidhlig-Beurla</i> td. 130]</note></p>
+            <p lang="gd">...</p>
+        </module>
+        <module id="do_cheile">
+            <h lang="en">do chèile</h>
+            <h lang="gd">do chèile</h>
+            <p lang="en">Non-idiomatic uses 
+                <xl id="do_cheile_basic">
+                    <li>
+                        <gd>Choinnich e ri Elsie May aon oidhche ann an taigh-seinnse anns a’ bhaile mhòr, agus shaoil sinn gun deach an dithis a dhèanamh dha a chèile.</gd>
+                        <tr>He met Elsie May one night in a bar in the city, and we thought that the two of them were made for each other.</tr>
+                        <ref text="2">td. 26</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+        <module id="gu_cheile">
+            <h lang="en">gu chèile</h>
+            <h lang="gd">gu chèile</h>
+            <p lang="en">Non-idiomatic uses 
+                <xl id="gu_cheile_basic">
+                    <li>
+                        <gd>Cha robh i ga choimhead ach uair no dhà sa bhliadhna. Ach bha iad a’ sgrìobhadh gu chèile a h-uile seachdain.</gd>
+                        <tr>She only saw him once or twice a year. But they wrote to each other every week.</tr>
+                        <ref text="2">td. 43</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+            <p lang="en"><b>thig gu chèile</b>
+                <en>come together</en>
+                <xl id="thig_gu_cheile">
+                    <li>
+                        <gd>Cha robh na pàirtean a’ tighinn gu chèile.</gd>
+                        <tr>The parts weren’t coming together.</tr>
+                        <ref text="601">td. 130</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+            <p lang="en"><b>tarraing gu chèile</b>
+                <en>attract together</en>
+                <xl id="tarraing_gu_cheile">
+                    <li>
+                        <gd>Bha iomadh rud gan tarraing gu chèile.</gd>
+                        <tr>Many things attracted them to each other.</tr>
+                        <ref text="601">td. 130</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+        <module id="le_cheile">
+            <h lang="en">le chèile</h>
+            <h lang="gd">le chèile</h>
+            <p lang="en"><b>le chèile</b>
+                <en>all, both, jointly, together</en> is a quasi-manner adverbial – <ul>
+                    <li>[subject-modifying] <m>Chaidh iad le chèile a Lunnainn.</m>
+                        <en>They both/all went to London.</en>
+                        <xl id="le_cheile_sbj">
+                            <li>
+                                <gd>Bha sgrìobhadh eile ann a’ moladh an dithis [ie. Mgr. Coull agus
+                                    a bhean Laura] agus ag innse gur ann an Innse Gall a rugadh iad
+                                    le chèile.</gd>
+                                <tr>There was another note praising the two of them [Mr Coull and
+                                    his wife Laura] and saying that they had both been born in the
+                                    Hebrides.</tr>
+                                <ref text="2">td. 86</ref>
+                            </li>
+                            <li>
+                                <gd>Dh’fhalbh iad le chèile.</gd>
+                                <tr>They left together. / They both left.</tr>
+                                <ref text="605">td. 241</ref>
+                            </li>
+                            <li>
+                                <gd>Chaidh an triùir le chèile don mhuileann.</gd>
+                                <tr>The three went together to the mill</tr>
+                                <ref text="601">td. 130</ref>
+                            </li>
+                            <li>
+                                <gd>Chaidh Uisdean a chur dhachaigh air itealan-eiridinn agus chuir
+                                    an t-ospadal Sandaidh còmhla ris airson coimhead às a dhèidh.
+                                    Bha iad le chèile glè dheònach sin a dhèanamh, oir bha iad ann
+                                    am fiachan thall ’s a-bhos.</gd>
+                                <tr>Hugh was sent home on an emergency plane and the hospital sent
+                                    Sandy with him to look after him. They were both very willing to
+                                    do that, because they were in debt(s) all over the place.</tr>
+                                <ref text="2">td. 58</ref>
+                            </li>
+                            <li>
+                                <gd>Tha na leabhraichean seo le chèile nan cruinneachadh
+                                    bàrdachd.</gd>
+                                <tr>These books are both collections of poetry.</tr>
+                                <ref text="601">td. 130</ref>
+                                <note>The subject is <u>inanimate</u> here.</note>
+                            </li>
+                        </xl>
+                    </li>
+                    <li>[predicate modifying] <m>Tha clann againn le chèile.</m>
+                        <en>We all/both have children.</en>
+                        <xl id="le_cheile_pred">
+                            <li>
+                                <gd>’S e cànanan Cèilteach a tha annta le chèile.</gd>
+                                <tr>They are both Celtic languages.</tr>
+                                <ref text="601">td. 130</ref>
+                            </li>
+                            <li>
+                                <gd>Tha earbaill dhosrach orra le chèile.</gd>
+                                <tr>They both have bushy tails.</tr>
+                                <ref text="601">td. 130</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li>[object modifying] <m>Phòg i na balaich le chèile.</m>
+                        <ed>??</ed>
+                        <en>She kissed all/both the boys.</en></li>
+                    <li>[indirect object modifying] <m>Thug e leabhar dhaibh le chèile.</m>
+                        <en>He gave them all/both a book.</en>
+                        <xl id="le_cheile_ind_obj">
+                            <li>
+                                <gd>Thug e orra le chèile de chofaidh làidir òl.</gd>
+                                <tr>He made them both drink strong coffee.</tr>
+                                <ref text="601">td. 130</ref>
+                            </li>
+                            <li>
+                                <gd>Thug e pòg dhaibh le chèile.</gd>
+                                <tr>He gave them both a kiss.</tr>
+                                <ref text="601">td. 130</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li>[emphasising conjunction] <m>Tha Màiri agus Raonaid le chèile pòsta.</m>
+                        <en>Mary and Rachel are both married.</en>
+                        <xl id="le_cheile_conj">
+                            <li>
+                                <gd>Ach bha peatan aige [ie. aig an tidsear] cuideachd, balaich agus
+                                    clann-nighean le chèile.</gd>
+                                <tr>But he [the teacher] had favourites too, boys and girls
+                                    both.</tr>
+                                <ref text="2">td. 69</ref>
+                            </li>
+                            <li>
+                                <gd>Thusa agus mise le chèile.</gd>
+                                <tr>Both you and I.</tr>
+                                <ref text="601">td. 130</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+            <p lang="gd">...</p>
+            <p lang="en">cf. <a href="?en=both">both</a>, <a href="?en=all">all</a>.</p>
+            <p lang="gd">...</p>
+        </module>
+        <module id="ri_cheile">
+            <h lang="en">ri chèile</h>
+            <h lang="gd">ri chèile</h>
+            <p lang="en">Non-idiomatic uses 
+                <xl id="ri_cheile_basic">
+                    <li>
+                        <gd>Ceann sreath bha cùirt ann agus thàinig a h-uile càil a-mach an sin. Lorg iad an Glaschu mar a choinnich Syd agus Harry ri chèile agus gu robh deagh fhios aig Syd gur e Harry a thruaill a leanabh.</gd>
+                        <tr>In due course there was a trial and everything came out there. They found out in Glasgow how Syd and Harry had met each other and that Syd knew well that it was Harry who had violated his child.</tr>
+                        <ref text="2">td. 62</ref>
+                    </li>
+                    <li>
+                        <gd>Ann an cumadh cha robh iad coltach ri chèile idir. Bha Sandaidh meadhanach àrd, caol, le falt dubh agus aghaidh dhorch, bhiorach, 
+                            ach bha Uisdean beag, le falt bàn is sùilean gorma, neo-chiontach.</gd>
+                        <tr>In appearance they were not like each other at all. Sandy was of average height, think, with black hair and a dark, pointed face,
+                        but Hugh was short, with fair hair and innocent, blue eyes.</tr>
+                        <ref text="2">td. 52</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+            <p lang="en"><b>thig ri chèile</b>
+                <en>click, get on together</en>
+                <xl id="thig_ri_cheile">
+                    <li>
+                        <gd>Cha tig iad ri chèile.</gd>
+                        <tr>They (will) jar.</tr>
+                        <ref text="601">td. 130</ref>
+                    </li>
+                    <li>
+                        <gd>Bha iad a’ tighinn ri chèile gu dòigheil.</gd>
+                        <tr>They were getting on together handsomely.</tr>
+                        <ref text="601">td. 130</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd"/>
+            <p lang="en"><b>cuir ri chèile</b>
+                <en>put together, assemble, build, compile, collate, amalgamate, cement, compose,
+                    construct, fabricate, join, juxtapose</en>
+                <xl id="cuir_ri_cheile">
+                    <li>
+                        <gd>Tha e dìreach an dèidh Gràmair Gàidhlig a chur ri chèile.</gd>
+                        <tr>He has just compiled a Gaelic Grammar.</tr>
+                        <ref text="601">td. 130</ref>
+                    </li>
+                    <li>
+                        <gd>cur ri chèile</gd>
+                        <tr>juxtaposition</tr>
+                        <ref text="601">td. 130</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd"/>
+            <p lang="en"><b>cùm ri chèile</b>
+                <en>keep together</en>
+                <xl id="cum_ri_cheile">
+                    <li>
+                        <gd>Bidh seo gan cumail ri chèile.</gd>
+                        <tr>This keeps them together.</tr>
+                        <ref text="601">td. 130</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd"/>
+        </module>
+        <module id="ri_taobh_a_cheile">
+            <h lang="en">ri taobh a chèile</h>
+            <h lang="gd">ri taobh a chèile</h>
+            <p lang="en"><b>ri taobh a chèile</b>
+                <en>side by side, abreast</en>
+                <xl id="ri_taobh_a_cheile_xs">
+                    <li>
+                        <gd>Tha an taigh againne agus taigh Eilidh, nighean mo pheathar, ri taobh a chèile.</gd>
+                        <tr>Our house and my niece Helen’s house were next to each other.</tr>
+                        <ref text="2">td. 13</ref>
+                    </li>
+                    <li>
+                        <gd>Bha iad a’ coiseachd ri taobh a chèile.</gd>
+                        <tr>They were walking side by side / abreast.</tr>
+                        <ref text="601">td. 130</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+        <module id="tro_cheile">
+            <h lang="en">tro chèile</h>
+            <h lang="gd">tro chèile</h>
+            <p lang="en"><b>tro chèile</b> <en>confused, agitated, tangled, untidy, disordered, muddled, in turmoil</en> has adjectival force –
+            <ul>
+                <li>[noun modifier] <b>duine tro chèile</b> <ed>??</ed> <en>a confused person</en>
+                <xl id="tro_cheile_nmod">
+                    <li>
+                        <gd>anns na bliadhnachan tro-chèile an dèidh a’ chogaidh</gd>
+                        <tr>in the confused years after the war</tr>
+                        <ref text="601">td. 599</ref>
+                    </li>
+                </xl>
+                </li>
+                <li><b>bi tro chèile</b> <en>be confused/agitated &amp;c.</en>
+                    <xl id="tro_cheile_pred">
+                        <li>
+                            <gd>Bha cargu aig an Langitoto airson Launceston an Tasmania agus ràinig Syd am port sin gun leigeil ris do dhuine air bòrd cho troimh-chèile ’s a bha e.</gd>
+                            <tr>There was cargo on the Langitoto for Launceston in Tasmania and Syd arrived at that port without betraying to the men on board how agitated he was.</tr>
+                            <ref text="2">td. 60</ref>
+                        </li>
+                        <li>
+                            <gd>Bha m’ inntinn cho tro-chèile ’s nach do dh’fhan mi ris a’ bhus.</gd>
+                            <tr>My mind was so confused that I didn’t wait for the bus.</tr>
+                            <ref text="601">td. 599</ref>
+                        </li>
+                    </xl>
+                </li>
+                <li><b>rach tro chèile</b> <en>get confused/agitated &amp;c.</en>
+                    <xl id="rach_tro_cheile">
+                        <li>
+                            <gd>B’ fheudar do Eilidh seo eadar-theangachadh do Newall agus thòisich e ga ceasnachadh mar fhear-lagha. 
+                                Chaidh e cho troimh- chèile ’s gun tuirt i ris, [...]</gd>
+                            <tr>Helen had to translate this for Newall and he started t interrogate her like a lawyer.
+                            He got so agitated that she said to him [...]</tr>
+                            <ref text="2">td. 80</ref>
+                        </li>
+                    </xl>
+                </li>
+                <li><b>cuir tro chèile</b> <en>confuse, complicate, agitate, disconcert, muddle, jumble</en>
+                    <xl id="cuir_tro_cheile">
+                        <li>
+                            <gd>Tha mi ag innse seo dhut gus an tuig thu cho cudromach ’s a tha e seo a chumail dìomhair. Tha e glè fhurasta Màsasmo a chur troimh-chèile, agus ’s ann òirnne a chuireadh e a’ choire.</gd>
+                            <tr>I am telling you this so that you understand how important it is to keep this a secret. It is very easy to confuse Masasma, and it is us that he would blame.</tr>
+                            <ref text="2">td. 20</ref>
+                        </li>
+                        <li>
+                            <gd>Bha iad air an cur tro-chèile.</gd>
+                            <tr>They were confused.</tr>
+                            <ref text="601">td. 599</ref>
+                        </li>
+                    </xl>
+                </li>
+            </ul>
+            </p>
+            <p lang="gd">...</p>
+            <p lang="en">cf. The (exocentric) compound noun <b>tro-chèile</b> <i>fem.</i> <en>agitation, confusion, dementia, disorder, ferment, muddle, tangle, turmoil, welter</en> 
+                <note>[2004 Colin Mark <i>Am Faclair Gàidhlig-Beurla</i> td. 599]</note>.
+                Also: <b>tro-chèile inntinn(e)</b> <en>psychosis</en>; <b>cur-tro-chèile</b> <masc/> <en>upset</en>.
+            </p>
+            <p lang="gd">...</p>
+        </module>
+    </module>
+
+    <module id="idioms">
+        <h lang="en">other idioms and compounds</h>
+        <h lang="gd">...</h>
+        <p lang="en"><b>cèile còmhraige</b>
+            <en>antagonist (literally fighting partner)</en></p>
+        <p lang="gd">...</p>
+    </module>
+</module>

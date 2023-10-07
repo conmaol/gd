@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title>uiread</title>
+  <p><strong>uiread</strong> is an non-declinable masculine <a href="?xx=nouns/generic_quantity_nouns">generic quantity noun</a> with two main senses – <ul>
+      <li>resultative <en>so much/many that, such a lot that</en> eg. Tha <m>uiread chon</m> aig Màiri is gu bheil i daonnan sgìth <en>Mary has so many dogs that she’s always tired.</en></li>
+      <li>equative comparative <en>as much/many as</en> eg. Tha <m>uiread chon</m> aig Màiri is a tha cait aig Dòmhnall. <en>Mary has as many dogs as Donald has cats.</en></li>
+    </ul>
+  </p>
+  <hr/>
+  <p>In terms of the stuff being quantified (ie. the standard of comparison), <strong>uiread</strong> generally works like other generic quantity nouns –</p>
+  <ul>
+    <li>When the standard of comparison is new information, it is usually expressed as a noun modifier/specifier of the quantity noun, either the genitive singular of a mass noun or the genitive
+      plural of a count noun eg. <ul>
+        <li>Dh’òl Raonaid <m>uiread <u>fìona</u></m> ... <en>Rachel drank so/as much wine ...</en></li>
+        <li>Tha <m>uiread <u>chon</u></m> aig Màiri ... <en>Mary has so/as many dogs ...</en></li>
+      </ul>
+      <ul id="uiread_specifier">
+        <li>
+          <gd>Bha uiread fiodha ’s a dhèanadh aon sgeilp.</gd>
+          <tr>There was as much wood as would make one shelf. [enough to??]</tr>
+          <ref text="601">td. 616</ref>
+        </li>
+        <li><gd>Chan eil uiread iarraidh air a-nis.</gd>
+          <tr>There isn’t as much demand for it now.</tr><ref text="601">td. 616</ref></li>
+      </ul>
+    </li>
+    <li>When the standard of comparison is already known, it is usually introduced by the partitive preposition <a href="?gd=de">de</a>
+      <en>of</en> governing a specified (ie. ‘definite’) noun eg. <ul>
+        <li>Dh’òl Raonaid <m>uiread <u>den fhìona</u></m> ... <en>Rachel drank so/as much of the wine ...</en></li>
+        <li>Cheannaich Màiri <m>uiread <u>de mo choin</u></m> ... <en>Mary bought so/as many of my dogs ...</en></li>
+      </ul>
+    </li>
+    <li>When the standard of comparison is already known, and has just been referred to, or can be inferred, <strong>uiread</strong> can occur on its own eg. <ul>
+        <li>Dh’òl Raonaid <m>uiread</m> ... <en>Rachel drank so/as much ...</en></li>
+        <li>Tha <m>uiread</m> aig Màiri ... <en>Mary has so/as many ...</en></li>
+      </ul>
+      <ul id="uiread">
+        <li>
+          <gd>Tha uiread agam ’s a th’ agadsa.</gd>
+          <tr>I have as much as you have.</tr>
+          <ref text="600">td. 994</ref>
+        </li>
+        <li>
+          <gd>Thoir dhomh uiread ’s a tha aig Iain.</gd>
+          <tr>Give me as much as John has.</tr>
+          <ref text="605">td. 396</ref>
+        </li>
+      </ul>
+    </li>
+    <li>Alternatively, <strong>uiread</strong> can be followed by one of the <a href="?gd=de">de</a> prepositional pronouns eg. <ul>
+        <li>Dh’òl Raonaid <m>uiread <u>dheth</u></m> ... <en>Rachel drank so/as much of it ...</en></li>
+        <li>Tha <m>uiread <u>dhiubh</u></m> aig Màiri ... <en>Mary has so/as many of them ...</en></li>
+      </ul>
+      <ul id="uiread_de">
+        <li><gd>Cha do rinn e uiread dheth ’s a dh’fhaodadh e.</gd>
+          <tr>He didn’t make as much of it as he might [have done].</tr><ref text="601">td. 615</ref></li>
+      </ul>
+    </li>
+    <li><strong>uiread mu (dheidhinn)</strong>
+      <en>so/as much [information/knowledge] about some topic</en> eg. <ul>
+        <li>Dh’ionnsaich Màiri <m>uiread mu</m> choin ... <en>Mary learned so much about dogs.</en>
+          <ul id="uiread_mu">
+            <li>
+              <gd/>
+              <tr/>
+              <ref text="">td. 60</ref>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><strong>uiread ri (dhèanamh)</strong> <en>so/as much to do</en> eg. <ul>
+        <li>Tha <m>uiread ri</m> dhèanamh aig Raonaid ... <en>Rachel has so/as much to do ...</en>
+          <ul id="uiread_ri">
+            <li><gd>Bha uiread ri a dhèanamh is gun do chuir e eagal orm.</gd>
+              <tr>There was so much to do that it scared me.</tr><ref text="601">td. 615</ref></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+  <p>However, there is some variation in usage to be found here. <ul id="uiread_de_variation">
+      <li>
+        <gd>Chaill mi uiread de thìde.</gd>
+        <tr>I lost such a lot of time.</tr>
+        <ref text="6045">td. 397</ref>
+      </li>
+      <li><gd>The e iongantach gun do rinn e uiread de obair ionmholta anns an ùine sin.</gd>
+        <tr>It is amazing that he performed so much praiseworthy work in that time.</tr>
+        <ref text="601">td. 616</ref></li>
+      <li><gd>... a bha a’ cur uiread de dhragh air ...</gd>
+        <tr>... which was giving him so much bother ...</tr>
+        <ref text="601">td. 616</ref></li>
+    </ul>
+  </p>
+  <hr/>
+  <p>In its <u>resultative</u> sense, <strong>uiread ... is gun/nach ...</strong> describes a situation which is a result of some other situation involving a significantly large quantity of something
+    eg.</p>
+  <ul>
+    <li>Dh’òl Raonaid <m>uiread fìona is gun do chuir</m> i a-mach. <en>Rachel drank so much wine that she was sick.</en>
+      <ul id="resultatives-positive">
+        <li><gd>Bha uiread ri a dhèanamh is gun do chuir e eagal orm.</gd>
+          <tr>There was so much to do that it scared me.</tr><ref text="603">Mark (2004) td. 615</ref></li>
+      </ul></li>
+    <li>Tha <m>uiread chon</m> aig Màiri <m>is nach eil</m> airgead sam bith aice. <en>Mary has so many dogs that she has no money at all.</en>
+      <ul id="resultatives-negative"> </ul></li>
+  </ul>
+  <p>When there is no explicit result clause, this construction often has exclamatory force eg.</p>
+  <ul>
+    <li>Tha <m>uiread chon</m> aig Màiri! <en>Mary has so many dogs!</en></li>
+  </ul>
+  <ul id="resultatives">
+    <li>
+      <gd>Chaill mi uiread de thìde.</gd>
+      <tr>I lost such a lot of time.</tr>
+      <ref text="604">td. 397</ref>
+    </li>
+    <li><gd>The e iongantach gun do rinn e uiread de obair ionmholta anns an ùine sin.</gd>
+      <tr>It is amazing that he performed so much praiseworthy work in that time.</tr>
+      <ref text="603">Mark (2004) td. 616</ref></li>
+    <li><gd>... a bha a’ cur uiread de dhragh air ...</gd>
+      <tr>... which was giving him so much bother ...</tr>
+      <ref text="603">Mark (2004) td. 616</ref></li>
+  </ul>
+  <hr/>
+  <p>In its <u>equative</u> sense, <strong>uiread ... is a ...</strong> describes a situation involving two different quantities of the same size eg. <ul>
+      <li>Tha <m>uiread chon</m> aig Màiri <m>is a tha</m> cait aig Dòmhnall. <en>Mary has as many dogs as Donald has cats.</en></li>
+      <li>Dh’òl Raonaid <m>uiread fìona is a dh’òl</m> Seumas. <en>Rachel drank as much wine as James [did].</en></li>
+    </ul>
+    <ul id="equatives">
+      <li>
+        <gd>Tha uiread agam ’s a th’ agadsa.</gd>
+        <tr>I have as much as you have.</tr>
+        <ref text="600">Dwelly td. 994</ref>
+      </li>
+      <li>
+        <gd>Bha uiread fiodha ’s a dhèanadh aon sgeilp.</gd>
+        <tr>There was as much wood as would make one shelf. [enough to??]</tr>
+        <ref text="603">Mark (2004) td. 616</ref>
+      </li>
+      <li>
+        <gd>Thoir dhomh uiread ’s a tha aig Iain.</gd>
+        <tr>Give me as much as John has.</tr>
+        <ref text="604">Watson (2001) td. 396</ref>
+      </li>
+    </ul>
+  </p>
+  <p>Where there is no explicit target of comparison, this can be supplied from context eg.</p>
+  <ul>
+    <li>Tha trì cait aig Dòmhnall. Tha <m>uiread chon</m> aig Màiri. <en>Donald has three cats. Mary has as many dogs.</en></li>
+  </ul>
+  <p>When equative <strong>uiread</strong> is used within the scope of a negative particle, it is usually interpreted as a <u>negative comparative</u>
+    <en>less/fewer than</en>, rather than as a simple negative equative <en>not equal to</en> eg.</p>
+  <ul>
+    <li>Chan eil <m>uiread chon</m> aig Màiri <m>’s a tha</m> cait aig Dòmhnall. <en>Mary doesn’t have as many dogs as Donald has cats. [She has fewer.]</en></li>
+    <li>Cha do dh’òl Raonaid <m>uiread fìona ’s a dh’òl</m> Seumas. <en>Rachel didn’t drink as much wine as James [did]. [She drank less.]</en></li>
+  </ul>
+  <ul id="negative_comparatives">
+    <li>
+      <gd>Chan eil uiread sin agam.</gd>
+      <tr>I have not as much as that</tr>
+      <ref text="600">Dwelly td. 994</ref>
+    </li>
+    <li><gd>Cha do rinn e uiread dheth ’s a dh’fhaodadh e.</gd>
+      <tr>He didn’t make as much of it as he might [have done].</tr><ref text="603">Mark (2004) td. 615</ref></li>
+    <li><gd>Chan eil uiread iarraidh air a-nis.</gd>
+      <tr>There isn’t as much demand for it now.</tr><ref text="603">Mark (2004) td. 616</ref></li>
+  </ul>
+  <hr/>
+  <p>Miscellaneous uses –</p>
+  <ul>
+    <li>na h-uiread <en>a modicum of, a great quantity of</en>
+      <ul id="na_h-uiread">
+        <li>
+          <gd>Bha na h-uiread de thèarainteachd againn.</gd>
+          <tr>We had a certain amount / modicum of security.</tr>
+          <ref text="605">td. 396</ref>
+        </li>
+        <li>
+          <gd>Chaill mi na h-uiread de thìde.</gd>
+          <tr>I lost so much time / such a lot of time.</tr>
+          <ref text="605">td. 397</ref>
+        </li>
+      </ul>
+    </li>
+    <li>leth uiread <en>half as much as</en>
+      <ul id="negative_comparatives_more">
+        <li><gd>Tha iad a’ dèanamh a leth uiread de mhearachan a-nise.</gd>
+          <tr>The are making half as many mistakes now.</tr><ref text="601">td. 616</ref></li>
+      </ul>
+    </li>
+    <li>uiread eile <en>as much again, twice as much as(?)</en></li>
+    <li>cha/nach/gun uiread agus + numeral <en>not so much as, not even as much as</en>
+      <ul id="uiread_agus_NUM">
+        <li><gd>gun uiread agus leth-cheud sgillinn</gd>
+          <tr>without even 50p / without so much as 50p</tr><ref text="605">td. 396</ref></li>
+      </ul>
+    </li>
+    <li>multiplication
+      <ul id="multiplication">
+        <li><gd>a dhà uiread a dhà</gd>
+          <tr>two times two, twice two</tr><ref text="605">td. 397</ref></li>
+      </ul>
+    </li>
+  </ul>
+  
+  <!--
+  
+  <hr/>
+  <p><strong>dà uiread</strong> etc. are expressions of comparative quantity involving <u>multiples</u> eg.</p>
+  <ul>
+    <li>Tha <m>dà uiread chon</m> aig Màiri is a tha cait aig Dòmhnall. <en>Mary has twice as many dogs as Donald has cats.</en></li>
+    <li>Dh’òl Raonaid <m>trì uiread fìona</m> is a dh’òl Seumas. <en>Rachel drank three times as much wine as James [did].</en></li>
+  </ul>
+  <ul id="positive_comparatives_more">
+    <li><gd>Bithidh iad a’ cur a-mach a leth uiread eile de phrògraman Gàidhlig.</gd>
+      <tr>They’ll be producing half as many again Gaelic programmes.</tr><ref text="603">Mark (2004) td. 616</ref></li>
+    <li><gd>Tha (a) dhà uiread de bhuill aig a’ chlub seo ’s a tha aig an fhear eile.</gd>
+      <tr>This club has twice as many members as the other one has.</tr><ref text="603">Mark (2004) td. 616</ref></li>
+    <li><gd>Tha cudthrom na talmhainn a cheithir fichead uiread ri truimead na gealaich.</gd>
+      <tr>The weight of the earth is eighty times the heaviness of the moon.</tr><ref text="603">Mark (2004) td. 616</ref></li>
+    <li><gd>Bha a thrì uiread de thidsearan a’ tighinn a-mach às na colaistean air na bha ann de dh’àiteachan dhaibh.</gd>
+      <tr>There were three times as many teachers coming out of the colleges as there were places for them.</tr><ref text="603">Mark (2004) td. 616</ref></li>
+  </ul>
+  <hr/>
+  <h5/>
+  <p><strong>cha ... uiread agus</strong>
+    <en>not even</en></p>
+  <ul>
+    <li>Chan eil <m>uiread agus aon chù</m> aig Màiri. <en>Mary doesn’t even have one dog.</en></li>
+    <li>Cha do dh’òl Màiri <m>uiread agus fìon</m>. <en>Mary didn’t even drink wine.</en></li>
+  </ul>
+  <ul id="not_even">
+    <li><gd>... gun uiread agus leth-cheud sgillinn ...</gd>
+      <tr>... without even / so much as fifty pence ...</tr><ref text="603">Watson (2001) td. 396</ref></li>
+    <li><gd>Cha do rinn e uiread agus sgrìobhadh thuice.</gd>
+      <tr>He didn’t so much as write to her.</tr><ref text="603">Mark (2004) td. 615</ref></li>
+    <li><gd>Cha dh’fhàgadh uiread is a h-aon dhiubh.</gd>
+      <tr>Not so much as one of them was left.</tr><ref text="603">Mark (2004) td. 615</ref></li>
+    <li><gd>Bha e gun uiread agus lèine ri a chraiceann.</gd>
+      <tr>He was without as much as a shirt to his skin.</tr><ref text="603">Mark (2004) td. 615</ref></li>
+    <li><gd>... gun uiread agus fianaisean a ghairm ...</gd>
+      <tr>... without so much as calling witnesses ...</tr><ref text="603">Mark (2004) td. 615</ref></li>
+  </ul>
+
+
+
+
+
+
+  <hr/>
+  <p>Dwelly: <strong>uiread</strong>
+    <i>sm ind</i>
+    <en>so much, as much, equal quantity</en>
+    <ul>
+      <li>uiread is uiread <en>equal shares</en></li>
+      <li>uiread a bhidhich <en>as much as a meal (of food)</en></li>
+      <li>a dhà uiread arain <en>twice as much bread</en></li>
+      <li>The possessive pronoun, which is understood, appears when sentence is made more emphatic by introducing ceart, as, tha a cheart uiread &amp;c.</li>
+      <li>Uiread is never met with in company with an — chan eil uiread (not an uiread) sin agam, <en>I have not as much as that</en></li>
+      <li>na h-uiread cheannais oirnne <en>so much superiority over us</en></li>
+    </ul>
+  </p>
+
+
+  <h5>Mark</h5>
+  <p><strong>uiread</strong>
+    <i>nm indec</i>
+    <en>much, many, as much, as many, so much, so many, quantity, modicum, number</en>
+  </p>
+  <p><strong>uiread agus</strong>
+    <en>as much as</en>
+    <ul>
+      <li>carson uiread sin? <en>why that much? / why so many as that?</en></li>
+      <li>note that, as with <strong>cho</strong> (q.v.), <strong>ri</strong> is omitted before <strong>seo</strong> / <strong>sin</strong></li>
+      <li>But note that, when ‘as much as’ is used in comparison <strong>ri</strong> is used – cha d’fhuair iad uiread ruinn they didn’t get as much / many as we [did]</li>
+    </ul>
+  </p>
+  <hr/>
+  <p>cf. <a href="http://www.dil.ie/1949" target="_new">airet</a></p>
+  -->
+  <p>cf. <a href="?gd=uimhir">uimhir</a></p>
+</module>

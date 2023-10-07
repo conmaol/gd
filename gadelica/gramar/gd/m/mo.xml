@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>mo</h>
+    <p><g>mo</g>
+        <en>my</en> is the first person singular <a href="?xx=nouns/possessive_determiners"
+            >possessive determiner</a>, related to the personal pronoun <a href="?gd=mi"
+            ><g>mi</g></a>
+        <en>I, me</en>.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>specifier</h>
+            <section id="family">
+                <h>family members</h>
+                <p>Older pedagogical examples – <xl id="family-older-pedag">
+                        <li>
+                            <gd>Tha <m>mo mhàthair</m> a’ sgrìobhadh litreach gu <m>m’athair</m> a
+                                tha air falbh. Thubhairt <m>mo mhàthair</m>, “An téid thu do bhocsa nan
+                                litrichean leis an litir seo, Iain?”</gd>
+                            <tr>My mother is writing a letter to my father who is away. My mother
+                                said, “Will you go to the postbox with this letter, John?”</tr>
+                            <ref text="621">td. 5</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>Examples from Gairm – <xl id="family-gairm">
+                        <li>
+                            <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan
+                                fhalbh aon choigreach le <m>mo leanabh</m>. Cha teid i gu aon
+                                dannsa, tha sin cinnteach. Tha. Tha. Na bi smaoineachadh gun teid, a
+                                leanaibh. Chan eil fhios agad mu ’n deidhinn, mar a th’ agamsa.”
+                                “Carson nach do bhàsaich thu o chionn leth-cheud bliadhna,” dh’ éigh
+                                Màiri. [...]</gd>
+                            <tr>[...] Her voice grew louder. “One thing is certain, not one stranger
+                                will leave [go out?] with my child. She will not go to a single
+                                dance, that is certain. It is. It is. Do not be thinking that you
+                                will, child. You don’t know about them, as I do.” “Why didn’t you
+                                die fifty years ago,” shouted Mary. [...]</tr>
+                            <ref text="400-46">td. 169–71, le Iain Mac a’ Ghobhainn</ref>
+                        </li>
+                    </xl>
+                </p>
+                <!--
+                <module id="generalised-family">
+                    <h lang="en">also</h>
+                    <h lang="gd">...</h>
+                </module>
+                -->
+            </section>
+        </section>
+    </section>
+</module>

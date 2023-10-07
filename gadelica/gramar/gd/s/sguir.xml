@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>sguir</h>
+    <p><g>sguir</g>
+        <en>stop, cease, give up, leave off, desist</en> is a (regular) <a href="?xx=verbs/verbs"
+            >verb</a>, marking <a href="?q=verbal_aspect">cessative</a> verbal aspect, cf. <a
+            href="?gd=stad"><g>stad</g></a>
+        <vb/>
+        <en>stop, halt, pause</en>, <a href="?gd=crìoch"><g>crìoch</g></a>
+        <fem/>
+        <en>end, boundary</en>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>sguir</g> are – <ul>
+                <li><m>sguiridh</m> – future independent ie. <en>will stop</en></li>
+                <li><m>sguir</m> – past independent ie. <en>stopped</en></li>
+                <li><m>sgur</m> – verbal noun ie. <en>stopping</en></li>
+            </ul>
+        </p>
+        <section>
+            <h>tense</h>
+            <p>
+                <ul>
+                    <li>past <ul id="past">
+                            <li>active <ul>
+                                    <li>independent – <m>sguir</m></li>
+                                    <li>relative – a <m>sguir</m></li>
+                                    <li>dependent – cha/an/nach <m>do sguir</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>sguireadh</m></li>
+                                    <li>relative – a <m>sguireadh</m></li>
+                                    <li>dependent – cha/an/nach <m>do sguireadh</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>future <ul id="future">
+                            <li>active <ul>
+                                    <li>independent – <m>sguiridh</m></li>
+                                    <li>relative – a <m>sguireas</m></li>
+                                    <li>dependent – cha/an/nach <m>sguir</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>sguirear</m></li>
+                                    <li>relative – a <m>sguirear</m></li>
+                                    <li>dependent – cha/an/nach <m>sguirear</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>conditional <ul id="conditional">
+                            <li>active <ul>
+                                    <li>first person singular <ul>
+                                            <li>independent – <m>sguirinn</m></li>
+                                            <li>relative – a <m>sguirinn</m></li>
+                                            <li>dependent – cha/an/nach <m>sguirinn</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>first person plural <ul>
+                                            <li>independent – <m>sguireamaid</m></li>
+                                            <li>relative – a <m>sguireamaid</m></li>
+                                            <li>dependent – cha/an/nach <m>sguireamaid</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>second/third persons <ul>
+                                            <li>independent – <m>sguireadh</m></li>
+                                            <li>relative – a <m>sguireadh</m></li>
+                                            <li>dependent – cha/an/nach <m>sguireadh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>sguirte</m></li>
+                                    <li>relative – a <m>sguirte</m></li>
+                                    <li>dependent – cha/an/nach <m>sguirte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>status</h>
+            <p><ul>
+                    <li>independent <ul id="independent">
+                            <li>past <ul>
+                                    <li>active – <m>sguir</m></li>
+                                    <li>passive – <m>sguireadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – <m>sguiridh</m></li>
+                                    <li>passive – <m>sguirear</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – <m>sguirinn</m></li>
+                                            <li>first person plural – <m>sguireamaid</m></li>
+                                            <li>second/third persons – <m>sguireadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – <m>sguirte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>relative <ul id="relative">
+                            <li>past <ul>
+                                    <li>active – a <m>sguir</m></li>
+                                    <li>passive – a <m>sguireadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – a <m>sguireas</m></li>
+                                    <li>passive – a <m>sguirear</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – a <m>sguirinn</m></li>
+                                            <li>first person plural – a <m>sguireamaid</m></li>
+                                            <li>second/third persons – a <m>sguireadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – a <m>sguirte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="dependent">
+                            <li>past <ul>
+                                    <li>active – cha/an/nach <m>do sguir</m></li>
+                                    <li>passive – cha/an/nach <m>do sguireadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – cha/an/nach <m>sguir</m></li>
+                                    <li>passive – cha/an/nach <m>sguirear</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – cha/an/nach
+                                                <m>sguirinn</m></li>
+                                            <li>first person plural – cha/an/nach
+                                                <m>sguireamaid</m></li>
+                                            <li>second/third persons – cha/an/nach
+                                                <m>sguireadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – cha/an/nach <m>sguirte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul></p>
+        </section>
+        <section>
+            <h>voice</h>
+            <p>
+                <ul>
+                    <li>active <ul id="active">
+                            <li>past <ul>
+                                    <li>independent – <m>sguir</m></li>
+                                    <li>relative – a <m>sguir</m></li>
+                                    <li>dependent – cha/an/nach <m>do sguir</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>sguiridh</m></li>
+                                    <li>relative – a <m>sguireas</m></li>
+                                    <li>dependent – cha/an/nach <m>sguir</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent <ul>
+                                            <li>first person singular – <m>sguirinn</m></li>
+                                            <li>first person plural – <m>sguireamaid</m></li>
+                                            <li>second/third persons – <m>sguireadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>relative <ul>
+                                            <li>first person singular – a <m>sguirinn</m></li>
+                                            <li>first person plural – a <m>sguireamaid</m></li>
+                                            <li>second/third persons – a <m>sguireadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>dependent <ul>
+                                            <li>first person singular – cha/an/nach
+                                                <m>sguirinn</m></li>
+                                            <li>first person plural – cha/an/nach
+                                                <m>sguireamaid</m></li>
+                                            <li>second/third persons – cha/an/nach
+                                                <m>sguireadh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>passive <ul id="passive">
+                            <li>past <ul>
+                                    <li>independent – <m>sguireadh</m></li>
+                                    <li>relative – a <m>sguireadh</m></li>
+                                    <li>dependent – cha/an/nach <m>do sguireadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>sguirear</m></li>
+                                    <li>relative – a <m>sguirear</m></li>
+                                    <li>dependent – cha/an/nach <m>sguirear</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent – <m>sguirte</m></li>
+                                    <li>relative – a <m>sguirte</m></li>
+                                    <li>dependent – cha/an/nach <m>sguirte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>imperative</h>
+            <p>
+                <ul>
+                    <li>independent <ul id="imp-ind">
+                            <li>first person singular – <m>sguiream</m>!</li>
+                            <li>second person singular – <m>sguir</m>!</li>
+                            <li>first person plural – <m>sguireamaid</m>!</li>
+                            <li>second person plural – <m>sguiribh</m>!</li>
+                            <li>third person – <m>sguireadh</m>!</li>
+                            <li>passive – <m>sguir(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="imp-dep">
+                            <li>first person singular – na <m>sguiream</m>!</li>
+                            <li>second person singular – na <m>sguir</m>!</li>
+                            <li>first person plural – na <m>sguireamaid</m>!</li>
+                            <li>second person plural – na <m>sguiribh</m>!</li>
+                            <li>third person – na <m>sguireadh</m>!</li>
+                            <li>passive – na <m>sguir(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section id="deps-sbj">
+            <h>subject</h>
+            <p>The subject of <g>sguir</g> is generally a noun expression denoting a human (or other animal) – <ul>
+                    <li><m>Sguir mi.</m>
+                        <en>I stopped.</en></li>
+                    <li><m>Sguir!</m>
+                        <en>Stop!</en></li>
+                </ul>
+            </p>
+            <p>Some examples – <ul id="deps-sbj-hum-xs">
+                    <li>pedagogical examples – <xl id="deps-sbj-hum-pedag">
+                            <li>
+                                <gd>Sguir sinn aig meadhan-làtha.</gd>
+                                <tr>We stopped at noon.</tr>
+                                <ref text="605">td. 334</ref>
+                            </li>
+                            <li>
+                                <gd>Sguiribh anns a’ bhad!</gd>
+                                <tr>Stop at once!</tr>
+                                <ref text="601">td. 524</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+            <p>The subject of <g>sguir</g> can also denoting an inanimate object – <ul>
+                    <li><m>Sguir an togalach a luasgadh.</m>
+                        <en>The building stopped shaking.</en></li>
+                </ul>
+            </p>
+            <p>Some examples – <ul id="deps-sbj-inanim-xs">
+                    <li>pedagogical examples – <xl id="deps-sbj-inanim-pedag">
+                            <li>
+                                <gd>Sguir na gunnachan a losgadh.</gd>
+                                <tr>The guns stopped firing.</tr>
+                                <ref text="601">td. 524</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+            <p>Sometimes the subject of <g>sguir</g> can be more abstract – <ul>
+                    <li><m>Sguir an sneachd.</m>
+                        <en>The snow stopped.</en></li>
+                </ul>
+            </p>
+            <p>Some examples – <ul id="deps-sbj-abs-xs">
+                    <li>pedagogical examples – <xl id="deps-sbj-abs-pedag">
+                            <li>
+                                <gd>An do sguir an t-uisge?</gd>
+                                <tr>Has the rain stopped?</tr>
+                                <ref text="601">td. 524</ref>
+                            </li>
+                            <li>
+                                <gd>Ann an tiota sguir e.</gd>
+                                <tr>In an instant it stopped.</tr>
+                                <ref text="601">td. 524</ref>
+                            </li>
+                        </xl></li>
+                </ul>
+            </p>
+        </section>
+        <section id="deps-comps">
+            <h>complements</h>
+            <section id="deps-comp-none">
+                <h>strict intransitive</h>
+                <p><g>sguir</g> can occur without any complements, as a strict intransitive verb – <ul>
+                        <li><m>Sguir sinn.</m>
+                            <en>We stopped.</en></li>
+                        <li><m>Sguir!</m>
+                            <en>Stop!</en></li>
+                        <li><m>Sguir an sneachd.</m>
+                            <en>The snow stopped.</en></li>
+                    </ul>
+                </p>
+            </section>
+            <section>
+                <h>prepositions</h>
+                <module id="deps-comps-dhe" status="bronze">
+                    <h>sguir de [a] ...</h>
+                    <p><g>sguir</g> can take a (verbal noun) complement introduced by the
+                        preposition <a href="?gd=de"><g>de</g> [<g>a</g>]</a>
+                        <en>of</en> – <ul>
+                            <li><m>Sguir a’ chaileag a sheinn.</m>
+                                <en>The girl stopped singing.</en></li>
+                            <li><m>Sguiribh a dh’ithe nan ùbhlan sin!</m>
+                                <en>Stop eating those apples!</en></li>
+                            <li><m>Sguir an togalach a luasgadh.</m>
+                                <en>The building stopped shaking.</en></li>
+                        </ul>
+                    </p>
+                    <p>Some examples – <ul id="deps-comps-dhe-xs">
+                            <li>human subjects – <ul>
+                                    <li>pedagogical examples – <xl id="deps-comps-dhe-hum-pedag">
+                                            <li>
+                                                <gd>B’ fheudar dhaibh sgur de chluiche.</gd>
+                                                <tr>They had to stop playing.</tr>
+                                                <ref text="601">td. 524</ref>
+                                            </li>
+                                            <li>
+                                                <gd>Sguir a dhèanamh sin!</gd>
+                                                <tr>Stop doing that!</tr>
+                                                <ref text="601">td. 524</ref>
+                                            </li>
+                                            <li>
+                                                <gd>An sguir thu a throd rium?</gd>
+                                                <tr>Will you stop nagging me?</tr>
+                                                <ref text="601">td. 524</ref>
+                                            </li>
+                                            <li>
+                                                <gd>Thuirt an dotair ris gum bu chòir dha sgur a
+                                                  dh’obair.</gd>
+                                                <tr>The doctor said to him that he ought to stop
+                                                  working.</tr>
+                                                <ref text="601">td. 524</ref>
+                                            </li>
+                                        </xl></li>
+                                </ul>
+                            </li>
+                            <li>inanimate subjects – <ul>
+                                    <li>pedagogical examples – <xl id="deps-comps-dhe-inanim-pedag">
+                                            <li>
+                                                <gd>Sguir na gunnachan a losgadh.</gd>
+                                                <tr>The guns stopped firing.</tr>
+                                                <ref text="601">td. 524</ref>
+                                            </li>
+                                        </xl></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </p>
+                    <module id="deps-comps-dhe-dheth" status="bronze">
+                        <h>sguir dheth</h>
+                        <p>Pedagogical examples – <xl id="deps-comps-dhe-dheth-pedag">
+                                <li>
+                                    <gd>Sguir dheth!</gd>
+                                    <tr>Stop it!</tr>
+                                    <ref text="605">td. 334</ref>
+                                </li>
+                                <li>
+                                    <gd>Thuirt e gum fònadh e chun a’ phoileis mura sguireadh iad
+                                        dheth.</gd>
+                                    <tr>He said that he would phone the police if they didn’t stop
+                                        [it].</tr>
+                                    <ref text="601">td. 524</ref>
+                                </li>
+                            </xl>
+                        </p>
+                    </module>
+                </module>
+            </section>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>derivatives</h>
+            <module id="sgur" status="bronze">
+                <h>sgur <masc/></h>
+                <p><g>sgur</g>
+                    <en>stopping, ceasing</en> is a deverbal masculine noun, derived from the verb
+                        <g>sguir</g>, with genitive singular form <g>sguir</g>.</p>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module id="gun_sgur" status="bronze">
+                            <h>gun sgur</h>
+                            <p><g>gun sgur</g>
+                                <en>unceasingly, ceaselessly, continually, constantly, endlessly,
+                                    non-stop, without cease/rest/stop</en></p>
+                            <p>Pedagogical examples – <xl id="gun_sgur-pedag">
+                                    <li>
+                                        <gd>ag obair gun sgur / a’ bruidhinn gun sgur</gd>
+                                        <tr>working non-stop / talking non-stop</tr>
+                                        <ref text="605">td. 334</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Tha iad an sàs annam gun sgur.</gd>
+                                        <tr>They’re always on at me.</tr>
+                                        <ref text="605">td. 334</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Bha iad an sàs innte gun sgur.</gd>
+                                        <tr>They pestered her continually.</tr>
+                                        <ref text="601">td. 525</ref>
+                                    </li>
+                                </xl>
+                            </p>
+                        </module>
+                    </section>
+                </section>
+            </module>
+        </section>
+    </section>
+</module>

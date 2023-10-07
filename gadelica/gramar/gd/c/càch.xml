@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">càch</h>
+    <p>Examples from modern usage – <xl id="other">
+        <li>
+            <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. [...]
+                Bha seachdnar de theaghlach aige, ceathrar mhac agus triùir nighean, agus bha a
+                h-uile fear is tè anns a’ mhalairt ach Rob. B’ e Rob a b’ òige agus lean e an
+                    sgoil. Nuair a ràinig e an t-oilthigh bha <m>càch</m> airson gun ionnsaicheadh e
+                cunntasachd, a bhiodh feumail anns a’ mhalairt, ach ’s ann a bha ùidh-san ann an
+                ealain. [...]</gd>
+            <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. [...]
+                He had a family of seven, four sons and three daughters, and every man and woman
+                was in the business except Rob. Rob was the youngest and he stayed on at school.
+                When he reached the university the others wanted him to learn accountancy, which
+                would be useful in the business, but his interest was in art. [...]</tr>
+            <ref text="2">td. 5</ref>
+        </li>
+    </xl>
+    </p>
+    
+</module>
+
+

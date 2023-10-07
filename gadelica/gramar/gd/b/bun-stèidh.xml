@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>bun-stèidh</h>
+    <p><g><a href="?gd=bun">bun</a>-<a href="?gd=stèidh">stèidh</a></g>
+        <en>origin, basis, foundation</en> is a feminine compound noun.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>complement</h>
+            <p>Some examples – <xl id="deps-comp-xs">
+                    <li>
+                        <gd>Bheir seo bun-stèidh dhuinn de ghinealach ùr innleadairean.</gd>
+                        <tr>This will give us a new generation of engineers.</tr>
+                        <ref text="601">td. 104</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>modifiers</h>
+            <p>Some examples – <xl id="deps-mods-xs">
+                    <li>
+                        <gd>... gus am bi bun-stèidh nas fallaine aig Gàidheil òga.</gd>
+                        <tr>... until young Gaels have a healthier foundation.</tr>
+                        <ref text="601">td. 104</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>subject</h>
+            <p>Some examples – <xl id="uses-sbj-xs">
+                    <li>
+                        <gd>... gus am bi bun-stèidh nas fallaine aig Gàidheil òga.</gd>
+                        <tr>... until young Gaels have a healthier foundation.</tr>
+                        <ref text="601">td. 104</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>object</h>
+            <p>Some examples – <xl id="uses-obj-xs">
+                    <li>
+                        <gd>Bheir seo bun-stèidh dhuinn de ghinealach ùr innleadairean.</gd>
+                        <tr>This will give us a new generation of engineers.</tr>
+                        <ref text="601">td. 104</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+
+</module>

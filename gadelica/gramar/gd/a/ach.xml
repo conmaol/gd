@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h lang="en">ach</h>
+  <h lang="gd">ach</h>
+  <p><b>ach</b> <en>but</en> is a conjunction.</p>
+  <p lang="en">Examples from Gairm – <xl id="sentential">
+      <li>
+        <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no do
+          fhoghlum agus do litreachas na Gàidhlig. Cuin a chualas ball-Pàrlarnaid a’ togail a ghuth
+          a dh’ iarraidh leasachaidh do staid Gàidhlig ann an Albainn? Am bi cothrom a nis aig
+          cuideigin a ghuth a thogail, anns an t-suidheachadh iongantach a th’ againn anns a’
+          Phàrlamaid ùr? Chan eil sinn ag iarraidh air an duine so, ma tha e ann, a’ Ghàidhlig a
+          chur air thoiseach air lòn is obair is caitheamh-beatha an t-sluaigh. <m>Chan eil sinn ag
+            iarraidh ach beagan ceartais</m>. [...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a
+          riamh do ’n Ghàidhlig no do fhoghlum agus do litreachas na Gàidhlig. [...] Dé na rudan a
+          dh’ fhaodadh sinn iarraidh? [...] <m>Chan eil an sin ach rud no dhà a dh’ fhaodamaid
+            iarraidh.</m> [...]</gd>
+        <tr>[...] The Parliament has given very little assistance ever to the Gaelic language or to
+          Gaelic education and literature. When has a member of Parliament been heard raising his
+          voice to demand improvement for the state of Gaelic in Scotland? Will someone have an
+          opportunity now to raise his voice, in the unexpected situation we have in the new
+          Parliament? We are not asking of this person, if he exists, to prioritise Gaelic over food
+          and jobs and the population’s standard of living. <u>We only want a modicum of
+          justice</u>. [...] The Parliament has given very little assistance ever to the Gaelic
+          language or to Gaelic education and literature. [...] What are the things that we could
+          demand? [...] <u>Those are just a couple of things that we could demand.</u> [...]</tr>
+        <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+      </li>
+      <li>
+        <gd>Bha i ceud bliadhna a dh’ aois is esan dhà air fhichead. <m>Cha robh e ach mìos no dhà
+            a-mach ás an oilthigh.</m> Bha a nighean a’ fuireachd còmhla rithe. Bha ise ceithir
+          fichead. Shaoil e gu robh a’ chailleach ann an dòigh na bu shunndaiche na a nighean.
+          [...]</gd>
+        <tr>She was a hundred years old and him twenty two. He was just a month or two out of the
+          university. Her daughter was living with her. She was eighty. He thought that the old
+          woman was in a way livelier than her daughter. [...]</tr>
+        <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+      </li>
+      <li>
+        <gd>Bha feallsanach mar Hegel a’ togail riaghailtean móra a dheanadh an saoghal air a thaobh
+          a-muigh fhéin soilleir, <m>ach</m> cha b’ ann mar sin a bha Kierkegaard.</gd>
+        <tr>A philosopher like Hegel constructed grand rules which made the external world itself
+          clear <u>but</u> K. was not like that.</tr>
+        <ref text="400-41">td. 103</ref>
+      </li>
+    </xl>
+  </p>
+  <p>Other examples from modern usage – <xl id="xs">
+      <li>
+        <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. Rinn e sin
+          tro dhìcheall, obair chruaidh agus tàlant malairt a bha neo-ghnàthach. An-diugh tha iomadh
+          companaidh na ainm air feadh na Gàidhealtachd. Bha seachdnar de theaghlach aige,
+          ceathrar mhac agus triùir nighean, agus <m>bha a h-uile fear is tè anns a’ mhalairt ach Rob</m>.
+          [...]</gd>
+        <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. He did that
+          through duty, hard work and a talent for business that was unusual. Today there are many
+          companies in his name all over the Highlands. He had a family of seven, four sons and
+          three daughters, and every man and woman was in the business except Rob. [...]</tr>
+        <ref text="2">td. 5</ref>
+      </li>
+    </xl>
+  </p>
+  <p lang="gd">...</p>
+  <p lang="en">cf. <a href="?gd=a-mhàin">ach a-mhàin</a>
+    <en>apart from, aside from</en>.</p>
+  <p lang="gd">...</p>
+</module>

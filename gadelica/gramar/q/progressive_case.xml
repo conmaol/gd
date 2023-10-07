@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="silver">
+    <h>Nouns governed by a progressive verbal noun – genitive or nominative case?</h>
+    <p>In traditional Gaelic, the object of a transitive verb in the progressive was generally in
+        the genitive case eg. <ul>
+            <li><m>a’ faicinn balaich bhig</m>
+                <en>seeing a little boy</en></li>
+            <li><m>a’ sgrìobhadh na litreach</m>
+                <en>writing the letter</en></li>
+            <li><m>a’ ceannach bhrògan</m>
+                <en>buying shoes</en></li>
+            <li><m>a’ biadhachadh nan con</m>
+                <en>feeding the dogs</en></li>
+        </ul>
+    </p>
+    <p>However, nowadays there is a noticable tendency to use the nominative for at least some of
+        these uses eg. <ul>
+            <li><g>a’ faicinn balach beag</g></li>
+            <li><g>a’ sgrìobhadh an litir</g></li>
+            <li><g>a’ ceannach brògan</g></li>
+            <li><g>a’ biadhachadh na coin</g></li>
+        </ul>
+    </p>
+    <p>The recommended <emph>neutral</emph> usage in contemporary Gaelic is to use the nominative
+        with an indefinite singular noun and the genitive otherwise ie. <ul>
+            <li><m>a’ faicinn balach beag</m></li>
+            <li><m>a’ sgrìobhadh na litreach</m></li>
+            <li><m>a’ ceannach bhrògan</m></li>
+            <li><m>a’ biadhachadh nan con</m></li>
+        </ul>
+    </p>
+    <p>However, the following usages may be appropriate if you are aiming for a more
+            <emph>informal</emph>, <emph>conversational</emph> or <emph>modern</emph> style – <ul>
+            <li><g>a’ sgrìobhadh an litir</g></li>
+            <li><g>a’ ceannach brògan</g></li>
+            <li><g>a’ biadhachadh na coin</g></li>
+        </ul>
+    </p>
+    <p>And the following may be appropriate if you are aiming for a more <emph>formal</emph>,
+            <emph>literary</emph> or <emph>traditional</emph> style – <ul>
+            <li><g>a’ faicinn balaich bhig</g></li>
+            <li><g>a’ sgrìobhadh litreach</g></li>
+        </ul>
+    </p>
+    <p>See also – <a href="?xx=nouns/verbal_nouns">verbal nouns</a>, <a
+            href="?gd=ag"><g>ag</g></a></p>
+</module>

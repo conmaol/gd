@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>an – possessive determiner</h>
+    <p><g>an</g>
+        <en>their</en> is the third person plural <a href="?xx=nouns/possessive_determiners"
+            >possessive determiner</a>, related to the personal pronoun <a href="?gd=iad">iad</a>
+        <en>they, them</en>.</p>
+    <p>cf. other uses of the particle <a href="?gd=an">an</a>.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>specifier</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="uses-spec-older-pedag">
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug <m>an athair</m> leis Iain
+                                    agus Anna anns a’ chàr.</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car.</tr>
+                                <ref text="621">td. 6</ref>
+                            </li>
+                        </xl></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <module id="noun">
+        <h lang="en">noun specifier</h>
+        <h lang="gd">...</h>
+        <p lang="en">Examples from Gairm – <xl id="noun-gairm-xs">
+                <li>
+                    <gd>[...] ’Se madainn bhòidheach foghair a bh’ ann—tioram, le ceileir eòin, is
+                        beagan dealt air an fheur. Bha a[m] muir ’s na tighean ag éirigh á inntinn
+                        an latha. Cha robh e fhéin a’ faireachdainn uabhasach math, oir, air a’
+                        bhàta, bha triùir dhaoine le botul uisge-bheatha agus cha robh càil air a
+                        shon ach gu feumadh e òl <m>’nan cuideachd</m>. [...]</gd>
+                    <tr>[...] It was a beautiful autumn morning – dry, with the chirping of birds,
+                        and a little dew on the grass. The sea and the houses were rising from the
+                        mind of the day [??]. He was not feeling terribly good, because, on the
+                        boat, there were three men with a bottle of whisky and there was nothing for
+                        it but that he would have to drink in their company. [...]</tr>
+                    <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                    <note>fused preposition</note>
+                </li>
+                <li>
+                    <gd>[...] Cha robh e fhéin a’ faireachdainn uabhasach math, oir, air a’ bhàta,
+                        bha triùir dhaoine le botul uisge-bheatha agus cha robh càil air a shon ach
+                        gu feumadh e òl ’nan cuideachd. [...] An dràsda ’s a rithist shealladh Iain
+                        a-mach air an uinneig ris a’ mhuir ’s na h-eileanan. Chitheadh e aig amannan
+                        na faoileagan a’ gabhail seachad, ’s chluinneadh e <m>an cuid
+                        sgriachail</m>. Le <m>an amhaichean fada caola</m> ’s <m>an cuirp geala
+                            biorach</m> mar chlachan bha iad a’ cur gràin’ air. Theab e an glacadh
+                        ’s an lìonadh le uisgebeatha, na biasdan nach gabhadh sàsachadh, na clachan
+                        aosd ud, na sgòrnanan ud làn gaoith is sgadain. [...]</gd>
+                    <tr>[...] He [John] was not feeling terribly good, because, on the boat, there
+                        were three men with a bottle of whisky and there was nothing for it but that
+                        he would have to drink in their company. [...] Now and again John would look
+                        out the window at the sea and the islands. He could see at times the gulls
+                        going past, and he could hear their screeching. With their long thin necks
+                        and their pointed white bodies like stones they disgusted him. He almost
+                        [??] caught them and filled them with whisky, the beasts that cannot be
+                        satiated, those ancient stones, those throats full of wind and herring.</tr>
+                    <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                    <note>First example here is not an infinitive. Body parts.</note>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">Biblical examples – <xl id="noun-bible-xs">
+                <li>
+                    <gd>[...] A nis dh’éirich righ ùr air an Eiphit, do nach b’aithne Ioseph. Agus
+                        thubhairt e r’a shluagh, Feuch, tha sluagh chloinn Israeil ni’s lìonmhoire
+                        agus ni’s cumhachdaiche na sinne. Thigibh, buineamaid gu seòlta: an t-eagal
+                        gu’m fàs iad lìonmhor, agus gu’n tachair e, ’nuair a dh’éireas cogadh, gu’n
+                        gabh iadsan mar an ceudna le ’r naimhdibh-ne, agus gu’n cog iad ’nar
+                        n-aghaidh, agus gu’n d’théid iad a mach as an tìr. Uime sin chuir iad
+                        maighstirean-oibre orra, chum an sàrachadh <m>le’n eallachaibh</m>. Agus
+                        thog iad bailtean-ionmhais do Pharaoh, Pitom agus Raamses. [...]</gd>
+                    <tr>[...] Now there arose up a new king over Egypt, which knew not Joseph. And
+                        he said unto his people, Behold, the people of the children of Israel are
+                        more and mightier than we: Come on, let us deal wisely with them; lest they
+                        multiply, and it come to pass, that, when there falleth out any war, they
+                        join also unto our enemies, and fight against us, and so get them up out of
+                        the land. Therefore they did set over them taskmasters to afflict them with
+                        their burdens. And they built for Pharaoh treasure cities, Pithom and
+                        Raamses. [...] [KJV]</tr>
+                    <ref text="160">Ecsodus I.8–11</ref>
+                    <note>fused</note>
+                </li>
+                <li>
+                    <gd>[...] Agus thug na h-Eiphitich air cloinn Israeil seirbhis a dheanamh le
+                        cruadhas. Agus rinn iad <m>am beatha</m> searbh dhoibh le daorsa chruaidh,
+                        ann am moirtear, agus ann an clachaibh-creadha, agus anns gach gnè oibre
+                        ’sa’ mhachair: bha an obair uile, anns an d’thug iad orra obair a dheanamh,
+                        le cruadhas. [...]</gd>
+                    <tr>[...] And the Egyptians made the children of Israel to serve with rigour:
+                        And they made their lives bitter with hard bondage, in morter, and in brick,
+                        and in all manner of service in the field: all their service, wherein they
+                        made them serve, was with rigour. [...] [KJV]</tr>
+                    <ref text="160">Ecsodus I.13–14</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <module id="compound_prepositions">
+            <h lang="en">compound prepositions</h>
+            <h lang="gd">...</h>
+            <p lang="en">Examples from Gairm – <xl id="noun-compound-prep-gairm-xs">
+                    <li>
+                        <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan fhalbh
+                            aon choigreach le mo leanabh. Cha teid i gu aon dannsa, tha sin
+                            cinnteach. Tha. Tha. Na bi smaoineachadh gun teid, a leanaibh. Chan eil
+                            fhios agad <m>mu ’n deidhinn</m>, mar a th’ agamsa.” “Carson nach do
+                            bhàsaich thu o chionn leth-cheud bliadhna,” dh’ éigh Màiri. [...]</gd>
+                        <tr>[...] Her voice grew louder. “One thing is certain, not one stranger
+                            will leave [go out?] with my child. She will not go to a single dance,
+                            that is certain. It is. It is. Do not be thinking that you will, child.
+                            You don’t know about them, as I do.” “Why didn’t you die fifty years
+                            ago,” shouted Mary. [...]</tr>
+                        <ref text="400-46">td. 169–71, le Iain Mac a’ Ghobhainn</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+            <p lang="en">Biblical examples – <xl id="noun-compound-prep-bible-xs">
+                    <li>
+                        <gd>[...] Agus labhair righ na h-Eiphit re mnaibh-glùine nan Eabhruidheach
+                            [...] Agus thubhairt e, ’Nuair a ni sibh gnìomh mnà-glùine do na mnaibh
+                            Eabhruidheach, agus a chi sibh iad air na stòlaibh; ma’s mac a bhios
+                            ann, ’an sin marbhaidh sibh e, ach ma’s nighean a bhios ann, bithidh si
+                            beo. Ach bha eagal Dé air na mnaibh-glùine, agus cha d’rinn iad mar a
+                            dh’àithn righ na h-Eiphit dhoibh, ach ghleidh iad a’ chlann mhac beo.
+                            Agus ghairm righ na h-Eiphit air na mnaibh-glùine, agus thubhairt e riu,
+                            C’ar son a rinn sibh an ni so, agus a ghleidh sibh a’ chlann mhac beo?
+                            Agus thubhairt na mnài-ghlùine re Pharaoh, A chionn nach ’eil na mnài
+                            Eabhruidheach mar na mnài Eiphiteach: oir tha iad féin beothail, agus
+                            air an aisead mu’n d’thig na mnài-ghlùine a steach <m>d’an
+                            ionnsuidh</m>. Uime sin bhuin Dia gu math ris na mnaibh-glùine: agus
+                            rinneadh an sluagh lìonmhor, agus dh’fhàs iad ro-chumhachdach.
+                            [...]</gd>
+                        <tr>[...] And the king of Egypt spake to the Hebrew midwives [...] And he
+                            said, When ye do the office of a midwife to the Hebrew women, and see
+                            them upon the stools; if it be a son, then ye shall kill him: but if it
+                            be a daughter, then she shall live. But the midwives feared God, and did
+                            not as the king of Egypt commanded them, but saved the men children
+                            alive. And the king of Egypt called for the midwives, and said unto
+                            them, Why have ye done this thing, and have saved the men children
+                            alive? And the midwives said unto Pharaoh, Because the Hebrew women are
+                            not as the Egyptian women; for they are lively, and are delivered ere
+                            the midwives come in unto them. Therefore God dealt well with the
+                            midwives: and the people multiplied, and waxed very mighty. [...]</tr>
+                        <ref text="160">Ecsodus I.15–20</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+    </module>
+    <module id="infinitive">
+        <h lang="en">infinitives</h>
+        <h lang="gd">...</h>
+        <p lang="en">Examples from Gairm – <xl id="inf-gairm-xs">
+                <li>
+                    <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha fhios gun
+                        dig iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C. [...] Mar a bhios
+                        obair a’ Bh.B.C. a’ leudachadh anns a’ Ghaidhealtachd—agus tha fhios gun
+                        tachair so leis na stéiseanan ùra a thathas a’ togail—bithidh sùil againn ri
+                        daoine ùra ’s ri dòighean ùra. Bhitheadh e nàdurrach agus fallain nam biodh
+                        barrachd phrógraman <m>air an deilbh</m> air a’ Ghaidhealtachd fhéin, agus
+                        gum biodh pàirt de ’n obair so air a chur an tairgse nan Gaidheal ’s nan
+                        Gall air Galldachd. [...]</gd>
+                    <tr>During the seasons and the years that are ahead of us, it is known that many
+                        changes will come to the Gaelic Department of the BBC. [...] As the work of
+                        the BBC will be expanding in the Highlands – and it is known that this will
+                        happen with the new stations that are being established – we will be
+                        expecting new people and new methods. It would be natural and healthy if
+                        more programmes were produced in the Highlands itself, and [if] part of this
+                        work were offered to Gaels and non-Gaels in the Lowlands. [...]</tr>
+                    <ref text="400-48">td. 297, ‘Air an Spiris’</ref>
+                    <note>passive</note>
+                </li>
+                <li>
+                    <gd>[...] Cha robh e fhéin a’ faireachdainn uabhasach math, oir, air a’ bhàta,
+                        bha triùir dhaoine le botul uisge-bheatha agus cha robh càil air a shon ach
+                        gu feumadh e òl ’nan cuideachd. [...] An dràsda ’s a rithist shealladh Iain
+                        a-mach air an uinneig ris a’ mhuir ’s na h-eileanan. Chitheadh e aig amannan
+                        na faoileagan a’ gabhail seachad, ’s chluinneadh e an cuid sgriachail. Le an
+                        amhaichean fada caola ’s an cuirp geala biorach mar chlachan bha iad a’ cur
+                        gràin’ air. Theab e <m>an glacadh ’s an lìonadh</m> le uisgebeatha, na
+                        biasdan nach gabhadh sàsachadh, na clachan aosd ud, na sgòrnanan ud làn
+                        gaoith is sgadain. [...]</gd>
+                    <tr>[...] He [John] was not feeling terribly good, because, on the boat, there
+                        were three men with a bottle of whisky and there was nothing for it but that
+                        he would have to drink in their company. [...] Now and again John would look
+                        out the window at the sea and the islands. He could see at times the gulls
+                        going past, and he could hear their screeching. With their long thin necks
+                        and their pointed white bodies like stones they disgusted him. He almost
+                        [??] caught them and filled them with whisky, the beasts that cannot be
+                        satiated, those ancient stones, those throats full of wind and herring.</tr>
+                    <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">Biblical examples – <xl id="inf-bible-xs">
+                <li>
+                    <gd>[...] A nis dh’éirich righ ùr air an Eiphit, do nach b’aithne Ioseph. Agus
+                        thubhairt e r’a shluagh, Feuch, tha sluagh chloinn Israeil ni’s lìonmhoire
+                        agus ni’s cumhachdaiche na sinne. Thigibh, buineamaid gu seòlta: an t-eagal
+                        gu’m fàs iad lìonmhor, agus gu’n tachair e, ’nuair a dh’éireas cogadh, gu’n
+                        gabh iadsan mar an ceudna le ’r naimhdibh-ne, agus gu’n cog iad ’nar
+                        n-aghaidh, agus gu’n d’théid iad a mach as an tìr. Uime sin chuir iad
+                        maighstirean-oibre orra, chum <m>an sàrachadh</m> le’n eallachaibh. Agus
+                        thog iad bailtean-ionmhais do Pharaoh, Pitom agus Raamses. [...]</gd>
+                    <tr>[...] Now there arose up a new king over Egypt, which knew not Joseph. And
+                        he said unto his people, Behold, the people of the children of Israel are
+                        more and mightier than we: Come on, let us deal wisely with them; lest they
+                        multiply, and it come to pass, that, when there falleth out any war, they
+                        join also unto our enemies, and fight against us, and so get them up out of
+                        the land. Therefore they did set over them taskmasters to afflict them with
+                        their burdens. And they built for Pharaoh treasure cities, Pithom and
+                        Raamses. [...] [KJV]</tr>
+                    <ref text="160">Ecsodus I.8–11</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <module id="fused">
+            <h lang="en">fused with prepositions</h>
+            <h lang="gd">...</h>
+            <module id="progressive">
+                <h lang="en">progressive</h>
+                <h lang="gd">...</h>
+                <p lang="en">Examples from Gairm – <xl id="inf-fused-prog-gairm-xs">
+                        <li>
+                            <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha
+                                fhios gun dig iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C.
+                                [...] Bithidh cuideachadh a dhìth air luchd a’ Bh.B.C., agus ’se an
+                                cuideachadh a b’ fheàrr a b’ urrainn dhuinn a thoirt dhaibh ar
+                                n-ùidh a nochdadh, le bhith a’ sgrìobhadh thuca, <m>gam moladh is
+                                    gan càineadh</m>, ag iarraidh tuilleadh tìde do ’n Ghàidhlig, is
+                                a’ sealltainn dhaibh gu bheil sinn a’ dèanamh feum de ’n tìde a th’
+                                againn.</gd>
+                            <tr>During the seasons and the years that are ahead of us, it is known
+                                that many changes will come to the Gaelic Department of the BBC.
+                                [...] The BBC people will need help, and the best help that we can
+                                give them is to show them our interest, by writing to them, praising
+                                them and criticising them, demanding more time for Gaelic, and
+                                showing them that we are making use of the time that we have.</tr>
+                            <ref text="400-48">td. 297, ‘Air an Spiris’</ref>
+                        </li>
+                        <li>
+                            <gd>[...] Chaidil e airson greiseag ’s nuair a dhùisg e anns a’ mhadainn
+                                bha a bheul salach le blas an uisge-bheatha. Choisich e mach ás a’
+                                bhàta a-measg nam faoileagan, <m>ga[n] sguabadh</m> air falbh le a
+                                làmhan, agus lean e air suas an aon rathad a bh’ ann gus an ruigeadh
+                                e an tigh. [...]</gd>
+                            <tr>[...] He slept for a bit and when he woke up in the morning his
+                                mouth was dirty with the taste of the whisky. He walked out of the
+                                boat among the gulls, brushing them away with his hands, and he
+                                continued up the only road that there was until he reached the
+                                house. [...]</tr>
+                            <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                        </li>
+                        <li>
+                            <gd>“’Se Sasunnach a bh’ ann,” ars ise le prois, [...] “Cha robh e ach
+                                fichead bliadhna a dh’ aois. Balach àrd tapaidh le léine shìoda.
+                                Thubhairt e rium gum pòsadh e mi.” [...] “Thainig e mach á
+                                sgoth-luing le na siùil gheala. Cha robh facal Gàidhlig aige.” Rinn
+                                i gàire thioram mar dà phaipeir-ghainmheach <m>ga[n] suathadh</m> ri
+                                chéile. [...]</gd>
+                            <tr>“He was an Englishman,” she said with pride, [...] “He was just
+                                twenty years of age. A tall strong boy with a silk shirt. He said to
+                                me that he would marry me.” “He came out of a yacht with white
+                                sails. He didn’t have a word of Gaelic.” She made a dry laugh like
+                                two sheets of sandpaper being rubbed against each other. [...]</tr>
+                            <ref text="400-46">td. 170, le Iain Mac a’ Ghobhainn</ref>
+                            <note>passive</note>
+                        </li>
+                    </xl>
+                </p>
+                <p lang="gd">...</p>
+            </module>
+            <module id="retro">
+                <h lang="en">retrospective</h>
+                <h lang="gd">...</h>
+                <p lang="en">Examples from Gairm – <xl id="inf-fused-retro-gairm-xs">
+                        <li>
+                            <gd>[...] ’Se madainn bhòidheach foghair a bh’ ann—tioram, le ceileir
+                                eòin, is beagan dealt air an fheur. Bha a[m] muir ’s na tighean ag
+                                éirigh á inntinn an latha. Cha robh e fhéin a’ faireachdainn
+                                uabhasach math, oir, air a’ bhàta, bha triùir dhaoine le botul
+                                uisge-bheatha agus cha robh càil air a shon ach gu feumadh e òl ’nan
+                                cuideachd. [...] ’S bha iad <m>’nan suidhe</m> an sin ag òl
+                                uisge-beatha fad na h-oidhch’, na ceathrar aca. [...]</gd>
+                            <tr>[...] It was a beautiful autumn morning – dry, with the chirping of
+                                birds, and a little dew on the grass. The sea and the houses were
+                                rising from the mind of the day [??]. He was not feeling terribly
+                                good, because, on the boat, there were three men with a bottle of
+                                whisky and there was nothing for it but that he would have to drink
+                                in their company. [...] And they were sat there drinking whisky all
+                                night, the four of them. [...]</tr>
+                            <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p lang="gd">...</p>
+            </module>
+        </module>
+    </module>
+</module>

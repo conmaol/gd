@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>a</h>
+  <p>The particle <g>a</g> has a number of uses in Gaelic – <ul>
+      <li>the elative preposition <a href="?gd=a^preposition"><g>à</g></a>
+        <en>out of, from in</en></li>
+      <li>the third person singular possessive determiner <a href="?gd=a^determiner"><g>a</g></a>
+        <en>his, her, its</en></li>
+      <li>the relative clause particle <a href="?gd=a^relative"><g>a</g></a>
+        <en>who(m), which, that</en></li>
+      <li>a reduced form of the illative preposition <a href="?gd=do^preposition"><g>do</g></a>
+        <en>into</en></li>
+      <li>[...]</li>
+    </ul>
+  </p>
+
+  <!--
+  <p>infinitive particle</p>
+  <p lang="en">Examples of usage –</p>
+  <ulx id="infinitive">
+    <lix>
+      <gd>Bha beagan airgid aige ’s mar sin chaith e a bheatha a’ sgrìobhadh, gun feum aige air
+        obair eile <m>a</m> dhèanamh.</gd>
+      <tr>He had a little money and therefore he devoted his life to writing, without the need to do
+        other work.</tr>
+      <ref text="400-41">td. 103</ref>
+      <note>reflexive ie. himself’s</note>
+    </lix>
+  </ulx>
+  <hr/>
+  <p>numeric particle</p>
+  <p lang="en">Examples of usage –</p>
+  <ulx id="numeric">
+    <lix>
+      <gd>Ann an dà bhliadhna dheug sgrìobh e fichead leabhar ’s <m>a h-aon</m> ’s dh’ fhàg e grunn
+        mór phàipearan a chùl air a sin.</gd>
+      <tr>In 12 years he [Kierkegaard] wrote 2<u>1</u> books and he left behind a large quantity of
+        papers.</tr>
+      <ref text="400-41">td. 103</ref>
+    </lix>
+    <lix>
+      <gd>Rugadh am feallsanach Soren Kierkegaard ann sa’ bhliadhna 1813, an Copenhagen far na
+        bhàsaich e nuair a bha e dà fhichead, ’s <m>a dhà</m>.</gd>
+      <tr>The philosopher Soren Kierkegaard was born in 1813, in Copenhagen where he died when he
+        was 4<u>2</u>.</tr>
+      <ref text="400-41">td. 103</ref>
+    </lix>
+  </ulx>
+  -->
+
+</module>

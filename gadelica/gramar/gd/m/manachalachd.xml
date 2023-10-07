@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>manachalachd</h>
+    <p><g>manachalachd</g>
+        <en>monasticism</en> is a feminine <a href="?xx=nouns/derived_common_nouns">derived common
+            noun</a>, with stem <a href="?gd=manachail"><g>manachail</g></a>
+        <adj/>
+        <en>monastic, monkish</en>, and suffix <a href="?gd=_achd"><g>-(e)achd</g></a>.</p>
+</module>

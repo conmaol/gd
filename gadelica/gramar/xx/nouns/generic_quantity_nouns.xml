@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="silver">
+  <h>generic quantity nouns</h>
+  <p>Generic quantity nouns are <a href="?xx=nouns/common_nouns">common nouns</a> which can be used
+    as the basis of <a href="?xx=nouns/generic_quantity_expressions">generic quantity
+      expressions</a>, for example – <ul>
+      <li><m>beagan</m>
+        <masc/>
+        <en>few, little, modicum</en></li>
+      <li><m>uiread</m>
+        <masc/>
+        <en>as/so much/many, quantity, modicum, number</en></li>
+      <li><m>cus</m>
+        <masc/>
+        <en>glut, too much/many, surfeit</en></li>
+    </ul>
+  </p>
+  <p>Generic quantity nouns can typically be used to quantify both substances (mass nouns) and
+    aggregates (plural nouns) – <ul>
+      <li><g>mòran airgid</g>
+        <en>a lot of money</en></li>
+      <li><g>grunn bhonn</g>
+        <en>several coins</en></li>
+    </ul>
+  </p>
+  <p>Generic quantity nouns can also be used in partitive (definite) expressions – <ul>
+      <li><g>beagan den bhainne</g>
+        <en>a little of the milk</en></li>
+      <li><g>barrachd de na h-ùbhlan</g>
+        <en>more of the apples</en></li>
+    </ul>
+  </p>
+  <section>
+    <h>dependents</h>
+    <p>Generic quantity nouns can occur with a few different kinds of grammatical dependent.</p>
+    <section id="indefinite">
+      <h>indefinite</h>
+      <p>When what is being quantified can be inferred from context, the generic quantity noun can
+        occur on its own – <ul>
+          <li>Dh’ith Mairead <m>mòran</m>. <en>Margaret ate a lot.</en></li>
+          <!-- Jo NicDh – For Margaret ate a lot I would say Dh’ith Mairead tòrr.  However I  would say Dh’ith Mairead mòran uighean/ùbhlan/ isbein etc  -->
+          <li>Tha <m>tuilleadh</m> aig Iain. <en>John has more.</en></li>
+        </ul>
+      </p>
+      <p>When what is being quantified is indefinite (usually new to the discourse), it can be
+        expressed as a modifier of the generic quantity noun, either the genitive singular of a mass
+        noun or the genitive plural of a count noun – <ul>
+          <li>Dh’òl Raonaid <m>beagan <emph>uisge</emph></m>. <en>Rachel drank a little water.</en></li>
+          <li>Tha <m>cus <emph>chon</emph></m> aig Màiri. <en>Mary has too many dogs.</en></li>
+        </ul>
+      </p>
+    </section>
+    <section id="partitive">
+      <h>partitive</h>
+      <p>When what is being quantified is definite (usually an entity already invoked in the
+        discourse), it can be introduced by the partitive preposition <a href="?gd=dhe"><g>de</g></a>
+        <en>of</en> governing a specified (definite) noun – <ul>
+          <li>Dh’òl Raonaid <m>beagan <emph>den fhìon</emph></m>. <en>Rachel drank a little of the
+              wine.</en></li>
+          <li>Cheannaich Màiri <m>cus <emph>de mo bhriosgaidean</emph></m>. <en>Mary bought too many of my
+              biscuits.</en></li>
+        </ul>
+      </p>
+      <p>When what is being quantified is already known, and has just been mentioned, the generic
+        quantity noun can be followed by one of the <g>de</g> prepositional pronouns – <ul>
+          <li>Dh’ith Mairead <m>tòrr <emph>dheth</emph></m>. <en>Margaret ate a lot of it.</en></li>
+          <li>Tha <m>uiread <emph>dhiubh</emph></m> aig Iain! <en>John has so many of them!</en></li>
+        </ul>
+      </p>
+      <p>Note that phrases like the following are not acceptable partitives – <bad>beagan an
+          fheòla</bad> for <en>a little of the meat</en> (cf. the correct form <g>beagan den
+          fheòil</g>), <bad>ar cus</bad> for <en>too many of us</en> (cf. the correct forms <g>cus
+          dhinn</g> or <g>cus againn</g>).</p>
+    </section>
+    <section id="idiomatic">
+      <h>idiomatic</h>
+      <p>When what is being quantified is generic information about something, the generic quantity
+        noun can be followed directly by <!--<a href="?gd=mu">--><g>mu</g>
+        <en>about</en> – <ul>
+          <li>Dh’ionnsaich Raonaid <m>pailteas <emph>mu fhìon</emph></m>. <en>Rachel has learned plenty
+              about wine.</en></li>
+          <li>Tha Màiri a’ bruidhinn <m>cus <emph>mu dheidhinn chon</emph></m>. <en>Mary talks too much
+              about dogs.</en></li>
+        </ul>
+      </p>
+      <!--
+      <p>A generic quantity noun can often be followed by the preposition <a href="?gd=ri"
+          ><g>ri</g></a> and a verbal noun – <ul>
+          <li>Tha <m>beagan</m> aig Raonaid <m><emph>ri òl</emph></m>. <en>Rachel has a little [still] to
+              drink.</en></li>
+          <li>Tha <m>cus</m> aig Màiri <m><emph>ri dhèanamh</emph></m>. <en>Mary has too much to
+            do.</en></li>
+        </ul>
+      </p>
+      -->
+    </section>
+  </section>
+  <section id="list">
+    <h>see also</h>
+    <p>Here is a comprehensive thematic list of the generic quantity nouns – <ul>
+        <li>simple <ul>
+            <li>large – <a href="?gd=mòran"><g>mòran</g></a>
+              <masc/>
+              <en>lot, many, much</en>, <!--<a href="?gd=tòrr">--><g>tòrr</g>
+              <masc/>
+              <en>heap, mass</en>, (an t-)<!--<a href="?gd=uabhas">--><g>uabhas</g>
+              <masc/>
+              <en>enormity, great quantity, awful lot</en></li>
+            <li>small – <!--<a href="?gd=beagan">--><g>beagan</g><!--</a>-->
+              <masc/>
+              <en>few, little, modicum</en>, <!--<a href="?gd=deannan">--><g>deannan</g>
+              <masc/>
+              <en>pinch, puckle</en></li>
+            <li>middling/neutral – <!--<a href="?gd=cuid">--><g>cuid</g>
+              <fem/>
+              <en>measure, part, portion</en>, <!--<a href="?gd=grunn">--><g>grunn</g>
+              <masc/>
+              <en>batch, group, number</en></li>
+          </ul>
+        </li>
+        <li>comparative <ul>
+            <li>larger – <a href="?gd=barrachd"><g>barrachd</g></a>
+              <fem/>
+              <en>more, predominance, preponderance</en>, <!--<a href="?gd=tuilleadh"
+                >--><g>tuilleadh</g>
+              <masc/>
+              <en>more, extra</en></li>
+            <li>equal – <!--<a href="?gd=uimhir">--><g>uimhir</g>
+              <fem/> / <!--<a href="?gd=uiread">--><g>uiread</g>
+              <masc/>
+              <en>as/so much/many, quantity, modicum, number</en></li>
+            <li>smaller – <!--<a href="?gd=lugha">--><g>nas lugha</g>
+              <en>fewer, less</en></li>
+          </ul>
+        </li>
+        <li>indirectly comparative <ul>
+            <li>excessive – <!--<a href="?gd=anabharr">--><g>anabharr</g>
+              <masc/>
+              <en>excess, redundancy, superfluity</en>, <a href="?gd=cus"><g>cus</g></a>
+              <masc/>
+              <en>glut, too much/many, surfeit</en></li>
+            <li>sufficient – <a href="?gd=leòr"><g>leòr</g></a>
+              <fem/>
+              <en>satiety, sufficiency, enough</en>, <!--<a href="?gd=neart">--><g>neart</g>
+              <masc/>
+              <en>plenty, abundance</en>, <!--<a href="?gd=pailteas">--><g>pailteas</g>
+              <masc/>
+              <en>abundance, plenty</en></li>
+            <li>insufficient – <!--<a href="?gd=beag">--><g>ro bheag</g>
+              <en>too little, too few</en></li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+  </section>
+</module>

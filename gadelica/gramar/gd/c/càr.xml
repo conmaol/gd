@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>càr</h>
+    <p><g>càr</g>
+        <en>car</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section id="spec">
+            <h>specifier</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="spec-older-pedag">
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                                    anns <m>a’ chàr</m>. Chaidh iad sìos taobh an locha is stad iad
+                                    aig àite bòidheach gorm. Chuir iad <m>an càr</m> a stigh gu
+                                    taobh an rathaid is thug iad brat a mach as <m>a’ chàr</m> air
+                                    son suidhe air. [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. They put the car into the side of
+                                    the road and they took a blanket out of the car for sitting on.
+                                    [...]</tr>
+                                <ref text="621">td. 6–7</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+
+        <section>
+            <h>object</h>
+            <p><g><a href="?gd=cuir">cuir</a> càr</g> <en>put/park a car somewhere</en> – <ul>
+                    <li>older pedagogical examples – <xl id="obj-older-pedag">
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                                    anns a’ chàr. Chaidh iad sìos taobh an locha is stad iad aig
+                                    àite bòidheach gorm. <m>Chuir iad an càr</m> a stigh gu taobh an
+                                    rathaid is thug iad brat a mach as a’ chàr air son suidhe air.
+                                    [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. They put the car into the side of
+                                    the road and they took a blanket out of the car for sitting on.
+                                    [...]</tr>
+                                <ref text="621">td. 6–7</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+
+        </section>
+
+        <section>
+            <h>complement</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="comp-older-pedag">
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                                        <m>anns a’ chàr</m>. Chaidh iad sìos taobh an locha is stad
+                                    iad aig àite bòidheach gorm. Chuir iad an càr a stigh gu taobh
+                                    an rathaid is thug iad brat a mach <m>as a’ chàr</m> air son
+                                    suidhe air. [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. They put the car into the side of
+                                    the road and they took a blanket out of the car for sitting on.
+                                    [...]</tr>
+                                <ref text="621">td. 6</ref>
+                                <note><a href="?gd=an^preposition"><g>an</g></a>
+                                    <en>in</en>, <a href="?gd=a^preposition"><g>à</g></a>
+                                    <en>out of, from</en></note>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+
+        </section>
+    </section>
+
+
+</module>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>a-staigh</h>
+    <p><g>a-staigh</g>
+        <en>[at] inside</en> is is an inessive adverb of location (contrasting with both the
+        illative <a href="?gd=a-steach"><g>a-steach</g></a>
+        <en>[to] inside</en> and the adessive(?) <a href="?gd=a-muigh"><g>a-muigh</g></a>
+        <en>[at] outside</en>).</p>
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>complement</h>
+            <p>Some examples – <ul>
+                    <li><g>a-staigh <a href="?gd=gu^preposition">gu</a></g>
+                        <en>into</en>
+                        <ul>
+                            <li>older pedagogical examples – <xl id="gu-older-pedag">
+                                    <li>
+                                        <gd>Bha an latha brèagha blàth is thug an athair leis Iain
+                                            agus Anna anns a’ chàr. Chaidh iad sìos taobh an locha
+                                            is stad iad aig àite bòidheach gorm. Chuir iad an càr
+                                                <m>a stigh gu taobh an rathaid</m> is thug iad brat
+                                            a mach as a’ chàr air son suidhe air. [...]</gd>
+                                        <tr>The day was lovely and warm and their father took John
+                                            and Ann in the car. They went down the side of the lake
+                                            and they stopped at a beautiful green place. They put
+                                            the car into the side of the road and they took a
+                                            blanket out of the car for sitting on. [...]</tr>
+                                        <ref text="621">td. 6</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <p>Some examples – <ul>
+                    <li><g><a href="?gd=cuir">cuir</a> a-staigh</g>
+                        <en>put something inside</en>
+                        <ul>
+                            <li>older pedagogical examples – <xl id="cuir-older-pedag">
+                                    <li>
+                                        <gd>Bha an latha brèagha blàth is thug an athair leis Iain
+                                            agus Anna anns a’ chàr. Chaidh iad sìos taobh an locha
+                                            is stad iad aig àite bòidheach gorm. <m>Chuir iad an càr
+                                                a stigh gu taobh an rathaid</m> is thug iad brat a
+                                            mach as a’ chàr air son suidhe air. [...]</gd>
+                                        <tr>The day was lovely and warm and their father took John
+                                            and Ann in the car. They went down the side of the lake
+                                            and they stopped at a beautiful green place. They put
+                                            the car into the side of the road and they took a
+                                            blanket out of the car for sitting on. [...]</tr>
+                                        <ref text="621">td. 6</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+</module>

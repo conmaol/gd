@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title lang="en">compound common nouns</title>
+  <title lang="gd">ainmearan gnàthach fillte</title>
+  <p lang="en"><ed>under construction</ed></p>
+  <p>Compound common are <a href="?xx=nouns/common_nouns">common nouns</a> which have been formed from other common nouns, typically by addition of a prefix eg.</p>
+  <ul>
+    <li><m>mùtaire</m> masc. <en>mutineer</en> → <m>cùl-mhùtaire</m> masc. <en>smuggler</en></li>
+  </ul>
+  
+  <!--
+  <p>Noun-compounding prefixes –</p>
+  <ul>
+    <li><a href="?gd=an_">a(i)n-</a></li>
+    <li><a href="?gd=cùl">cùl-</a></li>
+    <li><a href="?gd=dì_">dì-</a></li>
+    <li><a href="?gd=dian">dian-</a></li>
+    <li><a href="?gd=mì_">mì-</a></li>
+  </ul>
+  <p>Also: <a href="?gd=dia">dia-</a>.</p>
+  -->
+</module>
+

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>feum</h>
+  <p><g>feum</g>
+    <en>necessity, need</en> has a number of uses.</p>
+  <module id="noun">
+    <h>noun</h>
+    <p>Examples of usage – <xl id="noun-xs">
+        <li>
+          <gd>[...] A nis, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas ùr againn. Tha sinn
+            an dòchas gun téid gu math dhaibh, agus gun cuir iad spionnadh ás ùr anns an dùthaich
+            air fad. Agus gu seachd àraidh anns a’ Ghaidhealtachd: gun tòisich obair an dealain a
+            rithist, gun cuirear tuilleadh bhàtaichean-iasgaich an sàs, gum faigh na Gaidheil
+            cothrom air fearann na Gaidhealtachd obrachadh dhaibh fhéin, ás bith an ann mar
+            chroitean no mar innis no mar choille, gun bhacadh o bhàllidh no o thighearna. Tha sinn
+            an dòchas gun tig rathaidean ùra, <m>chan ann dìreach gu feum an luchd-turais, ach gu
+              feum nan Gaidheal</m>.</gd>
+          <tr>[...] Now, the General Election is behind [us], and we have a new Government. We hope
+            that they will do well, and that they will re-energise the whole country. And most
+            especially in the Highlands: that electricity work will restart, that more fishing boats
+            will be put into service [?], that the Gaels will get the opportunity to work the land
+            of the Highlands for themselves, whether as crofts or as grazing or as forest, without
+            hindrance from a bailiff or from a laird. We hope that new roads will come, <u>not just
+              to benefit tourists, but to benefit the Gaels</u>.</tr>
+          <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+        </li>
+        <li>
+          <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os cionn
+            obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach ag ath-nuadhachadh
+            dreach a’ Chomuinn. [...] Ach dh’ fheumadh am Fear-stiùiridh ùr barrachd air a sin a
+            dhèanamh. Dh’ fheumadh e siubhal a dhèanamh eadar Rubha Robhanais agus Ceann Bharraidh,
+            eadar am Parbh is Maol Chinn-tìre, agus cha deanadh math dha dìochuimhneachadh gu robh
+            obair a’ Chomuinn a’ buntainn ri Coimisean nan Croitearan an Inbhirnis, ri Roinn an
+            Fhoghluim an Dùn-Eideann, agus ri Tigh nan Cumantan an Lunnainn. An duine a theid do
+            gach àite dhiubh sin, agus a bheir barrachd air còmhradh leis dhachaidh, <m>nì e feum do
+              ’n Chomunn is do ’n Ghàidhlig</m>.</gd>
+          <tr>The Highland Society is talking about choosing a new General who will oversee the
+            Society’s work. [...] He would have enough to do initially reforming the Society. [...]
+            But the new leader would have to do more than (just) that. He would have to travel
+            between the Butt of Lewis and Barra Head, between Cape Wrath and the Mull of Kintyre,
+            and he should not forget that the Society’s work is related to the Crofters’ Commission
+            in Inverness, to the Education Department in Edinburgh, and to the House of Commons in
+            London. The person who goes to each of those places, and who brings home more than
+            (just) conversation, <u>will benefit the Society and the Gaelic language</u>.</tr>
+          <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+        </li>
+        <li>
+          <gd>Bha beagan airgid aige ’s mar sin chaith e a bheatha a’ sgrìobhadh, gun <m>feum</m>
+            aige air obair eile a dhèanamh.</gd>
+          <tr>He had a little money and therefore he devoted his life to writing, without the
+              <u>need</u> to do other work.</tr>
+          <ref text="400-41">td. 103</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+  <module id="verb">
+    <h>verb</h>
+    <p lang="en">Examples from Gairm – <xl id="exs">
+        <li>
+          <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os cionn
+            obair a’ Chomuinn. [...] Cha b’ fhuilear do dhuine de ’n t-seòrsa so tomhas mhath de
+            chumhachd a bhith aige. Cha dean math dha a bhith air a shlaodadh aig tòin Coimitidh,
+            ach <m>feumaidh</m> an Coimitidh earbsa a bhith aca ás. [...] Bhiodh a leòr aige ri
+            dhèanamh an toiseach ag ath-nuadhachadh dreach a’ Chomuinn. [...] Ach <m>dh’
+              fheumadh</m> am Fear-stiùiridh ùr barrachd air a sin a dhèanamh. <m>Dh’ fheumadh</m> e
+            siubhal a dhèanamh eadar Rubha Robhanais agus Ceann Bharraidh, eadar am Parbh is Maol
+            Chinn-tìre, agus cha deanadh math dha dìochuimhneachadh gu robh obair a’ Chomuinn a’
+            buntainn ri Coimisean nan Croitearan an Inbhirnis, ri Roinn an Fhoghluim an Dùn-Eideann,
+            agus ri Tigh nan Cumantan an Lunnainn.</gd>
+          <tr>The Highland Society is talking about choosing a new General who will oversee the
+            Society’s work. [...] A person of this kind would have to have a good measure of power.
+            It would do him no good to be dragged along by the Committee <ed>??</ed>, but the
+            Committee <u>must</u> have trust in him. [...] He would have enough to do initially
+            reforming the Society. [...] But the new leader <u>would have to</u> do more than (just)
+            that. He <u>would have to</u> travel between the Butt of Lewis and Barra Head, between
+            Cape Wrath and the Mull of Kintyre, and he should not forget that the Society’s work is
+            related to the Crofters’ Commission in Inverness, to the Education Department in
+            Edinburgh, and to the House of Commons in London.</tr>
+          <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+        </li>
+        <li>
+          <gd>’Se madainn bhòidheach foghair a bh’ ann—tioram, le ceileir eòin, is beagan dealt air
+            an fheur. Bha a[m] muir ’s na tighean ag éirigh á inntinn an latha. Cha robh e fhéin a’
+            faireachdainn uabhasach math, oir, air a’ bhàta, bha triùir dhaoine le botul
+            uisge-bheatha agus cha robh càil air a shon ach gu <m>feumadh e òl ’nan cuideachd</m>. </gd>
+          <tr>It was a beautiful autumn morning – dry, with the chirping of birds, and a little dew
+            on the grass. The sea and the houses were rising from the mind of the day [?]. He was
+            not feeling terribly good/well, because, on the boat, there were three men with a bottle
+            of whisky and there was nothing for it but that he would have to drink in their
+            company.</tr>
+          <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+      </xl>
+    </p>
+    <p lang="gd">...</p>
+  </module>
+  <module id="feumail">
+    <h>feumail</h>
+    <p>Examples from modern usage – <xl id="other">
+        <li>
+          <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. [...] Bha
+            seachdnar de theaghlach aige, ceathrar mhac agus triùir nighean, agus bha a h-uile fear
+            is tè anns a’ mhalairt ach Rob. B’ e Rob a b’ òige agus lean e an sgoil. Nuair a ràinig
+            e an t-oilthigh bha càch airson gun ionnsaicheadh e cunntasachd, a bhiodh <m>feumail
+              anns a’ mhalairt</m>, ach ’s ann a bha ùidh-san ann an ealain. Dh’fhàg e an t-oilthigh
+            agus chaidh e do sgoil ealain. [...]</gd>
+          <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. [...] He
+            had a family of seven, four sons and three daughters, and every man and woman was in the
+            business except Rob. Rob was the youngest and he stayed on at school. When he reached
+            the university the others wanted him to learn accountancy, which would be useful in the
+            business, but his interest was in art. He left the university and went to an art school.
+            [...]</tr>
+          <ref text="2">td. 5</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+
+  <module status="bronze" id="feum">
+    <h>bi feum aig ...</h>
+    <p>cf. <a href="?gd=aig"><g>aig</g></a>
+      <en>at</en>.</p>
+    <p><ul>
+        <li>examples from Gairm – <xl id="feum-gairm">
+            <li>
+              <gd>Bha beagan airgid aige ’s mar sin chaith e a bheatha a’ sgrìobhadh, gun
+                  <m>feum</m> aige air obair eile a dhèanamh.</gd>
+              <tr>He had a little money and therefore he devoted his life to writing, without the
+                need to do other work.</tr>
+              <ref text="400-41">td. 103</ref>
+            </li>
+          </xl>
+        </li>
+      </ul></p>
+  </module>
+
+</module>

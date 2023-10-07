@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>eaglaiseach</h>
+    <p><g>eaglaiseach</g>
+        <en>ecclesiastical</en> is a derived adjective, with stem <a href="?gd=eaglais"
+                ><g>eaglais</g></a>
+        <fem/>
+        <en>church</en> and suffix <a href="?gd=_ach"><g>-each</g></a>.</p>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>modifier</h>
+            <p>Examples from modern usage – <xl id="mod">
+                    <li>
+                        <gd>Ma tha laigead ri a chur às leth òrdachadh an fhoghlaim sin air fad, is
+                            e gun robh e ro cheangailte ri riaghladh eaglaiseach.</gd>
+                        <tr>If there is any weakness to be found in this educational set-up, it is
+                            the fact that it was too closely tied to ecclesiastical control.</tr>
+                        <ref text="609">td. 193</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+
+
+
+
+</module>

@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>faigh</h>
+  <p><g>faigh</g>
+    <en>get</en> is an irregular verb.</p>
+  <section id="forms">
+    <h>forms</h>
+    <p>The principal parts of <g>faigh</g> are – <ul>
+        <li><m>gheibh</m> – future independent ie. <en>will get</en></li>
+        <li><m>fhuair</m> – past independent ie. <en>got</en></li>
+        <li><m>faighinn</m> – verbal noun ie. <en>getting</en></li>
+      </ul>
+    </p>
+    <section>
+      <h>tense</h>
+      <p><ul>
+          <li>past <ul id="past">
+              <li>active <ul>
+                  <li>independent – <m>fhuair</m></li>
+                  <li>relative – a <m>fhuair</m></li>
+                  <li>dependent – cha/an/nach <m>do fhuair</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>fhuaras</m></li>
+                  <li>relative – a <m>fhuaras</m></li>
+                  <li>dependent – cha/an/nach <m>do fhuaras</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>future <ul id="future">
+              <li>active <ul>
+                  <li>independent – <m>gheibh</m></li>
+                  <li>relative – a <m>gheibh</m></li>
+                  <li>dependent – chan/nach <m>fhaigh</m>, am <m>faigh</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>gheibhear</m></li>
+                  <li>relative – a <m>gheibhear</m></li>
+                  <li>dependent – chan/nach <m>fhaighear</m>, am <m>faighear</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>conditional <ul id="conditional">
+              <li>active <ul>
+                  <li>first person singular <ul>
+                      <li>independent – <m>gheibhinn</m></li>
+                      <li>relative – a <m>gheibhinn</m></li>
+                      <li>dependent – chan/nach <m>fhaighinn</m>, am <m>faighinn</m></li>
+                    </ul>
+                  </li>
+                  <li>first person plural <ul>
+                      <li>independent – <m>gheibheamaid</m></li>
+                      <li>relative – a <m>gheibheamaid</m></li>
+                      <li>dependent – chan/nach <m>fhaigheamaid</m>, am <m>faigheamaid</m></li>
+                    </ul>
+                  </li>
+                  <li>second/third persons <ul>
+                      <li>independent – <m>gheibheadh</m></li>
+                      <li>relative – a <m>gheibheadh</m></li>
+                      <li>dependent – chan/nach <m>fhaigheadh</m>, am <m>faigheadh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>gheibhte</m></li>
+                  <li>relative – a <m>gheibhte</m></li>
+                  <li>dependent – chan/nach <m>fhaighte</m>, am <m>faighte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>status</h>
+      <p><ul>
+          <li>independent <ul id="independent">
+              <li>past <ul>
+                  <li>active – <m>fhuair</m></li>
+                  <li>passive – <m>fhuaras</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – <m>gheibh</m></li>
+                  <li>passive – <m>gheibhear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – <m>gheibhinn</m></li>
+                      <li>first person plural – <m>gheibheamaid</m></li>
+                      <li>second/third persons – <m>gheibheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – <m>gheibhte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>relative <ul id="relative">
+              <li>past <ul>
+                  <li>active – a <m>fhuair</m></li>
+                  <li>passive – a <m>fhuaras</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – a <m>gheibh</m></li>
+                  <li>passive – a <m>gheibhear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – a <m>gheibhinn</m></li>
+                      <li>first person plural – a <m>gheibheamaid</m></li>
+                      <li>second/third persons – a <m>gheibheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – a <m>gheibhte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>dependent <ul id="dependent">
+              <li>past <ul>
+                  <li>active – cha/nach/an <m>do fhuair</m></li>
+                  <li>passive – cha/nach/an <m>do fhuaras</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – chan/nach <m>fhaigh</m>, am <m>faigh</m></li>
+                  <li>passive – chan/nach <m>fhaighear</m>, am <m>faighear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – chan/nach <m>fhaighinn</m>, am
+                        <m>faighinn</m></li>
+                      <li>first person plural – chan/nach <m>fhaigheamaid</m>, am
+                        <m>faigheamaid</m></li>
+                      <li>second/third persons – chan/nach <m>fhaigheadh</m>, am
+                        <m>faigheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – chan/nach <m>fhaighte</m>, am <m>faighte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>voice</h>
+      <p><ul>
+          <li>active <ul id="active">
+              <li>past <ul>
+                  <li>independent – <m>fhuair</m></li>
+                  <li>relative – a <m>fhuair</m></li>
+                  <li>dependent – cha/an/nach <m>do fhuair</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>gheibh</m></li>
+                  <li>relative – a <m>gheibh</m></li>
+                  <li>dependent – chan/nach <m>fhaigh</m>, am <m>faigh</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent <ul>
+                      <li>first person singular – <m>gheibhinn</m></li>
+                      <li>first person plural – <m>gheibheamaid</m></li>
+                      <li>second/third persons – <m>gheibheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>relative <ul>
+                      <li>first person singular – a <m>gheibhinn</m></li>
+                      <li>first person plural – a <m>gheibheamaid</m></li>
+                      <li>second/third persons – a <m>gheibheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>dependent <ul>
+                      <li>first person singular – chan/nach <m>fhaighinn</m>, am
+                        <m>faighinn</m></li>
+                      <li>first person plural – chan/nach <m>fhaigheamaid</m>, am
+                        <m>faigheamaid</m></li>
+                      <li>second/third persons – chan/nach <m>fhaigheadh</m>, am
+                        <m>faigheadh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>passive <ul id="passive">
+              <li>past <ul>
+                  <li>independent – <m>fhuaras</m></li>
+                  <li>relative – a <m>fhuaras</m></li>
+                  <li>dependent – cha/an/nach <m>do fhuaras</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>gheibhear</m></li>
+                  <li>relative – a <m>gheibhear</m></li>
+                  <li>dependent – chan/nach <m>fhaighear</m>, am <m>faighear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent – <m>gheibhte</m></li>
+                  <li>relative – a <m>gheibhte</m></li>
+                  <li>dependent – chan/nach <m>fhaighte</m>, am <m>faighte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>imperative</h>
+      <p><ul>
+          <li><ul id="imperative">
+              <li>independent <ul id="imp-ind">
+                  <li>first person singular – <m>faigheam</m>!</li>
+                  <li>second person singular – <m>faigh</m>!</li>
+                  <li>first person plural – <m>faigheamaid</m>!</li>
+                  <li>second person plural – <m>faighibh</m>!</li>
+                  <li>third person – <m>faigheadh</m>!</li>
+                  <li>passive – <m>faigh(t)ear</m>!</li>
+                </ul>
+              </li>
+              <li>dependent <ul id="imp-dep">
+                  <li>first person singular – na <m>faigheam</m>!</li>
+                  <li>second person singular – na <m>faigh</m>!</li>
+                  <li>first person plural – na <m>faigheamaid</m>!</li>
+                  <li>second person plural – na <m>faighibh</m>!</li>
+                  <li>third person – na <m>faigheadh</m>!</li>
+                  <li>passive – na <m>faigh(t)ear</m>!</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <p>Notes – <ol>
+          <li>The past independent forms <g>fhuair</g> and <g>fhuaras</g> are pronounced as if they
+            were spelled <g>thuair</g> and <g>thuaras</g>.</li>
+          <li>The past dependent forms <g>do fhuair</g> and <g>do fhuaras</g> are pronounced as if
+            they were spelled <g>duair</g> and <g>duaras</g>. They are commonly written as <g>d’
+              fhuair</g> and <g>d’ fhuaras</g>.</li>
+          <li>There is an alternative dialectal verbal noun – <g>faotainn</g>.</li>
+        </ol>
+    </p>
+  </section>
+  
+  <!--
+  <module id="relations">
+    <h>relations</h>
+    <h lang="gd"/>
+  </module>
+  <module id="uses">
+    <h>uses</h>
+    <h lang="gd"/>
+    <p>The main uses of faigh are – <ul>
+        <li>the passive construction <b>faigh</b> + <a href="?xx=verbs/infinitivals">infinitival</a>
+          eg. <m>bha iad an dùil gum faigheadh na claisean an lìonadh trì uairean mum biodh am mìos
+            thairis</m>
+          <en>they expected that the furrows would be filled three times before the month was
+            over</en></li>
+        <li><b>faigh air</b> + <a href="?xx=verbs/infinitivals">infinitival</a>
+          <en>be able to, manage to</en> eg. <m>chan fhaighinn air càil a ràdh ach nach robh mi ga
+            chreidsinn</m>
+          <en>I couldn’t say anything except that I didn’t believe it</en>, <m>an do fhuair thu air
+            a dhèanamh?</m>
+          <en>did you manage to do it?</en></li>
+      </ul>
+    </p>
+    <p lang="gd">...</p>
+  </module>
+  <module id="senses">
+    <h>senses</h>
+    <h lang="gd"/>
+  </module>
+  -->
+
+  <!--
+  <h3>Intransitive uses of <em>faigh</em></h3>
+  <p><b>faigh</b> + <a href="../../xx/pathExpressions.php">path expression</a> – ‘get (oneself) somewhere’</p>
+  <ul>
+    <li><b>Nuair a <mark>fhuair mi dhachaigh</mark>, chuir mi fòn chun na h-àireimh a thug Brian dhomh.</b><br/>
+      <small class="text-muted">‘When I got home, I called the number that Brian had given me.’ [#2 50]</small></li>
+    <li><b>“Bhiodh grèim aca ort mus <mark>fhaigheadh tu tarsainn an rathaid</mark>.”</b><br/>
+      <small class="text-muted">‘They would grab you before you got across the road.’ [#2 56]</small></li>
+    <li><b>Fhuair Syd a-mach bho bhràthair an là agus an uair a bha Harry Heyford a’ <mark>faighinn a-mach</mark>.</b><br/>
+      <small class="text-muted"> ‘Syd found out from his brother the date and time when Harry Heyford was getting out [of prison].’[#2 61]</small></li>
+    <li><b>Chrùb e airson <mark>faighinn tron fheans</mark>.</b><br/>
+      <small class="text-muted">‘He crouched to get through the fence.’ [#2 81]</small></li>
+    <li><b><mark>Gheibheadh iad le chèile chun a’ Mhòid</mark> an Glaschu.</b><br/>
+      <small class="text-muted">‘They would both get to the Mod in Glasgow.’ [#2 89]</small></li>
+    <li>Ach fhuair Eubha dhan bhaile mhòr gun smid a ràdh mu dheidhinn a’ chuspair. [92]</li>
+    <li>Bha na balaich glè thoilichte faighinn air falbh bho Thorcall, [95]</li>
+    <li>Bha cuibhreann aige bho athair a bha tuilleadh ’s gu leòr airson fheumalachd ged a bha e dèidheil air a’ bhotal, agus cha robh e a’ dèanamh spàirn sam bith airson faighinn air adhart san t-saoghal. [5]</li>
+    <li>Nuair a fhuair e air falbh bhon chidhe, bha e airson na siùil a chrochadh gus an sàbhaileadh e ola [99]</li>
+    <li>Bha Pòl deònach seo a dhèanamh, agus fhuair e gu Bòrd an Tighearna, [10]</li>
+    <li>Dh’fheumadh e faighinn air a’ chiad rong de dh’fhàradh obair bhuan. [9]</li>
+  </ul>
+  <p><b>faigh thairis air ...</b> ‘get over an affliction’</p>
+  <ul>
+    <li><b>Bha e air a leòn sa cheann agus san amhaich. Cha <mark>d’ fhuair e a-riamh thairis air</mark>.</b><br/>
+      <small class="text-muted"> ‘He was injured in the head and neck. He never got over it.’ [#2 57]</small></li>
+  </ul>
+  <p><b>faigh air rud a dhèanamh</b> ‘get to do something’, ‘be able to do something’</p>
+  <ul>
+    <li><b>Bha dòrlach dhealbh aice agus thug i aon dha mus <mark>d’ fhuair e air bruidhinn</mark>.</b><br/>
+      <small class="text-muted">‘She had a handful of photos and handed him one before he could speak.’ [#2 66]</small></li>
+    <li><b>Chan <mark>fhaigheadh a’ chlann-nighean air an càr a leigeil seachad</mark>, oir bha an rathad ro chaol.</b><br/>
+      <small class="text-muted">‘The girls couldn’t let the car past, because the road was too narrow.’ [#2 ??]</small></li>
+    <li>Nuair a fhuair Seòras air an t-eathar a cheartachadh mhothaich e gu robh an Suilven air a cùrsa atharrachadh. [101]</li>
+    <li> “An dùil am faigheadh tu air fios a chur gu duine dhen t-seòrsa air an robh sinn a bruidhinn?” [107]</li>
+    <li> Chan fhaigheadh iad air an cuid aodaich a chur dhiubh luath gu leòr. [109]</li>
+    <li>Mus d’ fhuair e air co-dhùnadh a dhèanamh, sheas an dithis a bha aig a’ bhòrd [119]</li>
+    <li>Fios cabhagach? An robh e cho cabhagach ’s nach d’ fhuair i air facal fhàgail aig a nàbaidh? [124]</li>
+    <li>Tha seo anabarrach duilich a dhèanamh, ach ma gheibh thu air a dhèanamh cha ghabh thu aithreachas air a shon gu bràth. [125]</li>
+  </ul>
+  <hr/>
+  <h3>Transitive uses of <em>faigh</em></h3>
+  <p><b>faigh rud</b> ‘get something’, ‘obtain something’, ‘take possession of something’:</p>
+  <ul>
+    <li>Nuair a <mark>fhuair iad am flat</mark> bhiodh iad a’ toirt clann-nighean ann. ‘When they got the flat ...’ [54]</li>
+    <li>Nuair a choisneadh iad dhà no trì notaichean, ghabhadh an t-airgead teas nam pòcaidean gus am <mark>faigheadh iad toitean is botal</mark>. ‘until they got cigarettes and a bottle.’ [52]</li>
+    <li>“Gheibh thusa duaisean gu leòr fhathast, a ghràidh,” [72] be awarded</li>
+    <li>“Cuimhnich nach d’ fhuair a’ chuid mhòr de dhaoine an t-saoghail duais a-riamh.” [72]</li>
+    <li>Samhradh an dèidh samhraidh ’s e mo dheagh charaid, no mi fhìn, a fhuair a’ chiad ’s an dara duais sa chlas. [69]</li>
+    <li>Bha fear na garaids, a bha càirdeach do Mhòrag, ag ràdh gu robh am Ford cho aosta ’s nach robh e furasta na pàirtean a bha air am milleadh a lorg. Cha robh e a’ dèanamh mòran strì airson am faighinn co-dhiù. [77]</li>
+    <li>chaidh a mharbhadh ann an tubaist rathaid mus d’ fhuair e an litir. [82]</li>
+    <li><mark>Bha iasad furasta fhaighinn</mark>. ‘Credit was easy to get.’ [54]</li>
+    <li>nuair a fhuair Ailig obair faisg air làimh thàinig piseach air slàinte Doilidh [65]</li>
+    <li> nam faigheadh e an obair nach dòcha gun deigheadh iad a dh’fhuireach sa bhaile mhòr. [89]</li>
+    <li>Fhuair e an obair, ged nach robh mòran aige mu deidhinn. [89]</li>
+    <li>Fhuair iad le chèile seòladh air a’ bhàta-cargu Màrham, ‘obtain passage on’ [61]</li>
+    <li>’S ann à Freemantle a fhuair Syd Scot an naidheachd uabhasach. [59]</li>
+    <li>Cha robh cas aig na mèirlich air an seasadh iad, agus b’ e am peanasachadh a fhuair iad gu feumadh iad a h-uile fàd a ghoid iad a thoirt gu taigh bantrach Uilleim [74]</li>  
+    <li>‘Gheibh foighidinn furtachd’, [76]</li>
+    <li>Fhuair Mangan Coull an t-ainm annasach seo tro sheanair a thàinig à Ceann Phàdraig. [83]</li>
+  </ul>
+  <p><b>faigh rud bho dhuine</b> ‘get something from someone’:</p>
+  <ul>
+    <li><b><mark>Fhuair e £250 bho dhuine</mark> air an robh Jock Wallace.</b><br/>
+      <small class="text-muted">‘He got £250 from a man called Jock Wallace.’ [#2 54]</small></li>
+    <li><b>“Cuiridh mise geall ri Mgr. Grey nach <mark>fhaigh Wallace sgillinn bhuat</mark>.”</b><br/>
+      <small class="text-muted">“I’ll bet Mr Grey that Wallace won’t get a penny from you.” [#2 56]</small></li>
+    <li>Nuair a fhuair an sgioba am pàigheadh bho Thòmas airson nan giomach mu dheireadh a chuir e air falbh, dh’innis iad dha nach robh iad a’ dol gu muir tuilleadh [97]</li>
+    <li>Tha bliadhna a-nise bho fhuair mi an litir bhon fhear-lagha, [116]</li>
+    <li>Thug i a-steach e airson drama agus dh’fhosgail i parsail a fhuair i bho mhàthair. [126]</li>
+  </ul>
+  <p><b>faigh rud do dhuine</b> ‘get someone something’:</p>
+  <ul>
+    <li><b>Dh’fheuchadh e ri <mark>taigh Comhairle fhaighinn dhi</mark>.</b><br/>
+      <small class="text-muted">‘He would try to get her a council house.’ [#2 65]</small></li>
+    <li><b><mark>Fhuair e obair dha na balaich</mark> ann an taigh-seinnse</b><br/>
+      <small class="text-muted">‘He got work for the boys in a pub.’ [#2 53]</small></li>
+  </ul>
+  <p><b>faigh rud air ais</b> ‘get something back (again)’:</p>  
+  <ul>
+    <li><b>An dèidh na deuchainne <mark>fhuair sinn na pàipearan air ais</mark>.</b><br/>
+      <small class="text-muted"> [71]</small></li>
+    <li><b>Nuair a thill a’ chlann-nighean bha dùil aige gu faigheadh e a chàr air ais.</b><br/>
+      <small class="text-muted"> [77] ‘get it back again’, reclaim possession over</small></li>
+  </ul>
+  <p>faigh rud/duine = find, come across</p>
+  <ul>
+    <li><b>Ann an teanta Ruairidh Bhig fhuair iad glainne-amhairc bheag,</b><br/>
+      <small class="text-muted"> uaireadair pòcaid, lùban bun-dùirn airgid, agus sporan leathair le naoi notaichean. [84] ‘find’</small></li>
+    <li><b>’S e fear a bha a-muigh cuairt leis a’ chù a fhuair i.</b><br/>
+      <small class="text-muted"> ‘find/come across her’ [59] person</small></li>
+    <li><b>dh’innis e gun d’ fhuair e an sporan air chall le ceithir fichead not ann</b><br/>
+      <small class="text-muted"> [84] ‘found’</small></li>
+    <li><b>“Cha d’ fhuair am poileas a chorp a-riamh ged a rinn iad lorg gu leòr,”</b><br/>
+      <small class="text-muted"> [85]</small></li>
+  </ul>
+  
+  <p>faigh a-mach ‘find out, learn’:</p>
+  <ul>
+    <li>Fhuair Syd a-mach bho bhràthair an là agus an uair a bha Harry Heyford a’ faighinn a-mach ‘getting out of prison’[61]</li>
+    <li>Fhuair mi a-mach glè aithghearr nach robh an Dr. Simon Simpson ann a bharrachd. ‘find out that’ [50]</li>
+    <li>“Fhuair mi a-mach an-diugh,” ars Iain, “nach deach Mangan a mhurt idir. [85]</li>
+  </ul>
+  
+  
+  <p>other:</p>
+  <ul>
+    <li>Shaoil mi gun d’ fhuair an gille faochadh. ‘be relieved’ [49]</li>
+    <li>ghabh mi romham gu Caol Acain airson an t-aiseag fhaighinn a Steòrnabhagh. ‘catch the ferry’ [50]</li>
+    <li>cha b’ ann air an slàinte a bha aire ach air am faighinn a-mach às an taigh. [65]</li>
+    <li>bhon chloinn-nighean fhuair iad eòlas air drogaichean, dìreach mar a fhuair Adhamh eòlas air meas na craoibhe a bha am meadhan a’ ghàrraidh. ‘learn about’ [54]</li>
+    <li>’S e dà bhliadhna de phrìosan a fhuair e. ‘be sentenced to’ [61]</li>
+    <li>Aig deireadh an là fhuair an diùraidh Syd neo-ciontach. ‘find someone not guilty’ [63]</li>
+    <li>Fhuair e ciontach e. [76]</li>
+    <li>Fhuair e briseadh-dùil nuair a fhuair e gu robh a’ phrìomh thaigh air a leudachadh [65]</li>
+    <li>Mar sin, fhuair mi e anabarrach tlachdmhor gun tàinig e thugam an là sa le rùn dìomhair. [70]</li>
+    <li>Gheibheadh e am prìosan an-diugh airson brùidealachd dhen t-seòrsa. ‘get the prison’ [69]</li>
+  </ul>
+  
+  <ul>
+    <li>Nach bu chòir dhomh a bhith air fios fhaighinn o chionn fhada. [#2 90]</li>
+    <li>“Dè ’n cosnadh a gheibhinn sa bhaile mhòr?” [#2 87]</li>
+    <li>bheachdaich ceathrar ghillean sa bhaile againn gu faigheadh iad an teachd-an-tìr aig an dachaigh ag iasgach nan giomach. [#2 94]</li>
+    <li>Mar a chanas sinn an-diugh, bha Pàdraig ‘redundant’, ach cha d’ fhuair e cuideachadh mar a gheibh daoine an-diugh nuair a thig an àmhghar sin orra. [#2 96]</li>
+    <li>Bho ’s cuimhne leam dh’fheumadh an òigridh againn an t-eilean fhàgail airson beòshlaint fhaighinn. [#2 94]</li>
+    <li>o chionn ghoirid bha e air obair fhaighinn ann an oifis fir-lagha anns a’ bhaile mhòr.  [#2 7]</li>
+    <li>Mhothaich e an uair sin gu robh a’ ghaoth ag èirigh agus fhuair e soilleireachadh air dòigh na b’ fheàrr. [#2 100-1]</li>
+    <li>nuair a dh’fhosgail e ceas Mhata is Lùcais fhuair Seòras briseadh-dùil, oir cha robh càil ann ach na rudan a bhios aig a h-uile duine a’ dol air turas. [#2 101]</li>
+    <li>Fhuair sinn fios à Malaig gu robh thu ’g òl còmhla ris fad an fheasgair. [#2 111]</li>
+    <li>Fhuair iad do dhaga ann am bine-sgudail agus clobhd timcheall air. [#2 111]</li>
+    <li>“Chan fhaigh duine dealachadh pòsaidh airson gum bi bhean a’ roiligeadh a sùilean,”  [#2 105]</li>
+    <li>An dùil am faighinn còmhradh air do bhràthair?” [#2 107]</li>
+    <li> goirid an dèidh sin fhuair Ailig am fios ris an robh dùil aige.  [#2 107]</li>
+    <li>Bha e a’ faighinn a bheòshlainte às a’ chroit agus às an eathar iasgaich. [#2 112]</li>
+    <li> Bhuail e an doras, ach cha d’ fhuair e freagairt.  [#2 117]</li>
+    <li>Smaoinich e air Peigi, an nighean àlainn a chaill e fhèin nuair a fhuair na drogaichean buaidh oirre. [#2 118]</li>
+    <li>’S ann air an t-slighe dhachaigh a fhuair Dan an soilleireachadh a b’ iongantaich. [#2 119]</li>
+    <li>thòisich e a’ losgadh saighead air targaid gus am faigheadh e eòlas air a’ chall-airm aosta. [#2 120]</li>
+    <li>ha mi airson beachd a’ phoilis fhaighinn air a’ chùis.” [#2 116]</li>
+    <li>Bha bliadhna bho thòisich e a’ falbh leatha, a’ bhliadhna a fhuair e àrdachadh gu inbhe lioftanant san Nèibhi [#2 124]</li>
+    <li>Thug an criothnachadh a fhuair e gu chiall e.  [#2 125]</li>
+    <li> [#2 ]</li>
+    <li> [#2 ]</li>
+    <li> [#2 ]</li>
+    <li> [#2 ]</li>
+    <li> [#2 ]</li>
+    <li> [#2 ]</li>
+    <li> [#2 ]</li>
+  </ul>
+  -->
+
+</module>

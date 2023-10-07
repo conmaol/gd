@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h lang="en">lunn</h>
+    <h lang="gd">lunn</h>
+    <p lang="en"><b>lunn</b> is a masculine <a href="?xx=nouns/common_nouns">common noun</a>, with
+        genitive singular forms <b>luinn</b> or <b>lunna</b>, and plural form <b>lunnan</b>. It is
+        sometimes found with <b>o</b> rather than <b>u</b> – <b>lonn</b>, <b>loinn</b>,
+        <b>lonna</b>, <b>lonnan</b>.</p>
+    <p lang="gd">...</p>
+    <module id="senses">
+        <h lang="en">basic senses</h>
+        <h lang="gd">...</h>
+        <p lang="en">There appear to be two main dictionary senses of the noun <b>lunn</b> (MacBain,
+            Dwelly) – <ol>
+                <li><en>large wave, heaving billow, heaver, roller</en> – derived from the adjective
+                        <b>lonn</b>
+                    <en>strong, powerful, fierce</en>, itself from the Old Gaelic <ax
+                        href="https://dil.ie/30660">lonn</ax>
+                    <en>fierce, strong, violent, vehement, eager, bold; irascible, angry</en></li>
+                <li><en>timber put under a boat for launching it, roller</en>, derived from Old
+                    Norse <ax href="https://en.wiktionary.org/wiki/hlunnr#Old_Norse">hlunnr</ax>,
+                        <en>a roller for launching ships</en>
+                    <ul>
+                        <li>[by extension] <en>the middle, round part of an oar handle, staff,
+                                lever, bar</en></li>
+                    </ul>
+                </li>
+            </ol>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+    <module id="air_lunn">
+        <h lang="en">air lunn</h>
+        <h lang="gd">...</h>
+        <p lang="en">When followed by an infinitive (verbal noun), <b>air lunn</b> can also be used
+            to mark <a href="?q=verbal_aspect">prospective aspect</a>
+            <en>about to, on the verge/point of</en>, though mainly in older texts – <ul>
+                <li>Tha iad <m>air lunn a dhol</m> ann. <en>They are on the verge/point of
+                        going.</en></li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">Examples – <ul>
+                <li><b>air lunn a dhol</b> – <xl id="air_lunn_a_dhol-xs">
+                        <li>
+                            <gd><m>air lonn a dhol</m> dhachaidh</gd>
+                            <tr><u>on the point of going</u> home</tr>
+                            <ref text="602">td. 599</ref>
+                        </li>
+                        <li>
+                            <gd>Tha mi gle thoilichte ’chluinntinn gu bheil m’ fhear-cinnidh agus mo
+                                charaid Aonghas Caimbeil còir fathast beò slan. Bha toil mhor agam o
+                                chionn bhliadhnaichean dol g’ a fhaicinn. Ach ged tha mi air chuairt
+                                ghoirid an Ceap Breatuinn, cha mhor gach bliadhna, cha do cheadaich
+                                ùine dhomh sin a dheanamh. B’ fhear leam gu ’m b’ urrainn dhomh
+                                latha ’chur seachad maille ris air an t-samhradh ’s a tighinn; agus
+                                co aige tha fhios, ma bhios e-fhein ’s mi-fhein air caomhnadh beo,
+                                nach faodadh gu ’n tachradh sin. “Coinnichidh na daoine ’s cha
+                                choinnich na cnuic.” Cha ’n ann a h-uile latha bhios cothrom aig
+                                neach a nis air aon fhaicinn a rugadh anns an ochdamh linn deug. Bu
+                                ghle thoigh leam cuid de nithe, tha <m>air lunn dol</m> air
+                                di-chuimhne, fhaotainn a mach bho Aonghas Caimbeul.</gd>
+                            <tr>I am very happy to hear that my clansman and my dear friend Angus
+                                Campbell is still alive and kicking. I had the great pleasure of
+                                going to see him years ago. But even though I was on a short trip in
+                                Cape Breton, almost every year, time did not allow me to do that. I
+                                would prefer to be able to spend a day with him this coming summer;
+                                and who knows, if he and I are still alive, that might still happen.
+                                “Men will meet and hills will not meet.” It is not every day that a
+                                person has the opportunity now to see someone who was born in the
+                                eighteenth century. I would very much like to find out some things,
+                                that are <u>about to be forgotten</u>, from Angus Campbell.</tr>
+                            <ref text="81">Vol. 6 td. 332</ref>
+                            <note><b>rach air dìochuimhne</b>
+                                <en>become forgotten</en></note>
+                        </li>
+                        <li>
+                            <gd>’An ùine nach robh fada, ’n uair a bha na gillean a bha ’fàireachas
+                                air cùl a’ chnuic a’ faicinn gu ’n robh an càirdean féin a’
+                                gleidheadh an gruinnd gu maith, ’s gu ’n robh an là <m>air lunn a
+                                    dhol</m> leò, bhruchd iad a nuas le leathad a’ chnuic ’n an aon
+                                mheall, gun rian, gun òrdugh, ’s ni eigin de atharrais armachd –
+                                cabar no ni sam bith air am faigheadh e greim aig gach fear air a
+                                ghualainn, no na láimh.</gd>
+                            <tr>Shortly, when the boys who were watching from behind the hill could
+                                see that their own friends were holding their ground well, and that
+                                they were <u>about to win the day</u>, they sallied forth down the
+                                hill in one group, without method or order, and with anything
+                                resembling weaponry – a piece of wood or anything each man could get
+                                hold of, on his shoulder, or in his hand.</tr>
+                            <ref text="106">td. 107</ref>
+                        </li>
+                    </xl>
+                </li>
+                <li><b>air lunn a bhith</b> – <xl id="air_lunn_a_bhith">
+                        <li>
+                            <gd>Ach is e a rinn e, – thill e air ais a rithisd far an robh Mac Mhic
+                                Raonuill, agus thachair e ris anns an àite cheudna far an d’fhàg e
+                                e, agus e ’na chadal; agus bha e ag éigheachd ris gu a dhùsgadh gus
+                                an d’ fhairtlich air a dhùsgadh. Dh’fhalbh e agus rug e air làimh
+                                air, agus gu de rinn an làmh ach tighinn as a’ ghuallainn, agus leum
+                                an fhuil ’na spùt mu a shùilean. An uair a chunnaic esan gu ’n robh
+                                an duine uasal urramach so <m>air lunn a bhi</m> seachad, shìn e a
+                                mach anns a’ chaoineadh ’s anns an rànaich.</gd>
+                            <tr>But what he did is – he went back again to where the Son of the Son
+                                of Ronald was and he encountered him in the very same place where he
+                                had left him, asleep; and he was shouting at him to wake up until he
+                                failed to wake him up. He left and he grabbed him by the arm, and
+                                what did the arm do but come away from the shoulder, and the blood
+                                jumped spouting around his eyes. When <b>he</b> saw that the
+                                venerable nobleman was <u>about to die</u>, he lay down bawling and
+                                crying.</tr>
+                            <ref text="295">td. 88</ref>
+                        </li>
+                        <li>
+                            <gd>Bha aon mhac eil’ aig an rìgh air an robh Seumas, an ceud fhear de
+                                na Seumasan. ’S e smuainich e féin ’s a’ bhan-righ air an òganach a
+                                chur air falbh gu cuirt rìgh na Frainge, far am faigheadh e
+                                iunnsachadh iomchuidh do ’n inbh’ àird ’s an robh e, agus ’am biodh
+                                e tearuint’ o ais-innleachdaibh bhràthair-athar. Rinn iad ullachadh
+                                air son a chur air falbh co cabhagach, ’s co uaigneach ’s a ghabhadh
+                                deanamh; ach mu ’n d’ fhuair an soitheach a bha gus am prionns’ a
+                                ghiùlan fo sheòl ’s fo astar, thuig Albani an rud a bh’ ann, ’s gu
+                                ’n robh ’n t-eun <m>air lunn a bhi</m> gu sgiobalt’ a mach as a lìon
+                                féin. Ach an aon ni a ghabhadh deanamh a nis rinn se e gu cabhagach;
+                                ghrad chuir e teachdaire ’thoirt sanas do righ Shasuinn. ’N uair a
+                                ràinig an soitheach ’s an robh am prionns’ oirthir Norfoc, bha
+                                càbhlach beag Sasunnach a’ feitheamh oirre.</gd>
+                            <tr>The king had another son called James, the first of the Jameses. He
+                                and the queen thought to send the boy away to the court of the king
+                                of France, where he would get appropriate learning for the high
+                                status he was in, and where he would be safe from his uncle’s
+                                machinations. They made preparations to send him away so hurriedly,
+                                and so secretly as it was possible to do; but before the ship that
+                                was about to carry the prince got under sail and underway, Albany
+                                [ie. his uncle] realised what was happening, and that the bird was
+                                soon <u>about to be out of his net</u>. But the one thing that was
+                                possible now he did hurriedly; speedily he sent a messenger to
+                                inform the king of England. When the ship which the prince was in
+                                reached the coast of Norfolk, a small English fleet was waiting for
+                                it.</tr>
+                            <ref text="106">td. 134</ref>
+                        </li>
+                        <li>
+                            <gd>Thuig Seumas an sin nach robh e tearuinnte dha ’aghaidh a chur gu
+                                tuath. An déigh do ’n rìgh òrdugh a thoirt do ’n bheagan airm a lean
+                                ris iad a sgaoileadh, dh’fhan Cleabhars far an robh e car greis. ’N
+                                uair a chunnaic e Uilleam <m>air lunn a bhi</m> air a dheanamh ’na
+                                righ, dh’fhàg e ’n t-arm, ’s ruith e dhachaidh le deich marcaich
+                                fhichead mar geard, a’ rùnachadh gu ’n deanadh e na b’ urrainn e ’n
+                                Alba gus am bacadh o rìgh Uilleam a roghnuchadh.</gd>
+                            <tr>James realised then that it was not safe for him to head north.
+                                After the king had given an order to the little army that followed
+                                him to scatter them, Claverhouse waited where he was for a while.
+                                When he saw William <u>about to be made king</u>, he left the army,
+                                and he ran home with thirty horsemen as a guard, intending to do
+                                what he could in Scotland to prevent them from choosing William as
+                                king.</tr>
+                            <ref text="106">td. 328</ref>
+                        </li>
+                    </xl>
+                </li>
+                <li>other (intransitive) verbs – <xl id="air_lunn-xs">
+                        <li>
+                            <gd>Ri linn Dhònuill, mar is minig a bh’ ann bho sin, bha ùdlaiche
+                                ainmeil a’ tathaich Gual’-an-liathghiuthais, agus là ’bha ’sin
+                                smaoinich e gu ’n tugadh e sgrib a null a ghabhail fàth air. Togar
+                                air ma ta thair an Uisge-dhubh; ach mar a bha an rosad ’an dàn, co
+                                ’bha an latha sin ’s a’ bheinn-sheilg ach “Dunnachadh Dubh a’
+                                Churraic” agus a ghillean air an t-slighe chiadna, agus mu ’n d’
+                                fhairich Dònull thall no bhos e, bha e ’an’ sàs aca. Cha robh comas
+                                air – b’ éudar glacadh a ghabhail, agus falbh leotha do
+                                Fhionnlairig. Chaidh ainm Dhònuill fada ’s goirid, agus le
+                                farmad-cùirte bha na gillean <m>air lunn cur</m> as da, ach bu bhàrd
+                                an Ridire e fhéin, ’s cha leigeadh e leotha làmh a chur ann.</gd>
+                            <tr>In Donald’s time, as it has often been since then, a famous stag was
+                                frequenting Grey Pine Shoulder, and one day he thought that he would
+                                take a trip over to catch a glimpse of it. He went then over the
+                                Black Water; but as if the misfortune was destined, who was on the
+                                hunting mountain that day but “Black Duncan of the Cap” and his boys
+                                on the very same path, and before Donald was aware of it, he was in
+                                their grasp. It couldn’t be helped – he had to be taken prisoner and
+                                leave with them for Fionn Lairig. Donald’s name went long and short,
+                                and [with envy of court?] the boys were <u>about to get rid of
+                                    him</u>, but he himself was the Knight’s poet, and he wouldn’t
+                                let them put a hand on him.</tr>
+                            <ref text="102">Vol. 5 td. 329</ref>
+                        </li>
+                    </xl>
+                </li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">cf. Other markers of prospective aspect – <a href="?gd=gu-prospective"
+                >gu(s)</a>, <a href="?gd=impis">an impis</a>, <a href="?gd=beul">air bheul</a>, <a
+                href="?gd=tuar">air thuar</a> (evidential).</p>
+        <p lang="gd">...</p>
+    </module>
+</module>

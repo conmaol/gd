@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+  <h lang="en">dìth</h>
+  <h lang="gd">dìth</h>
+  <p lang="en"><b>dìth</b>
+    <en>need, lack, want, deficiency, deficit, shortage, ruin</en> is a (usually) masculine <a
+      href="?xx=nouns/common_nouns">common noun</a>, with genitive form <b>dìthe</b>. [This noun was
+    neuter in <ax href="https://dil.ie/16842">Old Gaelic</ax> and hence is feminine in some modern
+    dialects.]</p>
+  <p lang="gd">...</p>
+  <p lang="en">Examples with a genitive modifier – <ul>
+      <li><m>dìth cleachdaidh</m>
+        <en>lack of practice</en> [Watson 2001: 150]</li>
+      <li><m>dìth cèille</m>
+        <en>a lack of common sense</en> [Watson 2001: 150] cf. <m>dìth-chèile</m>
+        <en>insanity</en> [Mark 2004: 232]</li>
+      <li><m>dìth smachd</m>
+        <en>indiscipline</en> [Mark 2004: 232]</li>
+    </ul>
+    <xl id="dith_gen">
+      <li>
+        <gd>Cha mhòr nach do chuir e bàs mi le dìth bithidh, agus sgiùrs e mi gach làtha le crios
+          leathraich.</gd>
+        <tr>He nearly killed me with lack of food, and he lashed me every day with a leather
+          belt.</tr>
+        <ref text="81-11-9">td. 5</ref>
+      </li>
+      <li>
+        <gd>Dé bha seo ach am Bàs – dìth cànain, balbhachd.</gd>
+        <tr>What was this if not Death – loss of language, muteness</tr>
+        <ref text="198">td. 54–5</ref>
+      </li>
+      <li>
+        <gd>Ann an sùil na h-inntinne chunnaic e a h-aghaidh bhòidheach mus do mharbh hearoan i.
+          Dh’fhairich e fearg a bha dlùthadh ri dìth-cèille. Seo na daoine a mhurt Peigi. </gd>
+        <tr>In his mind’s eye he saw her beautiful face before heroin killed her. He fekt an anger
+          which was close to insanity. These were the men who had murdered Peggy.</tr>
+        <ref text="2">td. 118</ref>
+      </li>
+      <li>
+        <gd>Ann an Dùn Èideann anns na naochadan bha barrachd agus barrachd inbhich airson Gàidhlig
+          ionnsachadh agus ged a nochd mòran chlasaichean agus cùrsaichean Gàidhlig airson iarrtasan
+          nan daoine sin a fhreagradh, bha ionnsachadh na Gàidhlig ga bhacadh gu mòr air sgàth
+            <m>dìth shuidheachaidhean</m> far an cluinnear an cànan ga bruidhinn gu nàdarra.</gd>
+        <tr>In Edinburgh in the 90s there were more and more people wanting to learn Gaelic and
+          although a lot of Gaelic classes and courses sprang up to respond to the demands of those
+          people, Gaelic learning was largely inhibited because of <u>lack of situations</u> where
+          one could hear the language spoken naturally.</tr>
+        <ref text="610">td. 85</ref>
+      </li>
+    </xl>
+  </p>
+  <p lang="gd">...</p>
+  <p lang="en">Or perhaps a specifier – <ul>
+      <li><m>tha <u>dìth a’ chadail</u> orm</m>
+        <en>I need / lack sleep</en> [Mark 2004: 232]</li>
+    </ul>
+    <xl id="dith_spec">
+      <li>
+        <gd>Bha mo cheann goirt le dìth a’ chadail a dh’aindeoin nan Codeins.</gd>
+        <tr>My head hurt with lack of sleep in spite of the Codeines.</tr>
+        <ref text="205">td. 103</ref>
+      </li>
+      <li>
+        <gd>Nach bochd cho beag agus a tha sinn a’ faicinn de leabhraichean ùra Gàidhlig. Tha mi
+          cinnteach gu bheil coire mhór aig dìth an airgid ris an so.</gd>
+        <tr>It is a shame how few new Gaelic books we see. I am sure that lack of money is largely
+          to blame for this.</tr>
+        <ref text="400-59">td. 280</ref>
+      </li>
+      <li>
+        <gd>Chunnaic sinn cuid de na Cuimrich ag éiridh an aghaidh nan Sassunach a chuir glinn aca
+          fo uisge airson tart nan bailtean mora, agus gu dearbh tha a’ cheist so fada nas
+          cudthromaiche ann an Sassuinn do bhrìgh aireamh an t-sluaigh anns na bailtean mora aca,
+          agus dìth nam beanntan àrda a tha againne ann an Alba.</gd>
+        <tr>We saw some of the Welsh rising up against the English who flooded their valleys for the
+          thirst of the cities, and certainly this question is far more important in England because
+          of the number of people in their cities, and the lack of the high mountains we have in
+          Scotland.</tr>
+        <ref text="38">td. 39</ref>
+      </li>
+      <li>
+        <gd>Bha a’ chlann dìreach mar dhoilichean, an gnùisean a’ fàs leth-bhàn le dìth na
+          fala.</gd>
+        <tr>The children were just like dolls, their faces growing pale with lack of blood.</tr>
+        <ref text="501">td. 29</ref>
+      </li>
+    </xl>
+  </p>
+  <p lang="gd">...</p>
+  <p lang="en">cf. <b>bi dìth ... air</b>
+    <en>have need of</en> – <ul>
+      <li><m>dè tha dìth ort?</m>
+        <en>what do you want?</en> [Robertson &amp; MacDonald 2004: 47]</li>
+      <li><m>nuair nach robh dìth airgid orra</m>
+        <en>when they weren’t short of money</en> [Mark 2004: 232]</li>
+    </ul>
+  </p>
+  <p lang="gd">...</p>
+  <p lang="en">Negative examples – <xl id="bi_dith_air">
+      <li>
+        <gd>Cha robh dìth shearmoinean dùrachdach agus drùiteach oirnn.</gd>
+        <tr>We had no shortage of fervent, moving sermons.</tr>
+        <ref text="81-10-3">td. 4</ref>
+      </li>
+      <li>
+        <gd>Bha a’ choille pailt, agus cha bhiodh dìth connaidh orra.</gd>
+        <tr>The forest was abundant, and they did not lack for fuel.</tr>
+        <ref text="81-11-7">td. 5</ref>
+      </li>
+      <li>
+        <gd>Cha robh dìth éisg air duine beag no mór fhads a thigeadh iasg air dubhan.</gd>
+        <tr>No one, large or small, was short of fish as long as fish would come on a hook.</tr>
+        <ref text="400-2">td. 25</ref>
+      </li>
+    </xl>
+  </p>
+  <p lang="gd">...</p>
+  <module id="bi_a_dhith">
+    <h lang="en">bi a dhìth</h>
+    <h lang="gd">bi a dhìth</h>
+    <p lang="en"><b>bi a/de dhìth</b>
+      <en>be lacking/missing/wanting/needed</en> – <ul>
+        <li><m>tha biadh a dhìth</m>
+          <en>food is lacking/in short supply</en> [Watson 2001: 150]</li>
+        <li><m>bha feadhainn a dhìth</m>
+          <en>there were some missing</en> [Robertson &amp; MacDonald 2004: 47]</li>
+        <li><m>tha luchd-teagaisg a dhìth</m>
+          <en>teachers are needed</en> [Mark 2004: 232]</li>
+      </ul>
+      <xl id="bi_a_dhith-xs">
+        <li>
+          <gd>Chaidh trì uairean a thìde seachad mus do mhothaich duine gu robh Harry Heyford a
+            dhìth.</gd>
+          <tr>Three hours had passed before anyone noticed that Harry Heyford was missing.</tr>
+          <ref text="2">td. 62</ref>
+        </li>
+      </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en"><b>bi a/de dhìth air</b> – <ul>
+        <li><m>dè tha a dhìth oirbh?</m>
+          <en>what do you want/need? what would you like? what are you wanting?</en> [Watson 2001:
+          150]</li>
+        <li><m>tha còta a dhìth orm</m>
+          <en>I need/want a coat</en> [Watson 2001: 150]</li>
+        <li><m>tha rudeigin a dhìth orm</m>
+          <en>I want something</en> [Mark 2004: 232]</li>
+        <li><m>tha rudeigin a dhìth air</m>
+          <en>it lacks something</en> [Mark 2004: 232]</li>
+        <li><m>tha rud eile a dhìth air an aithisg seo</m>
+          <en>this report lacks something else / there is something else lacking in this report</en>
+          [Mark 2004: 232]</li>
+        <li><m>mas e sin a bha a dhìth orra</m>
+          <en>if that’s what they wanted</en> [Mark 2004: 232]</li>
+        <li><m>dè that a dhìth air?</m>
+          <en>what does he want/lack?</en> [Mark 2004: 232]</li>
+        <li><m>feumaidh sinn leabhraichean a chur do na sgoiltean a tha iad a dhìth orra</m>
+          <en>we must send books to the schools that lack them</en> [Mark 2004: 232]</li>
+        <li><m>cha robh a dhìth oirnn ach gum faigheamaid cothrom a bhith a’ leughadh</m>
+          <en>we wanted nothing but to get the chance to be reading</en> [Mark 2004: 232]</li>
+        <li><m>tha 50sg a dhìth orm</m> [Cox 2017: 320]</li>
+        <li><m>chan eil ach £500 a dhìth orm mus fhaigh mi an càr</m> [Cox 2017: 338]</li>
+      </ul>
+      <xl id="bi_a_dhith_air">
+        <li>
+          <gd>’S e a’ chiad rud a nì sinn càr a cheannach ’s a h-uile càil a tha dhìth òirnn.</gd>
+          <tr>The first thing we will do is buy a car and everything we have need of.</tr>
+          <ref text="2">td. 28–9</ref>
+        </li>
+        <li>
+          <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os cionn
+            obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach ag ath-nuadhachadh
+            dreach a’ Chomuinn. Tha móran ri dhèanamh ris a’ Mhòd mus beir e air linn an
+            telebhisean, no eadhon air linn an réidio: [...] tha co-fharpaisean ùra ann an
+            litreachas, ann an ceòl, ann an dràma is ann an ealain <m>a dhìth air</m> a’ Mhòd. Tha
+            cumadh ùr <m>a dhìth air</m> na co-fharpaisean is air na cuirmean-ciùil. [...] Tha
+            cumadh, is dreach, is brìgh ùr <m>a dhìth air</m> leabhraichean, ’s air mìosachan a’
+            Chomuinn.</gd>
+          <tr>The Highland Society is talking about choosing a new General who will oversee the
+            Society’s work. [...] He would have enough to do initially reforming the Society. There
+            is much to do at the Mod before it catches up with <ed>??</ed> the era of television, or
+            even with the era of radio: [...] new competitions in literature, in music, in drama and
+            in art <u>are needed</u> at the Mod. The competitions and the concerts <u>need</u> a new
+            format. [...] The Society’s books and monthly magazines <u>need</u> a new format, design
+            and substance.</tr>
+          <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+        </li>
+      </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en"><b>bi a/de dhìth + GEN</b> with subject as the person – <ul>
+        <li><m>is fheàrr a bhith a dhìth a’ chinn na a bhith a dhìth an fhasain</m>
+          <en>it’s better to be lacking a head than to be lacking fashion</en> [Mark 2004: 232]</li>
+        <li><m>thèid mi an urras nach bi thu a dhìth cobhair</m>
+          <en>I’ll warrant you’ll not lack assistance</en> [Mark 2004: 232]</li>
+      </ul>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">Also: with subject as the thing – <ul>
+        <li><m>dè tha dhad dhìth?</m> [Cox 2017: 337, perhaps for <en>What do you
+          want/need?</en>]</li>
+      </ul>
+    </p>
+    <p lang="gd">...</p>
+  </module>
+
+
+
+
+  <module id="rach_a_dhith">
+    <h lang="en">rach a dhìth</h>
+    <p lang="en"><strong>rach a (do?) dhìth</strong>
+      <en>perish, die off/out, go short, miscarry, go to (rack and) ruin, spoil</en> –</p>
+    <ul lang="en">
+      <li><m>cha tèid sinn a dhìth</m>
+        <en>we won’t go short</en> [Watson 2001: 150]</li>
+      <li><m>a’ dol a dhìth</m>
+        <en>perishing, dying</en> [Robertson &amp; MacDonald 2004: 47]</li>
+      <li><m>chaidh iad uile a dhìth feadh na h-oidhche</m>
+        <en>they all perished during the night</en> [Mark 2004: 232]</li>
+      <li><m>tha mòran de na sgeulachdan sin a’ dol a dhìth</m>
+        <en>many of those stories are dying out</en> [Mark 2004: 232]</li>
+      <li><m>tha iad a’ leigeil leis na h-àitean aca a dhol a dhìth</m>
+        <en>they are letting their places go to rack and ruin</en> [Mark 2004: 232]</li>
+      <li><m>dè that a dhìth air?</m>
+        <en>what does he want/lack?</en> [Mark 2004: 232]</li>
+    </ul>
+  </module>
+
+
+  <p lang="en"><strong>cuir a (do?) dhìth</strong>
+    <en>ruin, destroy</en> –</p>
+  <ul lang="en">
+    <li><m>chuireadh sin an cosnadh aca a dhìth ceart gu leòr</m>
+      <en>that would destroy their employment right enough</en> [Mark 2004: 232]</li>
+  </ul>
+  <hr/>
+  <p lang="en">Note that <strong>dìth</strong> is not a <a href="?xx=nouns/generic_quantity_nouns"
+      >generic quantity noun</a> (or in fact any kind of <a href="?xx=nouns/quantity_expressions"
+      >quantity expression</a>), since the following kinds of usage are all unacceptable –</p>
+  <ul lang="en">
+    <li><bad>Cò mheud uisge a tha agad? – Tha dìth (uisge) agam.</bad> for <en>How much water do you
+        have? – I have too little.</en></li>
+    <li><bad>Dh’òl Raonaid dìth (fìona)</bad> for <en>Rachel drank too little (wine)</en></li>
+    <li><bad>Cheannaich Seumas dìth de na coin</bad> for <en>James bought too few of the
+      dogs</en></li>
+  </ul>
+  <p lang="en">It seems that the meaning of <strong>dìth</strong> is not <en>an insufficient
+      quantity of something</en> but rather <en>the state of having an insufficient quantity of
+      something</en>.</p>
+  <hr/>
+  <p lang="en">cf. <a href="?gd=cion">cion</a>
+    <en>lack, want, shortage</en>, easbhaidh</p>
+</module>

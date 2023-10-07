@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h lang="en">-mhor</h>
+  <h lang="gd">-mhor</h>
+  <p lang="en"><b>-mhor</b> is a suffix used to create <a href="?xx=adjectives/derived_adjectives"
+      >derived adjectives</a> from <a href="?xx=nouns/common_nouns">common nouns</a>.</p>
+  <p lang="gd">...</p>
+  <p lang="en">Examples – <ul>
+      <li><i>àgh</i>
+        <en>joy, luck</en> ⇒ <m>àghmhor</m>
+        <en>joyful</en></li>
+      <li><i>ceòl</i>
+        <en>music</en> ⇒ <m>ceòlmhor</m>
+        <en>melodious</en></li>
+      <li><a href="?gd=lìon">lìon</a> ⇒ <a href="?gd=lìon">lìonmhor</a>
+        <en>abundant, copious, numerous</en></li>
+      <li><i>mì-àgh</i>
+        <en>infelicity</en> ⇒ <m>mì-àghmhor</m>
+        <en>infelicitous</en></li>
+      <li><i>mì-shealbh</i>
+        <en>misfortune</en> ⇒ <m>mì-shealbhmhor</m>
+        <en>unsuccessful</en> (also <i>mì-shealbhar</i>)</li>
+      <li><i>mì-thlachd</i>
+        <en>displeasure</en> ⇒ <m>mì-thlachdmhor</m>
+        <en>unpleasant, disagreeable</en></li>
+      <li><i>neart</i>
+        <en>strength</en> ⇒ <m>neartmhor</m>
+        <en>powerful</en></li>
+      <li><i>sealbh</i>
+        <en>fortune</en> ⇒ <m>sealbhmhor</m>
+        <en>prosperous</en></li>
+      <li><a href="?gd=sìol">sìol</a>
+        <en>seed</en> ⇒ <a href="?gd=sìol">sìolmhor</a>
+        <en>fruitful</en></li>
+    </ul></p>
+  <p lang="gd">...</p>
+  <!--<p>[cf. <xref id="612" p="151"/>]</p>-->
+</module>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h lang="en">clann</h>
+    <h lang="gd">clann</h>
+    <p lang="en">Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan fhalbh aon
+                    choigreach le mo leanabh. Cha teid i gu aon dannsa, tha sin cinnteach. Tha. Tha.
+                    Na bi smaoineachadh gun teid, a leanaibh. Chan eil fhios agad mu ’n deidhinn,
+                    mar a th’ agamsa.” “Carson nach do bhàsaich thu o chionn leth-cheud bliadhna,”
+                    dh’ éigh Màiri. Bha i smaoineachadh air na gnothaichean ud fhathast! “Greas ort
+                    leis an tea,” ars a màthair. Agus, mu dheireadh. “<m>A’ chlann òga an diugh</m>,
+                    chan eil fhios dé na smaointean th[a] ruith orra. Tha iad air bhoil, air
+                    bhoil.”</gd>
+                <tr>[...] Her voice grew louder. “One thing is certain, not one stranger will leave
+                    [go out?] with my child. She will not go to a single dance, that is certain. It
+                    is. It is. Do not be thinking that you will, child. You don’t know about them,
+                    as I do.” “Why did you not die fifty years ago,” shouted Mary. She was still
+                    thinking about those matters! “Hurry up with the tea,” said her mother. And,
+                    eventually. “The young children today, it is not known what thoughts are running
+                    on them. They are in a rage, in a rage.”</tr>
+                <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">Biblical examples – <xl id="bible">
+            <li>
+                <gd>A Nis is iad so <m>ainmeanna chloinn Israeil</m>, a thàinig do’n Eiphit; thàinig
+                    gach duine agus a theaghlach maille re Iacob: Reuben, Simeon, Lebhi, agus Iudah,
+                    [...] Agus na h-anman uile a thàinig a mach a leasraidh Iacoib, bu deich agus
+                    tri fichead anam iad; oir bha Ioseph ’san Eiphit a cheana. Agus fhuair Ioseph
+                    bàs, agus a bhràithrean uile, agus an ginealach sin uile. Agus bha <m>clann
+                        Israeil</m> sìolmhar, agus dh’fhàs iad gu mòr, agus rinneadh lìonmhor iad,
+                    agus chinn iad ro-chumhachdach; agus lìonadh an tìr leo. [...]</gd>
+                <tr>Now these are the names of the children of Israel, which came into Egypt; every
+                    man and his household came with Jacob. Reuben, Simeon, Levi, and Judah, [...]
+                    And all the souls that came out of the loins of Jacob were seventy souls: for
+                    Joseph was in Egypt already. And Joseph died, and all his brethren, and all that
+                    generation. And the children of Israel were fruitful, and increased abundantly,
+                    and multiplied, and waxed exceeding mighty; and the land was filled with them.
+                    [...] [KJV]</tr>
+                <ref text="160">Ecsodus I.1–7</ref>
+            </li>
+        </xl></p>
+    <p lang="gd">...</p>
+</module>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>do</h>
+    <p><g>do</g>
+        <en>(in)to, for</en> is the (leniting) illative <a href="?xx=prepositions/prepositions"
+            >preposition</a>.</p>
+    <section>
+        <h>forms</h>
+        <section id="indefinite">
+            <h>indefinite</h>
+            <p>The default form of the illative preposition is simply <g>do</g> – <ul>
+                    <li><m>do</m> thaigh <en>into a house</en></li>
+                    <li><m>do</m> Nirribhidh <en>into Norway</en></li>
+                    <li><m>do</m> thrì làithean <en>into three days</en></li>
+                </ul></p>
+            <p>Before a word beginning with a vowel or <g>fh-</g>, <g>do</g> is reduplicated to
+                    <g>do dh’</g> – <ul>
+                    <li><m>do dh’</m>aislingean <en>into dreams</en></li>
+                    <li><m>do dh’</m>Èirinn <en>into Ireland</en></li>
+                    <li><m>do dh’</m>ochd rionnagan <en>into eight stars</en></li>
+                </ul>
+            </p>
+            <p>Note that <g>do</g> is often spelled as (unlenited) <g>do</g>, especially in older
+                texts. In both speech and writing, it is often reduced to just <g>a</g>.</p>
+        </section>
+        <section id="definite">
+            <h>definite</h>
+            <p>When the immediately following word is a singular form of the definite article, the
+                linking form <g>don</g> (in older usage <g>don</g>) is used – <ul>
+                    <li><m>don an</m> taigh <en>into the house</en></li>
+                    <li><m>don a’</m> bhaile <en>into the town</en></li>
+                </ul> But – <ul>
+                    <li><m>do na h-</m>aislingean <en>into the dreams</en>, rather than <bad>do na
+                            h-aislingean</bad></li>
+                </ul>
+            </p>
+            <p>Note that <g>don an</g> and <g>don a’</g> often reduce to just <g>don</g> – <g>don
+                    taigh</g>, <g>don bhaile</g>.</p>
+            <!--<p><g>dhan</g> is used in a range of other vowel-initial contexts as well – <ul>
+                    <li><g>dhan a-màireach</g>
+                        <en>(in)to tomorrow</en></li>
+                    <li><g>dhan a h-uile ...</g>
+                        <en>(in)to every ...</en></li>
+                    <li><g>dhan an deach ...</g>
+                        <en>into which which went ...</en></li>
+                </ul>
+            </p>-->
+            <p>Fused forms are sometimes used when the immediately following word is a possessive
+                determiner – <ul>
+                    <li><m>do mo</m> thaigh <en>into my house</en> ≈ <g>dham</g> thaigh (previously,
+                            <g>dom</g> thaigh)</li>
+                    <li><m>do do</m> thaigh <en>into your house</en> ≈ <g>dhad</g> thaigh
+                        (previously, <g>dod</g> thaigh)</li>
+                    <li><m>do a h-</m>òran <en>into her song</en> ≈ <g>dha h-</g>òran (previously
+                            <g>do h-</g>òran)</li>
+                    <li><m>do a</m> chraoibh <en>into his tree</en> ≈ <g>dha</g> chraoibh
+                        (previously <g>do</g> chraoibh)</li>
+                    <li><m>do ar n-</m>achadh <en>into our field</en> ≈ <g>dhar n-</g>achadh
+                        (previously <g>dar n-</g>achadh)</li>
+                    <li><m>do bhur</m> leapannan <en>into your beds</en> ≈ <g>dhur</g> leapannan
+                        (previously dur leapannan)</li>
+                    <li><m>do an</m> taighean <en>to their houses</en> ≈ <g>dhan</g> taighean
+                        (previously <g>dan</g> taighean)</li>
+                    <li><m>do am</m> baile <en>to their town</en> ≈ <g>dham</g> baile (previously
+                            <g>dam</g> baile)</li>
+                </ul></p>
+        </section>
+        <section id="pronoun">
+            <h>prepositional pronouns</h>
+            <p>Conjugated prepositions are used in place of <bad>do mi</bad>, <bad>do thu</bad>, ...
+                , <bad>do iad</bad> – <ul>
+                    <li><m>dhomh</m>
+                        <en>into me</en></li>
+                    <li><m>dhut</m>
+                        <en>into you</en></li>
+                    <li><m>dhi</m>
+                        <en>into her/it</en></li>
+                    <li><m>dha</m>
+                        <en>into him/it</en></li>
+                    <li><m>dhuinn</m>
+                        <en>into us</en></li>
+                    <li><m>dhuibh</m>
+                        <en>into you</en></li>
+                    <li><m>dhaibh</m>
+                        <en>into them</en></li>
+                </ul>
+            </p>
+            <p>There are also emphatic forms (cf. <bad>do mise</bad>, <bad>do thusa</bad>, ... ,
+                    <bad>do iadsan</bad>) – <ul>
+                    <li><m>dhòmhsa</m>
+                        <en>into <emph>me</emph></en></li>
+                    <li><m>dhutsa</m>
+                        <en>into <emph>you</emph></en></li>
+                    <li><m>dhìse</m>
+                        <en>into <emph>her/it</emph></en></li>
+                    <li><m>dhàsan</m>
+                        <en>into <emph>him/it</emph></en></li>
+                    <li><m>dhuinne</m>
+                        <en>into <emph>us</emph></en></li>
+                    <li><m>dhuibhse</m>
+                        <en>into <emph>you</emph></en></li>
+                    <li><m>dhaibhsan</m>
+                        <en>into <emph>them</emph></en></li>
+                </ul>
+            </p>
+            <p>Note that the form <g>dhaibhsan</g> breaks the ‘slender-to-slender, broad-to-broad’
+                spelling rule, and hence is sometimes found written with a hyphen –
+                    <g>dhaibh-san</g>.</p>
+            <p>Finally, there are also reflexive forms (cf. <bad>do mi fhìn</bad>, <bad>do thu
+                    fhèin</bad>, ... , <bad>do iad fhèin</bad>) – <ul>
+                    <li><m>dhomh fhìn</m>
+                        <en>into myself</en></li>
+                    <li><m>dhut fhèin</m>
+                        <en>into yourself</en></li>
+                    <li><m>dhi fhèin</m>
+                        <en>into herself/itself</en></li>
+                    <li><m>dha fhèin</m>
+                        <en>into himself/itself</en></li>
+                    <li><m>dhuinn fhìn</m>
+                        <en>into ourselves</en></li>
+                    <li><m>dhuibh fhèin</m>
+                        <en>into yourselves</en></li>
+                    <li><m>dhaibh fhèin</m>
+                        <en>into themselves</en></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section id="complement">
+            <h>complement</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="comp-older-pedag">
+                            <li>
+                                <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air
+                                    falbh. Thubhairt mo mhàthair, “An téid thu <m>do bhocsa nan
+                                        litrichean</m> leis an litir seo, Iain?” “Théid,” ars Iain,
+                                    “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi i is gus an
+                                    cuir mi seòladh oirre. Ceannaich fhéin stamp agus cuir oirre i.”
+                                    Tha Iain a’ ruith sìos an rathad leis an litir ’na làimh. Théid
+                                    e a steach <m>do oifig a’ phuist</m>, ceannaichidh e stamp is
+                                    cuiridh e sud air an litir. [...]</gd>
+                                <tr>My mother is writing a letter to my father who is away. My
+                                    mother said, “Will you go to the postbox with this letter,
+                                    John?” “Yes, I will,” said John, “I will leave now.” “Wait until
+                                    I seal it and put an address on it. Buy a stamp and put it on
+                                    it.” John is running down the road with the letter in his hand.
+                                    He will go into the post office, he will buy a stamp and put
+                                    that on the letter. [...]</tr>
+                                <ref text="621">td. 5</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li>biblical examples – <xl id="comp-bible">
+                            <li>
+                                <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig <m>do’n
+                                        Eiphit</m>; thàinig gach duine agus a theaghlach maille re
+                                    Iacob: Reuben, Simeon, Lebhi, agus Iudah, Isachar, Sebulun, agus
+                                    Beniamin, Dan, agus Naphtali, Gad, agus Aser. [...]</gd>
+                                <tr>Now these are the names of the children of Israel, which came
+                                    into Egypt; every man and his household came with Jacob. Reuben,
+                                    Simeon, Levi, and Judah, Issachar, Zebulun, and Benjamin, Dan,
+                                    and Naphtali, Gad, and Asher. [...] [KJV]</tr>
+                                <ref text="160">Ecsodus I.1–5</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="comp">
+            <h>complement</h>
+            <p><g>do</g> can be used to introduce the complement of a verb – <ul>
+                    <li><g><a href="?gd=rach">rach</a> do ...</g>
+                        <en>go [to] somewhere</en></li>
+                    <li><g><a href="?gd=thig">thig</a> do ...</g>
+                        <en>come [to] somewhere</en></li>
+                </ul>
+            </p>
+            <p>Or of an adverb – <ul>
+                    <li><g><a href="?gd=a-steach">a-steach</a> do ...</g>
+                        <en>into</en></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+</module>

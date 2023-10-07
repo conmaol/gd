@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>glottonyms</h>
+  <p>Glottonyms are <a href="?xx=nouns/names">names</a> identifying languages and other language varieties.</p>
+  <p>Like other kinds of name, glottonyms can be classified into two grammatical types –
+  <ul>
+    <li>glottonymic <a href="?xx=nouns/proper_nouns">proper nouns</a> 
+      – <g>Laideann</g> <fem/> <en>Latin</en>, <g>(a’) B[h]eurla</g> <fem/> <en>English</en></li>
+    <li>glottonymic <a href="?xx=nouns/name_descriptions">name-descriptions</a> 
+      – <g>A’ Ghrèigis</g> <en>Greek</en>, <g>Gàidhlig na h-Èireann</g> <en>Irish (Gaelic)</en></li>
+  </ul>
+  </p>
+  <!--
+  <p>cf. <a href="?gd=Gàidheal">Gàidhlig</a></p>
+  <p>Calder (1923: 106) –</p>
+  <ul>
+    <li><m>Laideann</m> <en>Latin</en></li>
+    <li><m>a’ Ghàidhlig</m> <en>Gaelic</en>, <m>a’ Ghreugais</m> <en>Greek</en>, <m>anns a’ Bheurla chruaidh</m> <en>in hard English</en>, </li>
+  </ul>
+  -->
+  
+</module>

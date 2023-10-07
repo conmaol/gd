@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>⸚ead</h>
+  <p/>
+  <p><b>⸚ead</b> is a suffix used to create masculine <a href="?xx=nouns/derived_common_nouns"
+      >derived common nouns</a> from <a href="?xx=adjectives/adjectives">adjectives</a> – <ul>
+      <li><i>dall</i>
+        <en>blind</en> ⇒ <m>doillead</m>
+        <en>degree of blindness</en></li>
+      <li><i>mìn</i>
+        <en>smooth</en> ⇒ <m>mìnead</m>
+        <en>degree of smoothness</en></li>
+      <li><i>uasal</i>
+        <en>noble</en> ⇒ <m>uaislead</m>
+        <en>degree of nobility</en></li>
+    </ul>
+  </p>
+  <!--
+  <p>[cf. <xref id="612" p="150"/> – <i>air ’uaislead</i>
+    <en>however noble he may be</en>, <i>air a h-uaislead</i>
+    <en>however noble she may be</en>]</p>
+    -->
+</module>

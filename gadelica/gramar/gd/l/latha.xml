@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>latha</h>
+    <p><g>latha</g>
+        <en>day</en> is a masculine <a href="?xx=nouns/temporal_unit_nouns">temporal unit</a>
+        <a href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section id="spec">
+            <h>specifier</h>
+            <p>Some examples with a definite article pre-specifier – <ul>
+                    <li>older pedagogical examples – <xl id="spec-older-pedag">
+                            <li>
+                                <gd>Bha <m>an latha</m> brèagha blàth is thug an athair leis Iain
+                                    agus Anna anns a’ chàr. [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. [...]</tr>
+                                <ref text="621">td. 6</ref>
+                            </li>
+                        </xl></li>
+                </ul>
+            </p>
+        </section>
+        <section id="mods">
+            <h>modifiers</h>
+            <section>
+                <h>adjectives</h>
+                <p>Some examples – <ul>
+                        <li><g>latha <a href="?gd=brèagha">brèagha</a></g>
+                            <en>a lovely day</en></li>
+                        <li><g>latha <a href="?gd=blàth">blàth</a></g>
+                            <en>a warm day</en></li>
+                    </ul>
+                </p>
+                <module status="bronze" id="latha_saor">
+                    <h>latha saor</h>
+                    <p><g>latha <a href="?gd=saor^adjective">saor</a></g>
+                        <en>holiday, vacation</en></p>
+                    <module status="bronze" id="air_laithean_saora">
+                        <h>air làithean saora</h>
+                        <module status="bronze" id="rach_air_laithean_saora">
+                            <h>rach air làithean saora</h>
+                            <p><g><a href="?gd=rach">rach</a> air làithean saora</g>
+                                <en>go on holiday/vacation</en> – <ul>
+                                    <li>pedagogical examples – <xl id="comps-saor-latha-pedag">
+                                            <li>
+                                                <gd>Cha tèid Màiri <m>air lathaichean saora</m> ged
+                                                  a bhios an t-airgead aice. </gd>
+                                                <tr>Mary will not go on holiday even though she will
+                                                  have the money. </tr>
+                                                <ref text="609">td. 105</ref>
+                                            </li>
+                                        </xl></li>
+                                </ul>
+                            </p>
+                        </module>
+                        <module status="bronze" id="thig_air_laithean_saora">
+                            <h>thig air làithean saora</h>
+                            <p><g><a href="?gd=rach">thig</a> air làithean saora</g>
+                                <en>come on holiday/vacation</en> – <ul>
+                                    <li>pedagogical examples – <xl id="comps-thig-saor-latha-pedag">
+                                            <li>
+                                                <gd>Tha mac mo pheathar agus bràthair m’ athar a’
+                                                  tighinn gar n-ionnsaigh air an lathaichean
+                                                  saora.</gd>
+                                                <tr>My nephew and my uncle are coming (to visit us)
+                                                  on their holidays.</tr>
+                                                <ref text="609">td. 99</ref>
+                                            </li>
+                                        </xl></li>
+                                </ul>
+                            </p>
+                        </module>
+                    </module>
+                </module>
+            </section>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="sbj">
+            <h>subject</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="sbj-older-pedag">
+                            <li>
+                                <gd><m>Bha an latha</m> brèagha blàth is thug an athair leis Iain
+                                    agus Anna anns a’ chàr. [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. [...]</tr>
+                                <ref text="621">td. 6</ref>
+                            </li>
+                        </xl></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section id="other">
+        <h>other</h>
+        <p>Examples from Gairm – <xl id="gairm">
+                <li>
+                    <gd>[...] “Thainig e mach á sgoth-luing le na siùil gheala. Cha robh facal
+                        Gàidhlig aige. [...] Tha thu coltach ris [...]. ’Be an samhradh a bh’ ann.
+                        [...] Bha mise ’g ionnsachadh na Beurla. Cha robh esan math air a’
+                        Ghàidhlig. [...] <m>Aon latha</m> dh’fhalbh e. Anns an t-soitheich.”
+                        [...]</gd>
+                    <tr>[...] “He came out of a yacht with white sails. He didn’t have a word of
+                        Gaelic. [...] You look like him. [...] It was the summer. [...] I was
+                        learning English. He wasn’t good at Gaelic. [...] One day he left. In the
+                        boat.” [...]</tr>
+                    <ref text="400-46">td. 170–1, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+                <li>
+                    <gd>[...] ’Se madainn bhòidheach foghair a bh’ ann—tioram, le ceileir eòin, is
+                        beagan dealt air an fheur. Bha a[m] muir ’s na tighean ag éirigh á
+                            <m>inntinn an latha</m>. [...]</gd>
+                    <tr>[...] It was a beautiful autumn morning – dry, with the chirping of birds,
+                        and a little dew on the grass. The sea and the houses were rising from the
+                        mind of the day [??]. [...]</tr>
+                    <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+
+</module>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title>temporal adverbials</title>
+  <p>Modify a past perfective verb –</p>
+  <ul>
+    <li><a href="?gd=ceann">ann an ceann ùine</a> <en>after a while</en></li>
+    <li><a href="?gd=deireadh">mu dheireadh</a> <en>eventually</en></li>
+    <li><a href="?gd=deireadh">aig an deireadh</a> <en>in the end, eventually</en></li>
+  </ul>
+  <p>Adverbs –</p>
+  <ul>
+    <li>an-dè</li>
+    <li>an-uiridh</li>
+    <li>làrna-mhàireach</li>
+    <li>a-nochd</li>
+    <li>uair</li>
+  </ul>
+</module>
+

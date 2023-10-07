@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>bun</h>
+    <p><g>bun</g>
+        <en>base, basis, butt, stub, source, origin</en> is a masculine <a
+            href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>modifiers</h>
+            <p><a href="?gd=bun-os-cionn"><g>bun-os-cionn</g></a>
+                <en>head over heels, topsy-turvy, upside-down</en></p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>prefix</h>
+            <p><a href="?gd=bun-bheachd"><g>bun-bheachd</g></a>
+                <masc/>
+                <en>concept</en></p>
+            <p><a href="?gd=bun-bheairteas"><g>bun-bheairteas</g></a>
+                <masc/>
+                <en>basic wealth, original wealth</en></p>
+            <p><a href="?gd=bun-stèidh"><g>bun-stèidh</g></a>
+                <fem/>
+                <en>origin, basis, foundation</en></p>
+        </section>
+    </section>
+
+</module>

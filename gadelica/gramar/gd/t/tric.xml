@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title>tric</title>
+  <p><strong>tric</strong> is a <a href="?xx=adjectives/adjectives">adjective</a> meaning <en>frequent</en>.</p>
+  <hr/>
+  <h5>gu tric</h5>
+  <p><strong>gu tric</strong> is a <a href="?xx=adverbs/frequency_adverbials">frequency adverbial</a> meaning <en>often</en> –</p>
+  <ulx id="gu tric">
+    <lix>
+      <gd><m>Gu tric</m> air an oidhche bhiodh e a’ cluinntinn guth athar ag èigheachd, “Blainne blàth na Fìrinn,” oir ’s e ministear a bha na athair cuideachd nuair a bha e beò.</gd>
+      <tr>Often at night he would hear his father’s voice shouting “the warm milk of Truth”, because his father that been a minister too when he was alive.</tr>
+      <ref>2005 <i>Am Miseanaraidh</i> td. 11</ref>
+    </lix>
+    <lix>
+      <gd>Ma bha Hegel a’ déiligeadh ris an t-saoghal ar an taobh a-muigh, ’sann a bha Kierkegaard a’ déiligeadh <m>gu tric</m> ris an fheallsanach fhéin.</gd>
+      <tr>If Hegel dealt with the outside world, it was the philosopher himself that K. usually dealt with.</tr>
+      <ref text="400-41">td. 103</ref>
+    </lix>
+  </ulx>
+  <p>Note also <strong>glè thric</strong> <en>very often</en> –</p>
+  <exl>
+    <li>
+      <gd>Mar a thachras <m>glè thric</m>, thàinig an ceàrrachas gu bhith na bheò-ghlacadh a bha a’ slugadh a h-uile sgillinn a bha iad a’ cosnadh ag obair air talamh, arbhar is mòine.</gd>
+      <tr>As happens very often, gambling came to be an addiction that swallowed every penny they earned working on the land, corn and peat</tr>
+      <ref>2001 <i>Sgeulachdan Dhòmhnaill Alasdair</i> td. 52</ref>
+    </li>
+  </exl>
+  <p>The <strong>gu</strong> is sometimes dropped, especially in informal usage –</p>
+  <exl>
+    <li>
+      <gd>Fiù nach robh an aon tatù air a ghàirdean agus bhiodh e <m>tric</m> an Glaschu a’ cèilidh air a bhràthair agus a’ cleachdadh Fiat a bhràthar.</gd>
+      <tr>Even if he had not had the same tattoo on his arm and he would often be in Glasgow visiting his brother and using his brother’s Fiat.</tr>
+      <ref>2001 <i>Sgeulachdan Dhòmhnaill Alasdair</i> td. 63</ref>
+    </li>
+  </exl>
+  <h5>mar as trice</h5>
+  <p><strong>mar as trice</strong> is a <a href="?xx=adverbs/frequency_adverbials">frequency adverbial</a> meaning <en>usually</en> –</p>
+  <exl>
+    <li>
+      <gd><m>Mar as tric’</m> ’s e aon ghlaim a bheir siorc à duine.</gd>
+      <tr>Usually a shark will just get one bite of a man.</tr>
+      <ref>2001 <i>Sgeulachdan Dhòmhnaill Alasdair</i> td. 63</ref>
+    </li>
+    <li>
+      <gd>Bhiodh e na shuidhe <m>mar bu trice</m> anns a’ mhansa a’ deasachadh a shearmoin airson na Sàbaid, agus cha robh e a’ tighinn a-steach air gu robh an taigh dorch, gruamach.</gd>
+      <tr>He would usually be sitting in the manse going over his sermon for the Sabbath, and it didn’t occur to him that the house was dark and gloomy.</tr>
+      <ref>2005 <i>Am Miseanaraidh</i> td. 11</ref>
+    </li>
+  </exl>
+  <h5>is tric a</h5>
+  <p><strong>is tric a</strong> is a frequency construction meaning <en>often</en> –</p>
+  <exl>
+    <li>
+      <gd><m>’S tric a</m> bhios daoine a’ bruidhinn air na rudan èibhinn no eirmseach a thuirt e, ged tha fios gun deach iomadh facal a chur na bheul nach tuirt e idir.</gd>
+      <tr>People often talk about the funny or witty things he said, although we know that many words have been put in his mouth which he never said.</tr>
+      <ref>2001 <i>Sgeulachdan Dhòmhnaill Alasdair</i> td. 17</ref>
+    </li>
+    <li>
+      <gd>Ach tha fios a’m a-nise <m>gur tric a</m> tha an dìoghaltas a’ cosg barrachd air na ’s fhiach e.</gd>
+      <tr>But I know now that revenge often costs more than it is worth.</tr>
+      <ref>2001 <i>Sgeulachdan Dhòmhnaill Alasdair</i> td. 64</ref>
+    </li>
+  </exl>
+  
+  
+</module>

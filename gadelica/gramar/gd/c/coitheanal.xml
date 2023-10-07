@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>coitheanal</h>
+    <p><b>coitheanal</b>
+        <en>congregation</en> is a masculine <a href="?xx=nouns/derived_common_nouns">derived
+            common noun</a>, from <a href="?gd=coitheanail">coitheanail</a>
+        <vb/>
+        <en>congregate</en>.</p>
+    <section id="coitheanal-forms">
+        <h>forms</h>
+        <p>The forms of <b>coitheanal</b> are – <ul>
+                <li>indefinite –<ul>
+                        <li>nominative singular – <m>coitheanal</m></li>
+                        <li>dative singular – (ann an) <m>coitheanal</m></li>
+                        <li>genitive singular – (meud) <m>coitheanail</m></li>
+                        <li>nominative plural – <m>coitheanalan</m></li>
+                        <li>dative plural – (ann an) <m>coitheanalan</m></li>
+                        <li>genitive plural – (meud) <m>choitheanalan</m></li>
+                    </ul></li>
+                <li>definite –<ul>
+                        <li>nominative singular – <m>an coitheanal</m></li>
+                        <li>dative singular – (anns) <m>a’ choitheanal</m></li>
+                        <li>genitive singular – (meud) <m>a’ choitheanail</m></li>
+                        <li>nominative plural – <m>na coitheanalan</m></li>
+                        <li>dative plural – (anns) <m>na coitheanalan</m></li>
+                        <li>genitive plural – (meud) <m>nan coitheanalan</m></li>
+                    </ul></li>
+            </ul>
+        </p>
+    </section>
+    <section>
+        <h>relations</h>
+    </section>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>derivatives</h>
+            <p>cf. <a href="?gd=coitheanalach">coitheanalach</a> <adj/> <en>congregational(ist)</en></p>
+        </section>
+    </section>
+
+
+</module>

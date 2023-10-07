@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>-(e)ar</h>
+    <p><b>-(e)ar</b> is a suffix used to create masculine <a
+            href="?xx=nouns/anthropic_common_nouns">anthropic common nouns</a> from verbs or from other
+        commons nouns.</p>
+    <p>eg. <a href="?gd=croit">croit</a>
+        <i>fem.</i>
+        <en>croft</en> ⇒ <b>croitear</b>
+        <masc/>
+        <en>crofter</en></p>
+    <p>eg. <a href="?gd=toiseach">tòisich</a>
+        <i>vb.</i>
+        <en>begin, start</en> ⇒ <b>tòisichear</b>
+        <masc/>
+        <en>beginner</en></p>
+
+</module>

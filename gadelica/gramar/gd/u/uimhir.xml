@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title>uimhir</title>
+  <p><strong>uimhir</strong> is a non-declinable feminine <a href="?xx=nouns/generic_quantity_nouns">generic quantity noun</a>.
+    Like <a href="?gd=uiread">uiread</a>, it has two main senses – <ul>
+      <li>resultative <en>so much/many that, such a lot that</en> eg. Tha <m>uimhir chon</m> aig Màiri is gu bheil i daonnan sgìth <en>Mary has so many dogs that she’s always tired.</en></li>
+      <li>equative comparative <en>as much/many as</en> eg. Tha <m>uimhir chon</m> aig Màiri is a tha cait aig Dòmhnall. <en>Mary has as many dogs as Donald has cats.</en></li>
+    </ul>
+  </p>
+  <hr/>
+  <p>In terms of the stuff being quantified (ie. the standard of comparison), <strong>uimhir</strong> generally works like other generic quantity nouns –</p>
+  <ul>
+    <li>When the standard of comparison is new information, it is usually expressed as a noun modifier/specifier of the quantity noun, either the genitive singular of a mass noun or the genitive
+      plural of a count noun eg. <ul>
+        <li>Dh’òl Raonaid <m>uimhir <u>fìona</u></m> ... <en>Rachel drank so/as much wine ...</en></li>
+        <li>Tha <m>uimhir <u>chon</u></m> aig Màiri ... <en>Mary has so/as many dogs ...</en></li>
+      </ul>
+      <ul id="uimhir_specifier">
+        <li>
+          <gd></gd>
+          <tr></tr>
+          <ref text="603">td. 616</ref>
+        </li>
+        <li><gd></gd>
+          <tr></tr><ref text="603">td. 616</ref></li>
+      </ul>
+    </li>
+    <li>When the standard of comparison is already known, it is usually introduced by the partitive preposition <a href="?gd=de">de</a>
+      <en>of</en> governing a specified (ie. ‘definite’) noun eg. <ul>
+        <li>Dh’òl Raonaid <m>uimhir <u>den fhìona</u></m> ... <en>Rachel drank so/as much of the wine ...</en></li>
+        <li>Cheannaich Màiri <m>uimhir <u>de mo choin</u></m> ... <en>Mary bought so/as many of my dogs ...</en></li>
+      </ul>
+    </li>
+    <li>When the standard of comparison is already known, and has just been referred to, or can be inferred, <strong>uimhir</strong> can occur on its own eg. <ul>
+      <li>Dh’òl Raonaid <m>uimhir</m> ... <en>Rachel drank so/as much ...</en></li>
+      <li>Tha <m>uimhir</m> aig Màiri ... <en>Mary has so/as many ...</en></li>
+    </ul>
+      <ul id="uimhir">
+        <li>
+          <gd>Dè uimhir ’s a th’ ann?</gd>
+          <tr>How much is there?</tr>
+          <ref text="605">td. 396</ref>
+        </li>
+        <li>
+          <gd>Thoir dhomh uimhir eile.</gd>
+          <tr>Give me as much again/the same again.</tr>
+          <ref text="605">td. 396</ref>
+        </li>
+        <li>
+          <gd>Na toir dhomh uimhir ri Seumas!</gd>
+          <tr>Don’t give me as much as James!</tr>
+          <ref text="605">td. 396</ref>
+        </li>
+      </ul>
+    </li>
+    <li>Alternatively, <strong>uimhir</strong> can be followed by one of the <a href="?gd=de">de</a> prepositional pronouns eg. <ul>
+      <li>Dh’òl Raonaid <m>uimhir <u>dheth</u></m> ... <en>Rachel drank so/as much of it ...</en></li>
+      <li>Tha <m>uimhir <u>dhiubh</u></m> aig Màiri ... <en>Mary has so/as many of them ...</en></li>
+    </ul>
+      <ul id="uimhir_de">
+        <li><gd></gd>
+          <tr></tr><ref text="603">Mark (2004) td. 615</ref></li>
+      </ul>
+    </li>
+    <li><strong>uimhir mu (dheidhinn)</strong>
+      <en>so/as much [information/knowledge] about some topic</en> eg. <ul>
+        <li>Dh’ionnsaich Màiri <m>uimhir mu</m> choin ... <en>Mary learned so much about dogs.</en>
+          <ul id="uimhir_mu">
+            <li>
+              <gd/>
+              <tr/>
+              <ref text="">td. 60</ref>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><strong>uimhir ri (dhèanamh)</strong> <en>so/as much to do</en> eg. <ul>
+      <li>Tha <m>uimhir ri</m> dhèanamh aig Raonaid ... <en>Rachel has so/as much to do ...</en>
+        <ul id="uimhir_ri">
+          <li><gd></gd>
+            <tr></tr><ref text="603">Mark (2004) td. 615</ref></li>
+        </ul>
+      </li>
+    </ul>
+    </li>
+  </ul>
+  <p>However, there is some variation in usage to be found here. <ul id="uimhir_de_variation">
+    <li>
+      <gd>Bha uimhir de dhaoine ann.</gd>
+      <tr>There were so many / such a lot of people there.</tr>
+      <ref text="605">td. 396</ref>
+    </li>
+    <li><gd>Bha uimhir de dh’airgead agam.</gd>
+      <tr>I had so much / such a lot of  money.</tr>
+      <ref text="605">td. 396</ref></li>
+    <li><gd></gd>
+      <tr></tr>
+      <ref text="603">Mark (2004) td. 616</ref></li>
+  </ul>
+  </p>
+  <hr/>
+</module>
+

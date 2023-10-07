@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title>frequency adverbials</title>
+  <p>List of frequency adverbials –</p>
+  <ul>
+    <li>is ann <a href="?gd=ainneamh">ainneamh</a> a <en>seldom</en></li>
+    <li><a href="?gd=an-comhnaidh">an-còmhnaidh</a> <en>always</en></li>
+    <li><a href="?gd=daonnan">daonnan</a> <en>always</en></li>
+    <li>gu <a href="?gd=tric">tric</a> <en>often</en></li>
+    <li>mar as <a href="?gd=tric">trice</a> <en>usually</en></li>
+    <li>is <a href="?gd=tric">tric</a> a <en>often</en></li>
+  </ul>
+  
+  
+</module>
+

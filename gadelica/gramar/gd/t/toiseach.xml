@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>toiseach</h>
+    <p><g>toiseach</g>
+        <en>start, beginning</en> is a masculine <a href="?xx=nouns/common_nouns">common noun</a>,
+        with genitive singular <g>toisich</g>, and plural <g>toisichean</g>.</p>
+
+    <section id="dependents">
+        <h>dependents</h>
+        <p>The sense of <g>toiseach</g> depends on the kind of entity decribed by its specifier.</p>
+        <section id="situation">
+            <h>situation nouns</h>
+            <p>When the specifier is an abstract noun describing a situation or period of time,
+                    <g>toiseach</g> picks out the starting point.</p>
+            <p>Pedagogical examples – <xl id="situation-pedag">
+                    <li>
+                        <gd>toiseach an t-samhraidh</gd>
+                        <tr>the start/beginning of summer</tr>
+                        <ref text="605">td. 380</ref>
+                    </li>
+                    <li>
+                        <gd>toiseach a’ mhìos seo / toiseach na bliadhna</gd>
+                        <tr>the beginning of this month / the beginning of the year</tr>
+                        <ref text="601">td. 591</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>cf. <g>toiseach tòiseachaidh</g>
+                <en>very beginning</en>
+                <xl id="toiseach_toiseachaidh-pedag">
+                    <li>
+                        <gd>Chan e bha seo ach toiseach tòiseachaidh.</gd>
+                        <tr>This was just the very beginning.</tr>
+                        <ref text="601">td. 591</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="abstract-noun">
+            <h>property nouns</h>
+            <p>When the specifier is an abstract noun describing a property, <g>toiseach</g> picks
+                out the starting point of the associated situation.</p>
+            <p>Pedagogical examples – <xl id="property-pedag">
+                    <li>
+                        <gd>Is e eagal an Tighearna toiseach a’ ghliocais.</gd>
+                        <tr>Fear of the Lord is the beginning of wisdom.</tr>
+                        <ref text="601">td. 591</ref>
+                        <note>the start of one being wise</note>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="concrete-noun">
+            <h>concrete nouns</h>
+            <p>When the specifier is a concrete noun describing a material object, <g>toiseach</g>
+                picks out the front part of the object.</p>
+            <p>Pedagogical examples – <xl id="concrete-pedag">
+                    <li>
+                        <gd>(ann an) toiseach a’ chàir / anns an toiseach</gd>
+                        <tr>(in) the front of the car / in the front [eg. of the car]</tr>
+                        <ref text="601">td. 591</ref>
+                    </li>
+                    <li>
+                        <gd>ann an toiseach na làraidh</gd>
+                        <tr>in the front (ie. cab) of the lorry</tr>
+                        <ref text="605">td. 380</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>cf. <g>toiseach luinge</g>
+                <en>forecastle</en>, <g>toiseach catha</g><en>battlefront</en>, <g>toiseach an
+                    airm</g>
+                <en>vanguard (of the army)</en>, <g>cas thoisich</g>
+                <en>foreleg, front leg</en>, <g>an comhair a thoisich</g>
+                <en>frontwards, front end first</en> (lit. in the direction of his front part).</p>
+            <p/>
+            <p/>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-comp">
+            <h>complement</h>
+            <module id="an_toiseach" status="bronze">
+                <h>(ann) an toiseach</h>
+                <p><g>(ann) an toiseach</g>
+                    <en>(at) first, in the beginning</en>.</p>
+                <p>Pedagogical examples – <xl id="an_toiseach-pedag">
+                        <li>
+                            <gd>Thàinig Flòraidh an toiseach.</gd>
+                            <tr>Flora came first / was first to arrive.</tr>
+                            <ref text="605">td. 380</ref>
+                        </li>
+                        <li>
+                            <gd>Cha bu toil leam e an toiseach.</gd>
+                            <tr>I didn’t like him at first.</tr>
+                            <ref text="605">td. 380</ref>
+                        </li>
+                        <li>
+                            <gd>Albannach an toiseach, Breatannach a-rithist mar gm bitheadh</gd>
+                            <tr>A Scot first, a Briton next as it were</tr>
+                            <ref text="601">td. 591</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>Examples from Gairm – <xl id="an_toiseach-gairm">
+                        <li>
+                            <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh
+                                a bhios os cionn obair a’ Chomuinn. [...] Cha b’ fhuilear do dhuine
+                                de ’n t-seòrsa so tomhas mhath de chumhachd a bhith aige. [...]
+                                Bhiodh a leòr aige ri dhèanamh <m>an toiseach</m> ag ath-nuadhachadh
+                                dreach a’ Chomuinn.</gd>
+                            <tr>The Highland Society is talking about choosing a new General who
+                                will oversee the Society’s work. [...] A person of this kind would
+                                have to have a good measure of power. [...] He would initially have
+                                enough to do restructuring the Society.</tr>
+                            <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                        </li>
+                    </xl>
+                </p>
+                <module id="an_toiseach_toiseachaidh" status="bronze">
+                    <h>(ann an) toiseach tòiseachaidh</h>
+                    <p><g>(ann an) toiseach tòiseachaidh</g>
+                        <en>in the very beginning, originally</en> is an emphatic variant of
+                            <g>(ann) an toiseach</g>.</p>
+                </module>
+                <module id="an_toiseach_air" status="bronze">
+                    <h>an toiseach air</h>
+                    <p><g>an toiseach air</g>
+                        <en>ahead of, in front of</en> is a prepositional compound.</p>
+                    <p>Pedagogical examples – <xl id="an_toiseach_air-pedag">
+                            <li>
+                                <gd>Bha iad an toiseach air an luing eile.</gd>
+                                <tr>They were ahead of the other boat.</tr>
+                                <ref text="601">td. 591</ref>
+                            </li>
+                            <li>
+                                <gd>Bha e an toiseach orm.</gd>
+                                <tr>He was ahead of me.</tr>
+                                <ref text="601">td. 591</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+            <module id="air_thoiseach" status="bronze">
+                <h>air thoiseach</h>
+                <p>air thoiseach <en>ahead, before, foremost, in front, first</en>.</p>
+                <p>Pedagogical examples – <xl id="air_thoiseach-pedag">
+                        <li>
+                            <gd>Bithidh feum orra anns na bliadhnachan air thoiseach.</gd>
+                            <tr>They will be needed in the years ahead.</tr>
+                            <ref text="601">td. 591</ref>
+                        </li>
+                        <li>
+                            <gd>Tha m’ uaireadair air thoiseach.</gd>
+                            <tr>My watch is fast.</tr>
+                            <ref text="601">td. 591</ref>
+                        </li>
+                        <li>
+                            <gd>Is beag a bha fios aige dè bha air thoiseach.</gd>
+                            <tr>Little did he know what was ahead.</tr>
+                            <ref text="601">td. 591</ref>
+                        </li>
+                        <li>
+                            <gd>air thùs is air thoiseach</gd>
+                            <tr>first and foremost</tr>
+                            <ref text="601">td. 591</ref>
+                        </li>
+                    </xl>
+                </p>
+                <module id="air_thoiseach_air" status="bronze">
+                    <h>air thoiseach air</h>
+                    <p><g>air thoiseach air</g>
+                        <en>ahead of, in front of, before</en> is a prepositional compound.</p>
+                    <p>Pedagogical examples – <xl id="air_thoiseach_air-pedag">
+                            <li>
+                                <gd>Bha e a’ coiseachd roimhe, fada air thoiseach oirnn.</gd>
+                                <tr>He was walking along, far ahead / a long way in front of
+                                    us.</tr>
+                                <ref text="605">td. 380</ref>
+                            </li>
+                            <li>
+                                <gd>air thoiseach air na dùthchannan eile</gd>
+                                <tr>ahead of the other countries</tr>
+                                <ref text="605">td. 380</ref>
+                                <note>probably metaphorical</note>
+                            </li>
+                            <li>
+                                <gd>Mhothaich mi gun robh fear eile mu cheud meatair air thoiseach
+                                    orm.</gd>
+                                <tr>I noticed that there was another man about a hundred metres
+                                    ahead of me.</tr>
+                                <ref text="601">td. 591–2</ref>
+                            </li>
+                            <li>
+                                <gd>Tha e fada air thoiseach air rud sam bith eile.</gd>
+                                <tr>It’s far ahed of anything else.</tr>
+                                <ref text="601">td. 592</ref>
+                            </li>
+                            <li>
+                                <gd>Tha e a-nis leis an dream ghràidh a tha air dol dhachaigh air
+                                    thoiseach oirnn.</gd>
+                                <tr>He is now with the beloved people who have gone on ahead of us
+                                    [ie. who have died].</tr>
+                                <ref text="601">td. 592</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+                <module id="rach_air_thoiseach" status="bronze">
+                    <h>rach air thoiseach</h>
+                    <p><g><a href="?gd=rach">rach</a> air thoiseach</g>
+                        <en>advance, go forwards</en></p>
+                </module>
+                <module id="cuir_air_thoiseach" status="bronze">
+                    <h>cuir air thoiseach</h>
+                    <p>Examples from Gairm – <xl id="gairm">
+                            <li>
+                                <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do
+                                    ’n Ghàidhlig no do fhoghlum agus do litreachas na Gàidhlig. Cuin
+                                    a chualas ball-Pàrlarnaid a’ togail a ghuth a dh’ iarraidh
+                                    leasachaidh do staid Gàidhlig ann an Albainn? Am bi cothrom a
+                                    nis aig cuideigin a ghuth a thogail, anns an t-suidheachadh
+                                    iongantach a th’ againn anns a’ Phàrlamaid ùr? Chan eil sinn ag
+                                    iarraidh air an duine so, ma tha e ann, <m>a’ Ghàidhlig a chur
+                                        air thoiseach air lòn is obair is caitheamh-beatha an
+                                        t-sluaigh</m>. Chan eil sinn ag iarraidh ach beagan
+                                    ceartais.</gd>
+                                <tr>[...] The Parliament has given very little assistance ever to
+                                    the Gaelic language or to Gaelic education and literature. When
+                                    has a member of Parliament been heard raising his voice to
+                                    demand improvement for the state of Gaelic in Scotland? Will
+                                    someone have an opportunity now to raise his voice, in the
+                                    unexpected situation we have in the new Parliament? We are not
+                                    asking of this person, if he exists, to prioritise Gaelic over
+                                    food and jobs and the population’s standard of living. We only
+                                    want a modicum of justice.</tr>
+                                <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+                <module id="air_toiseach" status="bronze">
+                    <h>air toiseach</h>
+                    <p><g>air toiseach</g> [no lenition] <en>first</en></p>
+                    <p>Pedagogical examples – <xl id="air_toiseach-pedag">
+                            <li>
+                                <gd>Thàinig esan air toiseach.</gd>
+                                <tr>He arrived first.</tr>
+                                <ref text="601">td. 592</ref>
+                            </li>
+                            <li>
+                                <gd>faigh air toiseach air</gd>
+                                <tr>forestall</tr>
+                                <ref text="601">td. 592</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+            <module id="bho_thoiseach" status="bronze">
+                <h>bho thoiseach</h>
+                <p><g>(bh)o thoiseach</g>
+                    <en>from the start/beginning/outset</en>, cf. <a href="?gd=bho">bho</a>.</p>
+                <p>Pedagogical examples – <xl id="bho_thoiseach-pedag">
+                        <li>
+                            <gd>Carson nach do leig e air o thoiseach mu na b’aithne dha?</gd>
+                            <tr>Why didn’t he reveal from the start about what he knew?</tr>
+                            <ref text="601">td. 591</ref>
+                        </li>
+                        <li>
+                            <gd>o thoiseach a’ mhìos seo / o thoiseach na bliadhna</gd>
+                            <tr>from the beginning of this month / from the beginning of the
+                                year</tr>
+                            <ref text="601">td. 591</ref>
+                        </li>
+                        <li>
+                            <gd>o thoiseach gu deireadh</gd>
+                            <tr>from beginning to end</tr>
+                            <ref text="601">td. 591</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="aig_toiseach" status="bronze">
+                <h>aig toiseach</h>
+                <p><g>aig toiseach gnothaich</g>
+                    <en>first, initially</en></p>
+            </module>
+        </section>
+
+        <section id="derivatives">
+            <h>derivatives</h>
+            <module id="toiseachail" status="bronze">
+                <h>toiseachail</h>
+                <p><g>toiseachail</g>
+                    <en>incipient, preliminary</en> is an adjective.</p>
+            </module>
+            <module id="toiseachd" status="bronze">
+                <h>toiseachd</h>
+                <p><g>toiseachd</g>
+                    <en>priority</en> is a feminine derived noun. </p>
+            </module>
+            <module id="toisich" status="bronze">
+                <h>tòisich</h>
+                <p><a href="?gd=tòisich"><g>tòisich</g></a>
+                    <en>start, begin, commence, inaugurate, launch, originate</en> is a <a
+                        href="?xx=verbs/verbs">verb</a>, derived from the noun <g>toiseach</g>, and
+                    with verbal noun <g>tòiseachadh</g></p>
+            </module>
+        </section>
+
+    </section>
+
+    <!--
+    <module id="compound_nouns">
+        <h>compound nouns</h>
+        <p><b>fìor-thoiseach</b>
+            <masc/>
+            <en>forefront</en></p>
+        <p><b>ciad-thoiseach</b>
+            <masc/>
+            <en>rudiment</en></p>
+    </module>
+    -->
+
+
+
+
+</module>

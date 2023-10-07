@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">bac</h>
+    <h lang="gd">bac</h>
+    <p><b>bac</b>
+        <en>prevent, obstruct, hinder, impede, restrain</en> is a verb, with verbal noun
+            <b>bacadh</b>
+        <masc/></p>
+    <module id="bacadh">
+        <h>bacadh</h>
+        <p><b>bacadh</b>
+            <en>obstacle, hindrance, restraint, prevention, delay</en> is a masculine noun, derived
+            from the verb <b>bac</b>, with genitive singular <b>bacaidh</b> and plural
+                <b>bacaidhean</b>.</p>
+        <p>Examples from Gairm – <xl id="bacadh-gairm">
+                <li>
+                    <gd>[...] A nis, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas ùr
+                        againn. Tha sinn an dòchas gun téid gu math dhaibh, agus gun cuir iad
+                        spionnadh ás ùr anns an dùthaich air fad. Agus gu seachd àraidh anns a’
+                        Ghaidhealtachd: gun tòisich obair an dealain a rithist, gun cuirear
+                        tuilleadh bhàtaichean-iasgaich an sàs, gum faigh na Gaidheil cothrom air
+                        fearann na Gaidhealtachd obrachadh dhaibh fhéin, ás bith an ann mar
+                        chroitean no mar innis no mar choille, gun <m>bhacadh o bhàllidh no o
+                            thighearna</m>.</gd>
+                    <tr>[...] Now, the General Election is behind us, and we have a new Government.
+                        We hope that they will do well, and that they will re-energise the whole
+                        country. And most especially in the Highlands: that electricity work will
+                        restart, that more fishing boats will be put into service [?], that the
+                        Gaels will get the opportunity to work the land of the Highlands for
+                        themselves, whether as crofts or as grazing or as forest, <u>without
+                            hindrance from a bailiff or from a laird</u>.</tr>
+                    <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                </li>
+            </xl>
+        </p>
+    </module>
+    <module id="bac-noun">
+        <h>bac – noun</h>
+        <p><b>bac</b>
+            <en>obstacle, hindrance, delay, hollow, bend, peat/sand bank</en> is a masculine noun,
+            derived from the verb <b>bac</b>, with genitive singular <b>baca</b> or <b>baic</b>, and
+            plural <b>bacan</b>.</p>
+        <p>Pedagogical examples – <xl id="noun-pedag">
+                <li>
+                    <gd>bac na ruighe / bac na h-iosgaid</gd>
+                    <tr>hollow/bend of the arm / back of the knee</tr>
+                    <ref text="605">td. 34</ref>
+                </li>
+            </xl>
+        </p>
+        <module id="bacach">
+            <h>bacach</h>
+            <p><b>bacach</b>
+                <en>lame, crippled</en> is an adjective derived from the noun <b>bac</b>, with
+                suffix <a href="?gd=_ach">-(e)ach</a>.</p>
+            <module id="bacach-noun">
+                <h>bacach – noun</h>
+            </module>
+        </module>
+    </module>
+
+</module>

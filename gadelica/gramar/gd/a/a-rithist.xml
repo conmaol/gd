@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">a-rithist</h>
+    <h lang="gd">a-rithist</h>
+    <p><b>a-rithist</b>
+        <en>again</en> is an adverb.</p>
+    <p>cf. <a href="?gd=toiseach">tòisich a-rithist</a>
+        <en>start again, resume</en>, <a href="?gd=an-dràsta">an-dràsta agus a-rithist</a>
+        <en>now and again</en>.</p>
+</module>

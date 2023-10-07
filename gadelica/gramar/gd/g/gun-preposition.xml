@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+  <h lang="en">gun</h>
+  <h lang="gd">gun</h>
+  <p lang="en"><b>gun</b>
+    <en>without</en> is a preposition.</p>
+  <p lang="gd">...</p>
+  <p lang="en">Examples of usage – <xl id="exss">
+      <li>
+        <gd>[...] A nis, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas ùr againn. Tha sinn an
+          dòchas gun téid gu math dhaibh, agus gun cuir iad spionnadh ás ùr anns an dùthaich air
+          fad. Agus gu seachd àraidh anns a’ Ghaidhealtachd: gun tòisich obair an dealain a rithist,
+          gun cuirear tuilleadh bhàtaichean-iasgaich an sàs, gum faigh na Gaidheil cothrom air
+          fearann na Gaidhealtachd obrachadh dhaibh fhéin, ás bith an ann mar chroitean no mar innis
+          no mar choille, <m>gun bhacadh o bhàllidh no o thighearna</m>.</gd>
+        <tr>[...] Now, the General Election is behind us, and we have a new Government. We hope that they
+          will do well, and that they will re-energise the whole country. And most especially in the
+          Highlands: that electricity work will restart, that more fishing boats will be put into
+          service [?], that the Gaels will get the opportunity to work the land of the Highlands for
+          themselves, whether as crofts or as grazing or as forest, <u>without hindrance from a
+            bailiff or from a laird</u>.</tr>
+        <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+      </li>
+      <li>
+        <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os cionn
+          obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach ag ath-nuadhachadh
+          dreach a’ Chomuinn. Tha móran ri dhèanamh ris a’ Mhòd mus beir e air linn an telebhisean,
+          no eadhon air linn an réidio: [...] A thaobh propaganda, tha obair a’ Chomuinn <m>gun
+            tòiseachadh</m> fhathast; am faca tusa riamh postair Gàidhlig air balla, no an cuala tu
+          guth a’ Chomuinn ann an sanas-reic air STV?</gd>
+        <tr>The Highland Society is talking about choosing a new General who will oversee the
+          Society’s work. [...] He would have enough to do initially reforming the Society. There is
+          much to do at the Mod before it catches up with <ed>??</ed> the era of television, or even
+          with the era of radio: [...] On the subject of propaganda, the Society’s work is <u>yet to
+            start</u>; have you ever seen a Gaelic poster on a wall, or have you heard the voice of
+          the Society in an advert on STV?</tr>
+        <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+      </li>
+      <li>
+        <gd>Bha beagan airgid aige ’s mar sin chaith e a bheatha a’ sgrìobhadh, <m>gun</m> feum aige
+          air obair eile a dhèanamh.</gd>
+        <tr>He had a little money and therefore he devoted his life to writing, <u>without</u> the
+          need to do other work.</tr>
+        <ref text="400-41">td. 103</ref>
+      </li>
+    </xl>
+  </p>
+  <p lang="gd">...</p>
+</module>

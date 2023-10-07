@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">sàs</h>
+    <h lang="gd">sàs</h>
+    <p lang="en"><b>sàs</b> is an abstract, masculine <a href="?xx=nouns/simple_common_nouns">simple
+            common noun</a>, with genitive singular form <b>sàis</b>. There appear to be two main
+        dictionary senses – <ol>
+            <li><en>a state of being caught, trapped or captured</en></li>
+            <li>[by metaphorical extension] <en>a state of being busy at, engaged or involved in
+                    something</en></li>
+        </ol> cf. Old Gaelic <ax href="https://dil.ie/36219">sás</ax>
+        <en>snare, trap (for birds)</en>. </p>
+    <p lang="gd">...</p>
+    <p lang="en">In modern Gaelic, the noun <b>sàs</b> is always used in the idiom <b>an sàs (an
+            ...)</b> denoting the property of being in such a state.</p>
+    <p lang="gd">...</p>
+    <module id="bi_an_sas">
+        <h lang="en">bi an sàs</h>
+        <h lang="gd">bi an sàs</h>
+        <p lang="en">Examples without a complement – <ul>
+                <li>concrete – <xl id="bi_an_sas-exs-concrete">
+                        <li>
+                            <gd>Tha iad an sàs.</gd>
+                            <tr>They are in captivity.</tr>
+                            <ref text="605">td. 319</ref>
+                        </li>
+                        <li>
+                            <gd>[...] far a bheil na fèithean-lùthaidh an sàs [...]</gd>
+                            <tr>[...] where the sinews are fixed [...]</tr>
+                            <ref text="601">td. 502</ref>
+                        </li>
+                    </xl></li>
+                <li>abstract – <xl id="bi_an_sas-exs-abstract">
+                        <li>
+                            <gd>Tha deichnear an sàs làn-aimsireach.</gd>
+                            <tr>There are ten people engaged full time.</tr>
+                            <ref text="601">td. 502</ref>
+                        </li>
+                    </xl></li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en"><b>bi an sàs an</b> – <ul>
+                <li>concrete – <xl id="bi_an_sas_an-exs-concrete">
+                        <li>
+                            <gd>Bha am ball an sàs anns a’ chraoibh.</gd>
+                            <tr>The ball was stuck in the tree.</tr>
+                            <ref text="601">td. 502</ref>
+                        </li>
+                    </xl></li>
+                <li>abstract – <xl id="bi_an_sas_an-exs-abstract">
+                        <li>
+                            <gd>Bha mi an sàs anns an obair seo fad iomadh bliadhna.</gd>
+                            <tr>I was engaged in this work for many years.</tr>
+                            <ref text="601">td. 502</ref>
+                        </li>
+                        <li>
+                            <gd>Tha làn sgioba de sgrìobhadairean an sàs an tionndadh a-mach nam
+                                prògraman.</gd>
+                            <tr>There’s a full team of writers engaged in turning out the
+                                programmes.</tr>
+                            <ref text="601">td. 502</ref>
+                        </li>
+                        <li>
+                            <gd>’S e adhbhar an Tighearna anns a bheil mi an sàs.</gd>
+                            <tr>It’s the Lord’s Work in which I am engaged.</tr>
+                            <ref text="601">td. 502–3</ref>
+                        </li>
+                        <li>
+                            <gd>[...] a bharrachd air a bhith an sàs ann an obair a’ mhisein
+                                [...]</gd>
+                            <tr>[...] as well as being engaged in the work of the mission [...]</tr>
+                            <ref text="601">td. 503</ref>
+                        </li>
+                        <li>
+                            <gd>Bha e an sàs ann am mòran ghnothaichean ionadail.</gd>
+                            <tr>He was engaged in many local matters.</tr>
+                            <ref text="601">td. 503</ref>
+                        </li>
+                        <li>
+                            <gd>Bha mi an sàs ann am poileataics aig an àm sin.</gd>
+                            <tr>I was involved in politics at that time.</tr>
+                            <ref text="605">td. 319</ref>
+                        </li>
+                    </xl></li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">Adnominal examples where the <b>bi</b> is implicit – <xl id="an_sas-exs">
+                <li>
+                    <gd>radan an sàs ann an ribe</gd>
+                    <tr>a rat caught in a trap</tr>
+                    <ref text="605">td. 319</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en"><b>bi an sàs ann an cuideigin</b> – <xl id="bi_an_sas_an_cuideigin-exs">
+                <li>
+                    <gd>Bha iad an sàs innte gun sgur.</gd>
+                    <tr>They pestered her continually.</tr>
+                    <ref text="601">td. 502</ref>
+                </li>
+                <li>
+                    <gd>Bha i an sàs annam fad na h-ùine airson an taigh a pheantadh.</gd>
+                    <tr>She was on at me all the time to paint the house.</tr>
+                    <ref text="605">td. 319</ref>
+                </li>
+            <li>
+                <gd>Tha iad an sàs annam gun sgur.</gd>
+                <tr>They’re always on at me.</tr>
+                <ref text="605">td. 334</ref>
+            </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+
+    <module id="rach_an_sas">
+        <h lang="en">rach an sàs</h>
+        <h lang="gd">rach an sàs</h>
+        <p lang="en">Examples – <ul>
+                <li>concrete – <xl id="rach_an_sas-exs-concrete">
+                        <li>
+                            <gd>Chaidh i an sàs sna drisean.</gd>
+                            <tr>She got caught in the brambles.</tr>
+                            <ref text="605">td. 319</ref>
+                        </li>
+                    </xl></li>
+                <li>abstract – <xl id="rach_an_sas-exs-abstract">
+                        <li>
+                            <gd>Bha e ag innleachdadh mar a bha e a’ dol a dhol an sàs ann.</gd>
+                            <tr>He was planning how he was going to tackle it.</tr>
+                            <ref text="601">td. 502</ref>
+                        </li>
+                        <li>
+                            <gd>Bidh cuid a’ dol an sàs san Laidinn.</gd>
+                            <tr>Some will be taking on Latin.</tr>
+                            <ref text="601">td. 502</ref>
+                        </li>
+                    </xl></li>
+                <li>ambiguous – <xl id="rach_an_sas-exs-unclear">
+                        <li>
+                            <gd>[...] nuair a thèid sibhse an sàs ann [...]</gd>
+                            <tr>[...] when you tangle with him [...]</tr>
+                            <ref text="601">td. 502</ref>
+                        </li>
+                    </xl></li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+
+    <module id="cuir_an_sas">
+        <h lang="en">cuir an sàs</h>
+        <h lang="gd">cuir an sàs</h>
+        <p lang="en">Examples without a complement – <ul>
+                <li>concrete – <xl id="cuir_an_sas-bare-concrete">
+                        <li>
+                            <gd>Chuir oifigich an airm an sàs e.</gd>
+                            <tr>The army officers arrested him.</tr>
+                            <ref text="601">td. 502</ref>
+                        </li>
+                    </xl></li>
+                <li>abstract – <xl id="cuir_an_sas-bare-abstract">
+                        <li>
+                            <gd>[...] A nis, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas
+                                ùr againn. Tha sinn an dòchas gun téid gu math dhaibh, agus gun cuir
+                                iad spionnadh ás ùr anns an dùthaich air fad. Agus gu seachd àraidh
+                                anns a’ Ghaidhealtachd: gun tòisich obair an dealain a rithist,
+                                    <m>gun cuirear tuilleadh bhàtaichean-iasgaich an sàs</m>, gum
+                                faigh na Gaidheil cothrom air fearann na Gaidhealtachd obrachadh
+                                dhaibh fhéin, ás bith an ann mar chroitean no mar innis no mar
+                                choille, gun bhacadh o bhàllidh no o thighearna. [...]</gd>
+                            <tr>[...] Now, the General Election is behind us, and we have a new
+                                Government. We hope that they will do well, and that they will
+                                re-energise the whole country. And most especially in the Highlands:
+                                that electricity work will restart, <u>that more fishing boats will
+                                    be put into service</u> [?], that the Gaels will get the
+                                opportunity to work the land of the Highlands for themselves,
+                                whether as crofts or as grazing or as forest, without hindrance from
+                                a bailiff or from a laird. [...]</tr>
+                            <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                        </li>
+                        <li>
+                            <gd>air a chuir an sàs</gd>
+                            <tr>in commission</tr>
+                            <ref text="601">td. 502</ref>
+                        </li>
+                    </xl></li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">cf. <b>cur-an-sàs</b>
+            <en>application, implementation, inception</en></p>
+        <p lang="gd">...</p>
+        <p lang="en"><b>cuir an sàs an ...</b> – <xl id="cuir_an_sas_an">
+                <li>
+                    <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig
+                        no do fhoghlum agus do litreachas na Gàidhlig. [...] Dé na rudan a dh’
+                        fhaodadh sinn iarraidh? Tuilleadh de luchd-teagaisg ’s de luchd-ceasnachaidh
+                        Gàidhlig. Airgead gu leabhraichean uallachadh is a chlo-bhualadh. Barrachd
+                        tìde air an réidio agus air telebhisean. <m>Dithis dhaoine a chur an sàs
+                            anns na làmh-sgrìobhainnean Gàidhlig san Leabharlann Nàiseanta, agus
+                            dithis eile san Ordnance Survey.</m> [...]</gd>
+                    <tr>[...] The Parliament has given very little assistance ever to the Gaelic
+                        language or to Gaelic education and literature. [...] What are the things
+                        that we could demand? More Gaelic teachers and inspectors. Money to prepare
+                        and print books. More time on the radio and on television. <u>Involving two
+                            people in the Gaelic manuscripts in the National Library, and two others
+                            in the Ordnance Survey.</u> [...]</tr>
+                    <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                </li>
+                <li>
+                    <gd>Chuir e dithis eile an sàs anns an innleachd a bh’ann.</gd>
+                    <tr>He entangled/involved two others in the plot.</tr>
+                    <ref text="601">td. 502</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en"><b>cuir an sàs ann a bhith ag ...</b> – <xl id="cuir_an_sas_ann-inf">
+                <li>
+                    <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios
+                        os cionn obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach
+                        ag ath-nuadhachadh dreach a’ Chomuinn. Tha móran ri dhèanamh ris a’ Mhòd mus
+                        beir e air linn an telebhisean, no eadhon air linn an réidio: <m>bu mhath
+                            gun cuirte luchd-sgrìobhaidh is luchd-ciùil an sàs ann a bhith a’
+                            cruthachadh ás ùr</m>, an àite bhith an còmhnaidh a’ cur seòrsa de
+                        dhreach ùr air seann rudan [...]</gd>
+                    <tr>The Highland Society is talking about choosing a new General who will
+                        oversee the Society’s work. [...] He would have enough to do initially
+                        reforming the Society. There is much to do at the Mod before it catches up
+                        with <ed>??</ed> the era of television, or even with the era of radio:
+                            <u>writers and musicians should be involved in creating afresh</u>,
+                        instead of always putting a sort of new form on old things [...]</tr>
+                    <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+</module>

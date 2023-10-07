@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <title lang="en">specifiers</title>
+    <title lang="gd">ainmearan gnàthach</title>
+    
+    <hr/>
+    
+    <p>In contrast, a proper noun which is a post-specifier is always in the genitive, even if it has a post-specifier itself eg.</p>
+    <ul><li><m>Iain <u>Dhòmhnaill</u> <u>Sheumais</u> Dhonnchaidh</m> <en>John of Donald of James of Duncan</en></li></ul>
+    <hr/>
+    
+    <hr/>
+    
+
+</module>

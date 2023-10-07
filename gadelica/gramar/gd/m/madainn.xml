@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">madainn</h>
+    <h lang="gd">madainn</h>
+    <p lang="en">Examples from Gairm – <xl id="cleft-gairm">
+            <li>
+                <gd>[...] ’Se <m>madainn bhòidheach foghair</m> a bh’ ann—tioram, le ceileir eòin,
+                    is beagan dealt air an fheur. Bha a[m] muir ’s na tighean ag éirigh á inntinn an
+                    latha. [...]</gd>
+                <tr>[...] It was a beautiful autumn morning – dry, with the chirping of birds, and a
+                    little dew on the grass. The sea and the houses were rising from the mind of the
+                    day [??]. [...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>

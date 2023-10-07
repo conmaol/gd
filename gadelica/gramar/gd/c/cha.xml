@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">cha</h>
+    <h lang="gd">cha</h>
+
+    <module id="cleft">
+        <h lang="en">cleft clauses</h>
+        <h lang="gd">...</h>
+        <p lang="en">Examples from Gairm – <xl id="cleft-gairm">
+                <li>
+                    <gd>[...] “Rinn e òran dhomh. Oran briagha. [...] Cha robh sinn ach fichead
+                        bliadhna a dh’ aois. [...] ’Se Sasunnach a bh’ ann [...]. Cha robh e ach
+                        fichead bliadhna a dh’ aois. Balach àrd tapaidh le léine shìoda. Thubhairt e
+                        rium gum pòsadh e mi. [...] Thainig e mach á sgoth-luing le na siùil gheala.
+                        Cha robh facal Gàidhlig aige. [...] Tha thu coltach ris,” thubhairt i ri
+                        Iain leis an aon ghàire. “Leig leis,” arsa Màiri. “<m>Chan ann airson sin a
+                            thàinig e.</m>” [...]</gd>
+                    <tr>[...] “He sang me a song. A beautiful song. [...] We were just twenty years
+                        of age. [...] He was an Englishman [...]. He was just twenty years of age. A
+                        tall strong boy with a silk shirt. He said to me that he would marry me.
+                        [...] He came out of a yacht with white sails. He didn’t have a word of
+                        Gaelic. [...] You look like him,” she said to John with the same laugh.
+                        “Leave him alone,” said Mary. “He didn’t come for that.” [...]</tr>
+                    <ref text="400-46">td. 170–1, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+
+</module>

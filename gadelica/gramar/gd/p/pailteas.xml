@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title>pailteas</title>
+  <p><strong>pailteas</strong>
+    <en>abundance, sufficiency</en> is a masculine <a href="?xx=nouns/generic_quantity_nouns">generic quantity noun</a>, derived from the adjective <strong>pailt</strong>
+    <en>abundant, sufficient</en>. Dictionaries list the genitive singular form <strong>pailteis</strong>.</p>
+  <hr/>
+  <p>In terms of the stuff being quantified, <strong>pailteas</strong> works more or less like other generic quantity nouns –</p>
+  <ul>
+    <li>When the stuff being quantified is new information, the stuff being quantified is usually expressed as a noun modifier/specifier of <strong>pailteas</strong>, either the genitive singular of a
+      mass noun or the genitive plural of a count noun eg. <ul>
+        <li>?? Dh’òl Raonaid <m>pailteas <u>fìona</u></m>. <en>Rachel drank a lot of wine / more than enough wine.</en></li>
+        <li>Tha <m>pailteas <u>chon</u></m> aig Màiri. <en>Mary has a lot of dogs / more than enough dogs.</en></li>
+      </ul>
+      <ulx id="pailteas_specifier">
+        <li>
+          <gd>Bha dà amas roimhe mar thuathanach: an talamh-àitich a dhèanamh na bu toraiche, agus talamh nach robh idir air àiteach a chur gu feum. Bha Uibhist làn lochan agus bha a’ mhuir a’ bagairt
+            air fearann machrach. Chuir e suas ballachan-dìon gus am muir a chumail o bhith crìonadh na talmhainn agus gus na lochan a thràghadh. Dh’fhàs na fidean nan talamh torach le bàrr trom agus
+            pailteas feòir.</gd>
+          <tr>He had two goals as a farmer: making the farmland more fertile, and putting land that had never been farmed at all to use. Uist was full of lochs and the sea threatened the machair land.
+            He put up protective walls to keep the sea from destroying the land and to drain the lochs. The [?] grew in the fertile soil with [heavy crop?] and an abundance of grass.</tr>
+          <ref text="333">td. 108</ref>
+        </li>
+        <li>
+          <gd>Tha pailteas leabhraichean Beurla againn. Leugh mi tuille ’s a chòir dhiu sin mar tha.</gd>
+          <tr>We have plenty English books. I have read more than enough of those already.</tr>
+          <ref text="400-12">td. 361</ref>
+        </li>
+        <li>
+          <gd>Thuit Còirneal na rèisimeid le seachd leòin ciùrrail, thuilleadh air leòin bheaga. Deich bliadhna an dèidh na casgraidh gun toinisg seo, sgrìobh an Còirneal eachdraidh na rèisimeid, agus
+            tha e ag ràdh gun tubhairt Iain Hamilton mun nì, nach robh fios sam bith aige nach robh gunnachan mòra agus pailteas pheilearan aig an rèisimeid, gu ùine mhòir an dèidh na casgraidh
+            seo.</gd>
+          <tr>The Colonel of the regiment fell with seven [serious?] wounds, in addition to minor injuries. Ten years after this senseless massacre, the Colonel wrote the history of the regiment, and
+            he said that Iain Hamilton said about the matter, that he had no idea that the regiment did not have large guns and plenty of bullets until long after this massacre.</tr>
+          <ref text="400-111">td. 232</ref>
+        </li>
+      </ulx>
+    </li>
+    <li>When the stuff being quantified is already known, it is usually introduced by the partitive preposition <a href="?gd=de">de</a>
+      <en>of</en> governing a specified (ie. ‘definite’) noun eg. <ul>
+        <li>?? Dh’òl Raonaid <m>pailteas <u>den fhìon</u></m>. <en>Rachel drank a lot of the wine / more than enough of the wine.</en></li>
+        <li>?? Cheannaich Màiri <m>pailteas <u>de mo choin</u></m>. <en>Mary bought a lot of my dogs / more than enough of my dogs.</en></li>
+      </ul>
+      <ulx id="pailteas_de">
+        <li>
+          <gd>Guma fad’ air ghluasad iad an eilean uain’ na h-òig’ \ A-muigh air feadh nam buailtean ’s a’ cuartachadh mun chrò; 
+            \ Tha pailteas dhen bhiadh ac’ ann ’s iad riaraichte gu leòr \ ’S bidh freastal a’ cur dìon orra bho shìontan no ghaoth reòdht’. </gd>
+          <tr>May they long be on the move in the pale green isle of youth \ Out amongst the sheepfolds and encircling the enclosure; \
+            There’s plenty of their food there and they’re perfectly content \ And providence will shelter them from storms or freezing wind.</tr>
+          <ref text="3">td. 32</ref>
+        </li>
+        <li>
+          <gd>Bha nis pailteas agam dhe ’n t-seorsa beidh a thug na daoine dubha gu caoimhneil do m’ ionnsuidh.</gd>
+          <tr>I now had plenty of the kind of food which the black people had [kindly?] brought me.</tr>
+          <ref text="81-12-15">td. 5</ref>
+        </li>
+      </ulx>
+    </li>
+    <li>When the stuff being quantified is already known, and has just been referred to, or can be inferred, <strong>pailteas</strong> can occur on its own eg. <ul>
+        <li>?? Dh’òl Raonaid <m>pailteas</m>. <en>Rachel drank a lot / more than enough.</en></li>
+        <li>Tha <m>pailteas</m> aig Màiri. <en>Mary has a lot / more than enough.</en></li>
+      </ul>
+      <ulx id="pailteas">
+        <li>
+          <gd>B’ ann Di-ciadain, an latha roimh ’n bhanais, a thòisich an fhìor obair chruaidh agus le sin an toileachas, am fuaim ’s an dibhearsan. 
+            Ged nach robh an latha ro mhath bha na mnathan a-muigh aig na praisean san fhasgadh, 
+            deas gu smùid a chur ás na cearcan mar a thigeadh iad—oir b’e so latha Spìonadh nan Cearc. 
+            B’e feòil nan cearc, maille ri feòil chaorach, na h-annlain. Abair gum biodh pailteas ann!</gd>
+          <tr>It was on Wednesday, the day before the wedding, that the real hard work started and with that the fun, the noise and the entertaonment.
+            Although the weather was not so good the women were outside at the pots in the shelter, 
+            ready to steam the hens as they come – because this is the day of Plucking the Hens.
+            Chicken was, along with lamb, the main ingredient. And wasn’t there plenty!</tr>
+          <ref text="400-37">td. 27</ref>
+        </li>
+      </ulx>
+    </li>
+    <li>Alternatively, <strong>pailteas</strong> can be followed by one of the <a href="?gd=de">de</a> prepositional pronouns eg. <ul>
+        <li>?? Dh’òl Raonaid <m>pailteas <u>dheth</u></m>. <en>Rachel drank a lot of it / more than enough of it.</en></li>
+        <li>Tha <m>pailteas <u>dhiubh</u></m> aig Màiri. <en>Mary has a lot of them / more than enough of them.</en></li>
+      </ul>
+      <ulx id="pailteas_de_prep">
+        <li>
+          <gd>Chan eil sin a’ ciallachadh nach eil cluichean Gàidhlig ri’m faicinn. 
+            Tha pailteas ann diubh aig iomadh céilidh is cuirm air feadh nan Eilean is an taobh an iar.</gd>
+          <tr>That doesn’t mean that there are not Gaelic plays to be seen. There are plenty of them at lots of dances and concerts all across the Islands and the west coast.</tr>
+          <ref text="400-12">td. 301</ref>
+        </li>
+      </ulx>
+    </li>
+    <li><strong>pailteas ri (dhèanamh)</strong>
+      <en>a little to do</en> eg. <ul>
+        <li>Tha <m>pailteas <u>ri dhèanamh</u></m> aig Raonaid. <en>Rachel has a lot to do / more than enough to do.</en></li>
+      </ul>
+      <ul id="pailteas_ri">
+        <li>
+          <gd>Bha pailteas aig a’ chloinn ri òl dheth.</gd>
+          <tr>The children had plenty of it to drink.</tr>
+          <ref text="601">td. 464</ref>
+        </li>
+      </ul>
+    </li>
+  </ul>
+  <hr/>
+  <p>Note the idiom <strong>ann am pailteas (mòr)</strong>
+    <en>in (great) abundance</en>. <ulx id="ann_am_pailteas">
+      <li>
+        <gd>Bha suidheachadh Inbhir Leacainn glè fhreagarrach airson leaghadair a bhith stèidhichte ann. Bha fiodh ann am pailteas anns na coilltean a bha mun cuairt air a’ bhaile gus gual-fiodha a
+          chruthachadh.</gd>
+        <tr>The setting of Inverleacain was very suitable for a smelter to be based there. Wood was in abundance in the forests which were around the town to make charcoal.</tr>
+        <ref text="400-193">td. 81</ref>
+      </li>
+      <li>
+        <gd>Ràinig sinn Vipiteno, baile beag, brèagha, far an robh fìon ann am pailteas, daoine a’ reic bàrr rèodhta agus ceòl a’ seinn a-mach às a h-uile còrnair.</gd>
+        <tr>We reached Vipiteno, a beautiful little town, where wine was in abundance, people selling ice cream and music singing out of every corner.</tr>
+        <ref text="400-129">td. 23</ref>
+      </li>
+      <li>
+        <gd>Tha Pickford agus Black, cuideachd a tha ann a Halifacs, airidh air cliù mhor, on is iadsan a thòisich air bàtaichean smùide ’chur eadar Canada ’s Innsean na h-àirde ’n iar. Cha ’n urrainn
+          do luchd-àiteachaidh nan Eileanan ud cruinneachd a thogail agus iomadh ni eile ’tha feumail airson teachd-an-tir an t-sluaigh. Tha sin a’ cinntinn anns an dùthaich bheartach againn fein, ann
+          am pailteas mor, agus theid againn air moran a sheachnadh air am bheil feum daonnan aca anns na h-Innsean.</gd>
+        <tr>Pickford and Black, a company that is in Halifax, is deserving of high praise, since they started to send steamers between Canada and the Western Isles. Farmers in those islands cannot
+          grow wheat and many other things that are useful for subsistence of the people. That grows in our own rich country, in great abundance, and we can spare a lot where it is needed in the
+          Isles.</tr>
+        <ref text="81-11-26">td. 3</ref>
+      </li>
+    </ulx>
+  </p>
+  <hr/>
+  <p>Also the compound <strong>làn-phàilteas</strong>
+    <en>quite enough</en>. <ulx id="lan_pailteas">
+      <li>
+        <gd>làn phailteas</gd>
+        <tr>quite enough</tr>
+        <ref text="602">td. 715</ref>
+      </li>
+    </ulx>
+  </p>
+  <hr/>
+</module>

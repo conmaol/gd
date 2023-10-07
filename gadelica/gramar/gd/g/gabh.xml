@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>gabh</h>
+    <p><g>gabh</g>
+        <en>take</en> is a <a href="?xx=verbs/simple_verbs">simple verb</a>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>gabh</g> are – <ul>
+                <li><m>gabhaidh</m> – future independent ie. <en>will take</en></li>
+                <li><m>ghabh</m> – past independent ie. <en>took</en></li>
+                <li><m>gabhail</m> – verbal noun ie. <en>taking</en></li>
+            </ul>
+        </p>
+        <section>
+            <h>tense</h>
+            <p>
+                <ul>
+                    <li>past <ul id="past">
+                            <li>active <ul>
+                                    <li>independent – <m>ghabh</m></li>
+                                    <li>relative – a <m>ghabh</m></li>
+                                    <li>dependent – cha/an/nach <m>do ghabh</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>ghabhadh</m></li>
+                                    <li>relative – a <m>ghabhadh</m></li>
+                                    <li>dependent – cha/an/nach <m>do ghabhadh</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>future <ul id="future">
+                            <li>active <ul>
+                                    <li>independent – <m>gabhaidh</m></li>
+                                    <li>relative – a <m>ghabhas</m></li>
+                                    <li>dependent – cha <m>ghabh</m>, an/nach <m>gabh</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>gabhar</m></li>
+                                    <li>relative – a <m>ghabhar</m></li>
+                                    <li>dependent – cha <m>ghabhar</m>, an/nach <m>gabhar</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>conditional <ul id="conditional">
+                            <li>active <ul>
+                                    <li>first person singular <ul>
+                                            <li>independent – <m>ghabhainn</m></li>
+                                            <li>relative – a <m>ghabhainn</m></li>
+                                            <li>dependent – cha <m>ghabhainn</m>, an/nach
+                                                  <m>gabhainn</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>first person plural <ul>
+                                            <li>independent – <m>ghabhamaid</m></li>
+                                            <li>relative – a <m>ghabhamaid</m></li>
+                                            <li>dependent – cha <m>ghabhamaid</m>, an/nach
+                                                  <m>gabhamaid</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>second/third persons <ul>
+                                            <li>independent – <m>ghabhadh</m></li>
+                                            <li>relative – a <m>ghabhadh</m></li>
+                                            <li>dependent – cha <m>ghabhadh</m>, an/nach
+                                                  <m>gabhadh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>ghabhte</m></li>
+                                    <li>relative – a <m>ghabhte</m></li>
+                                    <li>dependent – cha <m>ghabhte</m>, an/nach <m>gabhte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>status</h>
+            <p><ul>
+                    <li>independent <ul id="independent">
+                            <li>past <ul>
+                                    <li>active – <m>ghabh</m></li>
+                                    <li>passive – <m>ghabhadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – <m>gabhaidh</m></li>
+                                    <li>passive – <m>gabhar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – <m>ghabhainn</m></li>
+                                            <li>first person plural – <m>ghabhamaid</m></li>
+                                            <li>second/third persons – <m>ghabhadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – <m>ghabhte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>relative <ul id="relative">
+                            <li>past <ul>
+                                    <li>active – a <m>ghabh</m></li>
+                                    <li>passive – a <m>ghabhadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – a <m>ghabhas</m></li>
+                                    <li>passive – a <m>ghabhar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – a <m>ghabhainn</m></li>
+                                            <li>first person plural – a <m>ghabhamaid</m></li>
+                                            <li>second/third persons – a <m>ghabhadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – a <m>ghabhte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="dependent">
+                            <li>past <ul>
+                                    <li>active – cha/an/nach <m>do ghabh</m></li>
+                                    <li>passive – cha/an/nach <m>do ghabhadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – cha <m>ghabh</m>, an/nach <m>gabh</m></li>
+                                    <li>passive – cha <m>ghabhar</m>, an/nach <m>gabhar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – cha <m>ghabhainn</m>,
+                                                an/nach <m>gabhainn</m></li>
+                                            <li>first person plural – cha <m>ghabhamaid</m>, an/nach
+                                                  <m>gabhamaid</m></li>
+                                            <li>second/third persons – cha <m>ghabhadh</m>, an/nach
+                                                  <m>gabhadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – cha <m>ghabhte</m>, an/nach <m>gabhte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul></p>
+        </section>
+        <section>
+            <h>voice</h>
+            <p>
+                <ul>
+                    <li>active <ul id="active">
+                            <li>past <ul>
+                                    <li>independent – <m>ghabh</m></li>
+                                    <li>relative – a <m>ghabh</m></li>
+                                    <li>dependent – cha/an/nach <m>do ghabh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>gabhaidh</m></li>
+                                    <li>relative – a <m>ghabhas</m></li>
+                                    <li>dependent – cha <m>ghabh</m>, an/nach <m>gabh</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent <ul>
+                                            <li>first person singular – <m>ghabhainn</m></li>
+                                            <li>first person plural – <m>ghabhamaid</m></li>
+                                            <li>second/third persons – <m>ghabhadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>relative <ul>
+                                            <li>first person singular – a <m>ghabhainn</m></li>
+                                            <li>first person plural – a <m>ghabhamaid</m></li>
+                                            <li>second/third persons – a <m>ghabhadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>dependent <ul>
+                                            <li>first person singular – cha <m>ghabhainn</m>,
+                                                an/nach <m>gabhainn</m></li>
+                                            <li>first person plural – cha <m>ghabhamaid</m>, an/nach
+                                                  <m>gabhamaid</m></li>
+                                            <li>second/third persons – cha <m>ghabhadh</m>, an/nach
+                                                  <m>gabhadh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>passive <ul id="passive">
+                            <li>past <ul>
+                                    <li>independent – <m>ghabhadh</m></li>
+                                    <li>relative – a <m>ghabhadh</m></li>
+                                    <li>dependent – cha/an/nach <m>do ghabhadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>ghabhar</m></li>
+                                    <li>relative – a <m>ghabhar</m></li>
+                                    <li>dependent – cha <m>ghabhar</m>, an/nach <m>gabhar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent – <m>ghabhte</m></li>
+                                    <li>relative – a <m>ghabhte</m></li>
+                                    <li>dependent – cha <m>ghabhte</m>, an/nach <m>gabhte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>imperative</h>
+            <p>
+                <ul>
+                    <li>independent <ul id="imp-ind">
+                            <li>first person singular – <m>gabham</m>!</li>
+                            <li>second person singular – <m>gabh</m>!</li>
+                            <li>first person plural – <m>gabhamaid</m>!</li>
+                            <li>second person plural – <m>gabhaibh</m>!</li>
+                            <li>third person – <m>gabhadh</m>!</li>
+                            <li>passive – <m>gabh(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="imp-dep">
+                            <li>first person singular – na <m>gabham</m>!</li>
+                            <li>second person singular – na <m>gabh</m>!</li>
+                            <li>first person plural – na <m>gabhamaid</m>!</li>
+                            <li>second person plural – na <m>gabhaibh</m>!</li>
+                            <li>third person – na <m>gabhadh</m>!</li>
+                            <li>passive – na <m>gabh(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section id="obj">
+            <h>object</h>
+            <p>Some idioms – <ul>
+                    <li><g>gabh <a href="?gd=tì">tì</a></g>
+                        <en>have one’s tea</en></li>
+                    <li><g>gabh <a href="?gd=tional">tional</a></g>
+                        <en>make/take a collection</en></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+
+</module>

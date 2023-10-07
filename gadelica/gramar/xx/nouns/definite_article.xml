@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>definite article</h>
+    <p>The definite article is a <a href="?xx=nouns/determiners">determiner</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>modifiers</h>
+            <p>Older pedagogical examples – <xl id="mod-older-pedag">
+                    <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                            Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis
+                                <m>an</m> litir <m>seo</m>, Iain?” [...]</gd>
+                        <tr>My mother is writing a letter to my father who is away. My mother said,
+                            “Will you go to the postbox with this letter, John?” [...]</tr>
+                        <ref text="621">td. 5</ref>
+                    </li>
+
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>specifier</h>
+            <p>Older pedagogical examples – <xl id="spec-older-pedag">
+                    <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                            Thubhairt mo mhàthair, “An téid thu do bhocsa <m>nan litrichean</m> leis
+                                <m>an litir seo</m>, Iain?” “Théid,” ars Iain, “falbhaidh mi an
+                            dràsda”. “Fuirich gus an dùin mi i is gus an cuir mi seòladh oirre.
+                            Ceannaich fhéin stamp agus cuir oirre i.” Tha Iain a’ ruith sìos <m>an
+                                rathad</m> leis <m>an litir</m> ’na làimh. Théid e a steach do oifig
+                                <m>a’ phuist</m>, ceannaichidh e stamp is cuiridh e sud air <m>an
+                                litir</m>. Tilgidh e <m>an litir</m> ann am bocsa <m>nan
+                                litrichean</m>. </gd>
+                        <tr>My mother is writing a letter to my father who is away. My mother said,
+                            “Will you go to the postbox with this letter, John?” “Yes, I will,” said
+                            John, “I will leave now.” “Wait until I seal it and put an address on
+                            it. Buy a stamp and put it on it.” John is running down the road with
+                            the letter in his hand. He will go into the post office, he will buy a
+                            stamp and put that on the letter. He will toss the letter into the
+                            postbox.</tr>
+                        <ref text="621">td. 5–6</ref>
+                    </li>
+                    <li>
+                        <gd>Bha <m>an latha</m> brèagha blàth is thug an athair leis Iain agus Anna
+                            anns <m>a’ chàr</m>. Chaidh iad sìos taobh <m>an locha</m> is stad iad
+                            aig àite bòidheach gorm. Chuir iad <m>an càr</m> a stigh gu taobh <m>an
+                                rathaid</m> is thug iad brat a mach as <m>a’ chàr</m> air son suidhe
+                            air. Tha bascaid làn de bhiadh aca is tha iad a’ dol a ghabhail an tea
+                            air a’ chnocan ghorm. Is toigh leis <m>a’ chloinn</m> biadh a ghabhail a
+                            muigh ri latha brèagha. Thèid iad dhachaidh feasgar an uair a tha <m>a’
+                                ghrian</m> a’ dol fodha.</gd>
+                        <tr>The day was lovely and warm and their father took John and Ann in the
+                            car. They went down the side of the lake and they stopped at a beautiful
+                            green place. They put the car into the side of the road and they took a
+                            blanket out of the car for sitting on. They have a basket full of food
+                            and they are going to have their tea on the little green hill. The
+                            children like eating al fresco on a nice day. They will go home in the
+                            evening when the sun is going down.</tr>
+                        <ref text="621">td. 6–7</ref>
+                    </li>
+                <li>
+                    <gd>Chunnaic mi cù aig an dorus.</gd>
+                    <tr>I saw a dog at the door.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+</module>

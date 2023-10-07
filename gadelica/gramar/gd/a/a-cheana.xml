@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>a-cheana</h>
+    <p><b>a-cheana</b>
+        <en>already</en> is an adverb.</p>
+    <p>Biblical examples – <xl id="bible">
+            <li>
+                <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig do’n Eiphit; thàinig gach
+                    duine agus a theaghlach maille re Iacob: Reuben, Simeon, Lebhi, agus Iudah,
+                    [...] Agus na h-anman uile a thàinig a mach a leasraidh Iacoib, bu deich agus
+                    tri fichead anam iad; oir <m>bha Ioseph ’san Eiphit a cheana</m>. [...]</gd>
+                <tr>Now these are the names of the children of Israel, which came into Egypt; every
+                    man and his household came with Jacob. Reuben, Simeon, Levi, and Judah, [...]
+                    And all the souls that came out of the loins of Jacob were seventy souls: for
+                    Joseph was in Egypt already. [...] [KJV]</tr>
+                <ref text="160">Ecsodus I.1–7</ref>
+            </li>
+        </xl></p>
+</module>

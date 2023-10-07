@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h lang="en">gus</h>
+    <h lang="gd">gus</h>
+    <p lang="en"><b>gus</b>
+        <en>until, till, ...</en> is a (secondary) verb particle.</p>
+    <p lang="gd">...</p>
+    <p lang="en">cf. the preposition <a href="?gd=gu-preposition">gu</a></p>
+    <p lang="gd">...</p>
+    <p lang="en">cf. <b>gus an</b>
+        <en>until</en> – <ul>
+            <li>Tha i air fòrladh <m>gus am pòs i</m>. <en>She is on leave until she gets
+                    married.</en></li>
+        </ul>
+        <xl id="temporal_gus_an-xs">
+            <li>
+                <gd>Cha deasaich mi am biadh <m>gus an tig thu dhachaigh</m>.</gd>
+                <tr>I won’t get the meal ready until you come home.</tr>
+                <ref text="605">td. 221</ref>
+            </li>
+            <li>
+                <gd>Cosnaidh mi airgead <m>gus am bi gu leòr againn dheth</m>.</gd>
+                <tr>I’ll earn money until we’ve got enough of it.</tr>
+                <ref text="605">td. 221</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">Also: <b>gus nach</b> – <xl id="temporal_gus_nach-xs">
+            <li>
+                <gd>Cùm e <m>gus nach bi feum agad air</m>.</gd>
+                <tr>Keep it until you don’t need it.</tr>
+                <ref text="605">td. 221</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+
+
+    <module>
+        <h>fuirich gus an</h>
+        <p>cf. <a href="?gd=fuirich"><g>fuirich</g></a>
+            <vb/>
+            <en>wait</en>, <a href="?gd=an^particle"><g>an</g></a>.</p>
+        <p>Older pedagogical examples – <xl id="fuirich-older-pedag">
+                <li>
+                    <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                        Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an litir
+                        seo, Iain?” “Théid,” ars Iain, “falbhaidh mi an dràsda”. “<m>Fuirich gus an
+                            dùin mi i is gus an cuir mi seòladh oirre.</m> Ceannaich fhéin stamp
+                        agus cuir oirre i.” [...]</gd>
+                    <tr>My mother is writing a letter to my father who is away. My mother said,
+                        “Will you go to the postbox with this letter, John?” “Yes, I will,” said
+                        John, “I will leave now.” “Wait until I seal it and put an address on it.
+                        Buy a stamp and put it on it.”[...]</tr>
+                    <ref text="621">td. 5</ref>
+                </li>
+            </xl>
+        </p>
+    </module>
+
+
+    <!--
+    <h1>gus</h1>
+    <p><strong>gus</strong> is a pseudo-conjunction governing one of the interrogative verb particles <strong>an</strong> or <strong>nach</strong>, 
+        and corresponding to the English conjunctions <span class="text-muted">‘until’</span>, <span class="text-muted">‘in order that’</span>.</p>
+    <hr/>
+    <p><strong>gus (an)</strong> can be used to introduce a time adverbial expressing the end-point of a state or activity in terms of some event or action. 
+        For example –</p>
+    <p>Future:</p>
+    <ul>
+        <li class="ex" data-slip="3021"></li>
+        <li class="ex" data-slip="3025"></li>
+        <li class="ex" data-slip="3028"></li>
+        <li class="ex" data-slip="3036"></li>
+        <li class="ex" data-slip="3047"></li>
+    </ul>
+    <p>Conditional:</p>
+    <ul>
+        <li class="ex" data-slip="3022"></li>
+        <li class="ex" data-slip="3023"></li>
+        <li class="ex" data-slip="3034"></li>  
+        <li class="ex" data-slip="3038"></li>
+    </ul>
+    <p>Past:</p>
+    <ul>
+        <li class="ex" data-slip="3024"></li>
+        <li class="ex" data-slip="3026"></li>
+        <li class="ex" data-slip="3032"></li>
+        <li class="ex" data-slip="3033"></li>
+        <li class="ex" data-slip="3037"></li>
+        <li class="ex" data-slip="3041"></li>
+        <li class="ex" data-slip="3043"></li>
+        <li class="ex" data-slip="3045"></li>
+        <li class="ex" data-slip="3027"></li>
+    </ul>
+    
+    <p>See also: the temporal preposition <strong><a href="gu.php">gu</a></strong> <span class="text-muted">‘until’</span>.</p>
+    <p>chan fhada gus (an)?</p>
+    -->
+</module>

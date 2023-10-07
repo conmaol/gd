@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>⸚e</h>
+  <p><b>⸚e</b> is a slenderising suffix used to create feminine <a href="?xx=nouns/derived_common_nouns">derived
+      common nouns</a> from <a href="?xx=adjectives/adjectives">adjectives</a> – <ul>
+      <li><i>dall</i>
+        <en>blind</en> ⇒ <m>doille</m>
+        <en>blindness</en></li>
+      <li><i>uasal</i>
+        <en>noble</en> ⇒ <m>uaisle</m>
+        <en>nobility</en></li>
+    </ul>
+  </p>
+</module>

@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h lang="en">tuar</h>
+    <h lang="gd">tuar</h>
+    <p lang="en"><b>tuar</b> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>, with genitive singular form <b>tuair</b>, and plural form <b>tuaran</b>.
+        Dictionary senses are – <ul>
+            <li>[original] <en>augury, portent, presage, omen, foreboding, auspice</en> (cf.
+                    <b>tuarach</b>
+                <i>adj.</i>
+                <en>portentous</en>), derived from Old Gaelic <ax href="https://dil.ie/42204"
+                    >túar</ax>
+                <en>sign, omen, portent</en></li>
+            <li>[derived] <en>appearance, look, complexion, hue, colour, mien, tint</en>
+                <xl id="tuar-xs">
+                    <li>
+                        <gd>Cha toigh leam an <m>tuar</m> a tha ort idir.</gd>
+                        <tr>I don’t like your colour at all.</tr>
+                        <ref text="601">td. 602</ref>
+                    </li>
+                    <li>
+                        <gd>Bha <m>tuar</m> a chraicinn cho donn ris an leathar.</gd>
+                        <tr>The complexion of his skin was as brown as leather.</tr>
+                        <ref text="601">td. 602</ref>
+                    </li>
+                    <li>
+                        <gd>faileus mun <m>tuar</m></gd>
+                        <tr>a shade upon their countenance</tr>
+                        <ref text="602">td. 977</ref>
+                    </li>
+                    <li>
+                        <gd>mar <m>thuar</m> na soillse</gd>
+                        <tr>like the appearance of light</tr>
+                        <ref text="602">td. 977</ref>
+                    </li>
+                </xl></li>
+            <li>[other senses listen in Dwelly] <en>hardship, food, cast, fear, life, forerunner,
+                    house, advantage, profit, merit, desert</en>
+                <xl id="tuar-xs-2">
+                    <li>
+                        <gd>gnè sam bith <m>thuair</m></gd>
+                        <tr>any kind of hardship</tr>
+                        <ref text="602">td. 977</ref>
+                    </li>
+                    <li>
+                        <gd>ìongantas mun <m>tuar</m></gd>
+                        <tr>wonder at their fear</tr>
+                        <ref text="602">td. 977</ref>
+                    </li>
+                    <li>
+                        <gd>gun teach gun <m>tuar</m></gd>
+                        <tr>without house or life</tr>
+                        <ref text="602">td. 977</ref>
+                    </li>
+                </xl></li>
+        </ul>
+    </p>
+    <p lang="gd">...</p>
+    <module id="air_thuar">
+        <h lang="en">bi air thuar</h>
+        <h lang="gd">...</h>
+        <p lang="en">When followed by an infinitive (verbal noun), <b>bi air thuar</b>
+            <en>look (as if one is) about to / on the verge/point of ...</en> can be used to mark a
+            combination of evidentiality and <a href="?q=verbal_aspect">prospective aspect</a> – <ul>
+                <li>Bha Màiri <m>air thuar</m> gnogadh air an doras. <en>Mary looked (as if she
+                        were) about to knock on the door.</en></li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">Examples – <ul>
+                <li>intransitive verbs – <ul>
+                        <li>dictionaries – <xl id="air_thuar-xs">
+                                <li>
+                                    <gd>Bha an teine <m>air thuar a dhol</m> bàs.</gd>
+                                    <tr>The fire was about to die.</tr>
+                                    <ref text="601">td. 602</ref>
+                                </li>
+                                <li>
+                                    <gd>Bha e <m>air thuar faighneach</m> dhiubh dè bha cho eibhinn
+                                        mun chùis.</gd>
+                                    <tr>He was on the point of asking them what was so funny about
+                                        the matter.</tr>
+                                    <ref text="601">td. 603</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>corpus – <xl id="air_thuar-xs-corpus">
+                                <li>
+                                    <gd>Thug an nighean tarraing air a ghàirdean. “Leig leotha,
+                                        ghràidh. Na cuir diù sa bith annta; chan eil ann ach
+                                        gòraiche na h-aoise,” ars ise. “Gòraiche ’n donais,” ars
+                                        esan, ’se ga putadh uaithe, “tha fhios agamsa glé mhath dé
+                                        tha clann an à’rsair ris. Ach cuiridh mise stad air mun teid
+                                        e nas fhaide.” Bha e <m>air thuar éirigh</m> nuair a bhuail
+                                        a’ cheud rotach gaoithe an tigh.</gd>
+                                    <tr>The girl pulled at his arm. “Leave them, darling. Don’t pay
+                                        any heed to them; it is just the stupidity of age,” she
+                                        said. “The stupidity of evil,” he said, pushing her away, “I
+                                        know very well <ed>what the children of the devil?</ed>. But
+                                        I will put a stop to it before it goes any further.” He
+                                        (looked as if he) was <u>about to stand up</u> when the
+                                        first blast of wind hit the house.</tr>
+                                    <ref text="36">td. 18</ref>
+                                </li>
+                                <li>
+                                    <gd>An deidh bliadhnaichean san oilthaigh cha robh Daibhidh
+                                        [MacLiuthair] sàsaichte leis na fhuair e de ionnsachadh. Bu
+                                        mhath leis cosnadh is còmhradh a dheanamh cuide ri daoine de
+                                        gach seòrsa agus suidheachadh. [...] Mu dheireadh fhuair
+                                        Daibhidh smear na “dachaigh” cuide ri Rob, an seann iasgair
+                                        agus obair chunabhalach cuide ri Seoc Beag ann an Cas
+                                        Lannain, beagan a deas air Inbhir-àr. Fhuair e cuideachd
+                                        eòlas air an Diùc, aig an robh oighreachd faisg air làimh
+                                        agus air Barabal, a nighean a bha cumail taighe — na cumail
+                                        caisteil — dha h-athair. Thuit e fhéin is Barabal an trom
+                                        ghaol a dh’aindeoin ’s nach robh taobh sam bith aige ri “na
+                                        daoine móra” agus aig deireadh na sgeulachd tha iad <m>air
+                                            thuar pòsadh</m>.</gd>
+                                    <tr>After years at the university David [MacLure] was not
+                                        satisfied with what he had learned. He wanted to work and
+                                        converse with people of every kind and situation. [...]
+                                        Eventually David found a kind of “home” with Rob, the old
+                                        fisherman and a steady job with Wee Jock in Cas Lannain,
+                                        just south of Inveraray. He also got to know the Duke, who
+                                        owned an estate close by, as well as Barbara, his daughter
+                                        who kept house – or kept castle – for her faher. He and
+                                        Barbara fell deeply in love despite the fact that he had no
+                                        truck with the “gentry” and at the end of the story, it
+                                        seems as if they are <u>about to get married</u>.</tr>
+                                    <ref text="400-80">td. 377</ref>
+                                </li>
+                                <li>
+                                    <gd>Bha Donnchadh a’ tighinn gu tapaidh \ Ged bha e car lapach
+                                        ’s an àm \ Ach thuit e air dheireadh ’na ònar \ Cha chumadh
+                                        e còmh’ ris an dream \ ’S theann e ri glaodhaich dha ’n
+                                        chòmhlan — \ “A chlann an Fhir Mhóir tha sibh ann; \ ’S ann
+                                        tha sibh <m>air thuar dhol</m> ’gam fhàgail, \ Nuair thàinig
+                                        am bàs orm gu teann. \ O, nach sibh a ni ’n call, \ Ma
+                                        dh’fhàgas sibh mise ’s mi mall; \ Ma thuiteas mi ’n làmhan
+                                        nam biastan ud \ Théid mi dha ’n t-sìorruidheachd
+                                        thall.”</gd>
+                                    <tr>Duncan was coming quickly \ Though he was somewhat feeble at
+                                        the time \ But he fell behind by himself \ He didn’t keep up
+                                        with the people \ And he started to shout to the group – \
+                                        “You are the children of the Big Men; \ You <u>look as if
+                                            you are about to be going to</u> leave me \ When death
+                                        has come close to me. \ Oh, is it not you who will do the
+                                        damage \ If you leave me while I am slow; \ If I fall into
+                                        the hands of those beasts \ I will go over to
+                                        eternity.”</tr>
+                                    <ref text="47">td. 42</ref>
+                                </li>
+                                <li>
+                                    <gd>Aig an dearbh àm, chaidh dithis eile fear air gach taobh
+                                        dhìom agus rinn iad greim orm. Bha mi <m>air thuar tionndadh
+                                            is ìnnse</m> dhaibh nach b’ urrainn dhòmhsa an crodh
+                                        fhàgail an sud leotha fhéin, an uair a fhuair mi ùpag
+                                        uabhasach o fhear aca. Laigh cròg mhór ghreimeil an fhir
+                                        eile air mo ghualainn agus chaidh mo stiùireadh air
+                                        adhart.</gd>
+                                    <tr>At the same time, another pair of men went to either side of
+                                        me and took a hold of me. I was <u>about to turn and
+                                            tell</u> them that I couldn’t leave the cattle there on
+                                        their own, when I got a terrible shove from one of them. A
+                                        bog clenched paw of the other man landed on my shoulder and
+                                        I was led forward.</tr>
+                                    <ref text="400-41">td. 117</ref>
+                                    <note>‘look about to turn’ makes no sense in the first
+                                        person</note>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </li>
+                <li>transitive verbs – <ul>
+                        <li>inversion – <xl id="air_thuar-xs-trans">
+                                <li>
+                                    <gd>“Cha b’ urrainn dhomh sian a dheanamh ach suidhe air an
+                                        tobhtaidh mheadhoin is mi lag le tioma is struth o ' m
+                                        shùilean a’ gul airson a’ bhalaich bhochd a bha sud, ge bè
+                                        air bith có bu leis e . Co - dhiùbh nuair a fhuair mi
+                                        seachad a’ chiad smaointinn a chuir an sealladh brònach ud
+                                        orm chaidh mi sìos air mo shocair dha ’n deireadh agus gu
+                                        faiceallach, mar nach bithinn airson gun goirtichinn e thog
+                                        mi an ceann fliuch fuar leis an fhalt dhualach dhubh.” Stad
+                                        Fearchar ann a seo agus cha robh e <m>air thuar an còrr a
+                                            ràdha</m>.</gd>
+                                    <tr>[...] Fearchar stopped there and he didn’t <u>look [as if he
+                                            was] about to say</u> anything else.</tr>
+                                    <ref text="400-19">td. 217</ref>
+                                </li>
+                            </xl></li>
+                        <li>possessive determiners – <xl id="air_thuar-xs-trans-poss">
+                                <li>
+                                    <gd>Mu dheireadh thall chaill i a cùrsa gu buileach, ’s cha robh
+                                        fhios aice c’àite an robh i ’dol. Mar nach b’ ioghnadh, an
+                                        déigh na rinn i ’dh’astar ré an latha, bha i air fàs glé
+                                        sgìth agus airsneulach. Bha na h-uile rud a bh’ ann a’ dol
+                                        ’na h-aghaidh, agus ged a bha deagh mhisneach aice riamh bha
+                                        i nis <m>air thuar a tréigsinn</m> gu buileach.</gd>
+                                    <tr>Eventually, she completely lost her way, and she did not
+                                        know where she was going. Unsurprisingly, after the distance
+                                        she had covered during the day, she had become very tired
+                                        and weary. Everything had gone against her, and although she
+                                        had always had a lot of courage it <u>seemed to be about to
+                                            abandon</u> her completely.</tr>
+                                    <ref text="102">Vol. 6 td. 240</ref>
+                                </li>
+                                <li>
+                                    <gd>Thàinig Ludovic air adhart agus chuir Eachann am funail gu
+                                        cùramach air ais air a’ bhòrd is rug e cho sòlamaichte air
+                                        làimh air ’s gu saoileadh tu gur e am ministear a bha air
+                                        tadhal. [...] Bha deathach dhubh, ghrànda a’ tighinn a
+                                        siobhag na lampadh, <m>air thuar an tachdadh</m> le droch
+                                        fhàileadh.</gd>
+                                    <tr>Ludovic came forward and Hector put the funnel carefully
+                                        back on the table and <ed>??</ed> so solemnly that you would
+                                        think that it was the minister who was visiting. [...] Ugly
+                                        black smoke was coming from the wick of the lamp, <u>looking
+                                            [as if it were] about to suffocate</u> them with bad
+                                        smell.</tr>
+                                    <ref text="317">td. 76</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </li>
+                <li><b>bi air thuar (a bhith)</b> – <xl id="bi_air_thuar_a_bhith">
+                        <li>
+                            <gd>An ceann beagan ùine, dh’ fhàs Fear a’ Choire gu tinn. Cha robh e
+                                féin no duine eile a’ tuigsinn gu dé bha ceàrr. Thàinig lighiche an
+                                déidh lighiche g’a fhaicinn, ach a dh’aindeoin na dheanadh iad ris,
+                                bha a shlàinte a’ sìor dhol an lughad. Mu dheireadh, nuair a bha e
+                                    <m>air thuar a bhith</m> faighinn bhàis, dé a thachair gu
+                                fortanach ach gun do thuit do thé de na bana-bhuidsichean faclan a
+                                ràdh a bhrath i fhéin agus na bha ’na comunn.</gd>
+                            <tr>After a short while, <ed>the Corry Man</ed> became ill. Neither he
+                                nor anyone else understood what was wrong. Doctor after doctor came
+                                to see him, but no matter what they did to him, his health got ever
+                                worse. Eventually, when it looked as if he were about to die, what
+                                happened, fortunately, but that one of the witches happened to say
+                                words that betrayed her and those who were in her company.</tr>
+                            <ref text="400-56">td. 353</ref>
+                        </li>
+                        <li>
+                            <gd>Dh’ éirich i fhéin an uair sin agus chuir i ’n coire air ged nach
+                                robh iarraidh agam fuireach is an tì òl. Ach b’ éiginn sin a
+                                dhèanamh agus éisdeachd ri móran eile o Dhonnchadh. B’ ann mu fhear
+                                Cleveland, an Ameireaga, a bha e bruidhinn; fear a thànaig á
+                                dachaidh glé bhochd ach a bha nis <m>air thuar a bhith</m>
+                                Phrìomhaire air na Stàitean Aonaichte.</gd>
+                            <tr>She got up herself then and put the kettle on even though I didn’t
+                                want to stay and drink the tea. But it was necessary to do that and
+                                to listen to much else from Duncan. It was about a Cleveland man, in
+                                America, that he was talking; a man who came from a very poor home
+                                but who now <u>looked [as if he were] about to be</u> President of
+                                the United States.</tr>
+                            <ref text="400-43">td. 320</ref>
+                        </li>
+                    <li>
+                        <gd>Cha b’ urrain do’n aireamh mhor shluaigh a chruinnich a dh’fhaicinn a’
+                            chrochaidh gun a bhith ri caoidh ’s ri sileadh dheur an uair a chunnaic iad
+                            an sealladh bronach so; oir bha ’n t-ard-chomhairleach agus na daoine eile a
+                            bha gu bhith air an crochadh maille ris fo mhiadh agus fo mhor meas aig an
+                            t-sluagh gu leir air son cho ceart, cho fialaidh, agus cho neo-eismeileach
+                            ’s a bha iad, cha b’ ann a mhain ri sluagh Bhagdad, ach mar an ceudna ri
+                            sluagh na rioghachd gu leir. Cha robh ni sam bith a chumadh an righ air ais
+                            o chur an orduigh a thug e seachad an gniomh; agus bha beatha nan daoine cho
+                            measail ’s cho urramach ’s a bh’ anns a bhaile <m>air thuar a bhith</m> air a
+                            toirt air falbh.</gd>
+                        <tr>The large number of people who gathered to see the hanging couldn’t
+                            <ed>??</ed> without being lamenting and flowing tears when they saw this
+                            sad sight; because the high councillor and the other men who looked as if
+                            they were about to be hanged along with him were esteemed and highly
+                            regarded by all the people for how fair, how generous, and how independent
+                            they were, not just the people of Bagdad, but likewise the people of the
+                            whole kingdom. There was nothing holding the king back from sending out the
+                            order that he <ed>passed the action</ed>; and the life of men who were so
+                            esteemed and so trusted as any in the city <u>looked [as if it was] about to be</u>
+                            taken away.</tr>
+                        <ref text="232">Vol. 3 td. 49</ref>
+                    </li>
+                    </xl>
+                </li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">However, <b>air thuar (a bhith)</b>
+            <en>having the appearance of (being), seeming</en> seems to perhaps lack a prospective
+            reading – <xl id="air_thuar_a_bhith">
+
+
+                
+
+
+                <li>
+                    <gd>Cha bhiodh do bhas cho fadalach ’s cho uamhasach ’s a tha e nis <m>air thuar
+                            a bhith</m>.</gd>
+                    <tr>Your death will not be as slow and horrible as it now seems it will be.</tr>
+                    <ref text="232-3">td. ??</ref>
+                </li>
+                <li>
+                    <gd>Ged a bha i <m>air thuar a bhith air a cuartachadh</m> le gainmhich an
+                        fhàsaich ann an dòigh no dhà bha cinnt aice gun robh Neach ann a dhèanadh
+                        faire thairis oirre.</gd>
+                    <tr>Although she was about / appeared to be surrounded by the desert sand in a
+                        way or two </tr>
+                    <ref text="305">td. ??</ref>
+                </li>
+                <li>
+                    <gd>’S beag an t-iongnadh ged ’se an ‘Dying Island’ bh’ aca air sna pàipearan
+                        naidheachd. Cha robh <m>air thuar bhith air fhàgail</m> ann ach seann daoine
+                        is beagan chloinne. Cha robh taic aca bho ghàirdean neartmhor nan
+                        òganach.</gd>
+                    <tr>It seemed that only old people and some children had remained there.</tr>
+                    <ref text="400-113">td. ??</ref>
+                </li>
+                <li>
+                    <gd>Ah, uill, nam biodh an fhoghluim a fhuair e agamsa, chan fhuirichinn-sa fada
+                        ’san àite-sa. Chan eil fhios am dé tha ’gan cumail ’s gun duine cloinneadh
+                        air thuar a bhith aca.</gd>
+                    <tr>Oh well, if I had the education that he got, I would not stay long in this
+                        place. I do not know what is keeping them and it does not seem they will
+                        have any children.</tr>
+                    <ref text="44">td. ??</ref>
+                </li>
+                <li>
+                    <gd>Bha ’n seo am feasgar a’ tighinn, ’s bha sinn <m>air thuar a bhith deiseil
+                            dhi</m> ann an deagh-amm; bha seachd cairtean a’ tarraing uice.</gd>
+                    <tr>we were about to be ready with it.</tr>
+                    <ref text="46">td. ??</ref>
+                </li>
+                <li>
+                    <gd>Thràigh iad fuaran nam buadh, dh’fhàg iad sluagh ann an càs, Tha ceàrnachan
+                        tuath ’s iad <m>air thuar a bhith fàs</m>; Tha na fàrdraichean fuar a bha
+                        uaireigin blàth, ’S chan eil àbhachd aig cluais mur eil fuaim a’
+                        mhuir-làin.</gd>
+                    <tr>and they are about / appear to be deserted</tr>
+                    <ref text="47">td. ??</ref>
+                </li>
+                <li>
+                    <gd>Ach thàinig an seo an gobha a mach o a dhìnneir, agus ghabh an cuilein
+                        leóghainn ige, agus rug e air ’na bhial air aodach, agus bhuail e stràc ris
+                        an innein, agus nuair a dh’éirich e, rug an cuilein leóghainn air agus
+                        bhuail e go taobh thall na ceàrdaich e, agus chaidh an éibh a mach go bean
+                        Mhànuis gu robh an gobha <m>air thuar a bhith air a mharbhadh</m> aig a’
+                        chuilein leóghainn.</gd>
+                    <tr>that, apparently, the blacksmith was going to be killed by the lion cub</tr>
+                    <ref text="51">td. ??</ref>
+                </li>
+                <li>
+                    <gd>Cha robh cabhag sam bith air fear seach fear dhiubh gu falbh o ’n bhòrd, oir
+                        bha iad <m>air thuar a bhith ’nan dlùth cháirdean</m>, eadar a h-uile
+                        comhradh a bh eatorra.</gd>
+                    <tr>they appeared to be close friends?</tr>
+                    <ref text="81-3">td. ??</ref>
+                </li>
+                <li>
+                    <gd>Dh’aontaich ard-chomhairle na rioghachd gu ’n deanteadh mar a bha ’n righ a’
+                        runachadh. An uair a chuala sluagh na rioghachd mar a bha cuisean air thuar
+                        a bhith, bha iad gu leir anabarrach toilichte; oir thuig iad gu math gu ’m
+                        biodh Beder ’na righ cho cothromach ’s a bha riamh a’ riaghladh anns an
+                        rioghachd.</gd>
+                    <tr>as, apparently, things were about to be</tr>
+                    <ref text="81-9">td. ??</ref>
+                </li>
+                <li>
+                    <gd>Bha aca ri pailt ochd mile a dheanamh mu ’n ruigeadh iad taigh an doctair
+                        far an robh Fear a’ bhaile gus an oidhche ’chur seachad. Bha ’n oidhche air
+                        thuar a bhith gu math soilleir, oir bha àirde gealaich ann.</gd>
+                    <tr>It seemed that the night would be clear/bright?</tr>
+                    <ref text="81-12"/>
+                </li>
+                <li>
+                    <gd>Bha a’ chùis seo <m>air thuar a bhith</m> cho annasach rithe.</gd>
+                    <tr>Thus case appeared to be as unusual as it.</tr>
+                    <ref text="601">td. 602</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">cf. Other markers of prospective aspect – <a href="?gd=gu-prospective"
+                >gu(s)</a>, <a href="?gd=impis">an impis</a>, <a href="?gd=beul">air bheul</a>, <a
+                href="?gd=lunn">air lunn</a>.</p>
+        <p lang="gd">...</p>
+    </module>
+
+    <module id="thuar_air">
+        <h lang="en">bi a thuair air</h>
+        <h lang="gd">...</h>
+        <p lang="en"><b>bi a t[h]uar air ...</b>
+            <en>look (as if one is) about to / on the verge/point of ...</en> can be used to mark a
+            mixture of evidentiality and <a href="?q=verbal_aspect">prospective aspect</a>, though
+            mainly in older texts – <ul>
+                <li>Bha <m>a t[h]uar air</m> Màiri gnogadh air an doras. <en>Mary looked (as if she
+                        were) about to knock on the door.</en></li>
+            </ul>
+            <xl id="a_thuar_air">
+                <li>
+                    <gd>Bha <m>a thuar air</m> a' bhreitheamh mo leigeil mu sgaoil.</gd>
+                    <tr>The judge appeared likely to let me go.</tr>
+                    <ref text="602">td. 978</ref>
+                </li>
+                <li>
+                    <gd>Tràth bhios <m>tuar</m> a' dol ás <m>air</m> na gobhair, cha bheir iad ach
+                        buic.</gd>
+                    <tr>When the goats are about to become extinct (senseless), they only bring
+                        forth bucks.</tr>
+                    <ref text="602">td. 977–8</ref>
+                </li>
+                <li>
+                    <gd>Chan eil <m>tuar air</m> an t-iasgach tighinn na b' fheàrr.</gd>
+                    <tr>There is no appearance of the fishing improving.</tr>
+                    <ref text="602">td. 977</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+
+</module>

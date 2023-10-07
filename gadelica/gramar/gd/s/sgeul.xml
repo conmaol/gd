@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>sgeul</h>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>subject</h>
+
+            <module status="bronze" id="bi_sgeul_aig">
+                <h>bi sgeul aig ... air ...</h>
+                <p>cf. <a href="?gd=aig"><g>aig</g></a>
+                    <en>at</en>.</p>
+                <p>Some examples – <ul>
+                        <li>pedagogical examples – <xl id="bi_sgeul_aig-pedag">
+                                <li>
+                                    <gd>Bhruidhinn am poileas ris a’ mhanaidsear ach ged a
+                                        dh’aithnich esan na meàirlich, chan eil <m>sgeul</m> aca
+                                        orra.</gd>
+                                    <tr>The police spoke to the manager but although he recognised
+                                        the thieves, they don’t have a sign of them.</tr>
+                                    <ref text="609">td. 83</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </module>
+        </section>
+    </section>
+
+</module>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <title lang="en">dusan</title>
+    <title lang="gd">dusan</title>
+    <p lang="en"><ed>under construction</ed></p>
+    <p lang="en"><strong>dusan</strong>
+        <en>dozen</en> is a (masculine) <a href="?xx=nouns/numeric_nouns">numeric noun</a>.</p>
+</module>
+

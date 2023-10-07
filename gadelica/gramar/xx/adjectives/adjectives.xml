@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>adjectives</h>
+  <p>Adjectives are words which typically describe attributes and properties of <a
+      href="?xx=nouns/nouns">nouns</a> – <m>mòr</m>
+    <en>big, large</en>, <m>gorm</m>
+    <en>blue, green</en>, <m>sgìth</m>
+    <en>tired</en>, <m>sona</m>
+    <en>lucky</en>, <m>briste</m>
+    <en>broken</en>, <m>bochd</m>
+    <en>poor</en>.</p>
+  
+  <!--
+  <p>Pedagogical examples – <xl id="pedag">
+      <li>
+        <gd>duine <m>maith</m> | nighean <m>ghasda</m> | feasgar <m>breagh</m> | oidhche
+            <m>dhorch</m></gd>
+        <tr>a good man | a handsome girl | a fine evening | a dark night</tr>
+        <ref text="612">td. 54</ref>
+      </li>
+      <li>
+        <gd>airgead <m>ruadh</m> | ann an ùine <m>ghoirid</m> | tha iad <m>ciallach</m></gd>
+        <ref text="607">td. 135</ref>
+      </li>
+    </xl>
+  </p>
+  -->
+
+  <section id="derivation">
+    <h>derivation</h>
+    <p>Adjectives can be divided into three groups, depending on how they are formed – <ul>
+        <li><!--<a href="?xx=adjectives/derived_adjectives">-->Derived adjectives<!--</a>--> are formed from other
+          adjectives, nouns or verbs – <g>ciall</g>
+          <fem/>
+          <en>sense</en> ⇒ <m>ciallach</m>
+          <adj/>
+          <en>sensible</en>, <g>ceòl</g>
+          <masc/> ⇒ <m>ceòlmhor</m>
+          <adj/>
+          <en>melodious</en>, <g>bris</g>
+          <vb/>
+          <en>break</en> ⇒ <m>briste</m>
+          <adj/>
+          <en>broken</en>.</li>
+        <li><!--<a href="?xx=adjectives/compound_adjectives">-->Compound adjectives<!--</a>--> are formed from
+          other adjectives, typically by addition of a <emph>prefix</emph> – <g>cneasta</g>
+          <adj/>
+          <en>decent, modest</en> ⇒ <m>mì-chneasta</m>
+          <adj/>
+          <en>uncharitable</en>.</li>
+        <li><!--<a href="?xx=adjectives/simple_adjectives">-->Simple adjectives<!--</a>--> are not formed out of
+          other words – <m>mòr</m>
+          <en>big</en>, <m>geal</m>
+          <en>white</en>, <m>sona</m>
+          <en>lucky</en>.</li>
+      </ul>
+    </p>
+  </section>
+
+  <section id="forms">
+    <h>forms</h>
+    <p>When an adjective functions as a modifier of a <a href="?xx=nouns/nouns">noun</a>, it agrees
+      with the noun in gender, number and case. In other words, attributive adjectives are
+        <emph>declined</emph> for gender (feminine or masculine), number (singular or plural, with a
+      hint of legacy dual marking), and case (nominative, dative or genitive).</p>
+    <p>There are two independent aspects involved in the declension of attributive adjectives – <ul>
+        <li><emph>lenition</emph> – Like other modifiers of <a href="?xx=nouns/nouns">nouns</a>,
+          attributive adjectives are lenited or not depending on the gender, number and case of the
+          noun (along with some other contextual factors involving the pre-context of the
+          nouns).</li>
+        <li><emph>slenderisation/augmentation</emph> – Attributive adjectives are slenderised and/or
+          augmented depending on the gender, number and case of the noun.</li>
+      </ul>
+    </p>
+    <section>
+      <h>masculine</h>
+      <section id="masc-nom">
+        <h>nominative</h>
+        <p>Attributive adjectives which modify a masculine (singular) nominative noun are
+            <emph>unmutated</emph> at both beginning and end – <ul>
+            <li>(am) <g>balach <emph>beag</emph></g>
+              <en>(the) little boy</en></li>
+            <li>(an) <g>taigh <emph>mòr</emph></g>
+              <en>(the) big house</en></li>
+            <li>(an) <g>cuilean <emph>Gearmailteach</emph></g>
+              <en>(the) German puppy</en></li>
+          </ul></p>
+        <p>Some examples – <ul id="masc-nom-xs">
+            <li>pedagogical examples – <xl id="masc-nom-pedag">
+                <li>
+                  <gd>Fhuair sinn <m>cat dubh</m>. | Chuala mi <m>òran gòrach</m>. | Bha <m>sruth
+                      beag</m> air cùl an taighe. | Chunnaic mi <m>an cat dubh</m>. | Is toigh leam
+                      <m>an t-òran gòrach</m> seo. | Seo <m>an sruth beag</m> a’ bha sinn a
+                    lorg.</gd>
+                  <ref text="608">td. 47</ref>
+                </li>
+                <li>
+                  <gd>(am) fear mòr | bàta beag snog geal</gd>
+                  <tr>[a/the big man] | a small nice white boat</tr>
+                  <ref text="613">td. 211, 220</ref>
+                </li>
+                <li>
+                  <gd>(am) balach mòr | (am) balach còir | (am) balach carach | (am) balach
+                    bòidheach</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples – <xl id="masc-nom-older-pedag">
+                <li>
+                  <gd>gille sona | gille bochd | gille bàn | gille glic | (an) Gall sona | Gall bàn
+                    | Gall glic | (an) gille mór</gd>
+                  <tr>a lucky lad | a poor lad | a pale lad | a wise lad | a/the lucky Lowlander | a
+                    pale Lowlander | a wise Lowlander | a/the great lad</tr>
+                  <ref text="612">td. 55–60</ref>
+                </li>
+                <li>
+                  <gd>fear beag | gille dubh | (an) duine maith | (am) breac mòr</gd>
+                  <tr>a small man | a black(-haired) boy | a/the good man | a/the big trout</tr>
+                  <ref text="614">td. 109–10</ref>
+                </li>
+                <li>
+                  <gd>Càit an d’ fhuair thu <m>am fraoch geal</m>? | Tha <m>seòl mòr geal</m> air a’
+                    bhàta. | Tha <m>bian brèagha glan</m> air a’ chat. | Tha <m>còta brèagha
+                      dearg</m> oirre agus ad ghlas. | Fuirich gus am faic thu na sradagan a’ leum
+                    an uair a bhuaileas e <m>an t-iarann dearg</m>.</gd>
+                  <ref text="620">td. 20, 23, 54, 59, 75</ref>
+                </li>
+              </xl>
+            </li>
+          </ul></p>
+        <p>However, when the noun is pre-numerated by <!--<a href="?gd=dà">--><g>dà</g>
+          <en>two</en>, attributive adjectives are <emph>lenited</emph> (‘jumping lenition’) – <ul>
+            <li>(an) <g>dà thaigh <emph>mhòr</emph></g>
+              <en>(the) two big houses</en></li>
+            <li>(an) <g>dà chuilean <emph>Ghearmailteach</emph></g>
+              <en>(the) two German puppies</en></li>
+          </ul></p>
+        <p>Some examples with <g>dà</g> (dual number) – <ul id="masc-nom-da-xs">
+            <li>pedagogical examples – <xl id="masc-nom-da-pedag">
+                <li>
+                  <gd>dà chù mhór</gd>
+                  <tr>two big dogs</tr>
+                  <ref text="617">td. 159</ref>
+                </li>
+                <li>
+                  <gd>(an) dà chat mhòr</gd>
+                  <tr>(the) two big cats</tr>
+                  <ref text="619">td. 179</ref>
+                </li>
+                <li>
+                  <gd>dà chat mhòr</gd>
+                  <tr>two big cats</tr>
+                  <ref text="601">td. 207</ref>
+                </li>
+                <li>
+                  <gd>(an) dà bhalach mhòr | (an) dà bhalach chòir | (an) dà bhalach charach | (an)
+                    dà bhalach bhòidheach</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples – <xl id="masc-nom-da-older-pedag">
+                <li>
+                  <gd>dà bhradan mhòr</gd>
+                  <tr>two big salmon</tr>
+                  <ref text="616">td. 94</ref>
+                  <note>CHECK THIS REF</note>
+                </li>
+                <li>
+                  <gd>dà bhonnach bheag | agus dà chù dhubh aige | an dà chù dhubh so | dà iasg
+                    bheag </gd>
+                  <tr>two small cakes (Forbes 297) | and two black dogs with him (Arab. I. 17) |
+                    those two black dogs (Arab. I. 24, 25) | two little fishes (John vi. 9)</tr>
+                  <ref text="614">td. 122</ref>
+                </li>
+                <li>
+                  <gd>dà uan bheag</gd>
+                  <tr>two little lambs</tr>
+                  <ref text="618">td. 45</ref>
+                  <note>CHECK THIS REF</note>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <!--<p><ed>Does this section on mascline nominative all sound reasonable?</ed></p>
+        <p><ed>Can monosyllabic adjectives be (vocalically) augmented in poetic usage in dual
+            masculine nominative? <g>dà bhradan mhòra</g>
+            <etc/> cf. Gillies (1993: 179) – <g>(an) dà chat m(h)ór / m(h)óra</g> seems to suggest
+            lenition is optional. cf. Calder (1923:122) – <g>dà iasg bheaga</g> (John vi. 9, 1807
+            edition; Forbes 2 ed. 199)</ed></p>-->
+      </section>
+      <section id="masc-dat">
+        <h>dative</h>
+        <p>As with the nominative, attributive adjectives which modify a masculine (singular) dative
+          noun are generally <emph>unmutated</emph> at both beginning and end – <ul>
+            <li>le <g>balach <emph>beag</emph></g>
+              <en>with a little boy</en></li>
+            <li>ann an <g>taigh <emph>mòr</emph></g>
+              <en>in a big house</en></li>
+            <li>air <g>cuilean <emph>Gearmailteach</emph></g>
+              <en>on a German puppy</en></li>
+          </ul></p>
+        <p>Some examples – <ul id="masc-dat-xs">
+            <li>pedagogical examples – <xl id="masc-dat-pedag">
+                <li>
+                  <gd>le balach beag</gd>
+                  <tr>with a little boy</tr>
+                  <ref text="619">td. 179</ref>
+                </li>
+                <li>
+                  <gd>’S e manadh a tha <m>ann an cat dubh</m>. | Dh’èist sinn <m>ri òran
+                    gòrach</m>. | Fhuair i an fhàinne <m>ann an sruth beag</m>.</gd>
+                  <ref text="608">td. 47</ref>
+                </li>
+                <li>
+                  <gd>le fear mòr</gd>
+                  <ref text="613">td. 211</ref>
+                </li>
+                <li>
+                  <gd>[le] balach mòr | [le] balach còir | [le] balach carach | [le] balach
+                    bòidheach | Bha e <m>na bhalach beag</m> aig an àm.</gd>
+                  <ref text="607">td. 137–143</ref>
+                </li>
+              </xl></li>
+            <li>older pedagogical examples – <xl id="masc-dat-older-pedag">
+                <li>
+                  <gd>aig gille sona | aig gille bochd | aig gille bàn | gu gille glic | gu Gall
+                    sona | gu Gall bàn | gu Gall glic | aig gille mór</gd>
+                  <tr>at a lucky lad | at a poor lad | at a pale lad | to a wise lad | to a lucky
+                    Lowlander | to a pale Lowlander | to a wise Lowlander | at a great lad</tr>
+                  <ref text="612">td. 55–60</ref>
+                </li>
+                <li>
+                  <gd>aig fear beag | aig gille dubh | aig duine maith | aig breac mòr</gd>
+                  <tr>at a small man | at a black(-haired) boy | at a good man | at a big trout</tr>
+                  <ref text="614">td. 109–10</ref>
+                </li>
+                <li>
+                  <gd>Rug an gille beag <m>air iasg mór</m>. | Chì mi trì bàtaichean anns a’ bhàgh.
+                    Tha aon bhàta a’ seòladh <m>le seòl geal</m>. | Bha faochagan is bàirnich is
+                    feusgain aig Seònaid <m>ann an cuman beag</m>. | Tha an gobha <m>’na dhuine
+                      làidir</m>.</gd>
+                  <ref text="620">td. 23, 63, 69, 74</ref>
+                </li>
+              </xl></li>
+          </ul>
+        </p>
+        <p>However, again as in the nominative, when the noun is pre-numerated by <!--<a href="?gd=dà"
+              >--><g>dà</g><!--</a>-->
+          <en>two</en>, attributive adjectives undergo ‘jumping’ lenition – <ul>
+            <li>ann an <g>dà thaigh <emph>mhòr</emph></g>
+              <en>in two big houses</en></li>
+            <li>air <g>dà chuilean <emph>Ghearmailteach</emph></g>
+              <en>on two German puppies</en></li>
+          </ul>
+        </p>
+        <p>Some examples with <g>dà</g> (dual number) – <ul id="masc-dat-da-xs">
+            <li>pedagogical examples – <xl id="masc-dat-da-pedag">
+                <li>
+                  <gd>le dà chù mhór</gd>
+                  <tr>with two big dogs</tr>
+                  <ref text="617">td. 159</ref>
+                </li>
+                <li>
+                  <gd>le dà chat mhòr</gd>
+                  <tr>by two big cats</tr>
+                  <ref text="601">td. 706</ref>
+                </li>
+                <li>
+                  <gd>[le] dà bhalach mhòr | [le] dà bhalach chòir | [le] dà bhalach charach | [le]
+                    dà bhalach bhòidheach</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples – <xl id="masc-dat-da-older-pedag">
+                <li>
+                  <gd>air dà phunnd Shasunnach</gd>
+                  <tr>for two pounds sterling (Forbes 297)</tr>
+                  <ref text="614">td. 122</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <p>In addition, when the noun is specified by the (leniting) definite article, attributive
+          adjectives also undergo jumping lenition – <ul>
+            <li>leis a’ <g>bhalach <emph>bheag</emph></g>
+              <en>with the little boy</en></li>
+            <li>anns an <g>taigh <emph>mhòr</emph></g>
+              <en>in the big house</en></li>
+            <li>air a’ <g>chuilean <emph>Ghearmailteach</emph></g>
+              <en>on the German puppy</en></li>
+          </ul>
+        </p>
+        <p>Some examples with the definite article – <ul id="masc-dat-art-xs">
+            <li>pedagogical examples – <xl id="masc-dat-def-pedag">
+                <li>
+                  <gd>leis a’ bhalach bheag</gd>
+                  <tr>with the little boy</tr>
+                  <ref text="619">td. 179</ref>
+                </li>
+                <li>
+                  <gd>Cha robh sgeul <m>air a’ chat dhubh</m>. | Èist <m>ris an òran ghòrach</m>
+                    seo! | Bha èisg òir <m>anns an t-sruth bheag</m>.</gd>
+                  <ref text="608">td. 47</ref>
+                </li>
+                <li>
+                  <gd>leis an fhear mhòr</gd>
+                  <ref text="613">td. 211</ref>
+                </li>
+                <li>
+                  <gd>[leis] a’ bhalach mhòr | [leis] a’ bhalach chòir | [leis] a’ bhalach charach |
+                    [leis] a’ bhalach bhòidheach | [leis] an dà bhalach mhòr | [leis] an dà bhalach
+                    chòir | [leis] an dà bhalach charach | [leis] an dà bhalach bhòidheach</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl></li>
+            <li>older pedagogical examples – <xl id="masc-dat-def-older-pedag">
+                <li>
+                  <gd>aig a’ ghille mhór | aig a’ Ghall Shona</gd>
+                  <tr>at the great lad | at the lucky Lowlander</tr>
+                  <ref text="612">td. 60</ref>
+                </li>
+                <li>
+                  <gd>aig an duine mhaith | aig a’ bhreac mhòr</gd>
+                  <tr>at the good man | at the big trout</tr>
+                  <ref text="614">td. 109–10</ref>
+                </li>
+              </xl></li>
+            <li>pedagogical examples with <g>an dà</g> – <xl id="masc-dat-an-da-pedag">
+                <li>
+                  <gd>[leis] an dà bhalach mhòr | [leis] an dà bhalach chòir | [leis] an dà bhalach
+                    charach | [leis] an dà bhalach bhòidheach</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <!--<p><ed>Does this section on mascline dative all sound reasonable?</ed></p>
+        <p><ed>Can monosyllabic adjectives be (vocalically) augmented in poetic usage in dual
+            masculine dative? <g>le dà bhradan mhòra</g>
+            <etc/></ed></p>-->
+      </section>
+      <section id="masc-gen">
+        <h>genitive</h>
+        <p>Attributive adjectives which modify a masculine (singular) genitive noun are generally
+          both <emph>lenited</emph> and <emph>slenderised</emph> – <ul>
+            <li>falt <g>balaich <emph>bhig</emph></g> / falt a’ <g>bhalaich <emph>bhig</emph></g>
+              <en>a/the little boy’s hair</en></li>
+            <li>doras <g>taighe <emph>mhòir</emph></g> / doras an <g>taighe <emph>mhòir</emph></g>
+              <en>a/the big house’s door</en></li>
+            <li>earball <g>cuilein <emph>Ghearmailtich</emph></g> / earball a’ <g>chuilein
+                  <emph>Ghearmailtich</emph></g>
+              <en>a/the German puppy’s tail</en></li>
+          </ul></p>
+        <p>Some examples – <ul id="masc-gen-xs">
+            <li>pedagogical examples – <xl id="masc-gen-pedag">
+                <li>
+                  <gd>taigh fir mhòir</gd>
+                  <ref text="613">td. 211</ref>
+                </li>
+                <li>
+                  <gd>[ceann] balaich mhòir | [ceann] balaich chòir | [ceann] balaich charaich |
+                    [ceann] balaich bhòidhich</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl></li>
+            <li>older pedagogical examples – <xl id="masc-gen-older-pedag">
+                <li>
+                  <gd>ceann gille shona | ceann gille bhochd | ceann gille bhàin | ceann gille ghlic
+                    | ceann Goill shona | ceann Goill bhàin | ceann Goill ghlic | ceann gille
+                    mhóir</gd>
+                  <tr>a lucky lad’s head | a poor lad’s head | a pale lad’s head | a wise lad’s head
+                    | a lucky Lowlander’s head | a pale Lowlander’s head | a wise Lowlander’s head |
+                    a great lad’s head</tr>
+                  <ref text="612">td. 55–60</ref>
+                </li>
+                <li>
+                  <gd>neart fir bhig | neart gille dhuibh | neart duine mhaith | neart bric
+                    mhòir</gd>
+                  <tr>a small man’s strength | a black(-haired) boy’s strength | a good man’s
+                    strength | a big trout’s strength</tr>
+                  <ref text="614">td. 109–10</ref>
+                </li>
+              </xl></li>
+            <li>pedagogical examples with the definite article – <xl id="masc-gen-art-pedag">
+                <li>
+                  <gd>Rug e air <m>spòg a’ chait dhuibh</m>. | Cò tha <m>gabhail an òrain
+                      ghòraich</m>? | Shuidh i air <m>bruach an t-sruith bhig</m>.</gd>
+                  <ref text="608">td. 47</ref>
+                </li>
+                <li>
+                  <gd>taigh an fhir mhòir</gd>
+                  <ref text="613">td. 211</ref>
+                </li>
+                <li>
+                  <gd>[ceann] a’ bhalaich mhòir | [ceann] a’ bhalaich chòir | [ceann] a’ bhalaich
+                    charaich | [ceann] a’ bhalaich bhòidhich</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples with the definite article – <xl
+                id="masc-gen-art-older-pedag">
+                <li>
+                  <gd>ceann a’ ghille mhóir | ceann a’ Ghoill shona</gd>
+                  <tr>the great lad’s head | the lucky Lowlander’s head</tr>
+                  <ref text="612">td. 60</ref>
+                </li>
+                <li>
+                  <gd>neart an duine mhaith | neart a’ bhric mhòir</gd>
+                  <tr>the good man’s strength | the big trout’s strength</tr>
+                  <ref text="614">td. 109–10</ref>
+                </li>
+              </xl>
+            </li>
+            <li>pedagogical examples with <!--<a href="?gd=dà">--><g>dà</g><!--</a>--> (dual number) – <xl
+                id="masc-gen-da-pedag">
+                <li>
+                  <gd>[cinn] an dà choin mhóir</gd>
+                  <tr>[heads] of the two big dogs</tr>
+                  <ref text="617">td. 159</ref>
+                </li>
+                <li>
+                  <gd>earbaill an dà chait mhòir</gd>
+                  <tr>the tails of the two big cats</tr>
+                  <ref text="601">td. 706</ref>
+                </li>
+                <li>
+                  <gd>[cinn] (an) dà bhalaich mhòir | [cinn] (an) dà bhalaich chòir | [cinn] (an) dà
+                    bhalaich charaich | [cinn] (an) dà bhalaich bhòidhich</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples with <g>dà</g> – <xl id="masc-gen-da-older-pedag">
+                <li>
+                  <gd>A’ slugadh suas <m>an dà uile-bheist mhi-nàdurra</m> so</gd>
+                  <tr>Swallowing up those two unnatural monsters (Arab. I. 73)</tr>
+                  <ref text="614">td. 122</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <p>However, these mutational rules are often relaxed, particularly in conversational Gaelic,
+          and particularly when there is no definite article specifier.</p>
+        <p>Examples involving ‘relaxed’ mutations – <ul id="masc-gen-rlx-xs">
+            <li>pedagogical examples – <xl id="masc-gen-nontrad-pedag">
+                <li>
+                  <gd>Chuir i <m>earball cat dubh</m> sa phoit. | Thoir dhomh <m>ainm òran
+                      gòrach</m>! | Chuala sinn <m>glugail sruth beag</m> faisg. | seacaid balach
+                    beag</gd>
+                  <ref text="608">td. 47–8</ref>
+                </li>
+                <li>
+                  <gd>taigh fear mòr | taigh an fhear mhò(i)r</gd>
+                  <ref text="613">td. 211</ref>
+                </li>
+              </xl></li>
+            <li>older pedagogical examples – <xl id="masc-gen-nontrad-older-pedag">
+                <li>
+                  <gd>Tha pathadh orm. Òl <m>deoch uisge fuar</m>.</gd>
+                  <ref text="620">td. 33</ref>
+                </li>
+              </xl></li>
+          </ul>
+        </p>
+        <!--<p><ed>Does this section on masculine genitive all sound reasonable? In particular the
+            remarks on relaxed mutation?</ed></p>
+        <p><ed>Can monosyllabic adjectives be (vocalically) augmented in poetic usage in dual
+            masculine genitive? <g>cinn (an) dà bhradan mhòra</g>
+            <etc/></ed></p>-->
+      </section>
+    </section>
+    <section>
+      <h>feminine</h>
+      <section id="fem-nom">
+        <h>nominative</h>
+        <p>Attributive adjectives which modify a feminine (singular) nominative noun are
+            <emph>lenited</emph> (but unmutated at the end) – <ul>
+            <li><g>caileag <emph>bheag</emph></g> / a’ <g>chaileag <emph>bheag</emph></g>
+              <en>a/the little girl</en></li>
+            <li><g>eaglais <emph>mhòr</emph></g> / an <g>eaglais <emph>mhòr</emph></g>
+              <en>a/the big church</en></li>
+            <li><g>cearc <emph>Fhrangach</emph></g> / a’ <g>chearc <emph>Fhrangach</emph></g>
+              <en>a/the French hen</en></li>
+          </ul></p>
+        <p>Some examples – <ul id="fem-nom-xs">
+            <li>pedagogical examples – <xl id="fem-nom-pedag">
+                <li>
+                  <gd>Tha <m>cas cham</m> air a’ bhòrd seo. | Bhris iad <m>uinneag mhòr</m>. | Tha
+                      <m>slige dhearg</m> air an ugh sin.</gd>
+                  <ref text="608">td. 47</ref>
+                </li>
+                <li>
+                  <gd>caileag mhòr</gd>
+                  <ref text="613">td. 212</ref>
+                </li>
+                <li>
+                  <gd>caileag mhòr | caileag chòir | caileag charach | caileag bhòidheach</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl></li>
+            <li>older pedagogical examples – <xl id="fem-nom-older-pedag">
+                <li>
+                  <gd>caile shona | caile bhochd | caile bhàn | caile ghlic</gd>
+                  <tr>a lucky girl | a poor girl | a pale girl | a wise girl</tr>
+                  <ref text="612">td. 55–9</ref>
+                </li>
+                <li>
+                  <gd>caileag bheag | caile mhìn</gd>
+                  <tr>a small girl | a delicate girl</tr>
+                  <ref text="614">td. 109–10</ref>
+                </li>
+                <li>
+                  <gd>Tha <m>an nighean bheag</m> a’ dol do’n bhaile còmhla ri a màthair. | Rinn na
+                    gillean bodach sneachda anns a’ phàirc. Chuir iad <m>ad dhubh</m> air a cheann
+                    agus pìob ’na beul. | Tha [an nighean] a’ dèanamh deiseil bòrd na suipeir. Chuir
+                    i <m>tubhailt bhrèagha gheal</m> air agus an sin chuir i air sgeanan is
+                    spàinean. | Tha Iain agus Seònaid a’ cluich air an tràigh. Ghlac Iain <m>crùbag
+                      bheag</m>, ach bha eagal air Seònaid gum beireadh a’ chrùbag oirre. | Tha
+                      <m>gainmheach ghrinn gheal</m> shìos an cois na mara.</gd>
+                  <ref text="620">td. 59, 62–3, 65–6, 68, 73</ref>
+                </li>
+              </xl></li>
+            <li>pedagogical examples with the definite article – <xl id="fem-nom-art-pedag">
+                <li>
+                  <gd>An gabh <m>a’ chas cham</m> a càradh? | Fosgail <m>an uinneag mhòr</m>! | Na
+                    bris <m>an t-slige dhearg</m>!</gd>
+                  <ref text="608">td. 47</ref>
+                </li>
+                <li>
+                  <gd>a’ chaileag mhòr</gd>
+                  <ref text="613">td. 212</ref>
+                </li>
+                <li>
+                  <gd>a’ chaileag mhòr | a’ chaileag chòir | a’ chaileag charach | a’ chaileag
+                    bhòidheach</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl></li>
+            <li>pedagogical examples with <!--<a href="?gd=dà">--><g>dà</g><!--</a>-->
+              <en>two</en> (dual number) – <xl id="fem-nom-da-pedag">
+                <li>
+                  <gd>dà chirc bheag</gd>
+                  <tr>two little hens</tr>
+                  <ref text="617">td. 159</ref>
+                </li>
+                <li>
+                  <gd>dà phiseig bheag | tha <m>dà àrdsgoil bheag</m> anns a’ bhaile</gd>
+                  <tr>two little kittens | there are two small secondary schools in the town</tr>
+                  <ref text="601">td. 207</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples with <g>dà</g> – <xl id="fem-nom-da-older-pedag">
+                <li>
+                  <gd>dà bhròig bheag</gd>
+                  <tr>two little shoes</tr>
+                  <ref text="615">td. 38</ref>
+                  <note>CHECK THIS REF</note>
+                </li>
+                <li>
+                  <gd>dà chloich bheag</gd>
+                  <tr>two little stones</tr>
+                  <ref text="616">td. 94</ref>
+                  <note>CHECK THIS REF</note>
+                </li>
+                <li>
+                  <gd>agus dà ghalladh dhubh aige air lomhainn</gd>
+                  <tr>and he holding teo black bitches in a leash (Arab. I. 99)</tr>
+                  <ref text="614">td. 123</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <p>Note that attributive adjectives of a slenderised feminine dual noun are sometimes found
+          slenderised in the nominative, though this might well be a hypercorrection.</p>
+        <p>Pedagogical examples involving potentially ‘hypercorrect’ slenderisation after <g>dà</g>
+          – <xl id="fem-nom-da-hyper-pedag">
+            <li>
+              <gd>dà chirc bhric</gd>
+              <tr>two speckled hens</tr>
+              <ref text="618">td. 45</ref>
+              <note>CHECK THIS REF</note>
+            </li>
+            <li>
+              <gd>(an) dà chois bhig</gd>
+              <tr>(the) two little feet</tr>
+              <ref text="619">td. 179</ref>
+            </li>
+            <li>
+              <gd>(an) dà chaileig mhòir | (an) dà chaileig charaich | (an) dà chaileig
+                bhòidhich</gd>
+              <ref text="607">td. 138</ref>
+            </li>
+          </xl>
+        </p>
+        <!--<p><ed>Does this section on feminine nominative all sound reasonable? In particular the
+            remarks on hypercorrect slenderisation in the dual?</ed></p>
+        <p><ed>Need to add a note on usage of augmented adjective after dual feminine in poetry –
+            MacLaren ([1911] 1948: 94) – <g>dà chirc mhòra</g> ‘two large hens’, <g>dà nighinn
+              bheaga</g> ‘two little daughters’; cf. Reid (1895: 38). cf. Gillies (1993: 179) –
+              <g>an dà chois bhig / bheaga</g>.</ed></p>-->
+      </section>
+      <section id="fem-dat">
+        <h>dative</h>
+        <p>Attributive adjectives which modify a feminine (singular) dative noun were traditionally
+          both <emph>lenited</emph> and <emph>slenderised</emph> – <ul>
+            <li>le <g>caileig <emph>bhig</emph></g> / leis a’ <g>chaileig <emph>bhig</emph></g>
+              <en>with a/the little girl</en></li>
+            <li>ann an <g>eaglais <emph>mhòir</emph></g> / anns an <g>eaglais <emph>mhòir</emph></g>
+              <en>in a/the big church</en></li>
+            <li>air <g>circ <emph>Fhrangaich</emph></g> / air a’ <g>chirc <emph>Fhrangaich</emph></g>
+              <en>on a/the French hen</en></li>
+          </ul></p>
+        <p>Some examples – <ul id="fem-dat-xs">
+            <li>pedagogical examples – <xl id="fem-dat-pedag">
+                <li>
+                  <gd>Tha aon each ann <m>le cois chaim</m>. | Fhuair mi <m>fo uinneig mhòir</m> e.
+                    | Bha seilcheag ann <m>le slige dheirg</m>.</gd>
+                  <ref text="608">td. 47</ref>
+                </li>
+                <li>
+                  <gd>le caileig mhòir</gd>
+                  <ref text="613">td. 212</ref>
+                </li>
+                <li>
+                  <gd>[le] caileig mhòir | [le] caileig chòir | [le] caileig charaich | [le] caileig
+                    bhòidhich</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples – <xl id="fem-dat-older-pedag">
+                <li>
+                  <gd>aig caile shona | aig caile bhochd | aig caile bhàin | gu caile ghlic</gd>
+                  <tr>at a lucky girl | at a poor girl | at a pale girl | to a wise girl</tr>
+                  <ref text="612">td. 55–9</ref>
+                </li>
+                <li>
+                  <gd>aig caileig bhig | aig caile mhìn</gd>
+                  <tr>at a small girl | at a delicate girl</tr>
+                  <ref text="614">td. 109–10 </ref>
+                </li>
+              </xl>
+            </li>
+            <li>pedagogical examples with the definite article – <xl id="fem-dat-art-pedag">
+                <li>
+                  <gd>Thoir dha an sèithear <m>leis a’ chois chaim</m>! | Choimhead sinn <m>air an
+                      uinneig mhòir</m> e. | Seall an t-seilcheag ann <m>leis an t-slige
+                    dheirg</m>!</gd>
+                  <ref text="608">td. 47</ref>
+                </li>
+                <li>
+                  <gd>leis a’ chaileig mhòir</gd>
+                  <ref text="613">td. 212</ref>
+                </li>
+                <li>
+                  <gd>[leis] a’ chaileig mhòir | [leis] a’ chaileig chòir | [leis] a’ chaileig
+                    charaich | [leis] a’ chaileig bhòidhich</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+            <li>pedagogical examples with <!--<a href="?gd=dà">--><g>dà</g><!--</a>-->
+              <en>two</en> (dual number) – <xl id="fem-dat-da-pedag">
+                <li>
+                  <gd>le dà chirc bhig</gd>
+                  <tr>with two little hens</tr>
+                  <ref text="617">td. 159</ref>
+                </li>
+                <li>
+                  <gd>tro dhà uinneig fharsaing àird | le dà phiseig bhig</gd>
+                  <tr>through two wide, high windows | by two little kittens</tr>
+                  <ref text="601">td. 207, 706</ref>
+                </li>
+                <li>
+                  <gd>[aig] (an) dà chaileig mhòir | [aig] (an) dà chaileig chòir | [aig] (an) dà
+                    chaileig charaich | [aig] (an) dà chaileig bhòidhich</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples with <g>dà</g> – <xl id="fem-dat-da-older-pedag">
+                <li>
+                  <gd>le dà chloich bhig</gd>
+                  <tr>with two little stones</tr>
+                  <ref text="616">td. 94</ref>
+                  <note>CHECK THIS REF</note>
+                </li>
+                <li>
+                  <gd>le dà chirc bhric | do dhà mhnaoi òig | anns an dà chuaich bhig</gd>
+                  <tr>with two speckled hens (McB. xxi.) | for two young wives (Forbes 297) | in the
+                    two small cups (Forbes 297)</tr>
+                  <ref text="614">td. 123</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <p>However, the slenderisation is often relaxed, particularly in conversational Gaelic, and
+          particularly when there is no definite article (even in traditional usage) – <g>le caileag
+            bheag</g>, <g>le dà chaileag bheag</g>, and even <g>leis a’ chaileag bheag</g>, <g>leis
+            an dà chaileag bheag</g>.</p>
+        <p>Pedagogical examples involving ‘relaxed’ slenderisation – <xl id="fem-dat-nontrad-pedag">
+            <li>
+              <gd>Bha e cluiche <m>air dà thruimb mhòr Abrach</m>.</gd>
+              <tr>He was playing on two big Lochaber trumps. (L.C. 81)</tr>
+              <ref text="614">td. 123</ref>
+            </li>
+            <li>
+              <gd>Dé an rud a tha agad an sin? Tha luch. [...] Rug an cat <m>air té bheag</m> an dé.
+                | Tha feum agam <m>air sgian gheur</m>. [18]</gd>
+              <ref text="620">td. 14–5, 23</ref>
+            </li>
+            <li>
+              <gd>le caileag mhòr | leis a’ chaileag mhòr</gd>
+              <ref text="613">td. 212</ref>
+            </li>
+          </xl></p>
+        <!--<p><ed>Does this section on feminine dative all sound reasonable? In particular the remarks
+            on relaxed slenderisation?</ed></p>-->
+      </section>
+      <section id="fem-gen">
+        <h>genitive</h>
+        <p>Attributive adjectives which modify a feminine (singular) genitive noun were
+          traditionally <emph>non-lenited</emph> but <emph>slenderised</emph> and (vocalically)
+            <emph>augmented</emph> – <ul>
+            <li>falt (na) <g>caileige <emph>bige</emph></g>
+              <en>a/the little girl’s hair</en></li>
+            <li>doras (na h-)<g>eaglaise <emph>mòire</emph></g>
+              <en>a/the big church’s door</en></li>
+            <li>gob (na) <g>circe <emph>Frangaiche</emph></g>
+              <en>a/the French hen’s beak</en></li>
+          </ul></p>
+       <!-- <p><ed>Gillies (1993:179) – “The genitive singular feminine ending in monosyllabic
+            adjectives may appear as <emph>-eadh</emph> [...] in phrase-final position.”</ed></p>-->
+        <p>Some examples – <ul id="fem-gen-xs">
+            <li>pedagogical examples – <xl id="fem-gen-pedag">
+                <li>
+                  <gd>Ruith e math a dh’<m>aindeoin coise caime</m>. | Bha i ri <m>taobh uinneige
+                      mòire</m>. | Tha slige òir aice seo an <m>àite slige deirge</m>. | <m>Latha na
+                      Sròine Deirge</m>, bha mi aig <m>taigh na cailliche bige</m>.</gd>
+                  <ref text="608">td. 47–8</ref>
+                </li>
+                <li>
+                  <gd>taigh caileige mòire</gd>
+                  <ref text="613">td. 212</ref>
+                </li>
+                <li>
+                  <gd>[ceann] caileige mòire | [ceann] caileige còire | [ceann] caileige caraiche |
+                    [ceann] caileige <m>bòidhche</m></gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples – <xl id="fem-gen-older-pedag">
+                <li>
+                  <gd>ceann caile sona | ceann caile <m>bochda</m> | ceann caile bàine | ceann caile
+                    glice</gd>
+                  <tr>a lucky girl’s head | a poor girl’s head | a pale girl’s head | a wise girl’s
+                    head</tr>
+                  <ref text="612">td. 55–9</ref>
+                </li>
+                <li>
+                  <gd>dealbh caileige bige | dreach caile mìne</gd>
+                  <tr>a small girl’s picture | a delicate girl’s form</tr>
+                  <ref text="614">td. 109–10</ref>
+                </li>
+              </xl>
+            </li>
+            <li>pedagogical examples with the definite article – <xl id="fem-gen-art-pedag">
+                <li>
+                  <gd>Ruith e a dh’<m>aindeoin na coise caime</m> aige. | Tha e air <m>beulaibh na
+                      h-uinneige mòire</m>. | A bheil càil am <m>broinn na slige deirge</m>?</gd>
+                  <ref text="608">td. 47</ref>
+                </li>
+                <li>
+                  <gd>taigh na caileige mòire</gd>
+                  <ref text="613">td. 212</ref>
+                </li>
+                <li>
+                  <gd>[ceann] na caileige mòire | [ceann] na caileige còire | [ceann] na caileige
+                    caraiche | [ceann] na caileige bòidhche</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <p>Note that <!--<a href="?gd=dà">--><g>dà</g><!--</a>-->
+          <en>two</en> does not induce ‘jumping’ lenition with a feminine genitive noun – <bad>cinn
+            (na) dà chaileige mhòire</bad>.</p>
+        <p>Pedagogical examples with <g>dà</g> (dual number) – <xl id="fem-gen-da-pedag">
+            <li>
+              <gd>[cinn] na dà chirce bige</gd>
+              <tr>[heads] of the two little hens</tr>
+              <ref text="617">td. 159</ref>
+            </li>
+            <li>
+              <gd>[cinn] (na) dà chaileige mòire | [cinn] (na) dà chaileige còire | [cinn] (na) dà
+                chaileige caraiche | [cinn] (na) dà chaileige bòidhche</gd>
+              <ref text="607">td. 137–43</ref>
+            </li>
+          </xl></p>
+        <p>The vocalic augmentation is often relaxed, particularly in conversational Gaelic, and
+          particularly if the adjective is polysyllabic, even in traditional Gaelic. Sometimes this
+          is accompanied with lenition of the adjective, and even non-slenderisation and use of the
+          nominative article.</p>
+        <p>Pedagogical examples with ‘relaxed’ augmentation <etc/> – <xl id="fem-gen-relax-pedag">
+            <li>
+              <gd>Ruith e a dh’<m>aindeoin (na) cois chaim</m> aige. | Bha i ri <m>taobh uinneig
+                  mhòir</m>. | Tha e air <m>beulaibh na h-uinneig mhòir</m>. | Tha slige òir aice
+                seo an <m>àite slige dheirg</m>. | A bheil càil am <m>broinn na slige
+                dheirg</m>?</gd>
+              <ref text="608">td. 47</ref>
+            </li>
+            <li>
+              <gd>taigh (na) caileig mòir | taigh (na) caileag mhò(i)r | taigh a’ chaileag
+                mhò(i)r</gd>
+              <ref text="613">td. 212</ref>
+            </li>
+            <li>
+              <gd>[ceann] (na) caileige caraich | [cinn] (na) dà chaileige caraich</gd>
+              <ref text="607">td. 137–43</ref>
+            </li>
+          </xl>
+        </p>
+        <!--<p><ed>Does this section on feminine genitive all sound reasonable? In particular the
+            remarks on relaxed inflection?</ed></p>-->
+      </section>
+    </section>
+    <section id="plural">
+      <h>plural</h>
+      <p>The general rules for declining attributive adjectives which modify plural nouns are – <ol>
+          <li>Monosyllabic adjectives are (vocalically) <emph>augmented</emph>, even in the genitive
+            plural – <g>mòr</g> ⇒ <g>mòra</g>, <g>beag</g> ⇒ <g>beaga</g>, <g>mìn</g> ⇒
+            <g>mìne</g>.</li>
+          <li>Polysyllabic adjectives like <g>sona</g> or <g>Gearmailteach</g> are unmutated at the
+            end.</li>
+          <li>Adjectives which modify slenderised plural nouns are <emph>lenited</emph> (eg.
+                <g>bala<emph>ich bh</emph>eaga</g>); those which modify non-slenderised plurals are
+              <emph>not lenited</emph> (eg. <g>taighe<emph>an b</emph>eaga</g>).</li>
+        </ol>
+      </p>
+     <!-- <p><ed>Should we add a note here on the (optional?) use of augmented adjectives with
+          ‘collective’ nouns (in nominative and dative)? eg. <g>clann bheaga</g> ‘little children’,
+            <g>dithis bheaga</g> ‘two small people(?)’, <g>feadhainn bheaga</g> ‘some small
+          people(?)’. cf. Calder (1923: 110).</ed></p>-->
+      <section id="plur-nom">
+        <h>nominative</h>
+        <p>Slenderised nouns – <ul>
+            <li>(na) <g>balaich <emph>bheaga</emph></g>
+              <en>(the) little boys</en></li>
+            <li>(na) <g>cuilein <emph>Ghearmailteach</emph></g>
+              <en>(the) German puppies</en></li>
+          </ul></p>
+        <p>Some examples – <ul id="plur-nom-xs">
+            <li>pedagogical examples – <xl id="plur-nom-slen-pedag">
+                <li>
+                  <gd>balaich bheaga</gd>
+                  <tr>little boys</tr>
+                  <ref text="619">td. 179</ref>
+                </li>
+                <li>
+                  <gd>balaich bheairteach | òrain mhòra | facail chruaidh | fir chaola | solais
+                    bhoillsgeach</gd>
+                  <ref text="608">td. 48</ref>
+                </li>
+                <li>
+                  <gd>(na) fir mhòra</gd>
+                  <ref text="613">td. 212</ref>
+                </li>
+                <li>
+                  <gd>(na) balaich mhòra | (na) balaich chòire | (na) balaich charach | (na) balaich
+                    bhòidheach</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples – <xl id="plur-nom-slen-older-pedag">
+                <li>
+                  <gd>(na) Goill shona | Goill bhàna | Goill ghlice</gd>
+                  <tr>(the) lucky Lowlanders | pale Lowlanders | wise Lowlanders</tr>
+                  <ref text="612">td. 59–60</ref>
+                </li>
+                <li>
+                  <gd>fir bheaga | (na) bric mhòra | feara beaga</gd>
+                  <tr>small men | (the) big trout(s) | small men (old accusative)</tr>
+                  <ref text="614">td. 109–10</ref>
+                </li>
+                <li>
+                  <gd>Chunnaic iad <m>éisg bheaga</m> ach cha d’rug iad orra, bha iad ro-luath. |
+                    Seall mar a tha <m>na tuinn bheaga</m> a’ tighinn gu tràigh.</gd>
+                  <ref text="620">td. 69, 80</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <p>Non-slenderised nouns – <ul>
+            <li>(na) <g>taighean <emph>mòra</emph></g>
+              <en>(the) big houses</en></li>
+            <li>(na) <g>caileagan <emph>beaga</emph></g>
+              <en>(the) little girls</en></li>
+            <li>(na) <g>cearcan <emph>Frangach</emph></g>
+              <en>(the) French hens</en></li>
+          </ul></p>
+        <p>Some non-slenderised examples – <ul>
+            <li>pedagogical examples – <xl id="plur-nom-pedag">
+                <li>
+                  <gd>gillean beaga</gd>
+                  <tr>little boys</tr>
+                  <ref text="619">td. 179</ref>
+                </li>
+                <li>
+                  <gd>taighean beaga | brògan ùra | caileagan òga | faclan cruaidh</gd>
+                  <ref text="608">td. 48</ref>
+                </li>
+                <li>
+                  <gd>(na) caileagan mòra | bàtaichean beaga snoga geala</gd>
+                  <tr>[(the) big girls] | nice small white boats</tr>
+                  <ref text="613">td. 212, 220</ref>
+                </li>
+                <li>
+                  <gd>(na) caileagan mòra | (na) caileagan còire | (na) caileagan carach | (na)
+                    caileagan bòidheach</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples – <xl id="plur-nom-older-pedag">
+                <li>
+                  <gd>gillean sona | gillean bochda | gillean bàna | gillean glice | cailean sona |
+                    cailean bochda | cailean bàna | cailean glice | (na) gillean móra</gd>
+                  <tr>lucky lads | poor lads | pale lads | wise lads | lucky girls | poor girls |
+                    pale girls | wise girls | (the) great lads</tr>
+                  <ref text="612">td. 55–60</ref>
+                </li>
+                <li>
+                  <gd>caileagan beaga | gillean dubha | cailean mìne | (na) daoine maithe</gd>
+                  <tr>small girls | black(-haired) boys | delicate girls | (the) good men</tr>
+                  <ref text="614">td. 109–10</ref>
+                </li>
+                <li>
+                  <gd>So agad nead smeòraich. Tha <m>cóig uighean gorma</m> ann. | Tha
+                      <m>flùraichean brèagha</m> anns a’ ghàrradh. | Nach e a’ mhuir a tha ciùin an
+                    diugh. Chan ’eil i tric ciùin. An uair shéideas a’ ghaoth bithidh <m>tonnan móra
+                      fiadhaich</m> a’ bristeadh air na creagan sin. | Tha <m>bàtaichean beaga</m>
+                    air a’ chladach.</gd>
+                  <ref text="620">td. 40, 49, 72–3, 80</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+      </section>
+      <section id="plur-dat">
+        <h>dative</h>
+        <p>Slenderised nouns – <ul>
+            <li>le <g>balaich <emph>bheaga</emph></g> / leis na <g>balaich <emph>bheaga</emph></g>
+              <en>with (the) little boys</en></li>
+            <li>air (na) <g>cuilein <emph>Ghearmailteach</emph></g>
+              <en>on (the) German puppies</en></li>
+          </ul></p>
+        <p>Some examples – <ul>
+            <li>pedagogical examples – <xl id="plur-dat-slen-pedag">
+                <li>
+                  <gd>le fir mhòra | leis na fir mhòra</gd>
+                  <ref text="613">td. 212</ref>
+                </li>
+                <li>
+                  <gd>[aig] (na) balaich mhòra | [aig] (na) balaich chòire | [aig] (na) balaich
+                    charach | [aig] (na) balaich bhòidheach</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples – <xl id="plur-dat-slen-older-pedag">
+                <li>
+                  <gd>gu Goill shona | gu Goill bhàna | gu Goill ghlice | aig na Goill shona</gd>
+                  <tr>to lucky Lowlanders | to pale Lowlanders | to wise Lowlanders | at the lucky
+                    Lowlanders</tr>
+                  <ref text="612">td. 59–60</ref>
+                </li>
+                <li>
+                  <gd>aig fir bheaga</gd>
+                  <tr>at small men</tr>
+                  <ref text="614">td. 109–10</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <p>Non-slenderised nouns – <ul>
+            <li>ann an <g>taighean <emph>mòra</emph></g> / anns na <g>taighean <emph>mòra</emph></g>
+              <en>in (the) big houses</en></li>
+            <li>le <g>caileagan <emph>beaga</emph></g> / leis na <g>caileagan <emph>beaga</emph></g>
+              <en>(with) (the) little girls</en></li>
+            <li>aig (na) <g>cearcan <emph>Frangach</emph></g>
+              <en>at (the) French hens</en></li>
+          </ul></p>
+        <p>Some non-slenderised examples – <ul>
+            <li>pedagogical examples – <xl id="plur-dat-pedag">
+                <li>
+                  <gd>le caileagan mòra | leis na caileagan mòra</gd>
+                  <ref text="613">td. 212</ref>
+                </li>
+                <li>
+                  <gd>[aig] (na) caileagan mòra | [aig] (na) caileagan còire | [aig] (na) caileagan
+                    carach | [aig] (na) caileagan bòidheach</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples – <xl id="plur-dat-older-pedag">
+                <li>
+                  <gd>aig gillean sona | aig gillean bochda | aig gillean bàna | gu gillean glice |
+                    aig cailean sona | aig cailean bochda | aig cailean bàna | gu cailean glice |
+                    aig (na) gillean móra</gd>
+                  <tr>at lucky lads | at poor lads | at pale lads | to wise lads | at lucky girls |
+                    at poor girls | at pale girls | to wise girls | at (the) great lads</tr>
+                  <ref text="612">td. 55–60</ref>
+                </li>
+                <li>
+                  <gd>aig gillean dubha | aig cailean mìne</gd>
+                  <tr>at black(-haired) boys | at delicate girls</tr>
+                  <ref text="614">td. 109–10</ref>
+                </li>
+                <li>
+                  <gd>Tha neadan aig na h-eòin <m>anns na craobhan àrda</m>. | Bha [na h-eòin] air
+                    falbh fad a’ gheamhraidh <m>ann an dùthchannan blàtha</m>.</gd>
+                  <ref text="620">td. 35, 76</ref>
+                </li>
+              </xl>
+            </li>
+            <li>some examples with the old dative plural suffix <g>-(a)ibh</g> – <xl
+                id="plur-dat-ibh-pedag">
+                <li>
+                  <gd>aig <m>fearaibh</m> beaga | aig (na) breacaibh mòra | aig caileagaibh beaga |
+                    aig (na) daoinibh maithe</gd>
+                  <tr>at small men | at (the) big trout(s) | at small girls | at (the) good men</tr>
+                  <ref text="614">td. 109–10</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+      </section>
+      <section id="plur-gen">
+        <h>genitive</h>
+        <p><ul>
+            <li>falt <g>bhalach <emph>beaga</emph></g> / falt nam <g>balach <emph>beaga</emph></g>
+              <en>(the) little boys’s hair</en></li>
+            <li>dorsan <g>thaighean <emph>mòra</emph></g> / dorsan (nan) <g>taighean <emph>mòra</emph></g>
+              <en>(the) big houses’ doors</en></li>
+            <li>coin <g>chaileagan <emph>beaga</emph></g> / coin nan <g>caileagan <emph>beaga</emph></g>
+              <en>(the) little girls’ dogs</en></li>
+            <li>earbaill <g>chuilean <emph>Gearmailteach</emph></g> / earbaill nan <g>cuilean
+                  <emph>Gearmailteach</emph></g>
+              <en>(the) German puppies’ tails</en></li>
+            <li>goban <g>chearcan <emph>Frangach</emph></g> / goban nan <g>cearcan <emph>Frangach</emph></g>
+              <en>(the) French hens’ beaks</en></li>
+          </ul></p>
+        <p>Some examples – <ul>
+            <li>pedagogical examples – <xl id="plur-gen-pedag">
+                <li>
+                  <gd>taigh fhear mòra | taigh chaileagan mòra</gd>
+                  <ref text="613">td. 212</ref>
+                </li>
+                <li>
+                  <gd>[cinn] bhalach mòra | [cinn] bhalach còire | [cinn] bhalach carach | [cinn]
+                    bhalach bòidheach | [cinn] chaileagan mòra | [cinn] chaileagan còire | [cinn]
+                    chaileagan carach | [cinn] chaileagan bòidheach</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples – <xl id="plur-gen-older-pedag">
+                <li>
+                  <gd>cinn ghillean bochda | cinn ghillean bàna | cinn ghillean glice | cinn
+                    chailean bochda | cinn chailean bàna | cinn chailean glice | cinn Ghall bàna |
+                    cinn Ghall glice | cinn ghillean móra | cinn ghillean sona | cinn chailean sona
+                    | cinn Ghall sona</gd>
+                  <tr>poor lads’ heads | pale lads’ heads | wise lads’ heads | poor girls’ heads |
+                    pale girls’ heads | wise girls’ heads | pale Lowlanders’ heads | wise
+                    Lowlanders’ heads | great lads’ heads | lucky lads’ heads | lucky girls’ heads |
+                    lucky Lowlanders’ heads</tr>
+                  <ref text="612">td. 55–60</ref>
+                </li>
+                <li>
+                  <gd>neart fhear beaga | dealbh chaileagan beaga | neart ghillean dubha | dreach
+                    chailean mìne | neart dhaoine maithe | neart bhreac mòra</gd>
+                  <tr>small men’s strength | a picture of small girls | black(-haired) boys’
+                    strength | delicate girls’ form | good men’s strength | big trouts’
+                    strength</tr>
+                  <ref text="614">td. 109–10</ref>
+                </li>
+                <li>
+                  <gd>Bha a’ chlann a’ tilgeil chlach do’n uisge. Bha na clachan a’ <m>dèanamh thonn
+                      beaga</m>.</gd>
+                  <ref text="620">td. 32–3</ref>
+                </li>
+              </xl>
+            </li>
+            <li>pedagogical examples with the definite article – <xl id="plur-gen-art-pedag">
+                <li>
+                  <gd>taigh nam fear mòra | taigh nan caileagan mòra</gd>
+                  <ref text="613">td. 212</ref>
+                </li>
+                <li>
+                  <gd>[cinn] nam balach mòra | [cinn] nam balach còire | [cinn] nam balach carach |
+                    [cinn] nam balach bòidheach | [cinn] nan caileagan mòra | [cinn] nan caileagan
+                    còire | [cinn] nan caileagan carach | [cinn] nan caileagan bòidheach</gd>
+                  <ref text="607">td. 137–43</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples with the definite article – <xl
+                id="plur-gen-art-older-pedag">
+                <li>
+                  <gd>cinn nan gillean móra | cinn nan Gall sona</gd>
+                  <tr>the great lads’ heads | the lucky Lowlanders’ heads</tr>
+                  <ref text="612">td. 60</ref>
+                </li>
+                <li>
+                  <gd>neart nan daoine maithe | neart nam breac mòra</gd>
+                  <tr>the good men’s strength | the big trouts’ strength</tr>
+                  <ref text="614">td. 109–10</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <p>Note that the genitive plural is sometimes replaced by the nominative plural,
+          particularly in conversational Gaelic. Some examples of this – <xl
+            id="plur-gen-nontrad-pedag">
+            <li>
+              <gd>taigh (na) fir mhòra | taigh (na) caileagan mòra</gd>
+              <ref text="613">td. 212</ref>
+            </li>
+          </xl>
+        </p>
+      </section>
+    </section>
+  </section>
+
+
+
+  <!--<section>
+    <h>dependencies</h>
+    <p><ed>to come</ed></p>
+  </section>-->
+
+  <section id="uses">
+    <h>uses</h>
+    <p>The main uses of adjectives are – <ul>
+        <li>predicative – generally as complement of the predicative verb <a href="?gd=bi"
+            ><g>bi</g></a>.</li>
+        <li>attributive – as a modifier of a noun</li>
+      </ul>
+    </p>
+    <!--<p><ed>DM: [predicative adjectives] also occur in clauses such as: chunnaic mi botail làn uisge
+        ‘I saw bottles full of water’, and similar. </ed></p>-->
+  </section>
+
+  <!--<section>
+    <h>senses</h>
+    <p><ed>to come</ed></p>
+  </section>
+-->
+
+</module>

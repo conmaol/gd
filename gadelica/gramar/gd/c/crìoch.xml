@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>crìoch</h>
+    <p><g>crìoch</g>
+        <en>end, completion; boundary, border, frontier, limit</en> is a feminine <a
+            href="?xx=nouns/simple_common_nouns">simple common noun</a>, often marking <a
+            href="?q=verbal_aspect">cessative</a> verbal aspect, cf. <a href="?gd=sguir"
+                ><g>sguir</g></a>
+        <en>stop, cease</en>, <a href="?gd=stad"><g>stad</g></a>
+        <en>stop, halt, pause</en>.</p>
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>crìoch</g> are – <ul>
+                <li><m>crìoch</m> – nominative singular</li>
+                <li><m>crìche</m> – genitive singular</li>
+                <li><m>crìch</m> – dative singular</li>
+                <li><m>crìochan</m> – plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>crìoch</m></li>
+                                    <li>dative – (aig) <m>crìch</m></li>
+                                    <li>genitive – (fad) <m>crìche</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>crìochan</m></li>
+                                    <li>dative – (aig) <m>crìochan</m></li>
+                                    <li>genitive – (fad) <m>chrìochan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>a’ chrìoch</m></li>
+                                    <li>dative – (aig) <m>a’ chrìch</m></li>
+                                    <li>genitive – (fad) <m>na crìche</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na crìochan</m></li>
+                                    <li>dative – (aig) <m>na crìochan</m></li>
+                                    <li>genitive – (fad) <m>nan crìochan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>crìoch</m></li>
+                                    <li>dative – (aig) <m>crìch</m></li>
+                                    <li>genitive – (fad) <m>crìche</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>a’ chrìoch</m></li>
+                                    <li>dative – (aig) <m>a’ chrìch</m></li>
+                                    <li>genitive – (fad) <m>na crìche</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>crìochan</m></li>
+                                    <li>dative – (aig) <m>crìochan</m></li>
+                                    <li>genitive – (fad) <m>chrìochan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na crìochan</m></li>
+                                    <li>dative – (aig) <m>na crìochan</m></li>
+                                    <li>genitive – (fad) <m>nan crìochan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>crìoch</m></li>
+                                    <li>plural – <m>crìochan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>a’ chrìoch</m></li>
+                                    <li>plural – <m>na crìochan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (aig) <m>crìch</m></li>
+                                    <li>plural – (aig) <m>crìochan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (aig) <m>a’ chrìch</m></li>
+                                    <li>plural – (aig) <m>na crìochan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (fad) <m>crìche</m></li>
+                                    <li>plural – (fad) <m>chrìochan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (fad) <m>na crìoche</m></li>
+                                    <li>plural – (fad) <m>nan crìochan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section id="deps-mods">
+            <h>modifiers</h>
+            <section>
+                <h>compounds</h>
+                <module status="bronze" id="deps-mods-comps-crioch_astair">
+                    <h>crìoch astair</h>
+                    <p><g>crìoch astair</g>
+                        <en>speed limit</en> – <ul>
+                            <li>pedagogical examples – <xl id="deps-mods-comps-crioch_astair-pedag">
+                                    <li>
+                                        <gd>Dè a’ chrìoch-astair air rathaidean dùbailte?</gd>
+                                        <tr>What’s the speed limit on dual carriageways?</tr>
+                                        <ref text="601">td. 178</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Chuir iad romhpa crìoch-astair a chur an grèim.</gd>
+                                        <tr>They decided to put a speed limit into operation.</tr>
+                                        <ref text="601">td. 178</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Tha am poileas a’ toirt ionnsaigh air an fheadhainn a
+                                            tha a’ dol thairis air a’ chrìoch-astair.</gd>
+                                        <tr>The police are mounting a campaign against those who
+                                            exceed the speed limit.</tr>
+                                        <ref text="601">td. 178</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </p>
+                </module>
+                <module status="bronze" id="deps-mods-comps-crioch_sgeoil">
+                    <h>crìoch sgeòil</h>
+                    <p><g>crìoch sgeòil</g>
+                        <en>epilogue</en>
+                        <xl id="deps-mods-comps-crioch_sgeoil-pedag">
+                            <li>
+                                <gd>crìoch an sgeòil</gd>
+                                <tr>the end of the story</tr>
+                                <ref text="601">td. 178</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+                <section id="deps-mod-other">
+                    <h>other</h>
+                    <p><g>gàradh (na) crìche</g>
+                        <en>(the) boundary wall</en> [specifier?]</p>
+                </section>
+            </section>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>object</h>
+            <module id="uses-obj-cuir" status="bronze">
+                <h>cuir crìoch air ...</h>
+                <p><g><a href="?gd=cuir">cuir</a> crìoch air ...</g>
+                    <en>finish, delimit</en></p>
+                <p>Pedagogical examples – <xl id="uses-obj-cuir-pedag">
+                        <li>
+                            <gd>Chuir i crìoch air an nobhail aice a-raoir.</gd>
+                            <tr>She finished her novel last night.</tr>
+                            <ref text="605">td. 121</ref>
+                        </li>
+                        <li>
+                            <gd>cuir crìoch(an) air</gd>
+                            <tr>delimit, set a boundary on, bound</tr>
+                            <ref text="601">td. 178</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>cf. <g>cuir crìoch ri</g>
+                    <en>limit</en></p>
+            </module>
+            <section id="uses-obj-other">
+                <h>other</h>
+                <p><g>suidhich crìochan</g>
+                    <en>set limits, limit</en></p>
+            </section>
+
+
+
+        </section>
+        <section>
+            <h>complement</h>
+            <module id="uses-comp-aig" status="bronze">
+                <h>aig crìch</h>
+                <p>Pedagogical examples – <xl id="aig-pedag">
+                        <li>
+                            <gd>aig a’ chrìch</gd>
+                            <tr>at the end</tr>
+                            <ref text="605">td. 121</ref>
+                        </li>
+                        <li>
+                            <gd>aig crìch mo là</gd>
+                            <tr>at the end of my days/life</tr>
+                            <ref text="605">td. 121</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="uses-comp-gu" status="bronze">
+                <h>gu crìch</h>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module id="uses-comp-thig-gu" status="bronze">
+                            <h>thig gu crìch</h>
+                            <p><g><a href="?gd=thig">thig</a> gu crìch</g>
+                                <en>come to an end, finish</en></p>
+                            <p>Pedagogical examples – <xl id="thig-pedag">
+                                    <li>
+                                        <gd>Thàinig a’ choinneamh gu crìch.</gd>
+                                        <tr>The meeting came to an end.</tr>
+                                        <ref text="605">td. 121</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Bha e a’ tighinn gu crì(o)ch.</gd>
+                                        <tr>It was coming to an end.</tr>
+                                        <ref text="601">td. 178</ref>
+                                    </li>
+                                </xl>
+                            </p>
+                        </module>
+                        <module id="uses-comp-thoir_gu" status="bronze">
+                            <h>thoir ... gu crìch</h>
+                            <p><g><a href="?gd=thoir">thoir</a> ... gu crìch</g>
+                                <en>bring to an end, finish, finalise, evolve</en></p>
+                        </module>
+                    </section>
+                    <section id="uses-comp-gu-other">
+                        <h>other</h>
+                        <p><g>chun na crìche sin</g>
+                            <en>thitherto, for that purpose</en></p>
+                    </section>
+                </section>
+            </module>
+            <module status="bronze" id="uses-comp-gun">
+                <h>gun chrìoch</h>
+                <p><g>gun chrì(o)ch</g>
+                    <en>infinite</en></p>
+            </module>
+        </section>
+        <section>
+            <h>specifier</h>
+            <module status="bronze" id="uses-comp-thar">
+                <h>thar crìche</h>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module status="bronze" id="uses-comp-thar-uses-comp-rach">
+                            <h>rach thar crìche</h>
+                            <p><g>rach thar crìch/chrìochan</g>
+                                <en>trespass, encroach</en></p>
+                        </module>
+                    </section>
+                </section>
+            </module>
+        </section>
+
+        <section>
+            <h>derivatives</h>
+            <module id="uses-derivs-criochnach" status="bronze">
+                <h>crìochnach</h>
+                <p><g>crìochnach</g>
+                    <en>finite</en> is an adjective derived from the noun <g>crìoch(an)</g> with the
+                    suffix <a href="?gd=_ach">-(e)ach</a>. An alternative form is
+                    <g>crìochach</g>.</p>
+                <p>Pedagogical examples – <xl id="criochnach-pedag">
+                        <li>
+                            <gd>gnìomhair crìochnach</gd>
+                            <tr>finite verb</tr>
+                            <ref text="601">td. 179</ref>
+                        </li>
+                    </xl>
+                </p>
+                <module id="uses-derivs-neo-chriochnach" status="bronze">
+                    <h>neo-chrìochnach</h>
+                    <p><g>neo-chrìochnach</g>
+                        <en>infinite</en> is a compound adjective from <g>crìochnach</g> with the
+                        prefix <a href="?gd=neo_">neo-</a>. An alternative form is
+                            <g>neo-chrìochach</g>.</p>
+                </module>
+            </module>
+            <module id="uses-derivs-criochnaich">
+                <h>crìochnaich</h>
+                <p><g>crìochnaich</g>
+                    <en>finish, end, complete, close, expire, consummate, terminate</en> is a verb
+                    derived from the noun <g>crìoch(an)</g> with the suffix <a href="?gd=_ich"
+                        >-(a)ich</a>, with verbal noun <g>crìochnachadh</g>
+                    <masc/></p>
+                <p>Pedagogical examples – <xl id="criochnaich-pedag">
+                        <li>
+                            <gd>a’ crìochnachadh le beagan mun linn againn fhèin</gd>
+                            <tr>finishing with a little about our own century</tr>
+                            <ref text="601">td. 179</ref>
+                        </li>
+                    </xl>
+                </p>
+                <module id="criochnachadh">
+                    <h>crìochnachadh</h>
+                    <p><b>crìochnachadh</b>
+                        <en>finish(ing), end(ing), completion, consummation, termination</en> is a
+                        masculine deverbal noun derived from the verb <b>crìochnaich</b>, with
+                        genitive singular <b>crìochnachaidh</b> and plural
+                        <b>crìochnachaidhean</b>.</p>
+                    <p>Pedagogical examples – <xl id="criochnachadh-pedag">
+                            <li>
+                                <gd>Bha am ministear air an laoidh chrìochnachaidh a thoirt
+                                    a-mach.</gd>
+                                <tr>The minister had given out the closing hymn.</tr>
+                                <ref text="601">td. 179</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+                <module id="criochnaichte" status="bronze">
+                    <h>crìochnaichte</h>
+                    <p><b>crìochnaichte</b>
+                        <en>finished, completed, extinct</en> is a deverbal retrospective adjective
+                        derived from the verb <b>crìochnaich</b> with the suffix <a href="?gd=_te"
+                            >-te</a>.</p>
+                </module>
+            </module>
+            <module id="criochnaiche">
+                <h>crìochnaiche</h>
+                <p><b>crìoch(n)aiche</b>
+                    <en>finalist</en> is a masculine noun derived from the noun <b>crìoch(an)</b>
+                    with the suffix <a href="?gd=_iche">-(a)iche</a>. The prural form is
+                        <b>crìoch(n)aichean</b>.</p>
+            </module>
+        </section>
+
+    </section>
+
+
+    <module id="material">
+        <h>material / spatial</h>
+        <p>Pedagogical examples – <xl id="matter-pedag">
+                <li>
+                    <gd>crìoch na sgìre</gd>
+                    <tr>the parish boundary</tr>
+                    <ref text="605">td. 121</ref>
+                </li>
+                <li>
+                    <gd>Is e seo crìoch an fhearainn agam.</gd>
+                    <tr>This is the boundary/march of my land.</tr>
+                    <ref text="605">td. 121</ref>
+                </li>
+                <li>
+                    <gd>crìochan eadar-nàiseanta</gd>
+                    <tr>international boundaries</tr>
+                    <ref text="601">td. 178</ref>
+                </li>
+                <li>
+                    <gd>crìoch a’ bhaile</gd>
+                    <tr>town boundary</tr>
+                    <ref text="601">td. 178</ref>
+                </li>
+            </xl>
+        </p>
+        <p>In <a href="?xx=nouns/toponymic_name_descriptions">toponymic name descriptions</a> – <ul>
+                <li><b>Na Crìochan</b>
+                    <en>The Borders</en></li>
+                <li><b>Crìochan Shasainn</b>
+                    <en>The Borders</en></li>
+                <li><b>Na Crìochan Grèine</b>
+                    <en>The Tropics</en></li>
+            </ul>
+        </p>
+        <p>Other pedagogical examples – <xl id="other-pedag">
+                <li>
+                    <gd>Rinn iad sabaid chun na crìche.</gd>
+                    <tr>They fought to the end.</tr>
+                    <ref text="601">td. 178</ref>
+                </li>
+                <li>
+                    <gd>fada thar crìochan an eilein</gd>
+                    <tr>far beyond the confines of the island</tr>
+                    <ref text="601">td. 178</ref>
+                </li>
+                <li>
+                    <gd>air na crìochan eadar A agus B</gd>
+                    <tr>on the borders between A and B</tr>
+                    <ref text="601">td. 178</ref>
+                </li>
+                <li>
+                    <gd>na dùthchannan a tha a’ cumail crìche rithe</gd>
+                    <tr>the countries which border it [her]</tr>
+                    <ref text="601">td. 178</ref>
+                </li>
+                <li>
+                    <gd>air an taobh a-muigh nan crìochan beaga againn fhèin</gd>
+                    <tr>outwith our own little boundaries</tr>
+                    <ref text="601">td. 178</ref>
+                </li>
+                <li><gd>Cha b’ urrainn a bhith aig a’ chùis ach an aon chrìoch.</gd>
+                    <tr>The matter can only have had (the) one ending.</tr>
+                    <ref text="601">td. 178</ref>
+                </li>
+                <li>
+                    <gd>... ach an taobh a-staigh nan crìochan sin ...</gd>
+                    <tr>... but within these limits ...</tr>
+                    <ref text="601">td. 178</ref>
+                </li>
+            </xl>
+        </p>
+    </module>
+
+
+</module>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>ciad</h>
+  <p><b>ciad</b> is an <a href="?xx=ordinals">ordinal numeral</a>, equivalent to the English
+      <en>first</en>.</p>
+  <p>See also <b><a href="?gd=aonamh">aonamh</a></b></p>
+  <p>cf. <a href="?en=the&amp;box=ciad">definite article</a> + <b>ciad</b></p>
+</module>

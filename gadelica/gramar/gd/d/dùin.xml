@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>dùin</h>
+    <p><g>dùin</g>
+        <en>close, shut</en> is a <a href="?xx=verbs/simple_verbs">simple verb</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>subject</h>
+            <p>Older pedagogical examples – <xl id="sbj-older-pedag">
+                    <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                            Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an
+                            litir seo, Iain?” “Théid,” ars Iain, “falbhaidh mi an dràsda”. “Fuirich
+                            gus an <m>dùin mi</m> i is gus an cuir mi seòladh oirre. Ceannaich fhéin
+                            stamp agus cuir oirre i.” [...]</gd>
+                        <tr>My mother is writing a letter to my father who is away. My mother said,
+                            “Will you go to the postbox with this letter, John?” “Yes, I will,” said
+                            John, “I will leave now.” “Wait until I seal it and put an address on
+                            it. Buy a stamp and put it on it.”[...]</tr>
+                        <ref text="621">td. 5</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>object</h>
+            <p>Older pedagogical examples – <xl id="obj-older-pedag">
+                    <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                            Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an
+                            litir seo, Iain?” “Théid,” ars Iain, “falbhaidh mi an dràsda”. “Fuirich
+                            gus an <m>dùin mi i</m> is gus an cuir mi seòladh oirre. Ceannaich fhéin
+                            stamp agus cuir oirre i.” [...]</gd>
+                        <tr>My mother is writing a letter to my father who is away. My mother said,
+                            “Will you go to the postbox with this letter, John?” “Yes, I will,” said
+                            John, “I will leave now.” “Wait until I seal it and put an address on
+                            it. Buy a stamp and put it on it.” [...]</tr>
+                        <ref text="621">td. 5</ref>
+                        <note>dùin <a href="?gd=litir">litir</a></note>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <p>Older pedagogical examples – <xl id="comp-older-pedag">
+                    <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                            Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an
+                            litir seo, Iain?” “Théid,” ars Iain, “falbhaidh mi an dràsda”.
+                                “<m>Fuirich gus an dùin</m> mi i is gus an cuir mi seòladh oirre.
+                            Ceannaich fhéin stamp agus cuir oirre i.” [...]</gd>
+                        <tr>My mother is writing a letter to my father who is away. My mother said,
+                            “Will you go to the postbox with this letter, John?” “Yes, I will,” said
+                            John, “I will leave now.” “Wait until I seal it and put an address on
+                            it. Buy a stamp and put it on it.”[...]</tr>
+                        <ref text="621">td. 5</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+</module>

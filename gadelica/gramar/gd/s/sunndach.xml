@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h lang="en">sunndach</h>
+    <h lang="gd">sunndach</h>
+    <p lang="en">Examples from Gairm – <xl id="gairm">
+        <li>
+            <gd>Bha i ceud bliadhna a dh’ aois is esan dhà air fhichead. Cha robh e ach mìos no
+                dhà a-mach ás an oilthigh. Bha a nighean a’ fuireachd còmhla rithe. Bha ise
+                ceithir fichead. Shaoil e gu robh a’ chailleach ann an dòigh <m>na bu shunndaiche
+                    na a nighean</m>. [...]</gd>
+            <tr>She was a hundred years old and him twenty two. He was just a month or two out
+                of the university. Her daughter was living with her. She was eighty. He thought
+                that the old woman was in a way livelier than her daughter. [...]</tr>
+            <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+    </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>
+
+

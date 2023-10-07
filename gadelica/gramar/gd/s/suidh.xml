@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>suidh</h>
+    <p>Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>[...] ’S <m>bha iad ’nan suidhe an sin</m> ag òl uisge-beatha fad na h-oidhch’,
+                    na ceathrar aca. An dràsda ’s a rithist shealladh Iain a-mach air an uinneig ris
+                    a’ mhuir ’s na h-eileanan. [...]</gd>
+                <tr>[...] And they were sat there drinking whisky all night, the four of them. Now
+                    and again John would look out the window at the sea and the islands. [...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+        </xl>
+    </p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>complements</h>
+            <module>
+                <h>suidh air</h>
+                <p>Some examples – <ul>
+                        <li>older pedagogical examples – <xl id="comp-older-pedag">
+                                <li>
+                                    <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus
+                                        Anna anns a’ chàr. Chaidh iad sìos taobh an locha is stad
+                                        iad aig àite bòidheach gorm. Chuir iad an càr a stigh gu
+                                        taobh an rathaid is thug iad brat a mach as a’ chàr air son
+                                            <m>suidhe air</m>. [...]</gd>
+                                    <tr>The day was lovely and warm and their father took John and
+                                        Ann in the car. They went down the side of the lake and they
+                                        stopped at a beautiful green place. They put the car into
+                                        the side of the road and they took a blanket out of the car
+                                        for sitting on. [...]</tr>
+                                    <ref text="621">td. 6</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </module>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>derivatives</h>
+            <module id="suidhe">
+                <h>suidhe</h>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>specifier</h>
+                        <p>Some examples – <ul>
+                                <li>older pedagogical examples – <xl id="suidhe-spec-older-pedag">
+                                        <li>
+                                            <gd>Bha an latha brèagha blàth is thug an athair leis
+                                                Iain agus Anna anns a’ chàr. Chaidh iad sìos taobh
+                                                an locha is stad iad aig àite bòidheach gorm. Chuir
+                                                iad an càr a stigh gu taobh an rathaid is thug iad
+                                                brat a mach as a’ chàr air <m>son suidhe air</m>.
+                                                [...]</gd>
+                                            <tr>The day was lovely and warm and their father took
+                                                John and Ann in the car. They went down the side of
+                                                the lake and they stopped at a beautiful green
+                                                place. They put the car into the side of the road
+                                                and they took a blanket out of the car for sitting
+                                                on. [...]</tr>
+                                            <ref text="621">td. 6</ref>
+                                        </li>
+                                    </xl>
+                                </li>
+                            </ul>
+                        </p>
+                    </section>
+                </section>
+            </module>
+        </section>
+    </section>
+
+
+
+
+    <module id="suidheachadh">
+        <h lang="en">suidheachadh</h>
+        <h lang="gd">suidheachadh</h>
+        <p lang="en">Corpus examples – <xl id="suidheachadh-exs">
+                <li>
+                    <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig
+                        no do fhoghlum agus do litreachas na Gàidhlig. Cuin a chualas ball-Pàrlamaid
+                        a’ togail a ghuth a dh’ iarraidh leasachaidh do staid Gàidhlig ann an
+                        Albainn? Am bi cothrom a nis aig cuideigin a ghuth a thogail, anns an
+                            t-<m>suidheachadh</m> iongantach a th’ againn anns a’ Phàrlamaid
+                        ùr?</gd>
+                    <tr>[...] The Parliament has given very little assistance ever to the Gaelic
+                        language or to Gaelic education and literature. When has a member of
+                        Parliament been heard raising his voice to demand improvement for the state
+                        of Gaelic in Scotland? Will someone have an opportunity now to raise his
+                        voice, in the unexpected <u>situation</u> we have in the new
+                        Parliament?</tr>
+                    <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+</module>

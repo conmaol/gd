@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>dè</h>
+    <p>Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no
+                    do fhoghlum agus do litreachas na Gàidhlig. [...] <m>Dé na rudan a dh’ fhaodadh
+                        sinn iarraidh?</m> Tuilleadh de luchd-teagaisg ’s de luchd-ceasnachaidh
+                    Gàidhlig. Airgead gu leabhraichean uallachadh is a chlo-bhualadh. Barrachd tìde
+                    air an réidio agus air telebhisean. [...]</gd>
+                <tr>[...] The Parliament has given very little assistance ever to the Gaelic
+                    language or to Gaelic education and literature. [...] What are the things that
+                    we could demand? More Gaelic teachers and inspectors. Money to prepare and print
+                    books. More time on the radio and on television. [...]</tr>
+                <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+            </li>
+            <li>
+                <gd>[...] ’Se madainn bhòidheach foghair a bh’ ann—tioram, le ceileir eòin, is
+                    beagan dealt air an fheur. Bha a[m] muir ’s na tighean ag éirigh á inntinn an
+                    latha. Cha robh e fhéin a’ faireachdainn uabhasach math, oir, air a’ bhàta, bha
+                    triùir dhaoine le botul uisge-bheatha agus cha robh càil air a shon ach gu
+                    feumadh e òl ’nan cuideachd. “<m>Dé ’n innleachd a th’ agad an sin?</m>” arsa
+                    fear aca ris. “Clàr airson guthan,” fhreagair e, “tape-recorder.” [...]</gd>
+                <tr>[...] It was a beautiful autumn morning – dry, with the chirping of birds, and a
+                    little dew on the grass. The sea and the houses were rising from the mind of the
+                    day [??]. He was not feeling terribly good, because, on the boat, there were
+                    three men with a bottle of whisky and there was nothing for it but that he would
+                    have to drink in their company. “What is the machine that you have there?” said
+                    one of them to him. “A recorder for voices.” he replied, “a tape
+                    recorder.”[...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+            <li>
+                <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan fhalbh aon
+                    choigreach le mo leanabh. Cha teid i gu aon dannsa, tha sin cinnteach. Tha. Tha.
+                    Na bi smaoineachadh gun teid, a leanaibh. Chan eil fhios agad mu ’n deidhinn,
+                    mar a th’ agamsa.” “Carson nach do bhàsaich thu o chionn leth-cheud bliadhna,”
+                    dh’ éigh Màiri. Bha i smaoineachadh air na gnothaichean ud fhathast! “Greas ort
+                    leis an tea,” ars a màthair. Agus, mu dheireadh. “A’ chlann òga an diugh,
+                        chan eil fhios <m>dé na smaointean th[a] ruith orra</m>. Tha iad air bhoil,
+                    air bhoil.”</gd>
+                <tr>[...] Her voice grew louder. “One thing is certain, not one stranger will leave
+                    [go out?] with my child. She will not go to a single dance, that is certain. It
+                    is. It is. Do not be thinking that you will, child. You don’t know about them,
+                    as I do.” “Why did you not die fifty years ago,” shouted Mary. She was still
+                    thinking about those matters! “Hurry up with the tea,” said her mother. And,
+                    eventually. “The young children today, it is not known what thoughts are running
+                    on them. They are in a rage, in a rage.”</tr>
+                <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">cf. relative particle <a href="?gd=a^relative">a</a>.</p>
+    <p lang="gd">...</p>
+</module>

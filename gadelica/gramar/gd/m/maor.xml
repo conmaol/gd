@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>maor</h>
+    <p><g>maor</g>
+        <en>officer, man with official duties</en> is a masculine occupational <a
+            href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>modifier</h>
+            <p><g>maor <a href="?gd=eaglais">eaglaise</a></g>
+                <en>beadle, church officer</en></p>
+        </section>
+    </section>
+
+</module>

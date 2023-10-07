@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <h lang="en">cion</h>
+  <p lang="en"><b>cion</b>
+    <en>lack, want, shortage</en> is a masculine, indeclinable <a href="?xx=nouns/common_nouns"
+      >common noun</a>.</p>
+  <p lang="en">Examples with a genitive modifier – <ul>
+      <li><m>cion fala</m>
+        <en>anaemia</en></li>
+      <li><m>cion ùidhe</m>
+        <en>apathy</en></li>
+      <li><m>cion meirbhidh</m>
+        <en>indigestion</en></li>
+    </ul>
+    <xl id="cion_gen">
+      <li>
+        <gd>gluasad cion earbsa</gd>
+        <tr>no confidence motion</tr>
+        <ref text="606">td. 29</ref>
+      </li>
+      <li>
+        <gd>cion-cosnaidh òigridh</gd>
+        <tr>youth unemployment</tr>
+        <ref text="606">td. 29</ref>
+      </li>
+      <li>
+        <gd>nochd e cion foighidinn</gd>
+        <tr>he showed a lack of patience</tr>
+        <ref text="601">td. 135</ref>
+      </li>
+      <li>
+        <gd>seo <m>cion-fàth</m> an ràdha</gd>
+        <tr>this is the reason for the saying</tr>
+        <ref text="601">td, 135</ref>
+        <note>Is ‘cion-fàth’ a noun compound of ‘cion’ or a compound noun of ‘fàth’?</note>
+      </li>
+      <li>
+        <gd>cion-cnàmh</gd>
+        <tr>indigestion</tr>
+        <ref text="601">td. 135</ref>
+        <note>Is this a noun compound of ‘cion’ or a compound noun of ‘cnàmh’?</note>
+      </li>
+    </xl>
+  </p>
+  <p lang="en">Or perhaps a specifier – <ul>
+      <li><m>cion a’ bhuntàta</m>
+        <en>the potato shortage</en></li>
+    </ul>
+    <xl id="cion_spec">
+      <li>
+        <gd>tha cion an uisge agus a’ bhidhe ann</gd>
+        <tr>there is a lack of water and food</tr>
+        <ref text="601">td. 135</ref>
+      </li>
+    </xl>
+  </p>
+  <p lang="en">cf. <b>mo chion ort fhèin</b>
+    <en>my desire for you</en> [Angus Watson <i>The Essential Gaelic-English Dictionary</i>
+    (2001)]</p>
+  <p lang="en">Note that, like <a href="?gd=dìth">dìth</a>
+    <en>need, lack, want, deficiency, deficit, shortage, ruin</en>, <b>cion</b> is not a <a
+      href="?xx=nouns/quantity_expressions">quantity expression</a> cf. <bad>Dh’òl Raonaid cion
+      fìona</bad> for <en>Rachel drank too little wine</en>.</p>
+</module>

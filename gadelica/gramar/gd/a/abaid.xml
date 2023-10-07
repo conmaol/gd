@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>abaid</h>
+    <p><g>abaid</g>
+        <en>abbey</en> is a feminine <a href="?xx=nouns/architectonic_common_nouns"
+            >architectonic</a>,
+        <a href="?xx=nouns/derived_common_nouns"> derived common noun</a>, with stem <a
+            href="?gd=aba"><g>aba</g></a>
+        <masc/>
+        <en>abbot</en>.</p>
+
+    <section>
+        <h>forms</h>
+        <p>The principal parts of <g>abaid</g> are – <ul>
+                <li><m>abaid</m> – nominative/dative singular</li>
+                <li><m>abaid(e)</m> – genitive singular</li>
+                <li><m>abaidchan</m> – plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>abaid</m></li>
+                                    <li>dative – (ann an) <m>abaid</m></li>
+                                    <li>genitive – (doras) <m>abaid(e)</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>abaidean</m></li>
+                                    <li>dative – (ann an) <m>abaidean</m></li>
+                                    <li>genitive – (dorsan) <m>abaidean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an abaid</m></li>
+                                    <li>dative – (anns) <m>an abaid</m></li>
+                                    <li>genitive – (doras) <m>na h-abaid(e)</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na h-abaidean</m></li>
+                                    <li>dative – (anns) <m>na h-abaidean</m></li>
+                                    <li>genitive – (dorsan) <m>nan abaidean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>abaid</m></li>
+                                    <li>dative – (ann an) <m>abaid</m></li>
+                                    <li>genitive – (doras) <m>abaid</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an abaid</m></li>
+                                    <li>dative – (anns) <m>an abaid</m></li>
+                                    <li>genitive – (doras) <m>na h-abaid(e)</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>abaidean</m></li>
+                                    <li>dative – (ann an) <m>abaidean</m></li>
+                                    <li>genitive – (dorsan) <m>abaidean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na h-abaidean</m></li>
+                                    <li>dative – (anns) <m>na h-abaidean</m></li>
+                                    <li>genitive – (dorsan) <m>nan abaidean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>abaid</m></li>
+                                    <li>plural – <m>abaidean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an abaid</m></li>
+                                    <li>plural – <m>na h-abaidean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (ann an) <m>abaid</m></li>
+                                    <li>plural – (ann an) <m>abaidean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (anns) <m>an abaid</m></li>
+                                    <li>plural – (anns) <m>na h-abaidean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (doras) <m>abaid(e)</m></li>
+                                    <li>plural – (dorsan) <m>abaidean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (doras) <m>na h-abaid(e)</m></li>
+                                    <li>plural – (dorsan) <m>nan abaidean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+</module>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>simple adjectives</h>
+    <p>Simple adjectives are <a href="?xx=adjectives/adjectives">adjectives</a> which are not formed
+        from other words.</p>
+    <section id="mono">
+        <h>monosyllabic</h>
+        <p>List of monosyllabic simple adjectives – <ul>
+                <li><g>bàn</g>
+                    <en>pale</en></li>
+                <li><g>beag</g>
+                    <en>small, little</en> – <slen/> big(e)</li>
+                <li><g>binn</g>
+                    <en>melodious</en></li>
+                <li><a href="?gd=blàth"><g>blàth</g></a>
+                    <en>warm</en></li>
+                <li><g>bochd</g>
+                    <en>poor</en> – <slen/> bochd(a)</li>
+                <li><g>bog</g>
+                    <en>soft</en> – <slen/> buig(e)</li>
+
+                <li><g>borb</g>
+                    <en>fierce</en> – <slen/> buirb(e)</li>
+                <li><g>breac</g>
+                    <en>spotted</en> – <slen/> bric(e)</li>
+                <li><g>cam</g>
+                    <en>crooked</en></li>
+                <li><g>ceart</g>
+                    <en>right</en> – <slen/> ceirt(e)</li>
+                <li><g>cian</g>
+                    <en>far distant</en> – <slen/> cèin(e)</li>
+                <li><g>ciar</g>
+                    <en>grey</en> – <slen/> cèir(e)</li>
+                <li><g>crion</g>
+                    <en>very small</en> – <slen/> crin(e)</li>
+                <li><g>crom</g>
+                    <en>bent</en> – <slen/> cruim(e)</li>
+                <li><g>dall</g>
+                    <en>blind</en> – <slen/> doill(e)</li>
+                <li><g>dearg</g>
+                    <en>red</en> – <slen/> deirg(e)</li>
+                <li><g>deas</g>
+                    <en>ready</en> – <slen/> deis(e)</li>
+                <li><g>donn</g>
+                    <en>brown</en> – <slen/> duinn(e)</li>
+                <li><g>dorch</g>
+                    <en>dark</en></li>
+                <li><g>fial</g>
+                    <en>generous</en> – <slen/> fèil(e)</li>
+                <li><g>fliuch</g>
+                    <en>wet</en> – <slen/> flich(e)</li>
+                <li><g>gann</g>
+                    <en>scarce</en> – <slen/> goinn(e)</li>
+                <li><g>geal</g>
+                    <en>white</en> – <slen/> gil(e)</li>
+                <li><g>geur</g>
+                    <en>sharp</en> – <slen/> gèir(e)</li>
+                <li><g>glan</g>
+                    <en>clean</en> – <slen/> gloin(e)</li>
+                <li><g>glas</g>
+                    <en>grey</en></li>
+                <li><g>glic</g>
+                    <en>wise</en></li>
+                <li><a href="?gd=gorm"><g>gorm</g></a>
+                    <en>blue, green</en> – <slen/> guirm(e)</li>
+                <li><a href="?gd=làn"><g>làn</g></a>
+                    <en>full</en></li>
+                <li><g>lom</g>
+                    <en>naked</en> – <slen/> luim(e)</li>
+                <li><g>liath</g>
+                    <en>hoary</en> – <slen/> lèith(e)</li>
+                <li><g>mall</g>
+                    <en>slow</en> – <slen/> moill(e)</li>
+                <li><a href="?gd=math"><g>math</g></a>
+                    <en>good</en> – <emph>alt.</emph> maith</li>
+                <li><g>mion</g>
+                    <en>minute</en> – <slen/> min(e)</li>
+                <li><g>moch</g>
+                    <en>early</en> – <slen/> muich(e)</li>
+                <li><g>mòr</g>
+                    <en>great</en></li>
+                <li><g>òg</g>
+                    <en>young</en></li>
+                <li><g>olc</g>
+                    <en>bad</en> – <slen/> uilc(e)</li>
+                <li><g>pronn</g>
+                    <en>pounded</en> – <slen/> pruinn(e)</li>
+                <li><g>saor</g>
+                    <en>free, cheap</en></li>
+                <li><g>searbh</g>
+                    <en>bitter</en> – <slen/> seirbh(e)</li>
+                <li><g>slàn</g>
+                    <en>healthy</en></li>
+                <li><g>teann</g>
+                    <en>tight</en> – <slen/> teinn(e)</li>
+                <li><g>tearc</g>
+                    <en>scarce</en> – <slen/> teirc(e)</li>
+                <li><g>tinn</g>
+                    <en>sick</en></li>
+                <li><g>tiugh</g>
+                    <en>thick</en> – <slen/> tigh(e)</li>
+                <li><g>treun</g>
+                    <en>heroic</en> – <slen/> trèin(e)</li>
+                <li><g>trom</g>
+                    <en>heavy</en> – <slen/> truim(e)</li>
+                <li><g>ùr</g>
+                    <en>new</en></li>
+            </ul>
+        </p>
+    </section>
+
+    <section id="poly">
+        <h>polysyllabic</h>
+        <p>List of polysyllabic simple adjectives – <ul>
+                <li><a href="?gd=brèagha"><g>brèagha</g></a>
+                    <en>fine, beautiful, lovely</en></li>
+                <li><g>fada</g>
+                    <en>long</en>
+                    <slen/>
+                    <m>faid(e)</m></li>
+                <li><g>gasta</g>
+                    <en>handsome</en></li>
+                <li><g>grànda</g>
+                    <en>ugly</en>
+                    <slen/>
+                    <m>gràind(e)</m></li>
+                <li><g>sona</g>
+                    <en>lucky</en></li>
+                <li><g>tana</g>
+                    <en>thin</en>
+                    <slen/>
+                    <m>tain(e)</m></li>
+            </ul>
+        </p>
+        <p>Also – <ul>
+                <li><a href="?gd=bòidheach"><g>bòidheach</g></a>
+                    <en>pretty</en> – <slen/> bòidhich(e)</li>
+                <li><g>coitcheann</g>
+                    <en>catholic</en> – <slen/> coitchinn(e)</li>
+                <li><g>leathann</g>
+                    <en>broad</en> – <slen/>
+                    <m>leithn(e)</m></li>
+                <li><g>maiseach</g>
+                    <en>beautiful</en> – <slen/> maisich(e)</li>
+                <li><g>uasal</g>
+                    <en>noble</en> – <slen/>
+                    <m>uaisl(e)</m></li>
+            </ul>
+        </p>
+    </section>
+
+</module>

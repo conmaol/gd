@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>do</h>
+  <p>The particle <g>do</g> has three main uses – <ul>
+      <li>the illative preposition <a href="?gd=do^preposition"><g>do</g></a>
+        <en>(in)to, for</en></li>
+      <li>the past dependent verb particle <g>do</g></li>
+      <li>the possessive determiner <a href="?gd=do^determiner"><g>do</g></a>
+        <en>your</en></li>
+      <li/>
+    </ul>
+  </p>
+
+  <!--
+  <h lang="en">preposition</h>
+  <p lang="en">Examples –
+  <ulx id="prep">
+    <lix>
+      <gd>Is fhada bhon a bha daoine ag ràdh gum biodh àite cruinneachaidh <m>do</m> luchd-labhairt na Gàidhlig na leas <m>do</m> chor a’ chànain, na ghoireas <m>don</m> fheadhainn a bha an-sàs ann an gnìomhan
+        Gàidhlig mar-thà agus na mheadhan air aire agus ùidh sa Ghàidhlig a thogail.</gd>
+      <tr>For a long time people were saying that a gathering place <u>for</u> Gaelic speakers would be a benefit <u>to</u> the state of the language, an amenity <u>for</u> those who were involved in Gaelic
+        activities already and a means of raising awareness and interest in Gaelic.</tr>
+      <ref text="610">td. 85</ref>
+    </lix>
+  </ulx>
+  </p>
+  <hr/>
+  <h lang="en">particle</h>
+  <p lang="en">Dialectal variant: <strong>na</strong> = <strong>an do</strong> –</p>
+  <ulx id="exss">
+    <lix>
+      <gd>Rugadh am feallsanach Soren Kierkegaard ann sa’ bhliadhna 1813, an Copenhagen far <m>na</m> bhàsaich e nuair a bha e dà fhichead, ’s a dhà.</gd>
+      <tr>The philosopher Soren Kierkegaard was born in 1813, in Copenhagen where he died when he was 42.</tr>
+      <ref text="400-41">td. 103</ref>
+    </lix>
+  </ulx>
+  -->
+</module>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <title lang="en">slenderisation</title>
+    <p>Slenderisation is a <a href="?xx=sounds/mutations">mutation</a>.</p>
+    <p>cf. <a href="?xx=nouns/proper_nouns-declension">declension of proper nouns</a>,
+        <a href="?xx=nouns/common_nouns-dative_singular">dative singular declension of proper nouns</a>,
+        <a href="?xx=nouns/common_nouns-genitive_singular">genitive singular declension of proper nouns</a></p>
+    <p>The inverse of slenderisation is deslenderisation.</p>
+    <p><ed>under construction</ed></p>
+</module>
+

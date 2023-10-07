@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>sia</h>
+    <p><b>sia</b>
+        <en>six, 6</en> is a <a href="?xx=nouns/numerals">numeral</a>.</p>
+    <p>cf. <a href="?gd=deich&amp;mod=sia_deug">sia deug</a>
+        <en>sixteen, 16</en>.</p>
+    
+    <module id="siathamh">
+        <h>siathamh</h>
+        <p><b>siathamh</b>
+            <en>sixth, 6th</en> is a derived ordinal, with suffix <a href="?gd=_amh"
+            >-(e)amh</a>.</p>
+    </module>
+
+    <module id="sianar">
+        <h>sianar</h>
+        <p><b>sianar</b>
+            <en>six people</en> is a masculine <a href="?xx=nouns/numeric_nouns">numeric
+            noun</a>.</p>
+    </module>
+
+    <module id="seasgad">
+        <h>seasgad</h>
+        <p><b>seasgad</b>
+            <en>sixty, 60</en> is a modern derived <a href="?xx=nouns/numeric_base_nouns">numeric base
+                noun</a>.</p>
+        <module id="na_seasgadan">
+            <h>na seasgadan</h>
+            <p><b>na seasgadan</b>
+                <en>the sixties, the 60s</en></p>
+        </module>
+    </module>
+
+</module>

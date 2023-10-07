@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>gu</h>
+  <p><g>gu</g>
+    <en>to, until, till, unto, for</en> is the (non-leniting) allative <a
+      href="?xx=prepositions/prepositions">preposition</a>.</p>
+  <p>The allative preposition should not be confused with other uses of the particle <a
+      href="?gd=gu"><g>gu</g></a>.</p>
+  <section>
+    <h>forms</h>
+    <section id="indefinite">
+      <h>indefinite</h>
+      <p>The default form of the allative preposition is simply <g>gu</g> – <ul>
+          <li><m>gu</m> doras <en>to a door</en></li>
+          <li><m>gu</m> eileanan <en>to islands</en></li>
+          <li><m>gu</m> Tormod <en>to Norman</en></li>
+          <li><m>gu</m> trì craobhan <en>to three trees</en></li>
+        </ul></p>
+    </section>
+    <section id="definite">
+      <h>definite</h>
+      <p>When the immediately following word is a form of the definite article, the form <g>gus</g>
+        is used instead – <ul>
+          <li><m>gus an</m> doras <en>to the door</en></li>
+          <li><m>gus a’</m> bhalach <en>to the boy</en></li>
+          <li><m>gus na h-</m>eileanan <en>to the islands</en></li>
+        </ul>
+      </p>
+      <!-- <p><g>gus</g> is also used before certain other phrases starting with the particle <g>a</g>
+        (eg. <g>gus a-màireach</g>
+        <en>till tomorrow</en>, <g>gus a h-uile duine</g>
+        <en>to everyone</en>, and in prepositional relative clauses – an duine <g>gus an do
+          chuir</g> i an leabhar <en>the man to whom she sent the book</en>.</p>-->
+      <!-- <p>Note also that, in particular (spatial?) senses (see below), the preposition form
+          <g>gus</g> is <emph>not</emph> used before a definite article. Rather, the
+        pseudo-preposition <a href="?gd=chun">chun</a> is used instead.</p> -->
+      <p>Fused forms are occasionally found when the immediately following word is a <a
+          href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+          <li><m>gu mo</m> thaigh <en>to my house</en> ≈ <g>gum</g> thaigh </li>
+          <li><m>gu do</m> bhaile <en>to your town</en> ≈ <g>gud</g> bhaile </li>
+          <li><m>gu a h-</m>eaglais <en>to her church</en> ≈ <g>ga h-</g>eaglais</li>
+          <li>
+            <m>gu a</m> chraoibh <en>to his tree</en> ≈ <g>ga</g> chraoibh</li>
+          <li><m>gu ar n-</m>achadh <en>to our field</en> ≈ <g>gar n-</g>achadh</li>
+          <li><m>gu bhur</m> leapannan <en>to your beds</en> ≈ <g>gur</g> leapannan</li>
+          <li><m>gu an</m> taighean <en>to their houses</en> ≈ <g>gun</g> taighean</li>
+          <li><m>gu am</m> baile <en>to their town</en> ≈ <g>gum</g> baile</li>
+        </ul></p>
+      <p>Note that these fused forms are often ambiguous and hence are probably best avoided in
+        writing.</p>
+    </section>
+    <section id="pronoun">
+      <h>prepositional pronouns</h>
+      <p>Conjugated prepositions are used in place of <bad>gu mi</bad>, <bad>gu thu</bad>, ... ,
+          <bad>gu iad</bad> – <ul>
+          <li><m>thugam</m>
+            <en>to me</en></li>
+          <li><m>thugad</m>
+            <en>to you</en></li>
+          <li><m>thuice</m>
+            <en>to her/it</en></li>
+          <li><m>thuige</m>
+            <en>to him/it</en></li>
+          <li><m>thugainn</m>
+            <en>to us</en></li>
+          <li><m>thugaibh</m>
+            <en>to you</en></li>
+          <li><m>thuca</m>
+            <en>to them</en></li>
+        </ul>
+      </p>
+      <p>Note that the following variants are also found – <g>chugam</g>, <g>chugad</g>,
+          <g>chuice</g>, ... </p>
+      <p>There are also emphatic forms (cf. <bad>gu mise</bad>, <bad>gu thuse</bad>, ... , <bad>gu
+          iadsan</bad>) – <ul>
+          <li><m>thugamsa</m>
+            <en>to <emph>me</emph></en></li>
+          <li><m>thugadsa</m>
+            <en>to <emph>you</emph></en></li>
+          <li><m>thuicese</m>
+            <en>to <emph>her/it</emph></en></li>
+          <li><m>thuigesan</m>
+            <en>to <emph>him/it</emph></en></li>
+          <li><m>thugainne</m>
+            <en>to <emph>us</emph></en></li>
+          <li><m>thugaibhse</m>
+            <en>to <emph>you</emph></en></li>
+          <li><m>thucasan</m>
+            <en>to <emph>them</emph></en></li>
+        </ul>
+      </p>
+      <p>Note that the form <g>thuigesan</g> breaks the ‘slender-to-slender, broad-to-broad’
+        spelling rule, and hence is sometimes found written with a hyphen – <g>thuige-san</g>.</p>
+      <p>Finally, there are also reflexive forms (cf. <bad>gu mi fhìn</bad>, <bad>gu thu
+        fhèin</bad>, ... , <bad>gu iad fhèin</bad>) – <ul>
+          <li><m>thugam fhìn</m>
+            <en>to myself</en></li>
+          <li><m>thugad fhèin</m>
+            <en>to yourself</en></li>
+          <li><m>thuice fhèin</m>
+            <en>to herself/itself</en></li>
+          <li><m>thuige fhèin</m>
+            <en>to himself/itself</en></li>
+          <li><m>thugainn fhìn</m>
+            <en>to ourselves</en></li>
+          <li><m>thugaibh fhèin</m>
+            <en>to yourself</en></li>
+          <li><m>thuca fhèin</m>
+            <en>to themselves</en></li>
+        </ul>
+      </p>
+    </section>
+  </section>
+
+  <section>
+    <h>dependents</h>
+    <section id="comp">
+      <h>complement</h>
+      <p>Some examples – <ul>
+          <li>older pedagogical examples – <xl id="comp-older-pedag">
+              <li>
+                <gd>Tha mo mhàthair a’ sgrìobhadh litreach <m>gu m’athair</m> a tha air falbh.</gd>
+                <tr>My mother is writing a letter to my father who is away.</tr>
+                <ref text="621">td. 5</ref>
+              </li>
+              <li>
+                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’ chàr.
+                  Chaidh iad sìos taobh an locha is stad iad aig àite bòidheach gorm. Chuir iad an
+                  càr a stigh <m>gu taobh an rathaid</m> is thug iad brat a mach as a’ chàr air son
+                  suidhe air. [...]</gd>
+                <tr>The day was lovely and warm and their father took John and Ann in the car. They
+                  went down the side of the lake and they stopped at a beautiful green place. They
+                  put the car into the side of the road and they took a blanket out of the car for
+                  sitting on. [...]</tr>
+                <ref text="621">td. 6</ref>
+              </li>
+            </xl>
+          </li>
+        </ul>
+      </p>
+    </section>
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section id="uses-comp">
+      <h>complement</h>
+      <section>
+        <h>verb</h>
+        <p><g>gu</g> can be used to introduce the complement of certain verbs – <ul>
+            <li><g><a href="?gd=rach">rach</a> gu ...</g>
+              <en>go to something/someone</en></li>
+            <li><g><a href="?gd=sgrìobh">sgrìobh</a> gu ...</g>
+              <en>write to someone</en></li>
+          </ul>
+        </p>
+      </section>
+      <section>
+        <h>noun</h>
+        <p><g>gu</g> can be used to introduce the complement of certain nouns – <ul>
+            <li><g><a href="?gd=litir">litir</a> gu</g>
+              <en>a letter to/for someone</en></li>
+          </ul>
+        </p>
+      </section>
+      <section>
+        <h>adverb</h>
+        <p><g>gu</g> can be used to introduce the complement of certain pseudo-prepositions – <ul>
+            <li><g><a href="?gd=a-staigh">a-staigh</a> gu</g>
+              <en>inside (to)</en></li>
+          </ul>
+        </p>
+      </section>
+    </section>
+  </section>
+
+
+<!--
+
+  <section id="senses">
+    <h>senses</h>
+    <module id="spatial" status="bronze">
+      <h>spatial uses</h>
+      <p> In its spatial uses, <g>gu</g>
+        <en>to, up to, towards</en> identifies the termination point of a trajectory – <ul>
+          <li>Chaidh iad ’nan ruith <m>gu craoibh mhòir</m>. <en>They ran to a large tree.</en></li>
+          <li>Chuir mi <m>gu mo phàrantan</m> iad. <en>I sent them to my parents.</en></li>
+        </ul>
+        <xl id="spatial-xs">
+          <li>
+            <gd>Chaidh e <m>gu Glaschu</m>.</gd>
+            <tr>He went to (the outskirts of) Glasgow.</tr>
+            <ref text="605">td. 220</ref>
+          </li>
+          <li>
+            <gd>Cuiridh mi leabhar <m>thuice</m>.</gd>
+            <tr>I’ll send a book to her.</tr>
+            <ref text="605">td. 220</ref>
+          </li>
+          <li>
+            <gd>o thaigh <m>gu taigh</m></gd>
+            <tr>from house to house</tr>
+            <ref text="601">td. 346</ref>
+          </li>
+          <li>
+            <gd>o bheul <m>gu beul</m></gd>
+            <tr>from mouth to mouth</tr>
+            <ref text="601">td. 346</ref>
+          </li>
+          <li>
+            <gd>Bha sinn air an t-slighe <m>gu Ì agus Stafa</m>.</gd>
+            <tr>We were on the way to Ion and Staffa.</tr>
+            <ref text="601">td. 346</ref>
+          </li>
+          <li>
+            <gd>Dhìrich sinn an àird <m>gu mullach a’ chnuic</m>.</gd>
+            <tr>We climbed up to the top of the hill.</tr>
+            <ref text="601">td. 346</ref>
+          </li>
+          <li>
+            <gd>Chaidh sinn <m>gu cèilidh</m>.</gd>
+            <tr>We went to a ceilidh.</tr>
+            <ref text="601">td. 346</ref>
+            <note>A social event.</note>
+          </li>
+          <li>
+            <gd>An e seo am bus <m>gu Steòrnabhagh</m>?</gd>
+            <tr>Is this the bus for Stornoway?</tr>
+            <ref text="601">td. 346</ref>
+          </li>
+          <li>
+            <gd>Cha robh fuaim a’ tilleadh <m>thuige</m> ach a ghuth fhèin.</gd>
+            <tr>Not a sound was coming back to him but his own voice.</tr>
+            <ref text="601">td. 347</ref>
+            <note>Is this concrete or abstract?</note>
+          </li>
+          <li>
+            <gd>Bha i a’ tarraing a h-uile duine <m>thuice</m>.</gd>
+            <tr>She attracted everyone to her.</tr>
+            <ref text="601">td. 347</ref>
+            <note>Is this concrete or abstract?</note>
+          </li>
+        </xl>
+      </p>
+
+      <p>Note that, if the termination of the trajectory can be conceptualised as a container, and
+        the natural assumption is that the trajectory terminates <emph>inside</emph> that container,
+        then the preposition <a href="?gd=do">do</a> is used in preference to <g>gu</g> – <g>Chaidh
+          e do Ghlaschu.</g>
+        <en>He went (in)to Glasgow.</en></p>
+
+      <p>Note also that, when used spatially and followed by the definite article, the form
+          <g>gus</g> is not normally used – <bad>Chaidh iad gus a’ chraoibh.</bad> for <en>They went
+          to the tree.</en> Rather, the pseudo-preposition <a href="?gd=chun">chun</a> is used,
+        governing the genitive case – <g>Chaidh iad chun na craoibhe.</g> But – <xl id="gus_an-the">
+          <li>
+            <gd>Bha sreath de bheanntan àrda a’ ruith on tuath <m>gus an àirde deas</m>.</gd>
+            <tr>There was a range of high mountains running from the north to the south.</tr>
+            <ref text="601">td. 347</ref>
+            <note>Spatial extension.</note>
+          </li>
+        </xl>
+      </p>
+
+      <p><g>tuit gu talamh</g>
+        <en>fall to earth</en>
+        <xl id="tuit_gu_talamh">
+          <li>
+            <gd>Thuit e gu h-aotrom <m>gu talamh</m>.</gd>
+            <tr>It fell lightly to earth.</tr>
+            <ref text="601">td. 346</ref>
+          </li>
+        </xl>
+      </p>
+
+      <p>With parts of the body, describing a change in posture or self-configuration (or related
+        extent) – <xl id="gu_casan">
+          <li>
+            <gd>Dh’èirich e <m>gu a chasan</m>.</gd>
+            <tr>He rose to his feet.</tr>
+            <ref text="601">td. 346</ref>
+          </li>
+          <li>
+            <gd>Bheir eagal duine <m>gu a ghlùinean</m>.</gd>
+            <tr>Fear will bring a man to his knees.</tr>
+            <ref text="601">td. 346</ref>
+          </li>
+          <li>
+            <gd>Bha falt donn oirre <m>gu a guailnean</m>.</gd>
+            <tr>She wore brown hair to her shoulders.</tr>
+            <ref text="601">td. 346</ref>
+          </li>
+        </xl>
+      </p>
+
+      <p>cf. <a href="?gd=gu_ruige">gu ruige</a>
+        <en>up to, as far as, until</en></p>
+
+      <p>Other examples from modern usage – <xl id="other">
+          <li>
+            <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich <m>gu inbhe taidhcùn</m>.
+              Rinn e sin tro dhìcheall, obair chruaidh agus tàlant malairt a bha neo-ghnàthach.
+              An-diugh tha iomadh companaidh na ainm air feadh na Gàidhealtachd. [...]</gd>
+            <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. He did
+              that through duty, hard work and a talent for business that was unusual. Today there
+              are many companies in his name all over the Highlands. [...]</tr>
+            <ref text="2">td. 5</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <module id="temporal" status="bronze">
+      <h>temporal bounding</h>
+      <p>When <g>gu</g>
+        <en>until, till</en> governs a noun expression which can be interpreted as identifying a
+        point in time, it introduces a <emph>bounding</emph> adverbial, converting an imperfective
+        situation into a perfective one with a specified termination point – <ul>
+          <li>Bidh Raonaid ann an Lunnainn <m>gu Disathairne</m>. <en>Rachel will be in London till
+              Saturday.</en>
+          </li>
+          <li>Shnàmh e anns an abhainn <m>gu meadhan latha</m>. <en>He swam in the river until
+              noon.</en>
+            <ed>Bha e a’ snàmh ??</ed></li>
+          <li>Bha i a’ gnogadh air an doras <m>gu seachd uairean</m>. <en>She knocked on the door
+              until seven o’clock.</en>
+            <ed>Ghnog i air ... Ghnogadh i air ... ??</ed></li>
+          <li>Bheireadh e flùraichean thuice gach madainn <m>gus a’ bhanais</m>. <en>He brought her
+              flowers every morning until the wedding.</en></li>
+        </ul>
+        <xl id="temporal-xs">
+          <li>
+            <gd>Fanaidh sinn <m>gu sia uairean</m>.</gd>
+            <tr>We’ll wait/stay till six o’clock.</tr>
+            <ref text="605">td. 221</ref>
+          </li>
+          <li>
+            <gd>Tha aig luchd-leughaidh <m>gu deireadh a’ mhìos seo</m> gu bhith a’ gabhail compàirt
+              anns a’ cho-fharpais.</gd>
+            <tr>Readers have until the end of the month to participate in the competition.</tr>
+            <ref text="601">td. 346</ref>
+            <note>This is an odd example to parse.</note>
+          </li>
+          <li>
+            <gd><m>a-nuas gus an ochdamh linn deug</m></gd>
+            <tr>up [ie. down!] to the eighteenth century</tr>
+            <ref text="601">td. 347</ref>
+            <note>definite</note>
+          </li>
+          <li>
+            <gd>Cha do thòisich iad air an obair <m>gu toiseach na Lùnastail</m>.</gd>
+            <tr>They didn’t start on the work until the beginning of August.</tr>
+            <ref text="601">td. 347</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Examples from Gairm – <xl id="gairm">
+          <li>
+            <gd>Ma rannsaicheas sinn air ais fada gu leòir chì sinn nach robh sgoilean anns an Oban
+                <m>gus an ochdamh linn deug</m>. Bha an sgoil bheag a b’ fhaisge air anns a’ Chill
+              Mhóir cóig mìle air falbh, agus tha e coltach gu robh an sgoil sin air an fheadhainn
+              bu shine an Earra-Ghaidheal.</gd>
+            <tr>If we research back long enough we will see that there were no schools in Oban until
+              the eighteenth century. The closest little school was in Kilmore five miles away, and
+              it appears that that school was one of the oldest in Argyll.</tr>
+            <ref text="400-20">td. 363</ref>
+          </li>
+        </xl>
+      </p>
+      <p>More complex examples where <g>gu</g> appears to govern an adverb or prepositional
+        expression – <xl id="temporal-xs-2">
+          <li>
+            <gd>Chan urrainn dhomh a ghleidheadh <m>gus a-màireach</m>.</gd>
+            <tr>I can’t keep/save it until tomorrow.</tr>
+            <ref text="605">td. 221</ref>
+          </li>
+          <li>
+            <gd>Cha robh an eaglais air a togail <m>gu timcheall air ceud bliadhna an dèidh
+              sin</m>.</gd>
+            <tr>The church wasn’t built until about a hundred years after that.</tr>
+            <ref text="601">td. 346–7</ref>
+          </li>
+        </xl>
+      </p>
+
+      <p>Some idiomatic usages – <ul>
+          <li><g>gu seo</g>
+            <en>until now</en> – <xl id="gu_seo">
+              <li>
+                <gd>Faodar a ràdh nach robh a leithid ann <m>gu seo</m>.</gd>
+                <tr>It may be stated that such a thing has never existed until now.</tr>
+                <ref text="601">td. 346</ref>
+              </li>
+            </xl></li>
+          <li>
+            <g>gu latha/madainn</g>
+            <en>until dawn/daybreak/morning</en> – <xl id="gu_latha">
+              <li>
+                <gd>Chan eil ann ach fuireach far a bheil sinn <m>gu latha</m>.</gd>
+                <tr>There’s nothing for it but to stay where we are until day.</tr>
+                <ref text="601">td. 346</ref>
+              </li>
+              <li>
+                <gd>Bha ceòl agus aighearachd ann <m>gu madainn</m>.</gd>
+                <tr>There was music and merriment until morning.</tr>
+                <ref text="601">td. 346</ref>
+              </li>
+            </xl></li>
+          <li><g>gu o chionn ghoirid</g>
+            <en>until recently</en> – <xl id="gu_o_chionn_ghoirid">
+              <li>
+                <gd>Cha robh sgeul air <m>gu o chionn ghoirid</m>.</gd>
+                <tr>There was no sign of it until recently.</tr>
+                <ref text="601">td. 346</ref>
+              </li>
+            </xl></li>
+          <li><g>gu aon latha nuair a ...</g>
+            <en>until one day when ...</en> – <xl id="gu_aon_latha">
+              <li>
+                <gd>Bha iad sona <m>gu aon latha nuair a ...</m></gd>
+                <tr>They were happy until one day when ...</tr>
+                <ref text="601">td. 346</ref>
+                <note>cf. <g>gus an</g> ...</note>
+              </li>
+            </xl></li>
+          <li><g>chan fhada gu ...</g>
+            <en>it will not be long until ...</en> – <xl id="chan_fhada_gu">
+              <li>
+                <gd>Chan fhad’ <m>thuige</m> a-nis.</gd>
+                <tr>It won’t be long now.</tr>
+                <ref text="605">td. 220</ref>
+              </li>
+            </xl></li>
+        </ul>
+      </p>
+
+      <p>cf. <a href="?gd=gu_ruige">gu ruige</a>
+        <en>up to, as far as, until</en>, <a href="?gd=gus">gus (an)</a>
+        <en>until, till</en></p>
+
+    </module>
+
+    <module id="abstract" status="bronze">
+      <h>abstract uses</h>
+      <p><g>thig gu crìch</g>
+        <en>come to an end</en>
+        <xl id="thig_gu_crich">
+          <li>
+            <gd>Thàinig a’ choinneamh <m>gu crìch</m> aig ochd uairean.</gd>
+            <tr>The meeting came to an end at eight o’clock.</tr>
+            <ref text="601">td. 346</ref>
+          </li>
+        </xl>
+      </p>
+
+      <p><g>thoir gu bith</g>
+        <en>bring into being</en>
+        <xl id="thoir_gu_bith">
+          <li>
+            <gd>airson na molaidhean sin a thoirt <m>gu bith</m></gd>
+            <tr>to bring these recommendations into being</tr>
+            <ref text="601">td. 346</ref>
+          </li>
+        </xl>
+      </p>
+
+      <p><g>cuir gu feum</g>
+        <en>put to use</en>
+        <xl id="cuir_gu_feum">
+          <li>
+            <gd>Chuir ise <m>gu feum math</m> iad.</gd>
+            <tr>She put them to good use.</tr>
+            <ref text="601">td. 346</ref>
+          </li>
+        </xl>
+      </p>
+
+      <p><g>air a dhèanamh gu a leth</g>
+        <en>half-done</en>
+        <xl id="gu_a_leth">
+          <li>
+            <gd>Bha botal uisge-bheatha air òl <m>gu a leth</m>.</gd>
+            <tr>There was a half-drunk bottle of whisky.</tr>
+            <ref text="601">td. 346</ref>
+          </li>
+        </xl>
+      </p>
+
+      <p><g>thig thug[am]</g>
+        <en>come to, revive</en>
+        <xl id="thig_thugam">
+          <li>
+            <gd>Thàinig mi <m>thugam</m> fhèin.</gd>
+            <tr>I revived / I came to.</tr>
+            <ref text="601">td. 347</ref>
+          </li>
+        </xl>
+      </p>
+
+      <p>Figurative examples – <xl id="temporal-fig-xs">
+          <li>
+            <gd>Chaidh m’ inntinn air ais <m>gu Oidhche Shamhna</m> mòran bhliadhnachan air
+              ais.</gd>
+            <tr>My mind went bac to a Halloween night many years ago.</tr>
+            <ref text="601">td. 346</ref>
+          </li>
+        </xl>
+      </p>
+
+    </module>
+
+  </section>
+  -->
+
+  <!--
+  <p><strong>gu</strong> can be used to introduce a time adverbial expressing the end-point of a
+    state or activity. For example –</p>
+  <ul>
+    <li class="ex" data-slip="2977"/>
+  </ul>
+  <p>Note also the idiom <strong>thoir do dhuine gu ... (airson) rud a dhèanamh</strong>
+    <span class="text-muted">‘give someone until ... to do something’</span> –</p>
+  <ul>
+    <li class="ex" data-slip="2968"/>
+  </ul>
+  <p>cf. <strong>gu bràth</strong>
+    <span class="text-muted">‘for ever(more)’</span>, <span class="text-muted">‘until the end of
+      time’</span> –</p>
+  <ul>
+    <li class="ex" data-slip="2967"/>
+    <li class="ex" data-slip="2969"/>
+    <li class="ex" data-slip="2972"/>
+    <li class="ex" data-slip="2974"/>
+    <li class="ex" data-slip="2976"/>
+  </ul>
+  <p>See also: the pseudo-conjunction <strong><a href="gus.php">gus</a></strong>
+    <span class="text-muted">‘until’</span>.</p>
+  <hr/>
+  <p>cf. the frequency adverbial <strong>bho àm gu àm</strong>
+    <span class="text-muted">‘from time to time’</span>, <span class="text-muted"
+      >‘occasionally’</span> –</p>
+  <ul>
+    <li class="ex" data-slip="2970"/>
+    <li class="ex" data-slip="2971"/>
+    <li class="ex" data-slip="2975"/>
+    <li class="ex" data-slip="2973"/>
+  </ul>
+  -->
+
+
+</module>

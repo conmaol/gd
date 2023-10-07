@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>simple common nouns</h>
+  <p>Simple common nouns are <a href="?xx=nouns/common_nouns">common nouns</a> that are not formed
+    from other words.</p>
+  <p>List of simple common nouns (with idiosyncracies noted) – <ul>
+      <li><a href="?gd=aba"><g>aba</g></a>
+        <masc/>
+        <en>abbot</en> pl. <g>abachan</g></li>
+      <li><m>abhainn</m> fem. <en>river</en> gen. <b>aibhne</b> pl. <b>aibhnichean</b></li>
+      <li><m>adhbhar</m> masc. <en>reason</en> pl. <b>adhbharan</b> (†<b>adhbhairean</b>)</li>
+      <li><m>airgead</m> masc. <en>silver</en></li>
+      <li><a href="?gd=aithne">aithne</a>
+        <i>fem.</i>
+        <en>knowledge, acquaintance</en></li>
+      <li><a href="?gd=aite"><g>àite</g></a>
+        <masc/>
+        <en>place</en></li>
+      <li><m>arm</m> masc. <en>army</en></li>
+      <li><a href="?gd=athair"><g>athair</g></a>
+        <masc/>
+        <en>father</en> gen. <g>athar</g> pl. <g>athraichean</g></li>
+      <li><m>baga</m> masc. <en>bag</en> pl. <b>bagaichean</b></li>
+      <li><a href="?gd=baile"><g>baile</g></a>
+        <masc/>
+        <en>town</en> pl. <g>bailtean</g></li>
+      <li><m>balach</m> masc. <en>boy</en></li>
+      <li><m>balla</m> masc. <en>wall</en> pl. <b>ballachan</b></li>
+      <li><m>bàrd</m> masc. <en>poet</en></li>
+      <li><a href="?gd=basgaid"><g>basgaid</g></a>
+        <fem/>
+        <en>basket</en></li>
+      <li><m>bàta</m> masc. <en>boat</en> pl. <b>bàtaichean</b></li>
+      <li><a href="?gd=beachd"><g>beachd</g></a>
+        <masc/>
+        <en>opinion, idea, view</en></li>
+      <li><m>bean</m> fem. <en>woman</en> gen. <b>mnatha</b>, <b>mnà</b> dat. <b>mnaoi</b> pl.
+          <b>mnathan</b></li>
+      <li><a href="?gd=beairt"><g>beairt</g></a>
+        <fem/>
+        <en>wealth, riches, affluence</en></li>
+      <li><m>beul</m> masc. <en>mouth</en> gen. <b>beòil</b>, pl. <b>beòil</b></li>
+      <li><a href="?gd=biadh"><g>biadh</g></a>
+        <masc/>
+        <en>food</en> gen. <g>bìdh</g></li>
+      <li><m>bò</m> fem. <en>cow</en> gen. <b>bà</b> dat. <b>boin</b> pl. <b>bà</b></li>
+      <li><m>bodach</m> masc. <en>old man</en></li>
+      <li><a href="?gd=bogsa"><g>bogsa</g></a>
+        <masc/>
+        <en>box</en></li>
+      <li><m>bòrd</m> masc. <en>table</en> gen. <b>bùird</b> pl. <b>bùird</b></li>
+      <li><a href="?gd=brat"><g>brat</g></a>
+        <masc/>
+        <en>carpet, mat</en></li>
+      <li><m>bràthair</m> masc. <en>brother</en> gen. <b>bràthar</b> pl. <b>bràthraichean</b></li>
+      <li><m>bròg</m> fem. <en>shoe</en></li>
+      <li><a href="?gd=bun"><g>bun</g></a>
+        <masc/>
+        <en>base, butt, source</en></li>
+      <li><a href="?gd=bùth"><g>bùth</g></a>
+        <fem/>
+        <en>shop, booth</en></li>
+      <li><m>caisteal</m> masc. <en>castle</en> pl. <b>caistealan</b></li>
+      <li><m>cànan</m> masc. <en>language</en></li>
+      <li><a href="?gd=càr"><g>càr</g></a>
+        <masc/>
+        <en>car</en></li>
+      <li><m>cat</m> masc. <en>cat</en></li>
+      <li><a href="?gd=cathair"><g>cathair</g></a>
+        <fem/>
+        <en>chair</en></li>
+      <li><m>ceòl</m> masc. <en>music</en> gen. <b>ciùil</b></li>
+      <li><m>ceum</m> masc. <en>step</en> gen. <b>ceuma</b> (†<b>cèim</b>), pl. <b>ceuman</b>,
+          <b>ceumannan</b></li>
+      <li><a href="?gd=cladh"><g>cladh</g></a>
+        <masc/>
+        <en>graveyard</en></li>
+      <li><m>cnoc</m> masc. <en>hill</en> gen. <b>cnuic</b> pl. <b>cnuic</b></li>
+      <li><m>coire</m> masc. <en>kettle</en> pl. <b>coirean</b></li>
+      <li><m>craobh</m> fem. <en>tree</en></li>
+      <li><a href="?gd=crìoch">crìoch</a>
+        <i>fem.</i>
+        <en>end, boundary</en></li>
+      <li><a href="?gd=croit">croit</a>
+        <i>fem.</i>
+        <en>croft</en></li>
+      <li><a href="?gd=cù"><g>cù</g></a> masc. <en>dog</en> gen. <g>coin</g> pl. <g>coin</g></li>
+      <li><m>dealbh</m> fem. <en>picture</en> gen. <b>deilbhe</b>, <b>dealbha</b></li>
+      <li><m>deoch</m> fem. <en>drink</en> gen. <b>dighe</b>, <b>dibhe</b></li>
+      <li><a href="?gd=dìcheall">dìcheall</a>
+        <masc/>
+        <en>diligence, effort, application</en></li>
+      <li><a href="?gd=doras"><g>doras</g></a>
+        <masc/>
+        <en>door</en> pl. <g>dorsan</g></li>
+      <li><m>duine</m> masc. <en>man</en> pl. <b>daoine</b></li>
+      <li><m>dùn</m> masc. <en>fort</en></li>
+      <li><m>each</m> masc. <en>horse</en></li>
+      <li><a href="?gd=eachdraidh"><g>eachdraidh</g></a>
+        <fem/>
+        <en>history</en></li>
+      <li><a href="?gd=eaglais"><g>eaglais</g></a>
+        <fem/>
+        <en>church, kirk</en></li>
+      <li><a href="?gd=easbaig"><g>easbaig</g></a>
+        <masc/>
+        <en>bishop</en></li>
+      <li><m>falt</m> masc. <en>hair</en> gen. <b>fuilt</b> pl. <b>fuiltean</b></li>
+      <li><m>fear</m> masc. <en>man</en> gen. <b>fir</b> pl. <b>fir</b></li>
+      <li><m>fiadh</m> masc. <en>deer</en></li>
+      <li><m>fios</m> masc. <en>knowledge</en> gen. <b>fiosa</b> pl. <b>fiosan</b></li>
+      <li><m>Gàidheal</m> masc. <en>Gael</en></li>
+      <li><m>gaol</m> masc. <en>love</en></li>
+      <li><m>gille</m> masc. <en>boy</en></li>
+      <li><m>geansaidh</m> masc. <en>jumper</en></li>
+      <li><a href="?gd=làmh"><g>làmh</g></a>
+        <fem/>
+        <en>hand</en></li>
+      <li><a href="?gd=latha"><g>latha</g></a>
+        <masc/>
+        <en>day</en> pl. <g>làithean</g> (†<g>lathachan</g>)</li>
+      <li><m>leabaidh</m> fem. <en>bed</en> gen. <b>leapa</b> pl. <b>leapannan</b></li>
+      <li><m>leabhar</m> masc. <en>book</en> pl. <b>leabhraichean</b></li>
+      <li><a href="?gd=litir"><g>litir</g></a>
+        <fem/>
+        <en>letter</en> pl. <b>litrichean</b></li>
+      <li><a href="?gd=loch"><g>loch</g></a>
+        <masc/>
+        <en>lake</en> pl. <g>lochan</g> gen. <g>locha</g></li>
+      <li><m>mac</m> masc. <en>son</en> gen. <b>mic</b> pl. <b>mic</b></li>
+      <li><a href="?gd=manach"><g>manach</g></a>
+        <masc/>
+        <en>monk</en></li>
+      <li><a href="?gd=maor"><g>maor</g></a>
+        <masc/>
+        <en>officer</en></li>
+      <li><m>mapa</m> masc. <en>map</en> pl. <b>mapaichean</b></li>
+      <li><a href="?gd=màthair"><g>màthair</g></a>
+        <fem/>
+        <en>mother</en> gen. <g>màthar</g> pl. <g>màthraichean</g></li>
+      <li><a href="?gd=oifig"><g>oifig</g></a>
+        <fem/>
+        <en>office</en></li>
+      <li><m>òran</m> masc. <en>song</en></li>
+      <li><m>pàipear</m> masc. <en>paper</en> pl. <b>pàipearan</b></li>
+      <li><a href="?gd=paraiste"><g>paraiste</g></a>
+        <fem/>
+        <en>parish</en></li>
+      <li><m>pìob</m> fem. <en>pipe</en> gen. <b>pìoba</b></li>
+      <li><m>piuthar</m> fem. <en>sister</en> gen. <b>peathar</b> pl. <b>peathraichean</b></li>
+      <li><a href="?gd=post"><g>post</g></a>
+        <masc/>
+        <en>post</en></li>
+      <li><a href="?gd=rathad"><g>rathad</g></a>
+        <masc/>
+        <en>road</en> pl. <b>rathaidean</b></li>
+      <li><m>rùm</m> masc. <en>room</en> pl. <b>rumannan</b></li>
+      <li><m>saoghal</m> masc. <en>world</en></li>
+      <li><a href="?gd=sagart"><g>sagart</g></a>
+        <masc/>
+        <en>priest</en> pl. <b>sagartan</b></li>
+      <li><m>sgian</m> fem. <en>knife</en> gen. <b>sgèine</b>, <b>sgine</b> dat.
+        <b>sgithinn</b></li>
+      <li><m>sràid</m> fem. <en>street</en></li>
+      <li><m>sròn</m> fem. <en>nose</en> pl. <b>sròintean</b></li>
+      <li><a href="?gd=stampa"><g>stampa</g></a>
+        <fem/>
+        <en>stamp</en></li>
+      <li><a href="?gd=stèidh"><g>stèidh</g></a>
+        <fem/>
+        <en>base, foundation</en></li>
+      <li><m>sùil</m> fem. <en>eye</en> gen. <b>sùla</b> gen. pl. <b>sùl</b></li>
+      <li><m>taigh</m> masc. <en>house</en> gen. <b>taighe</b></li>
+      <li><a href="?gd=tì"><g>tì</g></a>
+        <fem/>
+        <en>tea</en></li>
+      <li><a href="?gd=taobh"><g>taobh</g></a>
+        <masc/>
+        <en>side</en></li>
+      <li><m>toll</m> masc. <en>hole</en> gen. <b>tuill</b> pl. <b>tuill</b></li>
+      <li><m>tonn</m> masc. <en>wave</en> gen. <b>tuinn</b> pl. <b>tuinn</b></li>
+      <li><a href="?gd=uair">uair</a> fem. <en>time, hour</en> gen. <b>uarach</b></li>
+    </ul>
+  </p>
+</module>

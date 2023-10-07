@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>fiosrachadh</h>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>modifier</h>
+            <p>cf. <b><a href="?gd=tional">tional</a> fiosrachaidh</b>
+                <en>data collection</en></p>
+        </section>
+    </section>
+</module>

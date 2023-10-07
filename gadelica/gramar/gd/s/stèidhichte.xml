@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>stèidhichte</h>
+    <p><g>stèidhichte</g>
+        <en>established, based, founded</en> is a derived adjective, consisting of stem <a
+            href="?gd=stèidhich"><g>stèidhich</g></a>
+        <vb/>
+        <en>base, establish, found</en> and suffix <a href="?gd=_te"><g>-te</g></a>.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>modifier</h>
+            <p><a href="?gd=eaglais_stèidhichte"><g>eaglais stèidhichte</g></a>
+                <en>established church</en></p>
+        </section>
+    </section>
+
+</module>

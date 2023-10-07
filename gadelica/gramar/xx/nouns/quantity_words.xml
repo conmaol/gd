@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <title lang="en">quantity words</title>
+    <title lang="gd">faclan uiread</title>
+    <hr/>
+  <p>Quantity words are words which help to describe <a href="?xx=nouns/quantity_expressions">quantities</a> of a substance or aggregate. 
+      In other words, quantity words introduce responses to the following kinds of question –</p>
+    <ul>
+      <li><m>Cia mheud fìona</m> a dh’òl Raonaid? <en>How much wine did Rachel drink?</en></li>
+      <li><m>Cia mheud chon</m> a tha aig Màiri? <en>How many dogs does Mary have?</en></li>
+    </ul>
+    <p>The main kinds of quantity words are –</p>
+    <ul>
+      <li>the <a href="?xx=nouns/numerals">numerals</a> – aon <en>one</en>, dà <en>two</en>, trì <en>three</en>, ceithir <en>four</en>, ..., deich <en>ten</en>
+        <ul>
+          <li>Tha <m><u>sia</u> coin</m> aig Màiri. <en>Mary has six dogs.</en></li>
+        </ul>
+      </li>
+      <li>the <a href="?xx=nouns/numeric_quantity_nouns">numeric quantity nouns</a> – dusan <en>dozen, twelve</en>, fichead <en>score, twenty</en>, ceud <en>hundred</en>, etc.
+        <ul>
+          <li>Tha <m><u>fichead</u> cù</m> aig Màiri. <en>Mary has twenty dogs.</en></li>
+        </ul>
+      </li>
+      <li>the <a href="?xx=nouns/generic_quantity_nouns">generic quantity nouns</a> – mòran <en>many, a lot</en>, barrachd <en>more</en>, cus <en>too much/many</en>, etc.
+        <ul>
+          <li>Dh’òl Raonaid <m><u>mòran</u> fìona</m>. <en>Rachel drank a lot of wine.</en></li>
+          <li>Tha <m><u>mòran</u> chon</m> aig Màiri. <en>Mary has a lot of dogs.</en></li>
+        </ul>
+      </li>
+      <li>the <a href="?xx=nouns/measure_nouns">measure nouns</a> – botal <en>bottle</en>, clach <en>stone</en>, etc.
+        <ul>
+          <li>Dh’òl Raonaid <m><u>botal</u> fìona</m>. <en>Rachel drank a bottle of wine.</en></li>
+        </ul>
+      </li>
+    </ul>
+  
+  
+    <hr/>
+  
+  <!--
+    <h5>Numeric quantities</h5>
+    
+    
+    <h5>Weights and measures</h5>
+    <p><a href="?xx=nouns/measures">weights and measures</a></p>
+    <p>ounce (oz) unnsa, uinge</p>
+    <p>pound (lb) – 16 oz punnd</p>
+    <p>stone (st) – 14 lb clach</p>
+    <p>ton (t) – 2,240 lb, 20 cwt</p>
+    <p>hundredweight (cwt) – 112 lb, 8 stone sgèile, ceud-cothrom</p>
+    
+    <p>dabhach, peighinn, unga, mann, tìr-unga, ceathramh, cromadh</p>
+    <hr/>
+    <p>cf. <a href="?xx=nouns/quantity_nouns">quantity nouns</a></p>
+    -->
+</module>
+

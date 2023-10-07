@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>basgaid</h>
+    <p><g>basgaid</g>
+        <en>basket</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>modifiers</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="mod-older-pedag">
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                                    anns a’ chàr. Chaidh iad sìos taobh an locha is stad iad aig
+                                    àite bòidheach gorm. Chuir iad an càr a stigh gu taobh an
+                                    rathaid is thug iad brat a mach as a’ chàr air son suidhe air.
+                                    Tha <m>bascaid làn de bhiadh</m> aca is tha iad a’ dol a ghabhail an
+                                        tea air a’ chnocan ghorm. [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. They put the car into the side of
+                                    the road and they took a blanket out of the car for sitting on.
+                                    They have a basket full of food and they are going to have their
+                                    tea on the little green hill. [...] </tr>
+                                <ref text="621">td. 6–7</ref>
+                                <note><a href="?gd=làn"><g>làn</g></a> <adj/> <en>full</en></note>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>subject</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="a_dol-older-pedag">
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                                    anns a’ chàr. Chaidh iad sìos taobh an locha is stad iad aig
+                                    àite bòidheach gorm. Chuir iad an càr a stigh gu taobh an
+                                    rathaid is thug iad brat a mach as a’ chàr air son suidhe air.
+                                    <m>Tha bascaid</m> làn de bhiadh aca is tha iad a’ dol a ghabhail an
+                                        tea air a’ chnocan ghorm.</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. They put the car into the side of
+                                    the road and they took a blanket out of the car for sitting on.
+                                    They have a basket full of food and they are going to have their
+                                    tea on the little green hill.</tr>
+                                <ref text="621">td. 6–7</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+</module>

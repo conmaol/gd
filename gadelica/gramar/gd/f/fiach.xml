@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title lang="en">fiach</title>
+  <title lang="gd">fiach</title>
+  <p lang="en"><strong>fiach</strong> is a masculine abstract common noun, with genitive singular <strong>fèich</strong> and plural <strong>fiachan</strong>, descended from Old Gaelic <a
+      href="https://dil.ie/21871" target="_new">fíach</a>. In modern Scottish Gaelic, <strong>fiach</strong> has two main sets of uses, relating to the following two senses –</p>
+  <ul lang="en">
+    <li><en>obligation, duty, debt</en></li>
+    <li><en>value, worth</en></li>
+  </ul>
+  <hr/>
+  <h lang="en">obligation, duty, debt</h>
+  <p lang="en">Basic examples – <ulx id="debt">
+      <lix>
+        <gd>dìoghail fiach</gd>
+        <tr>repay a debt</tr>
+        <ref text="605">td. 186</ref>
+      </lix>
+      <lix>
+        <gd>Maith dhuinn ar fiachan.</gd>
+        <tr>Forgive us our debts. [Biblical]</tr>
+        <ref text="605">td. 186</ref>
+      </lix>
+      <lix>
+        <gd>fiachan gun dioladh</gd>
+        <tr>arrear(s)</tr>
+        <ref text="601">td. 298</ref>
+      </lix>
+      <lix>
+        <gd>Dhubh e a-mach cùnntas nam fiachan a bha nar n-aghaidh.</gd>
+        <tr>He wiped out the account of the debts that were against us.</tr>
+        <ref text="601">td. 298</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p lang="en">A proverb – <ulx id="proverb">
+      <lix>
+        <gd>Cha tèid fiach air beul dùinte.</gd>
+        <tr>A closed mouth doesn’t run into debt.</tr>
+        <ref text="605">td. 186</ref>
+      </lix>
+      <lix>
+        <gd>Cha tèid fiachan air beul dùinte.</gd>
+        <tr>A closed mouth won’t get into debts.</tr>
+        <ref text="601">td. 298</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p lang="en">Idiomatic prepositional compounds using the old dative plural form <strong>fiachaibh</strong> –</p>
+  <ul lang="en">
+    <li><strong>mar fhiachaibh air</strong>
+      <en>incumbent upon</en> – <ulx id="mar_fiachaibh">
+        <lix>
+          <gd>mar fhiachaibh oirnn(e)</gd>
+          <tr>incumbent upon us</tr>
+          <ref text="603">td. 58</ref>
+        </lix>
+        <lix>
+          <gd>Tha e mar fhiachaibh orm facal no dhà a ràdh.</gd>
+          <tr>It is incumbent upon me to say a few words.</tr>
+          <ref text="605">td. 186–7</ref>
+        </lix>
+        <lix>
+          <gd>Tha e mar fhiachaibh air an Riaghaltas seo a dhèanamh.</gd>
+          <tr>It is incumbent upon the Government to do this.</tr>
+          <ref text="601">td. 298</ref>
+        </lix>
+        <lix>
+          <gd>Cha do shaoil e gun robh e mar fhiachaibh air a bhith ...</gd>
+          <tr>He did not think that he was obliged to be ...</tr>
+          <ref text="601">td. 298</ref>
+        </lix>
+        <lix>
+          <gd>Thàinig e mar fhiachaibh air a’ chomann oibreachadh airson aonaidh.</gd>
+          <tr>The society was obliged to work for unity.</tr>
+          <ref text="601">td. 298</ref>
+        </lix>
+        <lix>
+          <gd>cuir mar fhiachaibh air</gd>
+          <tr>oblige, compel</tr>
+          <ref text="603">td. 58</ref>
+        </lix>
+        <lix>
+          <gd>Chuir iad mar fhiachaibh orm an dreuchd a ghabhail.</gd>
+          <tr>They obliged me / made me feel obliged to to accept the post.</tr>
+          <ref text="605">td. 187</ref>
+        </lix>
+        <lix>
+          <gd>Chuir e mar fhiachaibh orm <m>gu</m> a chuideachadh.</gd>
+          <tr>He obliged me to help him.</tr>
+          <ref text="605">td. 187</ref>
+        </lix>
+      </ulx>
+    </li>
+    <li><strong>fo fhiachaibh do</strong>
+      <en>indebted to</en> – <ulx id="fo_fiachaibh">
+        <lix>
+          <gd>fo fhiachaibh</gd>
+          <tr>indebted to, owing to</tr>
+          <ref text="603">td. 58</ref>
+        </lix>
+        <lix>
+          <gd>bi fo fhiachaibh do</gd>
+          <tr>owe</tr>
+          <ref text="601">td. 298</ref>
+        </lix>
+        <lix>
+          <gd>Tha mi fo fhiachaibh dhaibh.</gd>
+          <tr>I’m indebted to them.</tr>
+          <ref text="605">td. 187</ref>
+          <note>Not necessarily financially.</note>
+        </lix>
+        <lix>
+          <gd>Bha mi fo fhiachaibh mhòra dhaibh.</gd>
+          <tr>I was greatly indebted to them / I owed them a great deal.</tr>
+          <ref text="601">td. 298</ref>
+        </lix>
+        <lix>
+          <gd>Tha sinn <m>fo fhiachan</m> dha [ann] an iomadach dòigh.</gd>
+          <tr>We are indebted to him in many ways.</tr>
+          <ref text="601">td. 298</ref>
+        </lix>
+      </ulx>
+    </li>
+    <li><strong>am fiachaibh</strong>
+      <en>indebted</en> – <ulx id="am_fiachaibh">
+        <lix>
+          <gd>am fiachaibh</gd>
+          <tr>indebted</tr>
+          <ref text="601">td. 298</ref>
+        </lix>
+      </ulx>
+    </li>
+  </ul>
+  <hr/>
+  <h lang="en">value, worth</h>
+  <p lang="en"><strong>fiach</strong> + measure of value + <a href="?gd=de">de</a> – <ulx id="noun">
+      <lix>
+        <gd>Thoir dhomh fiach dà nota dheth.</gd>
+        <tr>Give me two pounds-worth of it.</tr>
+        <ref text="605">td. 186</ref>
+      </lix>
+      <lix>
+        <gd>Dh’iarr mi fiach sgillin de shuiteas.</gd>
+        <tr>I asked for a pennyworth of sweets.</tr>
+        <ref text="601">td. 298</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p lang="en"><strong>is fhiach (do ...)</strong>
+    <en>be worthwhile/valuable (for/to)</en> –</p>
+  <ul lang="en">
+    <li><m>Is fhiach an t-uireadair seo (dhomh)</m>
+      <en>This watch is valuable (to me)</en>
+      <ulx id="concrete">
+        <lix>
+          <gd>An fhiach seo dhut? Chan fhiach.</gd>
+          <tr>Is this of value / worth anything to you? No.</tr>
+          <ref text="605">td. 186</ref>
+        </lix>
+      </ulx></li>
+    <li><m>Cha b’ fhiach an cogadh sin (dhuinn)</m>
+      <en>That war was not worthwhile (for us)</en>
+      <ulx id="event">
+        <lix>
+          <gd>Aon uair eile? Chan fheuch e!</gd>
+          <tr>One more time? It’s not worth it.</tr>
+          <ref text="605">td. 186</ref>
+        </lix>
+        <lix>
+          <gd>Thuirt e nach b’fhiach e.</gd>
+          <tr>He said it wasn’t worthwhile.</tr>
+          <ref text="601">td. 298</ref>
+        </lix>
+      </ulx></li>
+  </ul>
+  <p lang="en"><strong>is fhiach (do ...)</strong> + infinitival <en>be worth doing</en></p>
+  <ul lang="en">
+    <li><m>Is fhiach (dhaibh) a dhol don oilthigh</m>
+      <en>Going to university is worthwhile (for them)</en></li>
+    <li><m>Am b’ fhiach (dhut) an leabhar sin a leughadh?</m>
+      <en>Was reading that book worthwhile (for you)?</en>
+      <ulx id="infinitival">
+        <lix>
+          <gd>rud as fhiach fhaicinn</gd>
+          <tr>a thing worth seeing</tr>
+          <ref text="605">td. 186</ref>
+          <note>ie. Is fhiach an rud seo fhaicinn.</note>
+        </lix>
+        <lix>
+          <gd>’S fhiach dhut seo fhaicinn.</gd>
+          <tr>You should see this.</tr>
+          <ref text="603">td. 58</ref>
+        </lix>
+        <lix>
+          <gd>B’ fhiach sùil a thoirt air.</gd>
+          <tr>It would be worth having a look at it.</tr>
+          <ref text="601">td. 298</ref>
+        </lix>
+        <lix>
+          <gd>Cha b’ fhiach an cumail.</gd>
+          <tr>It wouldn’t be worth keeping them.</tr>
+          <ref text="601">td. 298</ref>
+        </lix>
+        <lix>
+          <gd>’S fhiach fhaicinn.</gd>
+          <tr>It’s worth seeing (it).</tr>
+          <ref text="601">td. 298</ref>
+        </lix>
+        <lix>
+          <gd>Chan fhiach dhaibh am beul fhosgladh.</gd>
+          <tr>It’s not worth them opening their mouth(s).</tr>
+          <ref text="601">td. 298</ref>
+        </lix>
+        <lix>
+          <gd>A bheil thu a’ smaoineachadh gum b’fhiach dhut sin a dhèanamh?</gd>
+          <tr>Do you think it would be worth your while doing that?</tr>
+          <ref text="601">td. 299</ref>
+        </lix>
+        <lix>
+          <gd>[tachartas] as fhiach a chumail air chuimhne</gd>
+          <tr>a memorable event</tr>
+          <ref text="601">td. 298</ref>
+          <note>ie. Is fhiach an tachartas seo a chumail air chuimhne</note>
+        </lix>
+        <lix>
+          <gd>Is ann an seo a chunnaic sinn a’ chiad taigh a b’ fhiach taigh a ràdh ris.</gd>
+          <tr>It was here we saw the first house that was worth calling a house.</tr>
+          <ref text="601">td. 298</ref>
+          <note>ie. B’ fhiach taigh a ràdh ris an taigh seo.</note>
+        </lix>
+        <lix>
+          <gd>Cha robh duine a b’fhiach bruidhinn air nach aithneachadh i.</gd>
+          <tr>There was nobody worth speaking about that she didn’t know.</tr>
+          <ref text="601">td. 298</ref>
+          <note>ie. Cha b’ fhiach bruidhinn air an duine sin.</note>
+        </lix>
+        <lix>
+          <gd>Bha e a’ faireachdainn nach b’ fhiach a bhith beò.</gd>
+          <tr>He felt that it wasn’t worth living.</tr>
+          <ref text="601">td. 298</ref>
+        </lix>
+        <lix>
+          <gd>Am b’fhiach an càradh? B’fhiach / Cha b’fhiach.</gd>
+          <tr>Would it be worth mending them? Yes. / No.</tr>
+          <ref text="601">td. 298</ref>
+        </lix>
+      </ulx></li>
+  </ul>
+  <p lang="en">Examples with a ‘dummy’ subject <strong>e</strong> (or <strong>i</strong>) – <ulx id="mmm">
+      <lix>
+        <gd>’S fhiach <m>e</m> an t-saothair.</gd>
+        <tr>It’s worth the effort.</tr>
+        <ref text="603">td. 58</ref>
+      </lix>
+      <lix>
+        <gd>Chan fhiach <m>e</m> an t-saothair.</gd>
+        <tr>It’s not worth the labour/trouble.</tr>
+        <ref text="601">td. 298</ref>
+      </lix>
+      <lix>
+        <gd>airson na ’s fhiach <m>e</m></gd>
+        <tr>for what it’s worth</tr>
+        <ref text="605">td. 186</ref>
+      </lix>
+      <lix>
+        <gd>Am b’fhiach <m>e</m> fheuchainn? B’fhiach. / Cha b’fhiach.</gd>
+        <tr>Would it be worth trying? Yes. / No.</tr>
+        <ref text="601">td. 298</ref>
+      </lix>
+      <lix>
+        <gd>’S fhiach <m>e</m> e.</gd>
+        <tr>It’s worth it.</tr>
+        <ref text="601">td. 298</ref>
+      </lix>
+      <lix>
+        <gd>Tha an fhaochag glè phailt agus is fhiach <m>i</m> a h-itheadh.</gd>
+        <tr>The whelk is very plentiful and worth its eating</tr>
+        <ref text="601">td. 298</ref>
+      </lix>
+      <lix>
+        <gd>Co-dhùin e nach b’ fhiach <m>e</m> a shaothair dha.</gd>
+        <tr>He decided that it wasn’t worth his while.</tr>
+        <ref text="601">td. 298</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p lang="en">More complicated examples – <ulx id="complicated">
+      <lix>
+        <gd>duine nach fhiach tromb gun teanga</gd>
+        <tr>a worthless/good-for-nothing man [lit. not worth a jew’s harp without a tongue]</tr>
+        <ref text="605">td. 186</ref>
+      </lix>
+      <lix>
+        <gd>Cha d’ fhiach e.</gd>
+        <tr>It’s useless.</tr>
+        <ref text="603">td. 58</ref>
+      </lix>
+      <lix>
+        <gd>Cha do rinn iad mòran a b’fhiach gu sonas an duine a mheudachadh.</gd>
+        <tr>They didn’t do much that was worthwhile to increase the happiness of man.</tr>
+        <ref text="601">td. 298</ref>
+        <note>ie. Cha b’ fhiach na rinn iad.</note>
+      </lix>
+      <lix>
+        <gd>Bha dealbh no dhà aige nach b’ fhiach mòran.</gd>
+        <tr>He had a picture or two which weren’t worth much.</tr>
+        <ref text="601">td. 298</ref>
+        <note>Cha b’ fhiach na dealbhan <u>mòran</u>.</note>
+      </lix>
+      <lix>
+        <gd>Co mheud not a b’fhiach e?</gd>
+        <tr>How many pounds was it worth?</tr>
+        <ref text="601">td. 298</ref>
+        <note>ie. B’ fhiach e <u>fichead not</u>.</note>
+      </lix>
+      <lix>
+        <gd>Cha b’fhiach an turas an t-saothair.</gd>
+        <tr>The journey wasn’t worth it.</tr>
+        <ref text="601">td. 298</ref>
+      </lix>
+      <lix>
+        <gd>B’fhiach àite dha fhèin bhith aig an ìomhaigh seo.</gd>
+        <tr>This statue is worthy of having a place to itself.</tr>
+        <ref text="601">td. 298</ref>
+        <note>ie. B’ fhiach a bhith àite dha fhèin aig an ìomhaigh seo. ???</note>
+      </lix>
+      <lix>
+        <gd>Cha b’ fhiach e uiread do Mhairead.</gd>
+        <tr>It wasn’t worth as much to Margaret.</tr>
+        <ref text="601">td. 298</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p lang="en"><strong>is <a href="?gd=math">math</a> as fhiach (do ...)</strong>
+    <en>be well worth (doing)</en> – <ulx id="math">
+      <lix>
+        <gd>Is math as fhiach dhut an leabhar seo a leughadh.</gd>
+        <tr>It’s well worth your while reading this book.</tr>
+        <ref text="601">td. 299</ref>
+      </lix>
+      <lix>
+        <gd>Is math as fhiach <m>e</m> a leughadh gu cùramach.</gd>
+        <tr>It’s well worth [it] reading [it] carefully.</tr>
+        <ref text="601">td. 299</ref>
+      </lix>
+      <lix>
+        <gd>Is math as fhiach <m>e</m> a’ phrìs.</gd>
+        <tr>It’s well worth the price.</tr>
+        <ref text="601">td. 299</ref>
+      </lix>
+      <lix>
+        <gd>Bu mhath a b’fhiach <m>e</m> an dàil</gd>
+        <tr>The delay was well worth it.</tr>
+        <ref text="601">td. 299</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p lang="en"><strong>is <a href="?gd=geal">geal</a> as fhiach</strong>
+    <en>be well worth (doing)</en> – <ulx id="geal">
+      <lix>
+        <gd>leabhar as geal as fhiach a cheannach</gd>
+        <tr>a book which is well worth buying</tr>
+        <ref text="601">td. 326</ref>
+      </lix>
+      <lix>
+        <gd>Is geal is fhiach e a leughadh gu cùramach.</gd>
+        <tr>It’s well worth reading [it] carefully.</tr>
+        <ref text="601">td. 326</ref>
+      </lix>
+    </ulx>
+  </p>
+  <p lang="en"><strong>is <a href="?gd=gann">gann</a> as fhiach</strong>
+    <en>be hardly worth (doing)</en> – <ulx id="gann">
+      <lix>
+        <gd>Is gann is fhiach a bhiathadh.</gd>
+        <tr>It’s hardly worth its feeding.</tr>
+        <ref text="601">td. 299</ref>
+      </lix>
+    </ulx></p>
+  <p lang="en"><strong>is fhiach le ...</strong>
+    <en>be worth one’s while</en> – <ulx id="leam">
+      <lix>
+        <gd>Mas fhiach <m>leibh</m> a dh’èisteachd ris ...</gd>
+        <tr>If you condescend to listen to it / if you think it’s worth listening to.</tr>
+        <ref text="601">td. 299</ref>
+      </lix>
+      <lix>
+        <gd>Chan fhiach leam e.</gd>
+        <tr>It is beneath me.</tr>
+        <ref text="601">td. 299</ref>
+      </lix>
+    </ulx></p>
+  <p lang="en">cf. <strong>fiachail</strong> adj. (comp. <strong>fiachaile</strong>) <en>worthy, worthwhile</en> – <ulx id="fiachail">
+      <lix>
+        <gd>Tha sinn deònach cuideachadh a thoirt do phròiseactan fiachail.</gd>
+        <tr>We are willing to give assistance to worthwhile projects.</tr>
+        <ref text="601">td. 299</ref>
+      </lix>
+    </ulx>
+  </p>
+
+
+
+</module>

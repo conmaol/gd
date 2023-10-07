@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>ri</h>
+  <p><g>ri</g>
+    <en>at, to, against</en> is a (non-leniting) <a href="?xx=prepositions/prepositions"
+      >preposition</a>.</p>
+  <section>
+    <h>forms</h>
+    <section id="indefinite">
+      <h>indefinite</h>
+      <p>The default form of the preposition is simply <g>ri</g> – <ul>
+          <li><m>ri</m> taigh <en>at a house</en></li>
+          <li><m>ri</m> aislingean <en>at dreams</en></li>
+          <li><m>ri</m> Nirribhidh <en>at Norway</en></li>
+          <li><m>ri</m> trì làithean <en>at three days</en></li>
+        </ul></p>
+    </section>
+    <section id="definite">
+      <h>definite</h>
+      <p>When the immediately following word is a form of the definite article, the linking form
+          <g>ris</g> is used – <ul>
+          <li><m>ris an</m> taigh <en>at the house</en></li>
+          <li><m>ris a’</m> bhaile <en>at the town</en></li>
+          <li><m>ris na h-</m>aislingean <en>at the dreams</en></li>
+        </ul>
+      </p>
+      <!--<p><ed>Add note on ‘ris a-màireach’, ‘ris a h-uile ...’, ‘ris a bheil ...’</ed></p>-->
+      <p>Fused forms are sometimes found when the immediately following word is a <a
+          href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+          <li><m>ri mo</m> thaigh <en>at my house</en> ≈ <g>rim</g> thaigh </li>
+          <li><m>ri do</m> bhaile <en>at your town</en> ≈ <g>rid</g> bhaile </li>
+          <li><m>ri a h-</m>eaglais <en>at her church</en> ≈ <g>ri h-</g>eaglais</li>
+          <li>
+            <m>ri a</m> chraoibh <en>at his tree</en> ≈ <g>ri</g> chraoibh</li>
+          <li><m>ri ar n-</m>achadh <en>at our field</en> ≈ <g>rar n-</g>achadh</li>
+          <li><m>ri bhur</m> leapannan <en>at your beds</en> ≈ <g>rur</g> leapannan</li>
+          <li><m>ri an</m> taighean <en>at their houses</en> ≈ <g>rin</g> taighean</li>
+          <li><m>ri am</m> baile <en>at their town</en> ≈ <g>rim</g> baile</li>
+        </ul></p>
+      <p>Note that these fused forms are rather awkward and hence are best avoided in writing
+        nowadays.</p>
+    </section>
+    <section id="pronouns">
+      <h>prepositional pronouns</h>
+      <p>Conjugated prepositions are used in place of <bad>ri mi</bad>, <bad>ri thu</bad>, ... ,
+          <bad>ri iad</bad> – <ul>
+          <li><m>rium</m>
+            <en>at me</en></li>
+          <li><m>riut</m>
+            <en>at you</en></li>
+          <li><m>rithe</m>
+            <en>at her/it</en></li>
+          <li><m>ris</m>
+            <en>at him/it</en></li>
+          <li><m>ruinn</m>
+            <en>at us</en></li>
+          <li><m>ruibh</m>
+            <en>at you</en></li>
+          <li><m>riutha</m>
+            <en>at them</en></li>
+        </ul>
+      </p>
+      <p>There are also emphatic forms (cf. <bad>ri mise</bad>, <bad>ri thusa</bad>, ... , <bad>ri
+          iadsan</bad>) – <ul>
+          <li><m>riumsa</m>
+            <en>at <emph>me</emph></en></li>
+          <li><m>riutsa</m>
+            <en>at <emph>you</emph></en></li>
+          <li><m>rithese</m>
+            <en>at <emph>her/it</emph></en></li>
+          <li><m>ris-san</m>
+            <en>at <emph>him/it</emph></en></li>
+          <li><m>ruinne</m>
+            <en>at <emph>us</emph></en></li>
+          <li><m>ruibhse</m>
+            <en>at <emph>you</emph></en></li>
+          <li><m>riuthasan</m>
+            <en>at <emph>them</emph></en></li>
+        </ul>
+      </p>
+      <p>Finally, there are also reflexive forms (cf. <bad>ri mi fhìn</bad>, <bad>ri thu
+        fhèin</bad>, ... , <bad>ri iad fhèin</bad>) – <ul>
+          <li><m>rium fhìn</m>
+            <en>at myself</en></li>
+          <li><m>riut fhèin</m>
+            <en>at yourself</en></li>
+          <li><m>rithe fhèin</m>
+            <en>at herself/itself</en></li>
+          <li><m>ris fhèin</m>
+            <en>at himself/itself</en></li>
+          <li><m>ruinn fhìn</m>
+            <en>at ourselves</en></li>
+          <li><m>ruibh fhèin</m>
+            <en>at yourself</en></li>
+          <li><m>riutha fhèin</m>
+            <en>at themselves</en></li>
+        </ul>
+      </p>
+    </section>
+  </section>
+
+  <!--
+  <p>ri + verbal noun</p>
+  <p>passive –</p>
+  <ul>
+    <li>with explicit agreement – <ulx id="ri_deanamh_passive_agreement">
+        <lix>
+          <gd>Tha iad rim moladh.</gd>
+          <tr>They are/deserve to be praised.</tr>
+          <ref text="605">td. 306</ref>
+        </lix>
+        <lix>
+          <gd>Tha na ceistean ri am freagairt ann an Gàidhlig.</gd>
+          <tr>The questions are to be answered in Gaelic.</tr>
+          <ref text="601">td. 484</ref>
+        </lix>
+      </ulx>
+    </li>
+    <li>with implicit agreement – <ulx id="ri_deanamh_passive_implicit">
+        <lix>
+          <gd>Tha mòran agam ri dhèanamh.</gd>
+          <tr>I’ve lots to do</tr>
+          <ref text="605">td. 306</ref>
+        </lix>
+        <lix>
+          <gd>Tha an taigh sin ri reic.</gd>
+          <tr>That house is to be sold / for sale.</tr>
+          <ref text="605">td. 306</ref>
+        </lix>
+        <lix>
+          <gd>Tha rudeigin agam ri ràdh.</gd>
+          <tr>I have something to say.</tr>
+          <ref text="601">td. 484</ref>
+        </lix>
+        <lix>
+          <gd>... ma tha gu leòr ann ri itheadh is ri òl.</gd>
+          <tr>... if there is plenty to eat and to drink</tr>
+          <ref text="601">td. 484</ref>
+        </lix>
+      </ulx>
+    </li>
+    <li>with an adjective – <ulx id="ri_deanamh_passive_adjective">
+        <lix>
+          <gd>Tha na rudan seo math ri an ithe.</gd>
+          <tr>These things are good to eat.</tr>
+          <ref text="601">td. 484</ref>
+        </lix>
+      </ulx>
+    </li>
+    <li>with a quantity noun – <ulx id="ri_deanamh_passive_noun">
+        <lix>
+          <gd>Tha mòran agam ri dhèanamh.</gd>
+          <tr>I’ve lots to do</tr>
+          <ref text="605">td. 306</ref>
+        </lix>
+        <lix>
+          <gd>Tha rudeigin agam ri ràdh.</gd>
+          <tr>I have something to say.</tr>
+          <ref text="601">td. 484</ref>
+        </lix>
+        <lix>
+          <gd>... ma tha gu leòr ann ri itheadh is ri òl.</gd>
+          <tr>... if there is plenty to eat and to drink</tr>
+          <ref text="601">td. 484</ref>
+        </lix>
+      </ulx>
+    </li>
+  </ul>
+  <p>active, with implicit verbal noun –</p>
+  <ul>
+    <li>basic examples – <ulx id="active">
+        <lix>
+          <gd>A bheil thu ri bàrdachd fhathast?</gd>
+          <tr>Are you still writing poetry?</tr>
+          <ref text="605">td. 306</ref>
+        </lix>
+        <lix>
+          <gd>Tha Seumas a-nis ri maorach.</gd>
+          <tr>James is now [engaged in] fishing for shellfish.</tr>
+          <ref text="601">td. 483</ref>
+        </lix>
+      </ulx>
+    </li>
+    <li>with a definite article – <ulx id="active_definite">
+        <lix>
+          <gd>Tha iad ris an iasgach.</gd>
+          <tr>They are at the fishing.</tr>
+          <ref text="605">td. 306</ref>
+        </lix>
+      </ulx>
+    </li>
+    <li>with a personal determiner – <ulx id="active_possessive">
+        <lix>
+          <gd>Bu chòir dhut a bhith ri do leasanan.</gd>
+          <tr>You ought to be at your lessons.</tr>
+          <ref text="601">td. 483–4</ref>
+        </lix>
+      </ulx>
+    </li>
+  </ul>
+
+
+  <p>bi ag[am] ri + infinitival <en>have to</en></p>
+  <ulx id="bi_agam_ri">
+    <lix>
+      <gd>Tha agam ri sìol a cheannach.</gd>
+      <tr>I have to buy seed.</tr>
+      <ref text="601">td. 484</ref>
+    </lix>
+    <lix>
+      <gd>Bha againn ris a’ chàr a reic.</gd>
+      <tr>We had to sell the car.</tr>
+      <ref text="601">td. 484</ref>
+    </lix>
+  </ulx>
+
+  <hr/>
+  <p>compound prespoitions</p>
+  <p>coltach ri like, còmhla ri along with, an tacsa ri leaning against, </p>
+  <hr/>
+  <p>prepositional compounds</p>
+  <p>ri taobh beside, ri linn in the time of, </p>
+  <hr/>
+  -->
+  
+  <!--
+  <module id="compounds">
+    <h>compound prepositions</h>
+    <h lang="gd">...</h>
+    <p><a href="?gd=maille">maille ri</a>
+      <en>along with</en></p>
+
+  </module>
+  -->
+</module>

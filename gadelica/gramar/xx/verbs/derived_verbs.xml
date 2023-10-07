@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+  <h lang="en">derived verbs</h>
+  <h lang="gd">gnìomhairean bunaichte</h>
+  <p lang="en">Derived verbs are <a href="?xx=verbs/verbs">verbs</a> which have been formed from
+    adjectives or nouns, typically by addition of a suffix eg. <ul>
+      <li><m>geal</m> adj. <en>white</en> → <m>gealaich</m> vb. <en>whiten</en></li>
+      <li><m>cuimhne</m> fem. <en>memory</en> → <m>cuimhnich</m> vb. <en>remember</en></li>
+    </ul>
+  </p>
+  <p lang="gd">Is e <a href="?xx=verbs/verbs">gnìomhairean</a> a tha ann an gnìomhairean bunaichte,
+    a tha air air an cruthachadh à buadhairean no ainmearan, gu cumanta le iar-leasachan.</p>
+  <p>cf. <a href="?gd=_ich">-(a)ich</a>.</p>
+
+  <!--
+  <p lang="en">Verb-deriving suffixes –</p>
+  <p lang="gd">Iar-leasachain –</p>
+  <ul>
+    <li><a href="?gd=_ich">-(a)ich</a></li>
+  </ul>
+  <p lang="en">Verb-deriving prefixes –</p>
+  <p lang="gd">Ro-leasachain –</p>
+  <ul>
+    <li><a href="?gd=dì_">dì-</a></li>
+  </ul>
+  -->
+</module>

@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>dà</h>
+  <p><b>dà</b>
+    <en>two</en> is a <a href="?xx=nouns/numerals">numeral</a>.</p>
+  <section id="forms">
+    <h>forms</h>
+    <p><g>dà</g> is indeclinable in modern Gaelic (though the form <g>dhà</g> is used in the usual
+      lenited contexts) – <ul>
+        <li>masculine –<ul>
+            <li>nominative – <g>(an) <m>dà</m> bhòrd</g>
+              <en>(the) two tables</en></li>
+            <li>dative – <g>air (an) <m>dà</m> bhòrd</g>
+              <en>on (the) two tables</en></li>
+            <li>genitive – <g>casan (an) <m>dà</m> bhùird</g>
+              <en>(the) two tables’ legs</en></li>
+          </ul>
+        </li>
+        <li>feminine –<ul>
+            <li>nominative – <g>(an) <m>dà</m> chraoibh</g>
+              <en>(the) two trees</en></li>
+            <li>dative – <g>air (an) <m>dà</m> chraoibh</g>
+              <en>on (the) two trees</en></li>
+            <li>genitive – <g>geugan (na) <m>dà</m> chraoibhe</g>
+              <en>(the) two trees’ branches</en></li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p>The Old Gaelic inflected forms <g>dì</g> [feminine nominative] and <g>dibh</g> [dative] are
+      no longer used.</p>
+  </section>
+
+  <section>
+    <h>dependents</h>
+    <section id="modifiers">
+      <h>modifiers</h>
+      <module status="bronze">
+        <h>dà ... dheug</h>
+        <p><g>dà</g> can be (semantically) modified by the numeric adjective <a href="?gd=deug"
+              ><g>deug</g></a>
+          <en>-teen, +10</en>, yielding <g>dà ... dheug</g>
+          <en>twelve, 12</en>. <ul>
+            <li><g>(an) dà bhòrd dheug</g>
+              <en>(the) twelve tables</en></li>
+            <li><g>(an) dà chraoibh dheug</g>
+              <en>(the) twelve trees</en></li>
+          </ul>
+        </p>
+      </module>
+      <module status="bronze">
+        <h>dà ... air fhichead</h>
+        <p><g>dà</g> can be (semantically) modified by the numeric preposition phrase <a
+            href="?gd=fichead"><g>air fhichead</g></a>
+          <en>twenty–, +20</en>, yielding <g>dà ... air fhichead</g>
+          <en>twenty-two, 22</en>. <ul>
+            <li><g>(an) dà bhòrd air fhichead</g>
+              <en>(the) twenty-two tables</en></li>
+            <li><g>(an) dà chraoibh air fhichead</g>
+              <en>(the) twenty-two trees</en></li>
+          </ul>
+        </p>
+      </module>
+      <module status="bronze">
+        <h>dà ... dheug air fhichead</h>
+        <p>The two numeric modifiers can be combined to give <g>dà ... dheug air fhichead</g>
+          <en>thirty-two, 32</en>. <ul>
+            <li><g>(an) dà bhòrd dheug air fhichead</g>
+              <en>(the) thirty-two tables</en></li>
+            <li><g>(an) dà chraoibh dheug air fhichead</g>
+              <en>(the) thirty-two trees</en></li>
+          </ul>
+        </p>
+      </module>
+    </section>
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section id="enumerator">
+      <h>enumerator</h>
+      <p>The main use of <g>dà</g> is as the enumerator of a singular countable common noun.</p>
+      <section id="nominative">
+        <h>nominative</h>
+        <p>Some examples with masculine nouns – <ul>
+            <li>older pedagogical examples – <xl id="enum-nom-masc-pedag">
+                <li>
+                  <gd>Tha <m>dà ràmh</m> air an tràigh. | Tha <m>dà ugh</m> anns an nead. | Tha mi
+                    a’ dol sìos do’n abhainn a bhreith air breac. [...] Chunnaic mi trì anns a’
+                    ghlumaig. [...] Tha <m>dà phunnd</m> ’san fhear as mò.</gd>
+                  <ref text="620">td. 5, 22, 69–70</ref>
+                </li>
+              </xl></li>
+          </ul>
+        </p>
+        <p>Some examples with feminine nouns – <ul>
+            <li>pedagogical examples – <xl id="enum-nom-fem-pedag">
+                <li>
+                  <gd>Tha <m>dà àrdsgoil bheag</m> anns a’ bhaile.</gd>
+                  <tr>There are two small secondary schools in the town.</tr>
+                  <ref text="601">td. 207</ref>
+                </li>
+                <li>
+                  <gd>Seo <m>dà cheist</m> nach soirbh am fuasgladh.</gd>
+                  <tr>Here are two questions that aren’t easy to solve.</tr>
+                  <ref text="601">td. 207</ref>
+                </li>
+              </xl>
+            </li>
+            <li>older pedagogical examples – <xl id="enum-nom-fem-older-pedag">
+                <li>
+                  <gd>Tha <m>dà chathair</m> aig an teine agus ceithir cathraichean aig a’
+                    bhòrd.</gd>
+                  <ref text="620">td. 49</ref>
+                </li>
+              </xl></li>
+          </ul>
+        </p>
+      </section>
+      <section id="dative">
+        <h>dative</h>
+        <p>Some examples with feminine nouns – <ul>
+            <li>pedagogical examples – <xl id="enum-dat-fem-pedag">
+                <li>
+                  <gd>tro dhà uinneig fharsaing àird</gd>
+                  <tr>through two wide, high windows</tr>
+                  <ref text="601">td. 207</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+
+
+        <p>Some examples with <g>dà ... dheug</g> – <xl id="enum-dat-exs">
+            <li>
+              <gd><m>Ann an dà bhliadhna dheug</m> sgrìobh e fichead leabhar ’s a h-aon ’s dh’ fhàg
+                e grunn mór phàipearan a chùl air a sin.</gd>
+              <tr>In 12 years he [Kierkegaard] wrote 21 books and he left behind a large quantity of
+                papers.</tr>
+              <ref text="400-41">td. 103</ref>
+            </li>
+          </xl>
+        </p>
+      </section>
+      <section id="genitive">
+        <h>genitive</h>
+        <p>Some examples – <xl id="enum-gen-exs">
+            <li>
+              <gd/>
+              <ref text=""/>
+            </li>
+          </xl>
+        </p>
+      </section>
+      <section id="idioms">
+        <h>idioms</h>
+        <module status="bronze">
+          <h>dà fhichead</h>
+          <p><g>dà fhichead</g>
+            <en>forty, 40</en> (sometimes written as <g>daichead</g>), cf. <a href="?gd=fichead"
+                ><g>fichead</g></a>
+            <en>twenty</en>.</p>
+          <p>Examples of usage – <xl id="da-fhichead-exs">
+              <li>
+                <gd>Rugadh am feallsanach Soren Kierkegaard ann sa’ bhliadhna 1813, an Copenhagen
+                  far na bhàsaich e nuair a bha e <m>dà fhichead, ’s a dhà</m>.</gd>
+                <tr>The philosopher Soren Kierkegaard was born in 1813, in Copenhagen where he died
+                  when he was 42.</tr>
+                <ref text="400-41">td. 103</ref>
+                <note>predicate expression of age, with <g>bliadhna ... de dh’aois</g>
+                  understood</note>
+              </li>
+            </xl>
+          </p>
+        </module>
+        <module status="bronze">
+          <h>dà uair</h>
+          <p>cf. <a href="?gd=uair"><g>uair</g></a>
+            <fem/>
+            <en>hour, time</en></p>
+          <p>Some examples – <xl id="da-uair-exs">
+              <li>
+                <gd>Tha e dà uair.</gd>
+                <tr>It’s two o’clock.</tr>
+                <ref text="601">td. 207</ref>
+              </li>
+              <li>
+                <gd>Dé an uair a tha e? Tha e <m>dà uair</m>.</gd>
+                <ref text="620">td. 56</ref>
+                <note>predicate expression of time of day</note>
+              </li>
+              <li>
+                <gd>Tha uair a thìde againn airson na dinneir, agus tha sinn a stigh <m>dà uair a
+                    thìde</m> feasgar.</gd>
+                <ref text="620">td. 61</ref>
+                <note>adverbial expression of duration of time</note>
+              </li>
+            </xl>
+          </p>
+        </module>
+      </section>
+    </section>
+    <section>
+      <h>absolute</h>
+      <p><g>dà</g> can be used to express an absolute quantity, introduced by the particle <g>a</g>
+        – <g>a dhà</g>.</p>
+      <p>Exampls involving subjects – <xl id="abs-sbj-pedag">
+          <li>
+            <gd>Co mheud cat a tha ann? Tha <m>a dhà</m>.</gd>
+            <tr>How many cats are there? There are two.</tr>
+            <ref text="601">td. 207</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Exampls involving objects – <xl id="abs-obj-pedag">
+          <li>
+            <gd>Chaidh <m>a dhà eile</m> a chumail.</gd>
+            <tr>Two others were kept.</tr>
+            <ref text="601">td. 207</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Some examples involving counting – <xl id="abs-counting-exs">
+          <li>
+            <gd>A h-aon, <m>a dhà</m>, Ciamar a tha? A trì, a ceithir, Brògan leathair: A cóig, a
+              sia, Uisg is feath: A seachd, a h-ochd, Is mi tha bochd: A naoi, a deich, Faic na
+              h-eich: A h-aon deug, <m>a dhà dheug</m>, Brògan gun phàigheadh. | Cia mheud isean a
+              tha [aig a’ chearc]? Cunntais iad. A h-aon, <m>a dhà</m>, a trì, –</gd>
+            <ref text="620">td. 57, 71</ref>
+          </li>
+          <li>
+            <gd>ann an <m>sgeulachd a dhà</m></gd>
+            <tr>in story two</tr>
+            <ref text="601">td. 207</ref>
+            <note>alternative to ordinal – anns an dàrna sgeulachd</note>
+          </li>
+        </xl>
+      </p>
+      <p>Some other examples – <xl id="abs-other-exs">
+          <li>
+            <gd>Bha i ceud bliadhna a dh’ aois is esan <m>dhà air fhichead</m>. Cha robh e ach mìos
+              no dhà a-mach ás an oilthigh. Bha a nighean a’ fuireachd còmhla rithe. Bha ise ceithir
+              fichead. Shaoil e gu robh a’ chailleach ann an dòigh na bu shunndaiche na a nighean.
+              [...]</gd>
+            <tr>She was a hundred years old and him twenty two. He was just a month or two out of
+              the university. Her daughter was living with her. She was eighty. He thought that the
+              old woman was in a way livelier than her daughter. [...]</tr>
+            <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+            <note>expression of age – bha esan a dhà air fhichead; bha esan dà bhliadhna air
+              fhichead de dh’aois</note>
+          </li>
+        </xl>
+      </p>
+      <p>Some examples involving time – <xl id="abs-time-pedag">
+          <li>
+            <gd>Tha e gu bhith <m>leth-uair an dèidh (a) dhà</m>.</gd>
+            <tr>It’s almost half past two.</tr>
+            <ref text="601">td. 207</ref>
+          </li>
+          <li>
+            <gd>mu chairteal gu a dhà</gd>
+            <tr>about a quarter to two</tr>
+            <ref text="601">td. 207</ref>
+          </li>
+        </xl>
+      </p>
+      <module status="bronze">
+        <h>... agus a dhà</h>
+        <p>Some examples – <xl id="abs-a_dha-exs">
+            <li>
+              <gd>Rugadh am feallsanach Soren Kierkegaard ann sa’ bhliadhna 1813, an Copenhagen far
+                na bhàsaich e nuair a bha e <m>dà fhichead, ’s a dhà</m>.</gd>
+              <tr>The philosopher Soren Kierkegaard was born in 1813, in Copenhagen where he died
+                when he was 42.</tr>
+              <ref text="400-41">td. 103</ref>
+              <note>predicate expression of age, with <g>bliadhna ... de dh’aois</g>
+                understood</note>
+            </li>
+          </xl>
+        </p>
+      </module>
+      <module status="bronze">
+        <h>... no dhà</h>
+        <p>Some examples – <xl id="no_dha-exs">
+            <li>
+              <gd>Cha robh aige a-nise ach beathach no (a) dhà.</gd>
+              <tr>He had only an animal or two now.</tr>
+              <ref text="601">td. 207</ref>
+            </li>
+            <li>
+              <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no do
+                fhoghlum agus do litreachas na Gàidhlig. [...] Dé na rudan a dh’ fhaodadh sinn
+                iarraidh? [...] Chan eil an sin ach <m>rud no dhà</m> a dh’ fhaodamaid iarraidh. Tha
+                Comunn nan Croitearan air nì de ’n t-seòrsa so iarraidh mar tha, air a’ Bh.B.C. Thug
+                sin togail inntinn dhuinn. Có a nis a chuireas fead chruaidh ann an cluais Luchd an
+                Ionmhais ann a Westminster?</gd>
+              <tr>[...] The Parliament has given very little assistance ever to the Gaelic language
+                or to Gaelic education and literature. [...] What are the things that we could
+                demand? [...] Those are just a couple of things that we could demand. The Crofters’
+                Society has demanded something of this kind already, on the BBC. That has given us
+                inspiration. Who now will put a hard whistle [?] in the ear of the Finance People in
+                Westminster?</tr>
+              <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+            </li>
+            <li>
+              <gd>Bha i ceud bliadhna a dh’ aois is esan dhà air fhichead. Cha robh e ach <m>mìos no
+                  dhà</m> a-mach ás an oilthigh. Bha a nighean a’ fuireachd còmhla rithe. Bha ise
+                ceithir fichead. Shaoil e gu robh a’ chailleach ann an dòigh na bu shunndaiche na a
+                nighean. [...]</gd>
+              <tr>She was a hundred years old and him twenty two. He was just a month or two out of
+                the university. Her daughter was living with her. She was eighty. He thought that
+                the old woman was in a way livelier than her daughter. [...]</tr>
+              <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+          </xl>
+        </p>
+      </module>
+      <module status="bronze">
+        <h>a dhà de ...</h>
+        <p>Some examples – <xl id="a_dha_de-pedag">
+            <li>
+              <gd>a’ cur aghaidh <m>air a dhà de cheistean mòra</m> ar n-àma fhìn</gd>
+              <tr>confronting two of the great problems of our own time</tr>
+              <ref text="601">td. 207</ref>
+            </li>
+            <li>
+              <gd>Bha <m>a dhà dhiubh sin</m> air a’ bhòrd ri taobh an dorais.</gd>
+              <tr>Two of those were on the table by the door.</tr>
+              <ref text="601">td. 207</ref>
+            </li>
+          </xl>
+        </p>
+        <module status="bronze">
+          <h>a dhà no a trì de ...</h>
+          <p>Some examples – <xl id="a_dha_no_a_tri_de-pedag">
+              <li>
+                <gd>Bha <m>a dhà no (a) trì de bhàtaichean eile</m> anns a’ chala.</gd>
+                <tr>there were two or three other boats in the harbour.</tr>
+                <ref text="601">td. 207</ref>
+              </li>
+              <li>
+                <gd><m>a dhà no a trì (de) sheachdainnean</m> air ais</gd>
+                <tr>two or three weeks ago</tr>
+                <ref text="601">td. 207</ref>
+              </li>
+              <li>
+                <gd>anns na dhà no (a) trì (de) bhliadhnachan a chaidh</gd>
+                <tr>in the past two or three years</tr>
+                <ref text="601">td. 207</ref>
+              </li>
+            </xl>
+          </p>
+        </module>
+      </module>
+    </section>
+
+    <section id="derivatives">
+      <h>derivatives</h>
+      <p>See also: <a href="?gd=dithis">dithis</a>, <a href="?gd=dàrna">dàrna</a></p>
+      <module status="bronze">
+        <h>dà-...-ach</h>
+        <p>cf. <a href="?gd=_ach"><g>-(e)ach</g></a></p>
+        <p>
+          <ul>
+            <li><g>bith</g>
+              <fem/>
+              <en>being, existence</en> ⇒ <g>dà-bhitheach</g>
+              <adj/>
+              <en>amphibious</en></li>
+            <li><g>bliadhna</g>
+              <fem/>
+              <en>year</en> ⇒ <g>dà-bhliadhnach</g>
+              <adj/>
+              <en>biennial, two-year-old</en></li>
+            <li><g>buille</g>
+              <fem/>
+              <en>beat, stroke</en> ⇒ <g>dà-bhuilleach</g>
+              <adj/>
+              <en>two-stroke (engine)</en></li>
+            <li><g>cànan</g>
+              <masc/>
+              <en>language</en> ⇒ <g>dà-chànanach</g>
+              <adj/>
+              <en>bilingual</en></li>
+            <li><g>cas</g>
+              <fem/>
+              <en>leg</en> ⇒ <g>dà-chasach</g>
+              <adj/>
+              <en>two-legged, bipedal</en> ⇒ <g>dà-chasach</g>
+              <masc/>
+              <en>a biped</en></li>
+            <li><a href="?gd=cèile"><g>cèile</g></a>
+              <masc/>
+              <en>spouse</en> ⇒ <g>dà-chèileach</g>
+              <adj/>
+              <en>bigamous</en> ⇒ <g>dà-chèileach</g>
+              <masc/>
+              <en>bigamist</en> ⇒ <g>dà-chèileachas</g>
+              <masc/>
+              <en>bigamy</en></li>
+            <li><g>deug</g>
+              <adj/>
+              <en>-teen, +10</en> ⇒ <g>dà-dheugach</g>
+              <adj/>
+              <en>duodecimal</en></li>
+            <li><g>dual</g>
+              <masc/>
+              <en>strand, lock of hair</en> ⇒ <g>dà-dhualach</g>
+              <adj/>
+              <en>two-ply (yarn)</en></li>
+            <li><g>einnsean</g>
+              <masc/>
+              <en>engine</en> ⇒ <g>dà-einnseanach</g>
+              <adj/>
+              <en>twin-engined</en></li>
+            <li><g>faobhar</g>
+              <masc/>
+              <en>edge (of a knife/sword)</en> ⇒ <g>dà-fhaobharach</g>
+              <adj/>
+              <en>double-edged, two-edged</en></li>
+            <li><g>làmh</g>
+              <fem/>
+              <en>hand</en> ⇒ <g>dà-làmhach</g>
+              <adj/>
+              <en>two-handed</en></li>
+            <li><g>meud</g>
+              <masc/>
+              <en>size, dimension</en> ⇒ <g>dà-mheudach</g>
+              <adj/>
+              <en>two-dimensional</en></li>
+            <li>⇒ <g>dà-sgriubhach</g>
+              <adj/>
+              <en>twin-screw (steamer)</en></li>
+            <li>⇒ <g>dà-sheaghach</g>
+              <adj/>
+              <en>ambiguous, equivocal</en> ⇒ <g>dà-sheaghachd</g>
+              <fem/>
+              <en>ambiguity</en></li>
+            <li>⇒ <g>dà-shligeach</g>
+              <adj/>
+              <en>bi-valve(d)</en> ⇒ <g>dà-shligeach</g>
+              <masc/>
+              <en>a bi-valve</en></li>
+            <li>⇒ <g>dà-theangach</g>
+              <adj/>
+              <en>bilingual</en></li>
+          </ul>
+        </p>
+        <p>cf. <g>dà-fhogharach</g>
+          <masc/>
+          <en>diphthong</en>, <g>dà-shiollach</g>
+          <adj/>
+          <en>disyllabic</en></p>
+      </module>
+
+    </section>
+  </section>
+
+  <section id="etymology">
+    <h>etymology</h>
+    <p><g>dà</g> is derived from the Old Gaelic numeral <ax href="https://dil.ie/14080"
+        ><g>dá</g></ax>.</p>
+  </section>
+
+
+  <!-- 
+  
+  ROM:
+  
+  6.2 Lenition following dà (‘two’)
+Dà is always followed by a noun in the singular or, in the case of some feminine nouns, in the dual form. The numeral dà always lenites. However, two examples of non-lenition occur in the corpus, both of which are loanwords, although loanwords are normally lenited by dà:
+
+dà Messerschmidt (‘two Messerschmidts [name of German aircraft’])
+an dà Sundowner (‘the two Sundowners’)
+
+dà chamel (‘two camels’)
+dà chartraids (‘two cartridges’)
+an dà gheàrd (‘the two guards’)
+an dà ghoiriola (‘the two gorillas’) 
+dà mhilitary policeman (‘two military policemen’)
+dà phlatoon (‘two platoons’) 
+dà Phrince Edward (‘two Prince Edwards’ [of food])
+dà shandwich (‘two sandwiches’)
+dà shardine (‘two sardines’)
+na dà shling (‘the two slings’)
+dà thoirpìodo (‘two torpedoes’)
+dà thrip (‘two trips / times’)
+
+Some feminine nouns can have a dual form, which is identical to the dative singular form. Examples of such dual forms and the nominative singular where these occur following dà
+include: 
+
+dà adhairc (‘two horns’)
+dà bhròig (‘two shoes’) vs. le dà bhròg chlabach (‘with two wide-mouthed shoes’)
+dà chirc (‘two hens’) vs. An dà chearc (‘the two hens’)
+dà chloich (‘two stones’) vs. gu dà chlach mhòr (‘to two big stones’), dà chlach (‘two stones’)
+dà chloinn (‘two children’)
+an dà chois (‘the two feet’) vs. an dà chas aige (‘his two legs’), dà chas (‘two legs’)
+dà làimh (‘two hands’) vs. leis an dà làmh (‘with the two hands’)
+dà nighinn (‘two girls’) vs. dà nighean (‘two girls’)
+dà sheann bhròig (‘two old shoes’)
+an dà uinneig (‘the two windows’)
+(eadar) dà òrdaig (‘(between) two thumbs’)
+dà earrainn bàrdachd (‘two pieces of poetry’)
+
+In some cases we cannot be certain whether we are dealing with the dual or the dative case of nouns: 
+
+grèim air an dà chluais (‘on the two ears’)#
+dhan dà nighinn (‘to the two girls’)
+le dà shiobhaig (‘with two wicks’)
+
+  
+  
+  -->
+
+
+</module>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>sgoil</h>
+    <p><g>sgoil</g>
+        <en>school</en> is a feminion common noun.</p>
+    <p>Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>Ma rannsaicheas sinn air ais fada gu leòir chì sinn nach robh <m>sgoilean</m>
+                    anns an Oban gus an ochdamh linn deug. Bha <m>an sgoil bheag a b’ fhaisge
+                        air</m> anns a’ Chill Mhóir cóig mìle air falbh, agus tha e coltach gu robh
+                        <m>an sgoil sin</m> air an fheadhainn bu shine an Earra-Ghaidheal.</gd>
+                <tr>If we research back long enough we will see that there were no schools in Oban
+                    until the eighteenth century. The closest little school was in Kilmore five
+                    miles away, and it appears that that school was one of the oldest in
+                    Argyll.</tr>
+                <ref text="400-20">td. 363</ref>
+            </li>
+        </xl>
+    </p>
+    <p>Other examples from modern usage – <xl id="xs">
+            <li>
+                <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. Rinn
+                    e sin tro dhìcheall, obair chruaidh agus tàlant malairt a bha neo-ghnàthach.
+                    An-diugh tha iomadh companaidh na ainm air feadh na Gàidhealtachd. Bha seachdnar
+                    de theaghlach aige, ceathrar mhac agus triùir nighean, agus bha a h-uile fear is
+                    tè anns a’ mhalairt ach Rob. B’ e Rob a b’ òige agus <m>lean e an sgoil</m>.
+                    Nuair a ràinig e an t-oilthigh bha càch airson gun ionnsaicheadh e cunntasachd,
+                    a bhiodh feumail anns a’ mhalairt, ach ’s ann a bha ùidh-san ann an ealain.
+                    Dh’fhàg e an t-oilthigh agus chaidh e do <m>sgoil ealain</m>. [...]</gd>
+                <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. He
+                    did that through duty, hard work and a talent for business that was unusual.
+                    Today there are many companies in his name all over the Highlands. He had a
+                    family of seven, four sons and three daughters, and every man and woman was in
+                    the business except Rob. Rob was the youngest and he stayed on at school. When
+                    he reached the university the others wanted him to learn accountancy, which
+                    would be useful in the business, but his interest was in art. He left the
+                    university and went to an art school. [...]</tr>
+                <ref text="2">td. 5</ref>
+            </li>
+        </xl>
+    </p>
+</module>

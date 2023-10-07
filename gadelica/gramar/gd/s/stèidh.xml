@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>stèidh</h>
+    <p><g>stèidh</g>
+        <en>base, foundation, ground, basis, footing, groundwork, principle, remit</en> is a
+        feminine <a href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>Some examples – <xl id="deps-spr-xs">
+                    <li>
+                        <gd>thoir an stèidh air falbh o ...</gd>
+                        <tr>undermine</tr>
+                        <ref text="601">td. 550</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>modifiers</h>
+            <p>Some examples – <xl id="deps-mods-xs">
+                    <li>
+                        <gd>Bha stèidh farsaing aca.</gd>
+                        <tr>They had a wide remit.</tr>
+                        <ref text="601">td. 550</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>subject</h>
+            <p>Some examples – <xl id="uses-sbj-xs">
+                    <li>
+                        <gd>Bha stèidh farsaing aca.</gd>
+                        <tr>They had a wide remit.</tr>
+                        <ref text="601">td. 550</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>object</h>
+            <p>Some examples – <xl id="uses-obh-xs">
+                <li>
+                    <gd>thoir an stèidh air falbh o ...</gd>
+                    <tr>undermine</tr>
+                    <ref text="601">td. 550</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+        <section>
+            <h>stem</h>
+            <p><a href="?gd=stèidhich"><g>stèidhich</g></a>
+                <vb/>
+                <en>establish, found, base</en></p>
+            <p><a href="?gd=bun-stèidh"><g>bun-stèidh</g></a> <fem/> <en>origin, basis, foundation</en></p>
+        </section>
+    </section>
+
+</module>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">iomchaidh</h>
+    <h lang="gd">iomchaidh</h>
+    <p lang="en">Corpus examples (conditional) – <xl id="conditional">
+            <li>
+                <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os
+                    cionn obair a’ Chomuinn. <m>Tha e iomchuidh</m> aig an àm gun tugamaid tarraing air a’
+                    chuspair so.</gd>
+                <tr>The Highland Society is talking about choosing a new General who will oversee
+                    the Society’s work. <u>It is pertinent</u> at the [present] time that we [would]
+                    comment upon this subject.</tr>
+                <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>

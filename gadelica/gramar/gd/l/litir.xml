@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>litir</h>
+    <p><g>litir</g>
+        <en>letter</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>litir</g> are – <ul>
+                <li><m>litir</m> – nominative/dative singular</li>
+                <li><m>litreach</m> – genitive singular</li>
+                <li><m>litrichean</m> – plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>litir</m></li>
+                                    <li>dative – (ann an) <m>litir</m></li>
+                                    <li>genitive – (ceann) <m>litreach</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>litrichean</m></li>
+                                    <li>dative – (ann an) <m>litrichean</m></li>
+                                    <li>genitive – (taigh) <m>litrichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an litir</m></li>
+                                    <li>dative – (anns) <m>an litir</m></li>
+                                    <li>genitive – (ceann) <m>na litreach</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na litrichean</m></li>
+                                    <li>dative – (anns) <m>na litrichean</m></li>
+                                    <li>genitive – (taigh) <m>nan litrichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>litir</m></li>
+                                    <li>dative – (ann an) <m>litir</m></li>
+                                    <li>genitive – (ceann) <m>litreach</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an litir</m></li>
+                                    <li>dative – (anns) <m>an litir</m></li>
+                                    <li>genitive – (ceann) <m>na litreach</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>litrichean</m></li>
+                                    <li>dative – (ann an) <m>litrichean</m></li>
+                                    <li>genitive – (taigh) <m>litrichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na litrichean</m></li>
+                                    <li>dative – (anns) <m>na litrichean</m></li>
+                                    <li>genitive – (taigh) <m>nan litrichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>litir</m></li>
+                                    <li>plural – <m>litrichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an litir</m></li>
+                                    <li>plural – <m>na litrichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (ann an) <m>litir</m></li>
+                                    <li>plural – (ann an) <m>litrichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (anns) <m>an litir</m></li>
+                                    <li>plural – (anns) <m>na litrichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (ceann) <m>litreach</m></li>
+                                    <li>plural – (taigh) <m>litrichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (ceann) <m>na litreach</m></li>
+                                    <li>plural – (taigh) <m>nan litrichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+    <section>
+        <h>dependents</h>
+        <section id="spec">
+            <h>specifier</h>
+            <p>Examples with the definite article as pre-specifier – <ul>
+                    <li>older pedagogical examples – <xl id="spec-older-pedag">
+                            <li>
+                                <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air
+                                    falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa <m>nan
+                                        litrichean</m> leis <m>an litir seo</m>, Iain?” “Théid,” ars
+                                    Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi i is gus
+                                    an cuir mi seòladh oirre. Ceannaich fhéin stamp agus cuir oirre
+                                    i.” Tha Iain a’ ruith sìos an rathad leis <m>an litir</m> ’na
+                                    làimh. Théid e a steach do oifig a’ phuist, ceannaichidh e stamp
+                                    is cuiridh e sud air <m>an litir</m>. Tilgidh e <m>an litir</m>
+                                    ann am bocsa <m>nan litrichean</m>. </gd>
+                                <tr>My mother is writing a letter to my father who is away. My
+                                    mother said, “Will you go to the postbox with this letter,
+                                    John?” “Yes, I will,” said John, “I will leave now.” “Wait until
+                                    I seal it and put an address on it. Buy a stamp and put it on
+                                    it.” John is running down the road with the letter in his hand.
+                                    He will go into the post office, he will buy a stamp and put
+                                    that on the letter. He will toss the letter into the
+                                    postbox.</tr>
+                                <ref text="621">td. 5</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section id="comps">
+            <h>complements</h>
+            <p>The intended recipient can be introduced by the preposition <a
+                    href="?gd=gu^preposition"><g>gu</g></a>
+                <en>to</en> – <ul>
+                    <li>pedagogical examples – <xl id="gu-pedag">
+                            <li>
+                                <gd>Sgrìobh e litir ghoirid <m>gu caraid dha</m>.</gd>
+                                <tr>He wrote a short letter to a friend of his.</tr>
+                                <ref text="601">td. 346</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li>older pedagogical examples – <xl id="gu-older-pedag">
+                            <li>
+                                <gd>Tha mo mhàthair a’ sgrìobhadh litreach <m>gu m’athair</m> a tha
+                                    air falbh.</gd>
+                                <tr>My mother is writing a letter to my father who is away.</tr>
+                                <ref text="621">td. 5</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section id="mods">
+            <h>modifiers</h>
+            <p><g>litir</g> can have a modifier introduced by a preposition – <ul>
+                    <li><g>litir <a href="?gd=an^preposition">ann an</a></g>
+                        <en>a letter in</en><ul>
+                            <li>older pedagogical examples – <xl id="a_ruith-older-pedag">
+                                    <li>
+                                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha
+                                            air falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa
+                                            nan litrichean leis an litir seo, Iain?” “Théid,” ars
+                                            Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi
+                                            i is gus an cuir mi seòladh oirre. Ceannaich fhéin stamp
+                                            agus cuir oirre i.” Tha Iain a’ ruith sìos an rathad
+                                            leis <m>an litir ’na làimh</m>. </gd>
+                                        <tr>My mother is writing a letter to my father who is away.
+                                            My mother said, “Will you go to the postbox with this
+                                            letter, John?” “Yes, I will,” said John, “I will leave
+                                            now.” “Wait until I seal it and put an address on it.
+                                            Buy a stamp and put it on it.” John is running down the
+                                            road with the letter in his hand.</tr>
+                                        <ref text="621">td. 5</ref>
+                                    </li>
+                                </xl></li>
+                        </ul></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-object">
+            <h>object</h>
+            <p><g>litir</g> is frequently used as the object of the following verbs – <ul>
+                    <li><g><a href="?gd=sgrìobh">sgrìobh</a> litir</g>
+                        <en>write a letter</en> – <ul>
+                            <li>pedagogical examples – <xl id="sgriobh-pedag">
+                                    <li>
+                                        <gd>Sgrìobh e litir ghoirid gu caraid dha.</gd>
+                                        <tr>He wrote a short letter to a friend of his.</tr>
+                                        <ref text="601">td. 346</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                            <li>older pedagogical examples – <xl id="sgriobh-older-pedag">
+                                    <li>
+                                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha
+                                            air falbh.</gd>
+                                        <tr>My mother is writing a letter to my father who is
+                                            away.</tr>
+                                        <ref text="621">td. 5</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><g><a href="?gd=dùin">dùin</a> litir</g>
+                        <en>seal a letter</en> – <ul>
+                            <li>older pedagogical examples – <xl id="duin-older-pedag">
+                                    <li>
+                                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha
+                                            air falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa
+                                            nan litrichean leis <m>an litir seo</m>, Iain?” “Théid,”
+                                            ars Iain, “falbhaidh mi an dràsda”. “Fuirich gus an
+                                                <m>dùin mi i</m> is gus an cuir mi seòladh oirre.
+                                            Ceannaich fhéin stamp agus cuir oirre i.” [...]</gd>
+                                        <tr>My mother is writing a letter to my father who is away.
+                                            My mother said, “Will you go to the postbox with this
+                                            letter, John?” “Yes, I will,” said John, “I will leave
+                                            now.” “Wait until I seal it and put an address on it.
+                                            Buy a stamp and put it on it.”[...]</tr>
+                                        <ref text="621">td. 5</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><g><a href="?gd=tilg">tilg</a> litir ann am <a href="?gd=bogsa">bogsa</a>
+                            nan litrichean</g>
+                        <en>put/throw a letter in the postbox</en></li>
+                </ul>
+            </p>
+        </section>
+        <section id="uses-complement">
+            <h>complement</h>
+            <p><g>litir</g> can be used as the complement of a preposition – <ul>
+                    <li><g><a href="?gd=air">air</a> litir</g>
+                        <en>on a letter</en> – <ul>
+                            <li><g><a href="?gd=cuir">cuir</a> air litir</g>
+                                <en>put something on a letter</en> – <ul>
+                                    <li><g>cuir <a href="?gd=seòl">seòladh</a> air litir</g>
+                                        <en>address a letter</en></li>
+                                    <li><g>cuir <a href="?gd=stampa">stampa</a> air litir</g>
+                                        <en>put a stamp on a letter</en></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><g><a href="?gd=le">le</a> litir</g>
+                        <en>with a letter</en> – <ul>
+                            <li>older pedagogical examples – <xl id="le-older-pedag">
+                                <li>
+                                    <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha
+                                        air falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa
+                                        nan litrichean <m>leis an litir seo</m>, Iain?” “Théid,” ars
+                                        Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi
+                                        i is gus an cuir mi seòladh oirre. Ceannaich fhéin stamp
+                                        agus cuir oirre i.” Tha Iain a’ ruith sìos an rathad
+                                        <m>leis an litir ’na làimh</m>. </gd>
+                                    <tr>My mother is writing a letter to my father who is away.
+                                        My mother said, “Will you go to the postbox with this
+                                        letter, John?” “Yes, I will,” said John, “I will leave
+                                        now.” “Wait until I seal it and put an address on it.
+                                        Buy a stamp and put it on it.” John is running down the
+                                        road with the letter in his hand.</tr>
+                                    <ref text="621">td. 5</ref>
+                                </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+
+        <section id="uses-spec">
+            <h>specifier</h>
+            <p><g>litir</g> is used as a specifier in the following noun compounds – <ul>
+                    <li><g><a href="?gd=bogsa">bogsa</a> nan litrichean</g>
+                        <en>postbox</en> – <ul>
+                            <li>older pedagogical examples – <xl id="bogsa-older-pedag">
+                                    <li>
+                                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha
+                                            air falbh. Thubhairt mo mhàthair, “An téid thu do
+                                                <m>bhocsa nan litrichean</m> leis an litir seo,
+                                            Iain?” “Théid,” ars Iain, “falbhaidh mi an dràsda”.
+                                            “Fuirich gus an dùin mi i is gus an cuir mi seòladh
+                                            oirre. Ceannaich fhéin stamp agus cuir oirre i.” Tha
+                                            Iain a’ ruith sìos an rathad leis an litir ’na làimh.
+                                            Théid e a steach do oifig a’ phuist, ceannaichidh e
+                                            stamp is cuiridh e sud air an litir. Tilgidh e an litir
+                                            ann am <m>bocsa nan litrichean</m>. </gd>
+                                        <tr>My mother is writing a letter to my father who is away.
+                                            My mother said, “Will you go to the postbox with this
+                                            letter, John?” “Yes, I will,” said John, “I will leave
+                                            now.” “Wait until I seal it and put an address on it.
+                                            Buy a stamp and put it on it.” John is running down the
+                                            road with the letter in his hand. He will go into the
+                                            post office, he will buy a stamp and put that on the
+                                            letter. He will toss the letter into the postbox.</tr>
+                                        <ref text="621">td. 5</ref>
+                                    </li>
+                                </xl></li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+</module>

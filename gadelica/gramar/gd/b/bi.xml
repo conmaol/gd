@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>bi</h>
+  <p><g>bi</g>
+    <en>be</en> is the predicative verb</p>
+  <section id="forms">
+    <h>forms</h>
+    <p>The principal parts of <g>bi</g> are – <ul>
+        <li><m>bidh</m> – future independent <en>will be</en>
+        </li>
+        <li><m>bha</m> – past independent <en>was</en>
+        </li>
+        <li><m>bhiodh</m> – conditional independent <en>would be</en>
+        </li>
+        <li><m>bith</m> – verbal noun <en>being</en>
+        </li>
+      </ul>
+    </p>
+    <section>
+      <h>tense</h>
+      <p><ul>
+          <li>present <ul id="present">
+              <li>active <ul>
+                  <li>independent – <m>tha</m></li>
+                  <li>relative – a <m>tha</m></li>
+                  <li>dependent – chan/nach <m>eil</m>, a <m>bheil</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>thathar</m></li>
+                  <li>relative – a <m>thathar</m></li>
+                  <li>dependent – chan/nach <m>eilear</m>, a <m>bheilear</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>past <ul id="past">
+              <li>active <ul>
+                  <li>independent – <m>bha</m></li>
+                  <li>relative – a <m>bha</m></li>
+                  <li>dependent – cha/an/nach <m>robh</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>bhathar</m></li>
+                  <li>relative – a <m>bhathar</m></li>
+                  <li>dependent – cha/an/nach <m>robhar</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>future <ul id="future">
+              <li>active <ul>
+                  <li>independent – <m>bidh</m></li>
+                  <li>relative – a <m>bhios</m></li>
+                  <li>dependent – cha <m>bhi</m>, am/nach <m>bi</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>bithear</m></li>
+                  <li>relative – a <m>bhithear</m></li>
+                  <li>dependent – cha <m>bhithear</m>, am/nach <m>bithear</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>conditional <ul id="conditional">
+              <li>active <ul>
+                  <li>first person singular <ul>
+                      <li>independent – <m>bhithinn</m></li>
+                      <li>relative – a <m>bhithinn</m></li>
+                      <li>dependent – cha <m>bhithinn</m>, am/nach <m>bithinn</m></li>
+                    </ul>
+                  </li>
+                  <li>first person plural <ul>
+                      <li>independent – <m>bhiomaid</m></li>
+                      <li>relative – a <m>bhiomaid</m></li>
+                      <li>dependent – cha <m>bhiomaid</m>, am/nach <m>biomaid</m></li>
+                    </ul>
+                  </li>
+                  <li>second/third persons <ul>
+                      <li>independent – <m>bhiodh</m></li>
+                      <li>relative – a <m>bhiodh</m></li>
+                      <li>dependent – cha <m>bhiodh</m>, am/nach <m>bhiodh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>bhite</m></li>
+                  <li>relative – a <m>bhite</m></li>
+                  <li>dependent – cha <m>bhite</m>, am/nach <m>bite</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul></p>
+    </section>
+    <!--
+    <section>
+      <h>status</h>
+      <p><ul>
+          <li>independent <ul id="independent">
+              <li>past <ul>
+                  <li>active – <m>chaidh</m></li>
+                  <li>passive – <m>chaidheas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – <m>thèid</m></li>
+                  <li>passive – <m>thèidear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – <m>rachainn / dheighinn</m></li>
+                      <li>first person plural – <m>rachamaid / dheigheamaid</m></li>
+                      <li>second/third persons – <m>rachadh / dheigheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – <m>rachte / dheighte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>relative <ul id="relative">
+              <li>past <ul>
+                  <li>active – a <m>chaidh</m></li>
+                  <li>passive – a <m>chaidheas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – a <m>thèid</m></li>
+                  <li>passive – a <m>thèidear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – a <m>rachainn / dheighinn</m></li>
+                      <li>first person plural – a <m>rachamaid / dheigheamaid</m></li>
+                      <li>second/third persons – a <m>rachadh / dheigheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – a <m>rachte / dheighte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>dependent <ul id="dependent">
+              <li>past <ul>
+                  <li>active – cha/an/nach <m>deach</m></li>
+                  <li>passive – cha/an/nach <m>deachas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – cha/an/nach <m>tèid</m></li>
+                  <li>passive – cha/an/nach <m>tèidear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – cha/an/nach <m>rachainn / deighinn</m></li>
+                      <li>first person plural – cha/an/nach <m>rachamaid / deigheamaid</m></li>
+                      <li>second/third persons – cha/an/nach <m>rachadh / deigheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – cha/an/nach <m>rachte / deighte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul></p>
+    </section>
+    <section>
+      <h>voice</h>
+      <p><ul>
+          <li>active <ul id="active">
+              <li>past <ul>
+                  <li>independent – <m>chaidh</m></li>
+                  <li>relative – a <m>chaidh</m></li>
+                  <li>dependent – cha/an/nach <m>deach</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>thèid</m></li>
+                  <li>relative – a <m>thèid</m></li>
+                  <li>dependent – cha/an/nach <m>tèid</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent <ul>
+                      <li>first person singular – <m>rachainn / dheighinn</m></li>
+                      <li>first person plural – <m>rachamaid / dheigheamaid</m></li>
+                      <li>second/third persons – <m>rachadh / dheigheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>relative <ul>
+                      <li>first person singular – a <m>rachainn / dheighinn</m></li>
+                      <li>first person plural – a <m>rachamaid / dheigheamaid</m></li>
+                      <li>second/third persons – a <m>rachadh / dheigheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>dependent <ul>
+                      <li>first person singular – cha/an/nach <m>rachainn / deighinn</m></li>
+                      <li>first person plural – cha/an/nach <m>rachamaid / deigheamaid</m></li>
+                      <li>second/third persons – cha/an/nach <m>rachadh / deigheadh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>passive <ul id="passive">
+              <li>past <ul>
+                  <li>independent – <m>chaidheas</m></li>
+                  <li>relative – a <m>chaidheas</m></li>
+                  <li>dependent – cha/an/nach <m>deachas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>thèidear</m></li>
+                  <li>relative – a <m>thèidear</m></li>
+                  <li>dependent – cha/an/nach <m>tèidear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent – <m>rachte / dheighte</m></li>
+                  <li>relative – a <m>rachte / dheighte</m></li>
+                  <li>dependent – cha/an/nach <m>rachte / deighte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul></p>
+    </section>
+    <section>
+      <h>imperative</h>
+      <p>
+        <ul>
+          <li>independent <ul id="independent-imp">
+              <li>first person singular – <m>racham</m>!</li>
+              <li>second person singular – <m>rach</m>!</li>
+              <li>first person plural – <m>rachamaid</m>!</li>
+              <li>second person plural – <m>rachaibh</m>!</li>
+              <li>third person – <m>rachadh</m>!</li>
+              <li>passive – <m>rach(t)ar</m>!</li>
+            </ul>
+          </li>
+          <li>dependent <ul id="dependent-imp">
+              <li>first person singular – na <m>racham</m>!</li>
+              <li>second person singular – na <m>rach</m>!</li>
+              <li>first person plural – na <m>rachamaid</m>!</li>
+              <li>second person plural – na <m>rachaibh</m>!</li>
+              <li>third person – na <m>rachadh</m>!</li>
+              <li>passive – na <m>rach(t)ar</m>!</li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>notes</h>
+      <p><ol>
+          <li>The conditional stem varies according to dialect – <g>deigh–</g>, <g>geobh-</g>,
+              <g>rach-</g>, <g>reigh-</g>, <g>reagh-</g>, <g>deidh-</g>.</li>
+          <li>The future dependent forms in <g>tèid-</g> are pronounced as if they were spelled
+              <g>dèid-</g>. </li>
+          <li>There is an archaic alternative to past dependent <g>deach</g> ie.
+            <g>deachaidh</g>.</li>
+        </ol>
+      </p>
+    </section>
+    -->
+  </section>
+
+  <section>
+    <h>dependents</h>
+    <section id="sbj">
+      <h>subject</h>
+      <p>Older pedagogical examples – <xl id="sbj-older-pedag">
+          <li>
+            <gd><m>Tha mo mhàthair</m> a’ sgrìobhadh litreach gu <m>m’athair a tha</m> air falbh.
+              Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an litir seo, Iain?”
+              “Théid,” ars Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi i is gus an cuir
+              mi seòladh oirre. Ceannaich fhéin stamp agus cuir oirre i.” <m>Tha Iain</m> a’ ruith
+              sìos an rathad leis an litir ’na làimh. Théid e a steach do oifig a’ phuist,
+              ceannaichidh e stamp is cuiridh e sud air an litir. Tilgidh e an litir ann am bocsa
+              nan litrichean. </gd>
+            <tr>My mother is writing a letter to my father who is away. My mother said, “Will you go
+              to the postbox with this letter, John?” “Yes, I will,” said John, “I will leave now.”
+              “Wait until I seal it and put an address on it. Buy a stamp and put it on it.” John is
+              running down the road with the letter in his hand. He will go into the post office, he
+              will buy a stamp and put that on the letter. He will toss the letter into the
+              postbox.</tr>
+            <ref text="621">td. 5–6</ref>
+          </li>
+          <li>
+            <gd><m>Bha an latha</m> brèagha blàth is thug an athair leis Iain agus Anna anns a’
+              chàr. Chuir iad an càr a stigh gu taobh an rathaid is thug iad brat a mach as a’ chàr
+              air son suidhe air. <m>Tha bascaid</m> làn de bhiadh aca is <m>tha iad</m> a’ dol a
+              ghabhail an tea air a’ chnocan ghorm. Is toigh leis a’ chloinn biadh a ghabhail a
+              muigh ri latha brèagha. Thèid iad dhachaidh feasgar an uair a <m>tha a’ ghrian</m> a’
+              dol fodha.</gd>
+            <tr>The day was lovely and warm and their father took John and Ann in the car. They put
+              the car into the side of the road and they took a blanket out of the car for sitting
+              on. They have a basket full of food and they are going to have their tea on the little
+              green hill. The children like eating al fresco on a nice day. They will go home in the
+              evening when the sun is going down.</tr>
+            <ref text="621">td. 6</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="pred">
+      <h>predicate</h>
+      <section>
+        <h>locatives</h>
+        <p>Older pedagogical examples – <xl id="loc-older-pedag">
+            <li>
+              <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu <m>m’athair a tha air falbh</m>.</gd>
+              <tr>My mother is writing a letter to my father who is away.</tr>
+              <ref text="621">td. 5</ref>
+            </li>
+            <li>
+              <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’ chàr.
+                Chuir iad an càr a stigh gu taobh an rathaid is thug iad brat a mach as a’ chàr air
+                son suidhe air. <m>Tha bascaid làn de bhiadh aca</m> is tha iad a’ dol a ghabhail an
+                tea air a’ chnocan ghorm. Is toigh leis a’ chloinn biadh a ghabhail a muigh ri latha
+                brèagha. Thèid iad dhachaidh feasgar an uair a tha a’ ghrian a’ dol fodha.</gd>
+              <tr>The day was lovely and warm and their father took John and Ann in the car. They
+                put the car into the side of the road and they took a blanket out of the car for
+                sitting on. They have a basket full of food and they are going to have their tea on
+                the little green hill. The children like eating al fresco on a nice day. They will
+                go home in the evening when the sun is going down.</tr>
+              <ref text="621">td. 6</ref>
+            </li>
+          </xl>
+        </p>
+      </section>
+      <section>
+        <h>progressive aspect</h>
+        <p>Older pedagogical examples – <xl id="prog-older-pedag">
+            <li>
+              <gd><m>Tha mo mhàthair a’ sgrìobhadh</m> litreach gu m’athair a tha air falbh.
+                Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an litir seo,
+                Iain?” “Théid,” ars Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi i is gus
+                an cuir mi seòladh oirre. Ceannaich fhéin stamp agus cuir oirre i.” <m>Tha Iain a’
+                  ruith</m> sìos an rathad leis an litir ’na làimh. Théid e a steach do oifig a’
+                phuist, ceannaichidh e stamp is cuiridh e sud air an litir. Tilgidh e an litir ann
+                am bocsa nan litrichean. </gd>
+              <tr>My mother is writing a letter to my father who is away. My mother said, “Will you
+                go to the postbox with this letter, John?” “Yes, I will,” said John, “I will leave
+                now.” “Wait until I seal it and put an address on it. Buy a stamp and put it on it.”
+                John is running down the road with the letter in his hand. He will go into the post
+                office, he will buy a stamp and put that on the letter. He will toss the letter into
+                the postbox.</tr>
+              <ref text="621">td. 5–6</ref>
+            </li>
+            <li>
+              <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’ chàr.
+                Chuir iad an càr a stigh gu taobh an rathaid is thug iad brat a mach as a’ chàr air
+                son suidhe air. Tha bascaid làn de bhiadh aca is <m>tha iad a’ dol</m> a ghabhail an
+                tea air a’ chnocan ghorm. Is toigh leis a’ chloinn biadh a ghabhail a muigh ri latha
+                brèagha. Thèid iad dhachaidh feasgar an uair a <m>tha a’ ghrian a’ dol</m>
+                fodha.</gd>
+              <tr>The day was lovely and warm and their father took John and Ann in the car. They
+                put the car into the side of the road and they took a blanket out of the car for
+                sitting on. They have a basket full of food and they are going to have their tea on
+                the little green hill. The children like eating al fresco on a nice day. They will
+                go home in the evening when the sun is going down.</tr>
+              <ref text="621">td. 6</ref>
+            </li>
+          </xl>
+        </p>
+      </section>
+      <section>
+        <h>predicative adjectives</h>
+        <p>Some examples with a definite article pre-specifier – <ul>
+            <li>older pedagogical examples – <xl id="adj-older-pedag">
+                <li>
+                  <gd><m>Bha</m> an latha <m>brèagha blàth</m> is thug an athair leis Iain agus Anna
+                    anns a’ chàr. [...]</gd>
+                  <tr>The day was lovely and warm and their father took John and Ann in the car.
+                    [...]</tr>
+                  <ref text="621">td. 6</ref>
+                </li>
+              </xl></li>
+          </ul>
+        </p>
+      </section>
+
+    </section>
+
+  </section>
+
+  <!--
+ 
+      
+     
+      
+      <li><span lang="en">independent</span><span lang="gd">neo-eisimeileach</span>
+        <ul id="independent">
+          <li><span lang="en">present</span><span lang="gd">làthaireach</span>
+            <ul>
+              <li><span lang="en">active</span><span lang="gd">spreigeach</span> – <m>tha</m></li>
+              <li><span lang="en">passive</span><span lang="gd">fulangach</span> – <m>thathar</m></li>
+            </ul>
+          </li>
+          <li><span lang="en">past</span><span lang="gd">caithte</span>
+            <ul>
+              <li><span lang="en">active</span><span lang="gd">spreigeach</span> – <m>bha</m></li>
+              <li><span lang="en">passive</span><span lang="gd">fulangach</span> – <m>bhathar</m></li>
+            </ul>
+          </li>
+          <li><span lang="en">future</span><span lang="gd">teachdail</span>
+            <ul>
+              <li><span lang="en">active</span><span lang="gd">spreigeach</span> – <m>bidh</m></li>
+              <li><span lang="en">passive</span><span lang="gd">fulangach</span> – <m>bithear</m></li>
+            </ul>
+          </li>
+          <li><span lang="en">conditional</span><span lang="gd">cumhach</span>
+            <ul>
+              <li><span lang="en">active</span><span lang="gd">spreigeach</span>
+                <ul>
+                  <li><span lang="en">first person singular</span><span lang="gd">ciad phearsa singilte</span> – <m>bhithinn</m></li>
+                  <li><span lang="en">first person plural</span><span lang="gd">ciad phearsa iolra</span> – <m>bhiomaid</m></li>
+                  <li><span lang="en">second/third persons</span><span lang="gd">dàrna/treas pearsa</span> – <m>bhiodh</m></li>
+                </ul>
+              </li>
+              <li><span lang="en">passive</span><span lang="gd">fulangach</span> – <m>bhite</m></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><span lang="en">relative</span><span lang="gd">dàimheach</span>
+        <ul id="relative">
+          <li><span lang="en">present</span><span lang="gd">làthaireach</span>
+            <ul>
+              <li><span lang="en">active</span><span lang="gd">spreigeach</span> – a <m>tha</m></li>
+              <li><span lang="en">passive</span><span lang="gd">fulangach</span> – a <m>thathar</m></li>
+            </ul>
+          </li>
+          <li><span lang="en">past</span><span lang="gd">caithte</span>
+            <ul>
+              <li><span lang="en">active</span><span lang="gd">spreigeach</span> – a <m>bha</m></li>
+              <li><span lang="en">passive</span><span lang="gd">fulangach</span> – a <m>bhathar</m></li>
+            </ul>
+          </li>
+          <li><span lang="en">future</span><span lang="gd">teachdail</span>
+            <ul>
+              <li><span lang="en">active</span><span lang="gd">spreigeach</span> – a <m>bhios</m></li>
+              <li><span lang="en">passive</span><span lang="gd">fulangach</span> – a <m>bhithear</m></li>
+            </ul>
+          </li>
+          <li><span lang="en">conditional</span><span lang="gd">cumhach</span>
+            <ul>
+              <li><span lang="en">active</span><span lang="gd">spreigeach</span>
+                <ul>
+                  <li><span lang="en">first person singular</span><span lang="gd">ciad phearsa singilte</span> – a <m>bhithinn</m></li>
+                  <li><span lang="en">first person plural</span><span lang="gd">ciad phearsa iolra</span> – a <m>bhiomaid</m></li>
+                  <li><span lang="en">second/third persons</span><span lang="gd">dàrna/treas pearsa</span> – a <m>bhiodh</m></li>
+                </ul>
+              </li>
+              <li><span lang="en">passive</span><span lang="gd">fulangach</span> – a <m>bhite</m></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><span lang="en">dependent</span><span lang="gd">eisimeileach</span>
+        <ul id="dependent">
+          <li><span lang="en">present</span><span lang="gd">làthaireach</span>
+            <ul>
+              <li><span lang="en">active</span><span lang="gd">spreigeach</span> – chan/nach <m>eil</m>, a <m>bheil</m></li>
+              <li><span lang="en">passive</span><span lang="gd">fulangach</span> – chan/nach <m>eilear</m>, a <m>bheilear</m></li>
+            </ul>
+          </li>
+          <li><span lang="en">past</span><span lang="gd">caithte</span>
+            <ul>
+              <li><span lang="en">active</span><span lang="gd">spreigeach</span> – cha/an/nach <m>robh</m></li>
+              <li><span lang="en">passive</span><span lang="gd">fulangach</span> – cha/an/nach <m>robhar</m></li>
+            </ul>
+          </li>
+          <li><span lang="en">future</span><span lang="gd">teachdail</span>
+            <ul>
+              <li><span lang="en">active</span><span lang="gd">spreigeach</span> – cha <m>bhi</m>, am/nach <m>bi</m></li>
+              <li><span lang="en">passive</span><span lang="gd">fulangach</span> – cha <m>bhithear</m>, am/nach <m>bithear</m></li>
+            </ul>
+          </li>
+          <li><span lang="en">conditional</span><span lang="gd">cumhach</span>
+            <ul>
+              <li><span lang="en">active</span><span lang="gd">spreigeach</span>
+                <ul>
+                  <li><span lang="en">first person singular</span><span lang="gd">ciad phearsa singilte</span> – cha <m>bhithinn</m>, am/nach <m>bithinn</m></li>
+                  <li><span lang="en">first person plural</span><span lang="gd">ciad phearsa iolra</span> – cha <m>bhiomaid</m>, am/nach <m>biomaid</m></li>
+                  <li><span lang="en">second/third persons</span><span lang="gd">dàrna/treas pearsa</span> – cha <m>bhiodh</m>, am/nach <m>biodh</m></li>
+                </ul>
+              </li>
+              <li><span lang="en">passive</span><span lang="gd">fulangach</span> – chan <m>bhite</m>, am/nach <m>bite</m></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <hr/>
+      <li><span lang="en">active</span><span lang="gd">spreigeach</span>
+        <ul id="active">
+          <li><span lang="en">present</span><span lang="gd">làthaireach</span>
+            <ul>
+              <li><span lang="en">independent</span><span lang="gd">neo-eisimeileach</span> – <m>tha</m></li>
+              <li><span lang="en">relative</span><span lang="gd">dàimheach</span> – a <m>tha</m></li>
+              <li><span lang="en">dependent</span><span lang="gd">eisimeileach</span> – chan/nach <m>eil</m>, a <m>bheil</m></li>
+            </ul>
+          </li>
+          <li><span lang="en">past</span><span lang="gd">caithte</span>
+            <ul>
+              <li><span lang="en">independent</span><span lang="gd">neo-eisimeileach</span> – <m>bha</m></li>
+              <li><span lang="en">relative</span><span lang="gd">dàimheach</span> – a <m>bha</m></li>
+              <li><span lang="en">dependent</span><span lang="gd">eisimeileach</span> – cha/an/nach <m>robh</m></li>
+            </ul>
+          </li>
+          <li><span lang="en">future</span><span lang="gd">teachdail</span>
+            <ul>
+              <li><span lang="en">independent</span><span lang="gd">neo-eisimeileach</span> – <m>bidh</m></li>
+              <li><span lang="en">relative</span><span lang="gd">dàimheach</span> – a <m>bhios</m></li>
+              <li><span lang="en">dependent</span><span lang="gd">eisimeileach</span> – cha <m>bhi</m>, am/nach <m>bi</m></li>
+            </ul>
+          </li>
+          <li><span lang="en">conditional</span><span lang="gd">cumhach</span>
+            <ul>
+              <li><span lang="en">independent</span><span lang="gd">neo-eisimeileach</span>
+                <ul>
+                  <li><span lang="en">first person singular</span><span lang="gd">ciad phearsa singilte</span> – <m>bhithinn</m></li>
+                  <li><span lang="en">first person plural</span><span lang="gd">ciad phearsa iolra</span> – <m>bhiomaid</m></li>
+                  <li><span lang="en">second/third persons</span><span lang="gd">dàrna/treas pearsa</span> – <m>bhiodh</m></li>
+                </ul>
+              </li>
+              <li><span lang="en">relative</span><span lang="gd">dàimheach</span>
+                <ul>
+                  <li><span lang="en">first person singular</span><span lang="gd">ciad phearsa singilte</span> – a <m>bhithinn</m></li>
+                  <li><span lang="en">first person plural</span><span lang="gd">ciad phearsa iolra</span> – a <m>bhiomaid</m></li>
+                  <li><span lang="en">second/third persons</span><span lang="gd">dàrna/treas pearsa</span> – a <m>bhiodh</m></li>
+                </ul>
+              </li>
+              <li><span lang="en">dependent</span><span lang="gd">eisimeileach</span>
+                <ul>
+                  <li><span lang="en">first person singular</span><span lang="gd">ciad phearsa singilte</span> – cha <m>bhithinn</m>, am/nach <m>bithinn</m></li>
+                  <li><span lang="en">first person plural</span><span lang="gd">ciad phearsa iolra</span> – cha <m>bhiomaid</m>, am/nach <m>biomaid</m></li>
+                  <li><span lang="en">second/third persons</span><span lang="gd">dàrna/treas pearsa</span> – cha <m>bhiodh</m>, am/nach <m>biodh</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><span lang="en">passive</span><span lang="gd">fulangach</span>
+        <ul id="passive">
+          <li><span lang="en">present</span><span lang="gd">làthaireach</span>
+            <ul>
+              <li><span lang="en">independent</span><span lang="gd">neo-eisimeileach</span> – <m>thathar</m></li>
+              <li><span lang="en">relative</span><span lang="gd">dàimheach</span> – a <m>thathar</m></li>
+              <li><span lang="en">dependent</span><span lang="gd">eisimeileach</span> – chan/nach <m>eilear</m>, a <m>bheilear</m></li>
+            </ul>
+          </li>
+          <li><span lang="en">past</span><span lang="gd">caithte</span>
+            <ul>
+              <li><span lang="en">independent</span><span lang="gd">neo-eisimeileach</span> – <m>bhathar</m></li>
+              <li><span lang="en">relative</span><span lang="gd">dàimheach</span> – a <m>bhathar</m></li>
+              <li><span lang="en">dependent</span><span lang="gd">eisimeileach</span> – cha/an/nach <m>robhar</m></li>
+            </ul>
+          </li>
+          <li><span lang="en">future</span><span lang="gd">teachdail</span>
+            <ul>
+              <li><span lang="en">independent</span><span lang="gd">neo-eisimeileach</span> – <m>bithear</m></li>
+              <li><span lang="en">relative</span><span lang="gd">dàimheach</span> – a <m>bhithear</m></li>
+              <li><span lang="en">dependent</span><span lang="gd">eisimeileach</span> – cha <m>bhithear</m>, am/nach <m>bithear</m></li>
+            </ul>
+          </li>
+          <li><span lang="en">conditional</span><span lang="gd">cumhach</span>
+            <ul>
+              <li><span lang="en">independent</span><span lang="gd">neo-eisimeileach</span> – <m>bhite</m></li>
+              <li><span lang="en">relative</span><span lang="gd">dàimheach</span> – a <m>bhite</m></li>
+              <li><span lang="en">dependent</span><span lang="gd">eisimeileach</span> – cha <m>bhite</m>, am/nach <m>bite</m></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <hr/>
+      <li><span lang="en">imperative</span><span lang="gd">àithneach</span>
+        <ul id="imperative">
+          <li><span lang="en">independent</span><span lang="gd">neo-eisimeileach</span>
+            <ul>
+              <li><span lang="en">first person singular</span><span lang="gd">ciad phearsa singilte</span> – <m>bitheam</m>!</li>
+              <li><span lang="en">second person singular</span><span lang="gd">dàrna pearsa singilte</span> – <m>bi</m>!</li>
+              <li><span lang="en">first person plural</span><span lang="gd">ciad phearsa iolra</span> – <m>bitheamaid</m>!</li>
+              <li><span lang="en">second person plural</span><span lang="gd">dàrna pearsa iolra</span> – <m>bithibh</m>!</li>
+              <li><span lang="en">third person</span><span lang="gd">treas pearsa</span> – <m>bitheadh</m>!</li>
+              <li><span lang="en">passive</span><span lang="gd">fulangach</span> – <m>bithear</m>!</li>
+            </ul>
+          </li>
+          <li><span lang="en">dependent</span><span lang="gd">eisimeileach</span>
+            <ul>
+              <li><span lang="en">first person singular</span><span lang="gd">ciad phearsa singilte</span> – na <m>bitheam</m>!</li>
+              <li><span lang="en">second person singular</span><span lang="gd">dàrna pearsa singilte</span> – na <m>bi</m>!</li>
+              <li><span lang="en">first person plural</span><span lang="gd">ciad phearsa iolra</span> – na <m>bitheamaid</m>!</li>
+              <li><span lang="en">second person plural</span><span lang="gd">dàrna pearsa iolra</span> – na <m>bithibh</m>!</li>
+              <li><span lang="en">third person</span><span lang="gd">treas pearsa</span> – na <m>bitheadh</m>!</li>
+              <li><span lang="en">passive</span><span lang="gd">fulangach</span> – na <m>bithear</m>!</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <hr/>
+      <li><span lang="en">verbal noun</span><span lang="gd">ainmear gnìomhaireach</span> – <m>bith</m></li>
+    </ul>
+    <p><span lang="en">Notes</span><span lang="gd">Notaichean</span> – <ol id="notes">
+        <li><span lang="en">The future forms <b>bidh</b> and <b>bhios</b> have the emphatic alternatives <b>bithidh</b> and <b>bhitheas</b>.</span>
+          <span lang="gd">Tha cruthan eile airson na cruthan teachdail <b>bidh</b> agus <b>bhios</b> – <b>bithidh</b> agus <b>bhitheas</b>.</span>
+        </li>
+        <li><span lang="en">The conditional forms <b>b(h)iodh</b> and <b>b(h)iomaid</b> have the emphatic alternatives <b>b(h)itheadh</b> and
+              <b>b(h)itheamaid</b>.</span>
+          <span lang="gd">Tha cruthan eile airson na cruthan cumhach <b>b(h)iodh</b> agus <b>b(h)iomaid</b> – <b>b(h)itheadh</b> agus
+            <b>b(h)itheamaid</b>.</span></li>
+        <li><span lang="en">The passive forms in <b>-ar</b> have alternatives in <b>-as</b> – <b>thathas</b>, <b>eileas</b>, <b>bheileas</b>,
+              <b>bhathas</b>, <b>robhas</b>, <b>b(h)itheas</b>.</span>
+          <span lang="gd">cf. <b>-ar</b> an àite <b>-as</b> – <b>thathas</b>, <b>eileas</b>, <b>bheileas</b>, <b>bhathas</b>,
+              <b>robhas</b>, <b>b(h)itheas</b>.</span></li>
+        <li><span lang="en">Note also <b>thatar</b>, <b>bhatar</b> and <b>b(h)itear</b> as alternatives to <b>thathar</b>, <b>bhathar</b> and
+              <b>b(h)ithear</b>.</span>
+          <span lang="gd">cf. <b>thatar</b>, <b>bhatar</b>, <b>b(h)itear</b> an àite <b>thathar</b>, <b>bhathar</b>,
+            <b>b(h)ithear</b>.</span></li>
+        <li><span lang="en">The conditional passive form <b>b(h)istist(e)</b> is sometimes found as an alternative to <b>b(h)ite</b>.</span>
+          <span lang="gd">cf. <b>b(h)istist(e)</b> an àite <b>b(h)ite</b>.</span></li>
+        <li><b>chan eil</b> was often written <b>cha’n’eil</b> in traditional orthography. Similarly, <b>a bheil</b> was often written (and presumably pronounced)
+            <b>am beil</b>.</li>
+      </ol>
+    </p>
+  </box>
+  <hr/>
+  <p lang="en">Examples of usage –</p>
+  <ulx id="exss">
+    <lix>
+      <gd><m>Bha beagan airgid aige</m> ’s mar sin chaith e a bheatha a’ sgrìobhadh, gun feum aige air obair eile a dhèanamh.</gd>
+      <tr><u>He had a little money</u> and therefore he devoted his life to writing, without the need to do other work.</tr>
+      <ref text="400-41">td. 103</ref>
+      <note>Material possession.</note>
+    </lix>
+    <lix>
+      <gd>Rugadh am feallsanach Soren Kierkegaard ann sa’ bhliadhna 1813, an Copenhagen far na bhàsaich e nuair a <m>bha e dà fhichead, ’s a dhà</m>.</gd>
+      <tr>The philosopher Soren Kierkegaard was born in 1813, in Copenhagen where he died when <u>he was 42</u>.</tr>
+      <ref text="400-41">td. 103</ref>
+      <note>age, bi + numeric expression.</note>
+    </lix>
+    <lix>
+      <gd>Bha feallsanach mar Hegel a’ togail riaghailtean móra a dheanadh an saoghal air a thaobh a-muigh fhéin soilleir, ach cha b’ ann <m>mar sin</m> a <m>bha Kierkegaard</m>.</gd>
+      <tr>A philosopher like Hegel constructed grand rules which made the external world itself clear but K. was not like that.</tr>
+      <ref text="400-41">td. 103</ref>
+    </lix>
+    <li>
+      <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig do’n Eiphit; thàinig gach duine
+        agus a theaghlach maille re Iacob: Reuben, Simeon, Lebhi, agus Iudah, [...] Agus na
+        h-anman uile a thàinig a mach a leasraidh Iacoib, bu deich agus tri fichead anam
+        iad; oir <m>bha Ioseph ’san Eiphit a cheana</m>. [...]</gd>
+      <tr>Now these are the names of the children of Israel, which came into Egypt; every man
+        and his household came with Jacob. Reuben, Simeon, Levi, and Judah, [...] And all the
+        souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt
+        already. [...] [KJV]</tr>
+      <ref text="160">Ecsodus I.1–5</ref>
+    </li>
+  </ulx>
+-->
+</module>

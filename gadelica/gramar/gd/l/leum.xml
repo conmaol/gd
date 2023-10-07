@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>leum</h>
+    <p><g>leum</g>
+        <en>jump</en> is a <a href="?xx=verbs/simple_verbs">simple verb</a>, denoting an event/activity of <a
+            href="?q=motion">manner of motion</a>.</p>
+    
+</module>
+

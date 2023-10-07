@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>an-dràsta</h>
+    <p><g>an-dràsta</g>
+        <en>now, at the moment, at present</en> is a temporal adverb.</p>
+    <p lang="en">Alternative (traditional) form – <g>an-dràsda</g>. cf. <a href="?gd=a-nis"
+                ><g>a-nis</g></a>
+        <en>now</en>.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>modifier</h>
+            <p>Older pedagogical examples – <xl id="mod-older-pedag">
+                    <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                            Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an
+                            litir seo, Iain?” “Théid,” ars Iain, “<m>falbhaidh mi an dràsda</m>”.
+                            [...]</gd>
+                        <tr>My mother is writing a letter to my father who is away. My mother said,
+                            “Will you go to the postbox with this letter, John?” “Yes, I will,” said
+                            John, “I will leave now.” [...]</tr>
+                        <ref text="621">td. 5</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <module status="bronze">
+        <h>an-dràsta agus a-rithist</h>
+        <p>Frequency adverbial. cf. <a href="?gd=a-rithist">a-rithist</a>
+            <en>again</en></p>
+        <p>Examples from Gairm – <xl id="a-rithist-gairm">
+                <li>
+                    <gd>[...] ’S bha iad ’nan suidhe an sin ag òl uisge-beatha fad na h-oidhch’, na
+                        ceathrar aca. <m>An dràsda ’s a rithist</m> shealladh Iain a-mach air an
+                        uinneig ris a’ mhuir ’s na h-eileanan. [...]</gd>
+                    <tr>[...] And they were sat there drinking whisky all night, the four of them.
+                        Now and again John would look out the window at the sea and the islands.
+                        [...]</tr>
+                    <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+            </xl>
+        </p>
+    </module>
+</module>

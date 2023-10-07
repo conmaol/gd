@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>oidhche</h>
+    <p><g>oidhche</g>
+        <en>night</en> is a feminine common noun.</p>
+    <section>
+        <h>dependents</h>
+        <section id="deps-mods">
+            <h>modifiers</h>
+            <p><g>oidhche <a href="?gd=rionnagach">rionnagach</a></g>
+                <en>starry night</en>.</p>
+        </section>
+    </section>
+
+</module>

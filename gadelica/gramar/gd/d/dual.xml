@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">dual</h>
+    <h lang="gd">dual</h>
+    <p><b>dual</b>
+        <en>birthright, hereditary right, inheritance</en> is a masculine noun, with genitive
+        singular <b>duail</b> and plural <b>duail</b> or <b>dualan</b>.</p>
+    <module id="is_dual">
+        <h>is dual (do ...)</h>
+        <p>Pedagogical examples – <xl id="dual-pedag">
+                <li>
+                    <gd>Bu dual dha sin.</gd>
+                    <tr>That was to be expected of him (him being the man he is). You would expect
+                        that of his people.</tr>
+                    <ref text="605">td. 157</ref>
+                </li>
+                <li>
+                    <gd>Bu dual dha bàrdachd bho thaobh athar.</gd>
+                    <tr>He inherited a talent for poetry from his father’s side of the family.</tr>
+                    <ref text="605">td. 157</ref>
+                </li>
+                <li>
+                    <gd>MacGriogair à Ruadhshruth dam bu dual bhith ’n Gleann Lìobhann ...</gd>
+                    <tr>MacGregor of Roro whose birthright it was to be in Glen Lyon ...</tr>
+                    <ref text="605">td. 157</ref>
+                </li>
+                <li>
+                    <gd>bu dual a bhith seinn</gd>
+                    <tr>born to sing</tr>
+                    <ref text="601">td. 246</ref>
+                </li>
+                <li>
+                    <gd>Bu dual do dh’isean an ròin a dhol air a thòin chun na mara.</gd>
+                    <tr>Some people have sea water in their veins ie. take to the sea
+                        naturally.</tr>
+                    <ref text="601">td. 246</ref>
+                </li>
+            </xl>
+        </p>
+        <module id="mar_as_dual">
+            <h>mar as dual (do ...)</h>
+            <p>Pedagogical examples – <xl id="mar_as_dual-pedag">
+                    <li>
+                        <gd>mar as dual</gd>
+                        <tr>as is common/customary</tr>
+                        <ref text="601">td. 246</ref>
+                    </li>
+                    <li>
+                        <gd>mar bu dual (dha)</gd>
+                        <tr>as you would expect (of him), naturally, as was customery (with
+                            him)</tr>
+                        <ref text="601">td. 246</ref>
+                    </li>
+                    <li>
+                        <gd>Tha iad, mar bu dual, nas lìonmhoire anns na bailtean.</gd>
+                        <tr>They are, naturally, more abundant in the towns.</tr>
+                        <ref text="601">td. 246</ref>
+                    </li>
+                    <li>
+                        <gd>... mar bu dual do na seann Hiortaich</gd>
+                        <tr>... as was customary to the old St Kildans</tr>
+                        <ref text="601">td. 246</ref>
+                    </li>
+
+                </xl>
+            </p>
+            <p>cf. <bad>mar bha dual</bad> – <xl id="mar-bha_dual-pedag">
+                    <li>
+                        <gd>Mar bha dual bha mòran dhaoine òga a’ tadhal oirre.</gd>
+                        <tr>Naturally / as one would expect there were many young men visiting
+                            her.</tr>
+                        <ref text="601">td. 246</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </module>
+    <module id="dualach">
+        <h>dualach</h>
+        <p><b>dualach</b>
+            <en>inherent, hereditary, innate, natural, in one’s nature/temperament</en> is an
+            adjective derived from the noun <b>dual</b> with the suffix <a href="?gd=_ach"
+                >-(e)ach</a>. An alternative form is <b>dualtach</b>.</p>
+        <p>Pedagogical examples – <xl id="dualach-pedag">
+                <li>
+                    <gd>Tha e dualtach dhut a bhith ag innse bhreugan!</gd>
+                    <tr>It’s in your nature / just like you / typical of you / to tell lies!</tr>
+                    <ref text="605">td. 157</ref>
+                </li>
+                <li>
+                    <gd>Tha iad dualach a bhith spìocach.</gd>
+                    <tr>They are inclined to be stingy/mean.</tr>
+                    <ref text="605">td. 157</ref>
+                </li>
+                <li>
+                    <gd>Chan eil e dualach don leithid beatha shocrach a mhealtainn</gd>
+                    <tr>It isn’t usual for the likes of him to enjoy a comfortable life.</tr>
+                    <ref text="601">td. 246</ref>
+                </li>
+                <li>
+                    <gd>gach tinneas a bhitheas dualach do dhuine</gd>
+                    <tr>every ailment which is hereditary to man</tr>
+                    <ref text="601">td. 246</ref>
+                </li>
+                <li>
+                    <gd>Tha e dualtach do iomadh buidheann a bhith ag iarraidh cuideachadh aig an
+                        ain àm.</gd>
+                    <tr>Many groups are liable to be seeking help at the same time.</tr>
+                    <ref text="601">td. 247</ref>
+                </li>
+            </xl>
+        </p>
+        <module id="dualchas">
+            <h>dualchas</h>
+            <p><b>dualchas</b>
+                <en>heritage, tradition, character, inheritance, disposition, patrimony</en> is a
+                masculine noun, derived from the adjective dualach with suffix <a href="?gd=_as"
+                    >-(e)as</a>, with genitive singular <b>dualchais</b>. An alternative form is
+                    <b>dualachas</b>.</p>
+            <p>Pedagogical examples – <xl id="dualchas-pedag">
+                    <li>
+                        <gd>Is e a dhualchas a bhith àrdanach.</gd>
+                        <tr>It’s in his character/nature to be proud.</tr>
+                        <ref text="605">td. 157</ref>
+                    </li>
+                    <li>
+                        <gd>Thèid dualchas an agaidh nan creag.</gd>
+                        <tr>Heritage will out.</tr>
+                        <ref text="601">td. 247</ref>
+                        <note>proverb</note>
+                    </li>
+                    <li>
+                        <gd>... a’ tarraing às an tobar seo de dhualchas</gd>
+                        <tr>... drawing from this well-spring of tradition</tr>
+                        <ref text="601">td. 247</ref>
+                    </li>
+                    <li>
+                        <gd>Thèid duine ri (a) dhualchas seachd uairean anns an latha.</gd>
+                        <tr>A man shows his heredity seven times a day.</tr>
+                        <ref text="601">td. 247</ref>
+                        <note>proverb</note>
+                    </li>
+                </xl>
+            </p>
+            <module id="DNhA">
+                <h>Dualchas Nàdair na h-Alba</h>
+                <p><b>Dualchas Nàdair na h-Alba</b>
+                    <en>Scottish Natural Heritage</en> is an ergonymic name-description.</p>
+            </module>
+            <module id="dualchasach">
+                <h>dualchasach</h>
+                <p><b>dualchasach</b>
+                    <en>traditional</en> is an adjective, derived from the noun <b>dualchas</b> with
+                    suffix <a href="?gd=_ach">-(e)ach</a>.</p>
+                <p>Pedagogical examples – <xl id="dualchasach-pedag">
+                        <li>
+                            <gd>ceòl dualchasach</gd>
+                            <tr>traditional music</tr>
+                            <ref text="605">td. 157</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+
+        </module>
+    </module>
+    <module id="compounds">
+        <h>compounds</h>
+        <module id="dualchainnt">
+            <h>dualchainnt</h>
+            <p><b>dualchainnt</b>
+                <en>dialect, brogue</en> is a feminine compound noun, created from the nouns
+                    <b>dual</b> and <a href="?gd=cainnt">cainnt</a>
+                <i>fem.</i>
+                <en>speech</en>. It has genitive singular <b>dualchainnte</b> and plural
+                    <b>dualchainntean</b>.</p>
+        </module>
+        <module id="dual-fhine">
+            <h>dual-fhine</h>
+            <p><b>dual-fhine</b>
+                <en>caste</en> is a feminine compound noun, created from the nouns <b>dual</b> and
+                    <b>fine</b>
+                <i>fem.</i>
+                <en>clan, race, tribe</en>. It has genitive singular <b>dual-fhine</b> and plural
+                    <b>dual-fhineachan</b>.</p>
+        </module>
+    </module>
+    <module id="etymology">
+        <h>etymology</h>
+        <p>Derived from the Old Gaelic masculine noun <ax href="https://dil.ie/18951">dúal</ax>
+            <en>that which belongs or is proper to an individual by nature or descent</en>, from
+            Proto-Indo-European <ax
+                href="https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/d%CA%B0ewg%CA%B0-"
+                >*dʰewgʰ-</ax> <en>hit, produce, be strong</en>.</p>
+    </module>
+    <module id="dual2">
+        <h>dual – hair</h>
+        <p>There is another, independent sense of the noun <b>dual</b>
+            <en>curl/lock/ringlet of hair, plait, strand</en>.</p>
+        <module id="cuir_an_dualan">
+            <h>cuir an dualan</h>
+            <p><b>cuir an dualan/duail</b>
+                <en>braid, put into braids</en>.</p>
+        </module>
+        <module id="na_dhualan">
+            <h>’na* dhualan</h>
+            <p>Pedagogical examples – <xl id="na_dhualan-pedag">
+                    <li>
+                        <gd>Bha ceò a’ tighinn na dhualan dubha bhon luidhear.</gd>
+                        <tr>Smoke was issuing from the chimney in black curls.</tr>
+                        <ref text="601">td. 246 [Eilidh Watt]</ref>
+                    </li>
+                    <li>
+                        <gd>Bha a falt a’ tuiteam na dhuail air a ghuailnean.</gd>
+                        <tr>Her hair was falling in curls upon her shoulders.</tr>
+                        <ref text="601">td. 246</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="dualaich">
+            <h>dualaich</h>
+            <p><b>dualaich</b>
+                <en>curl, twist, plait, braid; typify</en> is a verb derived from the noun
+                    <b>dual</b> with suffix <a href="?gd=_ich">-(a)ich</a>, and with verbal noun
+                    <b>dualachadh</b>
+                <masc/></p>
+            <module id="dualachadh">
+                <h>dualachadh</h>
+                <p><b>dualachadh</b>
+                    <en>curling, twisting, plaiting</en> is a masculine noun derived from the verb
+                        <b>dualaich</b>, with genitive singular <b>dualachaidh</b>.</p>
+            </module>
+        </module>
+        <module id="etymology2">
+            <h>etymology</h>
+            <p>Derived from the Old Gaelic masculine noun <ax href="https://dil.ie/18952">dúal</ax>
+                <en>lock or tress as of hair, flax; a plait or fold</en>, from Proto-Indo-European
+                    <b>*doḱlos</b>.</p>
+        </module>
+    </module>
+
+</module>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>eaglais</h>
+    <p><g>eaglais</g>
+        <en>church, kirk</en> is a feminine <a href="?xx=nouns/architectonic_common_nouns"
+            >architectonic</a>, <a href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>eaglais</g> are – <ul>
+                <li><m>eaglais</m> – nominative/dative singular</li>
+                <li><m>eaglais(e)</m> – genitive singular</li>
+                <li><m>eaglaisean</m> – plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>eaglais</m></li>
+                                    <li>dative – (ann an) <m>eaglais</m></li>
+                                    <li>genitive – (doras) <m>eaglais(e)</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>eaglaisean</m></li>
+                                    <li>dative – (ann an) <m>eaglaisean</m></li>
+                                    <li>genitive – (dorsan) <m>eaglaisean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an eaglais</m></li>
+                                    <li>dative – (anns) <m>an eaglais</m></li>
+                                    <li>genitive – (doras) <m>na h-eaglais(e)</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na h-eaglaisean</m></li>
+                                    <li>dative – (anns) <m>na h-eaglaisean</m></li>
+                                    <li>genitive – (dorsan) <m>nan eaglaisean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>eaglais</m></li>
+                                    <li>dative – (ann an) <m>eaglais</m></li>
+                                    <li>genitive – (doras) <m>eaglais(e)</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an eaglais</m></li>
+                                    <li>dative – (anns) <m>an eaglais</m></li>
+                                    <li>genitive – (doras) <m>na h-eaglais(e)</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>eaglaisean</m></li>
+                                    <li>dative – (ann an) <m>eaglaisean</m></li>
+                                    <li>genitive – (dorsan) <m>eaglaisean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na h-eaglaisean</m></li>
+                                    <li>dative – (anns) <m>na h-eaglaisean</m></li>
+                                    <li>genitive – (dorsan) <m>nan eaglaisean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>eaglais</m></li>
+                                    <li>plural – <m>eaglaisean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an eaglais</m></li>
+                                    <li>plural – <m>na h-eaglaisean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (ann an) <m>eaglais</m></li>
+                                    <li>plural – (ann an) <m>eaglaisean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (anns) <m>an eaglais</m></li>
+                                    <li>plural – (anns) <m>na h-eaglaisean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (doras) <m>eaglais(e)</m></li>
+                                    <li>plural – (dorsan) <m>eaglaisean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (doras) <m>na h-eaglais(e)</m></li>
+                                    <li>plural – (dorsan) <m>nan eaglaisean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+    <section>
+        <h>dependents</h>
+        <section id="deps-spr">
+            <h>specifier</h>
+            <!-- examples of eaglais used with pre and post specifiers -->
+            <p><a href="?gd=Eaglais_na_h-Alba"><g>Eaglais na h-Alba</g></a>
+                <en>The Church of Scotland</en></p>
+            <p><a href="?gd=Eaglais_nam_Manach_Liatha"><g>Eaglais nam Manach Liatha</g></a>
+                <en>Greyfriars Kirk</en></p>
+        </section>
+        <section id="deps-mods">
+            <h>modifiers</h>
+            <!-- examples of eaglais used with modifiers – adjectives, prepositions, relatives, ... -->
+            <p><a href="?gd=eaglais_pharaiste"><g>eaglais pharaiste</g></a>
+                <en>parish church</en></p>
+            <p><a href="?gd=eaglais_stèidhichte"><g>eaglais stèidhichte</g></a>
+                <en>established church</en></p>
+            <p>Other compounds –<ul>
+                    <li><g>eaglais Chaitligeach</g>
+                        <en>a Catholic church</en></li>
+                    <li><g>eaglais chlèireach</g>
+                        <en>a presbyterian church</en>
+                        <ul>
+                            <li><g>eaglais shaor (chlèireach)</g>
+                                <en>a free (presbyterian) church</en></li>
+                        </ul>
+                    </li>
+                    <li><g>eaglais <a href="?gd=coitheanalach">choitheanalach</a></g>
+                        <en>a congregationalist church</en></li>
+                    <li><g>eaglais <a href="?gd=easbaigeach">easbaigeach</a></g>
+                        <en>an episcopalian church</en></li>
+                </ul></p>
+
+        </section>
+    </section>
+    <section>
+        <h>uses</h>
+        <section id="uses-comp">
+            <h>complement</h>
+            <p>Some examples – <xl id="uses-comp-xs">
+                    <li>
+                        <gd>Chan fhaca mi thu anns an eaglais an-diugh.</gd>
+                        <tr>I didn’t see you at church today.</tr>
+                        <ref text="601">td. 256</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="uses-spr">
+            <h>specifier</h>
+            <p>Some examples – <xl id="uses-spr-xs">
+                    <li>
+                        <gd>Tha e air a chleachdadh mar thalla na h-eaglaise.</gd>
+                        <tr>It is used as the church hall.</tr>
+                        <ref text="601">td. 256</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="uses-mod">
+            <h>modifier</h>
+            <p>Some examples – <xl id="uses-mod-xs">
+                    <li>
+                        <gd>Tha e eòlach ann an gnothaichean eaglaise.</gd>
+                        <tr>He is knowledgeable in church matters.</tr>
+                        <ref text="601">td. 256</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Compounds – <ul>
+                    <li><g><a href="?gd=maor">maor</a> eaglaise</g>
+                        <en>beadle, church officer</en></li>
+                </ul>
+            </p>
+        </section>
+        <section id="uses-stem">
+            <h>stem</h>
+            <section>
+                <h>compounds nouns</h>
+                <p><g><a href="?gd=cathair">cathair</a>-eaglais</g>
+                    <fem/>
+                    <en>cathedral</en></p>
+            </section>
+            <section>
+                <h>derivatives</h>
+                <p><a href="?gd=eaglaiseach"><g>eaglaiseach</g></a>
+                    <adj/>
+                    <en>ecclesiastical</en></p>
+                <p><a href="?gd=eaglaiseil"><g>eaglaiseil</g></a>
+                    <adj/>
+                    <en>ecclesiastical</en></p>
+            </section>
+        </section>
+    </section>
+
+    <section id="etymology">
+        <h>etymology</h>
+        <p>[to come]</p>
+    </section>
+
+    <section>
+        <h>stuff</h>
+        <p>Examples from modern usage – <xl id="mod">
+                <li>
+                    <gd>Nuair a thàinig an Dealachadh (1843) agus a dh’fhàg mòran dhen t-sluagh an
+                        Eaglais Stèite, chuir an Eaglais Shaor a cuid sgoiltean fhèin air
+                        chois.</gd>
+                    <tr>When the Disruption came (1843) and many of the people left the Established
+                        Church, the Free Church set up its own schools.</tr>
+                    <ref text="609">td. 193</ref>
+                </li>
+                
+            </xl>
+        </p>
+    </section>
+
+
+
+</module>

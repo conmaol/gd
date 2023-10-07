@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">dùisg</h>
+    <h lang="gd">dùisg</h>
+    <p lang="en"><b>dùisg</b>
+        <en>wake up</en> is an intransitive (non-durative) <a href="?q=verbal_aspect">telic</a>
+        verb, with verbal noun <b>dùsgadh</b>
+        <masc/> (occasionally <b>dùisgeadh</b> or even <b>dùisg</b>).</p>
+    <p lang="gd">...</p>
+    <p lang="en">cf. <a href="?gd=caidil">caidil</a>
+        <en>fall asleep</en></p>
+    <p lang="gd">...</p>
+    <p lang="en">Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>[...] ’S bha iad ’nan suidhe an sin ag òl uisge-beatha fad na h-oidhch’, na
+                    ceathrar aca. An dràsda ’s a rithist shealladh Iain a-mach air an uinneig ris a’
+                    mhuir ’s na h-eileanan. [...] Chaidil e airson greiseag ’s nuair a <m>dhùisg e
+                        anns a’ mhadainn</m> bha a bheul salach le blas an uisge-bheatha. Choisich e
+                    mach ás a’ bhàta a-measg nam faoileagan, ga[n] sguabadh air falbh le a làmhan,
+                    agus lean e air suas an aon rathad a bh’ ann gus an ruigeadh e an tigh.
+                    [...]</gd>
+                <tr>[...] And they were sat there drinking whisky all night, the four of them. Now
+                    and again John would look out the window at the sea and the islands. [...] He
+                    fell asleep for a while and when he woke up in the morning his mouth was dirty
+                    with the taste of the whisky. He walked out of the boat among the gulls,
+                    brushing them away with his hands, and he continued up the only road that there
+                    was until he reached the house. [...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                <note>masculine</note>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <module id="bi_na_dhuisg">
+        <h lang="en">bi ’na dhùisg</h>
+        <h lang="gd">bi ’na dhùisg</h>
+
+    </module>
+
+    <ulx id="duisg">
+        <lix>
+            <gd>A Dhiarmaid! am bheil thu <m>’nad dhùsgadh</m>?</gd>
+            <tr>Dermot! Are you awake?</tr>
+            <ref text="217-1">td. 214</ref>
+        </lix>
+        <lix>
+            <gd>Faodaidh an gille a bhith <m>’na dhuisg</m> [...]</gd>
+            <tr>The boy may be awake [...]</tr>
+            <ref text="400-151">td. 236</ref>
+        </lix>
+        <lix>
+            <gd>Aig an dara bùth chun deach iad bha an ceannaiche agus a bhean <m>nan dùisg</m>, oir
+                bha an leanabh aca tinn agus bha iad a’ feitheamh ris an dotair.</gd>
+            <tr>at the second store they went to the owener and his wife were awake, because their
+                child was sick and thet were waiting for the doctor.</tr>
+            <ref text="2">td. 53</ref>
+        </lix>
+        <lix>
+            <gd>Bha sinn <m>nar dùisg</m> fad na h-oidhche.</gd>
+            <tr>We were awake all night long.</tr>
+            <ref text="608">td. 120</ref>
+        </lix>
+        <lix>
+            <gd>A bheil thu nad chadal fhathast? Chan eil. ’S ann a tha mi <m>nam dhùisg</m>.</gd>
+            <tr>Are you asleep still/yet? No. I am awake.</tr>
+            <ref text="607">td. 276</ref>
+        </lix>
+        <lix>
+            <gd>Bha i <m>na leth-dhùsgadh</m>.</gd>
+            <tr>She was half-awake.</tr>
+            <ref text="605">td. 161</ref>
+        </lix>
+        <lix>
+            <gd>Bha i <m>na làn dhùisg</m> a-nise.</gd>
+            <tr>She was fully awake now.</tr>
+            <ref text="601">td. 251</ref>
+        </lix>
+        <lix>
+            <gd>Tha seo <m>a’ dùsgadh</m> cuimhne air ...</gd>
+            <tr>This awakens memories of ...</tr>
+            <ref text="601">td. 251</ref>
+            <note>transitive usage in this example</note>
+        </lix>
+    </ulx>
+
+</module>

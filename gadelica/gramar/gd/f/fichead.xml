@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <h lang="en">fichead</h>
+  <h lang="gd">fichead</h>
+  <p lang="en"><b>fichead</b>
+    <en>twenty, score</en> is a masculine <a href="?xx=nouns/numeric_base_nouns">numeric base
+      noun</a>.</p>
+  <p lang="gd">...</p>
+  <p lang="en">Examples from Gairm – <xl id="gairm">
+      <li>
+        <gd>Bha i ceud bliadhna a dh’ aois is esan <m>dhà air fhichead</m>. Cha robh e ach mìos no
+          dhà a-mach ás an oilthigh. Bha a nighean a’ fuireachd còmhla rithe. Bha ise <m>ceithir
+          fichead</m>. Shaoil e gu robh a’ chailleach ann an dòigh na bu shunndaiche na a nighean.
+          [...]</gd>
+        <tr>She was a hundred years old and him twenty two. He was just a month or two out of the
+          university. Her daughter was living with her. She was eighty. He thought that the old
+          woman was in a way livelier than her daughter. [...]</tr>
+        <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+      </li>
+      <li>
+        <gd>Rugadh am feallsanach Soren Kierkegaard ann sa’ bhliadhna 1813, an Copenhagen far na
+          bhàsaich e nuair a bha e <m>dà fhichead, ’s a dhà</m>.</gd>
+        <tr>The philosopher Soren Kierkegaard was born in 1813, in Copenhagen where he died when he
+          was <u>42</u>.</tr>
+        <ref text="400-41">td. 103</ref>
+      </li>
+      <li>
+        <gd>Ann an dà bhliadhna dheug sgrìobh e <m>fichead leabhar ’s a h-aon</m> ’s dh’ fhàg e
+          grunn mór phàipearan a chùl air a sin.</gd>
+        <tr>In 12 years he [Kierkegaard] wrote <u>21 books</u> and he left behind a large quantity
+          of papers.</tr>
+        <ref text="400-41">td. 103</ref>
+      </li>
+    </xl>
+  </p>
+  <p lang="gd">...</p>
+  <p lang="en">Biblical examples – <xl id="bible">
+      <li>
+        <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig do’n Eiphit; thàinig gach duine
+          agus a theaghlach maille re Iacob: Reuben, Simeon, Lebhi, agus Iudah, [...] Agus na
+          h-anman uile a thàinig a mach a leasraidh Iacoib, bu <m>deich agus tri fichead anam</m>
+          iad; oir bha Ioseph ’san Eiphit a cheana. [...]</gd>
+        <tr>Now these are the names of the children of Israel, which came into Egypt; every man and
+          his household came with Jacob. Reuben, Simeon, Levi, and Judah, [...] And all the souls
+          that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt already.
+          [...] [KJV]</tr>
+        <ref text="160">Ecsodus I.1–5</ref>
+      </li>
+    </xl>
+  </p>
+  <p lang="gd">...</p>
+</module>

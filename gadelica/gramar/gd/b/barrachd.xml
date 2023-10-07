@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="silver">
+  <h>barrachd</h>
+  <p><g>barrachd</g>
+    <en>more, predominance, preponderance</en> is an indeclinable feminine <a
+      href="?xx=nouns/generic_quantity_nouns">generic quantity noun</a> expressing a
+      <emph>larger</emph> comparative quantity. <!--It is <a href="?xx=nouns/derived_common_nouns"
+      >derived</a> from the masculine common noun <a href="?gd=bàrr"><g>bàrr</g></a>
+    <en>top, crest</en> with the suffix <a href="?gd=_achd"><g>-achd</g></a>.--></p>
+  <!--<p>See also the prepositional compound <a href="?gd=a_bharrachd">a bharrachd (air)</a>.</p>
+  -->
+  <section>
+    <h>dependents</h>
+    <section id="indefinite">
+      <h>indefinite</h>
+      <p>On its own – <ul>
+          <li>Dh’òl Raonaid <m>barrachd</m>. <en>Rachel drank more</en>.</li>
+          <li>Tha <m>barrachd</m> aig Màiri. <en>Mary has more.</en></li>
+        </ul>
+        <xl id="barrachd">
+          <li>
+            <gd>Tha fhios againn bho Einstein gu feum sinn sin a dhèanamh agus ’se sin as coireach
+              gu bheil barrachd a’ leughadh Kierkegaard an diugh na tha a’ leughadh Hegel.</gd>
+            <tr>We know from Einstein that we must do that [ie. study the philosopher himself] and
+              that is why more [people] read Kierkegaard today than read Hegel.</tr>
+            <ref text="400-41">td. 103</ref>
+          </li>
+          <li>
+            <gd>Bha mi ’g òl <m>barrachd</m> o bhàsaich mo bhean cóig bliadhna air ais.</gd>
+            <tr>I had been drinking more since my wife had died five years previously.</tr>
+            <ref text="198">td. 6</ref>
+          </li>
+          <li>
+            <gd>“Mas e sin a tha sibh ag iarraidh, cosgaidh e <m>barrachd</m>,” ars esan.</gd>
+            <tr>“If that’s what you want, it’ll cost more,” he said.</tr>
+            <ref text="2">td. 100</ref>
+          </li>
+          <li>
+            <gd>“Ist! Dhèanainn <m>fada bharrachd</m> airson mac d’ athar nam b’ urrainn dhomh!”
+              arsa Aonghas.</gd>
+            <tr>“Wheesht! I would do much more for your father’s son if I could!” said Angus.</tr>
+            <ref text="16">td. 51</ref>
+          </li>
+        </xl>
+      </p>
+      <p>With a genitive modifier – <ul>
+          <li>Dh’òl Raonaid <m>barrachd <emph>uisge</emph></m>. <en>Rachel drank more water.</en></li>
+          <li>Tha <m>barrachd <emph>chon</emph></m> aig Màiri. <en>Mary has more dogs.</en></li>
+        </ul>
+        <xl id="barrachd_specifier">
+          <li>
+            <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no do
+              fhoghlum agus do litreachas na Gàidhlig. [...] Dé na rudan a dh’ fhaodadh sinn
+              iarraidh? Tuilleadh de luchd-teagaisg ’s de luchd-ceasnachaidh Gàidhlig. Airgead gu
+              leabhraichean uallachadh is a chlo-bhualadh. <m>Barrachd tìde</m> air an réidio agus
+              air telebhisean. [...] <m>Barrachd rannsachaidh</m> air caitheamh-beatha nan Gaidheal,
+              an cànan, an eachdraidh, an ceòl, is mar sin air adhart.</gd>
+            <tr>[...] The Parliament has given very little assistance ever to the Gaelic language or
+              to Gaelic education and literature. [...] What are the things that we could demand?
+              More Gaelic teachers and inspectors. Money to prepare and print books. <emph>More
+                time</emph> on the radio and on television. [...] <emph>More research</emph> on the lifestyle
+              of the Gaels, their language, their history, their music, and so on.</tr>
+            <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+          </li>
+          <li>
+            <gd>Dh’fhàg mi i a’ smaoineachadh gur dòcha gu robh <m>barrachd fìrinn</m> anns a’
+              phàipear-naidheachd na bha an Caiptean deònach aideachadh.</gd>
+            <tr>I left her thinking that it was possible that there was more truth in the newspaper
+              than the Captain was willing to admit.</tr>
+            <ref text="2">td. 39</ref>
+          </li>
+          <li>
+            <gd>Cha do mhair an cosnadh fada nuair a chaidh an luchd-obrach air stailc son
+                <m>barrachd tuarastail</m>.</gd>
+            <tr>The employment had not been going on for long when the workers went on strike for
+              more pay.</tr>
+            <ref text="333">td. 185</ref>
+          </li>
+          <li>
+            <gd>Bha iad ag iarraidh <m>barrachd chumhachdan</m> an aghaidh stailcean, agus lagh an
+              airm a chur an gnìomh ann an àiteachan.</gd>
+            <tr>They were wanting more powers against strikes, and to enforce martial law in
+              places.</tr>
+            <ref text="16">td. 32</ref>
+          </li>
+          <li>
+            <gd>Nan robh <m>barrachd de chothrom</m> aca air cluich roimh-làimh, cha b’e an dara
+              duais a bhitheadh aca.</gd>
+            <tr>If they had had more opportunity to practise beforehand, it would not have been the
+                second prize that they won.</tr>
+            <ref text="400-2">td. 84</ref>
+            <note>Note the use of the preposition <g>de</g> here, rather than a simple
+              genitive.</note>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="partitive">
+      <h>partitive</h>
+      <p>The preposition <a href="?gd=dhe"><g>de</g></a> with a definite noun – <ul>
+          <li>Dh’òl Raonaid <m>barrachd <emph>den fhìon</emph></m>. <en>Rachel drank more of the
+              wine.</en></li>
+          <li>Cheannaich Màiri <m>barrachd <emph>de mo bhriosgaidean</emph></m>. <en>Mary bought more of
+              my biscuits.</en></li>
+        </ul>
+        <xl id="barrachd_de">
+          <li>
+            <gd>Aig an ám sin bha an Dotair Lachlann Grannd am Bail’-a’-chaolais trang a’ toirt a
+              bheachdan fhéin air suidheachadh na Gàidhealtachd agus na ceumannan a bu chòir a
+              ghabhail a chum is gum faigheadh barrachd de na Gàidheil cothrom a b’ fheàrr air
+              beòshlaint iomchuidh a chosnadh ’nan tìr féin, gun éiginn orra siubhal gu tìrean céine
+              air cheann an fhortain.</gd>
+            <tr>At that time Doctor Lachlan Grant was in Ballahullish busy giving his own opinions
+              on the state of the Highlands and the steps that should be taken so that more of the
+              Gaels get a better chance to earn a good living in their own land, without needing to
+              travel to foreign lands to make their fortune.</tr>
+            <ref text="400-77">td. 9</ref>
+          </li>
+          <li>
+            <gd>Bha sinn ag iomairt nan cairt agus dòcha gun d’òl mi barrachd den leann na bha còir
+              agam.</gd>
+            <tr>We were playing cards and perhaps I had drunk more of the beer than I should
+              have.</tr>
+            <ref text="400-126">td. 162</ref>
+          </li>
+        </xl>
+      </p>
+      <p>With a prepositional pronoun – <ul>
+          <li>Dh’òl Raonaid <m>barrachd <emph>dheth</emph></m>. <en>Rachel drank more of it.</en></li>
+          <li>Tha <m>barrachd <emph>dhiubh</emph></m> aig Màiri. <en>Mary has more of them.</en></li>
+        </ul>
+        <xl id="barrachd_de_pron">
+          <li>
+            <gd>Chuir mi dh’ iarraidh sguad nan gunnaichean an uair sin, ach rinn mi mearachd. Bha
+                <m>barrachd dhiùbh-san</m> ann na bha dùil agam.</gd>
+            <tr>I sent for the gun squad then, but I made a mistake. There was more of them
+              then I had expected.</tr>
+            <ref text="16">td. 71</ref>
+          </li>
+          <li>
+            <gd>... agus <m>barrachd aca</m> ag obair air na bàtaichean iasgaich ...</gd>
+            <tr>and more of them working on the fishing boats</tr>
+            <ref text="601">td. 62</ref>
+            <note>Note the use of <g>aca</g>
+              <en>at them</en> rather than <g>dhiubh</g>
+              <en>of them</en> here.</note>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="idiomatic">
+      <h>idiomatic</h>
+      <p><g>barrachd mu</g>
+        <en>more [information/knowledge] about</en> – <ul>
+          <li>Tha Màiri ag iarraidh <m>barrachd</m> a chluinntinn <m>mu choin</m>
+            <en>Mary wants to hear more about dogs</en></li>
+        </ul>
+        <xl id="barrachd_mu">
+          <li>
+            <gd>Co-dhiù, bha bràthair Syd na oifigear ann am prìosan Ghlaschu agus lorg esan
+                <m>barrachd mu dheidhinn</m> Heyford.</gd>
+            <tr>Anyway, Syd’s brother was an officer in Glasgow prison and he found out more about
+              Heyford.</tr>
+            <ref text="2">td. 60</ref>
+          </li>
+          <li>
+            <gd>Ann an Cruinn’-eòlas bha sinn a’ cluinntinn <m>barrachd mu</m> dhùthchannan
+              coimheach na bha sinn mu ar stairsnich fhèin..</gd>
+            <tr>In Geography we heard more about exotic countries than we did about our own
+              threshold.</tr>
+            <ref text="333">td. 139</ref>
+          </li>
+        </xl>
+      </p>
+      <!--
+      <p><g>barrachd ri (dhèanamh)</g>
+        <en>more to do, more to be done</en> – <ul>
+          <li>Tha Raonaid ag iarraidh <m>barrachd ri</m> òl <en>Rachel wants more to drink</en></li>
+        </ul>
+        <xl id="barrachd_ri">
+          <li>
+            <gd>Chì sibh gu bheil <m>barrachd ri dhèanamh</m> na nuair a thòisich sinn.</gd>
+            <tr>You will see that there is more to do than when we began.</tr>
+            <ref text="601">td. 62</ref>
+          </li>
+        </xl>
+      </p>
+      -->
+    </section>
+  </section>
+  <section id="target">
+    <h>target of comparison</h>
+    <p>One (possibly conservative) way of expressing the target of comparison is to use <!--<a
+        href="?gd=agus">--><g>agus</g><!--</a>--> (usually contracted to <g>is</g> or <g>’s</g>) followed by the
+      relative particle <g>a</g> eg. <ul>
+        <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>’s a tha</m> aig Màiri, <en>Donald has more
+            dogs than Mary [does].</en></li>
+        <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>’s a tha</m> cait aige. <en>Donald has more
+            dogs than [he does] cats.</en></li>
+        <li>Dh’òl Raonaid <m>barrachd</m> bùrn <m>’s a dh’òl</m> Seumas. <en>Rachel drank more water
+            than James [did].</en></li>
+        <li>Dh’òl Raonaid <m>barrachd</m> bùrn <m>’s a dh’òl</m> i fìon. <en>Rachel drank more wine
+            than [she did] wine.</en></li>
+      </ul>
+      <xl id="barrachd_agus_a">
+        <li>
+          <gd>Seachd àraidh an déidh dhomh <m>barrachd ’s a choisinn e fhéin</m> fad a’ gheamhraidh
+            air a’ bheairt a chosg air tagsaidhean!</gd>
+          <tr>Especially after I had spent more on taxis than he himself had earned all winter long
+            on the loom!</tr>
+          <ref text="400-2">td. 21</ref>
+        </li>
+        <li>
+          <gd>Feumaidh mi aideachadh gu bheil iadsan a’ faicinn <m>barrachd toinisg</m> anns na New
+            Mathematics <m>’s a tha mise</m>.</gd>
+          <tr>I have to admit that they [the children] see more sense in the New Mathematics than I
+            do.</tr>
+          <ref text="28">td. 64</ref>
+        </li>
+      </xl>
+    </p>
+    <p>An alternative is to use the preposition <a href="?gd=air"><g>air</g></a> followed by the relative
+      particle <g>na</g> eg. <ul>
+        <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>air na tha</m> aig Màiri. <en>Donald has more
+            dogs than Mary [does].</en></li>
+        <li>Dh’òl Raonaid <m>barrachd</m> fìona <m>air na dh’òl</m> Seumas. <en>Rachel drank more
+            wine than James [did].</en></li>
+      </ul>
+      <xl id="barrachd_air_na">
+        <li>
+          <gd>Ach tha fios a’m a-nise gur tric a tha an dìoghaltas a’ cosg <m>barrachd air na</m> ’s
+            fhiach e.</gd>
+          <tr>But I know now that revenge often costs more than it’s worth.</tr>
+          <ref text="2">td. 64</ref>
+        </li>
+        <li>
+          <gd>A bheil sinn a’ pàidheadh a mach <m>barrachd air na</m> tha sinn a’ toirt a
+            stigh?</gd>
+          <tr>Are we paying out more than we are taking in?</tr>
+          <ref text="400-1">td. 71</ref>
+        </li>
+      </xl>
+    </p>
+    <p>However usage varies considerably here, with a range of modern vernacular contracted forms
+      perhaps influenced by English. <xl id="barrachd_na">
+        <li>
+          <gd>Chuala mi Eachann Posta a’ gearan an là-roimhe gu bheil an tigh-sgoile agus am mansa
+            a’ toirt <m>barrachd</m> oibre dha <m>na a’ chuid eile de’n choimhearsnachd</m> uile gu
+            léir.</gd>
+          <tr>I had heard Hector the Postman complaining the day before that the schoolhouse and the
+            manse brought him more work than the rest of the community altogether.</tr>
+          <ref text="400-1">td. 67</ref>
+        </li>
+        <li>
+          <gd>Tha fhios againn bho Einstein gu feum sinn sin a dhèanamh agus ’se sin as coireach gu
+            bheil <m>barrachd</m> a’ leughadh Kierkegaard an diugh <m>na tha a’ leughadh
+            Hegel</m>.</gd>
+          <tr>We know from Einstein that we must do that [ie. study the philosopher himself] and
+            that is why more [people] read Kierkegaard today than read Hegel.</tr>
+          <ref text="400-41">td. 103</ref>
+        </li>
+        <li>
+          <gd>Dh’fhàg mi i a’ smaoineachadh gur dòcha gu robh <m>barrachd</m> fìrinn anns a’
+            phàipear-naidheachd <m>na bha</m> an Caiptean deònach aideachadh.</gd>
+          <tr>I left thinking that it was possible that there was more truth in the newspaper than
+            the Captain was willing to admit.</tr>
+          <ref text="2">td. 39</ref>
+        </li>
+        <li>
+          <gd>Dh’atharraich a bheatha <m>barrachd na bha</m> dùil aige a’ mhadainn a chaidh e
+            shireadh obrach anns a’ chompanaidh seo.</gd>
+          <tr>His life had changed more than he had been expecting the morning he had gone looking
+            for work in this company.</tr>
+          <ref text="16">td. 26</ref>
+        </li>
+        <li>
+          <gd>[Tha an luchd-èisteachd] a’ cur <m>barrachd</m> earbsa anns na naidheachdan Gàidhlig
+              <m>na anns na naidheachdan Beurla</m>.</gd>
+          <tr>The listeners put more trust in the Gaelic news than in the English news.</tr>
+          <ref text="333">td. 237</ref>
+        </li>
+      </xl>
+    </p>
+  </section>
+  <section id="other">
+    <h>other uses</h>
+    <p>When the target of the comparison is a <emph>numeric quantity</emph>, it is usually introduced by
+      the preposition <a href="?gd=air"><g>air</g></a>, meaning <en>than</en> in this context – <ul>
+        <li>Tha <m>barrachd air fichead</m> cù aig Màiri. <en>Mary has more than twenty
+          dogs.</en></li>
+      </ul>
+      <xl id="barrachd_air_num">
+        <li>
+          <gd>Bha Eirisgeidh ceangailte ris a’ pharraiste sin an uair sin, agus bha <m>barrachd air
+              dà</m> mhile dhaoine [sic.] ’sa’ pharraiste uile gu léir.</gd>
+          <tr>Eriskay was attached to that parish at that time, and there were more than two
+            thousand people in the parish as a whole.</tr>
+          <ref text="400-1">td. 52</ref>
+        </li>
+        <li>
+          <gd>Chuimhnich e gun do bhuail droch throm-laighe e <m>barrachd air aon</m> uair ’na
+            bheatha.</gd>
+          <tr>He recalled that bad nightmares had affected him more than once in his life.</tr>
+          <ref text="400-1">td. 39</ref>
+        </li>
+        <li>
+          <gd>Bha iad ag iarraidh deich tasdain fhichead air an luchd, ach cha robh am fear [...]
+            deònach air <m>barrachd air cóig</m> ar fhichead a thoirt air.</gd>
+          <tr>They were wanting thirty shillings for the load, but the man [...] was not willing to
+            give more than twenty-five for it.</tr>
+          <ref text="400-2">td. 70</ref>
+        </li>
+      </xl>
+    </p>
+    <p>But note usages like <g>barrachd agus (fichead)</g> as well. <xl id="barrachd_agus_num">
+        <li>
+          <gd>“Tha mi ’n dòchas gum bi <m>barrachd is uair a thìde no dhà</m> againn còmhla ri
+            chèile an turas seo!”</gd>
+          <tr>“I hope we’ll have more than an hour or two together this time!”</tr>
+          <ref text="16">td. 73</ref>
+        </li>
+      </xl>
+    </p>
+    <p><g>barrachd air</g> can also be used to mean ‘something in addition to’, ‘not only’ – <ul>
+        <li>Tha <m>barrachd air coin</m> aig Màiri. Tha cait aice cuideachd. <en>Mary has more than
+            just dogs. She has cats too.</en></li>
+      </ul>
+      <xl id="barrachd_air_N">
+        <li>
+          <gd>Tha mi cinnteach nach do ghabh mi ach dà ghlainne uisge-beatha, ach feumaidh gu robh
+              <m>barrachd air</m> uisge-beatha annta.</gd>
+          <tr>I’m sure that I only had two glasses of whisky, but there must have been more than
+            just [ie. something in addition to] whisky in them.</tr>
+          <ref text="2">td. 48</ref>
+        </li>
+        <li>
+          <gd>“O Coinneach Iain,” arsa Dougie. “Rinn e sin. ’S math dh’fhaodte gum bu chòir do
+              <m>bharrachd air-san</m> sin a dhèanamh.”</gd>
+          <tr>“Oh Kenneth John,” said Dougie. “He did that [left the village]. Perhaps more than
+            just him should have done that.”</tr>
+          <ref text="198">td. 51</ref>
+        </li>
+        <li>
+          <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os cionn
+            obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach ag ath-nuadhachadh
+            dreach a’ Chomuinn. [...] Ach dh’ fheumadh am Fear-stiùiridh ùr <m>barrachd air a
+              sin</m> a dhèanamh. Dh’ fheumadh e siubhal a dhèanamh eadar Rubha Robhanais agus Ceann
+            Bharraidh, eadar am Parbh is Maol Chinn-tìre, agus cha deanadh math dha
+            dìochuimhneachadh gu robh obair a’ Chomuinn a’ buntainn ri Coimisean nan Croitearan an
+            Inbhirnis, ri Roinn an Fhoghluim an Dùn-Eideann, agus ri Tigh nan Cumantan an Lunnainn.
+            An duine a theid do gach àite dhiubh sin, agus a bheir <m>barrachd air còmhradh</m> leis
+            dhachaidh, nì e feum do ’n Chomunn is do ’n Ghàidhlig.</gd>
+          <tr>The Highland Society is talking about choosing a new General who will oversee the
+            Society’s work. [...] He would have enough to do initially reforming the Society. [...]
+            But the new leader would have to do <emph>more than (just) that</emph>. He would have to
+            travel between the Butt of Lewis and Barra Head, between Cape Wrath and the Mull of
+            Kintyre, and he should not forget that the Society’s work is related to the Crofters’
+            Commission in Inverness, to the Education Department in Edinburgh, and to the House of
+            Commons in London. The person who goes to each of those places, and who brings home
+              <emph>more than (just) conversation</emph>, will benefit the Society and the Gaelic
+            language.</tr>
+          <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+        </li>
+      </xl>
+    </p>
+    <p><g>barrachd</g> can be emphasised with the adjective <!--<a href="?gd=fada">--><g>fada</g><!--</a>-->. <xl
+        id="fada">
+        <li>
+          <gd>“Ist! Dhèanainn <m>fada bharrachd</m> airson mac d’ athar nam b’ urrainn dhomh!” arsa
+            Aonghas.</gd>
+          <tr>“Wheesht! I would do far more for your father’s son if I could!” said Angus.</tr>
+          <ref text="16">td. 51</ref>
+        </li>
+      </xl>
+    </p>
+    <!-- <p>Another way is to use the construction <a href="?gd=mòran_a_bharrachd">mòran a
+        bharrachd</a>
+      <en>many/much more</en>.</p>
+    -->
+    <p><g>barrachd agus barrachd</g> more and more – <xl id="barrachd_agus_barrachd">
+        <li>
+          <gd>Ann an Dùn Èideann anns na naochadan bha <m>barrachd agus barrachd inbhich</m> airson
+            Gàidhlig ionnsachadh.</gd>
+          <tr>In Edinburgh in the 90s there were <emph>more and more adults</emph> wanting to learn
+            Gaelic.</tr>
+          <ref text="610">td. 85</ref>
+          <note>barrachd agus barrachd inbh<emph>each</emph> ?</note>
+        </li>
+      </xl>
+    </p>
+  </section>
+  
+  <!--
+  <module id="a_bharrachd">
+    <h>a bharrachd (air)</h>
+    <p><g>a bharrachd (air)</g> is a prepositional compound, based on the quantity noun
+        <g>barrachd</g>
+      <en>more</en>.</p>
+    <p><g>a bharrachd air</g> is usually used to modify a noun, meaning <en>in addition to, as well
+        as</en> eg. <ul>
+        <li><m>A bharrachd air trì coin</m>, tha dà chat aig Màiri. <en>As well as three dogs, Mary
+            has two cats.</en></li>
+      </ul>
+      <xl id="adnominal">
+        <li>
+          <gd>Bha feadhainn aca dhen bharail gun robhas a’ fiachainn ri mì-chùram agus neo-èifeachd,
+              <m>a bharrachd air ainmean</m> cuid dhe na daoine mòra a bha ceangailte ris a’
+            ghnothach, a chumail am falach.</gd>
+          <tr>Some of them thought that someone was trying to cover up carelessness and
+            ineffectiveness, as well the names of some of the important people who were connected to
+            the affair.</tr>
+          <ref text="16">td. 73</ref>
+        </li>
+        <li>
+          <gd>Nan robh mi air aon cheum eile a dhèanamh <m>a bharrachd air na rinn mi</m>.</gd>
+          <tr>If only I had taken one additional step to what I did.</tr>
+          <ref text="2">td. 13</ref>
+        </li>
+      </xl>
+    </p>
+    <p><g>a bharrachd air</g> can also be used to modify a verb, particularly when the complement is
+      a verbal noun eg. <ul>
+        <li>Tha dà chat aig Màiri, <m>a bharrachd air trì coin a bhith</m>  aice. <en>Mary has two
+            cats, as well as having three cats.</en></li>
+      </ul>
+      <xl id="adverbial">
+        <li>
+          <gd>Tha sibhse air sibh fhèin a chur ann an cunnart mòr air mo sgàth-sa <m>a bharrachd air
+              mo bheatha shàbhaladh</m>!</gd>
+          <tr>You have put yourselves in great danger for my sake, as well as saving my life.</tr>
+          <ref text="16">td. 51</ref>
+        </li>
+        <li>
+          <gd><m>A bharrachd air Gàidhlig is Laideann</m> rinn mi dà chùrsa ann an Eachdraidh
+            Eaconamach, aonan ann am Feallsanachd Mhoralta agus fear ann am Foghaireachd.</gd>
+          <tr>As well as Gaelic and Latin, I did two courses in Economic History, one in Moral
+            Philosophy and one in Phonetics.</tr>
+          <ref text="333">td. 167</ref>
+        </li>
+      </xl>
+    </p>
+    <p><g>a bharrachd</g> is used to modify a numerically quantified noun to describe an ‘extra’
+      quantity eg. <ul>
+        <li>Tha trì coin aig Màiri, ach tha <m>dà chù a bharrachd</m> aig Dòmhnall. <en>Mary has
+            three dogs but Donald has two dogs more. [Donald has five dogs.]</en></li>
+      </ul>
+      <xl id="numeric">
+        <li>
+          <gd>Ghabh fear-na-cathrach da fhichead mionaid is a trì, ach ghabh ar Ceann-suidhe <m>leth
+              mionaid a bharrachd</m>.</gd>
+          <tr>The chairman took forty three minutes [for his speech] but our President took half a
+            minute more (longer).</tr>
+          <ref text="400-2">td. 83</ref>
+        </li>
+      </xl>
+    </p>
+    <p>Within the scope of one of the negative particles <a href="?gd=cha">cha</a> or <a
+        href="?gd=nach">nach</a>, <g>a bharrachd</g> is equivalent to English <en>either</en> eg. <ul>
+        <li>Chan eile cù aig Màiri. <m>Chan</m> eil cat aice <m>a bharrachd</m>. <en>Mary doesn’t
+            have a dog. She doesn’t have a cat either.</en></li>
+      </ul>
+      <xl id="either">
+        <li>
+          <gd>Nuair a dhùisg mi bha mi anns an leabaidh agus cha robh sgeul oirrese. <m>Cha</m> robh
+            sgeul air mo sheacaid <m>a bharrachd</m>, no mo cheas ’s fiù an t-uaireadair a bha air
+            caol mo dhùirn.</gd>
+          <tr>When I woke up I was in my bed and there was no sign of her. There was no sign of my
+            jacket either, or my suitcase or even the watch that had been on my wrist.</tr>
+          <ref text="2">td. 48</ref>
+        </li>
+        <li>
+          <gd>Aon fheasgar cha robh air a’ chreig ach an dithis againn – seann mhaor eòlach agus
+            glas-ghiullan ’s e fàs. Ach eòlach ’s gu robh e, chuir e a chuideam air an tàbh agus
+            chaidh e fhèin an comhair a chinn dhan mhuir às a dhèidh nuair a thàinig rùid air a’
+            chreig. Mar bu dual, <m>cha</m> robh snàmh aigesan <m>a bharrachd</m>, ach shìn mi an
+            t-slat thuige agus dhragh mi air ais e chun na creige, esan bog fliuch is air a lathadh
+            leis an fhuachd agus an dithis againn air chrith leis an eagal.</gd>
+          <tr>[...] As was customary, he couldn’t swim either [...]</tr>
+          <ref text="333">td. 118</ref>
+        </li>
+      </xl>
+    </p>
+    <p><g>a bharrachd (air seo/sin)</g> is used as a sentence adverbial, expressing the discourse
+      relation of ‘addition’ eg. <ul>
+        <li>Tha ceithir coin aig Màiri. <m>A bharrachd air sin</m>, tha còig cait aice! <en>Mary has
+            four dogs. Not only that, she has five cats too!</en></li>
+      </ul>
+      <xl id="furthermore">
+        <li>
+          <gd>An diugh is e priomh actor na Gàidhlige, agus am priomh actor òg ann am Beurla, <m>a
+              bharrachd</m>.</gd>
+          <tr>Today he is the top Gaelic-speaking actor, and the top young English-speaking actor,
+            to boot.</tr>
+          <ref text="400-1">td. 39</ref>
+        </li>
+        <li>
+          <gd>Bha an t-sìde ann an Inbhir Nis, a’ chiad baile san do thadhail e, cho tioram ’s cho
+            taitneach ’s a b’ àbhaist agus fhuair e na tidsearan anns na sgoiltean cho laghach,
+            càirdeil ’s a bha dùil aige. <m>A bharrachd air seo</m> bha e còrdadh ris gun robh
+            saorsa aige bhith siubhal feadh na dùthcha an àite bhith na phrìosanach ann an
+            oifis.</gd>
+          <tr>The weather in Inverness, the first town he visited, was as dry and pleasant as usual
+            and he found the teachers in the schools as kind and friendly as he had expected. In
+            addition to this, he enjoyed having the freedom to travel all over the country instead
+            of being a prisoner in an office.</tr>
+          <ref text="16">td. 17</ref>
+        </li>
+        <li>
+          <gd>Faodaidh croitear ’fhearann fhàgail mar dhìleab [...] aig duine sam bith am measg nan
+            càirdean a dh’ ainmich mi a cheana. <m>A bharrachd air a sin</m>, faodaidh e fhàgail aig
+            a mhnaoi no aig a chliamhainn.</gd>
+          <tr>A crofter may leave his land as a legacy [...] to anyone among the relatives I
+            mentioned already. In addition to that, he may leave it to his wife or to his
+            son-in-law.</tr>
+          <ref text="400-2">td. 80</ref>
+        </li>
+      </xl>
+    </p>
+    <p>cf. <a href="?gd=mòran_a_bharrachd">mòran a bharrachd (air)</a>
+      <en>many more</en></p>
+  </module>
+  -->
+</module>

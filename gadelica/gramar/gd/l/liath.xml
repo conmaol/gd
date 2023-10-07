@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>liath</h>
+    <p><g>liath</g>
+        <en>grey</en> is a <a href="?xx=adjectives/simple_adjectives">simple
+            adjective</a>.</p>
+    
+    <section>
+        <h>uses</h>
+        <section id="modifier">
+            <h>modifier</h>
+            <section>
+                <h>compounds</h>
+                <p><g><a href="?gd=manach_liath">manach liath</a></g> <en>a greyfriar</en></p>
+            </section>
+            
+        </section>
+    </section>
+    
+    
+</module>
+

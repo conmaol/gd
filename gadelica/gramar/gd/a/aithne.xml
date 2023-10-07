@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>aithne</h>
+    <p><b>aithne</b>
+        <en>knowledge, acquaintance</en> is a feminine <a href="?xx=nouns/simple_common_nouns"
+            >simple common noun</a>.</p>
+    <module id="is_aithne_do">
+        <h>is aithne do</h>
+        <p>cf. <a href="?gd=is">is</a> [copula], <a href="?gd=do^preposition">do</a>
+            <en>to, into</en></p>
+        <p>Examples from dictionaries and grammars – <xl id="is_aithne_do-dictionary">
+                <li>
+                    <gd>An aithne dhuibh e? Chan aithne.</gd>
+                    <tr>Do you know him? No.</tr>
+                    <ref text="605">td. 15</ref>
+                </li>
+            </xl>
+        </p>
+        <p>Examples from Gairm – <xl id="cop-gairm">
+                <li>
+                    <gd>[...] Bha Mairead ’na suidhe ann an cathair ris an teine is plaide timcheall
+                        air a glùinean. Bha Màiri a’ deanamh na dìnneir. Dh’ innis e dhaibh gur esan
+                        an duine a sgrìobh thuca, a dh’ fhaighneachd am b’ urrainn dha a thighinn.
+                        [...] Shuidh e air cathair. “Tha sinn airson feadhainn de <m>na h-òrain as
+                            aithne dhuibh</m> a chur air clàr, gus nach teid iad air chall.”
+                        [...]</gd>
+                    <tr>[...] Margaret was sat in a chair by the fire with a blanket around her
+                        knees. Mary was making the dinner. He told them that he was the man who had
+                        written to them, asking if he could come. [...] He sat [down] on a chair.
+                        “We are wanting to put some of the songs that you know on record, so that
+                        they are not lost.” [...]</tr>
+                    <ref text="400-46">td. 169–70, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+            </xl>
+        </p>
+        <p>Other examples from modern usage – <xl id="cop-other">
+                <li>
+                    <gd>’S e Tòmas <m>an aon chroitear as aithne dhomh</m> a dh’èirich gu inbhe
+                        taidhcùn. Rinn e sin tro dhìcheall, obair chruaidh agus tàlant malairt a bha
+                        neo-ghnàthach. An-diugh tha iomadh companaidh na ainm air feadh na
+                        Gàidhealtachd. [...]</gd>
+                    <tr>Thomas is the only crofter I know who has risen to the status of a tycoon.
+                        He did that through duty, hard work and a talent for business that was
+                        unusual. Today there are many companies in his name all over the Highlands.
+                        [...]</tr>
+                    <ref text="2">td. 5</ref>
+                </li>
+            </xl>
+        </p>
+    </module>
+    <module id="cuir_aithne_air">
+        <h>cuir aithne air</h>
+        <p>Examples from dictionaries and grammars – <xl id="cuir_aithne_air-dictionary">
+                <li>
+                    <gd>cuir aithne air</gd>
+                    <tr>get to know, get acquainted</tr>
+                    <ref text="605">td. 15</ref>
+                </li>
+            </xl>
+        </p>
+    </module>
+    <module id="aithnich">
+        <h>aithnich</h>
+        <p><b>aithnich</b>
+            <en>know, recognise, experience</en>. Verbal noun: <b>aithneachadh</b>. Alternatives:
+                <b>faithnich</b>, <b>faithneachadh</b>.</p>
+        <p>Examples from dictionaries and grammars – <xl id="aithnich-dictionary">
+                <li>
+                    <gd>Aithnichidh sinn a-rithist sibh.</gd>
+                    <tr>We’ll know/recognise you another time.</tr>
+                    <ref text="605">td. 15</ref>
+                </li>
+                <li>
+                    <gd>Chan aithnichinn e ged thachradh e nam bhrochan orm.</gd>
+                    <tr>I wouldn’t know him if I met him in my gruel.</tr>
+                    <ref text="605">td. 15</ref>
+                    <note>proverb</note>
+                </li>
+                <li>
+                    <gd>Cha do dh’aithnich ar sinnsearan na duilgheadasan a th’ againn a-nis.</gd>
+                    <tr>Our ancestors didn’t know/experience the problems we have now.</tr>
+                    <ref text="605">td. 15</ref>
+                </li>
+            </xl>
+        </p>
+        <p>Examples from modern usage – <xl id="xs">
+                <li>
+                    <gd>Bha a h-uile duine a <m>dh’aithnicheadh</m> e a’ smaoineachadh gu robh beatha
+                        shòlasach aig Ailig Smart. [...] Thòisich e na bhalach le aon eathar
+                        ghiomach ag obair a-mach à Malaig, agus aig an àm seo bha e air a mheas na
+                        dhuine beairteach. Bha trì bàtaichean mòr aige, agus bha e a’ reic iomadh
+                        seòrsa maoraich anns an Fhraing agus anns an Spàinn. [...]</gd>
+                    <tr>Everybody who got [would get] to know him thought that Alec Smart had a good life. [...]
+                        He started with one lobster boat working out of Mallaig, and at this time he
+                        had been regarded as a wealthy man. He had three large boats, and he sold
+                        many types of shellfish in France and in Spain. [...]</tr>
+                    <ref text="2">td. 103</ref>
+                </li>
+            </xl>
+        </p>
+    </module>
+</module>

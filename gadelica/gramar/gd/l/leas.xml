@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title>leas</title>
+  <h5>cha leig leas</h5>
+  <p>cha leig thu leas sin a dhèanamh <en>you needn’t do that</en></p>
+  <p>cf. <a href="?xx=verbs/modal_verbs">modal verbs</a></p>
+  <hr/>
+  <p lang="en">Examples –
+  <ulx id="ex">
+    <lix>
+      <gd>Is fhada bhon a bha daoine ag ràdh gum biodh àite cruinneachaidh do luchd-labhairt na Gàidhlig <m>na leas do chor a’ chànain</m>, na ghoireas don fheadhainn a bha an-sàs ann an gnìomhan
+        Gàidhlig mar-thà agus na mheadhan air aire agus ùidh sa Ghàidhlig a thogail.</gd>
+      <tr>For a long time people were saying that a gathering place for Gaelic speakers would be <u>a benefit to the state of the language</u>, an amenity for those who were involved in Gaelic
+        activities already and a means of raising awareness and interest in Gaelic.</tr>
+      <ref text="610">td. 85</ref>
+    </lix>
+  </ulx>
+  </p>
+</module>
+

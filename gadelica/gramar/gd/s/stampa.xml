@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>stampa</h>
+    <p><b>stampa</b>
+        <en>stamp</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+    <section>
+        <h>forms</h>
+        <p>The principal parts of <g>stampa</g> are – <ul>
+                <li><m>stampa</m> – nominative/dative singular</li>
+                <li><m>stampa</m> – genitive singular</li>
+                <li><m>stampaichean</m> – plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>stampa</m></li>
+                                    <li>dative – (le) <m>stampa</m></li>
+                                    <li>genitive – (dath) <m>stampa</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>stampaichean</m></li>
+                                    <li>dative – (le) <m>stampaichean</m></li>
+                                    <li>genitive – (leabhar) <m>stampaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an stampa</m></li>
+                                    <li>dative – (leis) <m>an stampa</m></li>
+                                    <li>genitive – (ceann) <m>na stampa</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na stampaichean</m></li>
+                                    <li>dative – (leis) <m>na stampaichean</m></li>
+                                    <li>genitive – (dath) <m>nan stampaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>stampa</m></li>
+                                    <li>dative – (le) <m>stampa</m></li>
+                                    <li>genitive – (dath) <m>stampa</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an stampa</m></li>
+                                    <li>dative – (leis) <m>an stampa</m></li>
+                                    <li>genitive – (dath) <m>na stampa</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>stampaichean</m></li>
+                                    <li>dative – (le) <m>stampaichean</m></li>
+                                    <li>genitive – (dath) <m>stampaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na stampaichean</m></li>
+                                    <li>dative – (leis) <m>na stampaichean</m></li>
+                                    <li>genitive – (dath) <m>nan stampaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>stampa</m></li>
+                                    <li>plural – <m>stampaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an stampa</m></li>
+                                    <li>plural – <m>na stampaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (le) <m>stampa</m></li>
+                                    <li>plural – (le) <m>stampaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (leis) <m>an stampa</m></li>
+                                    <li>plural – (leis) <m>na stampaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (dath) <m>stampa</m></li>
+                                    <li>plural – (dath) <m>stampaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (dath) <m>na stampa</m></li>
+                                    <li>plural – (dath) <m>nan stampaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="object">
+            <h>object</h>
+            <p><g>stampa</g> can be used as the object of a verb – <ul>
+                    <li><g><a href="?gd=cuir">cuir</a> stampa air <a href="?gd=litir">litir</a></g>
+                        <en>put a stamp on a letter</en> – <ul>
+                            <li>older pedagogical examples – <xl id="cuir-older-pedag">
+                                    <li>
+                                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha
+                                            air falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa
+                                            nan litrichean leis an litir seo, Iain?” “Théid,” ars
+                                            Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi
+                                            i is gus an cuir mi seòladh oirre. Ceannaich fhéin
+                                            <m>stamp</m> agus <m>cuir oirre i</m>.” Tha Iain a’ ruith sìos
+                                            an rathad leis an litir ’na làimh. Théid e a steach do
+                                            oifig a’ phuist, ceannaichidh e <m>stamp</m> is <m>cuiridh
+                                            e sud air an litir</m>. [...]</gd>
+                                        <tr>My mother is writing a letter to my father who is away.
+                                            My mother said, “Will you go to the postbox with this
+                                            letter, John?” “Yes, I will,” said John, “I will leave
+                                            now.” “Wait until I seal it and put an address on it.
+                                            Buy a stamp and put it on it.” John is running down the
+                                            road with the letter in his hand. He will go into the
+                                            post office, he will buy a stamp and put that on the
+                                            letter. [...]</tr>
+                                        <ref text="621">td. 5</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><g><a href="?gd=ceannaich">ceannaich</a> stampa</g>
+                        <en>buy a stamp</en> – <ul>
+                            <li>older pedagogical examples – <xl id="ceannaich-older-pedag">
+                                    <li>
+                                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha
+                                            air falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa
+                                            nan litrichean leis an litir seo, Iain?” “Théid,” ars
+                                            Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi
+                                            i is gus an cuir mi seòladh oirre. <m>Ceannaich fhéin
+                                                stamp</m> agus cuir oirre i.” Tha Iain a’ ruith sìos
+                                            an rathad leis an litir ’na làimh. Théid e a steach do
+                                            oifig a’ phuist, <m>ceannaichidh e stamp</m> is cuiridh
+                                            e sud air an litir. [...]</gd>
+                                        <tr>My mother is writing a letter to my father who is away.
+                                            My mother said, “Will you go to the postbox with this
+                                            letter, John?” “Yes, I will,” said John, “I will leave
+                                            now.” “Wait until I seal it and put an address on it.
+                                            Buy a stamp and put it on it.” John is running down the
+                                            road with the letter in his hand. He will go into the
+                                            post office, he will buy a stamp and put that on the
+                                            letter. [...]</tr>
+                                        <ref text="621">td. 5</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+</module>

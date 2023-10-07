@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">pronouns</h>
+    <h lang="gd">riochdairean</h>
+    <p lang="en">Pronouns are <a href="?xx=nouns/nouns">noun</a>-like words which typically refer to
+        specific entities identifiable from context – <ul>
+            <li><a href="?xx=nouns/personal_pronouns">personal pronouns</a> – <b>mi</b>, <b>thu</b>, <b>i</b>, <b>e</b>, <b>sinn</b>,
+                    <b>sibh</b>, <b>iad</b></li>
+            <li><a href="?xx=nouns/demonstrative_pronouns">demonstrative pronouns</a> – <b>seo</b>,
+                    <b>sin</b>, <b>siud</b></li>
+        </ul>
+    </p>
+    <p lang="gd">...</p>
+</module>

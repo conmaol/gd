@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>cù</h>
+    <p><g>cù</g>
+        <en>dog</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>cù</g> are – <ul>
+                <li><m>cù</m> – nominative/dative singular</li>
+                <li><m>coin</m> – genitive singular, nominative/dative plural</li>
+                <li><m>con</m> – genitive plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>cù</m></li>
+                                    <li>dative – (le) <m>cù</m></li>
+                                    <li>genitive – (earball) <m>coin</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>coin</m></li>
+                                    <li>dative – (le) <m>coin</m></li>
+                                    <li>genitive – (earbaill) <m>chon</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an cù</m></li>
+                                    <li>dative – (leis) <m>a’ chù</m></li>
+                                    <li>genitive – (earball) <m>a’ choin</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na coin</m></li>
+                                    <li>dative – (leis) <m>na coin</m></li>
+                                    <li>genitive – (earbaill) <m>nan con</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>cù</m></li>
+                                    <li>dative – (le) <m>cù</m></li>
+                                    <li>genitive – (earball) <m>coin</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an cù</m></li>
+                                    <li>dative – (leis) <m>a’ chù</m></li>
+                                    <li>genitive – (earball) <m>a’ choin</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>coin</m></li>
+                                    <li>dative – (le) <m>coin</m></li>
+                                    <li>genitive – (earbaill) <m>chon</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na coin</m></li>
+                                    <li>dative – (leis) <m>na coin</m></li>
+                                    <li>genitive – (earbaill) <m>nan con</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>cù</m></li>
+                                    <li>plural – <m>coin</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an cù</m></li>
+                                    <li>plural – <m>na coin</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (le) <m>cù</m></li>
+                                    <li>plural – (le) <m>coin</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (leis) <m>a’ chù</m></li>
+                                    <li>plural – (leis) <m>na coin</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (earball) <m>coin</m></li>
+                                    <li>plural – (earbaill) <m>chon</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (earball) <m>a’ choin</m></li>
+                                    <li>plural – (earbaill) <m>nan con</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>bare</h>
+            <p>Some examples – <xl id="deps-bare-xs">
+                    <li>
+                        <gd>Chunnaic mi cù aig an dorus.</gd>
+                        <tr>I saw a dog at the door.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>object</h>
+            <p>Some examples – <xl id="uses-obj-xs">
+                    <li>
+                        <gd>Chunnaic mi cù aig an dorus.</gd>
+                        <tr>I saw a dog at the door.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+</module>

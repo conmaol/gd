@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">beul</h>
+    <h lang="gd">beul</h>
+    <p lang="en"><b>beul</b> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>, with slenderised genitive singular and nominative/dative form <b>beòil</b>. </p>
+    <p lang="gd">...</p>
+    <p lang="en"><b>air bheul</b> can be used to mark <a href="?q=verbal_aspect">prospective
+        aspect</a>
+        <en>about to, on the verge/point of</en>, though mainly in older texts – <ul>
+            <li>Tha iad <m>air bheul a dhol ann</m>. <en>They are on the verge/point of going.</en></li>
+        </ul>
+        <xl id="air_bheul">
+            <li>
+                <gd>Tha sè ceud bliadhna <m>air bheul a bhi seachad</m> bho’n là ud a chuir Eideard Brus a chòmhrag dheireannach air aonach Faich-aird.</gd>
+                <tr></tr>
+                <ref text="217-2">td. 66</ref>
+            </li>
+            <li>
+                <gd>“C’ àite ’bheil sibh a’ dol an déigh so?” dh’ fheòraich e. “Bha sinn <m>air bheul tilleadh</m> dhachaidh,” fhreagair mi.</gd>
+                <tr>We were about to return home.</tr>
+                <ref text="69">td. 97</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">cf. Other markers of prospective aspect – <a href="?gd=gu-prospective">gu(s)</a>, <a
+        href="?gd=impis">an impis</a>, <a href="?gd=lunn">air lunn</a>, <a href="?gd=tuar">air
+            thuar</a> (evidential).</p>
+    <p lang="gd">...</p>
+</module>

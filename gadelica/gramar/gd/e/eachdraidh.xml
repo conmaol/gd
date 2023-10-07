@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>eachdraidh</h>
+    <p><g>eachdraidh</g>
+        <en>history</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>modifiers</h>
+            <p><g>eachdraidh <a href="?gd=eaglaiseil">eaglaiseil</a></g>
+                <en>ecclesiastical history</en></p>
+        </section>
+    </section>
+
+</module>

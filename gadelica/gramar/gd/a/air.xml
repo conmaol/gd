@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <!-- G12W 1–6 done -->
+  <h>air</h>
+  <p><g>air</g>
+    <en>on, upon</en> is the (non-leniting) superessive <a href="?xx=prepositions/prepositions"
+      >preposition</a>.</p>
+  <section>
+    <h>forms</h>
+    <section id="indefinite">
+      <h>indefinite</h>
+      <p>The default form of the superessive preposition is simply <g>air</g> – <ul>
+          <li><m>air</m> bòrd <en>on a table</en></li>
+          <li><m>air</m> aibhnichean <en>on rivers</en></li>
+          <li><m>air</m> Neaptun <en>on Neptune</en></li>
+          <li><m>air</m> trì leapannan <en>on three beds</en></li>
+        </ul></p>
+    </section>
+    <section id="definite">
+      <h>definite</h>
+      <p>Unlike with some other prepositions, there is no special form of <g>air</g> used before the
+        definite article – <ul>
+          <li><m>air an</m> talamh <en>on the ground</en></li>
+          <li><m>air a’</m> bhòrd <en>on the table</en></li>
+          <li><m>air na h-</m>itealain <en>on the airplanes</en></li>
+        </ul>
+      </p>
+      <p>Moreover, there are no fused forms with <g>air</g> and a <a
+          href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+          <li><m>air mo</m> cheann <en>on my head</en></li>
+          <li><m>air do</m> bhòrd <en>on your table</en></li>
+          <li><m>air a h-</m>ùbhlan <en>on her apples</en></li>
+          <li><m>air a</m> chois <en>on his foot</en></li>
+          <li><m>air ar</m> sgeilpean <en>on our shelves</en></li>
+          <li><m>air bhur</m> coin <en>on your dogs</en></li>
+          <li><m>air an</m> taighean <en>on their houses</en></li>
+          <li><m>air am</m> fearann <en>on their land</en></li>
+        </ul>
+      </p>
+    </section>
+    <section id="pronouns">
+      <h>prepositional pronouns</h>
+      <p>Conjugated prepositions are used in place of <bad>air mi</bad>, <bad>air thu</bad>, ... ,
+          <bad>air iad</bad> – <ul>
+          <li><m>orm</m>
+            <en>on me</en></li>
+          <li><m>ort</m>
+            <en>on you</en></li>
+          <li><m>oirre</m>
+            <en>on her/it</en></li>
+          <li><m>air</m>
+            <en>on him/it</en></li>
+          <li><m>oirnn</m>
+            <en>on us</en></li>
+          <li><m>oirbh</m>
+            <en>on you</en></li>
+          <li><m>orra</m>
+            <en>on them</en></li>
+        </ul>
+      </p>
+      <p>There are also emphatic forms (cf. <bad>air mise</bad>, <bad>air thusa</bad>, ... ,
+          <bad>air iadsan</bad>) – <ul>
+          <li><m>ormsa</m>
+            <en>on <emph>me</emph></en></li>
+          <li><m>ortsa</m>
+            <en>on <emph>you</emph></en></li>
+          <li><m>oirrese</m>
+            <en>on <emph>her/it</emph></en></li>
+          <li><m>airsan</m>
+            <en>on <emph>him/it</emph></en></li>
+          <li><m>oirnne</m>
+            <en>on <emph>us</emph></en></li>
+          <li><m>oirbhse</m>
+            <en>on <emph>you</emph></en></li>
+          <li><m>orrasan</m>
+            <en>on <emph>them</emph></en></li>
+        </ul>
+      </p>
+      <p>Note that the form <g>airsan</g> breaks the ‘slender-to-slender, broad-to-broad’ spelling
+        rule, and hence is sometimes found written with a hyphen – <g>air-san</g>.</p>
+      <p>Finally, there are also reflexive forms (cf. <bad>air mi fhìn</bad>, <bad>air thu
+          fhèin</bad>, ... <bad>air iad fhèin</bad>) – <ul>
+          <li><m>orm fhìn</m>
+            <en>on myself</en></li>
+          <li><m>ort fhèin</m>
+            <en>on yourself</en></li>
+          <li><m>oirre fhèin</m>
+            <en>on herself/itself</en></li>
+          <li><m>air fhèin</m>
+            <en>on himself/itself</en></li>
+          <li><m>oirnn fhìn</m>
+            <en>on ourselves</en></li>
+          <li><m>oirbh fhèin</m>
+            <en>on yourself</en></li>
+          <li><m>orra fhèin</m>
+            <en>on themselves</en></li>
+        </ul>
+      </p>
+    </section>
+  </section>
+
+  <!--<section>
+    <h>dependents</h>
+    <section id="dep-comp">
+      <h>complements</h>
+      <p>Like all (true) prepositions, <g>air</g> governs a noun complement in the dative case.</p>
+      <p>These complements can belong to a number of different semantic classes.</p>
+      <section id="dep-comp-human">
+        <h>humans</h>
+        <p>Some examples – <ul>
+            <li>pedagogical examples – <xl id="dep-comp-human-pedag">
+                <li>
+                  <gd>Rug mi air <m>Catrìona</m>. An do rug thu air <m>Uilleam</m>? | Thàinig am
+                    poileas agus rug iad air a’ <m>mheàirleach</m>. | Cha do rug am poileas
+                      <m>orra</m> fhathast, chuala mi.</gd>
+                  <tr>I caught Catherine. Did you catch William? | The police came and they caught
+                    the robber. | The police didn’t catch them yet, I heard.</tr>
+                  <ref text="609">td. 38 | 39 | 83</ref>
+                  <note>Move to beir module?</note>
+                </li>
+                <li>
+                  <gd>Tha an t-acras orm. Tha am pathadh ort. Tha an cnatan air. Tha an t-eagal
+                    oirre. Tha cabhag oirnn.</gd>
+                  <tr>I am hungry. You are thirsty. He has a cold. She is afraid. We are in a
+                    hurry.</tr>
+                  <ref text="609">td. 64</ref>
+                  <note>afflictee</note>
+                </li>
+                <li>
+                  <gd>Tha an cadal orm agus is beag orm plèanaichean co-dhiù.</gd>
+                  <tr>I am sleepy and I don’t like planes anyway.</tr>
+                  <ref text="609">td. 66</ref>
+                  <note>deps|complement|human|patient, uses|predicate|affliction|idiom</note>
+                </li>
+
+                <li>
+                  <gd>Tha còta snog oirre. Tha peitean air Iain. Tha brògan àrda orra. Tha ad
+                    air.</gd>
+                  <tr>She is wearing a nice coat. John is wearing a jumper. They are wearing boots.
+                    He is wearing a hat.</tr>
+                  <ref text="609">td. 64</ref>
+                  <note>wearer of clothing</note>
+                </li>
+                <li>
+                  <gd>Dè an t-ainm a tha ort? / C’ ainm a tha ort? Is e Iain (an t-ainm) a tha
+                    orm.</gd>
+                  <tr>What is your name? John is my name.</tr>
+                  <ref text="609">td. 64</ref>
+                  <note>namee</note>
+                </li>
+                <li>
+                  <gd>Is beag air Màiri feòil. Is beag air Seumas còcaireachd. Is beag orm an
+                    leabhar sin. | Is lugha air Anna ball-coise.</gd>
+                  <tr>Mary dislikes meat. James dislikes/loathes cooking. I dislike that book. | Ann
+                    dislikes football.</tr>
+                  <ref text="609">td. 64 | 65</ref>
+                  <note>experiencer [beag]</note>
+                </li>
+                <li>
+                  <gd>Tha an cadal orm agus is beag orm plèanaichean co-dhiù.</gd>
+                  <tr>I am sleepy and I don’t like planes anyway.</tr>
+                  <ref text="609">td. 66</ref>
+                  <note>deps|complement|human|patient, uses|predicate|affliction|idiom</note>
+                </li>
+                <li>
+                  <gd>Greas ort! Greasaibh oirbh!</gd>
+                  <tr>Hurry up!</tr>
+                  <ref text="609">td. 65</ref>
+                  <note>actor | reflexive</note>
+                </li>
+                <li>
+                  <gd>air an t-sagart</gd>
+                  <tr>on the priest</tr>
+                  <ref text="609">td. 67</ref>
+                  <note>deps|comp|human</note>
+                </li>
+                <li>
+                  <gd>Dh’iarr mi air an tidsear.</gd>
+                  <tr>I asked the teacher.</tr>
+                  <ref text="609">td. 74</ref>
+                  <note>deps|comp|human, uses|comp|idiom [iarr]</note>
+                </li>
+                <li>
+                  <gd>Thagh iad ceann-suidhe ùr air a’ phàrlamaid aca.</gd>
+                  <tr>They elected a new president for their parliament.</tr>
+                  <ref text="609">td. 83</ref>
+                  <note>collective?</note>
+                </li>
+                <li>
+                  <gd>Bhruidhinn am poileas ris a’ mhanaidsear ach ged a dh’aithnich esan na
+                    meàirlich, chan eil <m>sgeul</m> aca orra.</gd>
+                  <tr>The police spoke to the manager but although he recognised the thieves, they
+                    don’t have a sign of them.</tr>
+                  <ref text="609">td. 83</ref>
+                </li>
+                <li>
+                  <gd>air do chù</gd>
+                  <tr>on your dog</tr>
+                  <ref text="609">td. 70</ref>
+                  <note>animal</note>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+      </section>
+
+      <section id="dep-comp-art">
+        <h>artifacts</h>
+        <p>Some examples – <ul>
+            <li>furniture – <ul>
+                <li>pedagogical examples – <xl id="deps-comp-artifact-furniture-pedag">
+                    <li>
+                      <gd>Tha [an salann] shuas air an <m>sgeilp</m> sin.</gd>
+                      <tr>[The salt] is up there on that shelf.</tr>
+                      <ref text="609">td. 35</ref>
+                    </li>
+                    <li>
+                      <gd>air <m>sèithear</m> | air <m>bòrd</m></gd>
+                      <tr>on a chair | on a table</tr>
+                      <ref text="609">td. 62| 63 [196]</ref>
+                    </li>
+                    <li>
+                      <gd>air a’ bhòrd</gd>
+                      <tr>on the table</tr>
+                      <ref text="609">td. 67</ref>
+                      <note>deps|comp|artifact [furniture]</note>
+                    </li>
+                    <li>
+                      <gd>Am bu toil leat suidheachan faisg air uinneag?</gd>
+                      <tr>Would you like a seat near a window?</tr>
+                      <ref text="609">td. 66</ref>
+                      <note>?? right place here?</note>
+                    </li>
+                  </xl>
+                </li>
+                <li>older pedagogical examples – <xl id="deps-comp-artifact-furniture-older-pedag">
+                    <li>
+                      <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’
+                        chàr. Chaidh iad sìos taobh an locha is stad iad aig àite bòidheach gorm.
+                        Chuir iad an càr a stigh gu taobh an rathaid is thug iad <m>brat</m> a mach
+                        as a’ chàr air son suidhe <m>air</m>. [...]</gd>
+                      <tr>The day was lovely and warm and their father took John and Ann in the car.
+                        They went down the side of the lake and they stopped at a beautiful green
+                        place. They put the car into the side of the road and they took a blanket
+                        out of the car for sitting on. [...]</tr>
+                      <ref text="621">td. 6</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+              <ed>Move to module on furniture nouns?</ed>
+            </li>
+            <li>writing surfaces – <ul>
+                <li>older pedagogical examples – <xl id="deps-comp-artifact-writing-older-pedag">
+                    <li>
+                      <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                        Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an
+                          <m>litir</m> seo, Iain?” “Théid,” ars Iain, “falbhaidh mi an dràsda”.
+                        “Fuirich gus an dùin mi i is gus an cuir mi seòladh <m>oirre</m>. Ceannaich
+                        fhéin stamp agus cuir <m>oirre</m> i.” Tha Iain a’ ruith sìos an rathad leis
+                        an litir ’na làimh. Théid e a steach do oifig a’ phuist, ceannaichidh e
+                        stamp is cuiridh e sud <m>air an litir</m>. [...]</gd>
+                      <tr>My mother is writing a letter to my father who is away. My mother said,
+                        “Will you go to the postbox with this letter, John?” “Yes, I will,” said
+                        John, “I will leave now.” “Wait until I seal it and put an address on it.
+                        Buy a stamp and put it on it.” John is running down the road with the letter
+                        in his hand. He will go into the post office, he will buy a stamp and put
+                        that on the letter. [...]</tr>
+                      <ref text="621">td. 5</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+              <ed>Move to module on writing surfaces?</ed>
+            </li>
+            <li>vehicles – <ul>
+                <li>pedagogical examples – <xl id="deps-comp-artifact-vehicle-pedag">
+                    <li>
+                      <gd>Chunnaic mi Seumas air a’ <m>bhus</m> an-dè.</gd>
+                      <tr>I saw james on the bus yesterday.</tr>
+                      <ref text="609">td. 56</ref>
+                      <note>Move to module on vehicle nouns?</note>
+                    </li>
+                    <li>
+                      <gd>air càr, air a’ chàr</gd>
+                      <tr>on a car, on the car</tr>
+                      <ref text="609">td. 67</ref>
+                      <note>deps|comp|artifact|vehicle</note>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>other – <ul>
+                <li>pedagogical examples – <xl id="deps-comp-artifact-other-pedag">
+                    <li>
+                      <gd>air a’ mhullach</gd>
+                      <tr>on the roof</tr>
+                      <ref text="605">td. 10</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </p>
+      </section>
+      <section>
+        <h>terrestrial surfaces</h>
+        <p>Some examples –<ul>
+            <li>examples from Gairm – <xl id="deps-comp-ground-gairm">
+                <li>
+                  <gd>[...] ’Se madainn bhòidheach foghair a bh’ ann—tioram, le ceileir eòin, is
+                    beagan dealt air an <m>fheur</m>. [...]</gd>
+                  <tr>[...] It was a beautiful autumn morning – dry, with the chirping of birds, and
+                    a little dew on the grass. [...]</tr>
+                  <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+                <li>
+                  <gd>air an t-sràid</gd>
+                  <tr>on the street</tr>
+                  <ref text="609">td. 67</ref>
+                  <note>deps|comp|geographical</note>
+                </li>
+                <li>
+                  <gd>Choisich sibh air a’ chabhsair.</gd>
+                  <tr>You walked on the pavement.</tr>
+                  <ref text="609">td. 73</ref>
+                  <note>deps|comp|geographical, uses|mod|adverbal|location</note>
+                </li>
+              </xl>
+            </li>
+          </ul></p>
+      </section>
+
+      <section id="dep-comp-other">
+        <h>other</h>
+        <p>Some idioms – <ul>
+            <li><g>air <a href="?gd=son">son</a></g>
+              <en>for (the sake of)</en></li>
+            <li><g>air <a href="?gd=ais">ais</a></g>
+              <en>back(wards)</en></li>
+            <li><g>air <a href="?gd=falbh">falbh</a></g>
+              <en>away</en></li>
+          </ul>
+        </p>
+        <p>Other examples – <ul>
+            <li>pedagogical examples – <xl id="dep-comp-other-pedag">
+                <li>
+                  <gd>Thug e an t-airgead air <m>ais</m>.</gd>
+                  <tr>He have the money back.</tr>
+                  <ref text="609">td. 39</ref>
+                  <note>Move to ‘ais’ module?</note>
+                </li>
+                <li>
+                  <gd>taigh air choreigin, leabhar air choreigin, rud air choreigin</gd>
+                  <tr>some house or other, some book or other, something or other</tr>
+                  <ref text="609">td. 81</ref>
+                  <note>dep|comp|idiom [cor], uses|mod|adnominal</note>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+      </section>
+    </section>
+  </section>-->
+  <section>
+    <h>uses</h>
+    <section id="uses-pred">
+      <h>predicate</h>
+      <p>One common use of the preposition <g>air</g> is to introduce the predicate of the verb <a
+          href="?gd=bi"><g>bi</g></a> – <ul>
+          <li><m>Tha</m> Seònaid <m>air</m> an taigh sholais. <en>Shona is at the
+            lighthouse</en>.</li>
+          <li><m>Tha</m> each ùr <m>orm</m>. <en>We have a new horse.</en></li>
+        </ul>
+      </p>
+      <p>Some specific subtypes of predicate relation are described in the following sections.</p>
+
+      <section id="uses-pred-loc">
+        <h>locative</h>
+        <p>Some examples – <ul>
+            <li>pedagogical examples – <xl id="uses-pred-loc-pedag">
+                <li>
+                  <gd>Tha [an salann] shuas <m>air an sgeilp sin</m>.</gd>
+                  <tr>[The salt] is up there on that shelf.</tr>
+                  <ref text="609">td. 35</ref>
+                </li>
+              </xl></li>
+          </ul></p>
+      </section>
+      <section id="uses-pred-clothing">
+        <h>clothing</h>
+        <p>Some examples – <ul>
+            <li>pedagogical examples – <xl id="uses-pred-clothing-pedag">
+                <li>
+                  <gd>Tha còta snog oirre. Tha peitean air Iain. Tha brògan àrda orra. Tha ad
+                    air.</gd>
+                  <tr>She is wearing a nice coat. John is wearing a jumper. They are wearing boots.
+                    He is wearing a hat.</tr>
+                  <ref text="609">td. 64</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+      </section>
+      <section id="uses-pred-naming">
+        <h>naming</h>
+        <p>Some examples – <ul>
+            <li>pedagogical examples – <xl id="uses-pred-naming-pedag">
+                <li>
+                  <gd>Dè an t-ainm a tha ort? / C’ ainm a tha ort? Is e Iain (an t-ainm) a tha
+                    orm.</gd>
+                  <tr>What is your name? John is my name.</tr>
+                  <ref text="609">td. 64</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+      </section>
+
+      <section id="uses-pred-affliction">
+        <h>affliction</h>
+        <p>Some examples – <ul>
+            <li>pedagogical examples – <xl id="uses-pred-affliction-pedag">
+                <li>
+                  <gd>Tha an t-acras orm. Tha am pathadh ort. Tha an cnatan air. Tha an t-eagal
+                    oirre. Tha cabhag oirnn.</gd>
+                  <tr>I am hungry. You are thirsty. He has a cold. She is afraid. We are in a
+                    hurry.</tr>
+                  <ref text="609">td. 64</ref>
+                </li>
+                <li>
+                  <gd>Tha an cadal orm agus is beag orm plèanaichean co-dhiù.</gd>
+                  <tr>I am sleepy and I don’t like planes anyway.</tr>
+                  <ref text="609">td. 66</ref>
+                  <note>deps|complement|human|patient, uses|predicate|affliction|idiom</note>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+      </section>
+
+      <section id="uses-pred-retro">
+        <h>retrospective aspect</h>
+        <p>When the preposition <g>air</g> governs an infinitive (verbal noun), it generally
+          indicates <a href="?q=verbal_aspect">retrospective aspect</a>, similar in some ways to the
+          English ‘perfect tenses’ – <ul>
+            <li><m>Tha Raonaid air rud a dhèanamh</m>
+              <en>Rachel has done something</en></li>
+          </ul>
+        </p>
+        <section>
+          <h>intransitive</h>
+          <p>Basic pattern – <ul>
+              <li><m>Tha Seumas air èirigh</m>
+                <en>James has risen</en></li>
+            </ul>
+          </p>
+          <p>Examples from dictionaries and grammars – <xl id="retro-intrans-dictionary">
+              <li>
+                <gd>Tha iad air falbh.</gd>
+                <tr>They have gone.</tr>
+                <ref text="605">td. 11</ref>
+              </li>
+              <li>
+                <gd>Tha iad air tighinn dhachaigh.</gd>
+                <tr>They have come home.</tr>
+                <ref text="601">td. 22</ref>
+              </li>
+              <li>
+                <gd>Bha Uilleam air tilleadh. / Bidh iad air a dhol a-mach. / Bhiodh Màiri air
+                  seinn.</gd>
+                <tr>William had returned. / They will have gone out. / Mary would have sung.</tr>
+                <ref text="609">td. 158–9</ref>
+              </li>
+            </xl>
+          </p>
+        </section>
+        <section>
+          <h>transitive with inversion</h>
+          <p>Basic pattern – <ul>
+              <li><m>Tha Raonaid air na balaich a phògadh</m>
+                <en>Rachel has kissed the boys</en></li>
+            </ul>
+          </p>
+          <p>Examples from dictionaries and grammars – <xl id="retro-inversion-dictionary">
+              <li>
+                <gd>Bha mi air an doras a dhùnadh.</gd>
+                <tr>I had closed the door.</tr>
+                <ref text="605">td. 11</ref>
+              </li>
+              <li>
+                <gd>Tha Anna air an t-uisge a òl. / Bha Niall air Gàidhlig a ionnsachadh. / Bidh
+                  Dàibhidh air an doras a pheantadh. / Bhiodh Calum air leabhar a cheannach. / Tha
+                  Raibeart air an cù a bhiadhadh mar-thà. / Tha Anna air am borbair a
+                  phàigheadh.</gd>
+                <tr>Ann has drunk the water. / Neil has learnt Gaelic. / David will have painted the
+                  door. / Calum would have bought a book. / Robert has fed the dog already. / Ann
+                  has paid the hairdresser.</tr>
+                <ref text="609">td. 158–9</ref>
+              </li>
+              <li>
+                <gd>A bheil thu air an iuchair a bhriseadh?</gd>
+                <tr>Have you broken the key?</tr>
+                <ref text="601">td. 22</ref>
+              </li>
+            </xl>
+          </p>
+          <p>Examples from Gairm – <xl id="retro-inversion-gairm">
+              <li>
+                <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no
+                  do fhoghlum agus do litreachas na Gàidhlig. [...] Dé na rudan a dh’ fhaodadh sinn
+                  iarraidh? [...] Chan eil an sin ach rud no dhà a dh’ fhaodamaid iarraidh. <m>Tha
+                    Comunn nan Croitearan air nì de ’n t-seòrsa so iarraidh mar tha</m>, air a’
+                  Bh.B.C. Thug sin togail inntinn dhuinn. Có a nis a chuireas fead chruaidh ann an
+                  cluais Luchd an Ionmhais ann a Westminster?</gd>
+                <tr>[...] The Parliament has given very little assistance ever to the Gaelic
+                  language or to Gaelic education and literature. [...] What are the things that we
+                  could demand? [...] Those are just a couple of things that we could demand. The
+                  Crofters’ Society has demanded something of this kind already, on the BBC. That
+                  has given us inspiration. Who now will put a hard whistle [?] in the ear of the
+                  Finance People in Westminster?</tr>
+                <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+              </li>
+            </xl>
+          </p>
+          <p>Other examples from modern usage – <xl id="retro-inversion-modern">
+              <li>
+                <gd>[...] B’ e Rob a b’ òige agus lean e an sgoil. Nuair a ràinig e an t-oilthigh
+                  bha càch airson gun ionnsaicheadh e cunntasachd, a bhiodh feumail anns a’
+                  mhalairt, ach ’s ann a bha ùidh-san ann an ealain. Dh’fhàg e an t-oilthigh agus
+                  chaidh e do sgoil ealain. Bha cuibhreann aige bho athair a bha tuilleadh ’s gu
+                  leòr airson fheumalachd ged a bha e dèidheil air a’ bhotal, agus cha robh e a’
+                  dèanamh spàirn sam bith airson faighinn air adhart san t-saoghal. Bhiodh e a’
+                  dèanamh sgrùdadh ealain do phàipear-naidheachd agus corra dhealbh, ach bha a
+                  chaitheamh-beatha glè fhada bho ùpraid muinntir Thòmais, no ‘mafia’ Thòmais, mar a
+                  chanadh e fhèin. Nuair a dh’innis e <m>gu robh e air nighean a thoirt a
+                    dh’fhuireach còmhla ris</m>, thuirt Tòmas ri càch, [...] ’S ann an taigh
+                  Aonghais a’ Bhàillidh – caraid a bha còmhla ris san sgoil – a bhiodh Rob a’
+                  fuireach nuair a bhiodh e aig an taigh. <m>Bha muinntir Thòmais air an clachan
+                    fhàgail o chionn fhada.</m> [...] </gd>
+                <tr>[...] Rob was the youngest [in the family] and he stayed on at school. When he
+                  reached the university the others wanted him to learn accountancy, which would be
+                  useful in the business, but his interest was in art. He left the university and
+                  went to an art school. He had an allowance from his father which more more than
+                  enough for his needs even though he was fond of the bottle, and he was not making
+                  any effort to get on in the world. He would be making art reviews for a newspaper
+                  and some pictures, but his way of life was very far from the commotion of Thomas’
+                  people, or Thomas’ ‘mafia’, as he would say himself. When he announced that he had
+                  brought a girl to live with him, Thomas said to the others, [...] It was in Angus
+                  of the Baillie’s house – a friend who was with him in the school – that Rob would
+                  be staying when he would be at home. Thomàs’ [Rob’s father] people had left the
+                  village long before. [...]</tr>
+                <ref text="2">td. 5</ref>
+              </li>
+            </xl>
+          </p>
+        </section>
+        <section>
+          <h>transitive with possessive determiner</h>
+          <p>Basic pattern – <ul>
+              <li><m>Tha Raonaid air mo phògadh</m>
+                <en>Rachel has kissed me</en></li>
+            </ul>
+          </p>
+          <p>Examples from dictionaries and grammars – <xl id="retro-possessive-dictionary">
+              <li>
+                <gd>Tha iad air fhaicinn. / Bha iad air am moladh.</gd>
+                <tr>They have seen him. / They had praised them.</tr>
+                <ref text="605">td. 11</ref>
+              </li>
+              <li>
+                <gd>Tha e air a bhriseadh. / Tha e air a briseadh. / Tha e air mo shàbhaladh
+                  a-rithist.</gd>
+                <tr>He has broken him/it [masc.] / He has broken her/it [fem.] / He has saved me
+                  again.</tr>
+                <ref text="601">td. 22</ref>
+              </li>
+              <li>
+                <gd>Tha mi air an dèanamh. / Bha na fèidh air a ghluasad.</gd>
+                <tr>I have done them. / The deer had moved it.</tr>
+                <ref text="608">td. 133</ref>
+              </li>
+            </xl>
+          </p>
+          <section id="passive">
+            <h>passive</h>
+            <p>When the possessive determiner agrees with the subject in person, number and gender,
+              a passive-like sense is possible – <ul>
+                <li><m>Tha rud air a dhèanamh</m>
+                  <en>Something has been done</en></li>
+                <li><m>Tha rudan air an dèanamh</m>
+                  <en>Things have been done</en></li>
+              </ul>
+            </p>
+            <p>Examples from dictionaries and grammars – <xl id="passive-dictionary">
+                <li>
+                  <gd>Tha am feur air a ghearradh. / Bha an t-uisge beatha air a òl uile gu lèir. /
+                    Cha robh na bàtaichean air an càradh. / Bha an càr air a ghoid. / Bha an t-àite
+                    air a lìonadh le uisge.</gd>
+                  <tr>The grass is [has been] cut. / The whisky was all [had all been] drunk. / The
+                    boats were not [had not been] fixed. / The car was [had been] stolen. / The
+                    place was [had been] filled with water.</tr>
+                  <ref text="609">td. 171–2</ref>
+                </li>
+                <li>
+                  <gd>Bha na lèintean air an dèanamh anns na h-Innsean. / Tha an litir air a
+                    taidhpeadh a-nise. / Bidh aon doras air a dhùnadh. / Bha mi air mo leòn gu dona.
+                    / Tha na bagaichean air an dèanamh. / Bha am bogsa air a ghluasad. / Bha sibh
+                    air ur cumail a-mach.</gd>
+                  <tr>The shirts have been made in the Islands. / The letter has been typed now. /
+                    One door will have been closed. / I had been hurt badly. I had hurt myself
+                    badly. / The bags have been made. / The box had been moved. / You had been kept
+                    out.</tr>
+                  <ref text="608">td. 133</ref>
+                </li>
+              </xl>
+            </p>
+            <p>Some instances are ambiguous between passive-like and active retrospective readings,
+              at least in isolation – <xl id="ambiguous-dictionary">
+                <li>
+                  <gd>Bha iad air am moladh.</gd>
+                  <tr>They had been praised. They had praised them.</tr>
+                  <ref text="605">td. 11</ref>
+                </li>
+                <li>
+                  <gd>Bha am fiadh air a mharbhadh. / An robh Niall air a bhualadh? / An robh Mòrag
+                    air a taghadh?</gd>
+                  <tr>The deer was [had been] killed. The deer had killed him. / Was Neil [had Neil
+                    been] hit? Had Neil hit him? / Was Morag [had Morag been] (s)elected? Had Morag
+                    (s)elected her?</tr>
+                  <ref text="609">td. 171–2</ref>
+                </li>
+                <li>
+                  <gd>Bha iad uile air an sàbhaladh.</gd>
+                  <tr>They were all [had all been] saved. They had all saved them.</tr>
+                  <ref text="601">td. 22</ref>
+                </li>
+                <li>
+                  <gd>Bha duine air a mharbhadh.</gd>
+                  <tr>A man has been killed. A man has killed him/it.</tr>
+                  <ref text="608">td. 133</ref>
+                </li>
+              </xl>
+            </p>
+            <p>Examples with an explicit agent – <xl id="passive-agent-dictionary">
+                <li>
+                  <gd>Bha Iain air a bhualadh aca.</gd>
+                  <tr>John was [had been] hit by them.</tr>
+                  <ref text="609">td. 173</ref>
+                </li>
+              </xl>
+            </p>
+            <p>Examples from Gairm – <xl id="passive-gairm">
+                <li>
+                  <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os
+                    cionn obair a’ Chomuinn. [...] Cha b’ fhuilear do dhuine de ’n t-seòrsa so
+                    tomhas mhath de chumhachd a bhith aige. Cha dean math dha a <m>bhith air a
+                      shlaodadh</m> aig tòin Coimitidh, ach feumaidh an Coimitidh earbsa a bhith aca
+                    ás.</gd>
+                  <tr>The Highland Society is talking about choosing a new General who will oversee
+                    the Society’s work. [...] A person of this kind would have to have a good
+                    measure of power. It would do him no good to have been dragged along by the
+                    Committee <ed>??</ed>, but the Committee must have trust in him.</tr>
+                  <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                </li>
+                <li>
+                  <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha fhios gun
+                    dig iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C. [...] Mar a bhios
+                    obair a’ Bh.B.C. a’ leudachadh anns a’ Ghaidhealtachd—agus tha fhios gun tachair
+                    so leis na stéiseanan ùra a thathas a’ togail—bithidh sùil againn ri daoine ùra
+                    ’s ri dòighean ùra. Bhitheadh e nàdurrach agus fallain <m>nam biodh barrachd
+                      phrógraman air an deilbh</m> air a’ Ghaidhealtachd fhéin, agus <m>gum biodh
+                      pàirt de ’n obair so air a chur an tairgse</m> nan Gaidheal ’s nan Gall air
+                    Galldachd. [...]</gd>
+                  <tr>During the seasons and the years that are ahead of us, it is known that many
+                    changes will come to the Gaelic Department of the BBC. [...] As the work of the
+                    BBC will be expanding in the Highlands – and it is known that this will happen
+                    with the new stations that are being established – we will be expecting new
+                    people and new methods. It would be natural and healthy if more programmes were
+                    [had been] produced in the Highlands itself, and [if] some of this work were
+                    [had ben] offered to Gaels and non-Gaels in the Lowlands. [...]</tr>
+                  <ref text="400-48">td. 297, ‘Air an Spiris’</ref>
+                  <note>passive</note>
+                </li>
+              </xl>
+            </p>
+            <p>Biblical examples – <xl id="passive-bible">
+                <li>
+                  <gd>[...] Agus labhair righ na h-Eiphit re mnaibh-glùine nan Eabhruidheach [...]
+                    Agus thubhairt e, ’Nuair a ni sibh gnìomh mnà-glùine do na mnaibh Eabhruidheach,
+                    agus a chi sibh iad air na stòlaibh; ma’s mac a bhios ann, ’an sin marbhaidh
+                    sibh e, ach ma’s nighean a bhios ann, bithidh si beo. Ach bha eagal Dé air na
+                    mnaibh-glùine, agus cha d’rinn iad mar a dh’àithn righ na h-Eiphit dhoibh, ach
+                    ghleidh iad a’ chlann mhac beo. Agus ghairm righ na h-Eiphit air na
+                    mnaibh-glùine, agus thubhairt e riu, C’ar son a rinn sibh an ni so, agus a
+                    ghleidh sibh a’ chlann mhac beo? Agus thubhairt na mnài-ghlùine re Pharaoh, A
+                    chionn nach ’eil na mnài Eabhruidheach mar na mnài Eiphiteach: oir <m>tha
+                      iad</m> féin beothail, agus <m>air an aisead</m> mu’n d’thig na mnài-ghlùine a
+                    steach d’an ionnsuidh. Uime sin bhuin Dia gu math ris na mnaibh-glùine: agus
+                    rinneadh an sluagh lìonmhor, agus dh’fhàs iad ro-chumhachdach. [...]</gd>
+                  <tr>[...] And the king of Egypt spake to the Hebrew midwives [...] And he said,
+                    When ye do the office of a midwife to the Hebrew women, and see them upon the
+                    stools; if it be a son, then ye shall kill him: but if it be a daughter, then
+                    she shall live. But the midwives feared God, and did not as the king of Egypt
+                    commanded them, but saved the men children alive. And the king of Egypt called
+                    for the midwives, and said unto them, Why have ye done this thing, and have
+                    saved the men children alive? And the midwives said unto Pharaoh, Because the
+                    Hebrew women are not as the Egyptian women; for they are lively, and are
+                    delivered ere the midwives come in unto them. Therefore God dealt well with the
+                    midwives: and the people multiplied, and waxed very mighty. [...]</tr>
+                  <ref text="160">Ecsodus I.15–20</ref>
+                </li>
+              </xl>
+            </p>
+
+          </section>
+        </section>
+        <section id="immediate">
+          <h>immediately retrospective</h>
+          <p>cf. <a href="?gd=dìreach">dìreach</a></p>
+          <p>Examples from dictionaries and grammars – <xl id="immediate-dictionary">
+              <li>
+                <gd>Tha Màiri dìreach air tighinn. / Tha iad dìreach air falbh. / Tha iad dìreach
+                  air an doras a dhùnadh.</gd>
+                <tr>Mary has just come. / They have just left. / They have just closed the
+                  door.</tr>
+                <ref text="609">td. 160</ref>
+              </li>
+            </xl>
+          </p>
+        </section>
+      </section>
+
+    </section>
+
+
+<!--
+    <section id="uses-comp">
+      <h>complement</h>
+      <p><g>air</g> can introduce the complement of a verb – <ul>
+          <li><g><a href="?gd=cuir">cuir</a> air</g>
+            <en>put something on something</en></li>
+          <li><g><a href="?gd-suidh">suidh</a> air</g>
+            <en>sit down on something</en></li>
+        </ul>
+      </p>
+      <p>Other examples – <ul>
+          <li>pedagogical examples – <xl id="uses-comp-pedag">
+              <li>
+                <gd>Rug mi air Catrìona. An do rug thu air Uilleam? | Thàinig am poileas agus rug
+                  iad air a’ mheàirleach. | Cha do rug am poileas orra fhathast, chuala mi.</gd>
+                <tr>I caught Catherine. Did you catch William? | The police came and they caught the
+                  robber. | The police didn’t catch them yet, I heard.</tr>
+                <ref text="609">td. 38 | 39 | 83</ref>
+                <note>Move to ‘beir’ module?</note>
+              </li>
+              <li>
+                <gd>Is beag air Màiri feòil. Is beag air Seumas còcaireachd. Is beag orm an leabhar
+                  sin.</gd>
+                <tr>Mary dislikes meat. James dislikes/loathes cooking. I dislike that book.</tr>
+                <ref text="609">td. 64</ref>
+                <note>deps|comps|human|experiencer, uses|complement|idiom [beag]</note>
+              </li>
+              <li>
+                <gd>Tha an cadal orm agus is beag orm plèanaichean co-dhiù.</gd>
+                <tr>I am sleepy and I don’t like planes anyway.</tr>
+                <ref text="609">td. 66</ref>
+                <note>deps|complement|human|patient, uses|predicate|affliction|idiom</note>
+              </li>
+              <li>
+                <gd>Is lugha air Anna ball-coise.</gd>
+                <tr>Ann dislikes football.</tr>
+                <ref text="609">td. 65</ref>
+                <note>deps|comps|human|experiencer, uses|complement|idiom [beag/lugha]</note>
+              </li>
+              <li>
+                <gd>Greas ort! Greasaibh oirbh!</gd>
+                <tr>Hurry up!</tr>
+                <ref text="609">td. 65</ref>
+                <note>deps/comps/human/actor | uses/complement|idiom [greas]</note>
+              </li>
+              <li>
+                <gd>Am bu toil leat suidheachan faisg air uinneag?</gd>
+                <tr>Would you like a seat near a window?</tr>
+                <ref text="609">td. 66</ref>
+                <note>uses|complement|idiom [faisg]</note>
+              </li>
+              <li>
+                <gd>Dh’iarr mi air an tidsear.</gd>
+                <tr>I asked the teacher.</tr>
+                <ref text="609">td. 74</ref>
+                <note>deps|comp|human, uses|comp|idiom [iarr]</note>
+              </li>
+              <li>
+                <gd>Thagh iad ceann-suidhe ùr air a’ phàrlamaid aca.</gd>
+                <tr>They elected a new president for their parliament.</tr>
+                <ref text="609">td. 83</ref>
+                <note>complement of tagh?</note>
+              </li>
+              <li>
+                <gd>Bhruidhinn am poileas ris a’ mhanaidsear ach ged a dh’aithnich esan na
+                  meàirlich, chan eil <m>sgeul</m> aca orra.</gd>
+                <tr>The police spoke to the manager but although he recognised the thieves, they
+                  don’t have a sign of them.</tr>
+                <ref text="609">td. 83</ref>
+                <note>complement of sgeul?</note>
+              </li>
+            </xl>
+          </li>
+        </ul>
+      </p>
+      <p>complement of a noun – <ul>
+          <li><g><a href="?gd=feum">feum</a> air ...</g>
+            <en>need for ...</en></li>
+        </ul>
+      </p>
+    </section>
+
+    <section id="uses-mod">
+      <h>modifier</h>
+      <p>Some examples – <ul>
+          <li>pedagogical examples – <xl id="uses-mod-pedag">
+              <li>
+                <gd>Chunnaic mi Seumas air a’ bhus an-dè.</gd>
+                <tr>I saw james on the bus yesterday.</tr>
+                <ref text="609">td. 56</ref>
+                <note>adverbal|locative [ambiguous]</note>
+              </li>
+              <li>
+                <gd>taigh air choreigin, leabhar air choreigin, rud air choreigin</gd>
+                <tr>some house or other, some book or other, something or other</tr>
+                <ref text="609">td. 81</ref>
+                <note>dep|comp|idiom [cor], uses|mod|adnominal</note>
+              </li>
+              <li>
+                <gd>Thagh iad ceann-suidhe ùr air a’ phàrlamaid aca.</gd>
+                <tr>They elected a new president for their parliament.</tr>
+                <ref text="609">td. 83</ref>
+                <note>modifier of ceann-suidhe?</note>
+              </li>
+            </xl>
+          </li>
+          <li>older pedagogical examples – <xl id="use-mod-older-pedag">
+              <li>
+                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’ chàr.
+                  Chaidh iad sìos taobh an locha is stad iad aig àite bòidheach gorm. Chuir iad an
+                  càr a stigh gu taobh an rathaid is thug iad brat a mach as a’ chàr <m>air son
+                    suidhe air</m>. [...]</gd>
+                <tr>The day was lovely and warm and their father took John and Ann in the car. They
+                  went down the side of the lake and they stopped at a beautiful green place. They
+                  put the car into the side of the road and they took a blanket out of the car for
+                  sitting on. [...]</tr>
+                <ref text="621">td. 6</ref>
+              </li>
+            </xl>
+          </li>
+        </ul>
+      </p>
+    </section>
+    -->
+  </section>
+
+  <section id="etymology">
+    <h>etymology</h>
+    <p>The modern Gaelic preposition is a fusion of three different Old Gaelic prepositions – <ul>
+        <li>the leniting, accusative/dative-governing preposition <ax href="https://dil.ie/3902"
+            >ar</ax>
+          <en>in front of, for (the sake of), on account of</en></li>
+        <li>the non-mutating, accusative/dative-governing preposition <ax
+            href="https://dil.ie/23272">for</ax>
+          <en>on, over</en></li>
+        <li>the nasalising, dative-governing preposition <ax href="https://dil.ie/26931">íar</ax>
+          <en>after (temporal), according to</en></li>
+      </ul>
+    </p>
+  </section>
+
+<!--
+  <section>
+    <h>examples</h>
+    <p>
+      <xl id="misx">
+        <li>
+          <gd>Gu sealladh sealbh ort!</gd>
+          <tr>Good lord!</tr>
+          <ref text="609">td. 83</ref>
+          <note/>
+        </li>
+
+      </xl>
+    </p>
+
+
+  </section>
+-->
+
+</module>

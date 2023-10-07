@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>càite ?</h>
+    <p><g>càite ?</g>
+        <en>where?</en> is a question word (interrogative adverb).</p>
+
+    <section>
+        <h>dependents</h>
+        <p><g>Càite an <a href="?gd=rach">deach/tèid/rachadh</a> ... ?</g>
+            <en>Where did/will/would ... go?</en> – <ul>
+                <li>pedagogical examples – <xl id="comps-caite-pedag">
+                        <li>
+                            <gd><m>Càit</m> a bheil thu a’ dol? Tha mi a’ dol a-null thairis a
+                                Pharas. | <m>Càite</m> am bi sinn a’ dol a-nochd?</gd>
+                            <tr>Where are you going? I am going abroad to Paris. | Where will we be
+                                going tonight?</tr>
+                            <ref text="609">td. 66, 116</ref>
+                        </li>
+                    </xl>
+                </li>
+            </ul>
+        </p>
+    </section>
+
+</module>

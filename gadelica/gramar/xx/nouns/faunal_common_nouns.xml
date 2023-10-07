@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>faunal common nouns</h>
+    <p>Faunal commons nouns are <a href="?xx=nouns/common_nouns">common nouns</a> that
+        characterise classes of (lower) animal.</p>
+    <p>cf. <a href="?xx=nouns/avine_common_nouns">avine common nouns</a></p>
+    
+</module>
+
+

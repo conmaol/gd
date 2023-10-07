@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title>tòrr</title>
+  <p><strong>tòrr</strong>
+    <en>large quantity</en> is a masculine <a href="?xx=nouns/generic_quantity_nouns">generic quantity noun</a>, a semantic extension of the common noun <strong>tòrr</strong>
+    <en>heap, mound</en>.</p>
+  <hr/>
+  <p>In terms of the stuff being quantified, <strong>tòrr</strong> generally works like other generic quantity nouns –</p>
+  <ul>
+    <li>When the stuff being quantified is new information, it is usually expressed as a noun modifier/specifier of the generic quantity noun, either the genitive singular of a mass noun or the
+      genitive plural of a count noun eg. <ul>
+        <li>Dh’òl Raonaid <m>tòrr <u>fìona</u></m>. <en>Rachel drank a lot of wine.</en></li>
+        <li>Tha <m>tòrr <u>chon</u></m> aig Màiri. <en>Mary has a lot of dogs.</en></li>
+      </ul>
+      <ul id="torr_specifier">
+        <li>
+          <gd>tòrr airgid</gd>
+          <tr>a heap of money</tr>
+          <ref text="605">td. 382</ref>
+        </li>
+        <li>
+          <gd>Tha tòrr dhaoine den bheachd sin.</gd>
+          <tr>Lots of people are of that opinion.</tr>
+          <ref text="605">td. 382</ref>
+        </li>
+        <li>
+          <gd>Tha tòrr dhiofaran ann.</gd>
+          <tr>There are many differences.</tr>
+          <ref text="601">td. 594</ref>
+        </li>
+      </ul>
+    </li>
+    <li>When the stuff being quantified is already known, it is usually introduced by the partitive preposition <a href="?gd=de">de</a>
+      <en>of</en> governing a specified (ie. ‘definite’) noun eg. <ul>
+        <li>Dh’òl Raonaid <m>tòrr <u>den fhìona</u></m>. <en>Rachel drank a lot of the wine.</en></li>
+        <li>Cheannaich Màiri <m>tòrr <u>de mo choin</u></m>. <en>Mary bought a lot of my dogs.</en></li>
+      </ul>
+    </li>
+    <li>When the stuff being quantified is already known, and has just been referred to, or can be inferred, <strong>tòrr</strong> can occur on its own eg. <ul>
+        <li>Dh’òl Raonaid <m>tòrr</m>. <en>Rachel drank a lot.</en></li>
+        <li>Tha <m>tòrr</m> aig Màiri. <en>Mary has a lot.</en></li>
+      </ul>
+      <ul id="torr">
+        <li>
+          <gd/>
+          <tr/>
+          <ref text="">td. 39</ref>
+        </li>
+      </ul>
+    </li>
+    <li>Alternatively, <strong>tòrr</strong> can be followed by one of the <a href="?gd=de">de</a> prepositional pronouns eg. <ul>
+        <li>Dh’òl Raonaid <m>tòrr <u>dheth</u></m>. <en>Rachel drank a lot of it.</en></li>
+        <li>Tha <m>tòrr <u>dhiubh</u></m> aig Màiri. <en>Mary has a lot of them.</en></li>
+      </ul>
+      <ul id="torr_de">
+        <li>
+          <gd/>
+          <tr/>
+          <ref text="">td. 39</ref>
+        </li>
+      </ul>
+    </li>
+    <li><strong>tòrr mu (dheidhinn)</strong>
+      <en>a lot of [information/knowledge] about some topic</en> eg. <ul>
+        <li>Tha Màiri ag iarraidh cluinntinn <m>tòrr mu</m> choin. <en>Mary wants to hear a lot about dogs.</en>
+          <ul id="torr_mu">
+            <li>
+              <gd/>
+              <tr/>
+              <ref text="">td. 60</ref>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><strong>tòrr ri (dhèanamh)</strong> <en>a lot to do</en> eg. <ul>
+        <li>Tha <m>tòrr ri</m> dhèanamh aig Raonaid. <en>Rachel has a lot to do.</en>
+          <ulx id="torr_ri">
+            <lix>
+              <gd>Tha <m>tòrr ri dèanamh</m> – gidheadh, soirbichidh leinn.</gd>
+              <tr>There is <u>a lot to be done</u> – nonetheless, we will manage.</tr>
+              <ref text="607">td. 387</ref>
+            </lix>
+          </ulx>
+        </li>
+      </ul>
+    </li>
+  </ul>
+  <hr/>
+  <p><strong>tòrr</strong> can also be used to modify a comparative adjective eg. <ul>
+    <li>Tha Seumas <m>tòrr nas beairtiche</m> na tha Dòmhnall. <en>James is much richer than Donald [is].</en></li>
+  </ul>
+    <ul id="torr_nas">
+      <li>
+        <gd>Bha e tòrr na b’inntinniche na càch.</gd>
+        <tr>He was much more interesting than the others.</tr>
+        <ref text="601">td. ??</ref>
+      </li>
+    </ul>
+  </p>
+  <hr/>
+  <p><strong>tòrr</strong> can be emphasised by <strong>mòr</strong>. <ul id="torr_mhor">
+    <li><gd>tòrr mòrr</gd>
+      <tr></tr><ref text="601">td. ??</ref></li>
+  </ul></p>
+  <hr/>
+</module>

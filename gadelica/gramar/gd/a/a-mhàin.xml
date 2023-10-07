@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>a-mhàin</h>
+  <p><b>a-mhàin</b>
+    <en>only</en> is an adverb.</p>
+  <module id="ach">
+    <h lang="en">ach a-mhàin</h>
+    <p lang="en"><b><a href="?gd=ach">ach</a> a-mhàin</b>
+      <en>apart from, aside from</en> – <xl id="exs">
+        <li>
+          <gd>Tha ar linn fhìn a’ coimhead gur e feallsanach mór a bh’ ann de Khierkegaard, gidheadh
+            feallsanach eu-coltach ri a roi-shealbhadairean, <m>ach a-mhàin</m>, ’s math dh’
+            fhaoite, Nietzche.</gd>
+          <tr>Our own era views Kierkegaard as a great philosopher, even if a philosopher different
+            to his predecessors, <u>aside from</u>, perhaps, Nietzsche.</tr>
+          <ref text="400-41">td. 103</ref>
+          <note>contextual head?</note>
+        </li>
+      </xl>
+    </p>
+  </module>
+</module>

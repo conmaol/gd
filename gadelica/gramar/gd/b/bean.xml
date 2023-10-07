@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">bean</h>
+    <h lang="gd">bean</h>
+    <p lang="en">There are two uses of <b>bean</b> – <ul>
+            <li>the feminine common noun <a href="?gd=bean^noun">bean</a>
+                <en>woman, wife</en></li>
+            <li>the (dynamic) verb <a href="?gd=bean^verb">bean</a>
+                <en>touch, deal/interfere/meddle (with)</en></li>
+        </ul>
+    </p>
+    <p lang="gd">...</p>
+</module>

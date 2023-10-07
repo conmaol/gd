@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="silver">
+  <h>generic quantity expressions</h>
+  <p>Generic quantity expressions are <a href="?xx=nouns/quantity_expressions">quantity
+      expressions</a> which do not involve a specific, numerically expressed, number of things or
+    quantity of substance – <ul>
+      <li><m>mòran airgid</m>
+        <en>a lot of money</en></li>
+      <li><m>cus feòla</m>
+        <en>too much meat</en></li>
+      <li><m>na h-ùbhlan air fad</m>
+        <en>all of the apples</en></li>
+    </ul> Generic quantity expressions contrast with <a
+      href="?xx=nouns/numeric_quantity_expressions">numeric quantity expressions</a> like <g>còig
+      craobhan</g>
+    <en>five trees</en>, <g>seachdnar chloinne</g>
+    <en>seven children</en> or <g>trì cairtealan de na h-ùbhlan</g>
+    <en>three quarters of the apples</en>.</p>
+  <!-- JoNic – I would say trì chairteal de na h-ùbhlan rather than trì cairtealan de na h-ùbhlan -->
+  
+  
+  <p>Perhaps the most common way of forming generic quantity expressions in Gaelic is by using a <a
+      href="?xx=nouns/generic_quantity_nouns">generic quantity noun</a> like <a href="?gd=mòran"
+        ><g>mòran</g></a>
+    <masc/>
+    <en>a lot</en>, <a href="?gd=barrachd"><g>barrachd</g></a>
+    <fem/>
+    <en>more</en>, <a href="?gd=cus"><g>cus</g></a>
+    <masc/>
+    <en>too much</en>.</p>
+  <section id="simple">
+    <h>simple quantities</h>
+    <p>Simple generic quantity expressions do not involve any kind of explicit or implicit
+      comparison.</p>
+    <p>Some simple generic quantity expressions describe <emph>large</emph> quantities – <ul>
+        <li><g>mòran gaoil</g>
+          <en>a lot of love</en></li>
+        <li><g>cuid mhath de na taighean</g>
+          <en>a lot of the houses</en></li>
+      </ul>
+    </p>
+    <p>Others describe <emph>small</emph> quantities – <ul>
+        <li><g>beagan bainne</g>
+          <en>a little milk</en></li>
+        <li><g>cuid bheag de na h-uighean</g>
+          <en>a few of the eggs</en></li>
+      <!-- Jo NicDh – I would not use this but would use e.g. beagan uighean -->
+      </ul>
+    </p>
+    <p>And others describe <emph>neutral</emph> quantities – <ul>
+        <li><g>grunn fhiadh</g>
+          <en>some/several deer</en></li>
+      </ul></p>
+    <p>cf. <!--<a href="?gd=beagan">--><g>beagan</g><!--</a>-->
+      <masc/>
+      <en>few, little, modicum</en>, <!--<a href="?gd=cuid">--><g>cuid</g><!--</a>-->
+      <fem/>
+      <en>measure, part, portion</en>, <!--<a href="?gd=deannan">--><g>deannan</g><!--</a>-->
+      <masc/>
+      <en>pinch, puckle</en>, <!--<a href="?gd=grunn">--><g>grunn</g><!--</a>-->
+      <masc/>
+      <en>batch, group, number</en>, <!--<a href="?gd=iomadh">--><g>iomadh</g><!--</a>-->
+      <en>many, several</en>, <a href="?gd=mòran"><g>mòran</g></a>
+      <masc/>
+      <en>lot, many, much</en>, <!--<a href="?gd=tòrr">--><g>tòrr</g><!--</a>-->
+      <masc/>
+      <en>heap, mass</en>, <!--<a href="?gd=uabhas">--><g>an t-uabhas</g><!--</a>-->
+      <masc/>
+      <en>enormity, great quantity, awful lot</en>.</p>
+  </section>
+  <section id="comparative">
+    <h>comparative quantities</h>
+    <p>Comparative generic quantity expressions involve an explicit comparison between two different
+      quantities.</p>
+    <p>Some comparative generic quantity expressions describe <emph>larger</emph> quantities – <ul>
+        <li><g>barrachd airgid (na ...)</g>
+          <en>more money (than ...)</en></li>
+        <li><g>a thrì uiread de na caoraich (’s a ...)</g>
+          <en>three times as many of the sheep (as ...)</en></li>
+      </ul>
+    </p>
+    <p>Others describe <emph>equal</emph> quantities – <ul>
+        <li><g>(a cheart) uiread salainn (’s a ...)</g>
+          <en>(just) as much salt (as ...)</en></li>
+        <li><g>uimhir de na h-ùbhlan (’s a ...)</g>
+          <en>as many of the apples (as ...)</en></li>
+      </ul>
+    </p>
+    <p>Others describe <emph>smaller</emph> quantities – <ul>
+        <li><g>nas·lugha airgid (na ...)</g>
+          <en>less money (than ...)</en></li>
+        <li><g>(a) leth-uiread de na sgeinean (’s a ...)</g>
+          <en>half as many of the knives (as ...)</en></li>
+      </ul>
+    </p>
+    <p>cf. <a href="?gd=barrachd"><g>barrachd</g></a>
+      <fem/>
+      <en>more, predominance, preponderance</en>, <!--<a href="?gd=lugha">--><g>nas·lugha</g><!--</a>-->
+      <en>fewer, less</en>, <!--<a href="?gd=tuilleadh">--><g>tuilleadh</g><!--</a>-->
+      <masc/>
+      <en>more, extra</en>, <!--<a href="?gd=uimhir">--><g>uimhir</g><!--</a>-->
+      <fem/> / <!--<a href="?gd=uiread">--><g>uiread</g><!--</a>-->
+      <masc/>
+      <en>as/so much/many, quantity, modicum, number</en>.</p>
+  </section>
+  <section id="implicit">
+    <h>implicitly comparative quantities </h>
+    <p>Implicitly comparative generic quantity expressions involve a merely implicit comparison
+      between different quantities (ie. measured against an assumed norm).</p>
+    <p>Some implicitly comparative generic quantity expressions describe <emph>excessive</emph>
+      quantities (ie. larger than is necessary) – <ul>
+        <li><g>cus seòclaid</g>
+          <en>too much chocolate</en></li>
+        <li><g>anabharr eagail</g>
+          <en>an excess of fear</en></li>
+      </ul>
+    </p>
+    <p>Some others describe <emph>sufficient</emph> quantities (ie. as much as is necessary) – <ul>
+        <li><g>fuil gu leòr</g>
+          <en>enough blood</en></li>
+        <li><g>pailteas de na leabhraichean</g>
+          <en>plenty of the books</en></li>
+      </ul>
+    </p>
+    <p>Others describe <emph>insufficient</emph> quantities (ie. smaller than necessary) – <ul>
+        <li><g>ro bheag de dh’airgead</g>
+          <en>too little money</en></li>
+        <li><g>ro·bheag de na sgoilearan</g>
+          <en>too few of the pupils</en></li>
+      </ul>
+    </p>
+    <p>cf. <!--<a href="?gd=anabharr">--><g>anabharr</g><!--</a>-->
+      <masc/>
+      <en>excess, redundancy, superfluity</en>, <a href="?gd=cus"><g>cus</g></a>
+      <masc/>
+      <en>glut, too much/many, surfeit</en>, <a href="?gd=leòr"><g>leòr</g></a>
+      <fem/>
+      <en>satiety, sufficiency, enough</en>, <!--<a href="?gd=pailteas">--><g>pailteas</g><!--</a>-->
+      <masc/>
+      <en>abundance, plenty</en>, <!--<a href="?gd=beag">--><g>ro·bheag</g><!--</a>-->
+      <en>too little, too few</en>.</p>
+  </section>
+  <section id="superlative">
+    <h>superlative quantities</h>
+    <p>Superlative generic quantity expressions split a definite quantity into two parts, one larger
+      and one smaller – <ul>
+        <li><g>a’ chuid as motha den fheòil</g>
+          <en>most of the meat</en></li>
+        <li><g>a’ chuid as lugha de na h-uighean</g>
+          <en>the least of the eggs</en></li>
+      </ul>
+    </p>
+    <!--<p>cf. <a href="?gd=cuid"><g>cuid</g></a>
+      <fem/>
+      <en>measure, part, portion</en>.</p>-->
+  </section>
+  <section id="absolute">
+    <h>absolute quantities</h>
+    <p>Absolute generic quantity expressions involve the <emph>whole</emph> of a definite quantity – <ul>
+        <li><g>am fìon air fad / gu lèir</g>
+          <en>all (of) the wine</en></li>
+        <li><g>gin de na buinn</g>
+          <en>any of the coins</en></li>
+        <li><g>càil/sgath den fhìon</g>
+          <en>any of the wine</en></li>
+        <li><g>an dà ubhal</g>
+          <en>both (of) the apples</en></li>
+      </ul>
+    </p>
+  </section>
+</module>

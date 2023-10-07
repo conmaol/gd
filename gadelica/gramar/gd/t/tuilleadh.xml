@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">tuilleadh</h>
+    <h lang="gd">tuilleadh</h>
+    <p lang="en">Corpus examples – <xl id="exs">
+            <li>
+                <gd>[...] A nis, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas ùr againn.
+                    Tha sinn an dòchas gun téid gu math dhaibh, agus gun cuir iad spionnadh ás ùr
+                    anns an dùthaich air fad. Agus gu seachd àraidh anns a’ Ghaidhealtachd: gun
+                    tòisich obair an dealain a rithist, gun cuirear <m>tuilleadh
+                        bhàtaichean-iasgaich</m> an sàs, gum faigh na Gaidheil cothrom air fearann
+                    na Gaidhealtachd obrachadh dhaibh fhéin, ás bith an ann mar chroitean no mar
+                    innis no mar choille, gun bhacadh o bhàllidh no o thighearna.</gd>
+                <tr>[...] Now, the General Election is behind us, and we have a new Government. We
+                    hope that they will do well, and that they will re-energise the whole country.
+                    And most especially in the Highlands: that electricity work will restart, that
+                        <u>more fishing boats</u> will be put into service [?], that the Gaels will
+                    get the opportunity to work the land of the Highlands for themselves, whether as
+                    crofts or as grazing or as forest, without hindrance from a bailiff or from a
+                    laird.</tr>
+                <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+            </li>
+            <li>
+                <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no
+                    do fhoghlum agus do litreachas na Gàidhlig. [...] Dé na rudan a dh’ fhaodadh
+                    sinn iarraidh? <m>Tuilleadh de luchd-teagaisg ’s de luchd-ceasnachaidh
+                    Gàidhlig</m>. Airgead gu leabhraichean uallachadh is a chlo-bhualadh. Barrachd tìde
+                    air an réidio agus air telebhisean. [...]</gd>
+                <tr>[...] The Parliament has given very little assistance ever to the Gaelic
+                    language or to Gaelic education and literature. [...] What are the things that
+                    we could demand? <u>More Gaelic teachers and inspectors</u>. Money to prepare
+                    and print books. More time on the radio and on television. [...]</tr>
+                <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>

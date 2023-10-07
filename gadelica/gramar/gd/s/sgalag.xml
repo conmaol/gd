@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>sgalag</h>
+    <p><b>sgalag</b>
+        <en>farm servant</en> is a feminine <a href="?xx=nouns/occupational_common_nouns"
+            >occupational</a>
+        <a href="?xx=nouns/derived_common_nouns">derived common noun</a>, with diminutive suffix <a
+            href="?gd=_ag"><g>-(e)ag</g></a>.</p>
+    <section>
+        <h>forms</h>
+        <p>The principal parts of <g>sgalag</g> are – <ul>
+                <li><m>sgalag</m> – nominative singular</li>
+                <li><m>sgalaig(e)</m> – genitive singular</li>
+                <li><m>sgalagan</m> – plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>sgalag</m></li>
+                                    <li>dative – (le) <m>sgalaig</m></li>
+                                    <li>genitive – (leabhar) <m>sgalaige</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>sgalagan</m></li>
+                                    <li>dative – (le) <m>sgalagan</m></li>
+                                    <li>genitive – (leabhraichean) <m>sgalag(an)</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an sgalag</m></li>
+                                    <li>dative – (leis) <m>an sgalaig</m></li>
+                                    <li>genitive – (leabhar) <m>na sgalaige</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na sgalagan</m></li>
+                                    <li>dative – (leis) <m>na sgalagan</m></li>
+                                    <li>genitive – (leabhraichean) <m>nan sgalag(an)</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>sgalag</m></li>
+                                    <li>dative – (le) <m>sgalaig</m></li>
+                                    <li>genitive – (leabhar) <m>sgalaige</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an sgalag</m></li>
+                                    <li>dative – (leis) <m>an sgalaig</m></li>
+                                    <li>genitive – (leabhar) <m>na sgalaige</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>sgalagan</m></li>
+                                    <li>dative – (le) <m>sgalagan</m></li>
+                                    <li>genitive – (leabhraichean) <m>sgalag(an)</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na sgalagan</m></li>
+                                    <li>dative – (leis) <m>na sgalagan</m></li>
+                                    <li>genitive – (leabhraichean) <m>nan sgalag(an)</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>sgalag</m></li>
+                                    <li>plural – <m>sgalagan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an sgalag</m></li>
+                                    <li>plural – <m>na sgalagan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (le) <m>sgalaig</m></li>
+                                    <li>plural – (le) <m>sgalagan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (leis) <m>an sgalaig</m></li>
+                                    <li>plural – (leis) <m>na sgalagan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (leabhar) <m>sgalaige</m></li>
+                                    <li>plural – (leabhraichean) <m>sgalag(an)</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (leabhar) <m>an sgalaige</m></li>
+                                    <li>plural – (leabhraichean) <m>nan sgalag(an)</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+    <section id="notes">
+        <h>notes</h>
+        <section>
+            <h>H. Cameron Gillies</h>
+            <p><i>The Elements of Gaelic Grammar, Second Edition</i> (1902), td. 31 –</p>
+            <p>“The following observations will go a good way to assist in the determination of the
+                Gender of Nouns. OF LIVING CREATURES.—The names of males are Masculine, and the
+                names of females are Feminine. Except (1) <g>Sgalag</g>
+                <i>a farm-servant</i>, which though it always signifies a male servant yet takes the
+                grammatical declension and relations of a Feminine Noun, e.g. <g>lamh na sgalaige
+                    moire</g>
+                <i>the hand of the big farm-servant</i>, in which several points indicate the
+                Feminine Gender. The Article is a Genitive Feminine form, the word <g>sgalaige</g>
+                is a Genitive Feminine form and the Adjective has the inflection of the Genitive
+                Feminine in agreement with it, and the Adjective is not aspirated as it would be if
+                the Noun were Masculine.”</p>
+        </section>
+    </section>
+
+</module>

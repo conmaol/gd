@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>eaglaiseil</h>
+    <p><g>eaglaiseil</g>
+        <en>ecclesiastical</en> is a derived adjective, with stem <a href="?gd=eaglais"
+                ><g>eaglais</g></a>
+        <fem/>
+        <en>church</en> and suffix <a href="?gd=_il"><g>-eil</g></a>.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>modifier</h>
+            <p><g><a href="?gd=eachdraidh">eachdraidh</a> eaglaiseil</g>
+                <en>ecclesiastical history</en></p>
+        </section>
+    </section>
+
+</module>

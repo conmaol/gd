@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h lang="en">coimhead</h>
+  <p lang="en">Examples of usage – <xl id="exs">
+      <li>
+        <gd>Tha ar linn fhìn a’ <m>coimhead</m> gur e feallsanach mór a bh’ ann de Khierkegaard,
+          gidheadh feallsanach eu-coltach ri a roi-shealbhadairean, ach a-mhàin, ’s math dh’
+          fhaoite, Nietzche.</gd>
+        <tr>Our own era views Kierkegaard as a great philosopher, even if a philosopher different to
+          his predecessors, aside from, perhaps, Nietzsche.</tr>
+        <ref text="400-41">td. 103</ref>
+        <note>coimhead gun ...</note>
+      </li>
+    </xl>
+  </p>
+
+</module>

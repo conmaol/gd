@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>sagartachd</h>
+    <p><g>sagartachd</g>
+        <en>priesthood</en> is a feminine <a href="?xx=nouns/derived_common_nouns">derived common
+            noun</a>, with stem <a href="?gd=sagart"><g>sagart</g></a>
+        <masc/>
+        <en>priest</en>, and suffix <a href="?gd=_achd"><g>-(e)achd</g></a>.</p>
+</module>

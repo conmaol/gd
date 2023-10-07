@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+  <h lang="en">iarr</h>
+  <h lang="gd">iarr</h>
+  <p lang="en">Corpus examples – <xl id="exs">
+      <li>
+        <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no do
+          fhoghlum agus do litreachas na Gàidhlig. Cuin a chualas ball-Pàrlamaid a’ togail a ghuth
+            <m>a dh’ iarraidh leasachaidh do staid Gàidhlig ann an Albainn</m>?</gd>
+        <tr>The Parliament has given very little assistance ever to the Gaelic language or to Gaelic
+          education and literature. When has a member of Parliament been heard raising his voice
+            <u>to demand improvement for the state of Gaelic in Scotland</u>?</tr>
+        <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+      </li>
+      <li>
+        <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no do
+          fhoghlum agus do litreachas na Gàidhlig. Cuin a chualas ball-Pàrlarnaid a’ togail a ghuth
+          a dh’ iarraidh leasachaidh do staid Gàidhlig ann an Albainn? Am bi cothrom a nis aig
+          cuideigin a ghuth a thogail, anns an t-suidheachadh iongantach a th’ againn anns a’
+          Phàrlamaid ùr? <m>Chan eil sinn ag iarraidh air an duine so, ma tha e ann, a’ Ghàidhlig a
+            chur air thoiseach air lòn is obair is caitheamh-beatha an t-sluaigh</m>. Chan eil sinn
+          ag iarraidh ach beagan ceartais.</gd>
+        <tr>[...] The Parliament has given very little assistance ever to the Gaelic language or to
+          Gaelic education and literature. When has a member of Parliament been heard raising his
+          voice to demand improvement for the state of Gaelic in Scotland? Will someone have an
+          opportunity now to raise his voice, in the unexpected situation we have in the new
+          Parliament? <u>We are not asking of this person, if he exists, to prioritise Gaelic over
+            food and jobs and the populations standard of living</u>. We only want a modicum of
+          justice.</tr>
+        <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+      </li>
+      <li>
+        <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no do
+          fhoghlum agus do litreachas na Gàidhlig. [...] Dé na rudan a dh’ fhaodadh sinn
+            <m>iarraidh</m>? Tuilleadh de luchd-teagaisg ’s de luchd-ceasnachaidh Gàidhlig. Airgead
+          gu leabhraichean uallachadh is a chlo-bhualadh. Barrachd tìde air an réidio agus air
+          telebhisean. [...] Chan eil an sin ach rud no dhà a dh’ fhaodamaid <m>iarraidh</m>. Tha
+          Comunn nan Croitearan air nì de ’n t-seòrsa so <m>iarraidh</m> mar tha, air a’ Bh.B.C.
+          [...]</gd>
+        <tr>[...] The Parliament has given very little assistance ever to the Gaelic language or to
+          Gaelic education and literature. [...] What are the things that we could <u>demand</u>?
+          More Gaelic teachers and inspectors. Money to prepare and print books. More time on the
+          radio and on television. [...] Those are just a couple of things that we could <u>demand</u>. The
+          Crofters’ Society has <u>demanded</u> something of this kind already, on the BBC. [...]</tr>
+        <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+      </li>
+      <li>
+        <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no do
+          fhoghlum agus do litreachas na Gàidhlig. Cuin a chualas ball-Pàrlarnaid a’ togail a ghuth
+          a dh’ iarraidh leasachaidh do staid Gàidhlig ann an Albainn? Am bi cothrom a nis aig
+          cuideigin a ghuth a thogail, anns an t-suidheachadh iongantach a th’ againn anns a’
+          Phàrlamaid ùr? Chan eil sinn ag iarraidh air an duine so, ma tha e ann, a’ Ghàidhlig a
+          chur air thoiseach air lòn is obair is caitheamh-beatha an t-sluaigh. Chan eil sinn <m>ag
+            iarraidh ach beagan ceartais</m>.</gd>
+        <tr>[...] The Parliament has given very little assistance ever to the Gaelic language or to
+          Gaelic education and literature. When has a member of Parliament been heard raising his
+          voice to demand improvement for the state of Gaelic in Scotland? Will someone have an
+          opportunity now to raise his voice, in the unexpected situation we have in the new
+          Parliament? We are not asking of this person, if he exists, to prioritise Gaelic over food
+          and jobs and the population’s standard of living. We <u>only want a modicum of
+          justice</u>.</tr>
+        <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+      </li>
+      <li>
+        <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os cionn
+          obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach ag ath-nuadhachadh
+          dreach a’ Chomuinn. [...] Ach dh’ fheumadh am Fear-stiùiridh ùr barrachd air a sin a
+          dhèanamh. Dh’ fheumadh e siubhal a dhèanamh eadar Rubha Robhanais agus Ceann Bharraidh,
+          eadar am Parbh is Maol Chinn-tìre, agus cha deanadh math dha dìochuimhneachadh gu robh
+          obair a’ Chomuinn a’ buntainn ri Coimisean nan Croitearan an Inbhirnis, ri Roinn an
+          Fhoghluim an Dùn-Eideann, agus ri Tigh nan Cumantan an Lunnainn. An duine a theid do gach
+          àite dhiubh sin, agus a bheir barrachd air còmhradh leis dhachaidh, nì e feum do ’n
+          Chomunn is do ’n Ghàidhlig. <m>Tha sinn a’ guidhe ’s ag iarraidh gu lorg An Comunn duine
+            de ’n t-seòrsa so.</m></gd>
+        <tr>The Highland Society is talking about choosing a new General who will oversee the
+          Society’s work. [...] He would have enough to do initially reforming the Society. [...]
+          But the new leader would have to do more than (just) that. He would have to travel between
+          the Butt of Lewis and Barra Head, between Cape Wrath and the Mull of Kintyre, and he
+          should not forget that the Society’s work is related to the Crofters’ Commission in
+          Inverness, to the Education Department in Edinburgh, and to the House of Commons in
+          London. The person who goes to each of those places, and who brings home more than (just)
+          conversation, will benefit the Society and the Gaelic language. <u>We are praying and
+            asking that The Society will find a person of this kind.</u></tr>
+        <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+      </li>
+    </xl>
+  </p>
+  <p lang="gd">...</p>
+</module>
+<!--
+<module>
+  <title>iarr</title>
+  <p><strong>iarr</strong> is a (regular) verb with the basic meaning of <en>ask for, request</en>. 
+    When used in the progressive it often has the extended volitional meaning <en>want, desire</en>.</p>
+  <hr/>
+  <h4>Non-progressive uses of <mark>iarr</mark></h4>
+  <p>When used non-progressively (i.e. in a perfective clause), <strong>iarr</strong> generally carries the meaning <en>ask somebody for or to do something</en>.</p>
+  <p>Basic usage patterns are –</p>
+  <ol>
+    <li><strong>iarr rud</strong> <en>ask for something</en>, e.g. <mark>dh’iarr mi cù</mark> <en>I asked for a dog</en> <boxlink ref="#transitive"/></li>
+    <li><strong>iarr rud air duine</strong> <en>ask somebody for something</en>, e.g. <mark>dh’iarr mi cù air Màiri</mark> <en>I asked Mary for a dog</en> <boxlink ref="#transitive_air"/></li>
+    <li><strong>iarr rud a dhèanamh</strong> <en>ask to do something</en>, e.g. <mark>dh’iarr mi an cù a bhiathadh</mark> <en>I asked to feed the dog</en> <boxlink ref="#cas_mu_seach"/></li>
+    <li><strong>iarr air duine rud a dhèanamh</strong> <en>ask somebody to do something</en>, e.g. <mark>dh’iarr mi air Màiri an cù a bhiathadh</mark> <en>I asked Mary to feed the dog</en> <boxlink ref="#cas_mu_seach_air"/></li>
+    <li><strong>iarr nach dèan duine rud</strong> <en>ask that somebody not do something</en>, e.g. <mark>dh’iarr mi nach biathadh Màiri an cù</mark> <en>I asked that Mary not feed the dog</en> <boxlink ref="#iarr_nach"/></li>
+  </ol>
+  <p>See also: <strong><a href="?gd=faighnich">faighnich</a></strong> <en>ask (a question)</en></p>
+  
+  <box id="transitive">
+    <title>iarr rud</title>
+    <p>When used as a simple transitive verb, <strong>iarr</strong> usually has the meaning <en>ask for something</en> –</p>
+    <xl>
+      <li>3152</li>
+    </xl>
+    <p>When used with a verb of motion and intention, this basic meaning is often generalised to <en>(come/go and) fetch/collect something</en> –</p>
+    <xl>
+      <li>3162</li>
+      <li>3163</li>
+    </xl>
+  </box>
+
+  <box id="transitive_air">
+    <title>iarr rud air duine</title>
+    <p>When used transitively with an <strong>air</strong> prepositional phrase as complement, <strong>iarr rud air duine</strong> means <en>ask somebody for something</en> –</p>
+    <xl>
+      <li>3153</li>
+      <li>3164</li>
+    </xl>
+  </box>
+
+  <box id="cas_mu_seach">
+    <title>iarr rud a dhèanamh</title>
+    <p>When used with an infinitival complement, <strong>iarr rud a dhèanamh</strong> means <en>ask to do something</en> –</p>
+    <xl>
+      <li>3157</li>
+      <li>3150</li>
+    </xl>
+  </box>
+
+  <box id="cas_mu_seach_air">
+    <title>iarr air duine rud a dhèanamh</title>
+    <p>When used with an infinitival complement <em>and</em> an <strong>air</strong> prepositional phrase complement, <strong>iarr air duine rud a dhèanamh</strong> means <en>ask somebody to do something</en> –</p>
+    <xl>
+      <li>3165</li>
+      <li>3156</li>
+      <li>3166</li>
+    </xl>
+  </box>
+  
+  <box id="iarr_nach">
+    <title>iarr nach dèan duine rud</title>
+    <p>When used with a negative object clause, <strong>iarr nach dèan duine rud</strong> means <en>ask that somebody not do something</en> –</p>
+    <xl>
+      <li>3160</li>
+    </xl>
+  </box>
+
+  <hr/>
+  <h4>Progressive uses of <mark>iarr</mark></h4>
+  <p>When used progressively, <strong>(bi) ag iarraidh</strong> generally carries the extended volitional meaning <en>want ((somebody) to do) something</en>.
+  </p>
+  <p>Basic usage patterns are –</p>
+  <ol>
+    <li><strong>bi ag iarraidh rud</strong> <en>want something</en></li>
+    <li><strong>bi ag iarraidh rud a dhèanamh</strong> <en>want to do something</en></li>
+    <li><strong>bi ag iarraidh gun dèan duine rud</strong> <en>want somebody to do something</en></li>
+    <li><strong>bi ag iarraidh nach dèan duine rud</strong> <en>want somebody not to do something</en></li>
+  </ol>
+  <p>See also: <strong><a href="?gd=airson">bi airson</a></strong> <en>want</en></p>
+
+</module>
+-->

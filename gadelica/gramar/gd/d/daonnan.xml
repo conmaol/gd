@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <title>daonnan</title>
+  <p><strong>daonnan</strong> is a <a href="?xx=adverbs/frequency_adverbials">frequency adverb</a> meaning <en>always</en>.</p>
+    <hr/>
+    <exl>
+      <li>
+        <gd>Rè nam bliadhnachan sin cuideachd, bha Domhnull <m>daonnan</m> an sàs ann an dealbh-chluichean Gàidhlig, agus a’ dèanamh deagh ainm dha fhéin anns an obair.</gd>
+        <tr>During those days as well, Donald was always involved in Gaelic plays, and making a good name for himself in his work.</tr>
+        <ref>1952 <i>Gairm</i> 2 td. 33</ref>
+      </li>
+      <li>
+        <gd>Mar bu tric’ ’s e geansaidh iasgair agus seann bhriogais a bhiodh air, oir bha e <m>daonnan</m> ag obair mu eathraichean is iasg.</gd>
+        <tr>He usually would have on a fisherman’s jersey and old trousers, because he was always working around boats and fish.</tr>
+        <ref>2001 <i>Sgeulachdan Dhòmhnaill Alasdair</i> td. 103</ref>
+      </li>
+    </exl>
+    <p>cf. <a href="?gd=an-comhnaidh">an-còmhnaidh</a></p>
+</module>
+

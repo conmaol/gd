@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>stad</h>
+    <p><g>stad</g>
+        <en>stop, halt, pause, rest, stall, cease, desist, come/bring to a stop/halt</en> is a
+        (regular) <a href="?xx=verbs/verbs">verb</a>, marking <a href="?q=verbal_aspect"
+            >cessative</a> verbal aspect, cf. <a href="?gd=sguir"><g>sguir</g></a>
+        <vb/>
+        <en>stop, cease</en>, <a href="?gd=crìoch"><g>crìoch</g></a>
+        <fem/>
+        <en>end, boundary</en>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>stad</g> are – <ul>
+                <li><m>stadaidh</m> – future independent ie. <en>will stop</en></li>
+                <li><m>stad</m> – past independent ie. <en>stopped</en></li>
+                <li><m>stad</m> (<g>stadadh</g>) – verbal noun ie. <en>stopping</en></li>
+            </ul>
+        </p>
+        <section>
+            <h>tense</h>
+            <p>
+                <ul>
+                    <li>past <ul id="past">
+                            <li>active <ul>
+                                    <li>independent – <m>stad</m></li>
+                                    <li>relative – a <m>stad</m></li>
+                                    <li>dependent – cha/an/nach <m>do stad</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>stadadh</m></li>
+                                    <li>relative – a <m>stadadh</m></li>
+                                    <li>dependent – cha/an/nach <m>do stadadh</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>future <ul id="future">
+                            <li>active <ul>
+                                    <li>independent – <m>stadaidh</m></li>
+                                    <li>relative – a <m>stadas</m></li>
+                                    <li>dependent – cha/an/nach <m>stad</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>stadar</m></li>
+                                    <li>relative – a <m>stadar</m></li>
+                                    <li>dependent – cha/an/nach <m>stadar</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>conditional <ul id="conditional">
+                            <li>active <ul>
+                                    <li>first person singular <ul>
+                                            <li>independent – <m>stadainn</m></li>
+                                            <li>relative – a <m>stadainn</m></li>
+                                            <li>dependent – cha/an/nach <m>stadainn</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>first person plural <ul>
+                                            <li>independent – <m>stadamaid</m></li>
+                                            <li>relative – a <m>stadamaid</m></li>
+                                            <li>dependent – cha/an/nach <m>stadamaid</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>second/third persons <ul>
+                                            <li>independent – <m>stadadh</m></li>
+                                            <li>relative – a <m>stadadh</m></li>
+                                            <li>dependent – cha/an/nach <m>stadadh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>stadte</m></li>
+                                    <li>relative – a <m>stadte</m></li>
+                                    <li>dependent – cha/an/nach <m>stadte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>status</h>
+            <p><ul>
+                    <li>independent <ul id="independent">
+                            <li>past <ul>
+                                    <li>active – <m>stad</m></li>
+                                    <li>passive – <m>stadadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – <m>stadaidh</m></li>
+                                    <li>passive – <m>stadar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – <m>stadainn</m></li>
+                                            <li>first person plural – <m>stadamaid</m></li>
+                                            <li>second/third persons – <m>stadadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – <m>stadte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>relative <ul id="relative">
+                            <li>past <ul>
+                                    <li>active – a <m>stad</m></li>
+                                    <li>passive – a <m>stadadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – a <m>stadas</m></li>
+                                    <li>passive – a <m>stadar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – a <m>stadainn</m></li>
+                                            <li>first person plural – a <m>stadamaid</m></li>
+                                            <li>second/third persons – a <m>stadadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – a <m>stadte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="dependent">
+                            <li>past <ul>
+                                    <li>active – cha/an/nach <m>do stad</m></li>
+                                    <li>passive – cha/an/nach <m>do stadadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – cha/an/nach <m>stad</m></li>
+                                    <li>passive – cha/an/nach <m>stadar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – cha/an/nach
+                                                <m>stadainn</m></li>
+                                            <li>first person plural – cha/an/nach
+                                                <m>stadamaid</m></li>
+                                            <li>second/third persons – cha/an/nach
+                                                <m>stadadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – cha/an/nach <m>stadte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul></p>
+        </section>
+        <section>
+            <h>voice</h>
+            <p>
+                <ul>
+                    <li>active <ul id="active">
+                            <li>past <ul>
+                                    <li>independent – <m>stad</m></li>
+                                    <li>relative – a <m>stad</m></li>
+                                    <li>dependent – cha/an/nach <m>do stad</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>stadaidh</m></li>
+                                    <li>relative – a <m>stadas</m></li>
+                                    <li>dependent – cha/an/nach <m>stad</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent <ul>
+                                            <li>first person singular – <m>stadainn</m></li>
+                                            <li>first person plural – <m>stadamaid</m></li>
+                                            <li>second/third persons – <m>stadadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>relative <ul>
+                                            <li>first person singular – a <m>stadainn</m></li>
+                                            <li>first person plural – a <m>stadamaid</m></li>
+                                            <li>second/third persons – a <m>stadadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>dependent <ul>
+                                            <li>first person singular – cha/an/nach
+                                                <m>stadainn</m></li>
+                                            <li>first person plural – cha/an/nach
+                                                <m>stadamaid</m></li>
+                                            <li>second/third persons – cha/an/nach
+                                                <m>stadadh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>passive <ul id="passive">
+                            <li>past <ul>
+                                    <li>independent – <m>stadadh</m></li>
+                                    <li>relative – a <m>stadadh</m></li>
+                                    <li>dependent – cha/an/nach <m>do stadadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>stadar</m></li>
+                                    <li>relative – a <m>stadar</m></li>
+                                    <li>dependent – cha/an/nach <m>stadar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent – <m>stadte</m></li>
+                                    <li>relative – a <m>stadte</m></li>
+                                    <li>dependent – cha/an/nach <m>stadte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>imperative</h>
+            <p>
+                <ul>
+                    <li>independent <ul id="imp-ind">
+                            <li>first person singular – <m>stadam</m>!</li>
+                            <li>second person singular – <m>stad</m>!</li>
+                            <li>first person plural – <m>stadamaid</m>!</li>
+                            <li>second person plural – <m>stadaibh</m>!</li>
+                            <li>third person – <m>stadadh</m>!</li>
+                            <li>passive – <m>stad(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="imp-dep">
+                            <li>first person singular – na <m>stadam</m>!</li>
+                            <li>second person singular – na <m>stad</m>!</li>
+                            <li>first person plural – na <m>stadamaid</m>!</li>
+                            <li>second person plural – na <m>stadaibh</m>!</li>
+                            <li>third person – na <m>stadadh</m>!</li>
+                            <li>passive – na <m>stad(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section id="subject">
+            <h>subject</h>
+            <p>The subject of <g>stad</g> is generally a noun expression denoting a human (or other animal) – <ul>
+                    <li><m>Stad mi.</m>
+                        <en>I stopped.</en></li>
+                    <li><m>Stad!</m>
+                        <en>Stop!</en></li>
+                </ul>
+            </p>
+            <p>Some examples – <ul id="deps-sbj-hum-xs">
+                    <li>older pedagogical examples – <xl id="deps-sbj-hum-older-pedag">
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                                    anns a’ chàr. Chaidh iad sìos taobh an locha is <m>stad iad</m>
+                                    aig àite bòidheach gorm. [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. [...]</tr>
+                                <ref text="621">td. 6</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section id="comps">
+            <h>complements</h>
+            <section id="deps-comp-none">
+                <h>strict intransitive</h>
+                <p><g>stad</g> can occur without any complements, as a strict intransitive verb – <ul>
+                        <li><m>Stad sinn.</m>
+                            <en>We stopped.</en></li>
+                    </ul>
+                </p>
+                <p>Some examples – <ul id="deps-comps-none-xs">
+                        <li>pedagogical examples – <xl id="deps-comps-none-pedag">
+                                <li>
+                                    <gd>Stad iad aig bun na beinne.</gd>
+                                    <tr>They halted at the foot of the mountain.</tr>
+                                    <ref text="605">td. 353</ref>
+                                </li>
+                                <li>
+                                    <gd>Stad e gu h-obann.</gd>
+                                    <tr>He stopped suddenly.</tr>
+                                    <ref text="601">td. 548</ref>
+                                </li>
+                            </xl></li>
+                        <li>older pedagogical examples – <xl id="deps-comps-none-older-pedag">
+                                <li>
+                                    <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus
+                                        Anna anns a’ chàr. Chaidh iad sìos taobh an locha is <m>stad
+                                            iad</m> aig àite bòidheach gorm. [...]</gd>
+                                    <tr>The day was lovely and warm and the father took John and Ann
+                                        in the car. They went down the side of the lake and they
+                                        stopped at a beautiful green place. [...]</tr>
+                                    <ref text="621">td. 6</ref>
+                                </li>
+                            </xl></li>
+                    </ul>
+                </p>
+            </section>
+            <section id="deps-comps-trans">
+                <h>transitive</h>
+                <p><g>stad</g> can occur (at least in very recent usage) with a noun expression as complement, as a transitive verb
+                    – <ul>
+                        <li><m>Stad mi an càr.</m>
+                            <en>I stopped the car.</en></li>
+                    </ul>
+                </p>
+                <p>Some examples – <ul id="deps-comps-trans-xs">
+                        <li>pedagogical examples – <xl id="deps-comps-trans-pedag">
+                                <li>
+                                    <gd>Stad e an làraidh.</gd>
+                                    <tr>He stopped the lorry.</tr>
+                                    <ref text="605">td. 353</ref>
+                                </li>
+                            </xl></li>
+                    </ul>
+                </p>
+            </section>
+            <section>
+                <h>prepositions</h>
+                <module id="deps-comps-dhe" status="bronze">
+                    <h>stad de [a] ...</h>
+                    <p><g>stad</g> can take a (verbal noun) complement introduced by the partitive
+                        preposition <a href="?gd=de"><g>de [a]</g></a>
+                        <en>of</en> – <ul>
+                            <li><m>Stad i a dh’ithe nan ùbhlan.</m>
+                                <en>She stopped eating the apples.</en></li>
+                        </ul>
+                    </p>
+                    <p>Some examples – <ul id="deps-comps-dhe-xs">
+                            <li>pedagogical examples – <xl id="deps-comps-dhe-pedag">
+                                    <li>
+                                        <gd>Stad iad a dh’iomradh le chèile.</gd>
+                                        <tr>They both stopped rowing.</tr>
+                                        <ref text="601">td. 548</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Bha i air stad a chur.</gd>
+                                        <tr>It had stopped snowing.</tr>
+                                        <ref text="601">td. 548</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Stad i den ghàireachdaich.</gd>
+                                        <tr>She stopped laughing.</tr>
+                                        <ref text="601">td. 548</ref>
+                                        <note>definite article here</note>
+                                    </li>
+                                </xl></li>
+                        </ul>
+                    </p>
+                </module>
+                <module status="bronze" id="deps-comps-le">
+                    <h>stad le ...</h>
+                    <p><g>na stad <a href="?gd=le">le</a> bhith a’ dèanamh rud</g>
+                        <en>not stop at doing something, go beyond doing something</en></p>
+                    <p>Pedagogical examples – <xl id="deps-comps-le-pedag">
+                            <li>
+                                <gd>Ach cha do stad iad idir le bhith ag iomradh air dreasa a’
+                                    bhoireannaich.</gd>
+                                <tr>But in no way did they stop at remarking on the woman’s
+                                    clothes.</tr>
+                                <ref text="601">td. 548</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </section>
+            <section id="deps-comps-other">
+                <h>other</h>
+                <p>Pedagogical examples – <xl id="deps-comps-other-pedag">
+                        <li>
+                            <gd>Ach stad ort!</gd>
+                            <tr>But stop!</tr>
+                            <ref text="601">td. 548</ref>
+                            <note>impersonal? reflexive? Mandic: Could this be a v. noun in an elliptical expression? 
+                                Cf. ‘cuir stad air’...</note>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+        </section>
+        <section id="deps-mods">
+            <h>modifiers</h>
+            <p><g>stad</g> can appear with the following modifiers – <ul>
+                    <li>locative – <ul>
+                            <li><g>stad <a href="?gd=aig">aig</a> ...</g>
+                                <en>stop at</en> – <ul>
+                                    <li>older pedagogical examples – <xl
+                                            id="deps-mods-aig-older-pedag">
+                                            <li>
+                                                <gd>Bha an latha brèagha blàth is thug an athair
+                                                  leis Iain agus Anna anns a’ chàr. Chaidh iad sìos
+                                                  taobh an locha is <m>stad iad aig àite bòidheach
+                                                  gorm</m>. [...]</gd>
+                                                <tr>The day was lovely and warm and their father
+                                                  took John and Ann in the car. They went down the
+                                                  side of the lake and they stopped at a beautiful
+                                                  green place. [...]</tr>
+                                                <ref text="621">td. 6</ref>
+                                            </li>
+                                        </xl>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>purposive – <ul>
+                            <li><g>stad <a href="?gd=do^preposition">do</a> [a] ...</g>
+                                <en>stop to (do)</en> – <ul>
+                                    <li>pedagogical examples – <xl id="deps-mods-dha-pedag">
+                                            <li>
+                                                <gd>Feumaidh sinn stad a dh’ithe a
+                                                  dh’aithghearr.</gd>
+                                                <tr>We must stop to eat soon.</tr>
+                                                <ref text="601">td. 548</ref>
+                                            </li>
+                                        </xl></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+            <section id="deps-mods-compounds">
+                <h>compounds</h>
+                <p>Some compounds – <ul>
+                        <li><g>stad beag</g>
+                            <en>a pause</en></li>
+                        <li><g>stad bus</g>
+                            <en>bus stop</en></li>
+                        <li><g>stad cofaidh</g>
+                            <en>coffee break</en>
+                            <xl id="cofaidh">
+                                <li>
+                                    <gd>rè nan stadan-cofaidh</gd>
+                                    <tr>during the coffee breaks</tr>
+                                    <ref text="601">td. 548</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li><g>stad losgaidh</g>
+                            <en>ceasefire</en></li>
+                    </ul>
+                </p>
+            </section>
+
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>derivatives</h>
+            <module id="stad-noun" status="bronze">
+                <h>stad <masc/></h>
+                <p><g>stad</g>
+                    <en>stop, halt, pause, end, cessation</en> is a (at least synchronically) deverbal masculine noun, derived
+                    from the verb <g>stad</g>, with genitive singular form <g>stada</g> and plural
+                        <g>stadan</g>.</p>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>object</h>
+                        <module id="uses-derivs-stad-uses-obj-dean" status="bronze">
+                            <h>dèan stad</h>
+                            <p><g><a href="?gd=dèan">dèan</a> stad</g>
+                                <en>make a stop, stop</en></p>
+                            <p>Pedagogical examples – <xl id="dean_stad-pedag">
+                                    <li>
+                                        <gd>Nì sinn stad an seo.</gd>
+                                        <tr>We’ll stop/wait here.</tr>
+                                        <ref text="605">td. 353</ref>
+                                    </li>
+                                </xl>
+                            </p>
+                        </module>
+                        <module id="uses-derivs-stad-uses-obj-cuir" status="bronze">
+                            <h>cuir stad air ...</h>
+                            <p><g><a href="?gd=cuir">cuir</a> stad air ...</g>
+                                <en>put a stop to, stop</en></p>
+                            <p>Pedagogical examples – <xl id="cuir_stad-pedag">
+                                    <li>
+                                        <gd>Cuiridh mi stad air do shràidearachd!</gd>
+                                        <tr>I’ll put a stop to your stravaigin!</tr>
+                                        <ref text="605">td. 353</ref>
+                                    </li>
+                                    <li>
+                                        <gd>cuir stad air</gd>
+                                        <tr>inhibit, stop</tr>
+                                        <ref text="601">td. 548</ref>
+                                    </li>
+                                </xl>
+                            </p>
+                        </module>
+                    </section>
+                    <section>
+                        <h>complement</h>
+                        <module id="uses-derivs-stad-uses-comp-ag" status="bronze">
+                            <h>a’ stad</h>
+                            <p><g><a href="?gd=ag">a’</a> stad</g>
+                                <en>in the process of stopping</en></p>
+                            <p>Pedagogical examples – <xl id="prog-pedag">
+                                    <li>
+                                        <gd>Tha an trèana a’ stad ann an ...</gd>
+                                        <tr>The trains calls at ...</tr>
+                                        <ref text="601">td. 548</ref>
+                                        <note>habitual</note>
+                                    </li>
+                                </xl>
+                            </p>
+                        </module>
+                        <module id="uses-derivs-stad-uses-comp-an" status="bronze">
+                            <h>na* stad</h>
+                            <p><g><a href="?gd=an^preposition">na*</a> stad</g>
+                                <en>in a state of having stopped</en>, cf. <a
+                                    href="?q=verbal_aspect">retrospective</a> aspect.</p>
+                            <p>Pedagogical examples – <xl id="uses-derivs-stad-uses-comp-an-pedag">
+                                    <li>
+                                        <gd>Bha am bus na stad.</gd>
+                                        <tr>The bus was stationary.</tr>
+                                        <ref text="605">td. 353</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Tha a’ chùis na stad.</gd>
+                                        <tr>The affair/matter/business is at a standstill.</tr>
+                                        <ref text="605">td. 353</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Bha a’ chùis a-nis na stad.</gd>
+                                        <tr>The matter was now in abeyance.</tr>
+                                        <ref text="601">td. 548</ref>
+                                    </li>
+                                </xl>
+                            </p>
+                        </module>
+                        <module status="bronze" id="uses-derivs-stad-uses-comp-gu">
+                            <h>gu stad</h>
+                            <p><g><a href="?gd=gu^preposition">gu</a> stad</g>
+                                <en>to a stop</en>.</p>
+                            <section>
+                                <h>uses</h>
+                                <section>
+                                    <h>complement</h>
+                                    <module id="uses-derivs-stad-uses-comp-thig-gu" status="bronze">
+                                        <h>thig gu stad</h>
+                                        <p><g><a href="?gd=thig">thig</a> gu stad</g>
+                                            <en>come to a halt, stop</en></p>
+                                        <p>Pedagogical examples – <xl
+                                                id="uses-derivs-stad-uses-comp-thig-gu-pedag">
+                                                <li>
+                                                  <gd>Thàinig i gu stad.</gd>
+                                                  <tr>She came to a halt/stop.</tr>
+                                                  <ref text="605">td. 353</ref>
+                                                </li>
+                                                <li>
+                                                  <gd>thig gu stad</gd>
+                                                  <tr>land</tr>
+                                                  <ref text="601">td. 548</ref>
+                                                </li>
+                                            </xl>
+                                        </p>
+                                    </module>
+                                    <module id="uses-derivs-stad-uses-comp-thoir-gu" status="bronze">
+                                        <h>thoir ... gu stad</h>
+                                        <p><g><a href="?gd=thoir">thoir</a> ... gu stad</g>
+                                            <en>bring to a halt, stop</en></p>
+                                        <p>Pedagogical examples – <xl
+                                                id="uses-derivs-stad-uses-comp-thoir-gu-pedag">
+                                                <li>
+                                                  <gd>thoir rudeigin gu stad</gd>
+                                                  <tr>bring something to an end</tr>
+                                                  <ref text="605">td. 353</ref>
+                                                </li>
+                                            </xl>
+                                        </p>
+                                    </module>
+                                </section>
+                            </section>
+                        </module>
+                        <module id="uses-derivs-stad-uses-comp-gun" status="bronze">
+                            <h>gun stad</h>
+                            <p>Pedagogical examples – <xl id="uses-derivs-stad-uses-comp-gun-pedag">
+                                    <li>
+                                        <gd>gun stad</gd>
+                                        <tr>ceaseless, non-stop</tr>
+                                        <ref text="601">td. 548</ref>
+                                    </li>
+                                </xl>
+                            </p>
+                        </module>
+                    </section>
+                    <section id="uses-derivs-stad-uses-prefix">
+                        <h>prefix</h>
+                        <p>Compound nouns – <ul>
+                                <li><g>stad-bhreith</g>
+                                    <fem/>
+                                    <en>reprieve</en></li>
+                                <li><g>stad-phuing</g>
+                                    <fem/>
+                                    <en>full stop</en>
+                                    <emph>gen.</emph> stad-phuinge, <emph>pl.</emph>
+                                    stad-phuingean</li>
+                                <li><g>stad-uaireadair</g>
+                                    <masc/>
+                                    <en>stopwatch</en></li>
+                            </ul>
+                        </p>
+                    </section>
+                </section>
+            </module>
+        </section>
+    </section>
+
+</module>

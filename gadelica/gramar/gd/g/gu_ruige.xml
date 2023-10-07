@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h lang="en">gu ruige</h>
+    <h lang="gd">gu ruige</h>
+    <p lang="en">
+        <b>gu ruige</b>
+        <en>up to, as far as, until</en> is akin to a prepositional compound, with the difference
+        being that the ‘complement’ is in the nominative case (rather than the genitive).</p>
+    <p lang="gd">...</p>
+    <p lang="en">cf. <a href="?gd=gu-preposition">gu</a>, <a href="?gd=ruig">ruig</a>.</p>
+    <p lang="gd">...</p>
+    <module id="gu_ruige_spatial">
+        <h lang="en">spatial uses</h>
+        <h lang="gd">...</h>
+        <p lang="en">Spatial uses of <b>gu ruige</b>
+            <en>(right) up to, as far as</en> emphasise that the (eventual) destination is
+            non-intentional or unimportant compared with the trajectory (or the activity) itself.
+            For example, the destination could be an accidental or intermediate point in the
+            activity as a whole – <ul>
+                <li>Chaidh iad ’nan ruith <m>gu ruige an drochaid</m>. <en>They ran as far as the
+                        bridge.</en></li>
+            </ul>
+            <xl id="gu_ruige_spatial_xs">
+                <li>
+                    <gd>Chaidh iad romhpa <m>gu ruige an druim</m>.</gd>
+                    <tr>They went on as far as the ridge.</tr>
+                    <ref text="605">td 223</ref>
+                </li>
+                <li>
+                    <gd>Thàinig na tuilltean <m>gu ruige an taigh</m>.</gd>
+                    <tr>The floods came (right) up to the house.</tr>
+                    <ref text="605">td 223</ref>
+                </li>
+                <li>
+                    <gd><m>gu ruige Èirinn</m></gd>
+                    <tr>as far as Ireland</tr>
+                    <ref text="601">td. 494</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+    <module id="gu_ruige_temporal">
+        <h lang="en">temporal uses</h>
+        <h lang="gd">...</h>
+        <p lang="en">In its temporal uses, <b>gu ruige</b>
+            <en>up to, until</en> introduces a bounding adverbal – converting an imperfective
+            situation into a perfective one – <ul>
+                <li>Tha i air fòrladh <m>gu ruige deireadh a’ mhìosa</m>. <en>She is on leave right
+                        up to the end of the month.</en></li>
+            </ul>
+            <xl id="gu_ruige_temporal_xs">
+                <li>
+                    <gd>Bidh sinn trang gu ruige a’ Bhliadhna Ùr.</gd>
+                    <tr>We’ll be busy until / (right) up to New Year.</tr>
+                    <ref text="605">td. 223</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en"><b>gu ruige seo</b>
+            <en>until now, up to now, to date, so far</en> – <xl id="gu_ruige_seo_temporal_xs">
+                <li>
+                    <gd>Cha do rinn sinn mearachdan <m>gu ruige seo</m>.</gd>
+                    <tr>We haven’t made any mistakes so far / up to now.</tr>
+                    <ref text="605">td. 223</ref>
+                </li>
+                <li>
+                    <gd>Shaoileadh duine bho na chaidh a ràdh <m>gu ruige seo</m> gu ...</gd>
+                    <tr>One would think from what has been said so far that ...</tr>
+                    <ref text="601">td. 494</ref>
+                </li>
+                <li>
+                    <gd>uaithe sin <m>gu ruige seo</m></gd>
+                    <tr>from then till now</tr>
+                    <ref text="601">td. 494</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+    <module id="gu_ruige_abstract">
+        <h lang="en">abstract uses</h>
+        <h lang="gd">...</h>
+        <p lang="en"><xl id="gu_ruige_abstract_xs">
+                <li><gd>bho cheann-feadhna <m>gu ruige sgalag</m></gd>
+                    <tr>from chief to servant</tr>
+                    <ref text="601">td. 494</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+</module>

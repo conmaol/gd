@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>ionnsaigh</h>
+    <p><g>ionnsaigh</g>
+        <en>advance, assault</en> is a feminine common noun.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <module status="bronze" id="a_dh_ionnsaigh">
+                <h>a dh’ionnsaigh ...</h>
+                <p><g>a dh’ionnsaigh ...</g>
+                    <en>towards</en> is a prepositional compound.</p>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module status="bronze" id="thig_a_dh_ionnsaigh">
+                            <h>thig a dh’ionnsaigh ...</h>
+                            <p><g><a href="?gd=thig">thig</a> a dh’ionnsaigh ...</g>
+                                <en>come towards, come to visit</en> – <ul>
+                                    <li>pedagogical examples – <xl id="thig_a_dh_ionnsaigh-pedag">
+                                            <li>
+                                                <gd>Tha mac mo pheathar agus bràthair m’ athar a’
+                                                  tighinn gar n-ionnsaigh air an lathaichean
+                                                  saora.</gd>
+                                                <tr>My nephew and my uncle are coming (to visit us)
+                                                  on their holidays.</tr>
+                                                <ref text="609">td. 99</ref>
+                                            </li>
+                                        </xl>
+                                    </li>
+                                </ul>
+                            </p>
+                        </module>
+                    </section>
+                </section>
+
+            </module>
+        </section>
+    </section>
+
+
+</module>

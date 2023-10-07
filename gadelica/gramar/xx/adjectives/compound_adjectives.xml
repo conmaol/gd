@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>compound adjectives</h>
+
+  <section>
+    <h>noun-adjective compounds</h>
+    <p>Examples from H. Cameron Gillies (1902) <emph>The Elements of Gaelic Grammar</emph> td. 62 – <ul>
+        <li><g>bàrr-bhuidhe</g>
+          <en>yellow-topped</en> – </li>
+        <li><g>tonn-gheal</g>
+          <en>white-waved</en> – <ul>
+            <li>masculine <ul>
+                <li>nominative – (an) cuan <g>tonn-gheal</g>
+                  <en>a/the white-waved ocean</en></li>
+                <li>dative – <ul>
+                    <li>air cuan <g>tonn-gheal</g>
+                      <en>on a white-waved ocean</en></li>
+                    <li>air a’ chuan <g>thonn-gheal</g>
+                      <en>on the white-waved ocean</en></li>
+                  </ul></li>
+                <li>genitive – <ul>
+                    <li>dath cuain <g><m>thuinn</m>-ghil</g>
+                      <en>colour of a white-waved ocean</en></li>
+                    <li>dath a’ chuain <g>thuinn-ghil</g>
+                      <en>the colour of the white-waved ocean</en></li>
+                  </ul></li>
+              </ul>
+            </li>
+            <li>feminine <ul>
+                <li>nominative – <ul>
+                    <li>fairge <g>thonn-gheal</g>
+                      <en>a white-waved sea</en></li>
+                    <li>an fhairge <g>thonn-gheal</g>
+                      <en>the white-waved sea</en></li>
+                  </ul></li>
+                <li>dative – <ul>
+                    <li>air fairge <g><m>thuinn</m>-ghil</g>
+                      <en>on a white-waved sea</en></li>
+                    <li>air an fhairge <g>thuinn-ghil</g>
+                      <en>on the white-waved sea</en></li>
+                  </ul></li>
+                <li>genitive – dath (na) fairge <g><m>thuinn(e)</m>-ghile</g>
+                  <en>(the) colour of a/the white-waved sea</en></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+  </section>
+
+
+  <section>
+    <h>adjective-adjective compounds</h>
+    <p><g>mìn-bhreac</g>
+      <en>fine-spotted</en></p>
+    <p><g>ciuin-gheal</g>
+      <en>calm-white</en></p>
+  </section>
+
+  <!--
+  <p>Compound adjectives are <a href="?xx=adjectives/adjectives">adjectives</a> which have been
+    formed from other adjectives, typically by addition of a prefix.</p>
+  <p>Adjective-compounding prefixes – <ul>
+      <li><a href="?gd=an_">a(i)n-</a></li>
+      <li><a href="?gd=dian">dian-</a></li>
+      <li><a href="?gd=mì_">mì-</a></li>
+      <li><a href="?gd=neo_">neo-</a></li>
+    </ul>
+  </p>
+  <p>Also: <a href="?gd=dia">dia-</a>.</p>
+  -->
+</module>

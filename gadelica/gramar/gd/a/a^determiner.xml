@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>a – possessive determiner</h>
+    <p lang="en"><b>a</b>
+        <en>his, her, its</en> is the third person singular <a
+            href="?xx=nouns/possessive_determiners">possessive determiner</a>, related to the
+        personal pronouns <a href="?gd=i">i</a>
+        <en>she, her, it</en> and <a href="?gd=e">e</a>
+        <en>he, him, it</en>.</p>
+    <p>cf. other uses of the particle <a href="?gd=a">a</a>.</p>
+    <module id="noun">
+        <h lang="en">noun specifier</h>
+        <h lang="gd">...</h>
+        <module id="family">
+            <h lang="en">family members</h>
+            <h lang="gd">...</h>
+            <p lang="en">Examples from Gairm – <xl id="noun-family-gairm-xs">
+                    <li>
+                        <gd>Bha i ceud bliadhna a dh’ aois is esan dhà air fhichead. Cha robh e ach
+                            mìos no dhà a-mach ás an oilthigh. Bha <m>a nighean</m> a’ fuireachd
+                            còmhla rithe. Bha ise ceithir fichead. Shaoil e gu robh a’ chailleach
+                            ann an dòigh na bu shunndaiche na <m>a nighean</m>. [......] “Carson
+                            nach do bhàsaich thu o chionn leth-cheud bliadhna,” dh’ éigh Màiri. Bha
+                            i smaoineachadh air na gnothaichean ud fhathast! “Greas ort leis an
+                            tea,” ars <m>a màthair</m>. [...]</gd>
+                        <tr>She was a hundred years old and him twenty two. He was just a month or
+                            two out of the university. Her daughter was living with her. She was
+                            eighty. He thought that the old woman was in a way livelier than her
+                            daughter. [......] “Why did you not die fifty years ago,” shouted Mary.
+                            She was still thinking about those matters! “Hurry up with the tea,”
+                            said her mother. [...]</tr>
+                        <ref text="400-46">td. 169–71, le Iain Mac a’ Ghobhainn</ref>
+                        <note>feminine</note>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+            <p lang="en">Biblical examples – <xl id="noun-family-bible-xs">
+                    <li>
+                        <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig do’n Eiphit;
+                            thàinig gach duine agus <m>a theaghlach</m> maille re Iacob: Reuben,
+                            Simeon, Lebhi, agus Iudah, Isachar, Sebulun, agus Beniamin, Dan, agus
+                            Naphtali, Gad, agus Aser. Agus na h-anman uile a thàinig a mach a
+                            leasraidh Iacoib, bu deich agus tri fichead anam iad; oir bha Ioseph
+                            ’san Eiphit a cheana. Agus fhuair Ioseph bàs, agus <m>a bhràithrean
+                                uile</m>, agus an ginealach sin uile. [...]</gd>
+                        <tr>Now these are the names of the children of Israel, which came into
+                            Egypt; every man and his household came with Jacob. Reuben, Simeon,
+                            Levi, and Judah, Issachar, Zebulun, and Benjamin, Dan, and Naphtali,
+                            Gad, and Asher. And all the souls that came out of the loins of Jacob
+                            were seventy souls: for Joseph was in Egypt already. And Joseph died,
+                            and all his brethren, and all that generation. [...] [KJV]</tr>
+                        <ref text="160">Ecsodus I.1–6</ref>
+                        <note>bound variable, masculine; uile as modifier</note>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+            <module id="generalised-family">
+                <h lang="en">also</h>
+                <h lang="gd">...</h>
+                <p lang="en">Biblical examples – <xl id="noun-generalised-family-bible-xs">
+                        <li>
+                            <gd>[...] A nis dh’éirich righ ùr air an Eiphit, do nach b’aithne
+                                Ioseph. Agus thubhairt e <m>r’a shluagh</m>, Feuch, tha sluagh
+                                chloinn Israeil ni’s lìonmhoire agus ni’s cumhachdaiche na sinne.
+                                [......] Agus thug Pharaoh àithne <m>d’a shluagh uile</m>, ag ràdh,
+                                Gach mac a bheirear tilgidh sibh ’san abhainn, agus gach nighean
+                                gleidhidh sibh beo.</gd>
+                            <tr>[...] Now there arose up a new king over Egypt, which knew not
+                                Joseph. And he said unto his people, Behold, the people of the
+                                children of Israel are more and mightier than we: [......] And
+                                Pharaoh charged all his people, saying, Every son that is born ye
+                                shall cast into the river, and every daughter ye shall save alive.
+                                [KJV]</tr>
+                            <ref text="160">Ecsodus I.8–22</ref>
+                            <note>fused</note>
+                        </li>
+                    </xl>
+                </p>
+                <p lang="gd">...</p>
+            </module>
+        </module>
+        <module id="body">
+            <h>body parts</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="body-older-pedag">
+                            <li>
+                                <gd>Tha Iain a’ ruith sìos an rathad leis an litir <m>’na làimh</m>. </gd>
+                                <tr>John is running down the road with the letter in his hand. </tr>
+                                <ref text="621">td. 5</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li>examples from Gairm – <xl id="noun-body-gairm-xs">
+                            <li>
+                                <gd>[...] Chaidil e airson greiseag ’s nuair a dhùisg e anns a’
+                                    mhadainn bha <m>a bheul</m> salach le blas an uisge-bheatha.
+                                    Choisich e mach ás a’ bhàta a-measg nam faoileagan, ga[n]
+                                    sguabadh air falbh le <m>a làmhan</m>, agus lean e air suas an
+                                    aon rathad a bh’ ann gus an ruigeadh e an tigh. [...]</gd>
+                                <tr>[...] He slept for a bit and when he woke up in the morning his
+                                    mouth was dirty with the taste of the whisky. He walked out of
+                                    the boat among the gulls, brushing them away with his hands, and
+                                    he continued up the only road that there was until he reached
+                                    the house. [...]</tr>
+                                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                                <note>masculine</note>
+                            </li>
+                            <li>
+                                <gd>[...] Cha robh e duilich tigh Maireid a lorg. [...] Bha Mairead
+                                    ’na suidhe ann an cathair ris an teine is plaide timcheall air
+                                        <m>a glùinean</m>. Bha Màiri a’ deanamh na dìnneir. [...]
+                                    “Rinn e òran dhomh,” ars a’ chailleach mu dheireadh. Bha <m>a
+                                        sùilean</m> mar shùilean faoileig. [...] “’Se Sasunnach a
+                                    bh’ ann,” ars ise le prois, ’s thainig facail a-mach ás <m>a
+                                        beul</m> mar mhionnan, “darling,” “come back,” “remember.”
+                                    Chunnaic e Màiri a’ tionndadh <m>a ceann</m> air falbh ’s
+                                    dh’aithnich e airson a’ chiad uair mar a tha an aois beò ann an
+                                    rìoghachd gun nàire. [...]</gd>
+                                <tr>[...] It was not difficult to find Margaret’s house. [...]
+                                    Margaret was sat in a chair by the fire with a blanket around
+                                    her knees. Mary was making the dinner. [...] “He sang me a
+                                    song,” said the old woman eventually. Her eyes were like a
+                                    gull’s eyes. [...] “He was an Englishman,” she said with pride,
+                                    and words came out from her mouth like curses, [...]. He saw
+                                    Mary turning her head away and he realised for the first time
+                                    how old age is alive in a kingdom without shame [??]. [...]</tr>
+                                <ref text="400-46">td. 169–70, le Iain Mac a’ Ghobhainn</ref>
+                                <note>feminine</note>
+                            </li>
+                            <li>
+                                <gd>[...] “Rinn e òran dhomh,” ars a’ chailleach mu dheireadh. [...]
+                                    “Rinn e òran dhomh. Oran briagha.” Thainig lasadh de bhòidhchead
+                                    charach <m>’na h-aodann</m>. “Cha robh sinn ach fichead bliadhna
+                                    a dh’ aois.” [...] “Chan eil diofar ann,” arsa Màiri mu
+                                    dheireadh. An robh deòirean leanabail <m>’na sùilean</m>?
+                                    [...]</gd>
+                                <tr>[...] “He sang me a song,” said the old woman eventually. [...]
+                                    “He sang me a song. A beautiful song.” A glimmer of sly beauty
+                                    came in [over] her face. “We were just twenty years of age.”
+                                    [...] “It makes no difference,” said Mary eventually. Were there
+                                    childlike tears in her eyes? [...]</tr>
+                                <ref text="400-46">td. 170–1, le Iain Mac a’ Ghobhainn</ref>
+                                <note>fused, feminine</note>
+                            </li>
+                        </xl></li>
+                </ul>
+            </p>
+            <p lang="gd">...</p>
+            <module id="generalised-body">
+                <h lang="en">also</h>
+                <h lang="gd">...</h>
+                <p lang="en">Examples from Gairm – <xl id="noun-generalised-body-gairm-xs">
+                        <li>
+                            <gd>[...] “Rinn e òran dhomh,” ars a’ chailleach mu dheireadh. Bha a
+                                sùilean mar shùilean faoileig. “Ist,” arsa Màiri, “chan eil ....”
+                                “Ist fhéin,” ars a’ chailleach le <m>a guth leanabail</m>, “chan eil
+                                annad ach leanabh.” [...] An greiseag eile thubhairt i, “Tha thìd
+                                aig an tea a bhith deiseil.” Dh’fhàs <m>a guth</m> na bu làidir.
+                                [...]</gd>
+                            <tr>[...] “He sang me a song,” said the old woman eventually. Her eyes
+                                were like a gull’s eyes. “Wheesht,” said Mary, “[he] isn’t ....”
+                                “Wheesht yourself,” said the old woman with her childlike voice,
+                                “you are just a child.” [...] After another while she said, “It’s
+                                time the tea was ready.” Dh’fhàs a guth na bu làidir. Her voice grew
+                                louder.</tr>
+                            <ref text="400-46">td. 170–1, le Iain Mac a’ Ghobhainn</ref>
+                        </li>
+                        <li>
+                            <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha
+                                fhios gun dig iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C.
+                                [...] Anns an aon fhacal chuireamaid fàilte air Fread MacAmhlaidh a
+                                tha a’ togail an eallaich. Tha sinn eòlach air <m>a ghuth</m> agus
+                                air obair, agus ghuidheamaid gach soirbheachadh leis.</gd>
+                            <tr>During the seasons and the years that are ahead of us, it is known
+                                that many changes will come to the Gaelic Department of the BBC.
+                                [...] In the same word we would welcome Fred MacAulay who is taking
+                                up the burden. We know his voice and his work, and we would wish him
+                                every success.</tr>
+                            <ref text="400-48">td. 297, ‘Air an Spiris’</ref>
+                        </li>
+                        <li>
+                            <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n
+                                Ghàidhlig no do fhoghlum agus do litreachas na Gàidhlig. Cuin a
+                                chualas ball-Pàrlamaid a’ togail <m>a ghuth</m> a dh’ iarraidh
+                                leasachaidh do staid Gàidhlig ann an Albainn? Am bi cothrom a nis
+                                aig cuideigin <m>a ghuth</m> a thogail, anns an t-suidheachadh
+                                iongantach a th’ againn anns a’ Phàrlamaid ùr?</gd>
+                            <tr>[...] The Parliament has given very little assistance ever to the
+                                Gaelic language or to Gaelic education and literature. When has a
+                                member of Parliament been heard raising his voice to demand
+                                improvement for the state of Gaelic in Scotland? Will someone have
+                                an opportunity now to raise his voice, in the unexpected situation
+                                we have in the new Parliament?</tr>
+                            <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                            <note>grammatically masculine</note>
+                        </li>
+                    </xl></p>
+                <p lang="gd">...</p>
+            </module>
+        </module>
+        <module id="noun-other">
+            <h lang="en">other</h>
+            <h lang="gd">eile</h>
+            <p lang="en">Examples from Gairm – <xl id="noun-other-gairm-xs">
+                    <li>
+                        <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha fhios
+                            gun dig iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C. Dh’ fhàg
+                            Eóghan Mac-a- phì <m>a sheula fhéin</m> air an Roinn sin, agus air a’
+                            Bh.B.C. an Albainn gu h-iomlan, agus air dha a nis <m>a dhreuchd</m> a
+                            leigeil dheth, dh’ iarramaid taing a thoirt dha airson gach seirbhis a
+                            thug e do ar cànain, is ghuidheamaid dhà saorsainn is toileachas <m>’na
+                                shaorsa</m>, agus obair ás ùr anns na raointean a thaghas e. Anns an
+                            aon fhacal chuireamaid fàilte air Fread MacAmhlaidh a tha a’ togail an
+                            eallaich. Tha sinn eòlach air a ghuth agus air <m>obair</m>, agus
+                            ghuidheamaid gach soirbheachadh leis.</gd>
+                        <tr>During the seasons and the years that are ahead of us, it is known that
+                            many changes will come to the Gaelic Department of the BBC. Ewan MacPhee
+                            has left his own stamp on that Department, and on the BBC in Scotland as
+                            a whole, and after him now giving up his job, we would ask for thanks to
+                            be given him for all the service he has given to our language, and wish
+                            him liberty and pleasure in his freedom, and new work in the areas that
+                            he will choose. In the same word we would welcome Fred MacAulay who is
+                            taking up the burden. We know his voice and his work, and we would wish
+                            him every success.</tr>
+                        <ref text="400-48">td. 297, ‘Air an Spiris’</ref>
+                    </li>
+                    <li>
+                        <gd>Bha beagan airgid aige ’s mar sin chaith e <m>a bheatha</m> a’
+                            sgrìobhadh, gun feum aige air obair eile a dhèanamh.</gd>
+                        <tr>He had a little money and therefore <u>he</u> devoted <u>his</u> life to
+                            writing, without the need to do other work.</tr>
+                        <ref text="400-41">td. 103</ref>
+                        <note>reflexive ie. himself’s</note>
+                    </li>
+                </xl></p>
+            <p lang="gd">...</p>
+            <p>Other examples from modern usage – <xl id="other">
+                    <li>
+                        <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe
+                            taidhcùn. [...] Bha seachdnar de theaghlach aige, ceathrar mhac agus
+                            triùir nighean, agus bha a h-uile fear is tè anns a’ mhalairt ach Rob.
+                            B’ e Rob a b’ òige agus lean e an sgoil. Nuair a ràinig e an t-oilthigh
+                            bha càch airson gun ionnsaicheadh e cunntasachd, a bhiodh feumail anns
+                            a’ mhalairt, ach ’s ann a bha <m>ùidh-san</m> ann an ealain. Dh’fhàg e
+                            an t-oilthigh agus chaidh e do sgoil ealain. [...]</gd>
+                        <tr>Thomas is the only crofter I know who has risen to the status of a
+                            tycoon. [...] He had a family of seven, four sons and three daughters,
+                            and every man and woman was in the business except Rob. Rob was the
+                            youngest and he stayed on at school. When he reached the university the
+                            others wanted him to learn accountancy, which would be useful in the
+                            business, but his interest was in art. He left the university and went
+                            to an art school. [...]</tr>
+                        <ref text="2">td. 5</ref>
+                        <note>Not represented in writing.</note>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="compound_prepositions">
+            <h lang="en">prepositional compounds</h>
+            <h lang="gd">...</h>
+            <p lang="en">Examples from Gairm – <xl id="noun-compound-prep-gairm-xs">
+                    <li>
+                        <gd>[...] ’Se madainn bhòidheach foghair a bh’ ann—tioram, le ceileir eòin,
+                            is beagan dealt air an fheur. Bha a[m] muir ’s na tighean ag éirigh á
+                            inntinn an latha. Cha robh e fhéin a’ faireachdainn uabhasach math, oir,
+                            air a’ bhàta, bha triùir dhaoine le botul uisge-bheatha agus cha robh
+                            càil <m>air a shon</m> ach gu feumadh e òl ’nan cuideachd. [...]</gd>
+                        <tr>[...] It was a beautiful autumn morning – dry, with the chirping of
+                            birds, and a little dew on the grass. The sea and the houses were rising
+                            from the mind of the day [??]. He was not feeling terribly good,
+                            because, on the boat, there were three men with a bottle of whisky and
+                            there was nothing for it but that we would have to drink in their
+                            company. [...]</tr>
+                        <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                        <note>masculine</note>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+    </module>
+    <module id="infinitive">
+        <h lang="en">infinitives</h>
+        <h lang="gd">...</h>
+        <p lang="en">Examples from Gairm – <xl id="inf-gairm-xs">
+                <li>
+                    <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios
+                        os cionn obair a’ Chomuinn. [...] Cha b’ fhuilear do dhuine de ’n t-seòrsa
+                        so tomhas mhath de chumhachd a bhith aige. Cha dean math dha a bhith <m>air
+                            a shlaodadh</m> aig tòin Coimitidh, ach feumaidh an Coimitidh earbsa a
+                        bhith aca ás. [...]</gd>
+                    <tr>The Highland Society is talking about choosing a new General who will
+                        oversee the Society’s work. [...] A person of this kind would have to have a
+                        good measure of power. It would do him no good to be dragged along by the
+                        Committee <ed>??</ed>, but the Committee must have trust in him. [...]</tr>
+                    <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                    <note>hypothetical, infinitive, passive, grammatically masculine</note>
+                </li>
+                <li>
+                    <gd>[...] “Dé ’n innleachd a th’ agad an sin?” arsa fear aca ris. “Clàr airson
+                        guthan,” fhreagair e, “tape-recorder.” “Eil thu ’g iarraidh <m>a chur</m>
+                        air,” dh’fhaighnich e. “Uh? chan eil na!” Ach bha e sealltainn ri Iain mar
+                        gum biodh tùr iongantach aige. [...]</gd>
+                    <tr>“What is the machine that you have there?” said one of them to him. “A
+                        recorder for voices.” he replied, “tape recorder.” “Do you want to put it
+                        on,” he asked. “Uh? No!” But he was looking at John as if he were surprised
+                        [?]. [...] </tr>
+                    <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+            </xl></p>
+        <p lang="gd">...</p>
+        <module id="fused">
+            <h lang="en">fused with prepositions</h>
+            <h lang="gd">...</h>
+            <p lang="en">Examples from Gairm – <xl id="inf-fused-gairm-xs">
+                    <li>
+                        <gd>[...] Cha robh e duilich tigh Maireid a lorg. [...] Bha Mairead <m>’na
+                                suidhe</m> ann an cathair ris an teine is plaide timcheall air a
+                            glùinean. Bha Màiri a’ deanamh na dìnneir. [...]</gd>
+                        <tr>[...] It was not difficult to find Margaret’s house. [...] Margaret was
+                            sat in a chair by the fire with a blanket around her knees. Mary was
+                            making the dinner. [...]</tr>
+                        <ref text="400-46">td. 169–70, le Iain Mac a’ Ghobhainn</ref>
+                        <note>resultative</note>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+    </module>
+
+
+
+</module>

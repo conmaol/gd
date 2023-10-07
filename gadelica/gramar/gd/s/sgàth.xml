@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title lang="en">sgàth</title>
+  <title lang="gd">sgàth</title>
+  <p lang="en"><strong>air sgàth</strong> <en>because of</en> – <ulx id="air_sgath">
+      <lix>
+        <gd>Ann an Dùn Èideann anns na naochadan bha barrachd agus barrachd inbhich airson Gàidhlig ionnsachadh agus ged a nochd mòran chlasaichean agus cùrsaichean Gàidhlig airson iarrtasan nan
+          daoine sin a fhreagradh, bha ionnsachadh na Gàidhlig ga bhacadh gu mòr <m>air sgàth dìth shuidheachaidhean</m> far an cluinnear an cànan ga bruidhinn gu nàdarra.</gd>
+        <tr>In Edinburgh in the 90s there were more and more people wanting to learn Gaelic and although a lot of Gaelic classes and courses sprang up to respond to the demands of those people, Gaelic
+          learning was largely inhibited <u>because of lack of situations</u> where one could hear the language spoken naturally.</tr>
+        <ref text="610">td. 85</ref>
+      </lix>
+    </ulx>
+  </p>
+
+
+</module>

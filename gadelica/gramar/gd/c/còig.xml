@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>còig</h>
+  <p><b>còig</b>
+    <en>five, 5</en> is a <a href="?xx=nouns/numerals">numeral</a>.</p>
+  <p>cf. <a href="?gd=deich&amp;mod=coig_deug">còig deug</a>
+    <en>fifteen, 15</en>.</p>
+
+  <p lang="en">Examples from Gairm – <xl id="gairm">
+      <li>
+        <gd>Ma rannsaicheas sinn air ais fada gu leòir chì sinn nach robh sgoilean anns an Oban gus
+          an ochdamh linn deug. Bha an sgoil bheag a b’ fhaisge air anns a’ Chill Mhóir <m>cóig mìle
+            air falbh</m>, agus tha e coltach gu robh an sgoil sin air an fheadhainn bu shine an
+          Earra-Ghaidheal.</gd>
+        <tr>If we research back long enough we will see that there were no schools in Oban until the
+          eighteenth century. The closest little school was in Kilmore five miles away, and it
+          appears that that school was one of the oldest in Argyll.</tr>
+        <ref text="400-20">td. 363</ref>
+      </li>
+    </xl>
+  </p>
+
+
+  <module id="coigeamh">
+    <h>còigeamh</h>
+    <p><b>còigeamh</b>
+      <en>fifth, 5th</en> is an ordinal, with suffix <a href="?gd=_amh">-(e)amh</a>.</p>
+  </module>
+
+  <module id="coignear">
+    <h>còignear</h>
+    <p><b>còignear</b>
+      <en>five people</en> is a masculine <a href="?xx=nouns/numeric_nouns">numeric noun</a>.</p>
+  </module>
+
+  <module id="caogad">
+    <h>caogad</h>
+    <p><b>caogad</b>
+      <en>fifty, 50</en> is a modern derived <a href="?xx=nouns/numeric_base_nouns">numeric base
+        noun</a>.</p>
+    <module id="na_caogadan">
+      <h>na caogadan</h>
+      <p><b>na caogadan</b>
+        <en>the fifties, the 50s</en></p>
+    </module>
+  </module>
+
+</module>

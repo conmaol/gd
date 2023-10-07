@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>toponymic common nouns</h>
+    <p>Toponymic commons nouns are <a href="?xx=nouns/common_nouns">common nouns</a> that describe
+        classes of (bounded) space.</p>
+    <p>cf. <a href="?gd=sgìre">sgìre(achd)</a>
+        <en>district</en>, <a href="?gd=croit">croit</a>
+        <en>croft</en>, <a href="?gd=Gàidheal">Gàidhealtachd</a>, <a
+            href="?xx=nouns/architectonic_common_nouns">architectonic common nouns</a>.</p>
+</module>

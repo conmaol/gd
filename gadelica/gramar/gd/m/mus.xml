@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">mus</h>
+    <h lang="gd">mus</h>
+    <p lang="en">Corpus examples – <xl id="exs">
+            <li>
+                <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os
+                    cionn obair a’ Chomuinn. [...] Cha b’ fhuilear do dhuine de ’n t-seòrsa so
+                    tomhas mhath de chumhachd a bhith aige. [...] Bhiodh a leòr aige ri dhèanamh an
+                    toiseach ag ath-nuadhachadh dreach a’ Chomuinn. Tha móran ri dhèanamh ris a’
+                    Mhòd <m>mus</m> beir e air linn an telebhisean, no eadhon air linn an
+                    réidio [...]</gd>
+                <tr>The Highland Society is talking about choosing a new General who will oversee
+                    the Society’s work. [...] A person of this kind would have to have a good
+                    measure of power. [...] He would have enough to do initially reforming the
+                    Society. There is much to do at the Mod <u>before</u> it catches up with
+                        <ed>??</ed> the era of television, or even with the era of radio [...]</tr>
+                <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>

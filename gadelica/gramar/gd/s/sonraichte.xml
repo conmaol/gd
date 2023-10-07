@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">sonraichte</h>
+    <h lang="gd">sonraichte</h>
+    <p lang="en">Corpus examples – <xl id="exs">
+            <li>
+                <gd>Bha grunnan de ar luchd-leughaidh an dùil, nuair a nochd an àireamh mu dheireadh
+                    de Ghairm, gu robh sin a’ strì ri buidheann <m>shònraichte</m>, no duine
+                        <m>sònraichte</m>, a chur do ’n Phàrlamaid, agus bha wèireichean an telefon
+                    gu math teth, uair no dhà, an déidh dhuinn tighinn o ’n chlò. Thog iad ceàrr
+                    sinn.</gd>
+                <tr>Some of our readers were expecting [?], when the last issue of Gairm appeared,
+                    that that was striving to send a <u>particular</u> group [party?], or a
+                        <u>particular</u> person, to the Parliament, and the telephone wires were
+                    pretty hot, for an hour or two [once or twice?], after we came from the
+                    printers. They misunderstood us.</tr>
+                <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>

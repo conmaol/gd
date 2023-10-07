@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>bho</h>
+  <p><g>bho</g>
+    <en>from</en> is the (leniting) ablative <a href="?xx=prepositions/prepositions"
+    >preposition</a>.</p>
+
+  <section>
+    <h>forms</h>
+    <section id="indefinite">
+      <h>indefinite</h>
+      <p>The default form of the ablative preposition is simply <g>bho</g> – <ul>
+          <li><m>bho</m> thaigh <en>from a house</en></li>
+          <li><m>bho</m> aislingean <en>from dreams</en></li>
+          <li><m>bho</m> Nirribhidh <en>from Norway</en></li>
+          <li><m>bho</m> thrì làithean <en>from three days</en></li>
+        </ul></p>
+      <p>Note that all forms of the ablative preposition can be spelled without the initial
+          <g>bh-</g> ie. <g>o</g>, <g>on</g>, <g>om</g>, <g>uam</g>, ...</p>
+    </section>
+    <section id="definite">
+      <h>definite</h>
+      <p>When the immediately following word is a singular form of the definite article, the linking
+        form <g>bhon</g> is used – <ul>
+          <li><m>bhon an</m> taigh <en>from the house</en></li>
+          <li><m>bhon a’</m> bhaile <en>from the town</en></li>
+        </ul> But – <ul>
+          <li><m>bho na h-</m>aislingean <en>from the dreams</en>, rather than <bad>bhon na
+              h-aislingean</bad></li>
+        </ul>
+      </p>
+      <p>Note that <g>bhon an</g> and <g>bhon a’</g> often reduce to just <g>bhon</g> – <g>bhon
+          taigh</g>, <g>bhon bhaile</g>.</p>
+      <!--
+      <p><g>bhon</g> is used in a range of other vowel-initial contexts as well – <ul>
+          <li><g>bhon a-màireach</g>
+            <en>from tomorrow</en></li>
+          <li><g>bhon a h-uile ...</g>
+            <en>from every ...</en></li>
+          <li><g>bhon a bheil ...</g>
+            <en>out of which ...</en></li>
+        </ul>
+      </p>
+      -->
+      <p>Fused forms are sometimes found when the immediately following word is a <a
+          href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+          <li><m>bho mo</m> thaigh <en>from my house</en> ≈ <g>bhom</g> thaigh</li>
+          <li><m>bho do</m> bhaile <en>from your town</en> ≈ <g>bhod</g> bhaile</li>
+          <li><m>bho a h-</m>òran <en>from her song</en> ≈ <g>bho h-</g>òran</li>
+          <li><m>bho a</m> chraoibh <en>from his tree</en> ≈ <g>bho</g> chraoibh</li>
+          <li><m>bho ar n-</m>achadh <en>from our field</en> ≈ <g>bhar n-</g>achadh</li>
+          <li><m>bho ur</m> leapannan <en>from your beds</en> ≈ <g>bhur</g> leapannan</li>
+          <li><m>bho an</m> taighean <en>from their houses</en> ≈ <g>bhon</g> taighean</li>
+          <li><m>bho am</m> baile <en>from their town</en> ≈ <g>bhom</g> baile</li>
+        </ul></p>
+      <p>Note that these fused forms are rather awkward and sometimes ambiguous and hence are best
+        avoided in writing nowadays.</p>
+    </section>
+    <section id="pronouns">
+      <h>prepositional pronouns</h>
+      <p>Conjugated prepositions are used in place of <bad>bho mi</bad>, <bad>bho thu</bad>, ... ,
+          <bad>bho iad</bad> – <ul>
+          <li><m>bhuam</m>
+            <en>from me</en></li>
+          <li><m>bhuat</m>
+            <en>from you</en></li>
+          <li><m>bhuaipe</m>
+            <en>from her/it</en></li>
+          <li><m>bhuaithe</m>
+            <en>from him/it</en></li>
+          <li><m>bhuainn</m>
+            <en>from us</en></li>
+          <li><m>bhuaibh</m>
+            <en>from you</en></li>
+          <li><m>bhuapa</m>
+            <en>from them</en></li>
+        </ul>
+      </p>
+      <p>There are also emphatic forms (cf. <bad>bho mise</bad>, <bad>bho thusa</bad>, ... ,
+          <bad>bho iadsan</bad>) – <ul>
+          <li><m>bhuamsa</m>
+            <en>from <emph>me</emph></en></li>
+          <li><m>bhuatsa</m>
+            <en>from <emph>you</emph></en></li>
+          <li><m>bhuaipese</m>
+            <en>from <emph>her/it</emph></en></li>
+          <li><m>bhuaithe-san</m>
+            <en>from <emph>him/it</emph></en></li>
+          <li><m>bhuainne</m>
+            <en>from <emph>us</emph></en></li>
+          <li><m>bhuaibhse</m>
+            <en>from <emph>you</emph></en></li>
+          <li><m>bhuapasan</m>
+            <en>from <emph>them</emph></en></li>
+        </ul>
+      </p>
+      <p>Finally, there are also reflexive forms (cf. <bad>bho mi fhìn</bad>, <bad>bho thu
+          fhèin</bad>, ... , <bad>bho iad fhèin</bad>) – <ul>
+          <li><m>bhuam fhìn</m>
+            <en>from myself</en></li>
+          <li><m>bhuat fhèin</m>
+            <en>from yourself</en></li>
+          <li><m>bhuaipe fhèin</m>
+            <en>from herself/itself</en></li>
+          <li><m>bhuaithe fhèin</m>
+            <en>from himself/itself</en></li>
+          <li><m>bhuainn fhìn</m>
+            <en>from ourselves</en></li>
+          <li><m>bhuaibh fhèin</m>
+            <en>from yourselves</en></li>
+          <li><m>bhuapa fhèin</m>
+            <en>from themselves</en></li>
+        </ul>
+      </p>
+    </section>
+  </section>
+
+  <section>
+    <h>dependents</h>
+    <section id="deps-comps">
+      <h>complements</h>
+      <module status="bronze" id="bho_chionn">
+        <h>bho chionn ...</h>
+        <p><g>bho <a href="?gd=ceann">chionn</a></g>
+          <en>ago</en></p>
+      </module>
+    </section>
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section id="uses-comp">
+      <h>complement</h>
+      <module status="bronze" id="rach_bho">
+        <h>rach bho ...</h>
+        <p><g><a href="?gd=rach">rach</a> bho ...</g>
+          <en>go from somewhere</en>
+        </p>
+      </module>
+      <module status="bronze" id="thig_bho">
+        <h>thig bho ...</h>
+        <p><g><a href="?gd=thig">thig</a> bho ...</g>
+          <en>come from somewhere</en> – <ul>
+            <li>Examples from Gairm – <xl id="thig_bho-gairm">
+                <li>
+                  <gd>Bha grunnan de ar luchd-leughaidh an dùil, nuair a nochd an àireamh mu
+                    dheireadh de Ghairm, gu robh sin a’ strì ri buidheann shònraichte, no duine
+                    sònraichte, a chur do ’n Phàrlamaid, agus bha wèireichean an telefon gu math
+                    teth, uair no dhà, an déidh dhuinn <m>tighinn o ’n chlò</m>. Thog iad ceàrr
+                    sinn.</gd>
+                  <tr>Some of our readers were expecting [?], when the last issue of Gairm appeared,
+                    that that was striving to send a particular group [party?], or a particular
+                    person, to the Parliament, and the telephone wires were pretty hot,for an hour
+                    or two [once or twice?], after we came from the printers. They misunderstood
+                    us.</tr>
+                  <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                </li>
+              </xl></li>
+          </ul>
+        </p>
+
+      </module>
+    </section>
+  </section>
+
+
+</module>
+<!--
+<module>
+  <title>bho</title>
+  <p><strong>bho</strong> is a preposition meaning <en>from</en>.</p>
+  <hr/>
+  <h4>Temporal uses of <mark>bho</mark></h4>
+  <p>Some temporal uses of <strong>bho</strong> are –</p>
+  <ol>
+    <li>Introducing an adverbial of temporal limit, modifying a imperfective verb and locating the initial boundary of the state or activity –
+      <ol type="a">
+        <li><en>from</en> – the state/activity either starts in the future (<mark>bidh i aig an taigh bho 8f</mark> <en>she will be at home from 8pm</en>), 
+          or starts in the past and does not continue to the present (<mark>bha i aig an taigh bho 8f</mark> <en>she was at home from 8pm</en> <boxlink ref="#fromTime"/></li>
+        <li><en>since</en> – the state/activity starts in the past and continues up to the present – <mark>tha i aig an taigh bho 8f</mark> <en>she has been at home since 8pm</en> <boxlink ref="#sinceTime"/></li>
+      </ol>
+    </li>
+    <li>In the adverb of frequency <strong>bho àm gu àm</strong> <en>from time to time, occasionally</en> –
+      <mark>bho àm gu àm rachadh e dhan bhaile mhòr</mark> <en>from time to time he would go to the city</en>
+      <boxlink ref="#frequency"/></li>
+  </ol>
+  
+  <box id="fromTime">
+    <title><mark>bho</mark> = <en>from (when)</en></title>
+    <p>Where <strong>bho</strong> governs the noun <strong>àm</strong> <en>time</en> –</p>
+    <xl>
+      <li>2979</li>
+      <li>2990</li>
+    </xl>
+    <p>Where <strong>bho</strong> governs a noun denoting an event –</p>
+    <xl>
+      <li>3015</li>
+    </xl>
+  </box>
+  
+  <box id="sinceTime">
+    <title><mark>bho</mark> = <en>since (when)</en></title>
+    <xl>
+      <li>3013</li>
+      <li>3020</li>
+      <li>3016</li>
+    </xl>
+  </box>
+  
+  
+  <box id="frequency">
+    <title>bho àm gu àm</title>
+    <p><en>from time to time, occasionally</en></p>
+    <xl>
+      <li>2981</li>
+      <li>2986</li>
+      <li>3014</li>
+      <li>2998</li>
+    </xl>
+  </box>
+  -->

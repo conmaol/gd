@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>gu(s) – prospective aspect</h>
+    
+    <p>When <g>gu</g> governs an infinitive (verbal noun), and is itself the predicate of
+        the verb <a href="?gd=bi"><g>bi</g></a>, it can mark <a href="?q=verbal_aspect">prospective
+            aspect</a> – <en>about to / on the point/verge of / almost</en> – <ul>
+            <li>Bha Raonaid ... <en>Rachel was ...</en>
+                <ul>
+                    <li>... <m>gu gnogadh</m> air an doras. <en>... about to knock on the
+                        door</en></li>
+                    <li>... <m>gu snàmh</m> anns an abhainn. <en>... about to swim in the
+                        river</en></li>
+                    <li>... <m>gu tuiteam</m>. <en>... about to fall</en></li>
+                    <li>... <m>gu seòladh</m> dhachaigh. <en>... about to sail home</en></li>
+                </ul>
+            </li>
+        </ul>
+    </p>
+   
+    <p>Intransitive examples from dictionaries and grammars – <xl id="intrans-xs-dictionaries">
+            <li>
+                <gd>Tha sinn <m>gu falbh</m>.</gd>
+                <tr>We’re (just) about to go.</tr>
+                <ref text="605">td. 220</ref>
+            </li>
+            <li>
+                <gd>Bha e <m>gu toirt thairis</m>.</gd>
+                <tr>He was on the point of giving up.</tr>
+                <ref text="601">td. 347</ref>
+                <note>Thug e thairis. <en>He tired himself out.</en></note>
+            </li>
+            <li>
+                <gd>Bha i <m>gu fannachadh</m> leis an teas.</gd>
+                <tr>She was almost fainting with the heat.</tr>
+                <ref text="601">td. 347</ref>
+            </li>
+            <li>
+                <gd>Tha mi <m>gu spreadhadh</m>.</gd>
+                <tr>I am almost bursting (with food).</tr>
+                <ref text="609">td. 161</ref>
+            </li>
+            <li>
+                <gd>Tha e <m>gu bristeadh</m>.</gd>
+                <tr>It is about to break.</tr>
+                <ref text="609">td. 161</ref>
+            </li>
+        </xl>
+    </p>
+    
+    <p>Intransitive corpus examples – <xl id="intrans-xs-corpus">
+            <li>
+                <gd>Ach fuirichibh oirbh, naidheachd ùr á ASTRAILIA. Tha na caoraich a nis a’
+                    faotainn “perm”, mun teid an rùsgadh. [...] Ma bha gearain air cuid de na fir,
+                    mu chosg perm nam mnatha, ’s ann a <m>tha an là gu thighinn orra</m> nuair a
+                    dh’fheumas na caoraich iad.</gd>
+                <tr>But wait – breaking news from Australia. The sheep are getting “perms” now,
+                    before they are shorn. [...] If some of the menfolk had complaints about the
+                    cost of their wives’ perms, the day is about to come [upon them] when the sheep
+                    will need them [too].’</tr>
+                <ref text="400-24">td. 355</ref>
+                <note>Why the lenition in ‘gu thighinn’?</note>
+            </li>
+            <li>
+                <gd>Nan robh an latha air a dhol leis an riaghaltas an Dun-Eideann chan eil teagamh
+                    nach robh iad air a’ Ghaidhealtachd ’s a’ Ghàidhlig a sgrios gu tur, ’s cha
+                    bhiodh air fhàgail ach ainmean-àiteachan troimh ’n deanadh na h-àil ri teachd
+                    tuairmeas air an eachdraidh. [...] B’ ann mar sin a thachair an Arcaibh agus an
+                    Sealtainn agus chan eil air fhàgail ach cànan is litreachas nam Faroes gu taobh
+                    na fìrinn a ghleidheadh. Ach cha robh e <m>gu tachairt</m> sa’ Ghaidhealtachd
+                    airson trì cheud bliadhna eile.</gd>
+                <tr>If the government in Edinburgh had won the day, they would undoubtedly have
+                    completely destroyed the Highlands and the Gaelic, and only place names would
+                    have been left for future generations to speculate about their history. [...]
+                    That is what happened in Orkney and Shetland and there is nothing left but the
+                    language and literature of the Faroes to support the truth. But that was not to
+                    happen in the Highlands for another three hundred years.</tr>
+                <ref text="400-34">td. 125</ref>
+            </li>
+            <li>
+                <gd>Nuair a bha a’ chòmhrag seachad, fhuair Galatea òrdugh a dhol air ais gu
+                    Portsmouth, ach on a bha an dìon a bh’ air Caolas Dhòbhair air a lagachadh,
+                    bhiodh e iomchaidh a cur timcheall ceann a tuath Alba, sìos an cuan Sgìth, agus
+                    troimh ’n Chuan Eireannach. Cha robh Torcuil air a bhean no an leanabh fhaicinn
+                    o chionn seachd bliadhna, agus nuair a thuig e far an robh iad <m>gu
+                    seòladh</m>, bha e ’na thoileachas dha gum biodh dùil aige ri sealladh fhaighinn
+                    do Loch Odhairn agus baile Ghrabhair.</gd>
+                <tr>When the battle was over, Galatea was ordered to return to Portsmouth, but since
+                    the defence of the Strait of Dover had been weakened, it would be preferable to
+                    take her around the northern end of Scotland, down the Minch and through the
+                    Irish Sea. Torquil had not seen his wife or their child for seven years, and
+                    when he realised where they were to sail, he was pleased that he could hope to
+                    see Loch Odhairn and the village of Gravir.</tr>
+                <ref text="400-144">td. 348</ref>
+            </li>
+        </xl>
+    </p>
+    
+    <p>When the verb is transitive, the form <g>gus</g> is used instead, and the object
+        inverted – <ul>
+            <li>Tha Seumas ... <en>James is ...</en>
+                <ul>
+                    <li>... <m>gus</m> (am) biadh <m>ithe</m>. <en>... about to eat (the)
+                        food</en></li>
+                    <li>... <m>gus</m> (an) drochaid <m>a ruigsinn</m>. <en>... about to reach the
+                            bridge</en></li>
+                    <li>... <m>gus</m> (an t-)òran <m>a ghabhail</m>. <en>... about to sing a (the)
+                            song</en></li>
+                </ul>
+            </li>
+        </ul>
+        <xl id="trans-xs">
+            <li>
+                <gd>Nuair a thòisich a’ chlann ri bruidhinn an toiseach bha sinn <m>gus a h-uile
+                        oidhirp a dhèanamh</m> agus faclan coigreach a chumail uapa.</gd>
+                <tr>When the children started talking at first we were about [ready?] to make every
+                    effort to keep the foreign words away from them.</tr>
+                <ref text="400-48">td. 345</ref>
+            </li>
+            <li>
+                <gd>Bha i <m>gus an t-uan a chur còmhla ri mhàthair</m> a-rithist ach ràin Màiri
+                    Bheag cho goirt is nach robh air a’ chùis ach an t-uan a leigeadh air feadh an
+                    taighe na fianuis.</gd>
+                <tr>She was about to put the lamb together with its mother again but little Mary
+                    cried so bitterly that there was no other choice but let the lamb [be] all over
+                    the house so that she could see it.</tr>
+                <ref text="400-105">td. 81</ref>
+            </li>
+            <li>
+                <gd>Tha mi <m>gus mo chiall a chall</m> is gun fios agam ciod e nì mi.</gd>
+                <tr>I am about to lose my senses and do not know what I shall do.</tr>
+                <ref text="400-142">td. 118</ref>
+            </li>
+            <li>
+                <gd>Bha e <m>gus</m> a mhun <m>a chall</m> ag èisteachd riutha.</gd>
+                <tr>He was nearly wetting himself listening to them.</tr>
+                <ref text="605">td. 220</ref>
+            </li>
+        </xl>
+    </p>
+    
+    <p>Examples where <g>gus</g> is used with an intransitive verb – <xl
+            id="intrans-gus-xs">
+            <li>
+                <gd>Tha an tea <m>gus tarraing</m>, is théid mi g’a h-iarraidh dhuibh.</gd>
+                <tr>The tea is about to brew and I’ll go to get it for you.</tr>
+                <ref text="400-31">td. 199</ref>
+                <note>The tea is about to <emph>finish</emph> brewing.</note>
+            </li>
+            <li>
+                <gd>Bha e <m>gus tuiteam</m> leis an sgìos agus cha robh e air càil ithe o chionn dà
+                    latha.</gd>
+                <tr>He was about to collapse with tiredness and he had not eaten anything for two
+                    days.</tr>
+                <ref text="400-45">td. 46</ref>
+            </li>
+            <li>
+                <gd>Ach an cànan ionadail aige fhèin tha e <m>gus bàsachadh</m>. Cànan a bh’ aca san
+                    fhàsach bho chionn fhada, ’s chan eil mòran ga bhruidhinn an-diugh.</gd>
+                <tr>But his own local language is about to die. A language they had in the desert a
+                    long time ago and not many speak it now.</tr>
+                <ref text="400-154">td. 157</ref>
+            </li>
+        </xl>
+    </p>
+    
+    <p>cf. <g>bi gu bhith ...</g>
+        <en>be about to be ... / be almost/nearly ...</en> – <ul>
+            <li>Tha Màiri <m>gu bhith</m> deiseil. <en>Mary is nearly ready.</en></li>
+            <li>Tha an t-uisge <m>gu bhith</m> ann. <en>It’s about to rain.</en></li>
+        </ul>
+        <xl id="gu_bhith-xs">
+            <li>
+                <gd>... mura robh muinntir a’ bhaile <m>gu bhith</m> a’ faighinn buannachd às</gd>
+                <tr>... unless the townspeople were to be benefitting from it</tr>
+                <ref text="601">td. 347</ref>
+                <note>Same as ‘about to be benefitting’?</note>
+            </li>
+            <li>
+                <gd>Tha iad <m>gu bhith</m> deiseil.</gd>
+                <tr>They are almost ready.</tr>
+                <ref text="609">td. 161</ref>
+            </li>
+        </xl>
+    </p>
+    
+    <p>cf. Other markers of prospective aspect – <a href="?gd=impis">an impis</a>, <a
+            href="?gd=lunn">air lunn</a>, <a href="?gd=beul">air bheul</a>, <a href="?gd=tuar">air
+            thuar</a> (evidential).</p>
+    
+</module>

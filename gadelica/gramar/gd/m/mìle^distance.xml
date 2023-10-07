@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>mìle</h>
+    <p><g>mìle</g>
+        <en>mile</en> is a common noun.</p>
+    <p lang="en">Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>Ma rannsaicheas sinn air ais fada gu leòir chì sinn nach robh sgoilean anns an
+                    Oban gus an ochdamh linn deug. Bha an sgoil bheag a b’ fhaisge air anns a’ Chill
+                    Mhóir <m>cóig mìle air falbh</m>, agus tha e coltach gu robh an sgoil sin air an
+                    fheadhainn bu shine an Earra-Ghaidheal.</gd>
+                <tr>If we research back long enough we will see that there were no schools in Oban
+                    until the eighteenth century. The closest little school was in Kilmore five
+                    miles away, and it appears that that school was one of the oldest in
+                    Argyll.</tr>
+                <ref text="400-20">td. 363</ref>
+            </li>
+        </xl>
+    </p>
+</module>

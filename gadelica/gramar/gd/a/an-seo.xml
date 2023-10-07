@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>an·seo</h>
+    <p><g>an·seo</g>
+        <en>here, at this place</en> is a demonstrative adverb, derived from the speaker-proximal
+        demonstrative pronoun <a href="?gd=seo"><g>seo</g></a>
+        <en>this (one)</en>.</p>
+    <p><g>an·seo</g> contrasts with <a href="?gd=an-sin"><g>an·sin</g></a>
+        <en>there</en> (proximal to the hearer) and <a href="?gd=an-siud"><g>an·siud</g></a>
+        <en>over there</en> (proximal to neither speaker nor hearer). </p>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>predicate</h>
+            <p>Pedagogical examples – <xl id="predicate-pedag">
+                    <li>
+                        <gd>Tha Dòmhnall an seo. | Tha iad an seo. | Tha sinn an seo. | Chan eil iad
+                            an seo. | A bheil Iain an seo?</gd>
+                        <tr>Donald is here. | They are here. | We are here. | They are not here. |
+                            Is John here?</tr>
+                        <ref text="609">td. 1, 195, 4</ref>
+                    </li>
+                </xl>
+            </p>
+            <section>
+                <h>existential</h>
+                <p>Pedagogical examples – <xl id="existential-pedag">
+                        <li>
+                            <gd>Tha cat an seo.</gd>
+                            <tr>There is a cat here.</tr>
+                            <ref text="609">td. 2, 7</ref>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+        </section>
+        <section>
+            <h>adverbial</h>
+            <p>Pedagogical examples – <xl id="adverbial-pedag">
+                    <li>
+                        <gd>A bheil taigh aig Seumas an seo? | Tha e toilichte an seo. | Tha deoch
+                            agam an seo. | Th basaidh agam an seo.</gd>
+                        <tr>Does James have a house here? | He is happy here. | I have a drink here.
+                            | I’ve got a basin here.</tr>
+                        <ref text="609">td. 7, 19</ref>
+                        <note>locative adverbial</note>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="compounds">
+            <h>compounds</h>
+            <module>
+                <h>a-bhos an·seo</h>
+                <p><g>an·seo</g> can be emphasised with (indefinite) <a href="?gd=a-bhos"
+                            ><g>a-bhos</g></a>
+                    <en>over here</en>.</p>
+                <p>Pedagogical examples – <xl id="a-bhos-pedag">
+                        <li>
+                            <gd>Tha Màiri a-bhos an seo.</gd>
+                            <tr>Mary is over here.</tr>
+                            <ref text="609">td. 31</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+        <section id="complement">
+            <h>complement</h>
+            <module status="bronze" id="thig_an-seo">
+                <h>thig an·seo</h>
+                <p><g><a href="?gd=thig">thig</a> an·seo</g>
+                    <en>come here</en> – <ul>
+                        <li>pedagogical examples – <xl id="uses-thig-pedag">
+                                <li>
+                                    <gd>Na tig(ibh) an seo.</gd>
+                                    <tr>Don’t come here.</tr>
+                                    <ref text="609">td. 42</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </module>
+        </section>
+    </section>
+</module>

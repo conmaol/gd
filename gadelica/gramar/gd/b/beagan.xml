@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h lang="en">beagan</h>
+  <h lang="gd">beagan</h>
+  <p lang="en"><b>beagan</b>
+    <en>small amount, little, few</en> is a masculine <a href="?xx=nouns/generic_quantity_nouns"
+      >generic quantity noun</a>, derived from the adjective <a href="?gd=beag">beag</a>
+    <en>small, little</en>.</p>
+  <p lang="en">In terms of the stuff being quantified, <b>beagan</b> generally works like other
+    generic quantity nouns – <ul>
+      <li>When the stuff being quantified is new information, it is usually expressed as a noun
+        modifier/specifier of <b>beagan</b>, either the genitive singular of a mass noun or the
+        genitive plural of a count noun eg. <ul>
+          <li>Dh’òl Raonaid <m>beagan <u>fìona</u></m>. <en>Rachel drank a little wine.</en></li>
+          <li>Tha <m>beagan <u>chon</u></m> aig Màiri. <en>Mary has a few dogs.</en></li>
+        </ul>
+        <xl id="beagan_specifier">
+          <li>
+            <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no do
+              fhoghlum agus do litreachas na Gàidhlig. Cuin a chualas ball-Pàrlarnaid a’ togail a
+              ghuth a dh’ iarraidh leasachaidh do staid Gàidhlig ann an Albainn? Am bi cothrom a nis
+              aig cuideigin a ghuth a thogail, anns an t-suidheachadh iongantach a th’ againn anns
+              a’ Phàrlamaid ùr? Chan eil sinn ag iarraidh air an duine so, ma tha e ann, a’
+              Ghàidhlig a chur air thoiseach air lòn is obair is caitheamh-beatha an t-sluaigh. Chan
+              eil sinn ag iarraidh ach <m>beagan ceartais</m>.</gd>
+            <tr>[...] The Parliament has given very little assistance ever to the Gaelic language or
+              to Gaelic education and literature. When has a member of Parliament been heard raising
+              his voice to demand improvement for the state of Gaelic in Scotland? Will someone have
+              an opportunity now to raise his voice, in the unexpected situation we have in the new
+              Parliament? We are not asking of this person, if he exists, >to prioritise Gaelic over
+              food and jobs and the population’s standard of living. We only want <u>a modicum of
+                justice</u>.</tr>
+            <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+          </li>
+          <li>
+            <gd>[...] ’Se madainn bhòidheach foghair a bh’ ann—tioram, le ceileir eòin, is <m>beagan
+                dealt air an fheur</m>. Bha a[m] muir ’s na tighean ag éirigh á inntinn an latha.
+              [...]</gd>
+            <tr>[...] It was a beautiful autumn morning – dry, with the chirping of birds, and a
+              little dew on the grass. The sea and the houses were rising from the mind of the day
+              [??]. [...]</tr>
+            <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+          </li>
+          <li>
+            <gd>Bha <m>beagan airgid</m> aige ’s mar sin chaith e a bheatha a’ sgrìobhadh, gun feum
+              aige air obair eile a dhèanamh.</gd>
+            <tr>He had <u>a little money</u> and therefore he devoted his life to writing, without
+              the need to do other work.</tr>
+            <ref text="400-41">td. 103</ref>
+          </li>
+          <li>
+            <gd>An e seo mo bheatha, arsa mise rium fhìn. A’ dol dhachaidh le beagan deocha orm air
+              an rathad seo air a bheil mi cho eòlach, ann am baile far a bheil mi air a bhith
+              fuireach airson bliadhnachan.</gd>
+            <tr>Is this my life, I said to myself. Going home with a little drink in me on this road
+              which I know so well, in a village where I have lived for years.</tr>
+            <ref text="198">td. 54</ref>
+          </li>
+          <li>
+            <gd>Gun teagamh, dh’fheumadh tu beagan eòlais airson nan dreuchdan ud.</gd>
+            <tr>Without doubt, you would have to have a little expertise for those jobs.</tr>
+            <ref text="2">td. 27</ref>
+          </li>
+          <li><gd>Chan eil ach beagan chàirdean aige.</gd>
+            <tr>He only has a few friends.</tr><ref text="605">td. 43</ref>
+          </li>
+        </xl>
+      </li>
+      <li>When the stuff being quantified is already known, it is usually introduced by the
+        partitive preposition <a href="?gd=de">de</a>
+        <en>of</en> governing a specified (ie. ‘definite’) noun eg. <ul>
+          <li>Dh’òl Raonaid <m>beagan <u>den fhìon</u></m>. <en>Rachel drank a little of the
+              wine.</en></li>
+          <li>Cheannaich Màiri <m>beagan <u>de mo choin</u></m>. <en>Mary bought a few of my
+              dogs.</en></li>
+        </ul>
+      </li>
+      <li>When the stuff being quantified is already known, and has just been referred to, or can be
+        inferred, <b>beagan</b> can occur on its own eg. <ul>
+          <li>Dh’òl Raonaid <m>beagan</m>. <en>Rachel drank a little.</en></li>
+          <li>Tha <m>beagan</m> aig Màiri. <en>Mary has a few.</en></li>
+        </ul>
+        <xl id="beagan">
+          <li>
+            <gd>’S ann a’ call bu tric’ a bha Uisdean, agus ged a bha e fhèin is Sandaidh a’ cosnadh
+              beagan an-dràsta ’s a-rithist, ’s ann a’ dol dhan toll a bha iad am bitheantas.</gd>
+            <tr>Hugh lost [money] frequently, and although he and Sandy earned a little now and
+              again, they were usually in debt.</tr>
+            <ref text="2">td. 55</ref>
+          </li>
+        </xl>
+      </li>
+      <li>Alternatively, <b>beagan</b> can be followed by one of the <a href="?gd=de">de</a>
+        prepositional pronouns eg. <ul>
+          <li>Dh’òl Raonaid <m>beagan <u>dheth</u></m>. <en>Rachel drank a little of it.</en></li>
+          <li>Tha <m>beagan <u>dhiubh</u></m> aig Màiri. <en>Mary has a few of them.</en></li>
+        </ul>
+      </li>
+      <li><b>beagan mu (dheidhinn)</b>
+        <en>a little [information/knowledge] about some topic</en> eg. <ul>
+          <li>Tha Màiri ag iarraidh cluinntinn <m>beagan <u>mu choin</u></m>. <en>Mary wants to hear
+              a little about dogs.</en></li>
+        </ul>
+      </li>
+      <li><b>beagan ri (dhèanamh)</b>
+        <en>a little to do</en> eg. <ul>
+          <li>Tha <m>beagan <u>ri dhèanamh</u></m> aig Raonaid. <en>Rachel has a little to
+            do.</en></li>
+        </ul>
+      </li>
+    </ul>
+  </p>
+  <p lang="en">However, there is some variation in usage to be found here. <xl
+      id="beagan_de_variation">
+      <li>
+        <gd>Ged a bha a’ ghrian air a dhol fodha, bha am feasgar blàth, ciùin, agus bha beagan de
+          cheò air cruinneachadh sna h-àitichean ìosal.</gd>
+        <tr>Although the sun had set, the evening was warm and calm, and a little mist had settled
+          in the low-lying areas.</tr>
+        <ref text="2">td. 44</ref>
+      </li>
+    </xl>
+  </p>
+  <p><b>beagan</b> can also be used to modify a comparative adjective eg. <ul>
+      <li>Tha Seumas <m>beagan nas beairtiche</m> na tha Dòmhnall. <en>James is a little richer than
+          Donald [is].</en></li>
+    </ul>
+    <xl id="beagan_nas">
+      <li>
+        <gd>“Spunc,” ars esan a rithist, ’s e tighinn beagan na b’fhaisge orm.</gd>
+        <tr>“Spunk,” he said again, coming a little closer to me.</tr>
+        <ref text="198">td. 39</ref>
+      </li>
+      <li>
+        <gd>“Tha e beagan nas aosta na mi fhìn,” arsa mise, “’s chaidh an aghaidh aige a losgadh sa
+          chogadh.”</gd>
+        <tr>“He is a little older than me,” I said, “and his face had been burned in the war.”</tr>
+        <ref text="2">td. 47</ref>
+      </li>
+    </xl>
+  </p>
+  <p>And sometimes a non-comparative adjective as well. <xl id="beagan_sgith">
+      <li>
+        <gd>Tha mi a’ faireachdainn beagan sgìth ma dh’fhaodte.</gd>
+        <tr>I am feeling a little [bit] tired perhaps.</tr><ref text="601">td. 43</ref>
+      </li>
+    </xl>
+  </p>
+  <p><b>beagan</b> can be emphasised by <b>fìor</b>. <xl id="fior_bheagan">
+      <li><gd>Cha do choinnich sinn ach fìor bheagan de mhuinntir a’ bhaile.</gd>
+        <tr>We met but very few of the townspeople.</tr><ref text="601">Mark (2004) td.
+        67</ref></li>
+    </xl></p>
+  <p>Miscellaneous usages – <ul>
+      <li>beagan eile <en>a little more</en>
+        <xl id="beagan_eile">
+          <li><gd>Cha bu mhiste seo beagan eile <m>de</m> chùram.</gd>
+            <tr>This would be none the worse of a little more care.</tr><ref text="601">td.
+            67</ref></li>
+        </xl></li>
+      <li>am beagan <en>the little</en>
+        <xl id="am_beagan">
+          <li><gd>... a’ gluasad anns a’ bheagan gaoithe ...</gd>
+            <tr>... moving on the little wind (that there was) ...</tr><ref text="603">Watson (2001)
+              td. 43</ref></li>
+          <li><gd>Thug e am beagan a bha aige fhèin seachad do chàch.</gd>
+            <tr>He gave the little [that] he had himself to others.</tr><ref text="601">Mark (2004)
+              td. 67</ref></li>
+        </xl>
+      </li>
+      <li>with prepositions or adverbs <xl id="beagan_ro">
+          <li><gd>... beagan ro àm an Dealachaidh ...</gd>
+            <tr>... a little before the time of the Schism ...</tr><ref text="601">td. 67</ref></li>
+          <li><gd>... beagan shìos fodham ...</gd>
+            <tr>... a little below me ...</tr><ref text="601">td. 67</ref></li>
+          <li><gd>... beagan os cionn ...</gd>
+            <tr>... a cut above ...</tr><ref text="601">td. 67</ref></li>
+        </xl></li>
+      <li>beagan is <en>a little more than</en>
+        <xl id="beagan_is">
+          <li><gd>Bha am balla beagan is còig troighean.</gd>
+            <tr>The wall was a little more than five feet.</tr><ref text="601">td. 67</ref></li>
+          <li><gd>Chan eil ach beagan is seachdain bhon d’fhuair iad e.</gd>
+            <tr>It’s only a little over a week since they got it.</tr><ref text="601">td.
+            67</ref></li>
+        </xl></li>
+      <li>a lìon beagan is beagan little by little <xl id="a_lion_beagan_is_beagan">
+          <li><gd>A lìon beagan is beagan mar a dh’ith an cat an sgadan.</gd>
+            <tr>Little by little as the cat ate the herring.</tr><ref text="601">td. 67</ref></li>
+        </xl>
+      </li>
+      <li>bi air bheagan + gen have a little of something <xl id="bi_air_bheagan">
+          <li><gd>Bha feadhainn a bha air bheagan Gàidhlig.</gd>
+            <tr>There were some who had little Gaelic.</tr><ref text="601">td. 67–8</ref></li>
+          <li><gd>Bha iad air bheagan bidh(e).</gd>
+            <tr>They had little food.</tr><ref text="601">td. 68</ref></li>
+          <li><gd>Tha mi coma ged a bhithinn air bheagan bìdh.</gd>
+            <tr>I don’t care if I would have little food.</tr><ref text="601">td. 68</ref></li>
+          <li><gd>Bha e air bheagan maith.</gd>
+            <tr>It was of little worth.</tr><ref text="601">td. 68</ref></li>
+          <li><gd>duine air bheagan tuaireim/cèille</gd>
+            <tr>a man of little sense</tr><ref text="601">td. 68</ref></li>
+          <li><gd>air bheagan adhbhair</gd>
+            <tr>for little reason</tr><ref text="601">td. 68</ref></li>
+        </xl></li>
+    </ul>
+  </p>
+
+</module>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h lang="en">numeric base nouns</h>
+  <h lang="gd">ainmearan</h>
+  <p lang="en">Numeric base nouns are a kind of <a href="?xx=nouns/common_nouns">common noun</a> used in
+      <a href="?xx=nouns/numeric_quantity_expressions">numeric quantity expressions</a>.</p>
+  <p lang="gd">...</p>
+  <p lang="en">cf. <a href="?gd=dusan">dusan</a>
+    <en>dozen</en>, <a href="?gd=fichead">fichead</a>
+    <en>twenty</en>, <a href="?gd=lethcheud">lethcheud</a>
+    <en>fifty</en>, <a href="?gd=ceud">ceud</a>
+    <en>hundred</en>, ...</p>
+  <p><a href="?gd=naoi">naochad</a> <en>ninety, 90</en></p>
+  <p lang="gd">...</p>
+  <p lang="en">Numeric base nouns only occur with count nouns.</p>
+  <p lang="gd">...</p>
+</module>

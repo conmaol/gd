@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>Caimbeul</h>
+    <p>[to come]</p>
+    <module id="Caimbeulach">
+        <h>Caimbeulach</h>
+        <p><b>Caimbeulach</b> is a derived adjective.</p>
+        <module id="Caimbeulach-noun">
+            <h>Caimbeulach – noun</h>
+            <p><b>Caimbeulach</b> is an <a href="?xx=nouns/ethnonymic_common_nouns">ethnonymic
+                    common noun</a>.</p>
+        </module>
+    </module>
+
+</module>

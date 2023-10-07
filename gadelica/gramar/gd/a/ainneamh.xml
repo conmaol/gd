@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>ainneamh</h>
+  <p><b>ainneamh</b>
+    <en>infrequent, rare, uncommon</en> is a <a href="?xx=adjectives/adjectives">adjective</a>.</p>
+  <module id="is_ainneamh">
+    <h>is ann ainneamh a</h>
+    <p>Examples from modern usage – <xl id="modern">
+        <li>
+          <gd>Tha dà bhliadhna bho nach do chaidil i nam leabaidh-sa. <m>’S ann ainneamh a tha i san
+              aon taigh rium.</m></gd>
+          <tr>It’s two years since she slept in my bed. She is rarely in the same house as me.</tr>
+          <ref text="2">td. 105</ref>
+        </li>
+      </xl></p>
+  </module>
+</module>

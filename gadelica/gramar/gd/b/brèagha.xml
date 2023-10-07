@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>brèagha</h>
+    <p><g>brèagha</g>
+        <en>beautiful</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>modifier</h>
+            <p>Some examples – <ul>
+                    <li><g><a href="?gd=latha">latha</a> brèagha</g> <en>a lovely day</en> – <ul>
+                            <li>older pedagogical examples – <xl id="latha-older-pedag">
+                                    <li>
+                                        <gd>Bha an <m>latha</m> <m>brèagha</m> blàth is thug an athair leis Iain
+                                            agus Anna anns a’ chàr. Chaidh iad sìos taobh an locha
+                                            is stad iad aig àite bòidheach gorm. [...]</gd>
+                                        <tr>The day was lovely and warm and their father took John
+                                            and Ann in the car. They went down the side of the lake
+                                            and they stopped at a beautiful green place. [...]</tr>
+                                        <ref text="621">td. 6</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+
+</module>

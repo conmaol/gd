@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>tòisich</h>
+    <p><g>tòisich</g>
+        <en>start, begin, commence, inaugurate, launch, originate</en> is a (regular) <a
+            href="?xx=verbs/verbs">verb</a>, derived from the noun <a href="?gd=toiseach"
+                ><g>toiseach</g></a>, and with verbal noun <g>tòiseachadh</g>
+        <masc/>
+        <g>tòisich</g> marks <a href="?q=verbal_aspect">inchoative</a> verbal aspect, cf. <a
+            href="?gd=teann"><g>teann</g></a>
+        <en>begin, start</en>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>tòisich</g> are – <ul>
+                <li><m>tòisichidh</m> – future independent ie. <en>will start</en></li>
+                <li><m>thòisich</m> – past independent ie. <en>started</en></li>
+                <li><m>tòiseachadh</m> – verbal noun ie. <en>starting</en></li>
+            </ul>
+        </p>
+        <section id="tense">
+            <h>tense</h>
+            <p>
+                <ul>
+                    <li>past <ul id="past">
+                            <li>active <ul>
+                                    <li>independent – <m>thòisich</m></li>
+                                    <li>relative – a <m>thòisich</m></li>
+                                    <li>dependent – cha/an/nach <m>do thòisich</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>thòisicheadh</m></li>
+                                    <li>relative – a <m>thòisicheadh</m></li>
+                                    <li>dependent – cha/an/nach <m>do thòisicheadh</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>future <ul id="future">
+                            <li>active <ul>
+                                    <li>independent – <m>tòisichidh</m></li>
+                                    <li>relative – a <m>thòisicheas</m></li>
+                                    <li>dependent – cha/an/nach <m>tòisich</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>tòisichear</m></li>
+                                    <li>relative – a <m>thòisichear</m></li>
+                                    <li>dependent – cha/an/nach
+                                            <m>tòisichear</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>conditional <ul id="conditional">
+                            <li>active <ul>
+                                    <li>first person singular <ul>
+                                            <li>independent – <m>thòisichinn</m></li>
+                                            <li>relative – a <m>thòisichinn</m></li>
+                                            <li>dependent – cha/an/nach
+                                                  <m>tòisichinn</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>first person plural <ul>
+                                            <li>independent – <m>thòisicheamaid</m></li>
+                                            <li>relative – a <m>thòisicheamaid</m></li>
+                                            <li>dependent – cha/an/nach
+                                                  <m>tòisicheamaid</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>second/third persons <ul>
+                                            <li>independent – <m>thòisicheadh</m></li>
+                                            <li>relative – a <m>thòisicheadh</m></li>
+                                            <li>dependent – cha/an/nach
+                                                  <m>tòisicheadh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>thòisichte</m></li>
+                                    <li>relative – a <m>thòisichte</m></li>
+                                    <li>dependent – cha/an/nach
+                                        <m>tòisichte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+
+
+        <!--
+        <p>The full forms of <g>tòisich</g> are – 
+            
+            
+                    
+                </ul>
+                </li>
+                <hr/>
+                <li>independent <ul id="independent">
+                    <li>past <ul>
+                        <li>active – <m>thòisich</m></li>
+                        <li>passive – <m>thòisicheadh</m></li>
+                    </ul>
+                    </li>
+                    <li>future <ul>
+                        <li>active – <m>tòisichidh</m></li>
+                        <li>passive – <m>tòisichear</m></li>
+                    </ul>
+                    </li>
+                    <li>conditional <ul>
+                        <li>active <ul>
+                            <li>first person singular – <m>thòisichinn</m></li>
+                            <li>first person plural – <m>thòisicheamaid</m></li>
+                            <li>second/third persons – <m>thòisicheadh</m></li>
+                        </ul>
+                        </li>
+                        <li>passive – <m>thòisichte</m></li>
+                    </ul>
+                    </li>
+                </ul>
+                </li>
+                <li>relative <ul id="relative">
+                    <li>past <ul>
+                        <li>active – a <m>thòisich</m></li>
+                        <li>passive – a <m>thòisicheadh</m></li>
+                    </ul>
+                    </li>
+                    <li>future <ul>
+                        <li>active – a <m>thionlas</m></li>
+                        <li>passive – a <m>thòisichear</m></li>
+                    </ul>
+                    </li>
+                    <li>conditional <ul>
+                        <li>active <ul>
+                            <li>first person singular – a <m>thòisichinn</m></li>
+                            <li>first person plural – a <m>thòisicheamaid</m></li>
+                            <li>second/third persons – a <m>thòisicheadh</m></li>
+                        </ul>
+                        </li>
+                        <li>passive – a <m>thòisichte</m></li>
+                    </ul>
+                    </li>
+                </ul>
+                </li>
+                <li>dependent <ul id="dependent">
+                    <li>past <ul>
+                        <li>active – cha/an/nach <m>do thòisich</m></li>
+                        <li>passive – cha/an/nach <m>do thòisicheadh</m></li>
+                    </ul>
+                    </li>
+                    <li>future <ul>
+                        <li>active – cha <m>thòisich</m>, an/nach <m>tòisich</m></li>
+                        <li>passive – cha <m>thòisichear</m>, an/nach <m>tòisichear</m></li>
+                    </ul>
+                    </li>
+                    <li>conditional <ul>
+                        <li>active <ul>
+                            <li>first person singular – cha <m>thòisichinn</m>, an/nach
+                                <m>tòisichinn</m></li>
+                            <li>first person plural – cha <m>thòisicheamaid</m>, an/nach
+                                <m>tòisicheamaid</m></li>
+                            <li>second/third persons – cha <m>thòisicheadh</m>, an/nach
+                                <m>tòisicheadh</m></li>
+                        </ul>
+                        </li>
+                        <li>passive – cha <m>thòisichte</m>, an/nach <m>tòisichte</m></li>
+                    </ul>
+                    </li>
+                </ul>
+                </li>
+                <hr/>
+                <li>active <ul id="active">
+                    <li>past <ul>
+                        <li>independent – <m>thòisich</m></li>
+                        <li>relative – a <m>thòisich</m></li>
+                        <li>dependent – cha/an/nach <m>do thòisich</m></li>
+                    </ul>
+                    </li>
+                    <li>future <ul>
+                        <li>independent – <m>tòisichidh</m></li>
+                        <li>relative – a <m>thionlas</m></li>
+                        <li>dependent – cha <m>thòisich</m>, an/nach <m>tòisich</m></li>
+                    </ul>
+                    </li>
+                    <li>conditional <ul>
+                        <li>independent <ul>
+                            <li>first person singular – <m>thòisichinn</m></li>
+                            <li>first person plural – <m>thòisicheamaid</m></li>
+                            <li>second/third persons – <m>thòisicheadh</m></li>
+                        </ul>
+                        </li>
+                        <li>relative <ul>
+                            <li>first person singular – a <m>thòisichinn</m></li>
+                            <li>first person plural – a <m>thionlmaid</m></li>
+                            <li>second/third persons – a <m>thòisicheadh</m></li>
+                        </ul>
+                        </li>
+                        <li>dependent <ul>
+                            <li>first person singular – cha <m>thòisichinn</m>, an/nach
+                                <m>tòisichinn</m></li>
+                            <li>first person plural – cha <m>thòisicheamaid</m>, an/nach
+                                <m>tòisicheamaid</m></li>
+                            <li>second/third persons – cha <m>thòisicheadh</m>, an/nach
+                                <m>tòisicheadh</m></li>
+                        </ul>
+                        </li>
+                    </ul>
+                    </li>
+                </ul>
+                </li>
+                <li>passive <ul id="passive">
+                    <li>past <ul>
+                        <li>independent – <m>thòisicheadh</m></li>
+                        <li>relative – a <m>thòisicheadh</m></li>
+                        <li>dependent – cha/an/nach <m>do thòisicheadh</m></li>
+                    </ul>
+                    </li>
+                    <li>future <ul>
+                        <li>independent – <m>tòisichear</m></li>
+                        <li>relative – a <m>thòisichear</m></li>
+                        <li>dependent – cha <m>thòisichear</m>, an/nach <m>tòisichear</m></li>
+                    </ul>
+                    </li>
+                    <li>conditional <ul>
+                        <li>independent – <m>tòisichte</m></li>
+                        <li>relative – a <m>thòisichte</m></li>
+                        <li>dependent – cha <m>thòisichte</m>, an/nach <m>tòisichte</m></li>
+                    </ul>
+                    </li>
+                </ul>
+                </li>
+                <hr/>
+                <li>imperative <ul id="imperative">
+                    <li>independent <ul>
+                        <li>first person singular – <m>tionlam</m>!</li>
+                        <li>second person singular – <m>tòisich</m>!</li>
+                        <li>first person plural – <m>tòisicheamaid</m>!</li>
+                        <li>second person plural – <m>tionlaibh</m>!</li>
+                        <li>third person – <m>tòisicheadh</m>!</li>
+                        <li>passive – <m>tòisich(t)ear</m>!</li>
+                    </ul>
+                    </li>
+                    <li>dependent <ul>
+                        <li>first person singular – na <m>tionlam</m>!</li>
+                        <li>second person singular – na <m>tòisich</m>!</li>
+                        <li>first person plural – na <m>tòisicheamaid</m>!</li>
+                        <li>second person plural – na <m>tionlaibh</m>!</li>
+                        <li>third person – na <m>tòisicheadh</m>!</li>
+                        <li>passive – na <m>tòisich(t)ear</m>!</li>
+                    </ul>
+                    </li>
+                </ul>
+                </li>
+                <hr/>
+                <li>verbal noun – <m>tional</m> (also <m>tionaladh</m>, <m>tòisicht</m>)</li>
+            </ul>
+            
+        </p>
+        -->
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section id="deps-sbj">
+            <h>subject</h>
+            <p>The subject of <g>tòisich</g> is generally a noun expression denoting a human (or animal) – <ul>
+                    <li><m>Thòisich mi an-dè.</m>
+                        <en>I started yesterday.</en></li>
+                </ul>
+            </p>
+            <p>Sometimes the subject of <g>tòisich</g> can be more abstract – <ul>
+                    <li><m>Thòisich an sneachd.</m>
+                        <en>The snow began.</en></li>
+                </ul>
+            </p>
+        </section>
+        <section id="deps-comp">
+            <h>complements</h>
+            <section id="deps-comps-none">
+                <h>strict intransitive</h>
+                <p><g>tòisich</g> can occur without any complements, as a strict intransitive verb – <ul>
+                        <li><m>Thòisich sinn an-dè.</m>
+                            <en>We started yesterday.</en></li>
+                        <li><m>Thòisich an sneachd.</m>
+                            <en>The snow began.</en></li>
+                    </ul>
+                </p>
+                <p>Some examples – <ul id="deps-comp-none-exs">
+                        <li>human subjects – <ul>
+                                <li>examples from modern usage – <xl id="toisich-intrans-anim-other">
+                                        <li>
+                                            <gd>“<m>’N urrainn dhut tòiseachadh a-màireach?</m>” ars
+                                                an duine. [...] “Uill, bruidhinn ri do mhàthair,
+                                                agus ma tha i deònach, <m>faodaidh tu tòiseachadh
+                                                  a-màireach</m>.”</gd>
+                                            <tr>“Can you start tomorrow?” said the man. [...] “Well,
+                                                speak to your mother, and if she is willing, you may
+                                                start tomorrow.”</tr>
+                                            <ref text="2">td. 10–12</ref>
+                                        </li>
+                                        <li>
+                                            <gd>Bha a h-uile duine a dh’aithnicheadh e a’
+                                                smaoineachadh gu robh beatha shòlasach aig Ailig
+                                                Smart. Bha feadhainn a’ dèanamh fealla-dhà air ainm,
+                                                ag ràdh ‘Smart Ailig’, ach cha robh an sin ach
+                                                farmad. <m>Thòisich e na bhalach le aon eathar
+                                                  ghiomach ag obair a-mach à Malaig</m>, agus aig an
+                                                àm seo bha e air a mheas na dhuine beairteach. Bha
+                                                trì bàtaichean mòr aige, agus bha e a’ reic iomadh
+                                                seòrsa maoraich anns an Fhraing agus anns an Spàinn.
+                                                [...]</gd>
+                                            <tr>Everybody who got to know him thought that Alec
+                                                Smart had a good life. Some people made fun of his
+                                                name, saying ‘Smart Alec’, but there was nothing
+                                                there but envy. He started as a boy with one lobster
+                                                boat working out of Mallaig, and at this time he had
+                                                been regarded as a wealthy man. He had three large
+                                                boats, and he was selling many types of shellfish in
+                                                France and in Spain. [...]</tr>
+                                            <ref text="2">td. 103</ref>
+                                            <note>tòisich le ... ? tòisich ag ... ?</note>
+                                        </li>
+                                        <li>
+                                            <gd>Bha iad air ais <m>far na thòisich iad</m>, ag obair
+                                                an-dràsta ’s a-rithist airson tuarasdal, agus a’
+                                                caitheamh sin air eich, pools is uisge-beatha.</gd>
+                                            <tr>They were back where they had started, working now
+                                                and again for money, and spending that on horsel,
+                                                pool and whisky.</tr>
+                                            <ref text="2">td. 58</ref>
+                                        </li>
+                                    </xl></li>
+                            </ul>
+                        </li>
+                        <li>abstract subjects – <ul>
+                                <li>examples from modern usage – <xl
+                                        id="toisich-intrans-inanim-other">
+                                        <li>
+                                            <gd><m>Thòisich an cabhadh</m> ach chum Dan e fhèin
+                                                blàth a’ smaoineachadh air taigh Magaidh, an teine
+                                                mòr fosgailte a bh’ ann, agus an drama a bhiodh aice
+                                                dha.</gd>
+                                            <tr>The snow started but Dan kept himself warm thinking
+                                                about Maggie’s house, the big open fire that was
+                                                there, and the dram that she would have for
+                                                him.</tr>
+                                            <ref text="2">td. 124</ref>
+                                        </li>
+                                    </xl></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </p>
+            </section>
+            <section id="deps-comps-trans">
+                <h>transitive</h>
+                <p><g>tòisich</g> can occur with a noun expression as direct object, as a transitive
+                    verb – <xl id="toisich-trans-pedag">
+                        <li>
+                            <gd>Is dòcha gur e rud beag a thòisich an teine.</gd>
+                            <tr>Perhaps it was a small thing which started the fire.</tr>
+                            <ref text="601">td. 592</ref>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+            <section>
+                <h>prepositions</h>
+                <module status="bronze" id="toisich_air">
+                    <h>tòisich air ...</h>
+                    <p>With a noun – <ul>
+                            <li>pedagogical examples – <xl id="toisich_air_noun-pedag">
+                                    <li>
+                                        <gd>Tòisichidh sinn air an treabhadh a-màireach.</gd>
+                                        <tr>We’ll make a start at the ploughing tomorrow.</tr>
+                                        <ref text="605">td. 380</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Cha mhòr gun do thòisich mi air an obair nuair a nochd
+                                            iad.</gd>
+                                        <tr>I had hardly started on the job when they showed
+                                            up.</tr>
+                                        <ref text="601">td. 592–3</ref>
+                                    </li>
+                                </xl></li>
+                            <li>examples from modern usage – <xl id="toisich_air_noun-other">
+                                    <li>
+                                        <gd><m>Tòisichidh mise air an taigh-cruite Diluain</m>, thig
+                                            na permits air an ath sheachdain uaireigin.</gd>
+                                        <tr>I’ll start on the croft-house on Monday, the permits
+                                            will come some time next week.</tr>
+                                        <ref text="328">td. 27</ref>
+                                    </li>
+                                </xl></li>
+                        </ul>
+                    </p>
+                    <p>With an infinitive – <ul>
+                            <li>pedagogical examples – <xl id="toisich_air_inf-pedag">
+                                    <li>
+                                        <gd>Thòisich e air seinn.</gd>
+                                        <tr>He started singing / started to sing.</tr>
+                                        <ref text="601">td. 592</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Thòisich iad air cuid den t-sluagh a bhualadh is a
+                                            mharbhadh.</gd>
+                                        <tr>They began to smite and kill some of the people.</tr>
+                                        <ref text="601">td. 593</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Thòisich iad air na feusgain a bhuain.</gd>
+                                        <tr>They began to gather the mussels.</tr>
+                                        <ref text="601">td. 593</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Nuair a thòisichear air do chàineadh ...</gd>
+                                        <tr>When you begin to be reviled ...</tr>
+                                        <ref text="601">td. 592</ref>
+                                        <note>‘when one will begin to revile you’</note>
+                                    </li>
+                                </xl></li>
+                        </ul>
+                        <!--
+                        <box id="air">
+                            <title>tòisich air rud</title>
+                            <xl>
+                                <li>3222</li>
+                                <li>3230</li>
+                                <li>3233</li>
+                                <li>3503</li>
+                                <li>3504</li>
+                            </xl>
+                        </box>
+                        -->
+                    </p>
+                </module>
+                <module id="toisich_ri_inf" status="bronze">
+                    <h>tòisich ri ...</h>
+                    <p>Pedagogical examples – <xl id="toisich_ri_inf-pedag">
+                            <li>
+                                <gd>Thòisich e ri seinn.</gd>
+                                <tr>He started singing / started to sing.</tr>
+                                <ref text="601">td. 592</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+                <module id="toisich_ag" status="bronze">
+                    <h>tòisich ag ...</h>
+                    <p>Pedagogical examples – <xl id="toisich_ag-pedag">
+                            <li>
+                                <gd>Thòisich e a’ seinn.</gd>
+                                <tr>He started singing / started to sing.</tr>
+                                <ref text="601">td. 592</ref>
+                            </li>
+                            <li>
+                                <gd>Chaidh Pòl uair is uair gu àitichean san robh obair air
+                                    tòiseachadh, ach bha am mì-fhortan ga leantainn gus na thòisich
+                                    companaidh a’ cur phìoban tron mhòintich airson uisge a’ bhaile
+                                    mhòir. </gd>
+                                <tr>Paul went time and again to places where work had started, but
+                                    misfortune followed him until a company started laying pipes
+                                    through the moor for the city’s water.</tr>
+                                <ref text="2">td. 9</ref>
+                            </li>
+                        </xl>
+                    </p>
+                    <!--
+                    <box id="ag">
+                        <title>tòisich a’ dèanamh rud</title>
+                        <xl>
+                            <li>3239</li>
+                            <li>3240</li>
+                            <li>3241</li>
+                        </xl>
+                        <p>Examples with <strong>ga*</strong> pronouns –</p>
+                        <xl>
+                            <li>3219</li>
+                            <li>3220</li>
+                            <li>3221</li>
+                            <li>3505</li>
+                        </xl>
+                    </box>
+                    -->
+                </module>
+            </section>
+            <section id="deps-mods">
+                <h>modifiers</h>
+                <module id="toisich_a-rithist" status="bronze">
+                    <h>tòisich a-rithist</h>
+                    <p><g>tòisich a-rithist</g>
+                        <en>start again, restart, resume</en> is a verb compound. cf. <a
+                            href="?gd=a-rithist"><g>a-rithist</g></a>.</p>
+                    <p>Examples from Gairm – <xl id="toisich_a-rithist-gairm">
+                            <li>
+                                <gd>A nis, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas ùr
+                                    againn. Tha sinn an dòchas gun téid gu math dhaibh, agus gun
+                                    cuir iad spionnadh ás ùr anns an dùthaich air fad. Agus gu
+                                    seachd àraidh anns a’ Ghaidhealtachd: <m>gun tòisich obair an
+                                        dealain a rithist</m>, gun cuirear tuilleadh
+                                    bhàtaichean-iasgaich an sàs, gum faigh na Gaidheil cothrom air
+                                    fearann na Gaidhealtachd obrachadh dhaibh fhéin, ás bith an ann
+                                    mar chroitean no mar innis no mar choille, gun bhacadh o
+                                    bhàllidh no o thighearna.</gd>
+                                <tr>Now, the General Election is behind us, and we have a new
+                                    Government. We hope that they will do well, and that they will
+                                    re-energise the whole country. And most especially in the
+                                    Highlands: that electricity work will restart, that more fishing
+                                    boats will be put into service [?], that the Gaels will get the
+                                    opportunity to work the land of the Highlands for themselves,
+                                    whether as crofts or as grazing or as forest, without hindrance
+                                    from a bailiff or from a laird.</tr>
+                                <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+                <module id="toisich_as_ur" status="bronze">
+                    <h>tòisich às ùr</h>
+                    <p><g>tòisich às ùr</g>
+                        <en>start afresh, make a fresh start, resume</en> is a verb compound. cf. <a
+                            href="?gd=ur-adjective"><g>às ùr</g></a>.</p>
+                </module>
+            </section>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-derivatives">
+            <h>derivatives</h>
+            <module id="toiseachadh" status="bronze">
+                <h>tòiseachadh <masc/></h>
+                <p><g>tòiseachadh</g>
+                    <en>beginning, start(ing)</en> is a masculine common noun derived from the verb
+                        <g>tòisich</g>, with genitive singular <g>tòiseachaidh</g>.</p>
+
+                <!--
+                <p><g>Is e obair latha tòiseachadh.</g>
+                    <en>Getting started is a day’s work.</en> [proverb]</p>
+                <p><g>tòiseachadh ùr</g>
+                    <en>a fresh start</en></p>
+                    -->
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module id="bi_a_toiseachadh" status="bronze">
+                            <h>bi a’ tòiseachadh</h>
+                            <p>Pedagogical examples – <xl id="bi_a_toiseachadh-pedag">
+                                    <li>
+                                        <gd>... a tha a’ tòiseachadh</gd>
+                                        <tr>incipient</tr>
+                                        <ref text="601">td. 592</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Tha na litrichean a’ tòiseachadh le ‘My dear love’, agus
+                                            tha an litreachadh neònach.</gd>
+                                        <tr>The letters start with ‘My dear love’, and the spelling
+                                            is unusual.</tr>
+                                        <ref text="2">td. 38</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Tha mo làithean saora-sa a’ tòiseachadh a-màireach.</gd>
+                                        <tr>My holidays start tomorrow.</tr>
+                                        <ref text="2">td. 90</ref>
+                                    </li>
+                                </xl>
+                            </p>
+                        </module>
+                        <module id="bi_air_toiseachadh" status="bronze">
+                            <h>bi air tòiseachadh</h>
+                            <p>Examples from modern usage – <xl id="bi_air_toiseachadh-other">
+                                    <li>
+                                        <gd>Chaidh Pòl uair is uair gu àitichean san robh obair air
+                                            tòiseachadh, ach bha am mì-fhortan ga leantainn gus na
+                                            thòisich companaidh a’ cur phìoban tron mhòintich airson
+                                            uisge a’ bhaile mhòir. </gd>
+                                        <tr>Paul went time and again to places where work had
+                                            started, but misfortune followed him until a company
+                                            started laying pipes through the moor for the city’s
+                                            water.</tr>
+                                        <ref text="2">td. 9</ref>
+                                    </li>
+                                </xl>
+                            </p>
+                        </module>
+
+                        <module id="bi_gun_toiseachadh" status="bronze">
+                            <h>bi gun tòiseachadh</h>
+                            <p>Examples from Gairm – <xl id="bi_gun_toiseachadh-gairm">
+                                    <li>
+                                        <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr
+                                            a thaghadh a bhios os cionn obair a’ Chomuinn. [...]
+                                            Bhiodh a leòr aige ri dhèanamh an toiseach ag
+                                            ath-nuadhachadh dreach a’ Chomuinn. Tha móran ri
+                                            dhèanamh ris a’ Mhòd mus beir e air linn an telebhisean,
+                                            no eadhon air linn an réidio: [...] A thaobh propaganda,
+                                                <m>tha obair a’ Chomuinn gun tòiseachadh
+                                                fhathast</m>; am faca tusa riamh postair Gàidhlig
+                                            air balla, no an cuala tu guth a’ Chomuinn ann an
+                                            sanas-reic air STV?</gd>
+                                        <tr>The Highland Society is talking about choosing a new
+                                            General who will oversee the Society’s work. [...] He
+                                            would have enough to do initially reforming the Society.
+                                            There is much to do at the Mod before it catches up with
+                                                <ed>??</ed> the era of television, or even with the
+                                            era of radio: [...] On the subject of propaganda, the
+                                            Society’s work is yet to start; have you ever seen a
+                                            Gaelic poster on a wall, or have you heard the voice of
+                                            the Society in an advert on STV?</tr>
+                                        <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                                    </li>
+                                </xl>
+                            </p>
+                        </module>
+                    </section>
+                </section>
+            </module>
+
+            <module id="toisichear" status="bronze">
+                <h>tòisichear <masc/></h>
+                <p><g>tòisichear</g>
+                    <en>beginner</en> is an <a href="?xx=nouns/anthropic_common_nouns">anthropic
+                        common noun</a> derived from the verb <g>tòisich</g>, with suffix <a
+                        href="_ar"><g>-(e)ar</g></a>, and with genitive singular <g>tòisicheir</g>
+                    and plural <g>tòisichearan</g>.</p>
+                <p>Pedagogical examples – <xl id="toisichear-pedag">
+                        <li>
+                            <gd>freagarrach do thòisichearan</gd>
+                            <tr>suitable for beginners</tr>
+                            <ref text="601">td. 592</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+
+</module>

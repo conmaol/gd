@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>sagartail</h>
+    <p><g>sagartail</g>
+        <en>priestly</en> is a <a href="?xx=adjectives/derived_adjectives">derived adjective</a>,
+        with stem <a href="?gd=sagart"><g>sagart</g></a>
+        <masc/>
+        <en>priest</en>, and suffix <a href="?gd=_il"><g>-(a)il</g></a>.</p>
+
+</module>

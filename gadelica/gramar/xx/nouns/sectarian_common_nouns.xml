@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>sectarian common nouns</h>
+    <p>Sectarian commons nouns are <a href="?xx=nouns/anthropic_common_nouns">anthropic
+            common nouns</a> that characterise a person in terms of their religious or philosophical
+        identity of beliefs.</p>
+
+    <module id="simple">
+        <h>simple sectarian common nouns</h>
+        <p>List of simple sectarian common nouns – <ul>
+                <li>[to come]</li>
+            </ul>
+        </p>
+    </module>
+
+    <module id="derived">
+        <h>derived sectarian common nouns</h>
+        <p>List of derived sectarian common nouns – <ul>
+                <li><a href="?gd=easbaig">easbaig</a>
+                    <masc/>
+                    <en>bishop</en> ⇒ <b>easbaigeach</b>
+                    <adj/>
+                    <en>episcopal</en> ⇒ <b>Easbaigeach</b>
+                    <masc/>
+                    <en>an Episcopalian</en></li>
+            </ul>
+        </p>
+    </module>
+
+    <module id="thematic">
+        <h>thematic classification</h>
+        <module id="religion">
+            <h>religion</h>
+            <p>List of sectarian common nouns related to religion – <ul>
+                    <li><a href="?gd=easbaig">Easbaigeach</a>
+                        <masc/>
+                        <en>an Episcopalian</en></li>
+                </ul>
+            </p>
+        </module>
+    </module>
+
+
+</module>

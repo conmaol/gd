@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">cuin ?</h>
+    <h lang="gd">cuin ?</h>
+    <p lang="en">Corpus examples – <xl id="xs">
+        <li>
+            <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no
+                do fhoghlum agus do litreachas na Gàidhlig. <m>Cuin a chualas ball-Pàrlamaid a’
+                togail a ghuth a dh’ iarraidh leasachaidh do staid Gàidhlig ann an Albainn?</m> [...]</gd>
+            <tr>[...] The Parliament has given very little assistance ever to the Gaelic language or
+                to Gaelic education and literature. When has a member of Parliament been heard
+                raising his voice to demand improvement for the state of Gaelic in
+                Scotland? [...]</tr>
+            <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+            <note>passive</note>
+        </li>
+    </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">cf. relative particle <a href="?gd=a^relative">a</a>.</p>
+    <p lang="gd">...</p>
+</module>
+

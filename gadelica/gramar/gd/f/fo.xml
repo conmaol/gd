@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>fo</h>
+    <p><g>fo</g>
+        <en>under, below</en> is the (leniting) subessive <a href="?xx=prepositions/prepositions"
+            >preposition</a>.</p>
+
+    <section>
+        <h>forms</h>
+        <section id="indefinite">
+            <h>indefinite</h>
+            <p>The default form of the subessive prespoition is simply <g>fo</g> – <ul>
+                    <li><m>fo</m> thaigh <en>under a house</en></li>
+                    <li><m>fo</m> aislingean <en>under dreams</en></li>
+                    <li><m>fo</m> Nirribhidh <en>under Norway</en></li>
+                    <li><m>fo</m> thrì làithean <en>under three days</en></li>
+                </ul></p>
+            <!-- <p><ed>Note on older forms like <g>foidh</g>?</ed></p> -->
+        </section>
+        <section id="definite">
+            <h>definite</h>
+            <p>When the immediately following word is a singular form of the definite article, the
+                linking form <g>fon</g> is used – <ul>
+                    <li><m>fon an</m> taigh <en>under the house</en>, rather than <bad>fo an
+                            taigh</bad></li>
+                    <li><m>fon a’</m> bhaile <en>under the town</en>, rather than <bad>fo a’
+                            bhaile</bad></li>
+                </ul> But – <ul>
+                    <li><m>fo na h-</m>aislingean <en>under the dreams</en>, rather than <bad>fon na
+                            h-aislingean</bad></li>
+                </ul>
+            </p>
+            <p>Note that <g>fon an</g> and <g>fon a’</g> often reduce to just <g>fon</g> – <g>fon
+                    taigh</g>, <g>fon bhaile</g>.</p>
+            <!--<p><ed>Add note on ‘fon a-màireach’, ‘fon a h-uile ...’, ‘fon a bheil ...’? Older forms
+                    with apostrophes?</ed></p>-->
+            <p>Fused forms are sometimes found when the immediately following word is a <a
+                    href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+                    <li><m>fo mo</m> thaigh <en>under my house</en> ≈ <g>fom</g> thaigh</li>
+                    <li><m>fo do</m> bhaile <en>under your town</en> ≈ <g>fod</g> bhaile</li>
+                    <li><m>fo a h-</m>òran <en>under her song</en> ≈ <g>fo h-</g>òran</li>
+                    <li><m>fo a</m> chraoibh <en>under his tree</en> ≈ <g>fo</g> chraoibh</li>
+                    <li><m>fo ar n-</m>achadh <en>under our field</en> ≈ <g>far n-</g>achadh</li>
+                    <li><m>fo ur</m> leapannan <en>under your beds</en> ≈ <g>fur</g> leapannan</li>
+                    <li><m>fo an</m> taighean <en>under their houses</en> ≈ <g>fon</g> taighean</li>
+                    <li><m>fo am</m> baile <en>under their town</en> ≈ <g>fom</g> baile</li>
+                </ul></p>
+            <p>Note that these fused forms are rather awkward and sometimes ambiguous and hence are
+                best avoided in writing nowadays.</p>
+        </section>
+        <section id="pronouns">
+            <h>prepositional pronouns</h>
+            <p>Conjugated prepositions are used in place of <bad>fo mi</bad>, <bad>fo thu</bad>, ...
+                , <bad>fo iad</bad> – <ul>
+                    <li><m>fodham</m>
+                        <en>under me</en></li>
+                    <li><m>fodhad</m>
+                        <en>under you</en></li>
+                    <li><m>foidhpe</m>
+                        <en>under her/it</en></li>
+                    <li><m>fodha</m>
+                        <en>under him/it</en></li>
+                    <li><m>fodhainn</m>
+                        <en>under us</en></li>
+                    <li><m>fodhaibh</m>
+                        <en>under you</en></li>
+                    <li><m>fodhpa</m>
+                        <en>under them</en></li>
+                </ul>
+            </p>
+            <p>There are also emphatic forms (cf. <bad>fo mise</bad>, <bad>fo thusa</bad>, ... ,
+                    <bad>fo iadsan</bad>) – <ul>
+                    <li><m>fodhamsa</m>
+                        <en>under <emph>me</emph></en></li>
+                    <li><m>fodhadsa</m>
+                        <en>under <emph>you</emph></en></li>
+                    <li><m>foidhpese</m>
+                        <en>under <emph>her/it</emph></en></li>
+                    <li><m>fodhasan</m>
+                        <en>under <emph>him/it</emph></en></li>
+                    <li><m>fodhainne</m>
+                        <en>under <emph>us</emph></en></li>
+                    <li><m>fodhaibhse</m>
+                        <en>under <emph>you</emph></en></li>
+                    <li><m>fodhpasan</m>
+                        <en>under <emph>them</emph></en></li>
+                </ul>
+            </p>
+            <p>Finally, there are also reflexive forms (cf. <bad>fo mi fhìn</bad>, <bad>fo thu
+                    fhèin</bad>, ... , <bad>fo iad fhèin</bad>) – <ul>
+                    <li><m>fodham fhìn</m>
+                        <en>under myself</en></li>
+                    <li><m>fodhad fhèin</m>
+                        <en>under yourself</en></li>
+                    <li><m>foidhpe fhèin</m>
+                        <en>under herself/itself</en></li>
+                    <li><m>fodha fhèin</m>
+                        <en>under himself/itself</en></li>
+                    <li><m>fodhainn fhìn</m>
+                        <en>under ourselves</en></li>
+                    <li><m>fodhaibh fhèin</m>
+                        <en>under yourselves</en></li>
+                    <li><m>fodhpa fhèin</m>
+                        <en>under themselves</en></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+
+    <section>
+        <h>dependents</h>
+        <section id="deps-comps">
+            <h>complements</h>
+            <p><g>fon <a href="?gd=uisge">uisge</a></g>
+                <en>underwater</en></p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-comp">
+            <h>complement</h>
+            <module status="bronze" id="rach">
+                <h>rach fo ...</h>
+                <p><g><a href="?gd=rach">rach</a> fo ...</g>
+                    <en>go (to) under ...</en></p>
+                <p>
+                    <ul>
+                        <li><g>rach fon <a href="?gd=uisge">uisge</a></g>
+                            <en>go underwater</en></li>
+                        <li><g>rach fodha*</g>
+                            <en>go down, sink, go under</en></li>
+                    </ul>
+                </p>
+            </module>
+        </section>
+    </section>
+
+
+</module>

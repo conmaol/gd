@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">bean – noun</h>
+    <h lang="gd">bean</h>
+    <p lang="en"><b>bean</b>
+        <en>woman, wife</en> is a feminine common noun. cf. other uses of <a href="?gd=bean"
+            >bean</a>.</p>
+    <p lang="gd">...</p>
+
+    <module status="bronze">
+        <h>ban(a)-</h>
+        <p>List of <a href="?xx=nouns/anthropic_common_nouns">anthropic common nouns</a>
+            with prefix ban(a)- <ul>
+                <li><a href="?gd=aba">aba</a>
+                    <masc/>
+                    <en>abbot</en> ⇒ <b>ban-aba</b>
+                    <i>fem.</i>
+                    <en>abbess</en></li>
+            </ul>
+        </p>
+    </module>
+
+</module>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>i</h>
+    <p><g>i</g>
+        <en>she, her</en> is the feminine singular <a href="?xx=nouns/personal_pronouns">personal
+            pronoun</a>.</p>
+    
+    <section>
+        <h>uses</h>
+        <section>
+            <h>subject</h>
+            <p>Examples from Gairm – <xl id="sbj-gairm">
+                <li>
+                    <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan fhalbh aon
+                        choigreach le mo leanabh. Cha <m>teid i</m> gu aon dannsa, tha sin cinnteach. Tha. Tha.
+                        Na bi smaoineachadh gun teid, a leanaibh. Chan eil fhios agad mu ’n deidhinn,
+                        mar a th’ agamsa.” “Carson nach do bhàsaich thu o chionn leth-cheud
+                        bliadhna,” dh’ éigh Màiri. <m>Bha i</m> smaoineachadh air na gnothaichean ud
+                        fhathast! “Greas ort leis an tea,” ars a màthair. [...]</gd>
+                    <tr>[...] Her voice grew louder. “One thing is certain, not one stranger will leave
+                        [go out?] with my child. She will not go to a single dance, that is certain. It
+                        is. It is. Do not be thinking that you will, child. You don’t know about them,
+                        as I do.” “Why did you not die fifty years ago,” shouted Mary. She was still
+                        thinking about those matters! “Hurry up with the tea,” said her mother.
+                        [...]</tr>
+                    <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+                <li>
+                    <gd><m>Bha i</m> ceud bliadhna a dh’ aois is esan dhà air fhichead. Cha robh e ach
+                        mìos no dhà a-mach ás an oilthigh. Bha a nighean a’ fuireachd còmhla rithe. Bha
+                        <m>ise</m> ceithir fichead. Shaoil e gu robh a’ chailleach ann an dòigh na bu
+                        shunndaiche na a nighean. [...]</gd>
+                    <tr>She was a hundred years old and him twenty two. He was just a month or two out
+                        of the university. Her daughter was living with her. She was eighty. He thought
+                        that the old woman was in a way livelier than her daughter. [...]</tr>
+                    <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+            </xl>
+            </p>
+            <p lang="gd">...</p>
+        </section>
+        
+        <section>
+            <h>object</h>
+            <p>Older pedagogical examples – <xl id="obj-older-pedag">
+                <li>
+                    <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                        Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an
+                        litir seo, Iain?” “Théid,” ars Iain, “falbhaidh mi an dràsda”. “Fuirich
+                        gus an <m>dùin mi i</m> is gus an cuir mi seòladh oirre. Ceannaich fhéin
+                        stamp agus <m>cuir oirre i</m>.” [...]</gd>
+                    <tr>My mother is writing a letter to my father who is away. My mother said,
+                        “Will you go to the postbox with this letter, John?” “Yes, I will,” said
+                        John, “I will leave now.” “Wait until I seal it and put an address on
+                        it. Buy a stamp and put it on it.” [...]</tr>
+                    <ref text="621">td. 5</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+        
+        
+    </section>
+    
+    
+    
+</module>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">do</h>
+    <h lang="gd">do</h>
+    <p lang="en"><b>do</b>
+        <en>your, thy</en> is the second person singular <a href="?xx=nouns/possessive_determiners"
+            >possessive determiner</a>, related to the personal pronoun <a href="?gd=thu">thu</a>
+        <en>you, thou</en>.</p>
+    <p lang="gd">...</p>
+    <module id="noun">
+        <h lang="en">noun specifier</h>
+        <h lang="gd">...</h>
+        <module id="family">
+            <h lang="en">family members</h>
+            <h lang="gd">...</h>
+            <module id="generalised-family">
+                <h lang="en">also</h>
+                <h lang="gd">...</h>
+            </module>
+        </module>
+        <module id="body">
+            <h lang="en">body parts</h>
+            <h lang="gd">...</h>
+            <module id="generalised-body">
+                <h lang="en">also</h>
+                <h lang="gd">...</h>
+            </module>
+        </module>
+        <module id="noun-other">
+            <h lang="en">others</h>
+            <h lang="gd">...</h>
+            <p lang="en">Examples from Gairm – <xl id="noun-gairm-xs">
+                <li>
+                    <gd>[...] Cha robh e duilich tigh Maireid a lorg. [...] Bha Mairead ’na suidhe
+                        ann an cathair ris an teine is plaide timcheall air a glùinean. Bha Màiri a’
+                        deanamh na dìnneir. Dh’ innis e dhaibh gur esan an duine a sgrìobh thuca, a
+                        dh’ fhaighneachd am b’ urrainn dha a thighinn. “Ai, ai,” arsa Màiri, “’se am
+                        maighstir-sgoile a fhreagair <m>do litir</m>.” [...]</gd>
+                    <tr>[...] It was not difficult to find Margaret’s house. [...] Margaret was sat
+                        in a chair by the fire with a blanket around her knees. Mary was making the
+                        dinner. He told them that he was the man who had written to them, asking if
+                        he could come. “Aye, aye,” said Mary, “it was the schoolmaster that replied
+                        to your letter.” [...]</tr>
+                    <ref text="400-46">td. 169–70, le Iain Mac a’ Ghobhainn</ref>
+                    <note>the letter that you wrote and sent</note>
+                </li>
+            </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+    </module>
+    <module id="infinitive">
+        <h lang="en">infinitives</h>
+        <h lang="gd">...</h>
+    </module>
+</module>

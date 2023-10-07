@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h lang="en">both</h>
+    <h lang="gd">both</h>
+    <p lang="en">English <b>both</b> is a universal pronoun with dual number, equivalent in meaning
+        to <en>the two</en> – <ul>
+            <li>both of the apples</li>
+            <li>both of these/my apples</li>
+            <li>both of those/us/you/them</li>
+        </ul> A number of synonymous reduced forms are also possible – <ul>
+            <li>both the apples, both apples</li>
+            <li>both these/my apples</li>
+            <li>both [are fine]</li>
+        </ul> An alternative, quasi-adverbial usage is also found – <ul>
+            <li>the/these/my apples are both red</li>
+            <li>those/we/you/they both appeared</li>
+        </ul>
+    </p>
+    <p lang="gd"/>
+    <p lang="en">both can also be used to emphasise a conjunction – <ul>
+            <li>Both Mary and Rachel knocked.</li>
+        </ul>
+    </p>
+    <p lang="gd"/>
+    <p lang="en">When talking about people, Gaelic translates <b>both</b> using <a href="?gd=dithis"
+            >an dithis</a> – <ul>
+            <li><m>an dithis sgoilearan</m>
+                <en>both (of the) students</en></li>
+            <li><m>an dithis fhear sin</m>
+                <en>both (of) those men</en></li>
+            <li><m>an dithis againn</m>
+                <en>both of us</en></li>
+            <li><m>[thàinig] an dithis</m>
+                <en>both [came]</en></li>
+        </ul>
+    </p>
+    <p lang="gd"></p>
+    <p lang="en">
+        <xl id="dithis">
+            <li>
+                <gd>an dithis mhac</gd>
+                <tr>both sons</tr>
+                <ref text="603">td. 138</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd"/>
+    <p lang="en">For other things, Gaelic uses <a href="?gd=dà"
+        >an dà</a> (with <a href="?gd=cuid">cuid</a> <i>fem.</i> <en>measure, part, portion</en> as the default noun) – <ul>
+            <li><m>an dà ubhal</m>
+                <en>both (of the) apples</en></li>
+            <li><m>an dà chù sin</m>
+                <en>both (of) those dogs</en></li>
+            <li><m>an dà chuid</m>
+                <en>both (of them)</en></li>
+        </ul>
+    </p>
+    <p lang="gd"></p>
+    <p lang="en">
+        <xl id="da">
+            <li>
+                <gd>leis an dà làimh</gd>
+                <tr>with both hands</tr>
+                <ref text="603">td. 138</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd"/>
+    <p lang="en">Adverbial – <a href="?gd=cèile">le chèile</a>, nar/nur/nan dithis
+    </p>
+    <p lang="gd"/>
+    <p lang="en">
+        <xl id="le_cheile">
+            <li>
+                <gd>dh’fhalbh iad le chèile</gd>
+                <tr>they both left</tr>
+                <ref text="605a">td. 138</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd"/>
+    <p lang="en">
+        <xl id="nan_dithis">
+            <li>
+                <gd>dh’fhalbh iad nan dithis</gd>
+                <tr>they both left</tr>
+                <ref text="605a">td. 138</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="en">TYGD: adv. le chèile; <en>both great and small</en> eadar bheag is
+        mhòr.</p>
+    
+    <p lang="gd"></p>
+    
+    
+    
+    <p lang="en">Watson: 1. (of things, action etc.) gach cuid f, an dà chuid, gach; give me both
+        sugar and salt thoir dhomh gach cuid siùcar is salann; meat or cheese? both! feòil no càise?
+        an dà chuid! you/one can’t drink and drive chan fhaod thu / chan fhaodar an dà chuid
+        dràibheadh agus òl; 2. (of people) le chèile, nan dithis; ; both of you an dithis agaibh; 3. (before adjs) eadar; they came both
+        small and great thàinig iad, eadar bheag agus mhòr; 4. (as adj) gach, on both sides air gach
+        taobh. </p>
+    <p lang="gd"/>
+    <p lang="en">MacLennan: both adj. le chéile, ’n an dithis, araon; both conj araon, cuideachd, le
+        chéile</p>
+    <p lang="gd"/>
+    <p lang="en">Stòr-dàta: both adj. an dà chuid, le chèile, nan dithis.</p>
+</module>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>occupational common nouns</h>
+    <p>Occupational commons nouns are <a href="?xx=nouns/anthroponymic_common_nouns">anthroponymic
+            common nouns</a> that characterise a person in terms of the role or function they
+        perform in the tribe/community/society.</p>
+
+    <section id="simple">
+        <h>simple occupational common nouns</h>
+        <p>List of simple occupational common nouns – <ul>
+                <li><a href="?gd=aba">aba</a>
+                    <masc/>
+                    <en>abbot</en></li>
+                <li><a href="?gd=easbaig">easbaig</a>
+                    <masc/>
+                    <en>bishop</en></li>
+                <li><a href="?gd=manach">manach</a>
+                    <masc/>
+                    <en>monk</en></li>
+                <li><a href="?gd=sagart">sagart</a>
+                    <masc/>
+                    <en>priest</en></li>
+                <li><a href="?gd=taidhcùn">taidhcùn</a>
+                    <masc/>
+                    <en>tycoon</en></li>
+            </ul>
+        </p>
+    </section>
+
+    <section id="derived">
+        <h>derived occupational common nouns</h>
+        <p>List of derived occupational common nouns – <ul>
+                <li><a href="?gd=croit">croit</a>
+                    <i>fem.</i>
+                    <en>croft</en> ⇒ <b>croitear</b>
+                    <masc/>
+                    <en>crofter</en></li>
+                <li>?? ⇒ <a href="?gd=sgalag"><g>sgalag</g></a>
+                    <fem/>
+                    <en>farm servant</en></li>
+            </ul>
+        </p>
+    </section>
+
+    <section id="thematic">
+        <h>thematic classification</h>
+        <section id="religion">
+            <h>religion</h>
+            <p>List of occupational common nouns related to religion – <ul>
+                    <li><a href="?gd=aba">aba</a>
+                        <masc/>
+                        <en>abbot</en></li>
+                    <li><a href="?gd=easbaig">easbaig</a>
+                        <masc/>
+                        <en>bishop</en></li>
+                    <li><a href="?gd=manach">manach</a>
+                        <masc/>
+                        <en>monk</en></li>
+                    <li><a href="?gd=sagart">sagart</a>
+                        <masc/>
+                        <en>priest</en></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+
+</module>

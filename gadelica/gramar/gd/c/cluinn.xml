@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>cluinn</h>
+  <p><g>cluinn</g>
+    <en>hear</en> is an irregular verb.</p>
+  <section id="forms">
+    <h>forms</h>
+    <p>The principal parts of <g>cluinn</g> are – <ul>
+        <li><m>cluinnidh</m> – future independent ie. <en>will hear</en></li>
+        <li><m>chuala</m> – past independent ie. <en>heard</en></li>
+        <li><m>cluinntinn</m> – verbal noun ie. <en>hearing</en></li>
+      </ul>
+    </p>
+    <section>
+      <h>tense</h>
+      <p><ul>
+          <li>past <ul id="past">
+              <li>active <ul>
+                  <li>independent – <m>chuala</m></li>
+                  <li>relative – a <m>chuala</m></li>
+                  <li>dependent – cha <m>chuala</m>, an/nach <m>cuala</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>chualas</m></li>
+                  <li>relative – a <m>chualas</m></li>
+                  <li>dependent – cha <m>chualas</m>, an/nach <m>cualas</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>future <ul id="future">
+              <li>active <ul>
+                  <li>independent – <m>cluinnidh</m></li>
+                  <li>relative – a <m>chluinneas</m></li>
+                  <li>dependent – cha <m>chluinn</m>, an/nach <m>cluinn</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>cluinnear</m></li>
+                  <li>relative – a <m>chluinnear</m></li>
+                  <li>dependent – cha <m>chluinnear</m>, an/nach <m>cluinnear</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>conditional <ul id="conditional">
+              <li>active <ul>
+                  <li>first person singular <ul>
+                      <li>independent – <m>chluinninn</m></li>
+                      <li>relative – a <m>chluinninn</m></li>
+                      <li>dependent – cha <m>chluinninn</m>, an/nach <m>cluinninn</m></li>
+                    </ul>
+                  </li>
+                  <li>first person plural <ul>
+                      <li>independent – <m>chluinneamaid</m></li>
+                      <li>relative – a <m>chluinneamaid</m></li>
+                      <li>dependent – cha <m>chluinneamaid</m>, an/nach <m>cluinneamaid</m></li>
+                    </ul>
+                  </li>
+                  <li>second/third persons <ul>
+                      <li>independent – <m>chluinneadh</m></li>
+                      <li>relative – a <m>chluinneadh</m></li>
+                      <li>dependent – cha <m>chluinneadh</m>, an/nach <m>cluinneadh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>chluinnte</m></li>
+                  <li>relative – a <m>chluinnte</m></li>
+                  <li>dependent – cha <m>chluinnte</m>, an/nach <m>cluinnte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>status</h>
+      <p>
+        <ul>
+          <li>independent <ul id="independent">
+              <li>past <ul>
+                  <li>active – <m>chuala</m></li>
+                  <li>passive – <m>chualas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – <m>cluinnidh</m></li>
+                  <li>passive – <m>cluinnear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – <m>chluinninn</m></li>
+                      <li>first person plural – <m>chluinneamaid</m></li>
+                      <li>second/third persons – <m>chluinneadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – <m>chluinnte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>relative <ul id="relative">
+              <li>past <ul>
+                  <li>active – a <m>chuala</m></li>
+                  <li>passive – a <m>chualas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – a <m>chluinneas</m></li>
+                  <li>passive – a <m>chluinnear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – a <m>chluinninn</m></li>
+                      <li>first person plural – a <m>chluinneamaid</m></li>
+                      <li>second/third persons – a <m>chluinneadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – a <m>chluinnte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>dependent <ul id="dependent">
+              <li>past <ul>
+                  <li>active – cha <m>chuala</m>, an/nach <m>cuala</m></li>
+                  <li>passive – cha <m>chualas</m>, an/nach <m>cualas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – cha <m>chluinn</m>, an/nach <m>cluinn</m></li>
+                  <li>passive – cha <m>chluinnear</m>, an/nach <m>cluinnear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – cha <m>chluinninn</m>, an/nach
+                        <m>cluinninn</m></li>
+                      <li>first person plural – cha <m>chluinneamaid</m>, an/nach
+                          <m>cluinneamaid</m></li>
+                      <li>second/third persons – cha <m>chluinneadh</m>, an/nach
+                        <m>cluinneadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – cha <m>chluinnte</m>, an/nach <m>cluinnte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>voice</h>
+      <p>
+        <ul>
+          <li>active <ul id="active">
+              <li>past <ul>
+                  <li>independent – <m>chuala</m></li>
+                  <li>relative – a <m>chuala</m></li>
+                  <li>dependent – cha <m>chuala</m>, an/nach <m>cuala</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>cluinnidh</m></li>
+                  <li>relative – a <m>chluinneas</m></li>
+                  <li>dependent – cha <m>chluinn</m>, an/nach <m>cluinn</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent <ul>
+                      <li>first person singular – <m>chluinninn</m></li>
+                      <li>first person plural – <m>chluinneamaid</m></li>
+                      <li>second/third persons – <m>chluinneadh</m></li>
+                    </ul>
+                  </li>
+                  <li>relative <ul>
+                      <li>first person singular – a <m>chluinninn</m></li>
+                      <li>first person plural – a <m>chluinneamaid</m></li>
+                      <li>second/third persons – a <m>chluinneadh</m></li>
+                    </ul>
+                  </li>
+                  <li>dependent <ul>
+                      <li>first person singular – cha <m>chluinninn</m>, an/nach
+                        <m>cluinninn</m></li>
+                      <li>first person plural – cha <m>chluinneamaid</m>, an/nach
+                          <m>cluinneamaid</m></li>
+                      <li>second/third persons – cha <m>chluinneadh</m>, an/nach
+                        <m>cluinneadh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>passive <ul id="passive">
+              <li>past <ul>
+                  <li>independent – <m>chualas</m></li>
+                  <li>relative – a <m>chualas</m></li>
+                  <li>dependent – cha <m>chualas</m>, an/nach <m>cualas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>cluinnear</m></li>
+                  <li>relative – a <m>chluinnear</m></li>
+                  <li>dependent – cha <m>chluinnear</m>, an/nach <m>cluinnear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent – <m>chluinnte</m></li>
+                  <li>relative – a <m>chluinnte</m></li>
+                  <li>dependent – cha <m>chluinnte</m>, an/nach <m>cluinnte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>imperative</h>
+      <p>
+        <ul>
+          <li>independent <ul id="forms-imp-ind">
+              <li>first person singular – <m>cluinneam</m>!</li>
+              <li>second person singular – <m>cluinn</m>!</li>
+              <li>first person plural – <m>cluinneamaid</m>!</li>
+              <li>second person plural – <m>cluinnibh</m>!</li>
+              <li>third person – <m>cluinneadh</m>!</li>
+              <li>passive – <m>cluinn(t)ear</m>!</li>
+            </ul>
+          </li>
+          <li>dependent <ul id="forms-imp-dep">
+              <li>first person singular – na <m>cluinneam</m>!</li>
+              <li>second person singular – na <m>cluinn</m>!</li>
+              <li>first person plural – na <m>cluinneamaid</m>!</li>
+              <li>second person plural – na <m>cluinnibh</m>!</li>
+              <li>third person – na <m>cluinneadh</m>!</li>
+              <li>passive – na <m>cluinn(t)ear</m>!</li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+  </section>
+
+
+<!--
+  <module id="relations">
+    <h>relations</h>
+    <h lang="gd"/>
+  </module>
+  <module id="uses">
+    <h>uses</h>
+    <h lang="gd"/>
+  </module>
+  <module id="senses">
+    <h>senses</h>
+    <h lang="gd"/>
+  </module>
+  <module id="examples">
+    <h>examples</h>
+    <h lang="gd"/>
+    <p>Examples – <xl id="exs">
+        <li>
+          <gd>Ann an Dùn Èideann anns na naochadan bha barrachd agus barrachd inbhich airson
+            Gàidhlig ionnsachadh agus ged a nochd mòran chlasaichean agus cùrsaichean Gàidhlig
+            airson iarrtasan nan daoine sin a fhreagradh, bha ionnsachadh na Gàidhlig ga bhacadh gu
+            mòr air sgàth dìth shuidheachaidhean far an <m>cluinnear an cànan ga bruidhinn gu
+              nàdarra</m>.</gd>
+          <tr>In Edinburgh in the 90s there were more and more people wanting to learn Gaelic and
+            although a lot of Gaelic classes and courses sprang up to respond to the demands of
+            those people, Gaelic learning was largely inhibited because of lack of situations where
+              <u>one could hear the language being spoken naturally</u>.</tr>
+          <ref text="610">td. 85</ref>
+        </li>
+        <li>
+          <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no do
+            fhoghlum agus do litreachas na Gàidhlig. Cuin a <m>chualas</m> ball-Pàrlamaid a’ togail
+            a ghuth a dh’ iarraidh leasachaidh do staid Gàidhlig ann an Albainn?</gd>
+          <tr>The Parliament has given very little assistance ever to the Gaelic language or to
+            Gaelic education and literature. When has a member of Parliament <u>been [?] heard</u>
+            raising his voice to demand improvement for the state of Gaelic in Scotland?</tr>
+          <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+        </li>
+        <li>
+          <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os cionn
+            obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach ag ath-nuadhachadh
+            dreach a’ Chomuinn. Tha móran ri dhèanamh ris a’ Mhòd mus beir e air linn an
+            telebhisean, no eadhon air linn an réidio: [...] A thaobh propaganda, tha obair a’
+            Chomuinn gun tòiseachadh fhathast; am faca tusa riamh postair Gàidhlig air balla, no
+              <m>an cuala tu</m> guth a’ Chomuinn ann an sanas-reic air STV?</gd>
+          <tr>The Highland Society is talking about choosing a new General who will oversee the
+            Society’s work. [...] He would have enough to do initially reforming the Society. There
+            is much to do at the Mod before it catches up with <ed>??</ed> the era of television, or
+            even with the era of radio: [...] On the subject of propaganda, the Society’s work is
+            yet to start; have you ever seen a Gaelic poster on a wall, or <u>have you heard</u> the
+            voice of the Society in an advert on STV?</tr>
+          <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+        </li>
+        <li>
+          <gd>[...] ’S bha iad ’nan suidhe an sin ag òl uisge-beatha fad na h-oidhch’, na ceathrar
+            aca. An dràsda ’s a rithist shealladh Iain a-mach air an uinneig ris a’ mhuir ’s na
+            h-eileanan. Chitheadh e aig amannan na faoileagan a’ gabhail seachad, ’s <m>chluinneadh
+              e an cuid sgriachail</m>. [...]</gd>
+          <tr>[...] And they were sat there drinking whisky all night, the four of them. Now and
+            again John would look out the window at the sea and the islands. He could see at times
+            the gulls going past, and he could hear their screeching. [...]</tr>
+          <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+      </xl>
+    </p>
+    <p lang="gd">...</p>
+  </module>
+  -->
+  
+</module>

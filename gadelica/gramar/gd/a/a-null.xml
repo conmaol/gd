@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>a-null</h>
+    <p><g>a-null</g>
+        <en>(to) over there</en> is is a distal adverb of motion along a <a href="?q=motion"
+            >trajectory</a> (contrasting with the distal <a href="?gd=a-nall"><g>a-nall</g></a>
+        <en>(to) over here</en>).</p>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complements</h>
+            <module status="bronze" id="rach">
+                <h>rach a-null</h>
+                <p><g><a href="?gd=rach">rach</a> a-null</g>
+                    <en>go over there</en>
+                    <ul>
+                        <li>pedagogical examples – <xl id="uses-comp-rach-pedag">
+                                <li>
+                                    <gd>Tha Anna a’ dol <m>a-null</m> a Ghlaschu. | Tha mi a’ dol
+                                            <m>a-null</m> thairis a Pharas.</gd>
+                                    <tr>Ann is going over there to Glasgow. | I am going abroad to
+                                        Paris.</tr>
+                                    <ref text="609">td. 31, 66</ref>
+                                </li>
+                            </xl></li>
+                    </ul>
+                </p>
+            </module>
+        </section>
+    </section>
+
+
+
+
+
+</module>

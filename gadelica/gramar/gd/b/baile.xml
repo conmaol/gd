@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>baile</h>
+    <p><g>baile</g>
+        <en>town, village, township</en> is a masculine <a href="?xx=nouns/simple_common_nouns"
+            >simple common noun</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>Examples – <xl id="deps-spr-xs">
+                    <li>
+                        <gd>Is e an t-iasgach bun-bheairteas a’ bhaile.</gd>
+                        <tr>Fishing is the basic wealth of the town.</tr>
+                        <ref text="601">td. 103</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>specifier</h>
+            <p>Examples – <xl id="uses-spr-xs">
+                    <li>
+                        <gd>Is e an t-iasgach bun-bheairteas a’ bhaile.</gd>
+                        <tr>Fishing is the basic wealth of the town.</tr>
+                        <ref text="601">td. 103</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+</module>

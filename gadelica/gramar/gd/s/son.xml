@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>son</h>
+  <p><g>son</g>
+    <en>sake</en> is a common noun.</p>
+
+  <section>
+    <h>dependents</h>
+    <section>
+      <h>specifier</h>
+      <p>Some examples – <ul>
+          <li>older pedagogical examples – <xl id="spec-older-pedag">
+              <li>
+                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’ chàr.
+                  Chaidh iad sìos taobh an locha is stad iad aig àite bòidheach gorm. Chuir iad an
+                  càr a stigh gu taobh an rathaid is thug iad brat a mach as a’ chàr air <m>son
+                    suidhe air</m>. [...]</gd>
+                <tr>The day was lovely and warm and their father took John and Ann in the car. They
+                  went down the side of the lake and they stopped at a beautiful green place. They
+                  put the car into the side of the road and they took a blanket out of the car for
+                  sitting on. [...]</tr>
+                <ref text="621">td. 6</ref>
+                <note>verbal noun</note>
+              </li>
+            </xl>
+          </li>
+          <li>examples from Gairm – <xl id="spec-gairm">
+              <li>
+                <gd>[...] ’Se madainn bhòidheach foghair a bh’ ann—tioram, le ceileir eòin, is
+                  beagan dealt air an fheur. Bha a[m] muir ’s na tighean ag éirigh á inntinn an
+                  latha. Cha robh e fhéin a’ faireachdainn uabhasach math, oir, air a’ bhàta, bha
+                  triùir dhaoine le botul uisge-bheatha agus cha robh càil air <m>a shon</m> ach gu
+                  feumadh e òl ’nan cuideachd. [...]</gd>
+                <tr>[...] It was a beautiful autumn morning – dry, with the chirping of birds, and a
+                  little dew on the grass. The sea and the houses were rising from the mind of the
+                  day [?]. He was not feeling terribly good/well, because, on the boat, there were
+                  three men with a bottle of whisky and there was nothing for it but that he would
+                  have to drink in their company. [...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+              </li>
+            </xl>
+          </li>
+          <li>other examples from modern usage – <xl id="spec-other">
+              <li>
+                <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. [...]
+                  Bha seachdnar de theaghlach aige, ceathrar mhac agus triùir nighean, agus bha a
+                  h-uile fear is tè anns a’ mhalairt ach Rob. B’ e Rob a b’ òige agus lean e an
+                  sgoil. Nuair a ràinig e an t-oilthigh bha càch <m>airson gun ionnsaicheadh e
+                    cunntasachd</m>, a bhiodh feumail anns a’ mhalairt, ach ’s ann a bha ùidh-san
+                  ann an ealain. Dh’fhàg e an t-oilthigh agus chaidh e do sgoil ealain. [...]</gd>
+                <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. [...]
+                  He had a family of seven, four sons and three daughters, and every man and woman
+                  was in the business except Rob. Rob was the youngest and he stayed on at school.
+                  When he reached the university the others wanted him to learn accountancy, which
+                  would be useful in the business, but his interest was in art. He left the
+                  university and went to an art school. [...]</tr>
+                <ref text="2">td. 5</ref>
+                <note>air son gun</note>
+              </li>
+            </xl>
+          </li>
+        </ul>
+      </p>
+    </section>
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section>
+      <h>complement</h>
+      <module id="uses-comp-airson" status="bronze">
+        <h>air son</h>
+        <p><g><a href="?gd=air">air</a> son ...</g> for (the sake of) ...</p>
+        <section>
+          <h>uses</h>
+          <section>
+            <h>predicate</h>
+            <p>Examples from Gairm – <xl id="gairm">
+              <li>
+                <gd>[...] ’Se madainn bhòidheach foghair a bh’ ann—tioram, le ceileir eòin, is
+                  beagan dealt air an fheur. Bha a[m] muir ’s na tighean ag éirigh á inntinn an
+                  latha. Cha robh e fhéin a’ faireachdainn uabhasach math, oir, air a’ bhàta, bha
+                  triùir dhaoine le botul uisge-bheatha agus <m>cha robh càil air a shon ach gu
+                    feumadh e òl ’nan cuideachd</m>. [...]</gd>
+                <tr>[...] It was a beautiful autumn morning – dry, with the chirping of birds, and a
+                  little dew on the grass. The sea and the houses were rising from the mind of the
+                  day [?]. He was not feeling terribly good/well, because, on the boat, there were
+                  three men with a bottle of whisky and there was nothing for it but that he would
+                  have to drink in their company. [...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+              </li>
+            </xl>
+            </p>
+            <p>Other examples from modern usage – <xl id="other">
+              <li>
+                <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. [...]
+                  Bha seachdnar de theaghlach aige, ceathrar mhac agus triùir nighean, agus bha a
+                  h-uile fear is tè anns a’ mhalairt ach Rob. B’ e Rob a b’ òige agus lean e an
+                  sgoil. Nuair a ràinig e an t-oilthigh <m>bha càch airson gun ionnsaicheadh e
+                    cunntasachd</m>, a bhiodh feumail anns a’ mhalairt, ach ’s ann a bha ùidh-san
+                  ann an ealain. Dh’fhàg e an t-oilthigh agus chaidh e do sgoil ealain. [...]</gd>
+                <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. [...]
+                  He had a family of seven, four sons and three daughters, and every man and woman
+                  was in the business except Rob. Rob was the youngest and he stayed on at school.
+                  When he reached the university the others wanted him to learn accountancy, which
+                  would be useful in the business, but his interest was in art. He left the
+                  university and went to an art school. [...]</tr>
+                <ref text="2">td. 5</ref>
+              </li>
+            </xl>
+            </p>
+          </section>
+          <section>
+            <h>modifier</h>
+            <p>Some examples – <ul>
+                <li>older pedagogical examples – <xl id="mod-older-pedag">
+                    <li>
+                      <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’
+                        chàr. Chaidh iad sìos taobh an locha is stad iad aig àite bòidheach gorm.
+                        Chuir iad an càr a stigh gu taobh an rathaid is <m>thug iad brat a mach as
+                          a’ chàr air son suidhe air</m>. [...]</gd>
+                      <tr>The day was lovely and warm and their father took John and Ann in the car.
+                        They went down the side of the lake and they stopped at a beautiful green
+                        place. They put the car into the side of the road and they took a blanket
+                        out of the car for sitting on. [...]</tr>
+                      <ref text="621">td. 6</ref>
+                      <note>purpose</note>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </p>
+          </section>
+        </section>
+      </module>
+      <module status="bronze" id="uses-comp-carson">
+        <h>carson ?</h>
+        <p>Examples from Gairm –
+          <xl id="carson-gairm">
+            <li>
+              <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan fhalbh aon
+                choigreach le mo leanabh. Cha teid i gu aon dannsa, tha sin cinnteach. Tha. Tha.
+                Na bi smaoineachadh gun teid, a leanaibh. Chan eil fhios agad mu ’n deidhinn,
+                mar a th’ agamsa.” “<m>Carson nach do bhàsaich thu o chionn leth-cheud bliadhna</m>,”
+                dh’ éigh Màiri. Bha i smaoineachadh air na gnothaichean ud fhathast! [...]</gd>
+              <tr>[...] Her voice grew louder. “One thing is certain, not one stranger will leave
+                [go out?] with my child. She will not go to a single dance, that is certain. It
+                is. It is. Do not be thinking that you will, child. You don’t know about them,
+                as I do.” “Why did you not die fifty years ago,” shouted Mary. She was still
+                thinking about those matters! [...]</tr>
+              <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+          </xl>
+        </p>
+        <p>Biblical examples – <xl id="carson-bible">
+          <li>
+            <gd>[...] Agus labhair righ na h-Eiphit re mnaibh-glùine nan Eabhruidheach [...]
+              Agus thubhairt e, ’Nuair a ni sibh gnìomh mnà-glùine do na mnaibh Eabhruidheach,
+              agus a chi sibh iad air na stòlaibh; ma’s mac a bhios ann, ’an sin marbhaidh
+              sibh e, ach ma’s nighean a bhios ann, bithidh si beo. Ach bha eagal Dé air na
+              mnaibh-glùine, agus cha d’rinn iad mar a dh’àithn righ na h-Eiphit dhoibh, ach
+              ghleidh iad a’ chlann mhac beo. Ach bha eagal Dé air na mnaibh-glùine, agus cha
+              d’rinn iad mar a dh’àithn righ na h-Eiphit dhoibh, ach ghleidh iad a’ chlann
+              mhac beo. Agus ghairm righ na h-Eiphit air na mnaibh-glùine, agus thubhairt e
+              riu, <m>C’ar son a rinn sibh an ni so, agus a ghleidh sibh a’ chlann mhac beo?</m>
+              [...]</gd>
+            <tr>[...] And the king of Egypt spake to the Hebrew midwives [...] And he said, When
+              ye do the office of a midwife to the Hebrew women, and see them upon the stools;
+              if it be a son, then ye shall kill him: but if it be a daughter, then she shall
+              live. But the midwives feared God, and did not as the king of Egypt commanded
+              them, but saved the men children alive. But the midwives feared God, and did not
+              as the king of Egypt commanded them, but saved the men children alive. And the
+              king of Egypt called for the midwives, and said unto them, Why have ye done this
+              thing, and have saved the men children alive? [...]</tr>
+            <ref text="160">Ecsodus I.15–18</ref>
+          </li>
+        </xl>
+        </p>
+      </module>
+    </section>
+  </section>
+
+
+  <!--
+  <p><b>son</b>
+    <en>for (the sake of)</en> is a compound preposition, pronounced, and traditionally spelled, as two separate words, i.e. <b>air son</b>.</p>
+  <p>Some uses of <b>airson</b> are as follows –</p>
+  <ol>
+    <li>Purpose – <b>dèan rud airson rud eile a dhèanamh</b> <en>do something in order to do something else</en>, e.g.
+      <m>Chaidh mi a Ghlaschu airson cù a lorg</m> <en>I went to Glasgow to find a dog</en> <boxlink ref="#purpose"/>
+      <ulx id="purposes">
+        <lix>
+          <gd>Ann an Dùn Èideann anns na naochadan bha barrachd agus barrachd inbhich airson Gàidhlig ionnsachadh agus ged a nochd mòran chlasaichean agus cùrsaichean Gàidhlig <m>airson iarrtasan
+            nan daoine sin a fhreagradh</m>, bha ionnsachadh na Gàidhlig ga bhacadh gu mòr air sgàth dìth shuidheachaidhean far an cluinnear an cànan ga bruidhinn gu nàdarra.</gd>
+          <tr>In Edinburgh in the 90s there were more and more people wanting to learn Gaelic and although a lot of Gaelic classes and courses sprang up <u>to respond to the demands of those people</u>,
+            Gaelic learning was largely inhibited because of lack of situations where one could hear the language spoken naturally.</tr>
+          <ref text="610">td. 85</ref>
+        </lix>
+      </ulx>
+    </li>
+    <li>Volition – <b>bi airson</b> <en>want (somebody) to do something</en> 
+      <ol>
+        <li><b>bi airson rud a dhèanamh</b> e.g. <m>tha mi airson Màiri a phòsadh</m> <en>I want to marry Mary</en> <boxlink ref="#want-to"/>
+          <ulx id="want_to_do">
+            <lix>
+              <gd>Ann an Dùn Èideann anns na naochadan <m>bha</m> barrachd agus barrachd inbhich <m>airson Gàidhlig ionnsachadh</m>.</gd>
+              <tr>In Edinburgh in the 90s there were more and more people wanting to learn Gaelic.</tr>
+              <ref text="610">td. 85</ref>
+            </lix>
+          </ulx>
+        </li>
+        <li><b>bi airson gun dèan duine rud</b> e.g. <mark>tha mi airson gum pòs Seumas Màiri</mark> <en>I want James to marry Mary</en><boxlink ref="#want-that"/></li>
+      </ol>
+      See also: <b><a href="?gd=iarr">bi ag iarraidh</a></b> <en>want</en>.
+    </li>
+    <li>Duration – as an alternative to the (reduced compound) preposition <b><a href="?gd=fad&amp;box=preposition-indefinite">fad</a></b>, 
+      governing an indefinite time interval noun phrase, and introducing an adverbial phrase of temporal extent (<en>how long?</en>) – 
+      <mark>bha sinn pòsta airson bliadhna</mark> <en>we were married for a year</en><boxlink ref="#duration"/></li>
+  </ol>
+  
+  <box id="purpose">
+    <title>dèan rud airson rud eile a dhèanamh</title>
+    <p>Purpose – <en>do something in order to do something else</en></p>
+    <xl>
+      <li>3212</li>
+      <li>3208</li>
+      <li>3206</li>
+    </xl>
+    <p>The following examples are subject controlled, i.e. the understood subject of the purpose clause is not the subject of the verb it modifies –</p>
+    <xl>
+      <li>3210</li>
+      <li>3214</li>
+    </xl>
+  </box>
+  
+  <box id="want-to">
+    <title>bi airson rud a dhèanamh</title>
+    <p><en>want to do something</en></p>
+    <xl>
+      <li>3120</li>
+      <li>3116</li>
+      <li>3118</li>
+    </xl>
+  </box>
+  
+  <box id="want-that">
+    <title>bi airson gun dèan duine rud</title>
+    <p><en>want somebody to do something</en></p>
+    <xl>
+      <li>3106</li>
+      <li>3110</li>
+      <li>3115</li>
+    </xl>
+  </box>
+  
+  <box id="duration">
+    <title><mark>airson</mark> as a preposition of temporal extent</title>
+    <p><b>airson</b> is sometimes used to introduce an adverbial describing the temporal extent of a state or activity (<en>how long?</en>). 
+      In these cases, <b>airson</b> governs an <em>indefinite</em> time interval noun, and
+      modifies a verb describing an imperfective (unbounded) state or activity. For example –</p>
+    <xl>
+      <li>2953</li>
+      <li>2962</li>
+      <li>2963</li>
+    </xl>
+    <p>This use of <b>airson</b> is likely due to the influence of English – the (reduced compound) preposition 
+      <b><a href="?gd=fad&amp;box=preposition-indefinite">fad</a></b> is probably more idiomatic in traditional Gaelic.</p>
+  </box>
+  -->
+
+</module>

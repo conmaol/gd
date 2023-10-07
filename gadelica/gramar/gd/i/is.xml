@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>is</h>
+
+  <section id="basic">
+    <h>basic usage</h>
+    <p>Modern examples – <xl id="basic-mod-xs">
+        <li>
+          <gd>Is e an t-iasgach bun-bheairteas a’ bhaile.</gd>
+          <tr>Fishing is the basic wealth of the town.</tr>
+          <ref text="601">td. 103</ref>
+        </li>
+      </xl>
+    </p>
+
+    <p>Biblical examples – <xl id="basic-exs">
+        <li>
+          <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig do’n Eiphit; thàinig gach duine
+            agus a theaghlach maille re Iacob: Reuben, Simeon, Lebhi, agus Iudah, [...] Agus <m>na
+              h-anman uile a thàinig a mach a leasraidh Iacoib, bu deich agus tri fichead anam
+              iad</m>; oir bha Ioseph ’san Eiphit a cheana. [...]</gd>
+          <tr>Now these are the names of the children of Israel, which came into Egypt; every man
+            and his household came with Jacob. Reuben, Simeon, Levi, and Judah, [...] And all the
+            souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt
+            already. [...] [KJV]</tr>
+          <ref text="160">Ecsodus I.1–5</ref>
+        </li>
+      </xl>
+    </p>
+  </section>
+
+
+
+  <module id="is_iad_seo" status="bronze">
+    <h>is iad seo</h>
+    <p><g>is iad seo ...</g>
+      <en>these are ...</en> (cf. <g>seo ...</g>)</p>
+    <p>Biblical examples – <xl id="is_iad_seo-exs">
+        <li>
+          <gd>A Nis <m>is iad so ainmeanna chloinn Israeil</m>, a thàinig do’n Eiphit; thàinig gach
+            duine agus a theaghlach maille re Iacob: Reuben, Simeon, Lebhi, agus Iudah, Isachar,
+            Sebulun, agus Beniamin, Dan, agus Naphtali, Gad, agus Aser. [...]</gd>
+          <tr>Now these are the names of the children of Israel, which came into Egypt; every man
+            and his household came with Jacob. Reuben, Simeon, Levi, and Judah, Issachar, Zebulun,
+            and Benjamin, Dan, and Naphtali, Gad, and Asher. [...] [KJV]</tr>
+          <ref text="160">Ecsodus I.1–4</ref>
+        </li>
+      </xl>
+    </p>
+
+  </module>
+
+  <section id="cleft">
+    <h>cleft clauses</h>
+    <p>Examples of usage – <xl id="cleft-exs">
+        <li>
+          <gd>Tha ar linn fhìn a’ coimhead <m>gur e feallsanach mór a bh’ ann de Khierkegaard</m>,
+            gidheadh feallsanach eu-coltach ri a roi-shealbhadairean, ach a-mhàin, ’s math dh’
+            fhaoite, Nietzche.</gd>
+          <tr>Our own era views Kierkegaard as a great philosopher, even if a philosopher different
+            to his predecessors, aside from, perhaps, Nietzsche.</tr>
+          <ref text="400-41">td. 103</ref>
+        </li>
+        <li>
+          <gd>Bha feallsanach mar Hegel a’ togail riaghailtean móra a dheanadh an saoghal air a
+            thaobh a-muigh fhéin soilleir, ach <m>cha b’ ann mar sin a bha Kierkegaard</m>.</gd>
+          <tr>A philosopher like Hegel constructed grand rules which made the external world itself
+            clear but K. was not like that.</tr>
+          <ref text="400-41">td. 103</ref>
+        </li>
+        <li>
+          <gd>Ma bha Hegel a’ déiligeadh ris an t-saoghal ar an taobh a-muigh, <m>’sann</m> a bha
+            Kierkegaard a’ déiligeadh gu tric ris an fheallsanach fhéin.</gd>
+          <tr>If Hegel dealt with the outside world, it was the philosopher himself that K. usually
+            dealt with.</tr>
+          <ref text="400-41">td. 103</ref>
+        </li>
+      </xl>
+    </p>
+
+    <p>Examples from Gairm – <xl id="cleft-gairm">
+        <li>
+          <gd>[...] A nis, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas ùr againn. Tha sinn
+            an dòchas gun téid gu math dhaibh, agus gun cuir iad spionnadh ás ùr anns an dùthaich
+            air fad. Agus gu seachd àraidh anns a’ Ghaidhealtachd: [...] <m>’Se glé bheag de
+              chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no do fhoghlum agus do
+              litreachas na Gàidhlig.</m> [...]</gd>
+          <tr>Now, the General Election is behind us, and we have a new Government. We hope that
+            they will do well, and that they will re-energise the whole country. And most especially
+            in the Highlands: [...] The Parliament has given very little assistance ever to the
+            Gaelic language or to Gaelic education and literature. [...]</tr>
+          <ref text="400-49">td. 9, ‘Air An Spiris’</ref>
+          <note>object extracting</note>
+        </li>
+        <li>
+          <gd>[...] <m>’Se madainn bhòidheach foghair a bh’ ann</m>—tioram, le ceileir eòin, is
+            beagan dealt air an fheur. Bha a[m] muir ’s na tighean ag éirigh á inntinn an latha.
+            [...]</gd>
+          <tr>[...] It was a beautiful autumn morning – dry, with the chirping of birds, and a
+            little dew on the grass. The sea and the houses were rising from the mind of the day
+            [??]. [...]</tr>
+          <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+        <li>
+          <gd>[...] Choisich e mach ás a’ bhàta a-measg nam faoileagan, ga[n] sguabadh air falbh le
+            a làmhan, agus lean e air suas an aon rathad a bh’ ann gus an ruigeadh e an tigh. Cha
+            robh e duilich tigh Maireid a lorg. “’S iongantach mar a bhios iad a’ smaoineachadh
+              <m>gur ann a reic rudeigin a thainig mi</m>,” thubhairt e ris fhéin le seòrsa de
+            ghàire, ’s e a’ sealltainn ris an inneal a bha e slaodadh. Bha Mairead ’na suidhe ann an
+            cathair ris an teine is plaide timcheall air a glùinean. [...]</gd>
+          <tr>[...] He walked out of the boat among the gulls, brushing them away with his hands,
+            and he continued up the only road that there was until he reached the house. It was not
+            difficult to find Margaret’s house. Margaret was sat in a chair by the fire with a
+            blanket around her knees. [...]</tr>
+          <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+        <li>
+          <gd>[...] Bha Mairead ’na suidhe ann an cathair ris an teine is plaide timcheall air a
+            glùinean. Bha Màiri a’ deanamh na dìnneir. Dh’ innis e dhaibh gur esan an duine a
+            sgrìobh thuca, a dh’ fhaighneachd am b’ urrainn dha a thighinn. “Ai, ai,” arsa Màiri,
+              “<m>’se am maighstir-sgoile a fhreagair do litir</m>.” <m>’Se am maighstir-sgoile a
+              fhreagair an litir ceart gu leòr.</m> Chuimhnich e air facal no dhà; “enterprise,”
+            “praiseworthy,” “these people” “most faithfully,” “Colin Greene, M.A.” [...]</gd>
+          <tr>[...] Margaret was sat in a chair by the fire with a blanket around her knees. Mary
+            was making the dinner. He told them that he was the man who had written to them, asking
+            if he could come. “Aye, aye,” said Mary, “it was the schoolmaster that replied to your
+            letter.” It had indeed been the schoolmaster who had replied to the letter. He recalled
+            a word or two; [...]</tr>
+          <ref text="400-46">td. 169–70, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+        <li>
+          <gd>[...] “Rinn e òran dhomh. Oran briagha.” Thainig lasadh de bhòidhchead charach ’na
+            h-aodann. “Cha robh sinn ach fichead bliadhna a dh’ aois.” Thainig an samhradh a-steach
+            air an uinneig mar bhoireannach. “<m>’Se Sasunnach a bh’ ann</m>,” ars ise le prois, ’s
+            thainig facail a-mach ás a beul mar mhionnan, “darling,” “come back,” “remember.”
+            [...]</gd>
+          <tr>[...] “He sang me a song. A beautiful song.” A glimmer of sly beauty came in [over]
+            her face. “We were just twenty years of age.” The summer came in through the window like
+            a woman. “He was an Englishman,” she said with pride, and words came out from her mouth
+            like curses, [...]</tr>
+          <ref text="400-46">td. 170, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+        <li>
+          <gd>[...] “<m>’Be an samhradh a bh’ ann.</m> ’S bhiodh sinn a’ falbh còmhla ri chéile,
+            a-measg nan cnoc. Cha robh càil ann ach boltradh. Bha mise ’g ionnsachadh na Beurla. Cha
+            robh esan math air a’ Ghàidhlig. [...]”</gd>
+          <tr>[...] “It was summer. And we would be going out together, among the hills. There was
+            nothing but fragrance. I was learning English. He wasn’t good at Gaelic. [...]”</tr>
+          <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+      </xl></p>
+
+    <p>Other examples from modern usage – <xl id="cleft-other">
+        <li>
+          <gd><m>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn.</m> Rinn
+            e sin tro dhìcheall, obair chruaidh agus tàlant malairt a bha neo-ghnàthach. An-diugh
+            tha iomadh companaidh na ainm air feadh na Gàidhealtachd. [...]</gd>
+          <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. He did that
+            through duty, hard work and a talent for business that was unusual. Today there are many
+            companies in his name all over the Highlands. [...]</tr>
+          <ref text="2">td. 5</ref>
+        </li>
+        <li>
+          <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. [...] Bha
+            seachdnar de theaghlach aige, ceathrar mhac agus triùir nighean, agus bha a h-uile fear
+            is tè anns a’ mhalairt ach Rob. B’ e Rob a b’ òige agus lean e an sgoil. Nuair a ràinig
+            e an t-oilthigh bha càch airson gun ionnsaicheadh e cunntasachd, a bhiodh feumail anns
+            a’ mhalairt, ach <m>’s ann a bha ùidh-san ann an ealain</m>. [...]</gd>
+          <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. [...] He
+            had a family of seven, four sons and three daughters, and every man and woman was in the
+            business except Rob. Rob was the youngest and he stayed on at school. When he reached
+            the university the others wanted him to learn accountancy, which would be useful in the
+            business, but his interest was in art. [...]</tr>
+          <ref text="2">td. 5</ref>
+        </li>
+      </xl>
+    </p>
+
+  </section>
+
+</module>

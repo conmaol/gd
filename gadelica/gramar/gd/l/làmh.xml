@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>làmh</h>
+    <p><g>làmh</g>
+        <en>hand</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+
+
+    <section>
+        <h>uses</h>
+        <section id="comp">
+            <h>complement</h>
+            <p><g>làmh</g> can appear as the complement of certain prepositions – <ul>
+                    <li><g><a href="?gd=an^preposition">ann an</a> làimh</g>
+                        <en>in someone’s hand</en> – <ul>
+                            <li>older pedagogical examples – <xl id="an-older-pedag">
+                                    <li>
+                                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha
+                                            air falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa
+                                            nan litrichean leis an litir seo, Iain?” “Théid,” ars
+                                            Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi
+                                            i is gus an cuir mi seòladh oirre. Ceannaich fhéin stamp
+                                            agus cuir oirre i.” Tha Iain a’ ruith sìos an rathad
+                                            leis an litir <m>’na làimh</m>. </gd>
+                                        <tr>My mother is writing a letter to my father who is away.
+                                            My mother said, “Will you go to the postbox with this
+                                            letter, John?” “Yes, I will,” said John, “I will leave
+                                            now.” “Wait until I seal it and put an address on it.
+                                            Buy a stamp and put it on it.” John is running down the
+                                            road with the letter in his hand. </tr>
+                                        <ref text="621">td. 5</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+</module>

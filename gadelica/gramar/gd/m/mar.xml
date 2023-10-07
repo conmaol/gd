@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+  <h lang="en">mar</h>
+  <h lang="gd">mar</h>
+  <p lang="en">Examples – <xl id="exs">
+      <li>
+        <gd>[...] A nis, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas ùr againn. Tha sinn
+          an dòchas gun téid gu math dhaibh, agus gun cuir iad spionnadh ás ùr anns an dùthaich air
+          fad. Agus gu seachd àraidh anns a’ Ghaidhealtachd: gun tòisich obair an dealain a rithist,
+          gun cuirear tuilleadh bhàtaichean-iasgaich an sàs, gum faigh na Gaidheil cothrom air
+          fearann na Gaidhealtachd obrachadh dhaibh fhéin, ás bith an ann <m>mar chroitean no mar
+            innis no mar choille</m>, gun bhacadh o bhàllidh no o thighearna.</gd>
+        <tr>[...] Now, the General Election is behind us, and we have a new Government. We hope that
+          they will do well, and that they will re-energise the whole country. And most especially
+          in the Highlands: that electricity work will restart, that more fishing boats will be put
+          into service [?], that the Gaels will get the opportunity to work the land of the
+          Highlands for themselves, whether <u>as crofts or as grazing or as forest</u>, without
+          hindrance from a bailiff or from a laird.</tr>
+        <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+      </li>
+    </xl>
+  </p>
+  <p lang="gd">...</p>
+
+  <module id="mar_sin_air_adhart">
+    <h lang="en">agus mar sin air adhart</h>
+    <h lang="gd">agus mar sin air adhart</h>
+    <p lang="en">Examples – <xl id="msaa-exs">
+        <li>
+          <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no do
+            fhoghlum agus do litreachas na Gàidhlig. [...] Dé na rudan a dh’ fhaodadh sinn iarraidh?
+            Tuilleadh de luchd-teagaisg ’s de luchd-ceasnachaidh Gàidhlig. Airgead gu leabhraichean
+            uallachadh is a chlo-bhualadh. Barrachd tìde air an réidio agus air telebhisean. Dithis
+            dhaoine a chur an sàs anns na làmh-sgrìobhainnean Gàidhlig san Leabharlann Nàiseanta,
+            agus dithis eile san Ordnance Survey. Barrachd rannsachaidh air caitheamh-beatha nan
+            Gaidheal, an cànan, an eachdraidh, an ceòl, <m>is mar sin air adhart</m>.[...]</gd>
+          <tr>[...] The Parliament has given very little assistance ever to the Gaelic language or
+            to Gaelic education and literature. [...] What are the things that we could demand? More
+            Gaelic teachers and inspectors. Money to prepare and print books. More time on the radio
+            and on television. Involving two people in the Gaelic manuscripts in the National
+            Library, and two others in the Ordnance Survey. More research on the lifestyle of the
+            Gaels, their language, their history, their music, <u>and so on</u>. [...]</tr>
+          <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+        </li>
+      </xl>
+    </p>
+    <p lang="gd">...</p>
+  </module>
+
+  <module id="mar_a">
+    <h lang="en">mar a</h>
+    <h lang="gd">mar a</h>
+    <p lang="en">cf. relative particle <a href="?gd=a^relative">a</a>.</p>
+    <p lang="gd">...</p>
+    <p lang="en">Examples from Gairm – <xl id="mar_a-gairm">
+        <li>
+          <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha fhios gun dig
+            iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C. [...] <m>Mar a bhios</m> obair a’
+            Bh.B.C. a’ leudachadh anns a’ Ghaidhealtachd—agus tha fhios gun tachair so leis na
+            stéiseanan ùra a thathas a’ togail—bithidh sùil againn ri daoine ùra ’s ri dòighean ùra.
+            [...]</gd>
+          <tr>During the seasons and the years that are ahead of us, it is known that many changes
+            will come to the Gaelic Department of the BBC. [...] As the work of the BBC will be
+            expanding in the Highlands – and it is known that this will happen with the new stations
+            that are being established – we will be expecting new people and new methods. [...]</tr>
+          <ref text="400-48">td. 297, ‘Air An Spiris’</ref>
+          <note>abstract, passive object extraction</note>
+        </li>
+        <li>
+          <gd>[...] Choisich e mach ás a’ bhàta a-measg nam faoileagan, ga[n] sguabadh air falbh le
+            a làmhan, agus lean e air suas an aon rathad a bh’ ann gus an ruigeadh e an tigh. Cha
+            robh e duilich tigh Maireid a lorg. “’S iongantach <m>mar a bhios iad a’
+              smaoineachadh</m> gur ann a reic rudeigin a thainig mi,” thubhairt e ris fhéin le
+            seòrsa de ghàire, ’s e a’ sealltainn ris an inneal a bha e slaodadh. Bha Mairead ’na
+            suidhe ann an cathair ris an teine is plaide timcheall air a glùinean. [...]</gd>
+          <tr>[...] He walked out of the boat among the gulls, brushing them away with his hands,
+            and he continued up the only road that there was until he reached the house. It was not
+            difficult to find Margaret’s house. Margaret was sat in a chair by the fire with a
+            blanket around her knees. [...]</tr>
+          <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+        <li>
+          <gd>[...] “Rinn e òran dhomh. Oran briagha.” Thainig lasadh de bhòidhchead charach ’na
+            h-aodann. “Cha robh sinn ach fichead bliadhna a dh’ aois.” Thainig an samhradh a-steach
+            air an uinneig mar bhoireannach. “’Se Sasunnach a bh’ ann,” ars ise le prois, ’s thainig
+            facail a-mach ás a beul mar mhionnan, “darling,” “come back,” “remember.” Chunnaic e
+            Màiri a’ tionndadh a ceann air falbh ’s dh’aithnich e airson a’ chiad uair <m>mar a tha
+              an aois beò ann an rìoghachd gun nàire</m>. [...]</gd>
+          <tr>[...] “He sang me a song. A beautiful song.” A glimmer of sly beauty came in [over]
+            her face. “We were just twenty years of age.” The summer came in through the window like
+            a woman. “He was an Englishman,” she said with pride, and words came out from her mouth
+            like curses, [...] He saw Mary turning her head away and he realised for the first time
+            how old age is alive in a kingdom without shame [??] [...]</tr>
+          <ref text="400-46">td. 170, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+        <li>
+          <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan fhalbh aon choigreach
+            le mo leanabh. Cha teid i gu aon dannsa, tha sin cinnteach. Tha. Tha. Na bi
+            smaoineachadh gun teid, a leanaibh. Chan eil fhios agad mu ’n deidhinn, <m>mar a th’
+            agamsa</m>.” “Carson nach do bhàsaich thu o chionn leth-cheud bliadhna,” dh’ éigh
+            Màiri. Bha i smaoineachadh air na gnothaichean ud fhathast! [...]</gd>
+          <tr>[...] Her voice grew louder. “One thing is certain, not one stranger will leave [go
+            out?] with my child. She will not go to a single dance, that is certain. It is. It is.
+            Do not be thinking that you will, child. You don’t know about them, as I do.” “Why did
+            you not die fifty years ago,” shouted Mary. She was still thinking about those matters!
+            [...]</tr>
+          <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+      </xl></p>
+    <p lang="gd">...</p>
+    <p lang="en">Biblical examples – <xl id="bible">
+        <li>
+          <gd>[...] Agus labhair righ na h-Eiphit re mnaibh-glùine nan Eabhruidheach [...] Agus
+            thubhairt e, ’Nuair a ni sibh gnìomh mnà-glùine do na mnaibh Eabhruidheach, agus a chi
+            sibh iad air na stòlaibh; ma’s mac a bhios ann, ’an sin marbhaidh sibh e, ach ma’s
+            nighean a bhios ann, bithidh si beo. Ach bha eagal Dé air na mnaibh-glùine, agus cha
+            d’rinn iad <m>mar a dh’àithn righ na h-Eiphit dhoibh</m>, ach ghleidh iad a’ chlann mhac
+            beo. [...]</gd>
+          <tr>[...] And the king of Egypt spake to the Hebrew midwives [...] And he said, When ye do
+            the office of a midwife to the Hebrew women, and see them upon the stools; if it be a
+            son, then ye shall kill him: but if it be a daughter, then she shall live. But the
+            midwives feared God, and did not as the king of Egypt commanded them, but saved the men
+            children alive. [...]</tr>
+          <ref text="160">Ecsodus I.15–17</ref>
+        </li>
+      </xl>
+    </p>
+    <p lang="gd">...</p>
+    <module id="mar_as_motha">
+      <h lang="en">mar as motha a ...</h>
+      <h lang="gd">mar as motha a ...</h>
+      <p lang="en">Biblical examples – <xl id="mar_as_motha-bible">
+          <li>
+            <gd>[...] A nis dh’éirich righ ùr air an Eiphit, do nach b’aithne Ioseph. Agus thubhairt
+              e r’a shluagh, Feuch, tha sluagh chloinn Israeil ni’s lìonmhoire agus ni’s
+              cumhachdaiche na sinne. Thigibh, buineamaid gu seòlta : an t-eagal gu’m fàs iad
+              lìonmhor, agus gu’n tachair e, ’nuair a dh’éireas cogadh, gu’n gabh iadsan mar an
+              ceudna le ’r naimhdibh-ne, agus gu’n cog iad ’nar n-aghaidh, agus gu’n d’théid iad a
+              mach as an tìr. Uime sin chuir iad maighstirean-oibre orra, chum an sàrachadh le’n
+              eallachaibh. [...] Ach <m>mar is mò a shàraich siad iad, ’s ann is mò a rinneadh
+                iadsan lìonmhor agus a dh’fhàs iad</m>. Agus bha iad fuidh dhoilgheas air son
+              chloinn Israeil. [...]</gd>
+            <tr>[...] Now there arose up a new king over Egypt, which knew not Joseph. And he said
+              unto his people, Behold, the people of the children of Israel are more and mightier
+              than we: Come on, let us deal wisely with them; lest they multiply, and it come to
+              pass, that, when there falleth out any war, they join also unto our enemies, and fight
+              against us, and so get them up out of the land. Therefore they did set over them
+              taskmasters to afflict them with their burdens. [...] But the more they afflicted
+              them, the more they multiplied and grew. And they were grieved because of the children
+              of Israel. [...]</tr>
+            <ref text="160">Ecsodus I.8-12</ref>
+          </li>
+        </xl>
+      </p>
+      <p lang="gd">...</p>
+    </module>
+
+  </module>
+
+
+  <!--
+  <title lang="en">mar</title>
+  <title lang="gd">mar</title>
+  <p lang="en"><strong>mar</strong>
+    <en>like, as</en> is a preposition.</p>
+  <hr/>
+  <p lang="en">Examples of usage –</p>
+  <ulx id="exs">
+    <lix>
+      <gd>Bha feallsanach <m>mar</m> Hegel a’ togail riaghailtean móra a dheanadh an saoghal air a thaobh a-muigh fhéin soilleir, ach cha b’ ann <m>mar</m> sin a bha Kierkegaard.</gd>
+      <tr>A philosopher <u>like</u> Hegel constructed grand rules which made the external world itself clear but K. was not <u>like</u> that.</tr>
+      <ref text="400-41">td. 103</ref>
+    </lix>
+  </ulx>
+  <hr/>
+  <h lang="en">mar sin</h>
+  <p lang="en">Examples of usage –</p>
+  <ulx id="mar_sin">
+    <lix>
+      <gd>Bha beagan airgid aige ’s <m>mar sin</m> chaith e a bheatha a’ sgrìobhadh, gun feum aige air obair eile a dhèanamh.</gd>
+      <tr>He had a little money and <u>therefore</u> he devoted his life to writing, without the need to do other work.</tr>
+      <ref text="400-41">td. 103</ref>
+    </lix>
+  </ulx>
+
+  <p>The Gaelic particle <strong>mar</strong> is used as a kind of preposition or conjunction, and corresponds to various senses of the English particles ‘like’, ‘as’, and ‘how’.</p>
+  <p>Internally, <strong>mar</strong> governs one of the following as its complement:</p>
+  <ul>
+    <li>a (nominative) noun or pronoun, e.g. <mark>mar chù</mark>
+      <small class="text-muted">‘like a dog’</small>, <mark>mar seo</mark>
+      <small class="text-muted">‘like this’</small></li>
+    <li>a (positive) relative clause introduced by the particle <strong>a</strong>, e.g. <mark>mar a sheinn Màiri</mark>
+      <small class="text-muted">‘like Mary sang’</small></li>
+    <li>a (positive) noun clause introduced by the particle <strong>gun</strong>, e.g. <mark>mar gum biodh iad sgìth</mark>
+      <small class="text-muted">‘as if they were tired’</small></li>
+  </ul>
+  <p>Externally, <strong>mar</strong> is governed in one the following ways:</p>
+  <ul>
+    <li>as the complement of the copular verb <strong>bi</strong>, e.g. <mark>Tha Iain mar chù.</mark>
+      <small class="text-muted">‘John is like a dog.’</small>
+      <small><a data-toggle="modal" data-target="#predicative-bi" href="#">[more]</a></small>
+    </li>
+    <li>as a modifier of a (common) noun, e.g. <mark>aodann mar chù</mark>
+      <small class="text-muted">‘a face like a dog’</small>
+      <small><a data-toggle="modal" data-target="#adnominal" href="#">[more]</a></small>
+    </li>
+    <li>as a ‘manner’ modifier of a verb, <ul>
+        <li><strong>mar a</strong>, e.g. e.g. <mark>Dh’ith e mar a sheinn Màiri.</mark>
+          <small class="text-muted">‘He ate like Mary sang.’</small>
+          <small><a data-toggle="modal" data-target="#manner-relative" href="#">[more]</a></small>
+        </li>
+        <li><strong>mar gun</strong>, e.g. e.g. <mark>Dh’ith e mar gun robh an t-uisge ann.</mark>
+          <small class="text-muted">‘He ate as if it were raining.’</small>
+          <small><a data-toggle="modal" data-target="#manner-noun-clause" href="#">[more]</a></small>
+        </li>
+        <li>prepositional, e.g. <mark>Dh’ith e mar chù.</mark>
+          <small class="text-muted">‘He ate like a dog.’</small>
+          <small><a data-toggle="modal" data-target="#manner-prepositional" href="#">[more]</a></small>
+        </li>
+      </ul>
+    </li>
+    <li>as a ‘parenthetical’ adjunct to a clause, e.g. <mark>Mar a h-uile cù, is toil leis isbeanan.</mark>
+      <small class="text-muted">‘Like all dogs, he likes sausages.’</small>
+      <ul>
+        <li><mark>mar sin</mark>
+          <small class="text-muted">‘therefore’</small></li>
+        <li><mark>mar as àbhaist</mark>
+          <small class="text-muted">‘as usual’</small></li>
+        <li><mark>mar as trice</mark>
+          <small class="text-muted">‘usually’</small></li>
+      </ul>
+    </li>
+    <li>as the complement of certain verbs, adjectives and nouns, e.g. <mark>Tha e ag obair mar sgrìobhadair.</mark>
+      <small class="text-muted">‘He is working as a writer.’</small></li>
+    <li>as the complement of a copular pronoun, e.g. <mark>Sin mar a sheinn Màiri.</mark>
+      <small class="text-muted">‘That is how Mary sang.’</small></li>
+  </ul>
+  <p>Note that <strong>mar</strong> can, in most of its uses, be intensified with the adverb <strong>dìreach</strong>, i.e. <mark>dìreach mar</mark>
+    <small class="text-muted">‘just like’</small>.</p>
+  <hr/>
+
+  <div class="modal fade" id="predicative-bi" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel"><em>mar</em> as the complement of <em>bi</em></h5>
+          <button type="button" class="close" data-dismiss="modal">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>When <strong>mar</strong> governs a (nominative) noun or pronoun, it commonly occurs in a context where it is the predicative complement of the copular verb <strong>bi</strong>, and
+            corresponds to the English preposition ‘like’, i.e. <strong>bi mar</strong> ‘be like’. This construction asserts that the entity denoted by the subject of <strong>bi</strong> is
+              <em>similar</em> in some significant way to the entity denoted by the noun that <strong>mar</strong> governs. For example:</p>
+          <ul>
+            <li class="ex" data-slip="2789"/>
+            <li class="ex" data-slip="2825"/>
+          </ul>
+          <p>These two examples involve similes – the garden is compared to an oasis, and the man to a lump of iron. In the following example, the target of the comparison is a definite noun, the
+            legendary Lewis outlaw <em>Mac an t-Srònaich</em>:</p>
+          <ul>
+            <li class="ex" data-slip="2828"/>
+          </ul>
+          <p>When <strong>mar</strong> occurs in an ungoverned context, the copular verb is usually understood as being implicit:</p>
+          <ul>
+            <li class="ex" data-slip="2833"/>
+          </ul>
+          <p>When <strong>mar</strong> is governed by <strong>bi</strong>, it is usually itself prepositional, governing a noun or pronoun. However, occasional examples are found where it governs a
+            relative clause:</p>
+          <ul>
+            <li class="ex" data-slip="2919"/>
+          </ul>
+          <p>[Note: this relative clause contains a ‘gap’, i.e. bu chòir dha bhith mar sin]</p>
+          <p>cf. <strong>coltach ri</strong></p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="adnominal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Adnominal <em>mar</em></h5>
+          <button type="button" class="close" data-dismiss="modal">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>Another common use of prepositional <strong>mar</strong> is as an adnominal, directly modifying another noun. Here, it is usually asserted that the entity denoted by the modified noun is
+            similar to the entity denoted by the noun that <strong>mar</strong> governs. For example:</p>
+          <ul>
+            <li class="ex" data-slip="2792"/>
+            <li class="ex" data-slip="2846"/>
+          </ul>
+          <p>The following adnominal example is deceptive in that it is asserted that the two nouns denote the <em>same</em> entity, rather than two distinct but similar entities. It may be an example
+            of English influence:</p>
+          <ul>
+            <li class="ex" data-slip="2805"/>
+          </ul>
+          <p>When used adnominally, <strong>mar</strong> is usually used as a preposition, governing a (nominative) noun or pronoun. However, in the following example, it governs a relative clause and
+            appears to modify the noun <strong>cuideachadh</strong>
+            <small class="text-muted">‘assistance’</small>:</p>
+          <ul>
+            <li class="ex" data-slip="2923"/>
+          </ul>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="manner-relative" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel"><em>mar</em> as the complement of <em>bi</em></h5>
+          <button type="button" class="close" data-dismiss="modal">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>Another common use of <strong>mar</strong> is as a kind of subordinating conjunction expressing a concept similar to a manner adverb, i.e. modifying a verb and describing in more detail
+              <em>how</em> the action denoted by that verb was carried out. When used as a conjunction, <strong>mar</strong> itself governs a verb rather than a noun, and asserts that the action
+            denoted by the superordinate verb is similar in manner to the action denoted by the subordinate verb.</p>
+          <p>In its first manner adverbal use, <strong>mar</strong> governs a (positive) relative clause, introduced by the relative particle <strong>a</strong>. The verb within the relative clause
+            denotes an event which is assumed to have actually happened or which is going to actually happen. This usage corresponds to the English conjunction ‘as’. For example:</p>
+          <ul>
+            <li class="ex" data-slip="2779"/>
+            <li class="ex" data-slip="2889"/>
+            <li class="ex" data-slip="2880"/>
+          </ul>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="manner-noun-clause" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel"><em>mar</em> as the complement of <em>bi</em></h5>
+          <button type="button" class="close" data-dismiss="modal">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>In its second manner adverbal use, <strong>mar</strong> governs a (positive) complement clause, introduced by the dependent verb particle <strong>gun</strong>. The subordinate verb is
+            usually a conditional form of <strong>bi</strong> (or a past tense form with conditional force). Here the assumption is that the state denoted by the subordinate clause is purely
+            hypothetical. For example:</p>
+          <ul>
+            <li class="ex" data-slip="2841"/>
+            <li class="ex" data-slip="2840"/>
+          </ul>
+          <p>Here are two examples involving cleft constructions:</p>
+          <ul>
+            <li class="ex" data-slip="2838"/>
+            <li class="ex" data-slip="2839"/>
+          </ul>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" id="manner-prepositional" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel"><em>mar</em> as the complement of <em>bi</em></h5>
+          <button type="button" class="close" data-dismiss="modal">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>Prepositional <strong>mar</strong> can also be used to introduce a hypothetical manner adverb, for example:</p>
+          <ul>
+            <li class="ex" data-slip="2794"/>
+            <li class="ex" data-slip="2790"/>
+          </ul>
+          <p>The manner phrases in these examples can be paraphrased as ‘as if he were a lawyer’ and ‘as if we were a squad of soldiers’.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <h3>3. Other adverbal uses of <em>mar</em></h3>
+  <p><mark>mar sin</mark>
+    <small class="text-muted">‘therefore’</small>, <mark>mar as àbhaist</mark>
+    <small class="text-muted">‘as usual’</small>, <mark>mar as trice</mark>
+    <small class="text-muted">‘usually’</small>, <mark>mar a thuirt i</mark>
+    <small class="text-muted">‘as she said’</small>, etc. <small><a data-toggle="collapse" href="#other-adverbal">more/less</a></small></p>
+  <div class="collapse" id="other-adverbal">
+    <p>Both as a preposition and a conjunction, <strong>mar</strong> is used in a range of other, more idiomatic adverbal expressions.</p>
+    <h5>
+      <em>mar sin</em>
+    </h5>
+    <p>‘so’, ‘therefore’, ‘for that reason’</p>
+    <ul>
+      <li class="ex" data-slip="2768"/>
+      <li class="ex" data-slip="2771"/>
+      <li class="ex" data-slip="2774"/>
+    </ul>
+    <h5>mar as àbhaist</h5>
+    <p>‘as usual’</p>
+    <ul>
+      <li class="ex" data-slip="2907"/>
+      <li class="ex" data-slip="2910"/>
+    </ul>
+    <p>cf. <strong>àbhaist</strong></p>
+    <h5>mar as trice</h5>
+    <p>‘usually’</p>
+    <ul>
+      <li class="ex" data-slip="2884"/>
+      <li class="ex" data-slip="2914"/>
+    </ul>
+    <p>cf. <strong>tric</strong></p>
+    <h5>mar a thuirt i</h5>
+    <p>‘as she said’</p>
+    <ul>
+      <li class="ex" data-slip="2895"/>
+      <li class="ex" data-slip="2905"/>
+      <li class="ex" data-slip="2897"/>
+    </ul>
+    <p>Note that future and conditional forms of the irregular verb <strong>abair</strong> are usually avoided in many modern dialects, in favour of either forms of the regular verb
+        <strong>can</strong> or progressive constructions with the verbal noun <strong>ràdh</strong>.</p>
+    <h5>Others</h5>
+    <ul>
+      <li class="ex" data-slip="2780"/>
+      <li class="ex" data-slip="2781"/>
+      <li class="ex" data-slip="2917"/>
+      <li class="ex" data-slip="2888"/>
+      <li class="ex" data-slip="2921"/>
+      <li class="ex" data-slip="2924"/>
+      <li class="ex" data-slip="2926"/>
+    </ul>
+    <p>Prepositional:</p>
+    <ul>
+      <li class="ex" data-slip="2783"/>
+      <li class="ex" data-slip="2791"/>
+      <li class="ex" data-slip="2807"/>
+    </ul>
+  </div>
+
+  <h3>4. Complement uses of <em>mar</em></h3>
+  <h5>(a) Employment ‘as’</h5>
+  <p><mark>Tha mo bhean ag obair mar thidsear.</mark>
+    <small class="text-muted">‘My wife works as a teacher.’</small>
+    <small><a data-toggle="collapse" href="#complement-employment">more/less</a></small></p>
+  <div class="collapse" id="complement-employment">
+    <p>Prepositional <strong>mar</strong> can also be used to introduce the complement of a verb, noun or adjective. Many of these cases involve the semantic domain of ‘employment’:</p>
+    <table class="table">
+      <tbody>
+        <tr>
+          <td><strong>ag obair mar</strong>
+            <small class="text-muted">‘working as’</small></td>
+          <td>
+            <ul>
+              <li class="ex" data-slip="2837"/>
+              <li class="ex" data-slip="2801"/>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>suidhich mar</strong>
+            <small class="text-muted">‘appoint as’</small></td>
+          <td>
+            <ul>
+              <li class="ex" data-slip="2835"/>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>dreuchd mar</strong>
+            <small class="text-muted">‘a job/career as’</small></td>
+          <td>
+            <ul>
+              <li class="ex" data-slip="2803"/>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>dèan beòshlaint mar</strong>
+            <small class="text-muted">‘make a living as’</small></td>
+          <td>
+            <ul>
+              <li class="ex" data-slip="2782"/>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <h5>(b) Evaluation/perception/reputation ‘as’</h5>
+  <p><mark>Tha Raonaid a’ meas a’ Phrìomh Mhinisteir mar dearg-amadan.</mark>
+    <small class="text-muted">‘Rachel regards the Prime Minister as a complete fool.’</small>
+    <small><a data-toggle="collapse" href="#complement-evaluation">more/less</a></small></p>
+  <div class="collapse" id="complement-evaluation">
+    <p>Other examples involve ‘evaluation’, ‘perception’ and ‘reputation’ words:</p>
+    <table class="table">
+      <tbody>
+        <tr>
+          <td><strong>meas mar</strong>
+            <small class="text-muted">‘regard something as’</small></td>
+          <td>
+            <ul>
+              <li class="ex" data-slip="2830"/>
+              <li class="ex" data-slip="2784"/>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>coimhead air ... mar</strong>
+            <small class="text-muted">‘see something as’</small></td>
+          <td>
+            <ul>
+              <li class="ex" data-slip="2831"/>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>smaoinich air ... mar</strong>
+            <small class="text-muted">‘think of something as’</small></td>
+          <td>
+            <ul>
+              <li class="ex" data-slip="2834"/>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>ainmeil / iomraiteach mar</strong>
+            <small class="text-muted">‘well-known as’</small></td>
+          <td>
+            <ul>
+              <li class="ex" data-slip="2802"/>
+              <li class="ex" data-slip="2809"/>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <h5>(c) Others</h5>
+  <p><mark/>
+    <small class="text-muted">‘.’</small>
+    <small><a data-toggle="collapse" href="#complement-other">more/less</a></small></p>
+  <div class="collapse" id="complement-other">
+    <table class="table">
+      <tbody>
+        <tr>
+          <td><strong>air a sgeadachadh mar</strong> ‘dressed as’</td>
+          <td>
+            <ul>
+              <li class="ex" data-slip="2804"/>
+              <li class="ex" data-slip="2810"/>
+              <li class="ex" data-slip="2824"/>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>sgrìobh mar</strong> ‘write as’</td>
+          <td>
+            <ul>
+              <li class="ex" data-slip="2832"/>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>tachartasan mar</strong> ‘one’s exploits as’</td>
+          <td>
+            <ul>
+              <li class="ex" data-slip="2826"/>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+
+  <h3>5. Embedded questions / free relatives</h3>
+  <p>Free relatives (as dialectal alternative to <strong>na</strong>):</p>
+  <ul>
+    <li class="ex" data-slip="2844"/>
+    <li class="ex" data-slip=""/>
+    <li class="ex" data-slip=""/>
+    <li class="ex" data-slip=""/>
+    <li class="ex" data-slip=""/>
+    <li class="ex" data-slip=""/>
+  </ul>
+  <p>Embedded questions (as dialectal alternative to <strong>ciamar a</strong>):</p>
+  <ul>
+    <li class="ex" data-slip="2886"/>
+    <li class="ex" data-slip="2883"/>
+    <li class="ex" data-slip="2800"/>
+    <li class="ex" data-slip="2778"/>
+    <li class="ex" data-slip="2912"/>
+    <li class="ex" data-slip="2929"/>
+  </ul>
+  <p>Unclear:</p>
+  <ul>
+    <li class="ex" data-slip="2882"/>
+    <li class="ex" data-slip="2911"/>
+    <li class="ex" data-slip="2913"/>
+    <li class="ex" data-slip="2847"/>
+    <li class="ex" data-slip="2885"/>
+    <li class="ex" data-slip=""/>
+  </ul>
+  -->
+</module>

@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>falbh</h>
+    <p><b>falbh</b>
+        <en>leave, depart, go away</en> is an intransitive verb, with verbal noun <b>falbh</b>
+        <masc/></p>
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>falbh</g> are – <ul>
+                <li><m>falbhaidh</m> – future independent ie. <en>will leave</en></li>
+                <li><m>dh’falbh</m> – past independent ie. <en>left</en></li>
+                <li><m>falbh</m> – verbal noun ie. <en>leaving</en></li>
+            </ul>
+        </p>
+        <section>
+            <h>tense</h>
+            <p>
+                <ul>
+                    <li>past <ul id="past">
+                            <li>active <ul>
+                                    <li>independent – <m>dh’falbh</m></li>
+                                    <li>relative – a <m>dh’falbh</m></li>
+                                    <li>dependent – cha/an/nach <m>do dh’falbh</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>dh’fhalbhadh</m></li>
+                                    <li>relative – a <m>dh’fhalbhadh</m></li>
+                                    <li>dependent – cha/an/nach <m>do dh’fhalbhadh</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>future <ul id="future">
+                            <li>active <ul>
+                                    <li>independent – <m>falbhaidh</m></li>
+                                    <li>relative – a <m>dh’fhalbhas</m></li>
+                                    <li>dependent – chan/nach <m>fhalbh</m>, am <m>falbh</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>falbhar</m></li>
+                                    <li>relative – a <m>dh’fhalbhar</m></li>
+                                    <li>dependent – chan/nach <m>fhalbhar</m>, am
+                                        <m>falbhar</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>conditional <ul id="conditional">
+                            <li>active <ul>
+                                    <li>first person singular <ul>
+                                            <li>independent – <m>dh’fhalbhainn</m></li>
+                                            <li>relative – a <m>dh’fhalbhainn</m></li>
+                                            <li>dependent – chan/nach <m>fhalbhainn</m>, am
+                                                  <m>falbhainn</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>first person plural <ul>
+                                            <li>independent – <m>dh’falbhamaid</m></li>
+                                            <li>relative – a <m>dh’falbhamaid</m></li>
+                                            <li>dependent – chan/nach <m>fhalbhamaid</m>, am
+                                                  <m>falbhamaid</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>second/third persons <ul>
+                                            <li>independent – <m>dh’fhalbhadh</m></li>
+                                            <li>relative – a <m>dh’fhalbhadh</m></li>
+                                            <li>dependent – chan/nach <m>fhalbhadh</m>, am
+                                                  <m>falbhadh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>dh’falbhte</m></li>
+                                    <li>relative – a <m>dh’falbhte</m></li>
+                                    <li>dependent – chan/nach <m>fhalbhte</m>, am
+                                        <m>falbhte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>status</h>
+            <p><ul>
+                    <li>independent <ul id="independent">
+                            <li>past <ul>
+                                    <li>active – <m>dh’falbh</m></li>
+                                    <li>passive – <m>dh’fhalbhadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – <m>falbhaidh</m></li>
+                                    <li>passive – <m>falbhar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – <m>dh’fhalbhainn</m></li>
+                                            <li>first person plural – <m>dh’fhalbhamaid</m></li>
+                                            <li>second/third persons – <m>dh’fhalbhadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – <m>dh’falbhte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>relative <ul id="relative">
+                            <li>past <ul>
+                                    <li>active – a <m>dh’falbh</m></li>
+                                    <li>passive – a <m>dh’fhalbhadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – a <m>fh’fhalbhas</m></li>
+                                    <li>passive – a <m>dh’fhalbhar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – a <m>dh’fhalbhainn</m></li>
+                                            <li>first person plural – a <m>dh’fhalbhamaid</m></li>
+                                            <li>second/third persons – a <m>dh’fhalbhadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – a <m>dh’falbhte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="dependent">
+                            <li>past <ul>
+                                    <li>active – cha/an/nach <m>do dh’falbh</m></li>
+                                    <li>passive – cha/an/nach <m>do dh’fhalbhadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – chan/nach <m>fhalbh</m>, am <m>falbh</m></li>
+                                    <li>passive – chan/nach <m>fhalbhar</m>, am <m>falbhar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – chan/nach <m>fhalbhainn</m>,
+                                                am <m>falbhainn</m></li>
+                                            <li>first person plural – chan/nach <m>fhalbhamaid</m>,
+                                                am <m>falbhamaid</m></li>
+                                            <li>second/third persons – chan/nach <m>fhalbhadh</m>,
+                                                am <m>falbhadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – chan/nach <m>fhalbhte</m>, am <m>falbhte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul></p>
+        </section>
+        <section>
+            <h>voice</h>
+            <p>
+                <ul>
+                    <li>active <ul id="active">
+                            <li>past <ul>
+                                    <li>independent – <m>dh’falbh</m></li>
+                                    <li>relative – a <m>dh’falbh</m></li>
+                                    <li>dependent – cha/an/nach <m>do dh’falbh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>falbhaidh</m></li>
+                                    <li>relative – a <m>dh’fhlabhas</m></li>
+                                    <li>dependent – chan/nach <m>fhalbh</m>, am <m>falbh</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent <ul>
+                                            <li>first person singular – <m>dh’fhalbhainn</m></li>
+                                            <li>first person plural – <m>dh’fhalbhamaid</m></li>
+                                            <li>second/third persons – <m>dh’fhalbhadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>relative <ul>
+                                            <li>first person singular – a <m>dh’fhalbhainn</m></li>
+                                            <li>first person plural – a <m>dh’fhalbhamaid</m></li>
+                                            <li>second/third persons – a <m>dh’fhalbhadh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>dependent <ul>
+                                            <li>first person singular – chan/nach <m>fhalbhainn</m>,
+                                                am <m>falbhainn</m></li>
+                                            <li>first person plural – chan/nach <m>fhalbhamaid</m>,
+                                                am <m>falbhamaid</m></li>
+                                            <li>second/third persons – chan/nach <m>fhalbhadh</m>,
+                                                am <m>falbhadh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>passive <ul id="passive">
+                            <li>past <ul>
+                                    <li>independent – <m>dh’fhalbhadh</m></li>
+                                    <li>relative – a <m>dh’fhalbhadh</m></li>
+                                    <li>dependent – cha/an/nach <m>do dh’fhalbhadh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>falbhar</m></li>
+                                    <li>relative – a <m>dh’fhalbhar</m></li>
+                                    <li>dependent – chan/nach <m>fhalbhar</m>, am
+                                        <m>falbhar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent – <m>dh’fhalbhte</m></li>
+                                    <li>relative – a <m>dh’falbhte</m></li>
+                                    <li>dependent – chan/nach <m>fhalbhte</m>, am
+                                        <m>falbhte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>imperative</h>
+            <p>
+                <ul>
+                    <li>independent <ul id="imp-ind">
+                            <li>first person singular – <m>falbham</m>!</li>
+                            <li>second person singular – <m>falbh</m>!</li>
+                            <li>first person plural – <m>falbhamaid</m>!</li>
+                            <li>second person plural – <m>falbhaibh</m>!</li>
+                            <li>third person – <m>falbhadh</m>!</li>
+                            <li>passive – <m>falbh(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="imp-dep">
+                            <li>first person singular – na <m>falbham</m>!</li>
+                            <li>second person singular – na <m>falbh</m>!</li>
+                            <li>first person plural – na <m>falbhamaid</m>!</li>
+                            <li>second person plural – na <m>falbhaibh</m>!</li>
+                            <li>third person – na <m>falbhadh</m>!</li>
+                            <li>passive – na <m>falbh(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section id="dependents">
+        <h>dependents</h>
+        <section id="subject">
+            <h>subject</h>
+            <p>The subject of <g>falbh</g> usually refers to a human (or a group of humans), acting
+                under their own volition. – <ul>
+                    <li>pedagogical examples – <xl id="sbj-human-pedag">
+                            <li>
+                                <gd>Ceart! <m>Tha <u>mi</u> a’ falbh.</m></gd>
+                                <tr>Right! I’m going/off/away.</tr>
+                                <ref text="605">td. 176</ref>
+                            </li>
+                            <li>
+                                <gd>A bheil fhios agad gu<m> bheil <u>Màiri</u> a’ falbh le
+                                    Iain</m>?</gd>
+                                <tr>Do you know that Mary is going (out with) with Ian? [ie.
+                                    courting]</tr>
+                                <ref text="601">td. 278</ref>
+                            </li>
+                            <li>
+                                <gd>Nuair a ràinig mi an doras <m>bha <u>an duine</u> air
+                                    falbh</m>.</gd>
+                                <tr>When I reached the door the man had gone.</tr>
+                                <ref text="601">td. 278</ref>
+                            </li>
+                        </xl></li>
+                    <li>older pedagogical examples – <xl id="sbj-human-older-pedag">
+                            <li>
+                                <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air
+                                    falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa nan
+                                    litrichean leis an litir seo, Iain?” “Théid,” ars Iain,
+                                        “<m>falbhaidh mi</m> an dràsda”. [...]</gd>
+                                <tr>My mother is writing a letter to my father who is away. My
+                                    mother said, “Will you go to the postbox with this letter,
+                                    John?” “Yes, I will,” said John, “I will leave now.” [...]</tr>
+                                <ref text="621">td. 5</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li>examples from Gairm – <xl id="sbj-human-gairm">
+                            <li>
+                                <gd>[...] “Thainig e mach á sgoth-luing le na siùil gheala. Cha robh
+                                    facal Gàidhlig aige. [...] Tha thu coltach ris [...]. ’Be an
+                                    samhradh a bh’ ann. [...] Bha mise ’g ionnsachadh na Beurla. Cha
+                                    robh esan math air a’ Ghàidhlig. [...] <m>Aon latha dh’fhalbh
+                                            <u>e</u>.</m> Anns an t-soitheich.” [...]</gd>
+                                <tr>[...] “He came out of a yacht with white sails. He didn’t have a
+                                    word of Gaelic. [...] You look like him. [...] It was the
+                                    summer. [...] I was learning English. He wasn’t good at Gaelic.
+                                    [...] One day he left. In the boat.” [...]</tr>
+                                <ref text="400-46">td. 170–1, le Iain Mac a’ Ghobhainn</ref>
+                            </li>
+                            <li>
+                                <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach,
+                                        <m>chan fhalbh <u>aon choigreach</u> le mo leanabh</m>. Cha
+                                    teid i gu aon dannsa, tha sin cinnteach. Tha. Tha. Na bi
+                                    smaoineachadh gun teid, a leanaibh. Chan eil fhios agad mu ’n
+                                    deidhinn, mar a th’ agamsa.” [...]</gd>
+                                <tr>[...] Her voice grew louder. “One thing is certain, not one
+                                    stranger will leave [go out?] with my child. She will not go to
+                                    a single dance, that is certain. It is. It is. Do not be
+                                    thinking that you will, child. You don’t know about them, as I
+                                    do.” [...]</tr>
+                                <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li>other examples from modern usage – <xl id="sbj-human-other">
+                            <li>
+                                <gd>[...] Thachair cùisean glè aithghearr an uair sin. Thàinig
+                                    heileacoptar le lorg-phoileas agus <m>dh’fhalbh <u>e</u> le na
+                                        h-eucoraich</m>. [...]</gd>
+                                <tr>[...] Things happened very quickly after that. A helicopter came
+                                    with a detective and he left with the criminals. [...]</tr>
+                                <ref text="2">td. 101</ref>
+                            </li>
+                            <li>
+                                <gd>[...] An ath mhadainn dh’fhalbh Rob agus cha robh sgeul air fad
+                                    na bliadhna. Bha amharas againn gur e a mhurt a rinn sgalagan an
+                                    uachdarain, agus nuair a chuala sinn <m>gun dh’fhalbh <u>an
+                                            t-uachdaran fhèin agus Mab</u> gu Tasmania</m>,
+                                    cho-dhùin sinn gur e a chiont a ghluais e. [...]</gd>
+                                <tr>[...] The next morning Rob left and there was no trace of him
+                                    all year long. We suspected that the landlord’s men had killed
+                                    him, and when we heard that the landlord himself and Mab had
+                                    left for Tasmania, we concluded that it was guilt that motivated
+                                    him. [...]</tr>
+                                <ref text="2">td. 115</ref>
+                            </li>
+                            <li>
+                                <gd>[...] Bha e ag ullachadh a’ bhaidhsagail nuair a thàinig a
+                                    mhàthair far an robh e: “Nach bu chòir dhuit a dhol a
+                                    shealltainn a bheil d’ athair a’ tighinn,” ars ise. <m>Dh’fhalbh
+                                            <u>Dan</u></m>, cha b’ ann dha dheòin, gu mullach a’
+                                    chnuic air cùl a’ chlachain. Bha athair air cluinntinn gu robh
+                                    eathar ag iasgach a-mach bho chladach Ealasword, agus chaidh e a
+                                    dh’fheuchainn am faigheadh e iasg. [...]</gd>
+                                <tr>[...] He was preparing the bicycle when his mother came to where
+                                    he was: “Shouldn’t you go and see if your father is coming,” she
+                                    said. Dan left, reluctantly, for the top of the hill behind the
+                                    village. His father had heard that a boat was fishing out of
+                                    Ealasword beach, and he had gone to see if he could get fish.
+                                    [...]</tr>
+                                <ref text="2">td. 123</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+            <p>The subject sometimes refers to a vehicle under human control – <ul>
+                    <li>pedagogical examples – <xl id="sbj-vehicle-pedag">
+                            <li>
+                                <gd><m>Bidh <u>am pleuna</u> a’ falbh</m> aig còig uairean.</gd>
+                                <tr>The plane will take off at 5 o’clock.</tr>
+                                <ref text="601">td. 278</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li>examples from modern usage – <xl id="sbj-vehicle-other">
+                            <li>
+                                <gd>[...] <m>Bha <u>trèana</u> ag ullachadh airson falbh</m> agus
+                                    dh’fhuirich Ailig gus am faca e duine òg le feusag is
+                                    glainneachan dubh a’ dol dhan trèana leis a’ chèis. [...]</gd>
+                                <tr>[...] A train was preparing to leave and Alec waited until he
+                                    saw a young man with a beard and dark glasses going into the
+                                    train with the case. [...]</tr>
+                                <ref text="2">td. 108</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+            <p>Or to a natural force – <ul>
+                    <li>pedagogical examples – <xl id="sbj-force-pedag">
+                            <li>
+                                <gd>Dh’fhalbh <u>a’ ghaoth</u> leis a’ phàipear.</gd>
+                                <tr>The wind blew away the paper.</tr>
+                                <ref text="601">td. 278</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li>other examples from modern usage – <xl id="sbj-force-other">
+                            <li>
+                                <gd>“[...] Chaidh iad gu tràigh le eathar bheag rubair agus laigh e
+                                    anns a’ ghrèin agus leig iad leis <m><u>an tìde-mhara</u> falbh
+                                        leis an eathar</m>. [...]”</gd>
+                                <tr>“They went to a beach with a little rubber boat and he lay down
+                                    in the sun and they let the tide take the boat out. [...]”</tr>
+                                <ref text="2">td. 106</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+            <p>The subject can refer to a unit of time, especially in the relative <g>... a
+                    dh’fhalbh</g> – <ul>
+                    <li>pedagogical examples – <xl id="sbj-time-pedag">
+                            <li>
+                                <gd>anns <m><u>na bliadhnachan</u> a dh’fhalbh</m></gd>
+                                <tr>in past years</tr>
+                                <ref text="601">td. 278</ref>
+                            </li>
+                            <li>
+                                <gd>... air a stèidheachadh air <m><u>an àm</u> a dh’fhalbh</m></gd>
+                                <tr>based upon the past</tr>
+                                <ref text="601">td. 278</ref>
+                            </li>
+                            <li>
+                                <gd>Bu chòir dhuinn cuimhne a chumail beò air <m><u>na làithean</u>
+                                        a dh’fhalbh</m>.</gd>
+                                <tr>We should keep the memory of bygone days alive.</tr>
+                                <ref text="601">td. 278</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+            <p>Other examples of subjects which are hard to categorise – <ul>
+                    <li>pedagogical examples – <xl id="sbj-other-pedag">
+                            <li>
+                                <gd><m>Bha <u>a shùilean</u> a’ falbh</m> air feadh a’
+                                    choithionail.</gd>
+                                <tr>His eyes were going throughout the congregation.</tr>
+                                <ref text="601">td. 278</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>complements</h>
+            <section id="strict">
+                <h>strict intransitive</h>
+                <p>The most basic use of <g>falbh</g> is as a strict intransitive verb with a
+                    subject but without any complements.</p>
+                <p>Some examples – <ul>
+                        <li>pedagogical examples – <xl id="sbj-pedag">
+                                <li>
+                                    <gd>Dh’fhalbh iad an-dè.</gd>
+                                    <tr>They left yesterday.</tr>
+                                    <ref text="605">td. 176</ref>
+                                </li>
+                                <li>
+                                    <gd>Bu chòir dhuinn cuimhne a chumail beò air <m>na làithean a
+                                            dh’fhalbh</m>.</gd>
+                                    <tr>We should keep the memory of bygone days alive.</tr>
+                                    <ref text="601">td. 278</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>older pedagogical examples – <xl id="strict-older-pedag">
+                                <li>
+                                    <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air
+                                        falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa nan
+                                        litrichean leis an litir seo, Iain?” “Théid,” ars Iain,
+                                            “<m>falbhaidh mi</m> an dràsda”. [...]</gd>
+                                    <tr>My mother is writing a letter to my father who is away. My
+                                        mother said, “Will you go to the postbox with this letter,
+                                        John?” “Yes, I will,” said John, “I will leave now.”
+                                        [...]</tr>
+                                    <ref text="621">td. 5</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>examples from Gairm – <xl id="sbj-gairm">
+                                <li>
+                                    <gd>[...] “Thainig e mach á sgoth-luing le na siùil gheala. Cha
+                                        robh facal Gàidhlig aige. [...] Tha thu coltach ris [...].
+                                        ’Be an samhradh a bh’ ann. [...] Bha mise ’g ionnsachadh na
+                                        Beurla. Cha robh esan math air a’ Ghàidhlig. [...] <m>Aon
+                                            latha dh’fhalbh e.</m> Anns an t-soitheich.” [...]</gd>
+                                    <tr>[...] “He came out of a yacht with white sails. He didn’t
+                                        have a word of Gaelic. [...] You look like him. [...] It was
+                                        the summer. [...] I was learning English. He wasn’t good at
+                                        Gaelic. [...] One day he left. In the boat.” [...]</tr>
+                                    <ref text="400-46">td. 170–1, le Iain Mac a’ Ghobhainn</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>other examples from modern usage – <xl id="sbj-other">
+                                <li>
+                                    <gd>[...] <m>Bha trèana ag ullachadh airson falbh</m> agus
+                                        dh’fhuirich Ailig gus am faca e duine òg le feusag is
+                                        glainneachan dubh a’ dol dhan trèana leis a’ chèis.
+                                        [...]</gd>
+                                    <tr>[...] A train was preparing to leave and Alec waited until
+                                        he saw a young man with a beard and dark glasses going into
+                                        the train with the case. [...]</tr>
+                                    <ref text="2">td. 108</ref>
+                                </li>
+                                <li>
+                                    <gd>[...] “’S e thu fhèin a phàigh e airson mo mhurt?” “Mar tha
+                                        fios agad, cha do rinn mi sin. Cha robh càil na mo rùn ach
+                                        an t-airgead fhaighinn. Ach na bi smaoineachadh nach fheuch
+                                        e a-rithist.” Bha Carol sàmhach airson greis. Mu dheireadh
+                                        thuirt Kevin: “Tha m’ iuchraichean nam phòcaid. <m>Falbh</m>
+                                        agus faic an ceas a tha ’n ciste a’ chàir.” [...]</gd>
+                                    <tr>[...] “Is it you that he paid to murder me?” “As you know, I
+                                        dodn’t do that. I had nothing in mind other than getting the
+                                        money. But don’t be thinking he won’t try again.” Carol was
+                                        quiet for a while. Eventually, Kevin said: “My keys are in
+                                        my pocket. Go out and see the case which is in the boot of
+                                        the car.” [...]</tr>
+                                    <ref text="2">td. 109</ref>
+                                    <note>imperative</note>
+                                </li>
+                                <li>
+                                    <gd>[...] Thog i an daga le clobhd a bha sa chiste agus thug i
+                                        a-steach e gun meur a chur air. Chuir i am falach e sa
+                                        chidsin mus deach i air ais gu Kevin. “Bheil thu gam
+                                        chreids’ a-nis?” dh’fhaighnich e. “<m>Feumaidh sinn
+                                            falbh.</m> Tha caraidean agam an Lunnainn.” Leum Kevin
+                                        a-mach às an leabaidh. “<m>Falbhaidh sinn anns a’ bhad</m>,”
+                                        ars esan. [...]</gd>
+                                    <tr>[...] She lifted the pistol with a cloth that was in the
+                                        boot and brought it inside without leaving a fingerprint on
+                                        it. She concealed it in the kitchen before she went back to
+                                        Kevin. “Do you believe me now?” he asked, “He have to leave.
+                                        I have friends in London.” Kevin jumped out of the bed. “We
+                                        will leave immediately,” he said. [...]</tr>
+                                    <ref text="2">td. 110</ref>
+                                </li>
+                                <li>
+                                    <gd>[...] Chuir Carol na bha anns a’ chiste ann am poca
+                                        plastaig. [...] Thug i am poca plastaig dha Kevin. “Fuirich
+                                        aig an taigh gus an tig mi dhan Ghearasdan.” <m>Anns a’ bhad
+                                            ’s a dh’fhalbh e</m>, chaidh i dhan chidsin agus le
+                                        clobhd thog i a’ ghlainne a thug i dha Kevin nuair a thàinig
+                                        e chun taighe. Thug i a’ ghlainne agus an daga suas gu rum
+                                        Ailig. [...]</gd>
+                                    <tr>[...] Carol put what was in the trunk in a plastic bag.
+                                        [...] She brought the plastic bag to Kevin. “Wait at home
+                                        until I come to Fort William.” As soon as he had left, she
+                                        went to the kitchen and with a cloth she picked up the glass
+                                        that she had given to Kevin when he had come to the house.
+                                        She took the glass and the pistol up to Alec’s room.
+                                        [...]</tr>
+                                    <ref text="2">td. 110</ref>
+                                </li>
+                                <li>
+                                    <gd>[...] Bha an Seanailear cho feargach ’s gun thòisich e a’
+                                        dèanamh plana airson Rob a leòn cho dona ’s nach cuireadh e
+                                        dragh air tuilleadh. Goirid an dèidh seo chuala e gu robh
+                                        Mab a’ coinneachadh Roib, agus bha adhbhar eile aige airson
+                                        dèiligeadh ris a’ phoidsear. Aon oidhche chuir e dà dhuine
+                                        gu taigh an Deucoin airson Rob a phronnadh, ach nuair a
+                                        bhris iad a-steach bha leabaidh Roib falamh. Bha e air a
+                                        bhith a’ cadal ann an taigh nàbaidh bho dh’innis Mab dha an
+                                        cunnart san robh e. <m>An ath mhadainn dh’fhalbh Rob</m>
+                                        agus cha robh sgeul air fad na bliadhna. [...]</gd>
+                                    <tr>[...] The General was so angry that he began to make a plan
+                                        to injure Rob so badly that he would not worry him any
+                                        longer. Shortly after this he heard that Mab was meeting
+                                        Rob, and he had another reason to deal with the poacher. One
+                                        night he sent two men to the Deacon’s house to peat up Rob,
+                                        but when they broke in Rob’s bed was empty. He had been
+                                        sleeping in a neighbour’s house since Mab told him the
+                                        danger he was in. The next morning Rob left and there was no
+                                        trace of him all year long. [...]</tr>
+                                    <ref text="2">td. 115</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </section>
+            <section id="prepositional">
+                <h>prepositional complements</h>
+                <p><g>falbh</g> also occurs with a range of different prepositional complements and
+                    quasi-complements.</p>
+                <module id="falbh_le">
+                    <h>falbh le</h>
+                    <p>Pedagogical examples – <xl id="falbh_le-pedag">
+                            <li>
+                                <gd>Dh’fhalbh a’ ghaoth leis a’ phàipear.</gd>
+                                <tr>The wind blew away the paper.</tr>
+                                <ref text="601">td. 278</ref>
+                                <note>Non-volitional subject.</note>
+                            </li>
+                        </xl>
+                    </p>
+                    <p>Examples from Gairm – <xl id="falbh_le-gairm">
+                            <li>
+                                <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach,
+                                        <m>chan fhalbh aon choigreach le mo leanabh</m>. Cha teid i
+                                    gu aon dannsa, tha sin cinnteach. Tha. Tha. Na bi smaoineachadh
+                                    gun teid, a leanaibh. Chan eil fhios agad mu ’n deidhinn, mar a
+                                    th’ agamsa.” “Carson nach do bhàsaich thu o chionn leth-cheud
+                                    bliadhna,” dh’ éigh Màiri. Bha i smaoineachadh air na
+                                    gnothaichean ud fhathast! “Greas ort leis an tea,” ars a
+                                    màthair. [...]</gd>
+                                <tr>[...] Her voice grew louder. “One thing is certain, not one
+                                    stranger will leave [go out?] with my child. She will not go to
+                                    a single dance, that is certain. It is. It is. Do not be
+                                    thinking that you will, child. You don’t know about them, as I
+                                    do.” “Why did you not die fifty years ago,” shouted Mary. She
+                                    was still thinking about those matters! “Hurry up with the tea,”
+                                    said her mother. [...]</tr>
+                                <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+                            </li>
+                        </xl>
+                    </p>
+                    <p>Other examples from modern usage – <xl id="falbh_le-other">
+                            <li>
+                                <gd>[...] Thachair cùisean glè aithghearr an uair sin. Thàinig
+                                    heileacoptar le lorg-phoileas agus <m>dh’fhalbh e le na
+                                        h-eucoraich</m>. [...]</gd>
+                                <tr>[...] Things happened very quickly after that. A helicopter came
+                                    with a detective and he left with the criminals. [...]</tr>
+                                <ref text="2">td. 101</ref>
+                            </li>
+                            <li>
+                                <gd>“[...] Chaidh iad gu tràigh le eathar bheag rubair agus laigh e
+                                    anns a’ ghrèin agus leig iad leis <m>an tìde-mhara falbh leis an
+                                        eathar</m>. Nuair a bha iad mu mhìle bhon chladach thòisich
+                                    an t-eathar a’ call a gaoithe, agus ged a thòisich an gille air
+                                    iomradh gu tìr, chaidh an t-eathar fodha agus cha robh snàmh aig
+                                    bean mo bhràthar ...”</gd>
+                                <tr>“They went to a beach with a little rubber boat and he lay down
+                                    in the sun and they let the tide take the boat out. When they
+                                    were about a mile from shore the boat started to lose air, and
+                                    though the boy began to row ashore, the boat sank and my
+                                    brother’s wife was unable to swim ...”</tr>
+                                <ref text="2">td. 106</ref>
+                                <note>Non-volitional subject.</note>
+                            </li>
+                            <li>
+                                <gd>[...] ’S ann a bha inntinn air Magaidh. Bha bliadhna bho
+                                        <m>thòisich e a’ falbh leatha</m>, a’ bhliadhna a fhuair e
+                                    àrdachadh gu inbhe lioftanant san Nèibhi agus a thug e Magaidh
+                                    dà uair a Lunnainn. Chosg e dha a h-uile sgillinn a bha aige,
+                                    ach cha do rinn sin dragh sam bith dha. ’S ann a bha e a-nise a’
+                                    smaoineachadh gun iarradh e oirre a phòsadh. Bha inntinn dùinte
+                                    dhan a h-uile càil ach sin. [...]</gd>
+                                <tr>[...] His mind was on Maggie. It was a year since he had started
+                                    going out with her, the year in which he had got promoted to the
+                                    level of lieutenant in the Navy and had taken Maggie twice to
+                                    London. It had cost him every penny he had, but that did not
+                                    bother him at all. He was not thinking that he would ask her to
+                                    marry him. His mind was closed to everything but that.
+                                    [...]</tr>
+                                <ref text="2">td. 124</ref>
+                            </li>
+                            <li>
+                                <gd>[...] Thàinig an t-aithreachas air ais. Carson a bha e a’
+                                    caitheamh a h-uile sgillinn a bha aige air Magaidh, agus gun
+                                    càil aig a phàrantan ach am peinnsean? Carson nach deach e a
+                                    choinneamh athar a bha trì fichead bliadhna ’s a deich? Carson a
+                                        <m>dh’fhalbh e leis a’ bhàrr agus leis an iasg</m>?
+                                    [...]</gd>
+                                <tr>[...] The regret came back. Why was he spending every penny he
+                                    had on Maggie, while his parents had nothing but their pension?
+                                    Why did he no go to meet his father who was seventy? Why did he
+                                    leave with the cream and the fish? [...]</tr>
+                                <ref text="2">td. 124–5</ref>
+                            </li>
+
+                        </xl></p>
+                    <module id="falbh_comhla">
+                        <h>falbh còmhla ri</h>
+                        <p>Examples from modern usage – <xl id="falbh_comhla-other">
+                                <li>
+                                    <gd>[...] “Na lorg thu duine a mhurtadh mi fhathast?” ars ise.
+                                        “Tha Ailig air an t-airgead a phàigheadh dha mu thràth. Nach
+                                        b’ fheàrr dhuit fhàgail? <m>Nach fhalbh thu còmh’ rium
+                                            fhìn</m>?” [...]</gd>
+                                    <tr>[...] “Did you find a man to kill me yet?” she said, “Alex
+                                        has paid the money to him already. Shouldn’t you leave him?
+                                        Won’t you leave with me?” [...]</tr>
+                                    <ref text="2">td. 109</ref>
+                                </li>
+                                <li>
+                                    <gd>[...] Thòisich an cabhadh ach chum Dan e fhèin blàth a’
+                                        smaoineachadh air taigh Magaidh, an teine mòr fosgailte a
+                                        bh’ ann, agus an drama a bhiodh aice dha. Ach nuair a ràinig
+                                        e an taigh cha robh solas ann, agus bha an doras glaiste.
+                                        Smaoinich e gur e a dhol a-steach do thaigh a nàbaidh a rinn
+                                        i. Bha leth an taighe aig cailleach a bha càirdeach dhi,
+                                        agus dh’fhaighnich e an robh Magaidh a-staigh. ’S e gàire
+                                        car neònach a rinn a’ chailleach. “Chan e a thigeadh oirre,”
+                                        ars ise. <m>“Dh’fhalbh i còmhla ri fear le càr mòr
+                                            dearg.”</m> [...]</gd>
+                                    <tr>[...] The snow began but Dan kept himself warm thinking
+                                        about Maggie’s house, the large open fire that was there,
+                                        and the dram that she would have for him. But when he
+                                        reached the house there was no light on, and the door was
+                                        locked. He thought that she had gone into her neighbour’s
+                                        house. Half of the house belonged to an old woman who was
+                                        related to her, and he asked if Maggie was inside. The old
+                                        woman gave him a rather strange smile. “[??]” she said. “She
+                                        left with a man in a big red car.” [...]</tr>
+                                    <ref text="2">td. 124</ref>
+                                </li>
+                            </xl></p>
+                    </module>
+                </module>
+                <module id="falbh_air">
+                    <h>falbh air</h>
+                    <p>Pedagogical examples – <xl id="falbh_air-pedag">
+                            <li>
+                                <gd>Dh’fhalbh iad oirnn.</gd>
+                                <tr>They left us.</tr>
+                                <ref text="601">td. 278</ref>
+                            </li>
+                        </xl>
+                    </p>
+                    <module>
+                        <h>falbh air iteig</h>
+                        <p><g>falbh air iteig</g>
+                            <en>wing, fly off</en>, cf. <g>iteag</g>
+                            <fem/>
+                            <en>feather, plume</en></p>
+                    </module>
+                </module>
+                <module id="falbh_do">
+                    <h>falbh do</h>
+                    <p>Examples from modern usage – <xl id="falbh_do-other">
+                            <li>
+                                <gd>Aon mhadainn <m>dh’fhalbh e dhan Spàinn</m> le làraidh mhòr làn
+                                    mhuirsgeanan-caola.</gd>
+                                <tr>One morning he left for Spain with a big lorry full of razor
+                                    clams.</tr>
+                                <ref text="2">td. 104</ref>
+                            </li>
+                        </xl></p>
+                    <module>
+                        <h>falbh do dhèanamh rud</h>
+                        <p>Pedagogical examples – <xl id="falbh_do-pedag">
+                                <li>
+                                    <gd>falbh a dh’iarraidh ruideigin</gd>
+                                    <tr>go to fetch/get something</tr>
+                                    <ref text="605">td. 176</ref>
+                                </li>
+                            </xl>
+                        </p>
+                    </module>
+                </module>
+                <module id="falbh_gu">
+                    <h>falbh gu</h>
+                    <p>Examples from modern usage – <xl id="falbh_gu-other">
+                            <li>
+                                <gd>[...] An ath mhadainn dh’fhalbh Rob agus cha robh sgeul air fad
+                                    na bliadhna. Bha amharas againn gur e a mhurt a rinn sgalagan an
+                                    uachdarain, agus nuair a chuala sinn <m>gun dh’fhalbh an
+                                        t-uachdaran fhèin agus Mab gu Tasmania</m>, cho-dhùin sinn
+                                    gur e a chiont a ghluais e. Ach ’s ann a bha e a’ smaoineachadh
+                                    gu robh fios aig Mab càit an robh Rob air falach agus bha e
+                                    airson a bhith cinnteach nach biodh gnothaich aice ris
+                                    tuilleadh. [...]</gd>
+                                <tr>[...] The next morning Rob left and there was no trace of him
+                                    all year long. We suspected that the landlord’s men had killed
+                                    him, and when we heard that the landlord himself and Mab had
+                                    left for Tasmania, we concluded that it was guilt that motivated
+                                    him. But what he was thinking was that Mab knew where Rob was
+                                    hiding out and he wanted to be sure that she would have no
+                                    business with him any longer. [...]</tr>
+                                <ref text="2">td. 115</ref>
+                            </li>
+                            <li>
+                                <gd>[...] Bha e ag ullachadh a’ bhaidhsagail nuair a thàinig a
+                                    mhàthair far an robh e: “Nach bu chòir dhuit a dhol a
+                                    shealltainn a bheil d’ athair a’ tighinn,” ars ise. <m>Dh’fhalbh
+                                        Dan</m>, cha b’ ann dha dheòin, <m>gu mullach a’ chnuic air
+                                        cùl a’ chlachain</m>. Bha athair air cluinntinn gu robh
+                                    eathar ag iasgach a-mach bho chladach Ealasword, agus chaidh e a
+                                    dh’fheuchainn am faigheadh e iasg. Bha am biadh air rations anns
+                                    an là ud. [...]</gd>
+                                <tr>[...] He was preparing the bicycle when his mother came to where
+                                    he was: “Shouldn’t you go and see if your father is coming,” she
+                                    said. Dan left, reluctantly, for the top of the hill behind the
+                                    village. His father had heard that a boat was fishing out of
+                                    Ealasword beach, and he had gone to see if he could get fish.
+                                    Food was being rationed in those days. [...]</tr>
+                                <ref text="2">td. 123</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+                <module>
+                    <h>falbh ’na* smùr</h>
+                    <p><g>falbh ’na* smùr</g>
+                        <en>moulder, decay, disintegrate</en>, cf. <g>smùr</g>
+                        <masc/>
+                        <en>dross, dust</en></p>
+                </module>
+
+            </section>
+        </section>
+
+        <section>
+            <h>modifiers</h>
+            <p>Older pedagogical examples – <xl id="mod-older-pedag">
+                    <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                            Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an
+                            litir seo, Iain?” “Théid,” ars Iain, “<m>falbhaidh mi an dràsda</m>”.
+                            [...]</gd>
+                        <tr>My mother is writing a letter to my father who is away. My mother said,
+                            “Will you go to the postbox with this letter, John?” “Yes, I will,” said
+                            John, “I will leave now.” [...]</tr>
+                        <ref text="621">td. 5</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+
+    </section>
+
+    <section id="uses">
+        <h>uses</h>
+        <section>
+            <h>derivatives</h>
+            <module>
+                <h>falbh</h>
+                <p><g>falbh</g>
+                    <en>departure</en> is a masculine common (verbal) noun.</p>
+                <section>
+                    <h>uses</h>
+                    <module>
+                        <h>a’ falbh</h>
+                        <p>Pedagogical examples – <xl id="a_falbh-pedag">
+                                <li>
+                                    <gd>Ceart! Tha mi a’ falbh.</gd>
+                                    <tr>Right! I’m going/off/away.</tr>
+                                    <ref text="605">td. 176</ref>
+                                </li>
+                                <li>
+                                    <gd>A bheil fhios agad gu<m> bheil Màiri a’ falbh le
+                                        Iain</m>?</gd>
+                                    <tr>Do you know that Mary is going (out with) with Ian? [ie.
+                                        courting]</tr>
+                                    <ref text="601">td. 278</ref>
+                                </li>
+                                <li>
+                                    <gd>Bha a shùilean a’ falbh air feadh a’ choithionail.</gd>
+                                    <tr>Hie eyes were going throughout the congregation.</tr>
+                                    <ref text="601">td. 278</ref>
+                                </li>
+                                <li>
+                                    <gd>Bidh am pleuna a’ falbh aig còig uairean.</gd>
+                                    <tr>The plane will take off at 5 o’clock.</tr>
+                                    <ref text="601">td. 278</ref>
+                                </li>
+                            </xl>
+                        </p>
+                        <p>Examples from Gairm – <xl id="a_falbh-gairm">
+                                <li>
+                                    <gd>[...] “Thainig e mach á sgoth-luing le na siùil gheala. Cha
+                                        robh facal Gàidhlig aige. [...] Tha thu coltach ris [...].
+                                        ’Be an samhradh a bh’ ann. ’S <m>bhiodh sinn a’ falbh còmhla
+                                            ri chéile</m>, a-measg nan cnoc. Cha robh càil ann ach
+                                        boltradh. Bha mise ’g ionnsachadh na Beurla. Cha robh esan
+                                        math air a’ Ghàidhlig. [...]”</gd>
+                                    <tr>“He came out of a yacht with white sails. He didn’t have a
+                                        word of Gaelic. [...] You look like him. [...] It was the
+                                        summer. And we would be going out together, among the hills.
+                                        There was nothing but fragrance. I was learning English. He
+                                        wasn’t good at Gaelic. [...]”</tr>
+                                    <ref text="400-46">td. 170–1, le Iain Mac a’ Ghobhainn</ref>
+                                </li>
+                            </xl>
+                        </p>
+                    </module>
+                    <module id="air_falbh">
+                        <h>air falbh</h>
+                        <p>Pedagogical examples – <xl id="air_falbh-pedag">
+                                <li>
+                                    <gd>Tha i air falbh.</gd>
+                                    <tr>She’s left/gone/away.</tr>
+                                    <ref text="605">td. 176</ref>
+                                </li>
+                                <li>
+                                    <gd>Nuair a ràinig mi an doras <m>bha an duine air
+                                        falbh</m>.</gd>
+                                    <tr>When I reached the door the man had gone.</tr>
+                                    <ref text="601">td. 278</ref>
+                                </li>
+                            </xl>
+                        </p>
+                        <p>Older pedagogical examples – <xl id="air_falbh-older-pedag">
+                                <li>
+                                    <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu <m>m’athair a tha
+                                            air falbh</m>.</gd>
+                                    <tr>My mother is writing a letter to my father who is away [from
+                                        home].</tr>
+                                    <ref text="621">td. 5</ref>
+                                    <note>static locative, ie. temporary absence</note>
+                                </li>
+                            </xl>
+                        </p>
+
+                        <section>
+                            <h>adverbial</h>
+                            <p><g>air falbh</g>
+                                <en>away, off, gone</en> is a directional adverbial phrase, cf. <a
+                                    href="?gd=air"><g>air</g></a>
+                                <en>on</en></p>
+                            <section>
+                                <h>dependents</h>
+                                <module>
+                                    <h>air falbh bho</h>
+                                    <p><g>air falbh bho</g>
+                                        <en>away from</en></p>
+                                    <p>Pedagogical examples – <xl id="air_falbh_bho-pedag">
+                                            <li>
+                                                <gd>air falbh on taigh</gd>
+                                                <tr>away from home</tr>
+                                                <ref text="601">td. 279</ref>
+                                            </li>
+                                        </xl>
+                                    </p>
+                                </module>
+                                <module>
+                                    <h>fada air falbh</h>
+                                    <p><g>fada air falbh</g>
+                                        <en>far away, far off</en></p>
+                                    <module>
+                                        <h>as fhaide air falbh</h>
+                                        <p><g>as fhaide air falbh</g>
+                                            <en>furthermost</en></p>
+                                    </module>
+                                </module>
+                            </section>
+                            <section>
+                                <h>uses</h>
+                                <section>
+                                    <h>predicate</h>
+                                    <p lang="en">Examples from Gairm – <xl id="air_falbh-gairm">
+                                            <li>
+                                                <gd>Ma rannsaicheas sinn air ais fada gu leòir chì
+                                                  sinn nach robh sgoilean anns an Oban gus an
+                                                  ochdamh linn deug. Bha an sgoil bheag a b’ fhaisge
+                                                  air anns a’ Chill Mhóir <m>cóig mìle air
+                                                  falbh</m>, agus tha e coltach gu robh an sgoil sin
+                                                  air an fheadhainn bu shine an
+                                                  Earra-Ghaidheal.</gd>
+                                                <tr>If we research back long enough we will see that
+                                                  there were no schools in Oban until the eighteenth
+                                                  century. The closest little school was in Kilmore
+                                                  five miles away, and it appears that that school
+                                                  was one of the oldest in Argyll.</tr>
+                                                <ref text="400-20">td. 363</ref>
+                                            </li>
+                                        </xl>
+                                    </p>
+                                </section>
+                                <section>
+                                    <h>complement</h>
+                                    <section>
+                                        <h>idioms</h>
+                                        <module>
+                                            <h>cuir air falbh</h>
+                                            <p><g>cuir air falbh</g>
+                                                <en>dismiss, dispatch, post (a letter), remove,
+                                                  shed, turn</en></p>
+                                        </module>
+                                        <module>
+                                            <h>cùm air falbh</h>
+                                            <p><g>cùm air falbh</g>
+                                                <en>stave off</en></p>
+                                            <module>
+                                                <h>cùm air falbh bho</h>
+                                                <p><g>cùm air falbh bho</g>
+                                                  <en>steer clear of</en></p>
+                                            </module>
+                                        </module>
+                                        <module>
+                                            <h>gabh air falbh</h>
+                                            <p><g>gabh air falbh</g>
+                                                <en>take/go off</en></p>
+                                            <p>Pedagogical examples – <xl id="gabh_air_falbh-pedag">
+                                                  <li>
+                                                  <gd>Air falbh a ghabh e mar gun robh e air
+                                                  sgèith.</gd>
+                                                  <tr>Off he went as if he were on wings.</tr>
+                                                  <ref text="601">td. 279</ref>
+                                                  </li>
+                                                </xl>
+                                            </p>
+                                        </module>
+                                        <module>
+                                            <h>geàrr air falbh</h>
+                                            <p><g>geàrr air falbh</g>
+                                                <en>amputate</en></p>
+                                            <module>
+                                                <h>gearradh air falbh</h>
+                                                <p><g>gearradh air falbh</g>
+                                                  <en>amputation</en></p>
+                                            </module>
+                                        </module>
+                                        <module>
+                                            <h>thoir air falbh</h>
+                                            <p><g>thoir air falbh (bho)</g>
+                                                <en>subtract, detract, abduct, detract,
+                                                  withdraw</en></p>
+                                            <module>
+                                                <h>toirt air falbh</h>
+                                                <p><g>toirt air falbh</g>
+                                                  <en>subtraction, deprivation, abduction</en></p>
+                                                <module>
+                                                  <h>a’ toirt air falbh</h>
+                                                  <p><g>(a tha) a’ toirt air falbh</g>
+                                                  <en>privative</en></p>
+                                                </module>
+                                            </module>
+                                        </module>
+                                        <module>
+                                            <h>tog air falbh</h>
+                                            <p><g>tog air falbh</g>
+                                                <en>go off</en></p>
+                                            <p>Pedagogical examples – <xl id="tog_air_falbh-pedag">
+                                                  <li>
+                                                  <gd>Bha iad uile air togail air falbh na
+                                                  coinneimh.</gd>
+                                                  <tr>They had all gone off to meet her.</tr>
+                                                  <ref text="601">td. 279</ref>
+                                                  </li>
+                                                </xl>
+                                            </p>
+                                        </module>
+                                    </section>
+                                </section>
+                            </section>
+                        </section>
+                    </module>
+                    <section>
+                        <h>derivatives</h>
+                        <module>
+                            <h>falbhach</h>
+                            <p><g>falbhach</g>
+                                <en>discursive</en> is an adjective.</p>
+                        </module>
+                        <module>
+                            <h>falbhan</h>
+                            <p><g>falbhan</g>
+                                <en>moving about, motion, locomotion</en> is a masculine common
+                                noun.</p>
+                            <section>
+                                <h>derivatives</h>
+                                <module>
+                                    <h>falbhanach</h>
+                                    <p><g>falbhanach</g>
+                                        <en>unsettled</en> is an adjective.</p>
+                                </module>
+                            </section>
+                        </module>
+                    </section>
+                </section>
+            </module>
+        </section>
+    </section>
+
+
+
+
+</module>

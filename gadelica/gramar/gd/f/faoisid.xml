@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>faoisid</h>
+    <p><b>faoisid</b>
+        <en>confession</en> is a feminine abstract common noun, with genitive singular
+            <b>faoiside</b>.</p>
+    <p>Noun compounds – <b>sagart faoisid(e)</b>
+        <en>confessor</en>, cf. <a href="?gd=sagart">sagart</a>
+        <masc/>
+        <en>priest</en>.</p>
+
+    <module id="faoisidich">
+        <h>faoisidich</h>
+        <p><b>faoisidich</b>
+            <en>confess</en> is a derived verb, with suffix <a href="?gd=_ich">-(a)ich</a>, and
+            verbal noun <b>faoisideachadh</b>
+            <masc/></p>
+        <module id="faoisideachadh">
+            <h>faoisideachadh</h>
+            <p><b>faoisideachadh</b>
+                <en>confessing</en> is a masculine derived noun, with genitive singular
+                    <b>faoisideachaidh</b>.</p>
+        </module>
+    </module>
+
+</module>

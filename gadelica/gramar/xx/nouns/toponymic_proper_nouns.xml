@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>toponymic proper nouns</h>
+  <p>Toponymic proper nouns are <a href="?xx=nouns/proper_nouns">proper nouns</a> which are also <a
+      href="?xx=nouns/toponyms">toponyms</a>, i.e. they name places (geographical entities).</p>
+
+  <section id="deps">
+    <h>dependents</h>
+    <p>Like other proper nouns, toponymic proper nouns can be modified by an attributive
+        <emph>adjective</emph> eg. <g>Alba Nuadh</g>
+      <en>Nova Scotia</en>, <g>Sasainn Nuadh</g>
+      <en>New England</en>, <g>Lannraig Ùr</g>
+      <en>New Lanark</en>, <g>Beàrnaraigh Mòr</g>
+      <en>Great Bernera</en>, <g>Lodainn Meadhanach</g>
+      <en>Midlothian</en> <!--(but <g>Meadhan-Aimearaga</g>
+      <en>Central America</en>)-->.</p>
+    <p>Toponymic proper nouns can be modified by one of the following four directional prepositional
+      phrases – <ul>
+        <li><g>a Tuath</g>
+          <en>North(ern)</en> eg. <g>Uibhist a Tuath</g>
+          <en>North Uist</en>, <g>Aimearaga a Tuath</g>
+          <en>North America</en></li>
+        <li><g>a Deas</g>
+          <en>South(ern)</en> eg. <g>Uibhist a Deas</g>
+          <en>South Uist</en>, <g>Afraga a Deas</g>
+          <en>South(ern) Africa</en></li>
+        <li><g>an Ear</g>
+          <en>East(ern)</en> eg. <g>Ros an Ear</g>
+          <en>Easter Ross</en>, <g>Lodainn an Ear</g>
+          <en>East Lothian</en></li>
+        <li><g>an Iar</g>
+          <en>West(ern)</en> eg. <g>Ros an Iar</g>
+          <en>Wester Ross</en>, <g>Lodainn an Iar</g>
+          <en>West Lothian</en></li>
+      </ul>
+    </p>
+    <p>Toponymic proper nouns can be modified by one of the following two directional adjectives – <ul>
+        <li><g>Uachdarach</g>
+          <en>Upper</en> – <!--<g>Pabail Uarach</g>
+          <en>Upper Bayble</en>,--> <g>Canada Uachdarach</g>
+          <en>Upper Canada</en></li>
+        <li><g>Ìochdarach</g>
+          <en>Lower</en> – <!--<g>Pabail Iarach</g>
+          <en>Lower Bayble</en>,--> <g>Canada Ìochdarach</g>
+          <en>Lower Canada</en></li>
+      </ul>
+    </p>
+  </section>
+  <section id="uses">
+    <h>uses</h>
+    <p>Like other toponyms, toponymic proper nouns can be classified <emph>semantically</emph>
+      according to the kind of geographical entity they refer to – <ul>
+        <li>islands and districts eg. <g>Cataibh</g>
+          <en>Sutherland</en>, <g>Barraigh</g>
+          <en>Barra</en>
+          <!-- <boxlink ref="#districts"/> --></li>
+        <li>towns and settlements eg. <g>Glaschu</g>
+          <en>Glasgow</en>, <g>Siabost</g>
+          <en>Shawbost</en>
+          <!-- <boxlink ref="#settlements"/> --></li>
+        <li>countries and continents eg. <a href="?gd=Alba"><g>Alba</g></a>
+          <en>Scotland</en>, <g>Afraga</g>
+          <en>Africa</en>
+          <!-- <boxlink ref="#countries"/> --></li>
+        <li>mountains and uplands eg. <g>Sùilebheinn</g>
+          <en>Suilven</en>, <g>Dris</g>
+          <en>Driesh</en></li>
+        <li>rivers, lakes and seas eg. <g>Cluaidh</g>
+          <en>The Clyde</en>, <g>Tatha</g>
+          <en>The Tay</en></li>
+      </ul>
+    </p>
+    <p>Toponymic proper nouns are used as roots for <a href="?xx=nouns/demonyms">demonyms</a> –
+      adjectives and common nouns describing or referring to a person (or other entity) originating
+      from, or otherwise associated with the place identified by the proper noun eg.
+        <g>Leòdhasach</g>
+      <en>(person) from Lewis</en>, <g>Albannach</g>
+      <en>(person) from Scotland</en>.</p>
+  </section>
+
+  <section id="lenition">
+    <h>lenition</h>
+    <p>A toponymic proper noun which is the (genitive) (post-)specifier of another noun is usually
+      lenited – <ul>
+        <li><g>muinntir Ghlaschu</g>
+          <en>the people of Glasgow</en>, cf. <bad>muinntir Glaschu</bad></li>
+        <li><g>Banca Shasainn</g> – <en>The Bank of England</en>, cf. <bad>Banca Sasainn</bad></li>
+        <li><g>siorrachd Pheairt</g> – <en>the county of Perth</en>, cf. <bad>siorrachd
+          Peairt</bad></li>
+      </ul>
+    </p>
+    <p>However, this lenition can be ‘blocked’ in certain contexts where the consonants are similar – <ul>
+        <li><g>drochaid T[h]atha</g> – <en>The Tay Bridge</en></li>
+      </ul>
+    </p>
+  </section>
+
+
+
+  <!--
+  <p>[Note that toponymic name-descriptions can be modified too, e.g. <i>Port na Banrighinn a
+      Tuath</i>
+    <en>North Queensferry</en>.]</p>
+-->
+
+
+
+
+  <!--
+
+  <box id="districts">
+    <title>list of toponymic proper nouns – islands and districts</title>
+    <p/>
+    <table>
+      <thead>
+        <tr><th>toponym</th><th>English</th><th/></tr>
+      </thead>
+      <tbody>
+        <tr><td><g>Arainn</g></td><td>Arran</td><td/></tr>
+        <tr><td><g>Arcaibh</g></td><td>Orkney</td><td/></tr>
+        <tr><td><g>Asainte</g></td><td>Assynt</td><td>Also <i>Asainn</i></td></tr>
+        <tr><td><g>Bàideanach</g></td><td>Badenoch</td><td/></tr>
+        <tr><td><g>Barraigh</g></td><td>Barra</td><td/></tr>
+        <tr><td><g>Beàrnaraigh</g></td><td>Bernera(y)</td><td/></tr>
+        <tr><td><g>Bhatarsaigh</g></td><td>Vatersay</td><td/></tr>
+        <tr><td><g>Bòd</g></td><td>Bute</td><td/></tr>
+        <tr><td><g>Canaidh</g></td><td>Canna</td><td/></tr>
+        <tr><td><g>Cataibh</g></td><td>Sutherland</td><td/></tr>
+        <tr><td><g>Cnòideart</g></td><td>Knoydart</td><td/></tr>
+        <tr><td><g>Colbhasa</g></td><td>Colonsay</td><td/></tr>
+        <tr><td><g>Cola</g></td><td>Coll</td><td/></tr>
+        <tr><td><g>Còmhghall</g></td><td>Cowal</td><td/></tr>
+        <tr><td><g>Diùra</g></td><td>Jura</td><td>Also <i>Diùraigh</i></td></tr>
+        <tr><td><g>Earraghaidheal</g></td><td>Argyll</td><td/></tr>
+        <tr><td><g>Eige</g></td><td>Egg</td><td/></tr>
+        <tr><td><g>Eirisgeigh</g></td><td>Eriskay</td><td/></tr>
+        <tr><td><g>Fìobha</g></td><td>Fife</td><td/></tr>
+        <tr><td><g>Gallaibh</g></td><td>Caithness</td><td/></tr>
+        <tr><td><g>Giogha</g></td><td>Gigha</td><td/></tr>
+        <tr><td><g>Hiort</g></td><td>St Kilda</td><td/></tr>
+        <tr><td><g>Ìle</g></td><td>Islay</td><td/></tr>
+        <tr><td><g>Latharna</g></td><td>Lorne</td><td/></tr>
+        <tr><td><g>Leòdhas</g></td><td>Lewis</td><td/></tr>
+        <tr><td><g>Lodainn</g></td><td>Lothian</td><td/></tr>
+        <tr><td><g>Miughalaigh</g></td><td>Mingulay</td><td/></tr>
+        <tr><td><g>Moireibh</g></td><td>Moray</td><td/></tr>
+        <tr><td><g>Muideart</g></td><td>Moidart</td><td/></tr>
+        <tr><td><g>Muile</g></td><td>Mull</td><td/></tr>
+        <tr><td><g>Ratharsair</g></td><td>Raasay</td><td/></tr>
+        <tr><td><g>Ros</g></td><td>Ross</td><td/></tr>
+        <tr><td><g>Ruma</g></td><td>Rum</td><td/></tr>
+        <tr><td><g>Sealtainn</g></td><td>Shetland</td><td/></tr>
+        <tr><td><g>Sgalpaigh</g></td><td>Scalpay</td><td/></tr>
+        <tr><td><g>Stafainn</g></td><td>Staffin</td><td/></tr>
+        <tr><td><g>Tiriodh</g></td><td>Tiree</td><td/></tr>
+        <tr><td><g>Tròndarnais</g></td><td>Trotternish</td><td/></tr>
+        <tr><td><g>Uibhist</g></td><td>Uist</td><td/></tr>
+        <tr><td><g>Ulbha</g></td><td>Ulva</td><td/></tr>
+      </tbody>
+    </table>
+  </box>
+
+  <box id="settlements">
+    <title>list of toponymic proper nouns – towns and settlements</title>
+    <p/>
+    <table>
+      <thead>
+        <tr><th>toponym</th><th>English</th><th/></tr>
+      </thead>
+      <tbody>
+        <tr><td><g>Banbh</g></td><td>Banff</td><td/></tr>
+        <tr><td><g>Barbhas</g></td><td>Barvas</td><td/></tr>
+        <tr><td><g>Bealladair</g></td><td>Ballater</td><td/></tr>
+        <tr><td><g>Beannachar</g></td><td>Banchory</td><td/></tr>
+        <tr><td><g>Bearaig</g></td><td>Berwick</td><td/></tr>
+        <tr><td><g>Bràcadail</g></td><td>Bracadale</td><td/></tr>
+        <tr><td><g>Bradhagar</g></td><td>Bragar</td><td/></tr>
+        <tr><td><g>Breascleit</g></td><td>Breasclete</td><td/></tr>
+        <tr><td><g>Brùra</g></td><td>Brora</td><td/></tr>
+        <tr><td><g>Calasraid</g></td><td>Callandar</td><td/></tr>
+        <tr><td><g>Càradal</g></td><td>Carradale</td><td/></tr>
+        <tr><td><g>Càrlabhagh</g></td><td>Carloway</td><td/></tr>
+        <tr><td><g>Cealsach</g></td><td>Kelso</td><td/></tr>
+        <tr><td><g>Clachmannan</g></td><td>Clackmannan</td><td/></tr>
+        <tr><td><g>Craoibh</g></td><td>Creiff</td><td/></tr>
+        <tr><td><g>Crombadh</g></td><td>Cromarty</td><td/></tr>
+        <tr><td><g>Dalabrog</g></td><td>Daliburgh</td><td/></tr>
+        <tr><td><g>Dòrnoch</g></td><td>Dornoch</td><td/></tr>
+        <tr><td><g>Eilginn</g></td><td>Elgin</td><td/></tr>
+        <tr><td><g>Fàrfar</g></td><td>Forfar</td><td/></tr>
+        <tr><td><g>Farrais</g></td><td>Forres</td><td/></tr>
+        <tr><td><g>Fairtairchill</g></td><td>Fortingall</td><td/></tr>
+        <tr><td><g>Giofnaig</g></td><td>Giffnock</td><td/></tr>
+        <tr><td><g>Glaschu</g></td><td>Glasgow</td><td/></tr>
+        <tr><td><g>Goillspidh</g></td><td>Golspie</td><td/></tr>
+        <tr><td><g>Grabhair</g></td><td>Gravir</td><td/></tr>
+        <tr><td><g>Grianaig</g></td><td>Greenock</td><td/></tr>
+        <tr><td><g>Hamhaig</g></td><td>Hawick</td><td/></tr>
+        <tr><td><g>Lacasdal</g></td><td>Laxdale</td><td/></tr>
+        <tr><td><g>Lannraig</g></td><td>Lanark</td><td>Also <i>Leanndraig</i></td></tr>
+        <tr><td><g>Learaig</g></td><td>Lerwick</td><td>Also <i>Liùrabhaig</i></td></tr>
+        <tr><td><g>Lionacleit</g></td><td>Linaclete</td><td/></tr>
+        <tr><td><g>Lite</g></td><td>Leith</td><td/></tr>
+        <tr><td><g>Lunnainn</g></td><td>London</td><td/></tr>
+        <tr><td><g>Malaig</g></td><td>Mallaig</td><td/></tr>
+        <tr><td><g>Mosgo</g></td><td>Moscow</td><td/></tr>
+        <tr><td><g>Pabail</g></td><td>Bayble</td><td/></tr>
+        <tr><td><g>Paislig</g></td><td>Paisley</td><td/></tr>
+        <tr><td><g>Peairt</g></td><td>Perth</td><td/></tr>
+        <tr><td><g>Ròghadail</g></td><td>Rodel</td><td/></tr>
+        <tr><td><g>Rosborg</g></td><td>Roxburgh</td><td/></tr>
+        <tr><td><g>Sailcirc</g></td><td>Selkirk</td><td/></tr>
+        <tr><td><g>Sgàin</g></td><td>Scone</td><td/></tr>
+        <tr><td><g>Sruighlea</g></td><td>Stirling</td><td/></tr>
+        <tr><td><g>Steòrnabhagh</g></td><td>Stornoway</td><td/></tr>
+        <tr><td><g>Siabost</g></td><td>Shawbost</td><td/></tr>
+        <tr><td><g>Suaineabost</g></td><td>Swainbost</td><td/></tr>
+        <tr><td><g>Ullapul</g></td><td>Ullapool</td><td/></tr>
+      </tbody>
+    </table>
+  </box>
+
+  <box id="countries">
+    <title>list of toponymic proper nouns – countries and continents</title>
+    <table>
+      <thead>
+        <tr><th>toponym</th><th>English</th><th/></tr>
+      </thead>
+      <tbody>
+        <tr><td><g>Afraga</g></td><td>Africa</td><td>Also <i>Afraca</i></td></tr>
+        <tr><td><g>Aimeireaga</g></td><td>America</td><td/></tr>
+        <tr><td><g>Aràibia</g></td><td>Arabia</td><td/></tr>
+        <tr><td><g>Astràilia</g></td><td>Australia</td><td/></tr>
+        <tr><td><g>Breatann</g></td><td>Britain</td><td/></tr>
+        <tr><td><g>Èirinn</g></td><td>Ireland</td><td/></tr>
+        <tr><td><g>Eòrpa</g></td><td>Europe</td><td/></tr>
+        <tr><td><g>Flannras</g></td><td>Flanders</td><td/></tr>
+        <tr><td><g>Iosrael</g></td><td>Israel</td><td/></tr>
+        <tr><td><g>Lochlann</g></td><td>Scandinavia</td><td/></tr>
+        <tr><td><g>Nirribhidh</g></td><td>Norway</td><td/></tr>
+        <tr><td><g>Paileastain</g></td><td>Palestine</td><td/></tr>
+        <tr><td><g>Sasainn</g></td><td>England</td><td/></tr>
+        <tr><td><g>Ulaidh</g></td><td>Ulster</td><td/></tr>
+      </tbody>
+    </table>
+  </box>
+  -->
+
+</module>

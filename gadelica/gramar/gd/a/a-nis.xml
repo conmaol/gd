@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>a-nis</h>
+    <p lang="en"><b>a-nis</b>
+        <en>now</en> is a temporal adverb.</p>
+    <p lang="en">Alternative forms – <b>a-nise</b>, <b>a-nist</b> (<b>a-nisd</b>), <b>a-niste</b>.
+        cf. <a href="?gd=an-dràsta">an-dràsta</a>
+        <en>now, at the moment, at present</en>.</p>
+    <p lang="gd">...</p>
+    <module id="medial">
+        <h lang="en">sentence-medial</h>
+        <h lang="gd">...</h>
+        <p lang="en">Corpus examples – <xl id="medial-xs">
+                <li>
+                    <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig
+                        no do fhoghlum agus do litreachas na Gàidhlig. Cuin a chualas ball-Pàrlamaid
+                        a’ togail a ghuth a dh’ iarraidh leasachaidh do staid Gàidhlig ann an
+                        Albainn? Am bi cothrom <m>a nis</m> aig cuideigin a ghuth a thogail, anns an
+                        t-suidheachadh iongantach a th’ againn anns a’ Phàrlamaid ùr? [...]</gd>
+                    <tr>[...] The Parliament has given very little assistance ever to the Gaelic
+                        language or to Gaelic education and literature. When has a member of
+                        Parliament been heard raising his voice to demand improvement for the state
+                        of Gaelic in Scotland? Will someone have an opportunity now to raise his
+                        voice, in the unexpected situation we have in the new Parliament? [...]</tr>
+                    <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+    <module id="initial">
+        <h lang="en">paragraph-initial</h>
+        <h lang="gd">...</h>
+        <p lang="en">Marks a new discourse segment.</p>
+        <p lang="gd">...</p>
+        <p lang="en">Corpus examples – <xl id="initial-xs">
+                <li>
+                    <gd>[...] <m>A nis</m>, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas ùr
+                        againn. Tha sinn an dòchas gun téid gu math dhaibh, agus gun cuir iad
+                        spionnadh ás ùr anns an dùthaich air fad. Agus gu seachd àraidh anns a’
+                        Ghaidhealtachd: [...]</gd>
+                    <tr>[...] Now, the General Election is behind us, and we have a new Government.
+                        We hope that they will do well, and that they will re-energise the whole
+                        country. And most especially [in] the Highlands: [...]</tr>
+                    <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">Biblical examples – <xl id="bible-xs">
+                <li>
+                    <gd><m>A Nis</m> is iad so ainmeanna chloinn Israeil, a thàinig do’n Eiphit;
+                        thàinig gach duine agus a theaghlach maille re Iacob: Reuben, Simeon, Lebhi,
+                        agus Iudah, [...] Agus na h-anman uile a thàinig a mach a leasraidh Iacoib,
+                        bu deich agus tri fichead anam iad; oir bha Ioseph ’san Eiphit a
+                        cheana. [...]</gd>
+                    <tr>Now these are the names of the children of Israel, which came into Egypt;
+                        every man and his household came with Jacob. Reuben, Simeon, Levi, and
+                        Judah, [...] And all the souls that came out of the loins of Jacob were
+                        seventy souls: for Joseph was in Egypt already. [KJV]</tr>
+                    <ref text="160">Ecsodus I.1–5</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+    <module id="other">
+        <h lang="en">other uses</h>
+        <h lang="gd">...</h>
+        <p lang="en">Corpus examples – <xl id="other-xs">
+                <li>
+                    <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig
+                        no do fhoghlum agus do litreachas na Gàidhlig. Cuin a chualas ball-Pàrlamaid
+                        a’ togail a ghuth a dh’ iarraidh leasachaidh do staid Gàidhlig ann an
+                        Albainn? Am bi cothrom a nis aig cuideigin a ghuth a thogail, anns an
+                        t-suidheachadh iongantach a th’ againn anns a’ Phàrlamaid ùr? [...] <m>Có a
+                            nis</m> a chuireas fead chruaidh ann an cluais Luchd an Ionmhais ann a
+                        Westminster?</gd>
+                    <tr>[...] The Parliament has given very little assistance ever to the Gaelic
+                        language or to Gaelic education and literature. When has a member of
+                        Parliament been heard raising his voice to demand improvement for the state
+                        of Gaelic in Scotland? Will someone have an opportunity now to raise
+                        his voice, in the unexpected situation we have in the new Parliament? [...]
+                        Who now will put a hard whistle [?] in the ear of the Finance People
+                        in Westminster?</tr>
+                    <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                    <note>immediately following an interrogative particle</note>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+
+</module>

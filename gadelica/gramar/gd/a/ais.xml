@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>ais</h>
+    <p><g>ais</g> is a (fossilised) noun.</p>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <module status="bronze">
+                <h>air ais</h>
+                <p><g><a href="?gd=air">air</a> ais</g>
+                    <en>back, backwards</en> is a prepositional compound.</p>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module status="bronze" id="rach_air_ais">
+                            <h>rach air ais</h>
+                            <p><g><a href="?gd=rach">rach</a> air ais</g>
+                                <en>go back(wards), recede, regress, reverse</en> – <ul>
+                                    <li>pedagogical examples – <xl id="rach_air_ais-pedag">
+                                            <li>
+                                                <gd>Thèid mi <m>air ais</m> don talla. | An rachadh
+                                                  tu <m>air ais</m> a-rithist? | Chaidh e air ais. </gd>
+                                                <tr>I’ll go back to the hall. | Would you go back
+                                                  again? | He went back.</tr>
+                                                <ref text="601">td. 476, 477, 478</ref>
+                                            </li>
+                                        </xl>
+                                    </li>
+                                </ul>
+                            </p>
+                        </module>
+                    </section>
+                </section>
+
+                <p>Examples from Gairm – <xl id="gairm">
+                        <li>
+                            <gd>Ma rannsaicheas sinn <m>air ais</m> fada gu leòir chì sinn nach robh
+                                sgoilean anns an Oban gus an ochdamh linn deug. Bha an sgoil bheag a
+                                b’ fhaisge air anns a’ Chill Mhóir cóig mìle air falbh, agus tha e
+                                coltach gu robh an sgoil sin air an fheadhainn bu shine an
+                                Earra-Ghaidheal.</gd>
+                            <tr>If we research back long enough we will see that there were no
+                                schools in Oban until the eighteenth century. The closest little
+                                school was in Kilmore five miles away, and it appears that that
+                                school was one of the oldest in Argyll.</tr>
+                            <ref text="400-20">td. 363</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+
+
+
+
+</module>

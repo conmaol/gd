@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>-(e)achd</h>
+  <p><b>-(e)achd</b> is a suffix used to create feminine <a href="?xx=nouns/derived_common_nouns"
+      >derived common nouns</a> from <a href="?xx=adjectives/adjectives">adjectives</a> or from
+    other common nouns.</p>
+  <module id="adj">
+    <h>de-adjectival</h>
+    <p>For example – <ul>
+        <li><i>ain-diadhaidh</i>
+          <en>godless, irreligious</en> ⇒ <m>ain-diadhachd</m>
+          <en>godlessness, impiety</en></li>
+        <li>(<i>aindeòin</i>
+          <en>reluctance</en> ⇒ ) <i>aindeònach</i>
+          <en>reluctant, unwilling</en> ⇒ <m>aindeònachd</m>
+          <en>unwillingness, reluctance</en></li>
+        <li><i>geur</i>
+          <en>bitter, sharp</en> ⇒ <m>geurachd</m>
+          <en>asperity</en></li>
+        <li><a href="?gd=manach"><g>manach</g></a>
+          <masc/>
+          <en>monk, friar</en> ⇒ <a href="?gd=manachail"><g>manachail</g></a>
+          <adj/>
+          <en>monastic, monkish</en> ⇒ <a href="?gd=manachalachd"><g>manachalachd</g></a>
+          <fem/>
+          <en>monasticism</en></li>
+        <li><i>mì-chneasta</i>
+          <en>cruel, merciless</en> ⇒ <m>mì-chneastachd</m>
+          <en>cruelty, mercilessness</en></li>
+        <li><i>mì-chuanta</i>
+          <en>untidy</en> ⇒ <m>mì-chuantachd</m>
+          <en>untidiness</en></li>
+        <li><i>mì-dhìleas</i>
+          <en>faithless</en> ⇒ <m>mì-dhìlseachd</m>
+          <en>faithlessness</en></li>
+        <li><i>mì-dhaonna</i>
+          <en>inhuman</en> ⇒ <m>mì-dhaonnachd</m>
+          <en>inhumanity</en></li>
+        <li><i>mì-fhreagarrach</i>
+          <en>incongruence</en> ⇒ <m>mì-fhreagarrachd</m>
+          <en>incongruity</en></li>
+        <li><i>mì-laghail</i>
+          <en>unlawful</en> ⇒ <m>mì-laghalachd</m>
+          <en>illegality</en></li>
+        <li><i>mì-mhodhail</i>
+          <en>rude</en> ⇒ <m>mì-mhodhalachd</m>
+          <en>incivility</en></li>
+        <li><i>mì-riaghailteach</i>
+          <en>disorderly</en> ⇒ <m>mì-riaghailteachd</m>
+          <en>eccentricity</en></li>
+        <li>(<i>mì-stuaim</i>
+          <en>immodesty</en> ⇒ ) <i>mì-stuama</i>
+          <en>immodest, profligate</en> ⇒ <m>mì-stuamachd</m>
+          <en>profligacy</en></li>
+        <li>(<i>mì-thaing</i>
+          <en>ingratitude</en> ⇒ ) <m>mì-thaingeil</m>
+          <en>ungrateful</en> ⇒ <i>mì-thaingealachd</i>
+          <en>ingratitude</en></li>
+        <li><i>naomh</i>
+          <en>holy</en> ⇒ <m>naomhachd</m>
+          <en>holiness</en></li>
+        <li><i>sleamhainn</i>
+          <en>slippery</en> ⇒ <m>sleamhnachd</m>
+          <en>slipperiness</en></li>
+      </ul>
+    </p>
+  </module>
+  <module id="noun">
+    <h>denominal</h>
+    <p>For example – <ul>
+        <li><a href="?gd=bàrr">bàrr</a>
+          <masc/>
+          <en>top</en> ⇒ <a href="?gd=barrachd">barrachd</a>
+          <i>fem.</i>
+          <en>larger quantity, more</en></li>
+        <li><a href="?gd=croit">croit</a>
+          <i>fem.</i>
+          <en>croft</en> ⇒ <b>croitear</b>
+          <masc/>
+          <en>crofter</en> ⇒ <b>croitearachd</b>
+          <i>fem.</i>
+          <en>crofting, croftership</en></li>
+        <li><a href="?gd=easbaig"><g>easbaig</g></a>
+          <masc/>
+          <en>bishop</en> ⇒ <a href="?gd=easbaigeachd"><g>easbaigeachd</g></a>
+          <fem/>
+          <en>episcopacy</en></li>
+        <li><i>gobha</i>
+          <en>metalsmith</en>
+          <masc/> (genitive <b>gobhainn</b>) ⇒ <b>goibhneachd</b>
+          <i>fem.</i>
+          <en>metalsmithing</en></li>
+        <li><i>mùtaire</i>, <i>cùl-mhùtaire</i>
+          <en>smuggler</en> ⇒ <m>mùtaireachd</m>, <m>cùl-mhùtaireachd</m>
+          <en>smuggling</en></li>
+        <li><i>mì-dhealbh</i>
+          <en>deformity</en> ⇒ <m>mì-dhealbhachd</m>
+          <en>deformity</en></li>
+        <li><a href="?gd=sagart"><g>sagart</g></a>
+          <masc/>
+          <en>priest</en> ⇒ <a href="?gd=sagartachd"><g>sagartachd</g></a>
+          <fem/>
+          <en>priesthood</en></li>
+        <li><a href="?gd=sgìre">sgìre</a>
+          <i>fem.</i>
+          <en>district</en> ⇒ <b>sgìreachd</b>
+          <i>fem.</i>
+          <en>district</en></li>
+      </ul>
+    </p>
+  </module>
+</module>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>ged</h>
+  <p><b>ged (a/nach)</b>
+    <en>although, (even) though</en> is a concessive/contrastive subordinating conjunction.</p>
+  <module id="ged_a">
+    <h>ged a</h>
+    <p>Pedagogical examples – <xl id="ged_a-pedag">
+        <li>
+          <gd>Cha do sguir i den obair, ged a bha i claoidhte.</gd>
+          <tr>She didn’t stop work though she was exhausted.</tr>
+          <ref text="605">td. 206</ref>
+        </li>
+        <li>
+          <gd>Chì mi e cho math ’s ged a b’ ann an-dè a bh’ ann.</gd>
+          <tr>I can see it/him as well as though it were yesterday.</tr>
+          <ref text="605">td. 206</ref>
+          <note>cho ... ’s ged a ...</note>
+        </li>
+        <li>
+          <gd>Ged a bha mi sgìth cha do stad mi.</gd>
+          <tr>(Al)though I was tired I didn’t stop.</tr>
+          <ref text="601">td. 329</ref>
+        </li>
+        <li>
+          <gd>[...] ged a chaidh a mhuinntir a chur às an dachaighean agus an cur thar a’
+            chuain</gd>
+          <tr>[...] though his people were evicted from their homes and sent overseas</tr>
+          <ref text="601">td. 329</ref>
+        </li>
+        <li>
+          <gd>Ged a chuirteadh a-mach e, thigeadh e a-steach a-rithist.</gd>
+          <tr>Though he were [to be] put out, he would come back in again.</tr>
+          <ref text="601">td. 329</ref>
+        </li>
+        <li>
+          <gd>Cha tèid Màiri air lathaichean saora ged a bhios an t-airgead aice.</gd>
+          <tr>Mary will not go on holiday even though she will have the money.</tr>
+          <ref text="609">td. 105</ref>
+        </li>
+      </xl>
+    </p>
+    <p>Examples from modern usage – <xl id="other">
+        <li>
+          <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. [...] Bha
+            seachdnar de theaghlach aige, ceathrar mhac agus triùir nighean, agus bha a h-uile fear
+            is tè anns a’ mhalairt ach Rob. B’ e Rob a b’ òige agus lean e an sgoil. Nuair a ràinig
+            e an t-oilthigh bha càch airson gun ionnsaicheadh e cunntasachd, a bhiodh feumail anns
+            a’ mhalairt, ach ’s ann a bha ùidh-san ann an ealain. Dh’fhàg e an t-oilthigh agus
+            chaidh e do sgoil ealain. Bha cuibhreann aige bho athair a bha tuilleadh ’s gu leòr
+            airson fheumalachd <m>ged a bha e dèidheil air a’ bhotal</m>, agus cha robh e a’ dèanamh
+            spàirn sam bith airson faighinn air adhart san t-saoghal. [...]</gd>
+          <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. [...] He
+            had a family of seven, four sons and three daughters, and every man and woman was in the
+            business except Rob. Rob was the youngest and he stayed on at school. When he reached
+            the university the others wanted him to learn accountancy, which would be useful in the
+            business, but his interest was in art. He left the university and went to an art school.
+            He had an allowance from his father which more more than enough for his needs even
+            though he was fond of the bottle, and he was not making any effort to get on in the
+            world. [...]</tr>
+          <ref text="2">td. 5</ref>
+        </li>
+        <li>
+          <gd>Ann an Dùn Èideann anns na naochadan bha barrachd agus barrachd inbhich airson
+            Gàidhlig ionnsachadh agus <m>ged a nochd mòran chlasaichean agus cùrsaichean Gàidhlig
+              airson iarrtasan nan daoine sin a fhreagradh</m>, bha ionnsachadh na Gàidhlig ga
+            bhacadh gu mòr air sgàth dìth shuidheachaidhean far an cluinnear an cànan ga bruidhinn
+            gu nàdarra.</gd>
+          <tr>In Edinburgh in the 90s there were more and more people wanting to learn Gaelic and
+            although a lot of Gaelic classes and courses sprang up to respond to the demands of
+            those people, Gaelic learning was largely inhibited because of lack of situations where
+            one could hear the language spoken naturally.</tr>
+          <ref text="610">td. 85</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+
+  <module id="ged_nach">
+    <h>ged nach</h>
+    <p>Pedagogical examples – <xl id="ged_nach-pedag">
+        <li>
+          <gd>Ged nach eil sinn fhathast pòst’, tha mi ’n dòchas gum bi.</gd>
+          <tr>Though we are not yet married, I am hopeful that we will be.</tr>
+          <ref text="605">td. 206</ref>
+          <note>song</note>
+        </li>
+      </xl>
+    </p>
+    <module id="gar_an">
+      <h>gar an</h>
+      <p><b>gar an</b> is an archaic/dialectal alternative to <b>ged nach</b>.</p>
+    </module>
+  </module>
+
+  <module id="ge-ta">
+    <h>ge-tà</h>
+    <p><b>ge-tà</b>
+      <en>however, even so, notwithstanding, though</en> is a contrastive/concessive discourse
+      adverbial. Alternative spellings are <b>ged tha</b>, <b>ged thà</b>.</p>
+    <p>Pedagogical examples – <xl id="ge-ta-pedag">
+        <li>
+          <gd>Thug iad gealladh-pòsaidh dha chèile; cha do phòs iad, ge-tà.</gd>
+          <tr>They got engaged; they didn’t get married, though.</tr>
+          <ref text="605">td. 207</ref>
+        </li>
+        <li>
+          <gd>Ged tha, tha rud no dhà agam ri innse dhuibh.</gd>
+          <tr>Even so, I have a thing or two to say to them.</tr>
+          <ref text="601">td. 329</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+
+  <module id="etymology">
+    <h>etymology</h>
+    <p>Derived from Old Gaelic <ax href="https://dil.ie/8966">cía</ax>
+      <en>although, in spite of the fact that, even though</en>, cf. Roibeard Ó Maolalaigh (2023).
+      ‘An Old Gaelic conjunction rediscovered: Old Gaelic <i>ceni</i>, Scottish Gaelic <i>gar an</i>
+      and related concessive conjunctions in Gaelic’. <i>North American Journal of Celtic
+        Studies</i> 7(1):1–87 <ax href="https://eprints.gla.ac.uk/286273/">link</ax>.</p>
+  </module>
+
+</module>

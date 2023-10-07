@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>proper nouns</h>
+  <p>Proper nouns are <a href="?xx=nouns/nouns">nouns</a> which are also <a href="?xx=nouns/names"
+      >names</a>, identifying and referring to particular, definite entities – a specific person,
+    object, place, group, etc. Examples of proper nouns are – <ul>
+      <li><g>Raonaid</g>
+        <fem/>
+        <en>Rachel</en></li>
+      <li><g>Glaschu</g>
+        <masc/>
+        <en>Glasgow</en></li>
+      <li><g>Laideann</g>
+        <fem/>
+        <en>Latin</en>.</li>
+    </ul></p>
+  <p>Proper nouns contrast with – <ul>
+      <li><a href="?xx=nouns/common_nouns">common nouns</a> – nouns which describe classes of entity
+        (and hence are not names), for example – <ul>
+          <li><g>bean</g>
+            <fem/>
+            <en>woman</en>,</li>
+          <li><g>cànan</g>
+            <masc/>
+            <en>language</en></li>
+          <li><g>uisge</g>
+            <masc/>
+            <en>water</en>.</li>
+        </ul></li>
+      <li><a href="?xx=nouns/name_descriptions">name-descriptions</a> – names which consist of a
+        specified common noun phrase (and hence are not nouns) – <ul>
+          <li><g>An Caiptean</g>
+            <en>The Captain</en></li>
+          <li><g>Ceann Loch Chille Chiarain</g>
+            <en>Campbeltown</en></li>
+          <li><g>Òran na Cloiche</g>
+            <en>The Song of the Stone</en></li>
+        </ul></li>
+    </ul></p>
+  <section>
+    <h>derivation</h>
+    <section id="derivation-simple">
+      <h>simple proper nouns</h>
+      <p>The vast majority of proper nouns are simple, not being (at least obviously) formed from
+        other words – <ul>
+          <li><g>Raonaid</g>
+            <fem/>
+            <en>Rachel</en></li>
+          <li><g>Glaschu</g>
+            <masc/>
+            <en>Glasgow</en></li>
+          <li><g>Laideann</g>
+            <fem/>
+            <en>Latin</en></li>
+        </ul></p>
+    </section>
+    <section id="derivation-acronyms">
+      <h>acronyms</h>
+      <p>Acronyms are a class of proper noun, derived by concatenating the initial letters in a
+        name-description, for example – <ul>
+          <li><g>CNAG</g> – from the name-description <g><emph>C</emph>omunn <emph>na</emph>
+              <emph>G</emph>àidhlig</g>
+            <en>The Gaelic Society</en></li>
+        </ul>
+      </p>
+    </section>
+    <section id="derivation-improper">
+      <h>improper nouns</h>
+      <p>‘Improper’ nouns are proper nouns which have been derived transparently from common nouns,
+        for example <ul>
+          <li>
+            <g>Gairm</g>
+            <en>Crowing/Calling [name of literary periodical]</en> – from <g>gairm</g>
+            <fem/>
+            <en>calling, crowing</en></li>
+        </ul>
+      </p>
+      <!--
+      <p>
+        <ed>Is <g>GilleEasbaig</g>
+          <masc/> ‘Archibald, Gillespie’ a derived proper noun or is it a compound?
+            <g>GilleBrìde</g>? Is this a name-description rather than a proper noun? cf. vocative
+              <g>’IlleB<u>h</u>rìde</g></ed>
+      </p>
+      -->
+    </section>
+  </section>
+
+  <section id="forms">
+    <h>forms</h>
+    <section id="forms-gender">
+      <h>gender and case</h>
+      <p>Like all nouns, proper nouns have - <ul>
+          <li><emph>gender</emph> – every proper noun is either feminine or masculine – <ul>
+              <li><g>Mairead</g>
+                <en>Margaret</en>, <g>Laideann</g>
+                <en>Latin</en> and <g>Sasainn</g>
+                <en>England</en> are feminine proper nouns</li>
+              <li><g>Seumas</g>
+                <en>James</en> and <g>Bòd</g>
+                <en>Bute</en> are masculine proper nouns.</li>
+            </ul>
+          </li>
+          <li><emph>case</emph> – every proper noun form is either nominative or dative or genitive
+            – <ul>
+              <li>The genitive form of the masculine proper noun <g>Seòras</g>
+                <en>George</en> is <g>Sheòrais</g>; the nominative and dative forms are just
+                  <g>Seòras</g>.</li>
+              <li>The (traditional) dative form of the feminine proper noun <g>Alba</g>
+                <en>Scotland</en> is <g>Albainn</g>, and the genitive is <g>Albann</g>.</li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+      <!--
+    <p><ed>Vocative is not strictly speaking a ‘case’ (at least not for all linguists) and hence
+        will be discussed in the module for the vocative particle itself.</ed></p> -->
+    </section>
+    <section id="forms-declension">
+      <h>declension</h>
+      <p>The rules for declining proper nouns are – <ul>
+          <li>The dative and genitive forms of a feminine proper noun are generally created by
+            slenderising the corresponding nominative form (if possible) – <g>Mairead</g> ⇒
+              <g>Maireid</g>, <g>Laideann</g> ⇒ <g>Laidinn</g>.
+            <!--<ed>Is there never addition of -e in
+            the genitive? What about feminine toponymic proper nouns? Peairt? </ed> --></li>
+          <li>The dative form of a masculine proper noun is identical to the corresponding
+            nominative.</li>
+          <li>The genitive form of a masculine proper noun is generally created by both slenderising
+            and leniting the corresponding nominative form (if possible) – <g>Seumas</g> ⇒
+              <g>Sheumais</g>, <g>Bòd</g> ⇒ <g>Bhòid</g>.
+            <!-- <ed>Does lenition happen with masculine
+            proper nouns which are not anthroponyms or toponyms? I can’t think of any
+          examples!</ed> --></li>
+        </ul>
+      </p>
+      <p>Since they refer to single, specific entities, all proper nouns have singular number. There
+        are no plural (forms of) proper nouns.</p>
+      <!-- <p><ed>Some things to consider – How are ‘improper nouns’ and acronyms declined? Is an
+          improper noun like ‘Bannan’ itself grammatically plural in any meaningful way or is it
+          treated as a single noun? What about ergonymic acronyms like CNAG or BnaG?</ed></p> -->
+    </section>
+  </section>
+
+  <section>
+    <h>dependents</h>
+    <section id="modifiers">
+      <h>modifiers</h>
+      <p>Like all nouns, a proper noun can have one or more (post-)modifiers – <ul>
+          <li>adjectives – <g>Seumas <emph>Beag</emph></g>
+            <en>James Junior</en>, <g>Mairead <emph>bhàn</emph>
+              <emph>bhòidheach</emph></g>
+            <en>pretty fair Margaret</en>, <g>Sasainn <emph>Nuadh</emph></g>
+            <en>New England</en></li>
+          <li>preposition (phrases) – <g>Dòmhnall <emph>à</emph> Lunnainn</g>
+            <en>Donald from London</en>
+            <!-- <ed>toponym example?</ed> --></li>
+          <li>relative clauses – <g>Iain <emph>a bha</emph> anns an sgoil còmhla rium</g>
+            <en>John who was at school with me</en>, <g>Lunnainn, <emph>nach eil</emph> ann an
+              Alba</g>
+            <en>London, which is not in Scotland</en></li>
+        </ul> Note that capitalisation of an adjective modifying a proper noun depends on whether it
+        is assumed to be an intrinsic part of the name.</p>
+      <!--<p><ed>Can a genitive common noun be used to modify a proper noun? Griogal cridhe?</ed></p>
+      <p><ed>Add recap of rules for leniting and slenderising adjectives?</ed></p>
+      <p><ed>Note nicknames like <g>Seann Tormod</g> or <g>Seann Ealasaid</g>. Is ‘seann’ better
+          described as a (pre-)modifier or a prefix here? Maybe these are better thought of as
+          compound proper nouns in parallel with compound nouns?</ed></p> -->
+    </section>
+    <section id="specifier">
+      <h>specifier</h>
+      <p>Like all nouns, a proper noun can have a (post-)specifier – <ul>
+          <li>genitive proper noun – <g>Màiri <emph>Sheumais</emph></g>
+            <en>James’ Mary</en>
+            <!-- <ed>toponym example? Scalpaigh na Hearadh? Is Na Hearadh a proper
+              noun? [ROM and DM say yes.]</ed> --></li>
+          <li>pre-specified common noun – <g>Dòmhnall a’ <emph>Mhinisteir</emph></g>
+            <en>The Minister’s (son) Donald; Donald, the son of the Minister</en>, <g>Seumas a’
+                <emph>Ghlinne</emph></g>
+            <en>James of the Glen</en></li>
+          <!-- <li>post-specified common noun – <ed><g>Dòmhnall <emph>Ministeir</emph> (Ministear) na
+                h-Eaglais(e)</g> ‘Donald (son) of the Minister of the Church’ ??</ed>
+          </li>-->
+        </ul>
+      </p>
+      <!-- <p><ed>Toponym examples?</ed></p> -->
+      <!-- <p>Note that, unlike common nouns, a proper noun cannot have a (<a
+          href="?xx=nouns/determiners">determiner</a>) pre-specifier, cf. <bad>mo Mhàiri</bad> ~
+          <bad>a’ Mhàiri agamsa</bad> ~ <g>Màiri agamsa</g>
+        <en>my Mary</en>.</p>-->
+      <p>In addition, a few <a href="?xx=nouns/toponymic_proper_nouns">toponymic proper nouns</a>
+        usually switch to being a kind of <a href="?xx=nouns/name_descriptions">name-description</a>
+        (‘uncommon nouns’) in the genitive and hence take the article – <g>Alba</g> ⇒ <g>Eaglais
+            <emph>na h-Alba(nn)</emph></g>
+        <en>The Church of Scotland</en>, <g>Èirinn</g>
+        <en>Ireland</en> ⇒ <g>Gàidhlig <emph>na h-Èireann</emph></g>
+        <en>Irish Gaelic</en>. <!-- <ed>Eòrpa?</ed>--></p>
+    </section>
+    <!--
+    <section id="apposition"> come back to after reading Lamb’s treatment – he says no case agreement
+      <h>apposition</h>
+      <p>A proper noun can stand in apposition to a specified common noun, agreeing for case – <ul>
+          <li><g>Dòmhnall an sagart</g>
+            <en>Donald the priest</en>
+             <ed>Is this actually grammatical? cf. Dòmhnall sagart.</ed> 
+            <ul>
+              <li>dative – le <g>Dòmhnall an t-sagart</g></li>
+              <li>genitive – taigh <g>Dhòmhnaill an t-sagairt</g></li>
+            </ul></li>
+          <li><g>Leòdhas, an t-Eilean Fada</g>
+            <en>Lewis, the Long Island</en>
+            <ul>
+              <li>dative – ann an <g>Leòdhas, an Eilean Fhada</g>
+                 <ed>grammatical?</ed> -</li>
+              <li>genitive – muinntir <g>Leòdhais, an Eilein Fhada</g>
+                 <ed>grammatical?</ed> </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+  -->
+  </section>
+  <section id="uses">
+    <h>uses</h>
+    <p>Like other names, proper nouns belong to different semantic classes, depending on the kind of
+      entity they identify – <ul>
+        <li><a href="?xx=nouns/anthroponymic_proper_nouns">Anthroponymic proper nouns</a> name
+          individual persons (including personified entities) – <g>Mairead</g>
+          <fem/>
+          <en>Margaret</en>, <g>Seumas</g>
+          <masc/>
+          <en>James</en>.</li>
+        <li><a href="?xx=nouns/toponymic_proper_nouns">Toponymic proper nouns</a> name places
+          (geographical and cosmological entities) – <g>Leòdhas</g>
+          <masc/>
+          <en>Lewis</en>, <g>Sasainn</g>
+          <fem/>
+          <en>England</en>, <g>Bheunas</g>
+          <masc/>
+          <en>Venus</en>.</li>
+        <li><a href="?xx=nouns/ergonyms">Ergonymic</a> proper nouns name groups, teams,
+          organisations, companies <etc/> (social entities) – <g>Misneachd</g>
+          <en>[name of pressure group]</en>, <g>CNAG</g>
+          <en>[acronymic name of government agency]</en>.</li>
+        <li><a href="?xx=nouns/chrematonyms">Chrematonymic</a> proper nouns name songs, poems,
+          stories and other creative works – <g>Gairm</g>
+          <en>[name of literary periodical]</en>, <g>Bannan</g>
+          <en>[name of television drama serial]</en></li>
+        <li><a href="?xx=nouns/glottonyms">Glottonymic</a> proper nouns name languages and dialects
+          – <g>Laideann</g>
+          <fem/>
+          <en>Latin</en>, <g>Albais</g>
+          <fem/>
+          <en>Scots</en>.</li>
+      </ul>
+    </p>
+    <!--
+    <p>Anthroponymic, toponymic and ergonymic proper nouns are generally concrete, associated with a
+      material sense. Chrematonymic and glottonymic proper nouns are usually abstract, associated
+      with a non-material sense (an information object, a language <etc/>). Almost by definition, a
+      proper noun is always associated with a bounded sense, either an individual or a group, and
+      never with a non-bounded sense (substance or aggregate <ed>But what about names of drinks etc?
+        Are these actually proper nouns?</ed>).</p>
+    <p><ed>More explication needed here.</ed></p>
+    -->
+  </section>
+
+  <section id="lenition">
+    <h>lenition</h>
+    <p>Proper nouns which are the (genitive) (post-)specifier of another noun are systematically
+      lenited, or not, depending on the nature of the entity referred to – <ul>
+        <li>usually lenited – <ul>
+            <li>masculine anthroponymic proper nouns – <g>taigh Sheumais</g>
+              <en>James’ house</en>, cf. <bad>taigh Seuma(i)s</bad></li>
+            <li>toponymic proper nouns – <g>sgoiltean Ghlaschu</g>
+              <en>Glasgow’s schools</en>, cf. <bad>oilthighean Glaschu</bad></li>
+          </ul>
+        </li>
+        <li>usually not-lenited – <ul>
+            <li>feminine anthroponymic proper nouns (traditional usage) – <g>taigh Màiri</g>
+              <en>Mary’s house</en></li>
+            <li>ergonymic proper nouns – <g>buill Misneachd</g>
+              <en>the members of Misneachd</en> cf. <bad>buill Mhisneachd</bad></li>
+            <li>chrematonymic proper nouns – <g>deasaiche Gairm</g>
+              <en>the editor of Gairm</en> cf. <bad>deasaiche Ghairm</bad></li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+  </section>
+
+
+</module>

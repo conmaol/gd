@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">dithis</h>
+    <h lang="gd">dithis</h>
+    <p lang="en"><b>dithis</b>
+        <en>two people</en> is a <a href="?xx=nouns/numeral_nouns">numeral noun</a>.</p>
+    <p lang="gd">...</p>
+    <p lang="en">Corpus examples – <xl id="exs">
+            <li>
+                <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no
+                    do fhoghlum agus do litreachas na Gàidhlig. [...] Dé na rudan a dh’ fhaodadh
+                    sinn iarraidh? Tuilleadh de luchd-teagaisg ’s de luchd-ceasnachaidh Gàidhlig.
+                    Airgead gu leabhraichean uallachadh is a chlo-bhualadh. Barrachd tìde air an
+                    réidio agus air telebhisean. <m>Dithis dhaoine</m> a chur an sàs anns na
+                    làmh-sgrìobhainnean Gàidhlig san Leabharlann Nàiseanta, agus dithis eile san
+                    Ordnance Survey. [...]</gd>
+                <tr>[...] The Parliament has given very little assistance ever to the Gaelic
+                    language or to Gaelic education and literature. [...] What are the things that
+                    we could demand? More Gaelic teachers and inspectors. Money to prepare and print
+                    books. More time on the radio and on television. Engaging <u>two people</u> in
+                    the Gaelic manuscripts in the National Library, and two others in the Ordnance
+                    Survey. [...]</tr>
+                <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+            </li>
+            <li>
+                <gd>Tha aon duine anns a’ bhàta a tha a’ seòladh. Tha triùir ghillean ag iasgach
+                    anns a’ bhàta eile. Tha <m>dithis</m> ag iasgach le sgrìobain anns an treas
+                    bàta.</gd>
+                <ref text="620">td. 63–4</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>bàrr</h>
+  <p><b>bàrr</b> <en>top</en> is a masculine noun.</p>
+  <p>cf. <a href="?gd=barrachd">barrachd</a></p>
+
+</module>

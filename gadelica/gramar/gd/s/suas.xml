@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>suas</h>
+    <p><g>suas</g>
+        <en>[to] up there</en> is is a distal adverb of motion along a <a href="?q=motion"
+            >trajectory</a> (contrasting with both the proximal <a href="?gd=a-nìos"
+            ><g>a-nìos</g></a>
+        <en>[to] up here</en> and the distal <a href="?gd=sìos"><g>sìos</g></a>
+        <en>[to] down there</en>).</p>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <module status="bronze" id="rach_suas">
+                <h>rach suas</h>
+                <p><g><a href="?gd=rach">rach</a> suas</g>
+                    <en>go up(wards)</en> – <ul>
+                        <li>pedagogical examples – <xl id="comps-suas-pedag">
+                                <li>
+                                    <gd>Tha Anna a’ dol <m>suas an staidhre</m>. | Chuala mi fuaim
+                                        shuas an staidhre. Chaidh mi <m>suas</m>. </gd>
+                                    <tr>Ann is going up the stairs. | I heard a noise upstairs. I
+                                        went up. </tr>
+                                    <ref text="609">td. 30, 39</ref>
+                                </li>
+                            </xl></li>
+                    </ul></p>
+            </module>
+        </section>
+    </section>
+
+</module>

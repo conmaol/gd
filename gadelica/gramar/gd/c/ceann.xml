@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>ceann</h>
+  <p>cf. <a href="?gd=os_cionn">os cionn</a>
+    <en>above</en></p>
+  <p>Corpus examples – <xl id="exs">
+      <li>
+        <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os cionn
+          obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach ag ath-nuadhachadh
+          dreach a’ Chomuinn. [...] Ach dh’ fheumadh am Fear-stiùiridh ùr barrachd air a sin a
+          dhèanamh. Dh’ fheumadh e siubhal a dhèanamh eadar Rubha Robhanais agus <m>Ceann
+            Bharraidh</m>, eadar am Parbh is Maol <m>Chinn-tìre</m>, agus cha deanadh math dha
+          dìochuimhneachadh gu robh obair a’ Chomuinn a’ buntainn ri Coimisean nan Croitearan an
+          Inbhirnis, ri Roinn an Fhoghluim an Dùn-Eideann, agus ri Tigh nan Cumantan an
+          Lunnainn.</gd>
+        <tr>The Highland Society is talking about choosing a new General who will oversee the
+          Society’s work. [...] He would have enough to do initially reforming the Society. [...]
+          But the new leader would have to do more than (just) that. He would have to travel between
+          the Butt of Lewis and Barra Head, between Cape Wrath and the Mull of
+          Kintyre, and he should not forget that the Society’s work is related to the Crofters’
+          Commission in Inverness, to the Education Department in Edinburgh, and to the House of
+          Commons in London.</tr>
+        <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+      </li>
+    </xl>
+  </p>
+  
+  <module id="bho_chionn">
+    <h>bho chionn</h>
+    <p>Examples from Gairm – <xl id="gairm">
+        <li>
+          <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan fhalbh aon choigreach
+            le mo leanabh. Cha teid i gu aon dannsa, tha sin cinnteach. Tha. Tha. Na bi
+            smaoineachadh gun teid, a leanaibh. Chan eil fhios agad mu ’n deidhinn, mar a th’
+            agamsa.” “Carson nach do bhàsaich thu <m>o chionn leth-cheud bliadhna</m>,” dh’ éigh
+            Màiri. Bha i smaoineachadh air na gnothaichean ud fhathast! “Greas ort leis an tea,” ars
+            a màthair. [...]</gd>
+          <tr>[...] Her voice grew louder. “One thing is certain, not one stranger will leave [go
+            out?] with my child. She will not go to a single dance, that is certain. It is. It is.
+            Do not be thinking that you will, child. You don’t know about them, as I do.” “Why did
+            you not die fifty years ago,” shouted Mary. She was still thinking about those matters!
+            “Hurry up with the tea,” said her mother. [...]</tr>
+          <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+      </xl>
+    </p>
+    
+    <p>cf. <a href="?gd=bho">bho</a> <en>from</en></p>
+    
+  </module>
+
+  <!--
+  <p></p>
+  <p><strong>ceann</strong> is a masculine <a href="?xx=nouns/common_nouns">common noun</a> with the general meaning <en>head</en>.</p>
+  <hr/>
+  <h5>Temporal adverbial <m>ann an ceann ùine</m> <en>after a while</en></h5>
+  <p>Modifies a perfective past verb. Has a discourse function rather than a time-when function.</p>
+  <xl>
+    <li>4198</li>
+    <li>4199</li>
+    <li>4200</li>
+    <li>4201</li>
+    <li>4202</li>
+    <li>4203</li>
+    <li>4204</li>
+    <li>4205</li>
+    <li>4206</li>
+    <li>4207</li>
+  </xl>
+  <p><a href="?xx=adverbs/temporal_adverbials">temporal adverbials</a></p>
+  -->
+</module>

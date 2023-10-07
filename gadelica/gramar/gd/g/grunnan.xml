@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+  <h lang="en">grunnan</h>
+  <h lang="gd">grunnan</h>
+  <p lang="en"><b>grunnan</b>
+    <en>small number/group</en> is a masculine diminutive <a href="?xx=nouns/generic_quantity_nouns"
+      >generic quantity noun</a>, derived from <a href="?gd=grunn">grunn</a>
+    <en>number, group</en>. Dictionaries list the genitive singular <b>grunnain</b> and the plural
+      <b>grunnanan</b>.</p>
+  <p lang="gd">...</p>
+  <p lang="en">In terms of the stuff being quantified, <b>grunnan</b> generally works like other
+    generic quantity nouns, apart from the fact that it can only be followed by a plural count noun
+    – <ul>
+      <li>When the stuff being quantified is new information, it is usually expressed as a noun
+        modifier/specifier of <b>grunnan</b> eg. <ul>
+          <li>Tha <m>grunnan <u>chon</u></m> aig Màiri. <en>Mary has quite a few dogs.</en></li>
+        </ul>
+        <ul id="grunnan_specifier">
+          <li>
+            <gd/>
+            <tr/>
+            <ref text="198">td. 54</ref>
+          </li>
+        </ul>
+      </li>
+      <li>When the stuff being quantified is already known, it is usually introduced by the
+        partitive preposition <a href="?gd=de">de</a>
+        <en>of</en> governing a specified (ie. ‘definite’) noun eg. <ul>
+          <li>Cheannaich Màiri <m>grunnan <u>de mo choin</u></m>. <en>Mary bought quite a few of my
+              dogs.</en></li>
+        </ul>
+        <xl id="grunnan_de">
+          <li>
+            <gd>Bha <m>grunnan de ar luchd-leughaidh</m> an dùil, nuair a nochd an àireamh mu dheireadh de
+              Ghairm, gu robh sin a’ strì ri buidheann shònraichte, no duine sònraichte, a chur do
+              ’n Phàrlamaid, agus bha wèireichean an telefon gu math teth, uair no dhà, an déidh
+              dhuinn tighinn o ’n chlò. Thog iad ceàrr sinn. [...]</gd>
+            <tr>Some of our readers were expecting [?], when the last issue of Gairm appeared, that
+              that was striving for a particular group [party?], or a particular person, to send to
+              the Parliament, and the telephone wires were pretty hot, for an hour or two [once or
+              twice?], after we came from the printers. They misunderstood us. [...]</tr>
+            <ref text="600-49">td. 9, ‘Air An Spiris’</ref></li>
+        </xl>
+      </li>
+      <li>When the stuff being quantified is already known, and has just been referred to, or can be
+        inferred, <b>grunnan</b> can occur on its own eg. <ul>
+          <li>Tha <m>grunnan</m> aig Màiri. <en>Mary has quite a few.</en></li>
+        </ul>
+        <ul id="grunnan">
+          <li>
+            <gd/>
+            <tr/>
+            <ref text="2">td. 55</ref>
+          </li>
+        </ul>
+      </li>
+      <li>Alternatively, <b>grunnan</b> can be followed by one of the <a href="?gd=de">de</a>
+        prepositional pronouns eg. <ul>
+          <li>Tha <m>grunnan <u>dhiubh</u></m> aig Màiri. <en>Mary has quite a few of
+            them.</en></li>
+        </ul>
+        <ul id="grunnan_de_pron">
+          <li>
+            <gd/>
+            <tr/>
+            <ref text="">td.</ref>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </p>
+  <p lang="gd">...</p>
+  <p lang="en">However, there is some variation in usage to be found here. <xl
+      id="grunnan_de_variation">
+      <li>
+        <gd>Bha <m>grunnan de ar luchd-leughaidh</m> an dùil, nuair a nochd an àireamh mu dheireadh
+          de Ghairm, gu robh sin a’ strì ri buidheann shònraichte, no duine sònraichte, a chur do ’n
+          Phàrlamaid, agus bha wèireichean an telefon gu math teth, uair no dhà, an déidh dhuinn
+          tighinn o ’n chlò. Thog iad ceàrr sinn.</gd>
+        <tr><u>Some of our readers</u> were expecting [?], when the last issue of Gairm appeared,
+          that that was striving for a particular group [party?], or a particular person, to send to
+          the Parliament, and the telephone wires were pretty hot, for an hour or two [once or
+          twice?], after we came from the printers. They misunderstood us.</tr>
+        <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+      </li>
+    </xl>
+  </p>
+  <p lang="gd"/>
+</module>

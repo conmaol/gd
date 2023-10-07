@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>sinn</h>
+    <p><b>sinn</b>
+        <en>we, us</en> is the first person plural <a href="?xx=nouns/personal_pronouns">personal
+            pronoun</a>.</p>
+    <p>Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>Ma rannsaicheas <m>sinn</m> air ais fada gu leòir chì <m>sinn</m> nach robh
+                    sgoilean anns an Oban gus an ochdamh linn deug. Bha an sgoil bheag a b’ fhaisge
+                    air anns a’ Chill Mhóir cóig mìle air falbh, agus tha e coltach gu robh an sgoil
+                    sin air an fheadhainn bu shine an Earra-Ghaidheal.</gd>
+                <tr>If we research back long enough we will see that there were no schools in Oban
+                    until the eighteenth century. The closest little school was in Kilmore five
+                    miles away, and it appears that that school was one of the oldest in
+                    Argyll.</tr>
+                <ref text="400-20">td. 363</ref>
+            </li>
+        </xl>
+    </p>
+
+</module>

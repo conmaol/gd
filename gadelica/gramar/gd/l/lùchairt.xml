@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>lùchairt</h>
+    <p><b>lùchairt</b>
+        <en>palace</en> is a feminine, simple <a href="?xx=nouns/architectonic_common_nouns"
+            >architectonic common noun</a>, with genitive singular <b>lùchairte</b> plural
+            <b>lùchairtean</b>.</p>
+    <module id="compounds">
+        <h>noun compounds</h>
+        <p>With specifier – <b>lùchairt (an) easbaig</b>
+            <en>(the) episcopal palace, (the) bishop’s palace</en>, cf. <a href="?gd=easbaig"
+                >easbaig</a>
+            <masc/>
+            <en>bishop</en>.</p>
+    </module>
+</module>

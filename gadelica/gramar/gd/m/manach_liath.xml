@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>manach liath</h>
+    <p><g><a href="?gd=manach">manach</a>
+            <a href="?gd=liath">liath</a></g>
+        <en>a greyfriar</en> is a noun compound.</p>
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p><a href="?gd=Na_Manaich_Liatha"><g>Na Manaich Liatha</g></a>
+                <en>The Greyfriars</en></p>
+        </section>
+    </section>
+
+</module>

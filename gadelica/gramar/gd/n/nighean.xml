@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>nighean</h>
+    <p>Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>Bha i ceud bliadhna a dh’ aois is esan dhà air fhichead. Cha robh e ach mìos no
+                    dhà a-mach ás an oilthigh. Bha <m>a nighean</m> a’ fuireachd còmhla rithe. Bha
+                    ise ceithir fichead. Shaoil e gu robh a’ chailleach ann an dòigh na bu
+                    shunndaiche na <m>a nighean</m>. [...]</gd>
+                <tr>She was a hundred years old and him twenty two. He was just a month or two out
+                    of the university. Her daughter was living with her. She was eighty. He thought
+                    that the old woman was in a way livelier than her daughter. [...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+        </xl>
+    </p>
+    <p>Other examples from modern usage – <xl id="other">
+            <li>
+                <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. Rinn
+                    e sin tro dhìcheall, obair chruaidh agus tàlant malairt a bha neo-ghnàthach.
+                    An-diugh tha iomadh companaidh na ainm air feadh na Gàidhealtachd. Bha seachdnar
+                    de theaghlach aige, ceathrar mhac agus <m>triùir nighean</m>, agus bha a h-uile
+                    fear is tè anns a’ mhalairt ach Rob. [...]</gd>
+                <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. He
+                    did that through duty, hard work and a talent for business that was unusual.
+                    Today there are many companies in his name all over the Highlands. He had a
+                    family of seven, four sons and three daughters, and every man and woman was in
+                    the business except Rob. [...]</tr>
+                <ref text="2">td. 5</ref>
+            </li>
+        </xl>
+    </p>
+</module>

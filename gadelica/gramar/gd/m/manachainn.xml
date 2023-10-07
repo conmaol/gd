@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>manachainn</h>
+    <p><g>manachainn</g>
+        <en>monastery</en> is a feminine <a href="?xx=nouns/architectonic_common_nouns"
+            >architectonic</a>
+        <a href="?xx=nouns/derived_common_nouns"> derived common noun</a>, with stem <a
+            href="?gd=manach"><g>manach</g></a>
+        <masc/>
+        <en>monk, friar</en>, and suffix <a href="?gd=_inn"><g>-(a)inn</g></a>.</p>
+
+    <section>
+        <h>forms</h>
+        <p>The principal parts of <g>manachainn</g> are – <ul>
+                <li><m>manachainn</m> – nominative/dative singular</li>
+                <li><m>manachainn(e)</m> – genitive singular</li>
+                <li><m>manachainnean</m> – plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>manachainn</m></li>
+                                    <li>dative – (ann am) <m>manachainn</m></li>
+                                    <li>genitive – (doras) <m>manachainn(e)</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>manachainnean</m></li>
+                                    <li>dative – (ann am) <m>manachainnean</m></li>
+                                    <li>genitive – (dorsan) <m>mhanachainnean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>a’ mhanachainn</m></li>
+                                    <li>dative – (anns) <m>a’ mhanachainn</m></li>
+                                    <li>genitive – (doras) <m>na manachainn(e)</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na manachainnean</m></li>
+                                    <li>dative – (anns) <m>na manachainnean</m></li>
+                                    <li>genitive – (dorsan) <m>nam manachainnean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>manachainn</m></li>
+                                    <li>dative – (ann am) <m>manachainn</m></li>
+                                    <li>genitive – (doras) <m>manachainn(e)</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>a’ mhanachainn</m></li>
+                                    <li>dative – (anns) <m>a’ mhanachainn</m></li>
+                                    <li>genitive – (doras) <m>na manachainn(e)</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>manachainnean</m></li>
+                                    <li>dative – (ann am) <m>manachainn</m></li>
+                                    <li>genitive – (dorsan) <m>mhanachainnean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na manachainnean</m></li>
+                                    <li>dative – (anns) <m>na manachainnean</m></li>
+                                    <li>genitive – (dorsan) <m>nam manachainnean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>manachainn</m></li>
+                                    <li>plural – <m>manachainnean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>a’ mhanachainn</m></li>
+                                    <li>plural – <m>na manachainnean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (ann am) <m>manachainn</m></li>
+                                    <li>plural – (ann am) <m>manachainnean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (anns) <m>a’ mhanachainn</m></li>
+                                    <li>plural – (anns) <m>na manachainnean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (doras) <m>manachainn(e)</m></li>
+                                    <li>plural – (dorsan) <m>mhanachainnean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (doras) <m>na manachainn(e)</m></li>
+                                    <li>plural – (dorsan) <m>nam manachainnean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>Compounds – <ul>
+                    <li><g>A’ Mhanachainn</g>
+                        <en>Beauly</en> [<a href="?xx=nouns/toponymic_name_descriptions">toponymic
+                            name description</a>] gen. <g>na Manachainn(e)</g></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+</module>

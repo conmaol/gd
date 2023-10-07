@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>toponymic name-descriptions</h>
+  <p>Toponymic name-descriptions are <a href="?xx=nouns/name_descriptions">name-descriptions</a>
+    which are also <a href="?xx=nouns/toponyms">toponyms</a>, i.e. they are definite common noun
+    phrases used to name places and other geographical entities.</p>
+  <section id="deps">
+    <h>dependents</h>
+    <p>Like other name-descriptions, toponymic name-descriptions can be classified into two
+      grammatical types – <ul>
+        <li><emph>pre-specified</emph> toponymic name-descriptions eg. <g>An t-Eilean Dubh</g>
+          <en>The Black Isle</en>, <g>A’ Chomraich</g>
+          <en>Applecross</en>, <g>An Fhraing</g>
+          <en>France</en>, <g>Na h-Ìnnseachan</g>
+          <en>India</en>, <g>Am Monadh Ruadh</g>
+          <en>The Cairngorms</en>, <g>An Linne Latharnach</g>
+          <en>The Lorne Firth</en>, <a href="?gd=manachainn"><g>A’ Mhanachainn</g></a>
+          <en>Beauly</en>.</li>
+        <li><emph>post-specified</emph> toponymic name-descriptions eg. <g>Eilean nam Muc</g>
+          <en>Muck</en>, <g>Baile Ùr an t-Slèibhe</g>
+          <en>Newtonmore</en>, <g>Dùthaich MhicAoidh</g>
+          <en>North Sutherland</en>, <g>Innis Tìle</g>
+          <en>Iceland</en>, <g>Beinn a’ Bhreacaidh</g>
+          <en>Ben Vrackie</en>, <g>Loch Obha</g>
+          <en>Loch Awe</en>, <a href="?gd=Eaglais_nam_Manach_Liatha"><g>Eaglais nam Manach
+              Liath(a)</g></a>
+          <en>Greyfriars Kirk</en>
+        </li>
+      </ul>
+    </p>
+  </section>
+  <section id="uses">
+    <h>uses</h>
+    <p>Like other toponyms, toponymic name-descriptions can be classified semantically according to
+      the kind of geographical entity they refer to – <ul>
+        <li>islands and districts eg. <g>An t-Eilean Dubh</g>, <g>Eilean nam Muc</g>, <g>Dùthaich
+            MhicAoidh</g>
+          <!--<boxlink ref="#districts"/>--></li>
+        <li>towns and settlements eg. <g>A’ Chomraich</g>, <g>Baile Ùr an t-Slèibhe</g>
+          <!--<boxlink ref="#settlements"/>--></li>
+        <li>countries and continents eg. <g>An Fhraing</g>, <g>Na h-Ìnnseachan</g>, <g>Innis
+            Tìle</g>
+          <!--<boxlink ref="#countries"/>--></li>
+        <li>mountains and uplands eg. <g>Beinn a’ Bhreacaidh</g>, <g>Am Monadh Ruadh</g></li>
+        <li>rivers, lakes and seas eg. <g>An Linne Latharnach</g>, <g>Loch Obha</g>
+          <!--<boxlink ref="#water"/>--></li>
+      </ul>
+    </p>
+  </section>
+
+
+
+  <section id="lenition">
+    <h>lenition</h>
+    <p>The head (ie. initial) noun in a (post-specified) toponymic name-description which is itself
+      the (genitive) (post-)specifier of another noun seems to be traditionally not lenited – <ul>
+        <li><g>mullach <emph>B</emph>einn Nibheis</g>
+          <en>the summit of Ben Nevis</en></li>
+        <li><g>mòr-thubaist <emph>Dr</emph>ochaid Thatha</g>
+          <en>the Tay Bridge disaster</en></li>
+        <li><g>Comhairle <emph>S</emph>iorrachd Pheairt</g>
+          <en>Perthshire Council</en></li>
+      </ul>
+    </p>
+    <p>However, when the toponymic name-description denotes a town or city, it is often lenited – <ul>
+        <li><g>muinntir <emph>Dh</emph>ùn Èideann</g>
+          <en>the people of Edinburgh</en></li>
+        <li><g>aiseag <emph>Bh</emph>aile a’ Chaolais</g>
+          <en>the Ballachulish ferry</en></li>
+      </ul>
+    </p>
+    <p>In addition, lenition of toponymic name-descriptions is more frequent in modern Gaelic usage
+      than in traditional usage, possibly influenced by Standard Irish – <ul>
+        <li><g>mullach <emph>Bh</emph>einn Nibheis</g>
+          <en>the summit of Ben Nevis</en></li>
+        <li><g>mòr-thubaist <emph>Dhr</emph>ochaid T[h]atha</g>
+          <en>the Tay Bridge disaster</en></li>
+        <li><g>Comhairle <emph>Sh</emph>iorrachd Pheairt</g>
+          <en>Perthshire Council</en></li>
+      </ul>
+    </p>
+  </section>
+
+
+
+
+
+  <!--
+  <box id="districts">
+    <title>toponymic name-descriptions – islands and districts</title>
+    <p>Pre-specified examples <toggle href="pre-districts"/></p>
+    <ctable id="pre-districts">
+      <tbody>
+        <tr><td><g>Am Bac</g></td><td>Back</td><td/></tr>
+        <tr><td><g>An t-Eilean Dubh</g></td><td>The Black Isle</td><td/></tr>
+        <tr><td><g>An t-Eilean Fada</g></td><td>The Long Island (Lewis &amp; Harris)</td><td/></tr>
+        <tr><td><g>An t-Eilean Sgitheanach</g></td><td>Skye</td><td>Also <i>An t-Eilean
+              Sgiathanach</i></td></tr>
+        <tr><td><g>Na h-Eileanan a-muigh</g></td><td>The Outer Hebrides</td><td/></tr>
+        <tr><td><g>Na h-Eileanan a-staigh</g></td><td>The Inner Hebrides</td><td/></tr>
+        <tr><td><a href="?gd=Gàidheal">A’ Ghàidhealtachd</a></td><td>Gaeldom, The Scottish
+            Highlands</td><td/></tr>
+        <tr><td><g>A’ Ghalltachd</g></td><td>The Scottish Lowlands</td><td/></tr>
+        <tr><td><g>Na Hearadh</g></td><td>Harris</td><td/></tr>
+        <tr><td><g>Na Lochan</g></td><td>Lochs</td><td>district in Lewis</td></tr>
+        <tr><td><g>A’ Mhachair Ghallda</g></td><td>The Scottish Lowlands</td><td/></tr>
+        <tr><td><g>Am Parbh</g></td><td>Cape Wrath</td><td>Also <i>An Carbh</i></td></tr>
+        <tr><td><g>An Rubha</g></td><td>Point</td><td/></tr>
+        <tr><td/><td/><td/></tr>
+      </tbody>
+    </ctable>
+    <p>Post-specified examples <toggle href="post-districts"/></p>
+    <ctable id="post-districts">
+      <tbody>
+        <tr><td><g>Àrd nam Murchan</g></td><td>Ardnamurchan</td><td/></tr>
+        <tr><td><g>Beinn nam Faola</g></td><td>Benbecula</td><td/></tr>
+        <tr><td><g>Creag Ealasaid</g></td><td>Ailsa Craig</td><td/></tr>
+        <tr><td><g>Duthaich MhicAoidh</g></td><td>Mackay Country, North Sutherland</td><td/></tr>
+        <tr><td><g>Eilean a’ Cheò</g></td><td>The Isle of Mist, Skye</td><td/></tr>
+        <tr><td><g>Eilean Cheap Breatainn</g></td><td>Cape Breton Island</td><td/></tr>
+        <tr><td><g>Eilean Ì</g></td><td>Iona</td><td>Also <i>Eilean Idhe</i>, <i>Ì Chaluim
+              Chille</i></td></tr>
+        <tr><td><g>Eilean Mhanainn</g></td><td>The Isle of Man</td><td/></tr>
+        <tr><td><g>Eilean nam Muc</g></td><td>Muck</td><td/></tr>
+        <tr><td><g>Eilean nan Caorach</g></td><td>Fair Isle</td><td/></tr>
+        <tr><td><g>Eileanan a’ Chaolais</g></td><td>The Channel Islands</td><td/></tr>
+        <tr><td><g>Gleann Comhainn</g></td><td>Glencoe</td><td/></tr>
+        <tr><td><g>Gleann Fhionghuin</g></td><td>Glenfinnan</td><td/></tr>
+        <tr><td><g>Gleann Sìth</g></td><td>Glenshee</td><td/></tr>
+        <tr><td><g>Gleann Urchaidh</g></td><td>Glen Orchy</td><td/></tr>
+        <tr><td><g>Loch Abar</g></td><td>Lochaber</td><td/></tr>
+        <tr><td><g>Machair Aonghais</g></td><td>Angus</td><td/></tr>
+        <tr><td><g>Machair Rois</g></td><td>Easter Ross</td><td/></tr>
+        <tr><td><g>Sgìre nan Loch</g></td><td>Lochs</td><td>district in Lewis</td></tr>
+        <tr><td><g>Siorra(ma)chd Pheairt</g> &amp;c</td><td>Perthshire</td><td/></tr>
+        <tr><td><g>Srath Chluaidh</g> &amp;c</td><td>Strathclyde</td><td/></tr>
+        <tr><td><g>Srath Spè</g></td><td>Strathspey</td><td/></tr>
+        <tr><td><g>Taobh Spè</g></td><td>Speyside</td><td/></tr>
+        <tr><td><g>Taobh Tatha</g></td><td>Tayside</td><td/></tr>
+        <tr><td><g>Tìr an Eòrna</g></td><td>Tiree, The Land of Barley</td><td/></tr>
+      </tbody>
+    </ctable>
+  </box>
+
+  <box id="settlements">
+    <title>toponymic name-descriptions – towns and settlements</title>
+    <p>Pre-specified examples <toggle href="pre-settlements"/></p>
+    <ctable id="pre-settlements">
+      <tbody>
+        <tr><td><g>An Agaidh Mhòr</g></td><td>Aviemore</td><td/></tr>
+        <tr><td><g>An t-Àth Leathann</g></td><td>Braodford</td><td/></tr>
+        <tr><td><g>A’ Bhruiseal</g></td><td>Brussels</td><td/></tr>
+        <tr><td><g>An Ròimh</g></td><td>Rome</td><td/></tr>
+      </tbody>
+    </ctable>
+    <p>Post-specified examples <toggle href="post-settlements"/></p>
+    <ctable id="post-settlements">
+      <tbody>
+        <tr><td><g>Achadh na Sìne</g></td><td>Achnasheen</td><td/></tr>
+        <tr><td><g>Allt nam Bonnach</g></td><td>Bannockburn</td><td/></tr>
+        <tr><td><g>Bàgh a’ Chaisteil</g></td><td>Castlebay</td><td/></tr>
+        <tr><td><g>Baile a’ Chaolais</g></td><td>Ballachulish</td><td/></tr>
+        <tr><td><g>Baile Ùr an t-Slèibhe</g></td><td>Newtonmore</td><td/></tr>
+        <tr><td><g>Inbhir Àir</g></td><td>Ayr</td><td/></tr>
+        <tr><td><g>Loch Baghasdail</g></td><td>Lochboisdale</td><td/></tr>
+      </tbody>
+    </ctable>
+  </box>
+
+  <box id="countries">
+    <title>toponymic name-descriptions – countries and continents</title>
+    <p>Pre-specified examples <toggle href="pre-countries"/></p>
+    <ctable id="pre-countries">
+      <tbody>
+        <tr><td><g>An Aetiòp</g></td><td>Ethiopia</td><td/></tr>
+        <tr><td><g>An Àisia</g></td><td>Asia</td><td/></tr>
+        <tr><td><g>An Antartaig</g></td><td>Antartica</td><td/></tr>
+        <tr><td><g>An Artaig</g></td><td>The Arctic</td><td/></tr>
+        <tr><td><g>A’ Bheilg</g></td><td>Belgium</td><td/></tr>
+        <tr><td><g>A’ Bhreatann Bheag</g></td><td>Brittany</td><td/></tr>
+        <tr><td><g>A’ Bhulgaire</g></td><td>Bulgaria</td><td/></tr>
+        <tr><td><g>A’ Cheinia</g></td><td>Kenya</td><td/></tr>
+        <tr><td><g>A’ Chòrn</g></td><td>Cornwall</td><td/></tr>
+        <tr><td><g>A’ Chuimrigh</g></td><td>Wales</td><td/></tr>
+        <tr><td><g>An Danmhairg</g></td><td>Denmark</td><td/></tr>
+        <tr><td><g>An Eadailt</g></td><td>Italy</td><td/></tr>
+        <tr><td><g>An t-Ear-Mheadan</g></td><td>The Middle East</td><td/></tr>
+        <tr><td><g>An Eilbhis</g></td><td>Switzerland</td><td/></tr>
+        <tr><td><g>An Èiphit</g></td><td>Egypt</td><td/></tr>
+        <tr><td><g>An Roinn Eòrpa</g></td><td>Europe</td><td/></tr>
+        <tr><td><g>An Fhionnlainn</g></td><td>Finland</td><td/></tr>
+        <tr><td><g>A’ Ghearmailt</g></td><td>Germany</td><td/></tr>
+        <tr><td><g>A’ Ghraonlainn</g></td><td>Greenland</td><td/></tr>
+        <tr><td><g>An Iarac</g></td><td>Iraq</td><td/></tr>
+        <tr><td><g>An Iarain</g></td><td>Iran</td><td/></tr>
+        <tr><td><g>An Ind-Innse</g></td><td>Indonesia</td><td/></tr>
+        <tr><td><g>An Ind-Shìne</g></td><td>Indochina</td><td/></tr>
+        <tr><td><g>Na h-Ìnnseachan</g></td><td>India</td><td/></tr>
+        <tr><td><g>Na h-Ìnnseachan an Iar</g></td><td>The West Indies</td><td/></tr>
+        <tr><td><g>An Isealtìr</g></td><td>The Netherlands</td><td/></tr>
+        <tr><td><g>An Olaind</g></td><td>Holland</td><td/></tr>
+        <tr><td><g>An Ostair</g></td><td>Austria</td><td/></tr>
+        <tr><td><g>A’ Phòlainn</g></td><td>Poland</td><td/></tr>
+        <tr><td><g>A’ Phortagal</g></td><td>Portugal</td><td/></tr>
+        <tr><td><g>An Rìoghachd Aonaichte</g></td><td>The United Kingdom</td><td/></tr>
+        <tr><td><g>An Ruis</g></td><td>Russia</td><td/></tr>
+        <tr><td><g>An t-Seapan</g></td><td>Japan</td><td/></tr>
+        <tr><td><g>An t-Seic</g></td><td>the Czech Republic</td><td/></tr>
+        <tr><td><g>An Spàinn</g></td><td>Spain</td><td/></tr>
+        <tr><td><g>Na Stàitean Aonaichte</g></td><td>The United States</td><td/></tr>
+        <tr><td><g>An t-Suain</g></td><td>Sweden</td><td/></tr>
+        <tr><td><g>An Tuirc</g></td><td>Turkey</td><td/></tr>
+        <tr><td><g>An Ungair</g></td><td>Hungary</td><td/></tr>
+      </tbody>
+    </ctable>
+    <p>Post-specified examples <toggle href="post-countries"/></p>
+    <ctable id="post-countries">
+      <tbody>
+        <tr><td><g>Eileanan Fàro</g></td><td>The Faroes</td><td/></tr>
+        <tr><td><g>Innis Tìle</g></td><td>Iceland</td><td/></tr>
+        <tr><td><g>Talamh an Èisg</g></td><td>Newfoundland</td><td/></tr>
+      </tbody>
+    </ctable>
+  </box>
+
+  <box id="water">
+    <title>toponymic name-descriptions – rivers, lakes and seas</title>
+    <p>Pre-specified examples <toggle href="pre-water"/></p>
+    <ctable id="pre-water">
+      <tbody>
+        <tr><td><g>An Caol Arcach</g></td><td>The Pentland Firth</td><td/></tr>
+        <tr><td><g>An Cuan Barrach</g></td><td>The Little Minch (between Skye and
+          Barra)</td><td/></tr>
+        <tr><td><g>An Cuan Ìnnseanach</g></td><td>The Indian Ocean</td><td/></tr>
+        <tr><td><g>An Cuan Sèimh</g></td><td>The Pacific Ocean</td><td/></tr>
+        <tr><td><g>An Cuan Sgith</g></td><td>The Little Minch (between Skye and
+          Lewis)</td><td/></tr>
+        <tr><td><g>An Cuan a Tuath</g></td><td>The North Sea</td><td/></tr>
+        <tr><td><g>An Cuan Siar</g></td><td>The Atlantic</td><td/></tr>
+        <tr><td><g>An Linne Latharnach</g></td><td>The Firth of Lorne</td><td/></tr>
+        <tr><td><g>An Linne Dhubh</g></td><td>Loch Linnhe</td><td/></tr>
+        <tr><td><g>An Linne Ghlas</g></td><td>The Clyde Estuary</td><td/></tr>
+        <tr><td><g>A’ Mhaoil</g></td><td>The Minch</td><td/></tr>
+        <tr><td><g>Am Muir Dubh</g></td><td>The Black Sea</td><td>Also <i>A’ Mhuir
+          Dhubh</i></td></tr>
+        <tr><td><g>Am Muir Meadhan-thìreach</g></td><td>The Mediterranean Sea</td><td>Also <i>A’
+              Mhuir Mheadhan-thìreach</i></td></tr>
+        <tr><td><g>An Reinn</g></td><td>The Rhine</td><td/></tr>
+      </tbody>
+    </ctable>
+    <p>Post-specified examples <toggle href="post-water"/></p>
+    <ctable id="post-water">
+      <tbody>
+        <tr><td><g>Abhainn Chluaidh</g></td><td>The River Clyde</td><td/></tr>
+        <tr><td><g>Abhainn Lòsaidh</g></td><td>The River Lossie</td><td/></tr>
+        <tr><td><g>Abhainn Naoimh Labhrainn</g></td><td>The St Lawrence River</td><td/></tr>
+        <tr><td><g>Abhainn Thatha</g></td><td>The River Tay</td><td/></tr>
+        <tr><td><g>Abhainn Thuaidh</g></td><td>The River Tweed</td><td/></tr>
+        <tr><td><g>Canàl Spianaigh</g></td><td>The Spynie Canal</td><td/></tr>
+        <tr><td><g>Caolas na Frainge</g></td><td>The English Channel</td><td/></tr>
+        <tr><td><g>Caolas Bhòid</g></td><td>The Kyle of Bute</td><td/></tr>
+        <tr><td><g>Caolas Chrombaidh</g></td><td>The Cromarty Firth</td><td/></tr>
+        <tr><td><g>Caolas Dhòrnaich</g></td><td>The Dornoch Firth</td><td/></tr>
+        <tr><td><g>Caolas Mhoireibh</g></td><td>The Moray Firth</td><td/></tr>
+        <tr><td><g>Cuan Uibhist</g></td><td>The Little Minch (between Skye and Uist)</td><td/></tr>
+        <tr><td><g>Linne Mhoireibh</g></td><td>The Moray Firth</td><td/></tr>
+        <tr><td><g>Linne Chluaidh</g></td><td>The Firth of Clyde</td><td/></tr>
+        <tr><td><g>Linne Foirthe</g></td><td>The Firth of Forth</td><td/></tr>
+        <tr><td><g>Linne Thatha</g></td><td>The Firth of Tay</td><td/></tr>
+        <tr><td><g>Loch Eibhneart</g></td><td>Loch Eynort</td><td/></tr>
+        <tr><td><g>Loch Fìne</g></td><td>Loch Fyne</td><td/></tr>
+        <tr><td><g>Loch Iù</g></td><td>Loch Ewe</td><td/></tr>
+        <tr><td><g>Loch Laomainn</g></td><td>Loch Lomond</td><td/></tr>
+        <tr><td><g>Loch Lòchaidh</g></td><td>Loch Lochy</td><td/></tr>
+        <tr><td><g>Loch Maruibhe</g></td><td>Loch Maree</td><td/></tr>
+        <tr><td><g>Loch Mhùrlaig</g></td><td>Loch Morlich</td><td/></tr>
+        <tr><td><g>Loch Nis</g></td><td>Loch Ness</td><td/></tr>
+        <tr><td><g>Loch Obha</g></td><td>Loch Awe</td><td/></tr>
+        <tr><td><g>Loch Tatha</g></td><td>Loch Tay</td><td/></tr>
+        <tr><td><g>Sruth a’ Chamais</g></td><td>The Gulf Stream</td><td/></tr>
+      </tbody>
+    </ctable>
+  </box>
+  -->
+
+  <!--
+  <p>[Ceann a Deas an Eilean Sgiathanach the South of Skye]</p>
+  <p>Toponymic improper/uncommon nouns – <g>An Fhraing</g> <en>France</en>, <g>A’ Ghearmailt</g> <en>Germany</en>, 
+    i.e. pre-specified toponymic name-descriptions where the noun does not appear to be a common noun. (cf. am Bìoball ???)</p>
+  <p>Calder (1923) –</p>
+  <ul>
+    <li>[p. 104] <g>gu ceann Leitir Blàr a’ Chaorthainn</g> <en>to the head of the Slope of the Field of the Rowan</en> [Why not <bad>Bhlàr</bad>?]</li>
+  </ul>
+  -->
+
+</module>

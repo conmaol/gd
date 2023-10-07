@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="silver">
+  <h>cus</h>
+  <p><g>cus</g>
+    <en>glut, too much/many, surfeit</en> is an indeclinable, masculine <a
+      href="?xx=nouns/generic_quantity_nouns">generic quantity noun</a>, expressing an
+      <emph>excessive</emph> quantity.</p>
+
+  <section>
+    <h>dependents</h>
+    <section id="indefinite">
+      <h>indefinite</h>
+      <p>On its own – <ul>
+          <li>Dh’òl Raonaid <m>cus</m>. <en>Rachel drank too much.</en></li>
+          <li>Tha <m>cus</m> aig Màiri. <en>Mary has too many/much.</en></li>
+        </ul>
+        <xl id="cus">
+          <li>
+            <gd>Bha a shùilean beag dall mar gum biodh e air cus òl.</gd>
+            <tr>His eyes were small and blind as if he had drunk too much.</tr>
+            <ref text="198">td. 51</ref>
+          </li>
+          <li>
+            <gd>A bheil cus ann an cuid de na roinnean?</gd>
+            <tr>Are there too many in some of the departments?</tr>
+            <ref text="601">td. 206</ref>
+          </li>
+        </xl>
+      </p>
+      <p>With a genitive modifier – <ul>
+          <li>Dh’òl Raonaid <m>cus <emph>uisge</emph></m>. <en>Rachel drank too much water.</en></li>
+          <li>Tha <m>cus <emph>chon</emph></m> aig Màiri. <en>Mary has too many dogs.</en></li>
+        </ul>
+        <xl id="cus_specifier">
+          <li>
+            <gd>“Uill,” ars esan, “tha mi ’n dòchas gun dìochuimhnich thu m’ amaideas. Tha mi
+              dèanamh cus bruidhinn co-dhiùbh.”</gd>
+            <tr>“Well,” he said, “I hope that you will forget my stupidity. I am doing too much
+              talking anyway.”</tr>
+            <ref text="198">td. 53</ref>
+          </li>
+          <li>
+            <gd>Ma sgrìobhas tu seo ann an stòraidh, canaidh iad gu bheil thu dèanamh cus feum dhe
+              cho-thuiteamas.</gd>
+            <tr>If you write this in a story, they will say that you are making too much use of
+              co-incidence.</tr>
+            <ref text="2">td. 120</ref>
+          </li>
+          <li>
+            <gd>Bha an sgona air at mar gum biodh fada cus sòda-arain innte.</gd>
+            <tr>The scone had swollen up as if there were far too much baking soda in it.</tr>
+            <ref text="331">159</ref>
+          </li>
+          <li>
+            <gd>Tha <m>cus de Ghàidheil</m> ann fhathast a tha a’ dèanamh seo.</gd>
+            <tr>There are still too many Gaels who are doing this.</tr>
+            <ref text="601">td. 206</ref>
+            <note>Note the (perhaps ‘literary’) use of the preposition <g>de</g> here, rather than a
+              simple genitive.</note>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="partitive">
+      <h>partitive</h>
+      <p>The preposition <a href="?gd=dhe"><g>de</g></a> with a definite noun – <ul>
+          <li>Dh’òl Raonaid <m>cus <emph>den fhìon</emph></m>. <en>Rachel drank too much of the
+            wine.</en></li>
+          <li>Tha <m>cus <emph>de mo choin</emph> aig Màiri</m>. <en>Mary has too many of my
+            dogs.</en></li>
+        </ul>
+        <xl id="cus_de_art">
+          <li>
+            <gd>’S e a beachd gu feum Alba cumail ceum ri ceum ris na dùthchannan eile, gu bheil
+              fada cus de na dathan bàna, ris an abrar anns a’ chlò.</gd>
+            <tr>It is her opinion that Scotland must keep up with the other countries, that there
+              are far too many of the pale colours as they call it in the tweed [??].</tr>
+            <ref text="400-23">td. 256</ref>
+          </li>
+        </xl>
+      </p>
+      <p>With a prepositional pronoun – <ul>
+          <li>Dh’òl Raonaid <m>cus <emph>dheth</emph></m>. <en>Rachel drank too much of it.</en></li>
+          <li>Tha <m>cus <emph>dhiubh</emph></m> aig Màiri. <en>Mary has too many of them.</en></li>
+        </ul>
+        <xl id="cus_de_pron">
+          <li>
+            <gd>Tha cus dhiubh ann am Beurla.</gd>
+            <tr>Too many of them are in English.</tr>
+            <ref text="601">td. 206</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="idiomatic">
+      <h>idiomatic usage</h>
+      <p><ul>
+          <li><g>cus mu</g>
+            <en>too much [information/knowledge] about</en> – <ul>
+              <li>Tha Màiri a’ bruidhinn <m>cus mu</m> choin. <en>Mary talks too much about
+                  dogs.</en>
+                <xl id="cus_mu">
+                  <li>
+                    <gd>Bha e an dòchas nach faighnicheadh na poilis cus mu a mhnaoi, Nuha à Iòrdan
+                      a choinnich e nuair a bha e ag obair aig a’ BhBC ann an Glaschu, ged a bha i
+                      nis a’ fuireach san Eilean Sgitheanach .</gd>
+                    <tr>He was hoping that the police would not ask too much about his wife, Nuha
+                      from Jordan whom he had met when he was working for the BBC in Glasgow,
+                      although she was now living in Skye.</tr>
+                    <ref text="337">td. 17</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+          <li><g>cus ri (dhèanamh)</g>
+            <en>too much to do</en> – <ul>
+              <li>Tha <m>cus</m> aig Raonaid <m>ri dhèanamh</m>. <en>Rachel has too much to do.</en>
+                <xl id="cus_ri">
+                  <li>
+                    <gd>Ach nuair a bha mi fhathast anns an sgoil cha robh seo a’ cur dragh orm. Bha
+                      cus agam ri dhèanamh. A’ teagasg ’s a’ comharrachadh.</gd>
+                    <tr>But when I was still in the school that did not worry me. I had too much to
+                      do. Teaching and marking.</tr>
+                    <ref text="198">td. 15</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+        </ul></p>
+
+      <!--
+    <p>Colin Mark: <g>cus</g> as synonym of <a href="?gd=mòran">mòran</a> ‘a lot’ eg. tha sin a’ coimhead cus nas fheàrr; tha sin cus nas fheàrr; cus mholaidhean; chosg e cus a bharrachd gan
+      cuideachadh na thog e air mhàl ‘a lot more’.</p>
+    -->
+    </section>
+  </section>
+</module>

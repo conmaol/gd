@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>verbal aspect</h>
+    <p>The most common verbal aspects in Gaelic are – <ul>
+            <li>perfective – <ul>
+                    <li>simple – <ul>
+                            <li><m>Shuidh Raonaid sìos.</m>
+                                <en>Rachel sat down</en>.</li>
+                            <li><m>Dh’ith mi ubhal.</m>
+                                <en>I ate an apple.</en></li>
+                        </ul>
+                    </li>
+                    <li>inchoative <ul>
+                            <li><m>Thòisich Raonaid air suidhe sìos.</m>
+                                <en>Rachel started to sit down.</en></li>
+                            <li><m>Theann mi ri ubhal a ithe.</m>
+                                <en>I started to eat an apple.</en></li>
+                        </ul>
+                    </li>
+                    <li>cessative <ul>
+                            <li><m>Sguir Raonaid a shuidhe sìos.</m>
+                                <en>Rachel stopped sitting down.</en></li>
+                            <li><m>Stad mi a dh’ithe an ubhail.</m>
+                                <en>I stopped eating the apple.</en></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>imperfective – <ul>
+                    <li>progressive – <ul>
+                            <li><m>Tha Raonaid a’ suidhe sìos.</m>
+                                <en>Rachel is [in the process of] sitting down.</en></li>
+                            <li><m>Tha mi ag ithe ubhal.</m>
+                                <en>I am eating an apple.</en></li>
+                        </ul>
+                    </li>
+                    <li>habitual – <ul>
+                            <li><m>Shuidheadh Raonaid sìos (gu tric).</m>
+                                <en>Rachel sat down (frequently)</en>.</li>
+                            <li><m>Is àbhaist dhomh ubhal a ithe (gach madainn).</m>
+                                <en>I usually eat an apple (every morning).</en></li>
+                        </ul>
+                    </li>
+                    <li>retrospective (the state deriving from a past event) – <ul>
+                            <li><m>Tha Raonaid na suidhe.</m>
+                                <en>Rachel has/is sat down.</en></li>
+                            <li><m>Tha mi air ubhal a ithe.</m>
+                                <en>I have eaten an apple.</en></li>
+                        </ul>
+                    </li>
+                    <li>prospective (the state leading up to a future event) – <ul>
+                            <li><m>Tha Raonaid gu suidhe sìos.</m>
+                                <en>Rachel is about to sit down.</en></li>
+                            <li><m>Tha mi a’ dol a dh’ithe ubhail.</m>
+                                <en>I am going to eat an apple.</en></li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </p>
+    <section id="perfective">
+        <h>perfectives</h>
+        <p>A verbal expression has perfective aspect if it presents a situation (event, activity,
+            process or state) from the <emph>outside</emph>, as a single, unanalysable, bounded
+            whole, perhaps preceded and followed by others. In Gaelic, as in English, perfective
+            situations are typically encoded in the simple past tense – <ul>
+                <li><m>Dh’fhosgail</m> mi an doras. <m>Chaidh</m> mi a-steach agus <m>shuidh</m> mi
+                    sìos aig a’ bhòrd. <en>I opened the door. I went in and sat down at the
+                        table.</en></li>
+            </ul>
+        </p>
+        <p>Simple futures and conditionals can also be used to mark perfective situations in
+            ‘irrealis’ contexts (non-factuals, conditionals, hypotheticals, ...) – <ul>
+                <li>Ma bhios an t-uisge ann, <m>fosglaidh</m> mi an doras agus <m>thèid</m> mi
+                        a-steach.<en>If it’s raining, I’ll open the door and go in.</en></li>
+                <li>Nam biodh an t-uisge ann, <m>dh’fhosglainn</m> an doras agus <m>dheighinn</m>
+                    a-steach. <en>If it were raining, I would open the door and go in.</en></li>
+            </ul>
+        </p>
+        <p>Note also that almost all verb forms in the simple past mark perfective situations, with
+            the obvious exceptions being the past simple forms of <a href="?gd=bi"><g>bi</g></a>
+                (<g>bha</g>, <g>robh</g>) and <g>is</g> (<g>bu</g>). Things are more complicated with simple
+            futures and conditionals, as discussed below.</p>
+        <section id="inchoative">
+            <h>inchoatives</h>
+            <p>A perfective verbal expression has inchoative aspect if it describes the starting
+                point of a situation, usually by means of an aspectual auxiliary verb – <ul>
+                    <li><m>Thòisich Iain air an doras fhosgladh.</m>
+                        <en>John started to open the door.</en></li>
+                    <li><m>Theann Màiri ri seinn.</m>
+                        <en>Mary began to sing.</en></li>
+                </ul>
+            </p>
+            <p>cf. <a href="?gd=tòisich"><g>tòisich</g></a>, <a href="?gd=teann"><g>teann</g></a>
+                <en>start, begin, commence</en>.</p>
+        </section>
+        <section id="cessative">
+            <h>cessatives</h>
+            <p>A perfective verbal expression has cessative aspect if it describes the ending point
+                of a situation, again usually by means of an aspectual auxiliary verb or verb
+                compound – <ul>
+                    <li><m>Sguir Iain a dh’fhosgladh an dorais.</m>
+                        <en>John stopped opening the door.</en></li>
+                    <li><m>Stad Màiri a sheinn.</m>
+                        <en>Mary stopped singing.</en></li>
+                </ul>
+            </p>
+            <p>cf. <a href="?gd=sguir"><g>sguir</g></a>, <a href="?gd=stad"><g>stad</g></a>
+                <en>stop, finish, end</en>, (thig/thoir) <a href="?gd=crìoch"><g>gu crìoch</g></a>
+                <en>(come/bring) to an end</en>.</p>
+        </section>
+    </section>
+    <section id="imperfective">
+        <h>imperfectives</h>
+        <p>A verbal expression has imperfective aspect if it presents a situation from the
+                <emph>inside</emph> – ongoing and non-bounded, without explicit start or end points.
+            Imperfective situations are often presented as descriptive background to foregrounded
+            perfectives.</p>
+        <section id="progressive">
+            <h>progressives</h>
+            <p>An imperfective verbal expression has progressive aspect if it describes an event,
+                activity or process as continuous or ongoing – a potentially perfective situation
+                that has started but not yet ended. In Gaelic, the normal way of marking progressive
+                aspect is by means of verbal compounds of the form <g>bi ag</g> + verbal noun – <ul>
+                    <li>Chaidh mi a-steach. <m>Bha Iain a’ leughadh.</m>
+                        <en>I went in. John was reading.</en></li>
+                </ul> In this example, the activity described by the second sentence is presented as
+                progressive background to the foregrounded perfective event described by the
+                preceding sentence.</p>
+            <p>We can also have present, future and conditional progressives – <ul>
+                    <li>Dè tha thu a dèanamh? / <m>Tha mi ag ithe ubhal.</m>
+                        <en>What are you doing? / I’m eating an apple.</en></li>
+                    <li>Feasgar a-màireach aig seachd uairean, <m>bidh Màiri a’ coimhead air an
+                            telebhisean</m>. <en>Tomorrow evening at 7, Mary will be watching
+                            TV.</en></li>
+                    <li>Thuirt i gum <m>biodh Seumas ag obair anns a’ ghàrradh</m> an
+                        làrna-mhàireach. <en>She said that James would be working in the garden the
+                            following day.</en></li>
+                </ul>
+            </p>
+            <p>In Gaelic, it is normal to use semantically stative verbs in the progressive, where
+                English would use a simple present or past – <ul>
+                    <li><m>Tha mi a’ tuigsinn nan rudan seo.</m>
+                        <en>I understand these things.</en></li>
+                </ul>
+            </p>
+            <p>cf. <a href="?gd=ag"><g>ag</g></a> <en>in the process of</en>.</p>
+        </section>
+        <section id="habitual">
+            <h>habituals</h>
+            <p>An imperfective verbal expression has habitual aspect if it describes a
+                non-continuous, but ongoing, sequence/iteration of identical situations. In Gaelic,
+                the traditional way of marking habitual aspect is by using simple future tense forms
+                for present (and future) habituals, and simple conditional tense for past habituals,
+                often elaborated or intensified by a frequency adverbial – <ul>
+                    <li><m>Sgrìobhaidh mi dàn gach madainn.</m>
+                        <en>I write a poem every morning.</en></li>
+                    <li>Nuair a bha mi òg, <m>sgrìobhainn dàn gach madainn.</m>
+                        <en>When I was young, I wrote [would write, used to write] a poem every
+                            morning.</en></li>
+                </ul>
+            </p>
+            <p> Note that, unlike in English, it is not appropriate to use the simple past in Gaelic
+                to describe habitual aspect – <ul>
+                    <li>Nuair a bha mi òg, <bad>sgrìobh mi dàn gach madainn.</bad></li>
+                </ul>
+            </p>
+            <p>In more modern usage, the Gaelic progressive <g>ag</g> construction is often used as
+                a generic marker of (introspective – see below) imperfectivity, including habitual
+                aspect – <ul>
+                    <li><m>Tha mi a’ sgrìobhadh dàn [ùr] gach madainn.</m>
+                        <en>I write a [new] poem every morning.</en></li>
+                    <li>Nuair a bha mi òg, <m>bha mi a’ sgrìobhadh dàn [ùr] gach madainn.</m>
+                        <en>When I was young, I wrote a [new] poem every morning.</en></li>
+                </ul>
+            </p>
+            <p>Habituals can be distinguished from strict progressives by using the future
+                progressive to mark present habituals and the conditional progressive to mark past
+                habituals – <ul>
+                    <li><m>Bidh mi a’ sgrìobhadh dàn [ùr] gach madainn.</m>
+                        <en>I write a [new] poem every morning.</en></li>
+                    <li>Nuair a bha mi òg, <m>bhithinn a’ sgrìobhadh dàn [ùr] gach madainn.</m>
+                        <en>When I was young, I used to/would write a [new] poem every morning.</en></li>
+                </ul>
+            </p>
+        </section>
+        <section id="retro">
+            <h>retrospectives</h>
+            <p>An imperfective verbal expression has retrospective aspect if it describes a
+                situation that constitutes the aftermath of a preceding situation. In Gaelic, the
+                normal way of marking retrospective aspect is by means of verbal compounds of the
+                form <g>bi air</g> + infinitive or <g>bi an dèidh</g> + infinitive – <ul>
+                    <li>Tha Iain sgìth. <m>Tha e air litir a sgrìobhadh.</m>
+                        <en>John is tired. He has written a letter.</en></li>
+                    <li>Chaidh mi a-steach. <m>Bha Màiri an dèidh ithe [mar-thà].</m>
+                        <en>I went in. Mary had [already] eaten.</en></li>
+                </ul></p>
+            <p>Retrospective progressives are also possible, implying non-completion – <ul>
+                    <li>Tha Iain sgìth. <m>Tha e air a bhith a’ sgrìobhadh litir.</m>
+                        <en>John is tired. He has been writing a letter.</en></li>
+                    <li>Chaidh mi a-steach. <m>Bha Màiri an dèidh a bhith ag ithe.</m>
+                        <en>I went in. Mary had been eating.</en></li>
+                </ul>
+            </p>
+            <p>cf. <a href="?gd=air"><g>air</g></a> <en>on</en>.</p>
+            <p>In addition, there are a handful of Gaelic verbs that form quasi-retrospectives of
+                the form <g>bi na*</g> + verbal noun – <ul>
+                    <li><m>Tha mi nam shuidhe aig a’ bhòrd.</m>
+                        <en>I am sat at the table.</en></li>
+                    <li>Chaidh mi a-steach. <m>Bha Màiri na dùsgadh.</m>
+                        <en>I went in. Mary was awake [had woken up].</en></li>
+                </ul> These retrospectives appear to have similar semantic force to expressions like
+                    <g>tha mi air suidhe</g> and <g>bha i an dèidh dùsgadh</g>.</p>
+            <p>cf. <a href="?gd=an^preposition"><g>an</g></a> <en>in</en>.</p>
+        </section>
+        <section id="prospective">
+            <h>prospectives</h>
+            <p>An imperfective verbal expression has prospective aspect if it describes a situation
+                that constitutes the prelude to a following situation. In Gaelic, the normal way of
+                marking prospective aspect is by means of verbal compounds of the form <g>bi a’ dol
+                    [dh]a</g> + verbal noun or <g>bi gu(s)</g> + infinitive – <ul>
+                    <li><m>Tha Iain a’ dol a sgrìobhadh litir.</m>
+                        <en>John is going to write a letter.</en></li>
+                    <li>Chaidh mi a-steach. <m>Bha Màiri gu falbh.</m>
+                        <en>I went in. Mary was about to leave.</en></li>
+                </ul></p>
+            <p>cf. <a href="?gd=gu-prospective"><g>gu</g></a>, <a href="?gd=impis"><g>an
+                    impis</g></a>, <!--<a href="?gd=beul"><g>air bheul</g></a>,--> <a href="?gd=lunn"
+                        ><g>air lunn</g></a>, <a href="?gd=tuar"><g>air thuar</g></a>
+                <en>(seem to) be about to</en>. </p>
+        </section>
+    </section>
+    <!--
+    <module id="lex">
+        <h lang="en">lexical aspect</h>
+        <h lang="gd">...</h>
+        <p lang="en">telic verbs – <ul>
+                <li>intransitive – <a href="?gd=bàs">bàsaich</a>
+                    <en>die</en>, <a href="?gd=caidil">caidil</a>
+                    <en>fall asleep</en>, <a href="?gd=dùisg">dùisg</a>
+                    <en>wake up</en>, <a href="?gd=caochail">caochail</a>
+                    <en>change, die</en>, <a href="?gd=falbh">falbh</a>
+                    <en>leave, depart</en>, <a href="?gd=nochd">nochd</a>
+                    <en>appear, come into view/sight</en></li>
+                <li>transitive – <a href="?gd=caill">caill</a>
+                    <en>lose, miss</en>, <a href="?gd=fàg">fàg</a>
+                    <en>leave, abandon</en>, <a href="?gd=lorg">lorg</a>
+                    <en>find</en></li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">atelic verbs – <a href="?gd=bruidhinn">bruidhinn</a>
+            <en>speak, talk</en>, <a href="?gd=smaoinich">smaoinich</a>
+            <en>think, reflect, believe</en>, <a href="?gd=strì">strì</a>
+            <en>struggle, battle</en></p>
+        <p lang="gd">...</p>
+    </module>
+-->
+</module>

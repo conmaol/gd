@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>taidhcùn</h>
+    <p><b>taidhcùn</b>
+        <en>tycoon</en> is a (masculine) <a href="?xx=nouns/occupational_common_nouns">occupational common
+            noun</a>.</p>
+    <p>Examples from modern usage – <xl id="xs">
+            <li>
+                <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe
+                    <m>taidhcùn</m>. Rinn e sin tro dhìcheall, obair chruaidh agus tàlant malairt a
+                    bha neo-ghnàthach. An-diugh tha iomadh companaidh na ainm air feadh na
+                    Gàidhealtachd. [...]</gd>
+                <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. He
+                    did that through duty, hard work and a talent for business that was unusual.
+                    Today there are many companies in his name all over the Highlands. [...]</tr>
+                <ref text="2">td. 5</ref>
+            </li>
+            <li>
+                <gd>Bha a h-uile duine a dh’aithnicheadh e a’ smaoineachadh gu robh beatha shòlasach
+                    aig Ailig Smart. [...] Thòisich e na bhalach le aon eathar ghiomach ag obair
+                    a-mach à Malaig, agus aig an àm seo bha e air a mheas na dhuine beairteach. Bha
+                    trì bàtaichean mòr aige, agus bha e a’ reic iomadh seòrsa maoraich anns an
+                    Fhraing agus anns an Spàinn. A dh’aindeoin sin, cha robh e air a shèideadh suas
+                    le fèin-spèis idir, mar as tric a bhios <m>taidhcùn</m>. ’S ann glè ainneamh a
+                    chitheadh duine e air a sgeadachadh mar duine-uasal. Mar bu tric’ ’s e geansaidh
+                    iasgair agus seann bhriogais a bhiodh air, oir bha e daonnan ag obair mu
+                    eathraichean is iasg. [...]</gd>
+                <tr>Everybody who got to know him thought that Alec Smart had a good life. [...] He
+                    started with one lobster boat working out of Mallaig, and at this time he had
+                    been regarded as a wealthy man. He had three large boats, and he sold many types
+                    of shellfish in France and in Spain. Besides that, he was not inflated with
+                    self-regard at all, as a tycoon often is. He was very seldom seen dressed like a
+                    gentleman. Usually, he wore a fisherman’s jersey, because he was always working
+                    around boats and fish. [...]</tr>
+                <ref text="2">td. 103</ref>
+            </li>
+
+        </xl>
+    </p>
+
+    <module id="etymology">
+        <h>etymology</h>
+        <p>Gaelic <b>taidhcùn</b> is borrowed/transliterated from English <ax
+                href="https://en.wiktionary.org/wiki/tycoon#English">tycoon</ax>
+            <en>wealthy and powerful business person</en>, itself borrowed/transliterated from Japanese <ax
+                href="https://en.wiktionary.org/wiki/%E5%A4%A7%E5%90%9B#Etymology_3">大君</ax>
+            (taikun) <en>great lord, prince</en>. </p>
+    </module>
+</module>

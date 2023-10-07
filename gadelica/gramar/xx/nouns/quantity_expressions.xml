@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="silver">
+  <h>quantity expressions</h>
+  <p>Quantity expressions are words and phrases which describe <emph>amounts</emph> of a substance
+    or of things. Quantity expressions involve appropriate responses to the following kinds of
+    question – <ul>
+      <li><g>Dè na dh’òl Raonaid de bhainne?</g>
+        <en>How much milk did Rachel drink?</en></li>
+      <li><g>Cò mheud briosgaid a dh’ith Màiri?</g>
+        <en>How many biscuits did Mary eat?</en></li>
+    </ul>
+  </p>
+  <p>These questions involve <emph>non-partitive</emph> quantity expressions, where the entity being
+    quantified is indefinite. Related partitive questions are – <ul>
+      <li><g>Dè na dh’òl Raonaid den bhainne?</g>
+        <en>How much of the milk did Rachel drink?</en></li>
+      <li><g>Cò mheud de na briosgaidean a dh’ith Màiri?</g>
+        <en>How many of the biscuits did Mary eat?</en></li>
+    </ul>
+  </p>
+  <p>There are two main kinds of quantity expression – <ol>
+      <li><a href="?xx=nouns/numeric_quantity_expressions">Numeric quantity expressions</a> describe
+        a specific number of things – <m>còig craobhan</m>
+        <en>five trees</en>, <m>dusan dhiubh</m>
+        <en>a dozen of them</en>, <m>seachdnar</m>
+        <en>seven [people]</en>.</li>
+      <li><a href="?xx=nouns/generic_quantity_expressions">Generic quantity expressions</a> do not
+        describe a specific number, but rather some other, non-numeric quantity, eg. <m>mòran
+          leabhraichean</m>
+        <en>many books</en>, <m>barrachd den airgead</m>
+        <en>more of the money</en>, <m>cus chloinne</m>
+        <en>too many children</en>, <m>a’ chuid as motha de na h-ùbhlan</m>
+        <en>most of the apples</en>.</li>
+    </ol>
+  </p>
+</module>

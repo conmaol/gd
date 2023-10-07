@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>cuid</h>
+    <p><b>cuid</b>
+        <en>share</en> is a feminine common noun.</p>
+    <p>Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>[...] ’S bha iad ’nan suidhe an sin ag òl uisge-beatha fad na h-oidhch’, na
+                    ceathrar aca. An dràsda ’s a rithist shealladh Iain a-mach air an uinneig ris a’
+                    mhuir ’s na h-eileanan. Chitheadh e aig amannan na faoileagan a’ gabhail
+                    seachad, ’s chluinneadh e <m>an cuid sgriachail</m>. [...]</gd>
+                <tr>[...] And they were sat there drinking whisky all night, the four of them. Now
+                    and again John would look out the window at the sea and the islands. He could
+                    see at times the gulls going past, and he could hear their screeching.
+                    [...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+        </xl>
+    </p>
+</module>

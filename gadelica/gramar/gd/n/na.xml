@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <h lang="en">na</h>
+  <h lang="gd">na</h>
+  <p lang="en">The particle <b>na</b> has a number of uses in Gaelic.</p>
+  <h lang="en">positive interrogative past verb particle</h>
+  <p lang="en">Dialectal variant: <strong>na</strong> = <a href="?gd=an-particle">an</a> <a href="?gd=do">do</a> –</p>
+  <ulx id="exs">
+    <lix>
+      <gd>Rugadh am feallsanach Soren Kierkegaard ann sa’ bhliadhna 1813, an Copenhagen far <m>na</m> bhàsaich e nuair a bha e dà fhichead, ’s a dhà.</gd>
+      <tr>The philosopher Soren Kierkegaard was born in 1813, in Copenhagen where he died when he was 42.</tr>
+      <ref text="400-41">td. 103</ref>
+    </lix>
+  </ulx>
+</module>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>ceudamh</h>
+  <p><b>ceudamh</b> is an <a href="?xx=ordinals">ordinal numeral</a>, equivalent to the English
+      <en>hundredth</en>, and derived from the numeric noun <b><a href="?gd=ceud">ceud</a></b>.</p>
+  <p>cf. <a href="?en=the&amp;box=ceudamh">definite article</a> + <b>ceudamh</b></p>
+</module>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>ainm</h>
+    <p><b>ainm</b> <en>name</en> is a masculine common noun.</p>
+    <p>Biblical examples – <xl id="bible-exs">
+            <li>
+                <gd>A Nis is iad so <m>ainmeanna chloinn Israeil</m>, a thàinig do’n Eiphit; thàinig
+                    gach duine agus a theaghlach maille re Iacob: Reuben, Simeon, Lebhi, agus Iudah,
+                    Isachar, Sebulun, agus Beniamin, Dan, agus Naphtali, Gad, agus Aser. [...]</gd>
+                <tr>Now these are the names of the children of Israel, which came into Egypt; every
+                    man and his household came with Jacob. Reuben, Simeon, Levi, and Judah,
+                    Issachar, Zebulun, and Benjamin, Dan, and Naphtali, Gad, and Asher. [...]
+                    [KJV]</tr>
+                <ref text="160">Ecsodus I.1–4</ref>
+            </li>
+        </xl>
+    </p>
+    <module id="bi_nam_ainm">
+        <h>bi ’na* ainm</h>
+        <p>Examples from modern usage – <xl id="other">
+            <li>
+                <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. Rinn
+                    e sin tro dhìcheall, obair chruaidh agus tàlant malairt a bha
+                    neo-ghnàthach. An-diugh <m>tha iomadh companaidh na ainm</m> air feadh na
+                    Gàidhealtachd. [...]</gd>
+                <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. He
+                    did that through diligence, hard work and a talent for business that was
+                    unusual. Today there are many companies in his name all over the Highlands.
+                    [...]</tr>
+                <ref text="2">td. 5</ref>
+            </li>
+        </xl>
+        </p>
+    </module>
+</module>

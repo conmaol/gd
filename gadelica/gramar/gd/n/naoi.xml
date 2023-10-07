@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>naoi</h>
+  <p><b>naoi</b>
+    <en>nine, 9</en> is a <a href="?xx=nouns/numerals">numeral</a>.</p>
+  <p>cf. <a href="?gd=deich&amp;mod=naoi_deug">naoi deug</a>
+    <en>nineteen, 19</en>.</p>
+
+  <module id="naoidheamh">
+    <h>naoidheamh</h>
+    <p><b>naoidheamh</b>
+      <en>ninth, 9th</en> is a derived ordinal, with suffix <a href="?gd=_amh">-(e)amh</a>.</p>
+  </module>
+
+  <module id="naoinear">
+    <h>naoinear</h>
+    <p><b>naoinear</b>
+      <en>nine people</en> is a masculine <a href="?xx=nouns/numeric_nouns">numeric noun</a></p>
+    <p>Pedagogical examples – <xl id="naoinear-pedag">
+        <li>
+          <gd>naoinear no deichnear de chaileagan</gd>
+          <tr>nine or ten girls</tr>
+          <ref text="601">td. 221</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+
+  <module id="naochad">
+    <h>naochad</h>
+    <p><b>naochad</b>
+      <en>ninety, 90</en> is a modern derived <a href="?xx=nouns/numeric_base_nouns">numeric base
+        noun</a>.</p>
+
+    <module id="na_naochadan">
+      <h>na naochadan</h>
+      <p><b>na naochadan</b>
+        <en>the nineties, the 90s</en> – <xl id="na_naochadan-other">
+          <li>
+            <gd>Ann an Dùn Èideann <m>anns na naochadan</m> bha barrachd agus barrachd inbhich
+              airson Gàidhlig ionnsachadh.</gd>
+            <tr>In Edinburgh in the 90s there were more and more people wanting to learn
+              Gaelic.</tr>
+            <ref text="610">td. 85</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+  </module>
+
+
+
+
+
+</module>

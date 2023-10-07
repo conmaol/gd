@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>anthropic common nouns</h>
+    <p>Anthropic commons nouns are <a href="?xx=nouns/common_nouns">common nouns</a> that
+        characterise classes of human individual.</p>
+    <p>Some important sub-classes of anthropic common nouns are – <ul>
+            <li><a href="?xx=nouns/ethnonymic_common_nouns">Ethnonymic common nouns</a> characterise
+                a person in terms of their ethno-cultural heritage or lineage, eg. <a
+                    href="?gd=Gàidheal">Gàidheal</a>
+                <masc/>
+                <en>Gael, Highlander</en>, <a href="?gd=Leòdhas">Leòdhasach</a>
+                <masc/>
+                <en>man from Lewis</en>, <a href="?gd=Caimbeul">Caimbeulach</a>
+                <masc/>
+                <en>a Campbell</en>.</li>
+            <li><a href="?xx=nouns/occupational_common_nouns">Occupational common nouns</a>
+                characterise a person in terms of the role or function they perform in the
+                tribe/community/society.</li>
+            <li><a href="?xx=nouns/sectarian_common_nouns">Sectarian common nouns</a> characterise a
+                person in terms of their religious or philosophical identity of beliefs.</li>
+            <li>age-related – <a href="?gd=deich">deugaire</a>
+                <masc/>
+                <en>teenager</en></li>
+        </ul>
+    </p>
+    <p>Most derived anthropic common nouns are masculine in gender and hence characterise
+        classes of male persons. Specifically feminine/female variants are formed with the prefix <a
+            href="?gd=bean^noun">ban(a)-</a>.</p>
+    <p>The suffix <a href="?gd=_ar">-(e)ar</a> is often used to derive anthropic common
+        nouns.</p>
+
+</module>

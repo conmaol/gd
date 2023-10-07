@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>tadhail</h>
+    <p><g>tadhail</g>
+        <en>visit</en> is a verb.</p>
+
+
+</module>

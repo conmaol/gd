@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>thig</h>
+  <!-- Keep working through Mark dictionary. And from Chapter 10 in Robby textbook. -->
+  <p><g>thig</g>
+    <en>come</en> is an irregular simple verb. It generally
+    denotes a (proximal) event of <a href="?q=motion">motion along a trajectory</a>, towards the
+    speaker or centre of discourse (cf. the equivalent distal verb <a href="?gd=rach"
+      ><g>rach</g></a>
+    <en>go</en>).</p>
+  <section id="forms">
+    <h>forms</h>
+    <p>The principal parts of <g>thig</g> are – <ul>
+        <li><m>thig</m> – future independent <en>will come</en></li>
+        <li><m>thàinig</m> – past independent <en>came</en></li>
+        <li><m>tighinn</m> – verbal noun <en>coming</en></li>
+      </ul>
+    </p>
+    <section>
+      <h>tense</h>
+      <p><ul>
+          <li>past <ul id="past">
+              <li>active <ul>
+                  <li>independent – <m>thàinig</m></li>
+                  <li>relative – a <m>thàinig</m></li>
+                  <li>dependent – cha/an/nach <m>tàinig</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>thàinigeas</m></li>
+                  <li>relative – a <m>thàinigeas</m></li>
+                  <li>dependent – cha/an/nach <m>tàinigeas</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>future <ul id="future">
+              <li>active <ul>
+                  <li>independent – <m>thig</m></li>
+                  <li>relative – a <m>thig</m></li>
+                  <li>dependent – cha/an/nach <m>tig</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>thigear</m></li>
+                  <li>relative – a <m>thigear</m></li>
+                  <li>dependent – cha/an/nach <m>tigear</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>conditional <ul id="conditional">
+              <li>active <ul>
+                  <li>first person singular <ul>
+                      <li>independent – <m>thiginn</m></li>
+                      <li>relative – a <m>thiginn</m></li>
+                      <li>dependent – cha/an/nach <m>tiginn</m></li>
+                    </ul>
+                  </li>
+                  <li>first person plural <ul>
+                      <li>independent – <m>thigeamaid</m></li>
+                      <li>relative – a <m>thigeamaid</m></li>
+                      <li>dependent – cha/an/nach <m>tigeamaid</m></li>
+                    </ul>
+                  </li>
+                  <li>second/third persons <ul>
+                      <li>independent – <m>thigeadh</m></li>
+                      <li>relative – a <m>thigeadh</m></li>
+                      <li>dependent – cha/an/nach <m>tigeadh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>thigte</m></li>
+                  <li>relative – a <m>thigte</m></li>
+                  <li>dependent – cha/an/nach <m>tigte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>status</h>
+      <p>
+        <ul>
+          <li>independent <ul id="independent">
+              <li>past <ul>
+                  <li>active – <m>thàinig</m></li>
+                  <li>passive – <m>thàinigeas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – <m>thig</m></li>
+                  <li>passive – <m>thigear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – <m>thiginn</m></li>
+                      <li>first person plural – <m>thigeamaid</m></li>
+                      <li>second/third persons – <m>thigeadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – <m>thigte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>relative <ul id="relative">
+              <li>past <ul>
+                  <li>active – a <m>thàinig</m></li>
+                  <li>passive – a <m>thàinigeas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – a <m>thig</m></li>
+                  <li>passive – a <m>thigear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – a <m>thiginn</m></li>
+                      <li>first person plural – a <m>thigeamaid</m></li>
+                      <li>second/third persons – a <m>thigeadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – a <m>thigte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>dependent <ul id="dependent">
+              <li>past <ul>
+                  <li>active – cha/an/nach <m>tàinig</m></li>
+                  <li>passive – cha/an/nach <m>tàinigeas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – cha/an/nach <m>tig</m></li>
+                  <li>passive – cha/an/nach <m>tigear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – cha/an/nach <m>tiginn</m></li>
+                      <li>first person plural – cha/an/nach <m>tigeamaid</m></li>
+                      <li>second/third persons – cha/an/nach <m>tigeadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – cha/an/nach <m>tigte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>voice</h>
+      <p><ul>
+          <li>active <ul id="active">
+              <li>past <ul>
+                  <li>independent – <m>thàinig</m></li>
+                  <li>relative – a <m>thàinig</m></li>
+                  <li>dependent – cha/an/nach <m>tàinig</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>thig</m></li>
+                  <li>relative – a <m>thig</m></li>
+                  <li>dependent – cha/an/nach <m>tig</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent <ul>
+                      <li>first person singular – <m>thiginn</m></li>
+                      <li>first person plural – <m>thigeamaid</m></li>
+                      <li>second/third persons – <m>thigeadh</m></li>
+                    </ul>
+                  </li>
+                  <li>relative <ul>
+                      <li>first person singular – a <m>thiginn</m></li>
+                      <li>first person plural – a <m>thigeamaid</m></li>
+                      <li>second/third persons – a <m>thigeadh</m></li>
+                    </ul>
+                  </li>
+                  <li>dependent <ul>
+                      <li>first person singular – cha/an/nach <m>tiginn</m></li>
+                      <li>first person plural – cha/an/nach <m>tigeamaid</m></li>
+                      <li>second/third persons – cha/an/nach <m>tigeadh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>passive <ul id="passive">
+              <li>past <ul>
+                  <li>independent – <m>thàinigeas</m></li>
+                  <li>relative – a <m>thàinigeas</m></li>
+                  <li>dependent – cha/an/nach <m>tàinigeas</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>thigear</m></li>
+                  <li>relative – a <m>thigear</m></li>
+                  <li>dependent – cha/an/nach <m>tigear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent – <m>thigte</m></li>
+                  <li>relative – a <m>thigte</m></li>
+                  <li>dependent – cha/an/nach <m>tigte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul></p>
+    </section>
+    <section>
+      <h>imperative</h>
+      <p><ul>
+          <li>independent <ul id="imp-independent">
+              <li>first person singular – <m>thigeam</m>!</li>
+              <li>second person singular – <m>thig</m>!</li>
+              <li>first person plural – <m>thigeamaid</m>!</li>
+              <li>second person plural – <m>thigibh</m>!</li>
+              <li>third person – <m>thigeadh</m>!</li>
+              <li>passive – <m>thig(t)ear</m>!</li>
+            </ul>
+          </li>
+          <li>dependent <ul id="imp-dependent">
+              <li>first person singular – na <m>tigeam</m>!</li>
+              <li>second person singular – na <m>tig</m>!</li>
+              <li>first person plural – na <m>tigeamaid</m>!</li>
+              <li>second person plural – na <m>tigibh</m>!</li>
+              <li>third person – na <m>tigeadh</m>!</li>
+              <li>passive – na <m>tig(t)ear</m>!</li>
+            </ul>
+          </li>
+        </ul></p>
+    </section>
+    <section>
+      <h>notes</h>
+      <p>Notes – <ol>
+          <li>The dependent forms in <g>tig-</g> and <g>tàinig-</g> are pronounced as if they were
+            spelled <g>dig-</g> and <g>dàinig-</g>.</li>
+          <li>Alternative verbal nouns in traditional Gaelic are <g>teachd</g> and
+            <g>tighean</g>.</li>
+        </ol>
+      </p>
+    </section>
+  </section>
+  <section>
+    <h>dependents</h>
+    <section id="sbj">
+      <h>subject</h>
+      <p>The subject of <g>thig</g> is usually a noun or pronoun denoting one or more human beings
+        moving towards the speaker (or other deictic centre) under their own volition – <ul>
+          <li><m>Thàinig <emph>Raonaid</emph></m>. <en>Rachel came.</en></li>
+          <li>Cha <m>tig <emph>na balaich</emph></m>. <en>The boys won’t come.</en></li>
+          <li>An <m>tigeadh <emph>iad</emph></m>? <en>Would they come?</en></li>
+        </ul>
+      </p>
+      <p>Some examples – <ul id="sbj-exs">
+          <li>proper nouns – <ul>
+              <li>pedagogical examples – <xl id="sbj-exs-prop-pedag">
+                  <li>
+                    <gd>An <m>tàinig Iain</m> fhathast? | An <m>tàinig Beathag</m> fhathast? | Is
+                      ann a <m>thàinig Iain</m> anmoch. | <m>Thàinig Iain</m> gun fhiosta dhomh. |
+                      Cha <m>tàinig ach Anna</m>. | Tha iad a’ ràdh gun <m>tàinig Iain</m>.</gd>
+                    <tr>Has John come yet? | Has Rebecca come yet? | John really did come late. |
+                      John came unknown to me. | Only Ann came. | They say that John came.</tr>
+                    <ref text="609">td. 39, 50, 57, 72, 75, 105</ref>
+                  </li>
+                  <li>
+                    <gd>An <m>tàinig Màiri</m> an-raoir?</gd>
+                    <tr>Did Mary arrive last night?</tr>
+                    <ref text="601">td. 578</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+          <li>common nouns – <ul>
+              <li>pedagogical examples – <xl id="sbj-exs-comm-pedag">
+                  <li>
+                    <gd><m>Thàinig am Poileas</m> agus rug iad air a’ mheàirleach.</gd>
+                    <tr>The police came and they caught the robber.</tr>
+                    <ref text="609">td. 39</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+          <li>pronouns – <ul>
+              <li>first person – <ul>
+                  <li>pedagogical examples – <xl id="sbj-exs-pron-1st-pedag">
+                      <li>
+                        <gd><m>Thig mi</m> a-nochd.</gd>
+                        <tr>I shall come tonight.</tr>
+                        <ref text="601">td. 578</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+              <li>second person – <ul>
+                  <li>pedagogical examples – <xl id="sbj-exs-pron-2nd-pedag">
+                      <li>
+                        <gd>Nach <m>tig thu</m> a-steach?</gd>
+                        <tr>Won’t you come in?</tr>
+                        <ref text="601">td. 578</ref>
+                      </li>
+                      <li>
+                        <gd>An <m>tig thu</m> a chèilidh orm a-nochd? Chì sinn thu nuair a thig
+                          thu.</gd>
+                        <tr>Will you come to visit me tonight? We will see you when you come.</tr>
+                        <ref text="609">td. 118</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+              <li>third person – <ul>
+                  <li>pedagogical examples – <xl id="sbj-exs-pron-3rd-pedag">
+                      <li>
+                        <gd><m>Thàinig iad</m> dhachaigh. Cha <m>tàinig iad</m> riamh. | <m>Thàinig
+                            iad</m> a-steach. | A-nis càite a bheil Dòmhnall? <m>Thàinig esan</m>
+                          mar-thà. | Tha i a-muigh an sin a’ bruidhinn ach cha <m>tàinig i</m>
+                          a-staigh fhathast. | <m>Thàinig e</m> ged a bha e sgìth. | An <m>tig
+                            iad</m>?</gd>
+                        <tr>They came home. They never came. | They came in. | Now where’s Donald.
+                          He has come already. | She is out there talking but she hasn’t come in
+                          yet. | He came although he was tired. | Will they come?</tr>
+                        <ref text="609">td. 38, 196, 50, ibid, 197, 119</ref>
+                      </li>
+                      <li>
+                        <gd><m>Thàinig e</m> don doras. An <m>tig iad</m> a dh’aithghearr? Ma
+                            <m>thig e</m>, an <m>tig ise</m> cuideachd?</gd>
+                        <tr>He came to the door. Will they come soon? If he comes, will she come
+                          too?</tr>
+                        <ref text="601">td. 578</ref>
+                      </li>
+                      <li>
+                        <gd>Cha <m>tig iad</m> dhachaigh dìreach an dèidh na sgoile.</gd>
+                        <tr>They will not come home directly after school.</tr>
+                        <ref text="609">td. 198</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <!--
+          <li>first person conditionals – <ul>
+              <li>singular – <ul>
+                  <li>pedagogical examples – <xl id="sbj-pron-cond-sg-pedag"> </xl>
+                  </li>
+                </ul>
+              </li>
+              <li>plural – <ul>
+                  <li>pedagogical examples – <xl id="sbj-pron-cond-pl-pedag"> </xl>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          -->
+          <li>relativised subjects – <ul>
+              <li>pedagogical examples – <xl id="sbj-rel-pedag">
+                  <li>
+                    <gd>Is e Seumas a thàinig a-staigh.</gd>
+                    <tr>It is James that came in.</tr>
+                    <ref text="609">td. 57</ref>
+                  </li>
+                </xl>
+              </li>
+              <li>biblical examples – <xl id="sbj-rel-bible">
+                  <li>
+                    <gd>A Nis is iad so ainmeanna <m>chloinn Israeil, a thàinig do’n Eiphit</m>;
+                      thàinig gach duine agus a theaghlach maille re Iacob: Reuben, Simeon, Lebhi,
+                      agus Iudah, Isachar, Sebulun, agus Beniamin, Dan, agus Naphtali, Gad, agus
+                      Aser. [...]</gd>
+                    <tr>Now these are the names of the children of Israel, which came into Egypt;
+                      every man and his household came with Jacob. Reuben, Simeon, Levi, and Judah,
+                      Issachar, Zebulun, and Benjamin, Dan, and Naphtali, Gad, and Asher. [...]
+                      [KJV]</tr>
+                    <ref text="160">Ecsodus I.1–5</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+          <li>imperatives – <ul>
+              <li>pedagogical examples – <xl id="sbj-exs-imper-pedag">
+                  <li>
+                    <gd>Thig a-staigh. Tha e fuar an-diugh. | Na tig(ibh) an seo. Thigeadh Anna. |
+                      Thig(ibh) a-steach.</gd>
+                    <tr>Come in. It’s cold today. | Don’t come here. Let Ann come. | Come in.</tr>
+                    <ref text="609">td. 34, 42, 196</ref>
+                  </li>
+                </xl></li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+      <p>When responding to a question, the subject can be dropped – <ul>
+          <li>An tàinig thu? <en>Did you come?</en>
+            <ul>
+              <li><m>Thàinig.</m>
+                <en>Yes, I did.</en></li>
+              <li><m>Cha tàinig.</m>
+                <en>No, I didn’t.</en></li>
+            </ul>
+          </li>
+          <li>Cò às an tig Raonaid? <en>Where will Rachel come from?</en>
+            <ul>
+              <li><m>Thig</m> às a’ bhaile. <en>She will come from (the) town.</en></li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+      <p>Some examples – <ul id="sbj-q-exs">
+          <li>yes/no questions – <ul>
+              <li>pedagogical examples – <xl id="sbj-quest-pedag">
+                  <li>
+                    <gd>An tàinig Màiri an-raoir? <m>Thàinig.</m> / <m>Cha tàinig.</m> An tig iad a
+                      dh’aithghearr? | <m>Thig.</m> / <m>Cha tig.</m></gd>
+                    <tr>Did Mary arrive last night? Yes, she did. / No, she didn’t. | Will they come
+                      soon? Yes, they will. / No, they won’t.</tr>
+                    <ref text="601">td. 578, ibid</ref>
+                  </li>
+                  <li>
+                    <gd>An tig thu a chèilidh orm a-nochd? <m>Thig.</m> | An tig iad? <m>Thig.</m> /
+                        <m>Cha tig.</m></gd>
+                    <tr>Will you come to visit me tonight? Yes, I will. | Will they come? Yes, they
+                      will. / No, they won’t.</tr>
+                    <ref text="609">td. 118, 119</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+          <!--
+        <li>open questions – <ul>
+          <li>pedagogical examples – <xl id="sbj-quest-open-pedag">
+            
+          </xl>
+          </li>
+        </ul>
+        </li>
+        -->
+        </ul>
+      </p>
+      <p>Examples with non-human subjects – <xl id="sbh-non-human-xs">
+          <li>
+            <gd>A bheil fios agaibh cuin a <m>thàinig an trèan</m>?</gd>
+            <tr>Do you know when the train came?</tr>
+            <ref text="609">td. 78</ref>
+          </li>
+          <li>
+            <gd>Thuit e anns a’ chadal às nach <m>tig dùsgadh</m>.</gd>
+            <tr>He fell into the sleep from which comes no awakening.</tr>
+            <ref text="601">td. 49</ref>
+          </li>
+          <li>
+            <gd>Chì thu amannan nan trèanaichean air a’ bhòrd-shanais ach cluinnidh tu caismeachd
+              mus <m>tig an trèan</m> a-staigh dhan an stèisean.</gd>
+            <tr>You will see the train times on the notice board but you will hear an announcement
+              before the train comes into the station.</tr>
+            <ref text="609">td. 134</ref></li>
+        </xl>
+      </p>
+    </section>
+    <section id="comps">
+      <h>complements</h>
+      <p>Unlike <a href="?gd=rach"><g>rach</g></a>
+        <en>go</en>, <g>thig</g> occurs frequently without any complement, with the trajectory of
+        motion understood from context – <ul>
+          <li><m>Thàinig Raonaid.</m>
+            <en>Rachel came [to(wards) or alongside the current deictic centre]. / Mary
+              arrived.</en></li>
+        </ul>
+      </p>
+      <p>Some examples – <ul id="no-comp-exs">
+          <li>pedagogical examples – <xl id="no-comp-pedag">
+              <li>
+                <gd>Cha tàinig iad riamh. | An tàinig Iain fhathast? Thàinig am Poileas agus rug iad
+                  air a’ mheàirleach. | Thigeadh Anna. | An tàinig Beathag fhathast? | A-nis càite a
+                  bheil Dòmhnall? Thàinig esan mar-thà. | Is ann a thàinig Iain anmoch. | Thàinig
+                  Iain gun fhiosta dhomh. | Cha tàinig ach Anna. | A bheil fios agaibh cuin a
+                  thàinig an trèan? | Thàinig e ged a bha e sgìth. | | Tha iad a’ ràdh gun tàinig
+                  Iain. | Chì sinn thu nuair a thig thu. | An tig iad?</gd>
+                <tr>They never came. | Has John come yet? The police came and they caught the
+                  robber. | Let Ann come. | Has Rebecca come yet? | Now where’s Donald. He has come
+                  already. | John really did come late. | John came unknown to me. | Only Ann came.
+                  | Do you know when the train came? | He came although he was tired. | They say
+                  that John came. | We will see you when you come. | Will they come?</tr>
+                <ref text="609">td. 38, 39, 42, 50, 57, 72, 75, 78, 197, 105, 118, 119</ref>
+              </li>
+              <li>
+                <gd>An tàinig Màiri an-raoir? Thig mi a-nochd. An tig iad a dh’aithghearr? Ma thig
+                  e, an tig ise cuideachd?</gd>
+                <tr>Did Mary arrive last night? I shall come tonight. Will they come soon? If he
+                  comes, will she come too?</tr>
+                <ref text="601">td. 578</ref>
+              </li>
+            </xl>
+          </li>
+          <li>biblical examples – <xl id="thig_strict-bible">
+              <li>
+                <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig do’n Eiphit; <m>thàinig
+                    gach duine agus a theaghlach</m> maille re Iacob: Reuben, Simeon, Lebhi, agus
+                  Iudah, [...] Agus na h-anman uile a thàinig a mach a leasraidh Iacoib, bu deich
+                  agus tri fichead anam iad; oir bha Ioseph ’san Eiphit a cheana. [...]</gd>
+                <tr>Now these are the names of the children of Israel, which came into Egypt; every
+                  man and his household came with Jacob. Reuben, Simeon, Levi, and Judah, [...] And
+                  all the souls that came out of the loins of Jacob were seventy souls: for Joseph
+                  was in Egypt already. [KJV]</tr>
+                <ref text="160">Ecsodus I.1–5</ref>
+              </li>
+            </xl>
+          </li>
+        </ul>
+      </p>
+      <p>Otherwise, <g>thig</g> usually takes one or more complements – prepositional phrases or
+        adverbs.</p>
+      <section>
+        <h>concrete</h>
+        <p>Concrete uses of <g>thig</g> involve a material (generally animate, volitional) subject
+          moving along a trajectory/path in three-dimensional physical space (generally towards the
+          speaker or other deictic centre), often with a specific goal/purpose in mind.</p>
+        <section id="dependents-paths">
+          <h>paths</h>
+          <p>A complement of concrete <g>thig</g> can denote the physical trajectory of motion
+            itself, usually with respect to one or more reference objects.</p>
+          <section id="concrete-preps">
+            <h>prepositions</h>
+            <p>There are a number of prepositions which can be used to introduce concrete path
+              complements of <g>thig</g> – <ul>
+                <li><g>thig <a href="?gd=a^preposition">à</a> ...</g>
+                  <en>come out of ...</en></li>
+                <li><g>thig <a href="?gd=bho">bho</a> ...</g>
+                  <en>come from ...</en></li>
+                <li><g>thig <a href="?gd=dha">dha</a> [do/a] ...</g>
+                  <en>come (in)to ...</en> – <ul>
+                    <li>pedagogical examples – <xl id="comp-do-pedag">
+                        <li>
+                          <gd>Thàinig e <m>don doras</m>.</gd>
+                          <tr>He came to the door.</tr>
+                          <ref text="601">td. 578</ref>
+                        </li>
+                        <li>
+                          <gd>Chì thu amannan nan trèanaichean air a’ bhòrd-shanais ach cluinnidh tu
+                            caismeachd mus tig an trèan a-staigh <m>dhan an stèisean</m>.</gd>
+                          <tr>You will see the train times on the notice board but you will hear an
+                            announcement before the train comes into the station.</tr>
+                          <ref text="609">td. 134</ref>
+                        </li>
+                      </xl>
+                    </li>
+                    <li>biblical examples – <xl id="comp-do-bible">
+                        <li>
+                          <gd>A Nis is iad so ainmeanna chloinn Israeil, a <m>thàinig do’n
+                              Eiphit</m>; thàinig gach duine agus a theaghlach maille re Iacob:
+                            Reuben, Simeon, Lebhi, agus Iudah, Isachar, Sebulun, agus Beniamin, Dan,
+                            agus Naphtali, Gad, agus Aser. [...]</gd>
+                          <tr>Now these are the names of the children of Israel, which came into
+                            Egypt; every man and his household came with Jacob. Reuben, Simeon,
+                            Levi, and Judah, Issachar, Zebulun, and Benjamin, Dan, and Naphtali,
+                            Gad, and Asher. [...] [KJV]</tr>
+                          <ref text="160">Ecsodus I.1–5</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </p>
+          </section>
+          <section id="concrete-adverbs">
+            <h>adverbs</h>
+            <p>There are many adverbs (and prepositional compounds) which can serve as the
+              complement of <g>thig</g>, denoting a concrete trajectory – <ul>
+                <li><g>thig <a href="?gd=a-mach">a-mach</a></g>
+                  <en>come out(side)</en> (cf. <bad>thig a-muigh</bad>)</li>
+                <li><g>thig <a href="?gd=a-nall">a-nall</a></g>
+                  <en>come over here</en> (cf. <bad>thig a-null</bad>)</li>
+                <li><g>thig <a href="?gd=a-nuas">a-nuas</a></g>
+                  <en>come down</en> (cf. <bad>thig sìos</bad>)</li>
+                <li><g>thig <a href="?gd=a-steach">a-steach</a></g>
+                  <en>come in(side)</en> (cf. <bad>thig a-staigh</bad>)</li>
+                <li><g>thig <a href="?gd=an-seo">an·seo</a></g>
+                  <en>come here</en> (cf. <bad>thig an·sin</bad>)</li>
+                <li><g>thig <a href="?gd=dachaigh">dhachaigh</a></g>
+                  <en>come home</en></li>
+                <li><g>thig <a href="?gd=faisg">faisg air ...</a></g>
+                  <en>come near, approach</en></li>
+                <li><g>thig <a href="?gd=ionnsaigh">a dh’ionnsaigh ...</a></g>
+                  <en>come (to visit?)</en></li>
+              </ul>
+            </p>
+          </section>
+        </section>
+        <section id="dependents-purpose">
+          <h>purpose</h>
+          <p>A complement of concrete <g>thig</g> can denote the purpose of the motion, the reason
+            why the volitional subject decided to act in that way. </p>
+          <p>Some examples – <xl id="purpose-exs">
+              <li>
+                <gd>Tha daoine a’ tighinn a-nochd gu biadh.</gd>
+                <tr>People are coming to dinner this evening.</tr>
+                <ref text="609">td. 35</ref>
+              </li>
+              <li>
+                <gd>Cò a thig gu ar faicinn?</gd>
+                <tr>Who will come to see us?</tr>
+                <ref text="601">td. 578</ref>
+              </li>
+              <li>
+                <gd>An tig thu a chèilidh orm a-nochd?</gd>
+                <tr>Will you come to visit me tonight?</tr>
+                <ref text="609">td. 118</ref>
+              </li>
+            </xl></p>
+          <p> cf. <g>thig <a href="?gd=latha">air làithean saora</a></g>
+            <en>come on holiday</en></p>
+        </section>
+      </section>
+      <section id="abstract">
+        <h>abstract</h>
+        <p> Abstract uses of <g>thig</g> do not involve physical motion along a concrete spatial
+          trajectory.</p>
+        <p>Some examples – <ul id="abstract-exs">
+            <li>pedagogical examples – <xl id="abstract-comp-pedag">
+                <li>
+                  <gd>Thuit e anns <m>a’ chadal às nach tig dùsgadh</m>.</gd>
+                  <tr>He fell into the sleep from which comes no awakening.</tr>
+                  <ref text="601">td. 49</ref>
+                </li>
+              </xl></li>
+          </ul></p>
+      </section>
+    </section>
+    <section id="mods">
+      <h>modifiers</h>
+      <p>Forms of <g>thig</g> can be used with a wide range of adverbial modifiers – <ul>
+          <li>temporal – <ul>
+              <li>pedagogical examples – <xl id="mod-temp-pedag">
+                  <li>
+                    <gd>Cha tàinig iad <m>riamh</m>. | An tàinig Beathag <m>fhathast</m>? Tha i
+                      a-muigh an sin a’ bruidhinn ach cha tàinig i a-staigh <m>fhathast</m>. A-nis
+                      càite a bheil Dòmhnall? Thàinig esan <m>mar-thà</m>. | Is ann a thàinig Iain
+                        <m>anmoch</m>. | A bheil fios agaibh <m>cuin</m> a thàinig an trèan? | An
+                      tig thu a chèilidh orm a-nochd? | Cha tig iad dhachaigh <m>dìreach an dèidh na
+                        sgoile</m>.</gd>
+                    <tr>They never came. | Has Rebecca come yet? She is out there talking but she
+                      hasn’t come in yet. Now where’s Donald. He has come already. | John really did
+                      come late. | Do you know when the train came? | Will you come to visit me
+                      tonight? | They will not come home directly after school.</tr>
+                    <ref text="609">td. 38, 50, 57, 78, 118, 198</ref>
+                  </li>
+                  <li>
+                    <gd>An tàinig Màiri <m>an-raoir</m>? Thig mi <m>a-nochd</m>. An tig iad a
+                      dh’aithghearr?</gd>
+                    <tr>Did Mary arrive last night? I shall come tonight. Will they come soon?</tr>
+                    <ref text="601">td. 578</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+          <li>accompanying – <ul>
+              <li><g>thig <a href="?gd=maille">maille ri</a> ...</g>
+                <en>come along with ...</en></li>
+            </ul>
+          </li>
+          <li>concessive/contrastive – <ul>
+              <li>pedagogical examples – <xl id="mod-concess-pedag">
+                  <li>
+                    <gd>Thàinig e ged a bha e sgìth.</gd>
+                    <tr>He came although he was tired.</tr>
+                    <ref text="609">td. 197</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+          <li>conditional – <ul>
+              <li>pedagogical examples – <xl id="mod-condit-pedag">
+                  <li>
+                    <gd><m>Ma thig e</m>, an tig ise cuideachd?</gd>
+                    <tr>If he comes, will she come too?</tr>
+                    <ref text="601">td. 578</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+          <li>other – <ul>
+              <li>pedagogical examples – <xl id="mod-other-pedag">
+                  <li>
+                    <gd>Thàinig Iain gun fhiosta dhomh.</gd>
+                    <tr>John came unknown to me.</tr>
+                    <ref text="609">td. 72</ref>
+                  </li>
+                  <li>
+                    <gd>Ma thig e, an tig ise <m>cuideachd</m>?</gd>
+                    <tr>If he comes, will she come too?</tr>
+                    <ref text="601">td. 578</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+  </section>
+
+  <section id="uses">
+    <h>uses</h>
+    <section>
+      <h>derivatives</h>
+      <module status="bronze" id="tighinn">
+        <h>tighinn</h>
+        <section>
+          <h>uses</h>
+          <section>
+            <h>complement</h>
+            <module status="bronze" id="a_tighinn">
+              <h>a’ tighinn</h>
+              <p><xl id="bum">
+                  <li>
+                    <gd>Tha i a-muigh an sin a’ bruidhinn ach cha tàinig i a-staigh fhathast. Tha i
+                      a’ tighinn a dh’aithghearr.</gd>
+                    <tr>She is out there talking but she hasn’t come in yet. She’s coming soon.</tr>
+                    <ref text="609">td. 50</ref>
+                  </li>
+                  <li>
+                    <gd>Bha e a’ tighinn na b’ fhaisge.</gd>
+                    <tr>It was coming nearer.</tr>
+                    <ref text="601">td. 578</ref>
+                  </li>
+                  <li>
+                    <gd>Tha Màiri a’ tighinn a-nall <m>à Glaschu</m>.</gd>
+                    <tr>Mary is coming over here from Glasgow.</tr>
+                    <ref text="609">td. 31</ref>
+                  </li>
+                  <li>
+                    <gd>Bha e a’ tighinn a-mach às an taigh.</gd>
+                    <tr>He was coming out of the house.</tr>
+                    <ref text="601">td. 49</ref>
+                  </li>
+                  <li>
+                    <gd>Chaidh e a-steach don togalach às an robh an t-seinn a’ tighinn.</gd>
+                    <tr>He entered the building from which the singing was coming.</tr>
+                    <ref text="601">td. 49</ref>
+                  </li>
+                  <li>
+                    <gd>Tha mac mo pheathar agus bràthair m’ athar a’ tighinn gar n-ionnsaigh air an
+                      lathaichean saora.</gd>
+                    <tr>My nephew and my uncle are coming (to visit us) on their holidays.</tr>
+                    <ref text="609">td. 99</ref>
+                  </li>
+                </xl></p>
+            </module>
+            <module status="bronze" id="a_thighinn">
+              <h>a thighinn</h>
+            </module>
+          </section>
+        </section>
+      </module>
+    </section>
+  </section>
+
+
+  <!--
+  <module id="other">
+    <h>other verb compounds</h>
+
+    <p> Examples – <xl id="other-xs">
+        <li>
+          <gd>A bheil sibh a’ tighinn a-mach?</gd>
+          <tr>Are you coming out?</tr>
+          <ref text="609">td. 195</ref>
+        </li>
+        <li>
+          <gd>Tha Màiri a’ tighinn a-nuas.</gd>
+          <tr>Mary is coming down.</tr>
+          <ref text="609">td. 30</ref>
+        </li>
+        <li>
+          <gd>Tha Màiri a’ tighinn a-nall à Glaschu.</gd>
+          <tr>Mary is coming over here from Glasgow.</tr>
+          <ref text="609">td. 31</ref>
+        </li>
+        <li>
+          <gd>Tha Anna a’ tighinn a-steach.</gd>
+          <tr>Ann is coming in.</tr>
+          <ref text="609">td. 31</ref>
+        </li>
+        <li>
+          <gd>Thig a-staigh. Tha e fuar an-diugh.</gd>
+          <tr>Come in. It’s cold today.</tr>
+          <ref text="609">td. 34</ref>
+        </li>
+        <li>
+          <gd>Tha daoine a’ tighinn a-nochd gu biadh.</gd>
+          <tr>People are coming to dinner this evening.</tr>
+          <ref text="609">td. 35</ref>
+        </li>
+        <li>
+          <gd>Thàinig iad dhachaigh.</gd>
+          <tr>They came home.</tr>
+          <ref text="609">td. 38</ref>
+        </li>
+        <li>
+          <gd>Cha tàinig iad riamh.</gd>
+          <tr>They never came.</tr>
+          <ref text="609">td. 38</ref>
+        </li>
+        <li>
+          <gd>An tàinig Iain fhathast?</gd>
+          <tr>Has John come yet?</tr>
+          <ref text="609">td. 39</ref>
+        </li>
+        <li>
+          <gd>Thàinig am Poileas agus rug iad air a’ mheàirleach.</gd>
+          <tr>The police came and they caught the robber.</tr>
+          <ref text="609">td. 39</ref>
+        </li>
+        <li>
+          <gd>Thàinig iad a-steach.</gd>
+          <tr>They came in.</tr>
+          <ref text="609">td. 196</ref>
+        </li>
+        <li>
+          <gd>Na tig(ibh) an seo.</gd>
+          <tr>Don’t come here.</tr>
+          <ref text="609">td. 42</ref>
+        </li>
+        <li>
+          <gd>Thigeadh Anna.</gd>
+          <tr>Let Ann come</tr>
+          <ref text="609">td. 42</ref>
+        </li>
+        <li>
+          <gd>Thig(ibh) a-steach.</gd>
+          <tr>Come in.</tr>
+          <ref text="609">td. 196</ref>
+        </li>
+        <li>
+          <gd>An tàinig Beathag fhathast?</gd>
+          <tr>Has Rebecca come yet?</tr>
+          <ref text="609">td. 50</ref>
+        </li>
+        <li>
+          <gd>Tha i a-muigh an sin a’ bruidhinn ach cha tàinig i a-staigh fhathast. Tha i a’ tighinn
+            a dh’aithghearr.</gd>
+          <tr>She is out there talking but she hasn’t come in yet. She’s coming soon.</tr>
+          <ref text="609">td. 50</ref>
+        </li>
+        <li>
+          <gd>A-nis càite a bheil Dòmhnall? Thàinig esan mar-thà.</gd>
+          <tr>Now where’s Donald. He has come already.</tr>
+          <ref text="609">td. 50</ref>
+        </li>
+        <li>
+          <gd>Is e Seumas a thàinig a-staigh.</gd>
+          <tr>It is James that came i.</tr>
+          <ref text="609">td. 57</ref>
+        </li>
+        <li>
+          <gd>Is ann a thàinig Iain anmoch.</gd>
+          <tr>It’s that John came late / John really did come late.</tr>
+          <ref text="609">td. 57</ref>
+        </li>
+        <li>
+          <gd>Thàinig Iain gun fhiosta dhomh.</gd>
+          <tr>John came unknown to me.</tr>
+          <ref text="609">td. 72</ref>
+        </li>
+        <li>
+          <gd>Cha tàinig ach Anna.</gd>
+          <tr>Only Ann came.</tr>
+          <ref text="609">td. 75</ref>
+        </li>
+        <li>
+          <gd>A bheil fios agaibh cui a thàinig an trèan?</gd>
+          <tr>Do you know when th train came?</tr>
+          <ref text="609">td. 78</ref>
+        </li>
+        <li>
+          <gd>Thàinig e ged a bha e sgìth.</gd>
+          <tr>He came although he was tired.</tr>
+          <ref text="609">td. 197</ref>
+        </li>
+
+      </xl>
+    </p>
+
+
+  </module>
+-->
+
+
+</module>

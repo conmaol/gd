@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>avine common nouns</h>
+    <p>Avine commons nouns are <a href="?xx=nouns/faunal_common_nouns">faunal common nouns</a> that
+        characterise classes of bird.</p>
+    <p>cf. <a href="?gd=faoileag"><g>faoileag</g></a> <fem/> <en>seagull</en></p>
+    
+    
+</module>
+

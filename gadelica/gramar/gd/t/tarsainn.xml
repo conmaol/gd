@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>tarsainn</h>
+    <p><g>tarsainn</g>
+        <en>across, over</en> is an adverb.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complements</h>
+            <module status="bronze" id="rach_tarsainn">
+                <h>rach tarsainn</h>
+                <p><g><a href="?gd=rach">rach</a> tarsainn</g>
+                    <en>go across/over</en> – <ul>
+                        <li>pedagogical examples – <xl id="comps-tarsainn-pedag">
+                                <li>
+                                    <gd>An deach sibh <m>tarsainn air an abhainn</m> no seachad air
+                                        Càrn Sheumais? </gd>
+                                    <tr>Did you go across the river or past Càrn Sheumais?</tr>
+                                    <ref text="609">td. 99</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </module>
+        </section>
+    </section>
+</module>

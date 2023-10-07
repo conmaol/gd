@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">bruidhinn</h>
+    <h lang="gd">bruidhinn</h>
+    <p lang="en"><b>bruidhinn</b>
+        <en>speak, talk, converse</en> is an intransitive (durative) <a href="?q=verbal_aspect"
+            >atelic</a> verb, with verbal noun <b>bruidhinn</b>
+        <i>fem.</i></p>
+    <p lang="gd">...</p>
+    <p lang="en">Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd><m>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh</m> a
+                    bhios os cionn obair a’ Chomuinn. [...]</gd>
+                <tr>The Highland Society is talking about choosing a new General to [who will]
+                    oversee the Society’s work. [...]</tr>
+                <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                <note>with infinitive</note>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>

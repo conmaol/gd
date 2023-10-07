@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>àite</h>
+    <p><b>àite</b>
+        <en>place</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>modifiers</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="mods-older-pedag">
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                                    anns a’ chàr. Chaidh iad sìos taobh an locha is stad iad aig
+                                        <m>àite bòidheach gorm</m>. [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. [...]</tr>
+                                <ref text="621">td. 6–7</ref>
+                                <note><a href="?gd=bòidheach">bòidheach</a>
+                                    <adj/>
+                                    <en>beautiful</en>, <a href="?gd=gorm">gorm</a>
+                                    <adj/>
+                                    <en>blue, green</en></note>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="comp-older-pedag">
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                                    anns a’ chàr. Chaidh iad sìos taobh an locha is stad iad <m>aig
+                                        àite bòidheach gorm</m>. [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. [...]</tr>
+                                <ref text="621">td. 6–7</ref>
+                                <note><a href="?gd=aig">aig</a>
+                                    <en>at</en></note>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+
+            <module id="an_aite">
+                <h>an àite</h>
+                <p>Examples from Gairm – <xl id="gairm">
+                        <li>
+                            <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh
+                                a bhios os cionn obair a’ Chomuinn. [...] Bhiodh a leòr aige ri
+                                dhèanamh an toiseach ag ath-nuadhachadh dreach a’ Chomuinn. Tha
+                                móran ri dhèanamh ris a’ Mhòd mus beir e air linn an telebhisean, no
+                                eadhon air linn an réidio: bu mhath gun cuirte luchd-sgrìobhaidh is
+                                luchd-ciùil an sàs ann a bhith a’ cruthachadh ás ùr, <m>an àite
+                                    bhith an còmhnaidh a’ cur seòrsa de dhreach ùr air seann
+                                    rudan</m> [...]</gd>
+                            <tr>The Highland Society is talking about choosing a new General who
+                                will oversee the Society’s work. [...] He would have enough to do
+                                initially reforming the Society. There is much to do at the Mod
+                                before it catches up with <ed>??</ed> the era of television, or even
+                                with the era of radio: writers and musicians should be involved in
+                                creating afresh, <u>instead of</u> always putting a sort of new form
+                                on old things [...]</tr>
+                            <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+
+
+</module>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>thu</h>
+    <p><g>thu</g>
+        <en>you, thou</en> is the second person singular <a href="?xx=nouns/personal_pronouns"
+            >personal pronoun</a>.</p>
+
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>subject</h>
+            <p>Older pedagogical examples – <xl id="do-older-pedag">
+                    <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                            Thubhairt mo mhàthair, “An <m>téid thu</m> do bhocsa nan litrichean leis
+                            an litir seo, Iain?” [...]</gd>
+                        <tr>My mother is writing a letter to my father who is away. My mother said,
+                            “Will you go to the postbox with this letter, John?” [...]</tr>
+                        <ref text="621">td. 5</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples from Gairm – <xl id="gairm">
+                    <li>
+                        <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan fhalbh
+                            aon choigreach le mo leanabh. Cha teid i gu aon dannsa, tha sin
+                            cinnteach. Tha. Tha. Na bi smaoineachadh gun teid, a leanaibh. Chan eil
+                            fhios agad mu ’n deidhinn, mar a th’ agamsa.” “Carson nach do <m>bhàsaich
+                                thu</m> o chionn leth-cheud bliadhna,” dh’ éigh Màiri. Bha i
+                            smaoineachadh air na gnothaichean ud fhathast! “Greas ort leis an tea,”
+                            ars a màthair. [...]</gd>
+                        <tr>[...] Her voice grew louder. “One thing is certain, not one stranger
+                            will leave [go out?] with my child. She will not go to a single dance,
+                            that is certain. It is. It is. Do not be thinking that you will, child.
+                            You don’t know about them, as I do.” “Why did you not die fifty years
+                            ago,” shouted Mary. She was still thinking about those matters! “Hurry
+                            up with the tea,” said her mother. [...]</tr>
+                        <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+</module>

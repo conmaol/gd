@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h lang="en">mìos</h>
+    <h lang="gd">mìos</h>
+    <p lang="en"><b>mìos</b>
+        <en>year</en> is a masculine <a href="?xx=nouns/temporal_unit_nouns">temporal unit
+            noun</a>.</p>
+    <p lang="gd">...</p>
+    <p lang="en">Examples from Gairm – <xl id="gairm">
+        <li>
+            <gd>Bha i ceud bliadhna a dh’ aois is esan dhà air fhichead. Cha robh e ach <m>mìos no
+                dhà</m> a-mach ás an oilthigh. Bha a nighean a’ fuireachd còmhla rithe. Bha ise
+                ceithir fichead. Shaoil e gu robh a’ chailleach ann an dòigh na bu shunndaiche
+                na a nighean. [...]</gd>
+            <tr>She was a hundred years old and him twenty two. He was just a month or two out
+                of the university. Her daughter was living with her. She was eighty. He thought
+                that the old woman was in a way livelier than her daughter. [...]</tr>
+            <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+    </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>
+
+

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>tionail</h>
+    <p><b>tionail</b>
+        <en>come/bring together, gather, assemble, collect</en> is a <a
+            href="?xx=verbs/simple_verbs">simple verb</a>.</p>
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <b>tionail</b> are – <ul>
+                <li><m>tionlaidh</m> – future independent ie. <en>will gather</en></li>
+                <li><m>thionail</m> – past independent ie. <en>gathered</en></li>
+                <li><m>tional</m> – verbal noun ie. <en>gathering</en></li>
+            </ul>
+        </p>
+        <p>The full forms of <b>tionail</b> are – <ul>
+                <li>past <ul id="past">
+                        <li>active <ul>
+                                <li>independent – <m>thionail</m></li>
+                                <li>relative – a <m>thionail</m></li>
+                                <li>dependent – cha/an/nach <m>do thionail</m></li>
+                            </ul>
+                        </li>
+                        <li>passive <ul>
+                                <li>independent – <m>thionladh</m></li>
+                                <li>relative – a <m>thionladh</m></li>
+                                <li>dependent – cha/an/nach <m>do thionladh</m></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>future <ul id="future">
+                        <li>active <ul>
+                                <li>independent – <m>tionlaidh</m></li>
+                                <li>relative – a <m>tionlas</m></li>
+                                <li>dependent – cha <m>thionail</m>, an/nach <m>tionail</m></li>
+                            </ul>
+                        </li>
+                        <li>passive <ul>
+                                <li>independent – <m>tionlar</m></li>
+                                <li>relative – a <m>thionlar</m></li>
+                                <li>dependent – cha <m>thionlar</m>, an/nach <m>tionlar</m></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>conditional <ul id="conditional">
+                        <li>active <ul>
+                                <li>first person singular <ul>
+                                        <li>independent – <m>thionlainn</m></li>
+                                        <li>relative – a <m>thionlainn</m></li>
+                                        <li>dependent – cha <m>thionlainn</m>, an/nach
+                                                <m>tionlainn</m></li>
+                                    </ul>
+                                </li>
+                                <li>first person plural <ul>
+                                        <li>independent – <m>thionlamaid</m></li>
+                                        <li>relative – a <m>thionlamaid</m></li>
+                                        <li>dependent – cha <m>thionlamaid</m>, an/nach
+                                                <m>tionlamaid</m></li>
+                                    </ul>
+                                </li>
+                                <li>second/third persons <ul>
+                                        <li>independent – <m>thionladh</m></li>
+                                        <li>relative – a <m>thionladh</m></li>
+                                        <li>dependent – cha <m>thionladh</m>, an/nach
+                                                <m>tionladh</m></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>passive <ul>
+                                <li>independent – <m>thionailte</m></li>
+                                <li>relative – a <m>thionailte</m></li>
+                                <li>dependent – cha <m>thionailte</m>, an/nach <m>tionailte</m></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <hr/>
+                <li>independent <ul id="independent">
+                        <li>past <ul>
+                                <li>active – <m>thionail</m></li>
+                                <li>passive – <m>thionladh</m></li>
+                            </ul>
+                        </li>
+                        <li>future <ul>
+                                <li>active – <m>tionlaidh</m></li>
+                                <li>passive – <m>tionlar</m></li>
+                            </ul>
+                        </li>
+                        <li>conditional <ul>
+                                <li>active <ul>
+                                        <li>first person singular – <m>thionlainn</m></li>
+                                        <li>first person plural – <m>thionlamaid</m></li>
+                                        <li>second/third persons – <m>thionladh</m></li>
+                                    </ul>
+                                </li>
+                                <li>passive – <m>thionailte</m></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>relative <ul id="relative">
+                        <li>past <ul>
+                                <li>active – a <m>thionail</m></li>
+                                <li>passive – a <m>thionladh</m></li>
+                            </ul>
+                        </li>
+                        <li>future <ul>
+                                <li>active – a <m>thionlas</m></li>
+                                <li>passive – a <m>thionlar</m></li>
+                            </ul>
+                        </li>
+                        <li>conditional <ul>
+                                <li>active <ul>
+                                        <li>first person singular – a <m>thionlainn</m></li>
+                                        <li>first person plural – a <m>thionlamaid</m></li>
+                                        <li>second/third persons – a <m>thionladh</m></li>
+                                    </ul>
+                                </li>
+                                <li>passive – a <m>thionailte</m></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>dependent <ul id="dependent">
+                        <li>past <ul>
+                                <li>active – cha/an/nach <m>do thionail</m></li>
+                                <li>passive – cha/an/nach <m>do thionladh</m></li>
+                            </ul>
+                        </li>
+                        <li>future <ul>
+                                <li>active – cha <m>thionail</m>, an/nach <m>tionail</m></li>
+                                <li>passive – cha <m>thionlar</m>, an/nach <m>tionlar</m></li>
+                            </ul>
+                        </li>
+                        <li>conditional <ul>
+                                <li>active <ul>
+                                        <li>first person singular – cha <m>thionlainn</m>, an/nach
+                                                <m>tionlainn</m></li>
+                                        <li>first person plural – cha <m>thionlamaid</m>, an/nach
+                                                <m>tionlamaid</m></li>
+                                        <li>second/third persons – cha <m>thionladh</m>, an/nach
+                                                <m>tionladh</m></li>
+                                    </ul>
+                                </li>
+                                <li>passive – cha <m>thionailte</m>, an/nach <m>tionailte</m></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <hr/>
+                <li>active <ul id="active">
+                        <li>past <ul>
+                                <li>independent – <m>thionail</m></li>
+                                <li>relative – a <m>thionail</m></li>
+                                <li>dependent – cha/an/nach <m>do thionail</m></li>
+                            </ul>
+                        </li>
+                        <li>future <ul>
+                                <li>independent – <m>tionlaidh</m></li>
+                                <li>relative – a <m>thionlas</m></li>
+                                <li>dependent – cha <m>thionail</m>, an/nach <m>tionail</m></li>
+                            </ul>
+                        </li>
+                        <li>conditional <ul>
+                                <li>independent <ul>
+                                        <li>first person singular – <m>thionlainn</m></li>
+                                        <li>first person plural – <m>thionlamaid</m></li>
+                                        <li>second/third persons – <m>thionladh</m></li>
+                                    </ul>
+                                </li>
+                                <li>relative <ul>
+                                        <li>first person singular – a <m>thionlainn</m></li>
+                                        <li>first person plural – a <m>thionlmaid</m></li>
+                                        <li>second/third persons – a <m>thionladh</m></li>
+                                    </ul>
+                                </li>
+                                <li>dependent <ul>
+                                        <li>first person singular – cha <m>thionlainn</m>, an/nach
+                                                <m>tionlainn</m></li>
+                                        <li>first person plural – cha <m>thionlamaid</m>, an/nach
+                                                <m>tionlamaid</m></li>
+                                        <li>second/third persons – cha <m>thionladh</m>, an/nach
+                                                <m>tionladh</m></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>passive <ul id="passive">
+                        <li>past <ul>
+                                <li>independent – <m>thionladh</m></li>
+                                <li>relative – a <m>thionladh</m></li>
+                                <li>dependent – cha/an/nach <m>do thionladh</m></li>
+                            </ul>
+                        </li>
+                        <li>future <ul>
+                                <li>independent – <m>tionlar</m></li>
+                                <li>relative – a <m>thionlar</m></li>
+                                <li>dependent – cha <m>thionlar</m>, an/nach <m>tionlar</m></li>
+                            </ul>
+                        </li>
+                        <li>conditional <ul>
+                                <li>independent – <m>tionailte</m></li>
+                                <li>relative – a <m>thionailte</m></li>
+                                <li>dependent – cha <m>thionailte</m>, an/nach <m>tionailte</m></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <hr/>
+                <li>imperative <ul id="imperative">
+                        <li>independent <ul>
+                                <li>first person singular – <m>tionlam</m>!</li>
+                                <li>second person singular – <m>tionail</m>!</li>
+                                <li>first person plural – <m>tionlamaid</m>!</li>
+                                <li>second person plural – <m>tionlaibh</m>!</li>
+                                <li>third person – <m>tionladh</m>!</li>
+                                <li>passive – <m>tionail(t)ear</m>!</li>
+                            </ul>
+                        </li>
+                        <li>dependent <ul>
+                                <li>first person singular – na <m>tionlam</m>!</li>
+                                <li>second person singular – na <m>tionail</m>!</li>
+                                <li>first person plural – na <m>tionlamaid</m>!</li>
+                                <li>second person plural – na <m>tionlaibh</m>!</li>
+                                <li>third person – na <m>tionladh</m>!</li>
+                                <li>passive – na <m>tionail(t)ear</m>!</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <hr/>
+                <li>verbal noun – <m>tional</m> (also <m>tionaladh</m>, <m>tionailt</m>)</li>
+            </ul>
+        </p>
+    </section>
+    <section>
+        <h>relations</h>
+    </section>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>compound verbs</h>
+                <p>cf. <a href="?gd=coitheanail">coitheanail</a> <vb/> <en>congregate</en></p>
+        </section>
+        <section>
+            <h>derivatives</h>
+            <p>cf. <a href="?gd=tional">tional</a> <masc/> <en>collection, assembly</en></p>
+        </section>
+    </section>
+    <section id="etymology">
+        <h>etymology</h>
+        <p><b>tionail</b> is derived from the Old Gaelic verb <ax href="https://dil.ie/17918"
+                >do·inóla</ax>
+            <en>gathers, collects, musters, assembles</en>.</p>
+    </section>
+
+</module>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>sgìre</h>
+    <p><b>sgìre</b>
+        <en>district</en> is a feminine <a href="?xx=nouns/toponymic_common_nouns">toponymic common
+            noun</a>, with plural <b>sgìrean</b>.</p>
+
+    <module id="sgireachd">
+        <h>sgìreachd</h>
+        <p><b>sgìreachd</b>
+            <en>district</en> is a derived feminine toponymic common noun, with suffix <a
+                href="?gd=_achd">-(e)achd</a> and with plural <b>sgìreachdan</b>.</p>
+        <p>Noun compounds – <b>sgìreachd (àrd-)easbaig</b>
+            <en>(arch)diocese</en>, cf. <a href="?gd=easbaig">(àrd-)easbaig</a>
+            <masc/>
+            <en>(arch)bishop</en>.</p>
+    </module>
+
+    <module id="compounds">
+        <h>noun compounds</h>
+        <p>With modifier – <b>sgìre (àrd-)easbaig</b>
+            <en>(arch)diocese</en>, cf. <a href="?gd=easbaig">(àrd-)easbaig</a>
+            <masc/>
+            <en>(arch)bishop</en>.</p>
+    </module>
+
+</module>

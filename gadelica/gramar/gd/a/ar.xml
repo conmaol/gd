@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">ar</h>
+    <h lang="gd">ar</h>
+    <p lang="en"><b>ar</b>
+        <en>our</en> is the first person plural <a href="?xx=nouns/possessive_determiners"
+            >possessive determiner</a>, related to the personal pronoun <a href="?gd=sinn">sinn</a>
+        <en>we, us</en>.</p>
+    <p lang="gd">...</p>
+    <module id="noun">
+        <h lang="en">noun specifier</h>
+        <h lang="gd">...</h>
+        <module id="family">
+            <h lang="en">family members</h>
+            <h lang="gd">...</h>
+            <module id="generalised-family">
+                <h lang="en">also</h>
+                <h lang="gd">...</h>
+                <p lang="en">Examples from Gairm – <xl id="noun-gairm-xs">
+                        <li>
+                            <gd>Bha grunnan de <m>ar luchd-leughaidh</m> an dùil, nuair a nochd an
+                                àireamh mu dheireadh de Ghairm, gu robh sin a’ strì ri buidheann
+                                shònraichte, no duine sònraichte, a chur do ’n Phàrlamaid, agus bha
+                                wèireichean an telefon gu math teth, uair no dhà, an déidh dhuinn
+                                tighinn o ’n chlò. Thog iad ceàrr sinn. [...]</gd>
+                            <tr>Some of our readers were expecting [?], when the last issue of Gairm
+                                appeared, that that was striving for a particular group [party?], or
+                                a particular person, to send to the Parliament, and the telephone
+                                wires were pretty hot, for an hour or two [once or twice?], after we
+                                came from the printers. They misunderstood us. [...]</tr>
+                            <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                        </li>
+
+                        <li>
+                            <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha
+                                fhios gun dig iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C.
+                                [...] A thaobh ciùil, nach bu chòir do ’n Bh.B.C. a bhith ceum air
+                                thoiseach air càch, a’ deilbh dhòighean is chruthan ùra, gun dearmad
+                                a dhèanamh air na rudan luachmhor a tha nar dìleab? Tha aca ri sùil
+                                a chumail air an aois ’s air an òigridh, agus chan eil sinn gun
+                                dòchas gun tarraing iad air ais bho shloc nan daolagan pàirt de
+                                òigridh na Gàidhlig, agus gu seall iad dhaibh nach do chaill ceòl
+                                nan Gaidheal a’ bhuaidh a bha aige air <m>ar sluagh</m> fad cheudan
+                                bliadhna. [...]</gd>
+                            <tr>During the seasons and the years that are ahead of us, it is known
+                                that many changes will come to the Gaelic Department of the BBC.
+                                [...] On the subject of music, shouldn’t the BBC be a step ahead of
+                                the rest, producing new methods and forms, without neglecting the
+                                valuable things that are in our inheritance? They have to keep an
+                                eye on old age and on the youth, and we are not without hope that
+                                they will pull back part of Gaelic-speaking youth from the pit of
+                                beetles, and that they will show them that the Gael’s music has not
+                                lost the effect that ithas had on our people for hundreds of years.
+                                [...]</tr>
+                            <ref text="400-48">td. 297, ‘Air an Spiris’</ref>
+                        </li>
+
+                    </xl>
+                </p>
+                <p lang="gd">...</p>
+                <p lang="en">Biblical examples – <xl id="noun-bible-xs">
+                        <li>
+                            <gd>[...] A nis dh’éirich righ ùr air an Eiphit, do nach b’aithne
+                                Ioseph. Agus thubhairt e r’a shluagh, Feuch, tha sluagh chloinn
+                                Israeil ni’s lìonmhoire agus ni’s cumhachdaiche na sinne. Thigibh,
+                                buineamaid gu seòlta: an t-eagal gu’m fàs iad lìonmhor, agus gu’n
+                                tachair e, ’nuair a dh’éireas cogadh, gu’n gabh iadsan mar an ceudna
+                                le <m>’r naimhdibh-ne</m>, agus gu’n cog iad ’nar n-aghaidh, agus
+                                gu’n d’théid iad a mach as an tìr. [...]</gd>
+                            <tr>[...] Now there arose up a new king over Egypt, which knew not
+                                Joseph. And he said unto his people, Behold, the people of the
+                                children of Israel are more and mightier than we: Come on, let us
+                                deal wisely with them; lest they multiply, and it come to pass,
+                                that, when there falleth out any war, they join also unto our
+                                enemies, and fight against us, and so get them up out of the land.
+                                [...] [KJV]</tr>
+                            <ref text="160">Ecsodus I.8–10</ref>
+                            <note>emphatic</note>
+                        </li>
+                    </xl>
+                </p>
+                <p lang="gd">...</p>
+            </module>
+        </module>
+        <module id="body">
+            <h lang="en">body parts</h>
+            <h lang="gd">...</h>
+            <module id="generalised-body">
+                <h lang="en">also</h>
+                <h lang="gd">...</h>
+            </module>
+        </module>
+        <module id="nouns-other">
+            <h lang="en">other</h>
+            <h lang="gd">...</h>
+            <p lang="en">Examples from Gairm – <xl id="nouns-other-gairm-exs">
+                    <li>
+                        <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha fhios
+                            gun dig iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C. Dh’ fhàg
+                            Eóghan Mac-a- phì a sheula fhéin air an Roinn sin, agus air a’ Bh.B.C.
+                            an Albainn gu h-iomlan, agus air dha a nis a dhreuchd a leigeil dheth,
+                            dh’ iarramaid taing a thoirt dha airson gach seirbhis a thug e do <m>ar
+                                cànain</m>, is ghuidheamaid dhà saorsainn is toileachas ’na shaorsa,
+                            agus obair ás ùr anns na raointean a thaghas e.</gd>
+                        <tr>During the seasons and the years that are ahead of us, it is known that
+                            many changes will come to the Gaelic Department of the BBC. Ewan MacPhee
+                            has left his own stamp on that Department, and on the BBC in Scotland as
+                            a whole, and after him now giving up his job, we would ask for thanks to
+                            be given him for all the service he has given to our language, and wish
+                            him liberty and pleasure in his freedom, and new work in the areas that
+                            he will choose.</tr>
+                        <ref text="400-48">td. 297, ‘Air an Spiris’</ref>
+                    </li>
+                    <li>
+                        <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha fhios
+                            gun dig iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C. [...] A
+                            thaobh ciùil, nach bu chòir do ’n Bh.B.C. a bhith ceum air thoiseach air
+                            càch, a’ deilbh dhòighean is chruthan ùra, gun dearmad a dhèanamh air na
+                            rudan luachmhor a tha <m>nar dìleab</m>? [...]</gd>
+                        <tr>During the seasons and the years that are ahead of us, it is known that
+                            many changes will come to the Gaelic Department of the BBC. [...] On the
+                            subject of music, shouldn’t the BBC be a step ahead of the rest,
+                            producing new methods and forms, without neglecting the valuable things
+                            that are in our inheritance? [...]</tr>
+                        <ref text="400-48">td. 297, ‘Air an Spiris’</ref>
+                    </li>
+
+                    <li>
+                        <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha fhios
+                            gun dig iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C. [...]
+                            Bithidh cuideachadh a dhìth air luchd a’ Bh.B.C., agus ’se an
+                            cuideachadh a b’ fheàrr a b’ urrainn dhuinn a thoirt dhaibh <m>ar
+                                n-ùidh</m> a nochdadh, le bhith a’ sgrìobhadh thuca, gam moladh is
+                            gan càineadh, ag iarraidh tuilleadh tìde do ’n Ghàidhlig, is a’
+                            sealltainn dhaibh gu bheil sinn a’ dèanamh feum de ’n tìde a th’
+                            againn.</gd>
+                        <tr>During the seasons and the years that are ahead of us, it is known that
+                            many changes will come to the Gaelic Department of the BBC. [...] The
+                            BBC people will need help, and the best help that we can give them is to
+                            show them our interest, by writing to them, praisng them and criticising
+                            them, demanding more time for Gaelic, and showing them that we are
+                            making use of the time that we have.</tr>
+                        <ref text="400-48">td. 297, ‘Air an Spiris’</ref>
+                    </li>
+                </xl></p>
+            <p lang="gd">...</p>
+        </module>
+
+        <module id="compound_prepositions">
+            <h lang="en">compound prepositions</h>
+            <h lang="gd">...</h>
+            <p lang="en">Biblical examples – <xl id="noun-compound-prep-bible-xs">
+                    <li>
+                        <gd>[...] A nis dh’éirich righ ùr air an Eiphit, do nach b’aithne Ioseph.
+                            Agus thubhairt e r’a shluagh, Feuch, tha sluagh chloinn Israeil ni’s
+                            lìonmhoire agus ni’s cumhachdaiche na sinne. Thigibh, buineamaid gu
+                            seòlta: an t-eagal gu’m fàs iad lìonmhor, agus gu’n tachair e, ’nuair a
+                            dh’éireas cogadh, gu’n gabh iadsan mar an ceudna le ’r naimhdibh-ne,
+                            agus gu’n cog iad <m>’nar n-aghaidh</m>, agus gu’n d’théid iad a mach as
+                            an tìr. [...]</gd>
+                        <tr>[...] Now there arose up a new king over Egypt, which knew not Joseph.
+                            And he said unto his people, Behold, the people of the children of
+                            Israel are more and mightier than we: Come on, let us deal wisely with
+                            them; lest they multiply, and it come to pass, that, when there falleth
+                            out any war, they join also unto our enemies, and fight against us, and
+                            so get them up out of the land. [...] [KJV]</tr>
+                        <ref text="160">Ecsodus I.8–10</ref>
+                        <note>fused</note>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+    </module>
+    <module id="infinitive">
+        <h lang="en">infinitives</h>
+        <h lang="gd">...</h>
+    </module>
+</module>

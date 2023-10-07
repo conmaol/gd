@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">sibh</h>
+    <h lang="gd">sibh</h>
+    <p lang="en"><b>sibh</b>
+        <en>you</en> is the second person plural <a href="?xx=nouns/personal_pronouns">personal
+            pronoun</a>.</p>
+    <p lang="gd">...</p>
+</module>
+

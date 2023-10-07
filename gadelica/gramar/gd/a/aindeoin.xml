@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>a dh’aindeoin</h>
+  <p><b>a dh’aindeoin</b>
+    <en>despite, in spite of, notwithstanding, nevertheless</en> is a <a
+      href="?xx=prepositions/compound_prepositions">prepositional compound</a>, introducing an <a
+      href="?xx=adverbs/adverbials_of_contrast">adverbial of contrast</a>.</p>
+  <p>Examples – <xl id="ex">
+      <li>
+        <gd><m>A dh’aindeoin an teas</m> chùm [am ministear] air a choilear geal is aodach
+          dubh.</gd>
+        <tr>Despite the heat, [the minister] kept on his white collar and black suit.</tr>
+        <ref text="501">td. 12</ref>
+      </li>
+      <li>
+        <gd>Dh’fheumadh na h-iasgairean a h-uile càil a bha dhìth orra a cheannach anns a’ bhùth
+          aige. Ach <m>a dh’aindeoin sin</m> bha an sgioba riaraichte, oir bha gach fear a’
+          faireachdainn gu robh e ag obair air a cheann fhèin, gu robh e neo-eisimeileach.</gd>
+        <tr>The fishermen had to buy everything they needed from his shop. But in spite of that the
+          crew were satisfied, because each man felt that he was working for himself, that he was
+          independent.</tr>
+        <ref text="2">td. 88</ref>
+      </li>
+    </xl>
+  </p>
+
+</module>

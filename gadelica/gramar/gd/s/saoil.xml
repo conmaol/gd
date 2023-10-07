@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h lang="en">saoil</h>
+    <h lang="gd">saoil</h>
+    <p lang="en"><b>saoil</b>
+        <en>think, wonder, suppose, deem, conceive, imagine, consider, believe</en> is a stative
+        verb with verbal noun <b>saoilsinn</b>
+        <i>fem.</i> or <b>saoiltinn</b>
+        <i>fem.</i> (saoileachdainn? GV: 130)</p>
+    <p lang="gd">...</p>
+    <module id="saoil_gun">
+        <h lang="en">saoil gun ...</h>
+        <h lang="gd">saoil gun ...</h>
+        <p lang="en"><b>saoil</b> can take a complement clause introduced by the verb particle
+                <b>gun</b>
+            <en>think/suppose that ...</en></p>
+        <p lang="gd">...</p>
+        <p lang="en">The most common usage is the future independent first person singular
+                <b>saoilidh mi</b>, eg. <ul>
+                <li><m>Saoilidh mi gu bheil</m> thu stampail. <en>I think you’re cute.</en></li>
+            </ul> Note that this usage denotes an ongoing present state rather than a specifically
+            future situation. <xl id="saoilidh_mi">
+                <li>
+                    <gd>Saoilidh mi gu robh Brian air beòshlaint na b’ fheàrr a dhèanamh mar
+                        chleasaiche.</gd>
+                    <tr>I think that Brian would have made a better living as an actor.</tr>
+                    <ref text="2">td. 51</ref>
+                </li>
+                <li>
+                    <gd>Ach saoilidh mi gum feumar eadar-dhealachadh a dhèanamh eadar na dhà.</gd>
+                    <tr>But I think that we must differentiate between the two.</tr>
+                    <ref text="611">td. 67</ref>
+                </li>
+                <li>
+                    <gd>Saoileam gu bheil mòran den airgead a’ dol do na daoine ceàrr.</gd>
+                    <tr>I think that a lot of the money is going to the wrong people.</tr>
+                    <ref text="611">td. 87</ref>
+                    <note>Note that <b>saoilidh mi</b> is sometimes found written as
+                        <b>saoileam</b>.</note>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">Equivalent states in the <u>past</u> are expressed as <b>shaoil mi</b>, etc. <ul>
+                <li><m>Shaoil mi gun robh</m> thu pòsta. <en>I thought you were married.</en></li>
+            </ul>
+            <xl id="shaoil_mi">
+                <li>
+                    <gd>Shaoil mi gun d’ fhuair an gille faochadh. Thug mi dha £50 agus cha b’
+                        urrainn duine a bhith cho taingeil.</gd>
+                    <tr>I thought that the boy was relieved. I gave him £50 and no man could ever be
+                        as grateful.</tr>
+                    <ref text="2">td. 49</ref>
+                </li>
+                <li>
+                    <gd>Choinnich e ri Elsie May aon oidhche ann an taigh-seinnse anns a’ bhaile
+                        mhòr, agus shaoil sinn gun deach an dithis a dhèanamh dha a chèile. </gd>
+                    <tr>He met Elsie May one night in a pub in the city, and we thought that the two
+                        of them were made for each other.</tr>
+                    <ref text="2">td. 26</ref>
+                </li>
+                <li>
+                    <gd>Bha i ceud bliadhna a dh’ aois is esan dhà air fhichead. Cha robh e ach mìos no dhà
+                        a-mach ás an oilthigh. Bha a nighean a’ fuireachd còmhla rithe. Bha ise ceithir
+                        fichead. <m>Shaoil e gu robh a’ chailleach ann an dòigh na bu shunndaiche na a nighean.</m>
+                        [...]</gd>
+                    <tr>She was a hundred years old and him twenty two. He was just a month or two out of the
+                        university. Her daughter was living with her. She was eighty. He thought that the old
+                        woman was in a way livelier than her daughter. [...]</tr>
+                    <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">Conditional examples – <xl id="shaoileadh">
+                <li>
+                    <gd>Bha Uisdean air leth ealanta a’ cluiche air cairtean. Shaoileadh duine gu
+                        robh na cairtean a’ tighinn beò na làmhan.</gd>
+                    <tr>Hugh was exceptionally talented at playing cards. One would think that the
+                        cards were coming alive in his hands.</tr>
+                    <ref text="2">td. 54</ref>
+                </li>
+                <li>
+                    <gd>shaoilinn gun còrdadh iad ris a h-uile duine</gd>
+                    <tr>I would imagine they would please everybody</tr>
+                    <ref text="601">td. 500</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">The corresponding negative forms have <b>saoil nach</b> ... eg. <ul>
+                <li><m>Saoilidh mi nach eil thu</m> thu stampail. <en>I think you aren’t cute. / I
+                        don’t think you’re cute.</en></li>
+                <li><m>Shaoil mi nach robh thu</m> thu pòsta. <en>I thought you weren’t married. / I
+                        didn’t think you were married.</en></li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en"><ed>Negative? Saoilidh mi nach eil ... or Cha shaoil mi gu bheil ... ?</ed></p>
+        <p lang="gd">...</p>
+        <p lang="en">Conditional – <ul>
+                <li>shaoileadh tu air Dàibhidh gur h-esan am maraiche as fheàrr air an t-saoghal
+                        <en>you would think by (looking at / listening to) David that he was the
+                        best seaman in the world</en> [CM: 500]</li>
+                <li>
+                    <en/> [CM: 500]</li>
+                <li>cha shaoilinn gum biodh mòran sam bith den t-seòrsa seo <en>I shouldn’t think
+                        there would be many of this type</en> [CM: 500]</li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">mmm <ul>
+                <li>shaoileadh tu air Dàibhidh gur h-esan am maraiche as fheàrr air an t-saoghal
+                        <en>you would think by (looking at / listening to) David that he was the
+                        best seaman in the world</en> [CM: 500]</li>
+                <li>shaoilinn gun còrdadh iad ris a h-uile duine <en>I should imagine they would
+                        please everybody</en> [CM: 500]</li>
+                <li>cha shaoilinn gum biodh mòran sam bith den t-seòrsa seo <en>I shouldn’t think
+                        there would be many of this type</en> [CM: 500]</li>
+                <li>is dòcha gu saoilear nach eil annas mòr ri lorg anns a’ chuspair sin <en>it will
+                        probably be thought that there is nothing very interesting to be found in
+                        that subject</en> [CM: 500]</li>
+                <li>shaoil leis <en>he thought</en> [CM: 500]</li>
+                <li>shaoileam gun cuala mi fuaim air taobh a-muigh uinneag mo ruim <en>I thought I
+                        heard a noise outside my room window</en> [CM: 500]</li>
+                <li>Shaoil leam gum biodh e anns an eaglais an-diugh. I thought that he would be at
+                    church today. [GV: 87]</li>
+                <li>’s ann a shaoiliste le coimhead orra gun robh iad ... <en>one would think to
+                        look at them that they were ...</en> [CM: 500]</li>
+                <li>’S ann a shaoiliste le coimhead orra gun robh iad air a bhith ann o thoiseach
+                    tìme. It woud be thought, by looking at them, that they had been there since the
+                    beginning of time. [GV 106]</li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en"><b>saoilteadh</b> (dialectal <b>saoiliste</b>) <en>it would be thought, one
+                would think, suppose, imagine</en></p>
+        <p lang="gd">...</p>
+        <p lang="en">bi a’ saoilsinn gun ... – <ul>
+                <li>Bha i a’ saoilsinn gun robh eadhon na craobhan agus na flùraichan a’ cur fàilte
+                    oirre. She thought that even the trees and the flowers were welcoming her. [GV
+                    87]</li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+
+    <module id="saoil_de">
+        <h lang="en">saoil de ...</h>
+        <h lang="gd">saoil de ...</h>
+        <p lang="en">Dè a ... saoil thu ... de ... ? – <ul>
+                <li>dè a shaoil thu den dhealbh-chluich? <en>what did you think of the play?</en>
+                    [CM: 500]</li>
+                <li>innis dè a shaoil thu den sgeulachd <en>say what you thought of the story</en>
+                    [CM: 500]</li>
+                <li>Dè tha thu a’ saoilsinn de na h-atharraichean seo? What do you think of these
+                    changes? [GV 87]</li>
+                <li>Dè tha thu a’ saoiltinn dheth? What do you think of it? [GV: 93]</li>
+                <li>dè a shaoil thu den dhealbh-chluich? <en>what did you think of the play?</en>
+                    [CM: 500]</li>
+                <li>innis dè a shaoil thu den sgeulachd <en>say what you thought of the story</en>
+                    [CM: 500]</li>
+                <li>saoil mhòran dhe <en>admire</en> [CM: 500]</li>
+                <li>bha i a’ saoilsinn mòran dheth <en>she admired him</en> [CM: 500]</li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+
+    <module id="saoil_question">
+        <h lang="en">saoil + question ?</h>
+        <h lang="gd">saoil + question ?</h>
+        <p lang="en">No subject – <ul>
+                <li>saoil dè thachair do Sheumas? <en>I wonder what happened to James?</en> [CM:
+                    500]</li>
+                <li>... ach saoil an atharraich e ... ? <en>but do you suppose he’ll change?</en>
+                    [CM: 500]</li>
+                <li>saoil a bheil e deiseil fhathast? <en>do you think he’s ready yet?</en> [CM:
+                    500]</li>
+                <li>saoil(ibh) am bi stoirm ann? <en>do you think there’ll be a storm? I wonder if
+                        there’ll be a storm.</en> [CM: 500]</li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">With pronoun – <ul>
+                <li>saoil sibh a-nis nach bu chòir bacadh a chur air a bhith a’ cumail bheathaichean
+                    ann am bogsaichean mar seo? <en>don’t you think now that a stop should be put to
+                        keeping animals in boxes like this?</en></li>
+                <li>càite, saoil thu, an deach e an uair sin? <en>where, do you think, did he go
+                        then?</en> [CM: 500]</li>
+            </ul>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+
+</module>

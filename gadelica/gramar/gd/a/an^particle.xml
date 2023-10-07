@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h lang="en">an – verb particle</h>
+  <h lang="gd">an</h>
+  <p><b>an</b> is the positive interrogative verb particle.</p>
+  <p>cf. other uses of the particle <a href="?gd=an">an</a>.</p>
+  <!--
+  <p lang="en">Dialectal variant: <b>na</b> = <b>an do</b> – <xl id="exss">
+      <li>
+        <gd>Rugadh am feallsanach Soren Kierkegaard ann sa’ bhliadhna 1813, an Copenhagen far
+            <m>na</m> bhàsaich e nuair a bha e dà fhichead, ’s a dhà.</gd>
+        <tr>The philosopher Soren Kierkegaard was born in 1813, in Copenhagen where he died when he
+          was 42.</tr>
+        <ref text="400-41">td. 103</ref>
+      </li>
+    </xl>
+  </p>
+  -->
+
+  <section>
+    <h>dependents</h>
+
+    <section>
+      <h>complement</h>
+
+      <p>Older pedagogical examples – <xl id="comp-older-pedag">
+          <li>
+            <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh. Thubhairt mo
+              mhàthair, “<m>An téid</m> thu do bhocsa nan litrichean leis an litir seo, Iain?”
+              “Théid,” ars Iain, “falbhaidh mi an dràsda”. “Fuirich gus <m>an dùin</m> mi i is gus
+                <m>an cuir</m> mi seòladh oirre. Ceannaich fhéin stamp agus cuir oirre i.”
+              [...]</gd>
+            <tr>My mother is writing a letter to my father who is away. My mother said, “Will you go
+              to the postbox with this letter, John?” “Yes, I will,” said John, “I will leave now.”
+              “Wait until I seal it and put an address on it. Buy a stamp and put it on
+              it.”[...]</tr>
+            <ref text="621">td. 5</ref>
+            <note>polite request</note>
+          </li>
+        </xl>
+      </p>
+    </section>
+
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section>
+      <h>complement</h>
+      <module>
+        <h>gus an</h>
+        <p>cf. <a href="?gd=gus"><g>gus</g></a> <en>until</en></p>
+        <p>Older pedagogical examples – <xl id="gus-older-pedag">
+            <li>
+              <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh. Thubhairt mo
+                mhàthair, “An téid thu do bhocsa nan litrichean leis an litir seo, Iain?” “Théid,”
+                ars Iain, “falbhaidh mi an dràsda”. “Fuirich <m>gus an dùin mi i is gus an cuir mi
+                  seòladh oirre</m>. Ceannaich fhéin stamp agus cuir oirre i.” [...]</gd>
+              <tr>My mother is writing a letter to my father who is away. My mother said, “Will you
+                go to the postbox with this letter, John?” “Yes, I will,” said John, “I will leave
+                now.” “Wait until I seal it and put an address on it. Buy a stamp and put it on
+                it.”[...]</tr>
+              <ref text="621">td. 5</ref>
+              <note>polite request</note>
+            </li>
+          </xl>
+        </p>
+
+      </module>
+
+
+    </section>
+  </section>
+
+
+  <section id="relative">
+    <h lang="en">relative clauses</h>
+    <h lang="gd">...</h>
+    <p lang="en">Examples from Gairm – <xl id="gairm-xs">
+        <li>
+          <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os cionn
+            obair a’ Chomuinn. [...] Cha b’ fhuilear do dhuine de ’n t-seòrsa so tomhas mhath de
+            chumhachd a bhith aige. Cha dean math dha a bhith air a shlaodadh aig tòin Coimitidh,
+            ach feumaidh an Coimitidh earbsa a bhith aca ás. Bhiodh sin aca nan cuireadh e obair
+            romhpa, agus nan tugadh e gu buil <m>gach obair air an tugadh iad làmh</m>. [...]</gd>
+          <tr>The Highland Society is talking about choosing a new General who will oversee the
+            Society’s work. [...] A person of this kind would have to have a good measure of power.
+            It would do him no good to be dragged along by the Committee [??], but the Committee
+            must have trust in him. They would have that if he would put work before them [??], and
+            if he would complete every job which they would get a hold of [??]. [...]</tr>
+          <ref text="400-46">td. 105, ‘Air An Spiris’</ref>
+          <note>abstract</note>
+        </li>
+      </xl>
+    </p>
+    <p lang="en">Biblical examples – <xl id="bible">
+        <li>
+          <gd>[...] A nis dh’éirich righ ùr air an Eiphit, do nach b’aithne Ioseph. Agus thubhairt e
+            r’a shluagh, Feuch, tha sluagh chloinn Israeil ni’s lìonmhoire agus ni’s cumhachdaiche
+            na sinne. Thigibh, buineamaid gu seòlta : an t-eagal gu’m fàs iad lìonmhor, agus gu’n
+            tachair e, ’nuair a dh’éireas cogadh, gu’n gabh iadsan mar an ceudna le ’r naimhdibh-ne,
+            agus gu’n cog iad ’nar n-aghaidh, agus gu’n d’théid iad a mach as an tìr. [...] Agus
+            thug na h-Eiphitich air cloinn Israeil seirbhis a dheanamh le cruadhas. Agus rinn iad am
+            beatha searbh dhoibh le daorsa chruaidh, ann am moirtear, agus ann an clachaibh-creadha,
+            agus anns gach gnè oibre ’sa’ mhachair: bha <m>an obair uile, anns an d’thug iad orra
+              obair a dheanamh</m>, le cruadhas. [...]</gd>
+          <tr>[...] Now there arose up a new king over Egypt, which knew not Joseph. And he said
+            unto his people, Behold, the people of the children of Israel are more and mightier than
+            we: Come on, let us deal wisely with them; lest they multiply, and it come to pass,
+            that, when there falleth out any war, they join also unto our enemies, and fight against
+            us, and so get them up out of the land. [...] And the Egyptians made the children of
+            Israel to serve with rigour: And they made their lives bitter with hard bondage, in
+            morter, and in brick, and in all manner of service in the field: all their service,
+            wherein they made them serve, was with rigour. [...]</tr>
+          <ref text="160">Ecsodus I.8-14</ref>
+        </li>
+      </xl>
+    </p>
+    <p lang="gd">...</p>
+  </section>
+
+  <section id="cleft">
+    <h lang="en">cleft clauses</h>
+    <h lang="gd">...</h>
+    <p lang="en">Examples from Gairm – <xl id="cleft-gairm">
+        <li>
+          <gd>[...] Thionndaidh i ris a rithist. “Aon latha dh’fhalbh e. Anns an t-soitheich.” “ ’S
+            tha fhios agad dé thachair an uair sin,” dh’ éigh Màiri. “Dé? Dé thachair? Dé thachair?”
+            Bha bith eadar an dithis aca. “Chan eil diofar ann,” arsa Màiri mu dheireadh. An robh
+            deòirean leanabail ’na sùilean? “O, bha leanabh agam, <m>an e sin a tha thu
+              ciallachadh?</m>” arsa Mairead. An greiseag eile thubhairt i, “Tha thìd aig an tea a
+            bhith deiseil.” [...]</gd>
+          <tr>[...] She turned to him again. “One day he left. In the boat.” “And you know what
+            happened next,” shouted Mary. “What? What happened?” There was hatred between the two of
+            them. “It makes no difference,” said Mary eventually. Were there childlike tears in her
+            eyes? “Oh, I had a child, is that what you are meaning?” said Margaret. After another
+            while she said, “It’s time the tea was ready.” [...]</tr>
+          <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+      </xl>
+    </p>
+    <p lang="gd">...</p>
+  </section>
+
+
+</module>

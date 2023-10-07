@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>numeral nouns</h>
+    <p>Numeral nouns are a kind of <a href="?xx=nouns/common_nouns">common noun</a> used in <a
+            href="?xx=nouns/numeric_quantity_expressions">numeric quantity expressions</a>.</p>
+    <p lang="en">cf. <a href="?gd=aonar">aonar</a>
+        <en>one person</en>, <a href="?gd=dithis">dithis</a>
+        <en>two people</en>, <a href="?gd=triùir">triùir</a>
+        <en>three people</en>, <a href="?gd=ceathrar">ceathrar</a>
+        <en>four people</en>, ... , <a href="?gd=seachdnar">seachdnar</a>
+        <en>seven people</en>, ...</p>
+</module>

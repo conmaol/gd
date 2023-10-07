@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>simple verbs</h>
+    <p>Simple verbs are <a href="?xx=verbs/verbs">verbs</a> that are not formed from other
+        words.</p>
+    <p>List of irregular verbs – <ul>
+            <li><a href="?gd=rach"><g>rach</g></a>
+                <en>go</en></li>
+            <li><a href="?gd=thig"><g>thig</g></a>
+                <en>come</en></li>
+            <li><a href="?gd=thoir"><g>thoir</g></a>
+                <en>give, take, bring</en></li>
+        </ul>
+    </p>
+
+    <p>List of simple regular verbs (along with idiosyncratic <a href="?xx=nouns/verbal_nouns"
+            >verbal nouns</a>) –<ul>
+            <li><m>aidich</m></li>
+            <li><a href="?gd=ceannaich"><g>ceannaich</g></a>
+                <en>buy, purchase</en> vn. <g>ceannach</g></li>
+            <li><a href="?gd=coisich"><g>coisich</g></a>
+                <en>walk</en> vn. <g>coiseachd</g></li>
+            <li><a href="?gd=cuir"><g>cuir</g></a>
+                <en>put, send</en> vn. <g>cur</g></li>
+            <li><a href="?gd=dùin"><g>dùin</g></a>
+                <en>close, shut</en></li>
+            <li><m>fosgail</m>
+                <en>open</en></li>
+            <li><m>freagair</m>
+                <en>reply</en> vn. <g>freagairt</g></li>
+            <li><a href="?gd=fuirich"><g>fuirich</g></a>
+                <en>wait, stay, live</en></li>
+            <li><a href="?gd=gabh"><g>gabh</g></a>
+                <en>take</en></li>
+            <li><m>ith</m>
+                <en>eat</en> vn. <g>ithe</g>, <g>itheadh</g>†</li>
+            <li><a href="?gd=leum"><g>leum</g></a>
+                <en>jump</en> vn. <g>leum</g></li>
+            <li><a href="?gd=lorg"><g>lorg</g></a>
+                <en>find</en> vn. <g>lorg</g></li>
+            <li><m>òl</m>
+                <en>drink</en> vn. <g>òl</g></li>
+            <li><a href="?gd=ruith"><g>ruith</g></a>
+                <en>run</en> vn. <g>ruith</g></li>
+            <li><m>seachain</m>
+                <en>avoid</en></li>
+            <li><m>seinn</m>
+                <en>sing</en> vn. <g>seinn</g></li>
+            <li><a href="?gd=seòl"><g>seòl</g></a>
+                <en>sail</en></li>
+            <li><m>sgaoil</m>
+                <en>spread</en></li>
+            <li><a href="?gd=sgrìobh"><g>sgrìobh</g></a>
+                <en>write</en></li>
+            <li><a href="?gd=snàmh"><g>snàmh</g></a>
+                <en>swim</en> vn. <g>snàmh</g></li>
+            <li><a href="?gd=tilg"><g>tilg</g></a>
+                <en>throw</en></li>
+            <li><a href="?gd=tionail">tionail</a>
+                <en>come/bring together, gather</en></li>
+        </ul>
+    </p>
+</module>

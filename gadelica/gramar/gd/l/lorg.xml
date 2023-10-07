@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>lorg</h>
+    <p><g>lorg</g>
+        <en>find, track down, trace</en> is simple verb.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>object</h>
+            <p>Examples from Gairm – <xl id="gairm">
+                    <li>
+                        <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a
+                            bhios os cionn obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh
+                            an toiseach ag ath-nuadhachadh dreach a’ Chomuinn. [...] Ach dh’
+                            fheumadh am Fear-stiùiridh ùr barrachd air a sin a dhèanamh. Dh’
+                            fheumadh e siubhal a dhèanamh eadar Rubha Robhanais agus Ceann
+                            Bharraidh, eadar am Parbh is Maol Chinn-tìre, agus cha deanadh math dha
+                            dìochuimhneachadh gu robh obair a’ Chomuinn a’ buntainn ri Coimisean nan
+                            Croitearan an Inbhirnis, ri Roinn an Fhoghluim an Dùn-Eideann, agus ri
+                            Tigh nan Cumantan an Lunnainn. An duine a theid do gach àite dhiubh sin,
+                            agus a bheir barrachd air còmhradh leis dhachaidh, nì e feum do ’n
+                            Chomunn is do ’n Ghàidhlig. Tha sinn a’ guidhe ’s ag iarraidh <m>gu lorg
+                                An Comunn duine de ’n t-seòrsa so</m>.</gd>
+                        <tr>The Highland Society is talking about choosing a new General who will
+                            oversee the Society’s work. [...] He would have enough to do initially
+                            reforming the Society. [...] But the new leader would have to do more
+                            than (just) that. He would have to travel between the Butt of Lewis and
+                            Barra Head, between Cape Wrath and the Mull of Kintyre, and he should
+                            not forget that the Society’s work is related to the Crofters’
+                            Commission in Inverness, to the Education Department in Edinburgh, and
+                            to the House of Commons in London. The person who goes to each of those
+                            places, and who brings home more than (just) conversation, will benefit
+                            the Society and the Gaelic language. We are praying and asking that The
+                            Society will find a person of this kind.</tr>
+                        <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                        <note>simple future = perfective</note>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <module status="bronze" id="air_lorg">
+                <h>air lorg</h>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module status="bronze" id="rach_air_lorg">
+                            <h>rach air lorg</h>
+                            <p><g><a href="?gd=rach">rach</a> air lorg ...</g>
+                                <en>go looking for, track, trail</en> – <ul>
+                                    <li>pedagogical examples – <xl id="lorg-pedag">
+                                            <li>
+                                                <gd>Chaidh iad air lorg nam fiadh.</gd>
+                                                <tr>They tracked the deer.</tr>
+                                                <ref text="601">td. 478</ref>
+                                            </li>
+                                            <li>
+                                                <gd>Chaidh iad air an lorg.</gd>
+                                                <tr>They trailed them. / They went looking for
+                                                  them.</tr>
+                                                <ref text="601">td. 478</ref>
+                                            </li>
+                                        </xl>
+                                    </li>
+                                </ul>
+                            </p>
+
+                        </module>
+                    </section>
+                </section>
+            </module>
+        </section>
+    </section>
+
+
+
+</module>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>dachaigh</h>
+    <p><g>dachaigh</g>
+        <en>home</en> is a common noun.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>derivatives</h>
+            <module status="bronze" id="dhachaigh">
+                <h>dhachaigh</h>
+                <p><g>dhachaigh</g>
+                    <en>(to) home, homewards</en> is an adverb.</p>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module status="bronze" id="rach_dhachaigh">
+                            <h>rach dhachaigh</h>
+                            <p><g><a href="?gd=rach">rach</a> dhachaigh</g>
+                                <en>go home(wards)</en> – <ul>
+                                    <li>pedagogical examples – <xl id="comps-dhachaigh-pedag">
+                                            <li>
+                                                <gd>nuair as ann a’ dol <m>dhachaigh</m> a bhios
+                                                  tu</gd>
+                                                <tr>when it’s going home that you will be</tr>
+                                                <ref text="609">td. 126</ref>
+                                            </li>
+                                            <li>
+                                                <gd>Tha mi a’ dol <m>dhachaigh</m>. | Nach
+                                                  deach(aidh) iad <m>dhachaigh</m>?</gd>
+                                                <tr>I’m going home. | Did they not go home?</tr>
+                                                <ref text="601">td. 476, 477</ref>
+                                            </li>
+                                        </xl></li>
+                                    <li>older pedagogical examples – <xl
+                                            id="comps-dhachaigh-older-pedag">
+                                            <li>
+                                                <gd>Bha an latha brèagha blàth is thug an athair
+                                                  leis Iain agus Anna anns a’ chàr. Chaidh iad sìos
+                                                  taobh an locha is stad iad aig àite bòidheach
+                                                  gorm. Chuir iad an càr a stigh gu taobh an rathaid
+                                                  is thug iad brat a mach as a’ chàr air son suidhe
+                                                  air. Tha bascaid làn de bhiadh aca is tha iad a’
+                                                  dol a ghabhail an tea air a’ chnocan ghorm. Is
+                                                  toigh leis a’ chloinn biadh a ghabhail a muigh ri
+                                                  latha brèagha. Thèid iad <m>dhachaidh</m> feasgar
+                                                  an uair a tha a’ ghrian a’ dol fodha.</gd>
+                                                <tr>The day was lovely and warm and their father
+                                                  took John and Ann in the car. They went down the
+                                                  side of the lake and they stopped at a beautiful
+                                                  green place. They put the car into the side of the
+                                                  road and they took a blanket out of the car for
+                                                  sitting on. They have a basket full of food and
+                                                  they are going to have their tea on the little
+                                                  green hill. The children like eating al fresco on
+                                                  a nice day. They will go home in the evening when
+                                                  the sun is going down.</tr>
+                                                <ref text="621">td. 6–7</ref>
+                                            </li>
+                                        </xl></li>
+                                </ul>
+                            </p>
+                        </module>
+                        <module status="bronze" id="thig_dhachaigh">
+                            <h>thig dhachaigh</h>
+                            <p><g><a href="?gd=thig">thig</a> dhachaigh</g>
+                                <en>come home(wards)</en> – <ul>
+                                    <li>pedagogical examples – <xl id="comps-thig-pedag">
+                                            <li>
+                                                <gd>Thàinig iad dhachaigh. | Cha tig iad dhachaigh
+                                                  dìreach an dèidh na sgoile.</gd>
+                                                <tr>They came home. | They will not come home
+                                                  directly after school.</tr>
+                                                <ref text="609">td. 38, 198</ref>
+                                            </li>
+                                        </xl>
+                                    </li>
+                                </ul>
+                            </p>
+                        </module>
+                        <module status="bronze" id="thoir_dhachaigh">
+                            <h>thoir dhachaigh</h>
+                            <p>Corpus examples – <xl id="exs">
+                                    <li>
+                                        <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr
+                                            a thaghadh a bhios os cionn obair a’ Chomuinn. [...]
+                                            Bhiodh a leòr aige ri dhèanamh an toiseach ag
+                                            ath-nuadhachadh dreach a’ Chomuinn. [...] Ach dh’
+                                            fheumadh am Fear-stiùiridh ùr barrachd air a sin a
+                                            dhèanamh. Dh’ fheumadh e siubhal a dhèanamh eadar Rubha
+                                            Robhanais agus Ceann Bharraidh, eadar am Parbh is Maol
+                                            Chinn-tìre, agus cha deanadh math dha dìochuimhneachadh
+                                            gu robh obair a’ Chomuinn a’ buntainn ri Coimisean nan
+                                            Croitearan an Inbhirnis, ri Roinn an Fhoghluim an
+                                            Dùn-Eideann, agus ri Tigh nan Cumantan an Lunnainn. An
+                                            duine a theid do gach àite dhiubh sin, agus a bheir
+                                            barrachd air còmhradh leis <m>dhachaidh</m>, nì e feum
+                                            do ’n Chomunn is do ’n Ghàidhlig.</gd>
+                                        <tr>The Highland Society is talking about choosing a new
+                                            General who will oversee the Society’s work. [...] He
+                                            would have enough to do initially reforming the Society.
+                                            [...] But the new leader would have to do more than
+                                            (just) that. He would have to travel between the Butt of
+                                            Lewis and Barra Head, between Cape Wrath and the Mull of
+                                            Kintyre, and he should not forget that the Society’s
+                                            work is related to the Crofters’ Commission in
+                                            Inverness, to the Education Department in Edinburgh, and
+                                            to the House of Commons in London. The person who goes
+                                            to each of those places, and who brings home more than
+                                            (just) conversation, will benefit the Society and the
+                                            Gaelic language.</tr>
+                                        <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                                    </li>
+                                </xl>
+                            </p>
+                        </module>
+                    </section>
+                </section>
+            </module>
+        </section>
+    </section>
+</module>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>aon</h>
+  <p><b>aon</b>
+    <en>one</en> is a <a href="?xx=nouns/numerals">numeral</a>.</p>
+  <p>cf. <a href="?gd=deich&amp;mod=aon_deug">aon deug</a>
+    <en>eleven, 11</en>.</p>
+  
+  <p>Examples of usage – <xl id="exs">
+      <li>
+        <gd>Ann an dà bhliadhna dheug sgrìobh e fichead leabhar ’s a h-<m>aon</m> ’s dh’ fhàg e
+          grunn mór phàipearan a chùl air a sin.</gd>
+        <tr>In 12 years he [Kierkegaard] wrote 2<u>1</u> books and he left a large quantity of
+          papers besides.</tr>
+        <ref text="400-41">td. 103</ref>
+      </li>
+      <li>
+        <gd>’S e Tòmas <m>an aon chroitear as aithne dhomh</m> a dh’èirich gu inbhe taidhcùn. Rinn e
+          sin tro dhìcheall, obair chruaidh agus tàlant malairt a bha neo-ghnàthach. An-diugh tha
+          iomadh companaidh na ainm air feadh na Gàidhealtachd. [...]</gd>
+        <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. He did that
+          through duty, hard work and a talent for business that was unusual. Today there are many
+          companies in his name all over the Highlands. [...]</tr>
+        <ref text="2">td. 5</ref>
+      </li>
+    </xl>
+  </p>
+  <module id="an_aon">
+    <h>an t-aon</h>
+    <p>Examples of usage – <xl id="an_aon-xs">
+        <li>
+          <gd>’S e Tòmas <m>an aon chroitear as aithne dhomh</m> a dh’èirich gu inbhe taidhcùn. Rinn
+            e sin tro dhìcheall, obair chruaidh agus tàlant malairt a bha neo-ghnàthach. An-diugh
+            tha iomadh companaidh na ainm air feadh na Gàidhealtachd. [...]</gd>
+          <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. He did that
+            through duty, hard work and a talent for business that was unusual. Today there are many
+            companies in his name all over the Highlands. [...]</tr>
+          <ref text="2">td. 5</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+  <module id="aonar">
+    <h lang="en">aonar</h>
+    <h lang="gd">aonar</h>
+    <p lang="en"><b>aonar</b>
+      <en>one person</en> is a <a href="?xx=nouns/numeral_nouns">numeral noun</a>.</p>
+  </module>
+  <module id="aonamh">
+    <h>aonamh</h>
+    <p><b>aonamh</b> <en>first</en> is an <a href="?xx=ordinals">ordinal numeral</a>, equivalent (in some ways) to
+      the English, derived from the cardinal numeral <b>aon</b>.</p>
+    <p>See also: <b><a href="?gd=ciad">ciad</a></b></p>
+    <p>cf. <a href="?en=the&amp;box=aonamh">definite article</a> + <b>aonamh</b></p>
+  </module>
+
+
+  <!--
+  <p>The main uses of <b>aon</b> are –</p>
+  <ol>
+    <li>When modifying a temporal unit noun, <b>aon</b> can be used to introduce an
+      adverbial phrase of temporal location marking a new reference time in a narrative (without the
+      need for any preposition) – <m>aon latha chunnaic Màiri cù ruadh anns a’ ghàradh</m>
+      <en>one day Mary saw a ginger dog in the garden</en>
+      <boxlink ref="#temporal"/></li>
+  </ol>
+
+  <box id="temporal">
+    <title><mark>aon</mark> in adverbials of temporal location</title>
+    <p>Some examples –</p>
+    <xl>
+      <li>3134</li>
+      <li>3131</li>
+      <li>3141</li>
+      <li>3128</li>
+      <li>3132</li>
+    </xl>
+    <p>These can also be components of more complex adverbials of temporal location –</p>
+    <xl>
+      <li>3133</li>
+      <li>3143</li>
+    </xl>
+  </box>
+  -->
+
+</module>

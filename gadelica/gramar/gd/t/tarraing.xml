@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">tarraing</h>
+    <h lang="gd">tarraing</h>
+    <module id="thoir_tarraing_air">
+        <h lang="en">thoir tarraing air</h>
+        <h lang="gd">thoir tarraing air</h>
+        <p lang="en">Corpus examples – <xl id="conditional">
+            <li>
+                <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios
+                    os cionn obair a’ Chomuinn. Tha e iomchuidh aig an àm gun <m>tugamaid
+                    tarraing air</m> a’ chuspair so.</gd>
+                <tr>The Highland Society is talking about choosing a new General who will
+                    oversee the Society’s work. It is pertinent at the [present] time
+                    that we [would] <u>comment upon</u> this subject.</tr>
+                <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+            </li>
+        </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+</module>
+

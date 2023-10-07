@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>motion and trajectory</h>
+    <section id="terminology">
+        <h>terminology</h>
+        <p>
+            <ul>
+                <li><m>ablative</m> – motion <emph>from</emph> an object</li>
+                <li><m>adessive</m> – location at an object</li>
+                <li><m>allative</m> – motion <emph>to</emph> an object</li>
+                <li><m>deictic centre</m> – the ‘here and now’ of the narrative or conversation (eg.
+                    the location of the speaker or narrative focaliser)</li>
+                <li><m>deictically neutral</m> – (n)either distal (n)or proximal</li>
+                <li><m>delative</m> – motion <emph>from</emph> the <emph>surface</emph> of an
+                    object</li>
+                <li><m>distal</m> – motion <emph>away from</emph> the speaker (or other deictic
+                    centre)</li>
+                <li><m>elative</m> – motion <emph>from</emph> the <emph>interior</emph> of an
+                    object</li>
+                <li><m>illative</m> – motion <emph>to</emph> the <emph>interior</emph> of an
+                    object</li>
+                <li><m>inessive</m> – location at the <emph>interior</emph> of an object</li>
+                <li><m>perlative</m> – motion <emph>via</emph> the <emph>interior</emph> of an
+                    object</li>
+                <li><m>proximal</m> – motion <emph>towards</emph> the speaker (or other deictic
+                    centre)</li>
+                <li><m>sublative</m> – motion <emph>to</emph> the <emph>surface</emph> of an
+                    object</li>
+                <li><m>superessive</m> – location at the <emph>surface</emph> of an object</li>
+            </ul>
+        </p>
+    </section>
+    <section id="vocab">
+        <h>vocabulary</h>
+        <section id="verbs">
+            <h>verbs</h>
+            <p>Motion verbs –<ul>
+                    <li><a href="?gd=rach"><g>rach</g></a>
+                        <en>go</en> (distal)</li>
+                    <li><a href="?gd=thig"><g>thig</g></a>
+                        <en>come</en> (proximal)</li>
+                </ul>
+            </p>
+            <p>Manner of motion verbs (deictically neutral) – <ul>
+                    <li><!--<a href="?gd=coisich">--><g>coisich</g><!--</a>-->
+                        <en>walk</en>, <!--<a href="?gd=leum">--><g>leum</g><!--</a>-->
+                        <en>jump</en>, <!--<a href="?gd=ruith">--><g>ruith</g><!--</a>-->
+                        <en>run</en>, <!--<a href="?gd=seòl">--><g>seòl</g><!--</a>-->
+                        <en>sail</en>, <!--<a href="?gd=snàmh">--><g>snàmh</g><!--</a>-->
+                        <en>swim</en>, ...</li>
+                </ul>
+            </p>
+        </section>
+        <section id="preps">
+            <h>prepositions</h>
+            <p>Trajectory prepositions – <ul>
+                    <li><a href="?gd=bho"><g>bho</g></a>
+                        <en>from</en> (ablative)</li>
+                    <li><a href="?gd=gu^preposition"><g>gu</g></a>
+                        <en>to</en> (allative)</li>
+                    <li><a href="?gd=a^preposition"><g>à</g></a>
+                        <en>out of, from in(side)</en> (elative)</li>
+                    <li><a href="?gd=do^preposition"><g>do</g></a> [<g>a</g>] <en>into, to
+                            within</en> (illative)</li>
+                    <li><a href="?gd=tro"><g>tro</g></a>
+                        <en>through</en> (perlative)</li>
+                    <li><a href="?gd=air"><g>air</g></a>
+                        <en>onto</en> (sublative)</li>
+                </ul>
+            </p>
+            <p>Trajectory pseudo-prepositions – <ul>
+                    <li><a href="?gd=far^preposition"><g>far</g></a>
+                        <en>off (of), from on</en> (delative)</li>
+                </ul>
+            </p>
+            <p>Locative prepositions – <ul>
+                    <li><a href="?gd=aig"><g>aig</g></a>
+                        <en>at</en> (adessive)</li>
+                    <li><a href="?gd=an^preposition"><g>an</g></a>
+                        <en>in(side), within</en> (inessive)</li>
+                    <li><a href="?gd=air"><g>air</g></a>
+                        <en>on</en> (superessive)</li>
+                </ul>
+            </p>
+        </section>
+        <section id="adverbs">
+            <h>adverbs</h>
+            <p>Trajectory adverbs – <ul>
+                    <li>(rach) <a href="?gd=a-null"><g>a-null</g></a>
+                        <en>over</en> (distal)</li>
+                    <li>(thig) <a href="?gd=a-nall"><g>a-nall</g></a>
+                        <en>over</en> (proximal)</li>
+                    <li><a href="?gd=a-steach"><g>a-steach</g></a>
+                        <en>(to) inside</en> (illative)</li>
+                    <li><a href="?gd=a-mach"><g>a-mach</g></a>
+                        <en>(to) outside</en> (elative)</li>
+                    <li>(rach) <a href="?gd=suas"><g>suas</g></a>
+                        <en>up(wards)</en> (distal)</li>
+                    <li>(rach) <a href="?gd=sìos"><g>sìos</g></a>
+                        <en>down(wards)</en> (distal)</li>
+                    <li>(thig) <a href="?gd=a-nìos"><g>a-nìos</g></a>
+                        <en>up(wards)</en> (proximal)</li>
+                    <li>(thig) <a href="?gd=a-nuas"><g>a-nuas</g></a>
+                        <en>down(wards)</en> (proximal)</li>
+                </ul>
+            </p>
+            <!--
+            <p>Locative adverbs – <ul>
+                    <li>(bi) <a href="?gd=thall"><g>thall</g></a></li>
+                    <li>(bi) <a href="?gd=a-staigh"><g>a-staigh</g></a>
+                        <en>(at) inside, within</en> (inessive)</li>
+                    <li>(bi) <a href="?gd=a-muigh"><g>a-muigh</g></a>
+                        <en>(at) outside</en> (adessive?)</li>
+                    <li>(bi) <a href="?gd=suas"><g>shuas</g></a>
+                        <en>up</en></li>
+                    <li>(bi) <a href="?gd=sìos"><g>shìos</g></a>
+                        <en>down</en></li>
+                </ul>
+            </p>
+            -->
+        </section>
+    </section>
+
+    <section>
+        <h>semantics</h>
+        <section id="social_events">
+            <h>social events</h>
+            <p>When the goal/purpose of the motion is a social event, the allative preposition <a
+                    href="?gd=gu^preposition"><g>gu</g></a> should be used (<g>chun</g> with
+                article), rather than the illative preposition <g>do</g> [<g>a</g>] – <ul>
+                    <li>Chaidh iad ... <ul>
+                            <li><m>gu banais</m>
+                                <en>to a wedding</en></li>
+                            <li><m>chun na bainnse</m>
+                                <en>to the wedding</en></li>
+                            <li><m>gu banais mo pheathar</m>
+                                <en>to my sister’s wedding</en></li>
+                            <li><bad>do bhanais</bad> / <bad>don (a’) bhanais</bad> / <bad>do
+                                    bhanais mo pheathar</bad> / <bad>gus a’ bhanais</bad></li>
+                        </ul>
+                    </li>
+                    <li>Thig i ... <ul>
+                            <li><m>gu adhlachadh</m>
+                                <en>to a funeral</en></li>
+                            <li><m>chun an adhlacaidh</m>
+                                <en>to the funeral</en></li>
+                            <li><m>gu adhlacadh mo bhràthar</m>
+                                <en>to my brother’s funeral</en></li>
+                            <li><bad>do dh’adhlacadh</bad> / <bad>don (an) adhlacadh</bad> / <bad>do
+                                    dh’adhlacadh mo bhràthar</bad> / <bad>gus an adhlacadh</bad></li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+            <p>Also – <g>cèilidh</g>
+                <en>party</en>, <g>cuirm-chiùil</g>
+                <en>concert</en>, ...</p>
+        </section>
+        <section id="boxes">
+            <h>boxes and containers – illative and elative</h>
+            <p>When the end point of the motion is the interior of a box or other container-like
+                object, the illative preposition <a href="?gd=do^preposition"><g>do</g></a>
+                    [<g>a</g>] is used (rather than allative <g>gu</g> or inessive
+                    <g>an</g>). The preposition can be reinforced using the illative adverb <a
+                    href="?gd=a-steach"><g>a-steach</g></a> – <ul>
+                    <li>Chaidh/thàinig e ... <ul>
+                            <li><m>(a-steach) do bhogsa</m>
+                                <en>in(to) a box</en></li>
+                            <li><m>(a-steach) don a’ bhogsa</m>
+                                <en>in(to) the box</en></li>
+                            <li><bad>(a-steach) gu bogsa</bad> / <bad>(a-steach) chun a’
+                                    bhogsa</bad> / <bad>(a-steach) gus a’ bhogsa</bad> /
+                                    <bad>(a-steach) ann am bogsa</bad> / <bad>(a-steach) anns a’
+                                    bhogsa</bad></li>
+                        </ul>
+                    </li>
+                    <li>Thug mi iad ... <ul>
+                            <li><m>(a-steach) do phreas</m>
+                                <en>in(to) a cupboard</en></li>
+                            <li><m>(a-steach) don a’ phreas</m>
+                                <en>in(to) the cupboard</en></li>
+                            <li><bad>(a-steach) gu preas</bad> / <bad>(a-steach) chun a’ phris</bad>
+                                / <bad>(a-steach) gus a’ phreas</bad> / <bad>(a-steach) ann am
+                                    preas</bad> / <bad>(a-steach) anns a’ phreas</bad></li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+            <p>When the starting point of the motion is the interior of a box or other container,
+                the elative preposition <a href="?gd=a^preposition"><g>à</g></a> is used (rather
+                than ablative <g>bho</g>). The preposition can be reinforced using the elative
+                adverb <a href="?gd=a-mach"><g>a-mach</g></a> – <ul>
+                    <li>Chaidh/thàinig i ... <ul>
+                            <li><m>(a-mach) à bogsa</m>
+                                <en>out (of) a box</en></li>
+                            <li><m>(a-mach) às a’ bhogsa</m>
+                                <en>out (of) the box</en></li>
+                            <li><bad>(a-mach) bho bhogsa</bad> / <bad>(a-mach) bhon a’
+                                bhogsa</bad></li>
+                        </ul>
+                    </li>
+                    <li>Thug mi iad ... <ul>
+                            <li><m>(a-mach) à preas</m>
+                                <en>out (of) a cupboard</en></li>
+                            <li><m>(a-mach) às a’ phreas</m>
+                                <en>out (of) the cupboard</en></li>
+                            <li><bad>(a-mach) bho phreas</bad> / <bad>(a-mach) bhon a’
+                                phreas</bad>.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+            <section id="buildings">
+                <h>buildings</h>
+                <p>Buildings are usually conceptualised as containers, with the default assumption
+                    that motion towards a building will end within its interior, meaning that the
+                    illative preposition <a href="?gd=do^preposition"><g>do</g></a> [<g>do</g>/<g>a</g>] is
+                    the unmarked option for translating English <en>to</en> <!--(optionally reinforced
+                    using the deictic adverbs <a href="?gd=a-null"><g>a-null</g></a> and <a
+                        href="?gd=a-nall"><g>a-nall</g></a>)--> – <ul>
+                        <li>Chaidh e <m><!--(a-null) -->don an leabharlann</m>. <en>He went to the
+                                library.</en></li>
+                        <li>Thàinig i <m><!--(a-nall) -->do na bùithean</m>. <en>She came to the
+                                shops.</en></li>
+                        <li>Thug mi iad <m><!--(a-null/a-nall) -->don an ospadal</m>. <en>I took/brought
+                                them to the hospital.</en></li>
+                    </ul>
+                </p>
+                <p>Similarly, it is assumed that motion away from a building began within its
+                    interior, meaning that the elative preposition <a href="?gd=a^preposition"
+                            ><g>à</g></a> is the unmarked option for translating English
+                        <en>from</en> – <ul>
+                        <li>Chaidh e dhachaigh <m>às an leabharlann</m>. <en>He went home from the
+                                library.</en></li>
+                        <li>Thàinig i dhachaigh <m>às na bùithean</m>. <en>She came home from the
+                                shops.</en></li>
+                        <li>Thug mi iad dhachaigh <m>às an ospadal</m>. <en>I took/brought them home
+                                from the hospital.</en></li>
+                    </ul>
+                </p>
+                <p>However, in exceptional cases where it needs to be emphasised that the interior
+                    of the building was not accessed or not accessible, the allative and ablative
+                    prepositions <a href="?gd=gu^preposition"><g>gu</g></a> [<g>chun</g>] and <a
+                        href="?gd=bho"><g>bho</g></a> may be used as marked alternatives – <ul>
+                        <li>Chaidh e <m>chun an leabharlainn</m>. <en>He went to the
+                            library.</en></li>
+                        <li>Thug mi iad dhachaigh <m>bhon an ospadal</m>. <en>I took/brought them
+                                home from the hospital.</en></li>
+                    </ul>
+                </p>
+            </section>
+            <section id="towns">
+                <h>municipalities</h>
+                <p>Municipalities are usually also conceptualised as containers, with the default
+                    assumption that motion towards a village, town or city will end within its
+                    interior, meaning that the illative preposition <a href="?gd=do^preposition"><g>do</g></a>
+                        [<g>a</g>] is the unmarked option for translating English
+                        <en>to</en> here – <ul>
+                        <li>Chaidh e <m><!--(a-null) -->do Ghlaschu</m>. <en>He went to Glasgow.</en></li>
+                        <li>Thàinig i <m><!--(a-nall) -->don a’ Ghearasdan</m>. <en>She came to Fort
+                                William.</en></li>
+                        <li>Thug mi iad <m><!--(a-null/a-nall) -->do Dhùn Èideann</m>. <en>I took/brought
+                                them to Edinburgh.</en></li>
+                    </ul>
+                </p>
+                <p>Similarly, it is assumed that motion away from a municipality began within its
+                    interior, meaning that the elative preposition <g>à</g> is the unmarked option
+                    for translating English <en>from</en> – <ul>
+                        <li>Chaidh e dhachaigh <m>à Glaschu</m>. <en>He went home from
+                            Glasgow.</en></li>
+                        <li>Thàinig i dhachaigh <m>às a’ Ghearasdan</m>. <en>She came home from Fort
+                                William.</en></li>
+                        <li>Thug mi iad dhachaigh <m>à Dùn Èideann</m>. <en>I took/brought them home
+                                from Edinburgh.</en></li>
+                    </ul>
+                </p>
+                <p>However, in exceptional cases where it needs to be emphasised that the interior
+                    of the town or city was not breached, the allative and ablative prepositions
+                        <g>gu</g> [<g>chun</g>] and <g>bho</g> maybe be used as marked alternatives
+                    – <ul>
+                        <li>Chaidh e <m>gu Glaschu</m>. <en>He went to (the outskirts of)
+                                Glasgow.</en></li>
+                        <li>Thug mi iad dhachaigh <m>bhon a’ Ghearasdan</m>. <en>I took/brought them
+                                home from (the edge of) Fort William.</en></li>
+                    </ul>
+                </p>
+            </section>
+
+        </section>
+        <section id="surfaces">
+            <h>surfaces – sublative and delative</h>
+            <p>When the end point of the motion is the (visible) surface of a object, the
+                superessive/sublative preposition <a href="?gd=air"><g>air</g></a> is used (rather
+                than allative <g>gu</g> [<g>chun</g>] or illative <g>dha</g> [<g>do</g>/<g>a</g>]).
+                The preposition can be reinforced (and the vertical direction clarified) using
+                either the distal adverbs <a href="?gd=suas"><g>suas</g></a>/<a href="?gd=sìos"
+                        ><g>sìos</g></a>/<a href="?gd=a-null"><g>a-null</g></a> or the proximal
+                adverbs <a href="?gd=a-nìos"><g>a-nìos</g></a>/<a href="?gd=a-nuas"
+                    ><g>a-nuas</g></a>/<a href="?gd=a-nall"><g>a-nall</g></a> – <ul>
+                    <li>Chaidh e – <ul>
+                            <li><m>(suas/sìos<!--/a-null-->) air bòrd</m>
+                                <en>(up/down<!--/over-->) on(to) a table</en></li>
+                            <li><m>(suas/sìos<!--/a-null-->) air a’ bhòrd</m>
+                                <en>(up/down<!--/over-->) on(to) the table</en></li>
+                            <li><bad>(suas/sìos<!--/a-null-->) gu bòrd</bad> / <bad>gus a’ bhòrd</bad> /
+                                    <bad>chun a’ bhùird</bad> / <bad>do bhòrd</bad> / <bad>don a’
+                                    bhòrd</bad>.</li>
+                        </ul>
+                    </li>
+                    <li>Thàinig i – <ul>
+                            <li><m>(a-nìos/a-nuas<!--/a-nall-->) air balla</m>
+                                <en>(up/down<!--/over-->) on(to) a wall</en></li>
+                            <li><m>(a-nìos/a-nuas<!--/a-nall-->) air a’ bhalla</m>
+                                <en>(up/down<!--/over-->) on(to) the wall</en></li>
+                            <li><bad>(a-nìos/a-nuas<!--/a-nall-->) gu balla</bad> / <bad>gus a’
+                                    bhalla</bad> / <bad>chun a’ bhalla</bad> / <bad>do bhalla</bad>
+                                / <bad>don a’ bhalla</bad>.</li>
+                        </ul>
+                    </li>
+                    <li>Chuir mi iad – <ul>
+                            <li><m>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) air sgeilp</m>.
+                                    <en>(up/down<!--/over-->) on(to) a shelf</en></li>
+                            <li><m>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) air an sgeilp</m>.
+                                    <en>(up/down<!--/over-->) on(to) the shelf</en></li>
+                            <li><bad>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) gu sgeilp</bad> /
+                                    <bad>chun na sgeilpe</bad> / <bad>gus an sgeilp</bad> / <bad>do
+                                    sgeilp</bad> / <bad>don an sgeilp</bad>.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+            <p>When the starting point of the motion is the (visible) surface of a object, the
+                delative pseudo-preposition <a href="?gd=far^preposition"><g>far</g></a> is used
+                (rather than ablative <g>bho</g> or elative <g>à</g>). Again, the preposition can be
+                reinforced (and the vertical direction clarified) using either the distal adverbs <a
+                    href="?gd=suas"><g>suas</g></a>/<a href="?gd=sìos"><g>sìos</g></a>/<a
+                    href="?gd=a-null"><g>a-null</g></a> or the proximal adverbs <a href="?gd=a-nìos"
+                        ><g>a-nìos</g></a>/<a href="?gd=a-nuas"><g>a-nuas</g></a>/<a
+                    href="?gd=a-nall"><g>a-nall</g></a> – <ul>
+                    <li>Chaidh e – <ul>
+                            <li><m>(suas/sìos<!--/a-null-->) far bùird</m>
+                                <en>(up/down<!--/over-->) off (of) a table, from on a table</en></li>
+                            <li><m>(suas/sìos<!--/a-null-->) far a’ bhùird</m>
+                                <en>(up/down<!--/over-->) off (of) the table, from on the table</en></li>
+                            <li><bad>(suas/sìos<!--/a-null-->) bho bhòrd</bad> / <bad>bhon a’ bhòrd</bad> /
+                                    <bad>à bòrd</bad> / <bad>às a’ bhòrd</bad></li>
+                        </ul>
+                    </li>
+                    <li>Thàinig i – <ul>
+                            <li><m>(a-nìos/a-nuas<!--/a-nall-->) far balla</m>
+                                <en>(up/down<!--/over-->) off (of) a wall, from on a wall</en></li>
+                            <li><m>(a-nìos/a-nuas<!--/a-nall-->) far a’ bhalla</m>
+                                <en>(up/down<!--/over-->) off (of) the wall, from on the wall</en></li>
+                            <li><bad>(a-nìos/a-nuas<!--/a-nall-->) bho bhalla</bad> / <bad>bhon a’
+                                    bhalla</bad> / <bad>à balla</bad> / <bad>às a’ bhalla</bad></li>
+                        </ul>
+                    </li>
+                    <li>Thug mi iad – <ul>
+                            <li><m>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) far sgeilp</m>
+                                <en>(up/down<!--/over-->) off (of) a shelf, from on a shelf</en></li>
+                            <li><m>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) far na sgeilpe</m>.
+                                    <en>(up/down<!--/over-->) off (of) the shelf, from on the
+                                shelf</en></li>
+                            <li><bad>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) bho sgeilp</bad> /
+                                    <bad>bhon a’ sgeilp</bad> / <bad>à sgeilp</bad> / <bad>às an
+                                    sgeilp</bad>.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+
+    </section>
+
+</module>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>Iain</h>
+    <p><g>Iain</g>
+        <en>John</en> is a masculine <a href="?xx=nouns/anthroponymic_proper_nouns">anthroponymic
+            proper noun</a>.</p>
+
+    <section>
+        <h>uses</h>
+
+        <section>
+            <h>subject</h>
+            <p>Older pedagogical examples – <xl id="sbj-older-pedag">
+                    <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                            Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an
+                            litir seo, Iain?” “Théid,” <m>ars Iain</m>, “falbhaidh mi an dràsda”.
+                            “Fuirich gus an dùin mi i is gus an cuir mi seòladh oirre. Ceannaich
+                            fhéin stamp agus cuir oirre i.” <m>Tha Iain</m> a’ ruith sìos an rathad
+                            leis an litir ’na làimh. Théid e a steach do oifig a’ phuist,
+                            ceannaichidh e stamp is cuiridh e sud air an litir. Tilgidh e an litir
+                            ann am bocsa nan litrichean. </gd>
+                        <tr>My mother is writing a letter to my father who is away. My mother said,
+                            “Will you go to the postbox with this letter, John?” “Yes, I will,” said
+                            John, “I will leave now.” “Wait until I seal it and put an address on
+                            it. Buy a stamp and put it on it.” John is running down the road with
+                            the letter in his hand. He will go into the post office, he will buy a
+                            stamp and put that on the letter. He will toss the letter into the
+                            postbox.</tr>
+                        <ref text="621">td. 5–6</ref>
+                    </li>
+
+                </xl>
+            </p>
+        </section>
+
+        <section>
+            <h>object</h>
+            <p>Older pedagogical examples – <xl id="obj-older-pedag">
+                <li>
+                    <gd>Bha an latha brèagha blàth is <m>thug</m> an athair leis <m>Iain</m>
+                        agus Anna anns a’ chàr.</gd>
+                    <tr>The day was lovely and warm and their father took John and Ann
+                        in the car.</tr>
+                    <ref text="621">td. 6</ref>
+                    <note>part of conjoined object</note>
+                </li>
+            </xl>
+            </p>
+        </section>
+
+        <section>
+            <h>vocative</h>
+            <p>Older pedagogical examples – <xl id="voc-older-pedag">
+                    <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                            Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an
+                            litir seo, <m>Iain</m>?” [...]</gd>
+                        <tr>My mother is writing a letter to my father who is away. My mother said,
+                            “Will you go to the postbox with this letter, John?” [...]</tr>
+                        <ref text="621">td. 5</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+</module>

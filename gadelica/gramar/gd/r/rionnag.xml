@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>rionnag</h>
+    <p><g>rionnag</g>
+        <en>star</en> is a feminine derived common noun, with diminutive suffix <a href="?gd=_ag"
+                ><g>-ag</g></a>.</p>
+    <section>
+        <h>forms</h>
+        <p>The principal parts of <g>rionnag</g> are – <ul>
+                <li><m>rionnag</m> – nominative singular</li>
+                <li><m>rionnaige</m> – genitive singular</li>
+                <li><m>rionnagan</m> – plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>rionnag</m></li>
+                                    <li>dative – (le) <m>rionnaig</m></li>
+                                    <li>genitive – (leabhar) <m>rionnaige</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>rionnagan</m></li>
+                                    <li>dative – (le) <m>rionnagan</m></li>
+                                    <li>genitive – (leabhar) <m>rionnagan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an rionnag</m></li>
+                                    <li>dative – (leis) <m>an rionnaig</m></li>
+                                    <li>genitive – (leabhar) <m>na rionnaige</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na rionnagan</m></li>
+                                    <li>dative – (leis) <m>na rionnagan</m></li>
+                                    <li>genitive – (leabhar) <m>nan rionnagan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>rionnag</m></li>
+                                    <li>dative – (le) <m>rionnaig</m></li>
+                                    <li>genitive – (leabhar) <m>rionnaige</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an rionnag</m></li>
+                                    <li>dative – (leis) <m>an rionnaig</m></li>
+                                    <li>genitive – (leabhar) <m>na rionnaige</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>rionnagan</m></li>
+                                    <li>dative – (le) <m>rionnagan</m></li>
+                                    <li>genitive – (leabhar) <m>rionnagan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na rionnagan</m></li>
+                                    <li>dative – (leis) <m>na rionnagan</m></li>
+                                    <li>genitive – (leabhar) <m>nan rionnagan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>rionnag</m></li>
+                                    <li>plural – <m>rionnagan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an rionnag</m></li>
+                                    <li>plural – <m>na rionnagan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (le) <m>rionnaig</m></li>
+                                    <li>plural – (le) <m>rionnagan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (leis) <m>an rionnaig</m></li>
+                                    <li>plural – (leis) <m>na rionnagan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (leabhar) <m>rionnaige</m></li>
+                                    <li>plural – (leabhar) <m>rionnagan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (leabhar) <m>na rionnaige</m></li>
+                                    <li>plural – (leabhar) <m>nan rionnagan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+    <section>
+        <h>dependents</h>
+        <section id="deps-spr">
+            <h>specifier</h>
+            <module status="bronze" id="deps-spr-earball">
+                <h>rionnag an earbaill</h>
+                <p><g>rionnag an <a href="?gd=earball">earbaill</a></g>
+                    <en>shooting star</en>, cf. Mark td. 487.</p>
+            </module>
+        </section>
+        <section id="mods">
+            <h>modifiers</h>
+            <p>Idiom – <g>Chan eil fhios a(ga)m bho na rionnagan ruadha.</g> <en>I haven’t the faintest idea.</en> cf. Angus Watson (2001: 309)</p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-spr">
+            <h>specifier</h>
+            <module status="bronze" id="uses-spr-lan">
+                <h>làn rionnagan</h>
+                <p><g><a href="?gd=làn">làn</a> rionnagan</g>
+                    <en>starry</en>, cf. Mark td. 487.</p>
+            </module>
+        </section>
+        <section id="uses-comp">
+            <h>complement</h>
+            <p>Idiom – <g>Chan eil fhios a(ga)m bho na rionnagan ruadha.</g> <en>I haven’t the faintest idea.</en> cf. Angus Watson (2001: 309)</p>
+        </section>
+        <section id="uses-deriv">
+            <h>derivatives</h>
+            <module status="bronze" id="uses-deriv-rionnagach">
+                <h>rionnagach</h>
+                <p><g>rionnagach</g>
+                    <en>starry</en> is a derived adjective, with suffix <a href="?gd=_ach"
+                            ><g>-ach</g></a>.</p>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>modifier</h>
+                        <module status="bronze" id="uses-deriv-rionnagach-uses-mod-oidhche">
+                            <h>oidhche rionnagach</h>
+                            <p><g>air <a href="?gd=oidhche">oidhche</a> rionnagach</g>
+                                <en>on a starry night</en>, cf. Mark td. 487.</p>
+                        </module>
+                    </section>
+                </section>
+            </module>
+        </section>
+    </section>
+
+
+    <!--
+    <section>
+        <h>examples</h>
+        <p>Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>[...] ’S bha iad ’nan suidhe an sin ag òl uisge-beatha fad na h-oidhch’, na
+                    ceathrar aca. An dràsda ’s a rithist shealladh Iain a-mach air an uinneig
+                    ris a’ mhuir ’s na h-eileanan. Chitheadh e aig amannan <m>na rionnagan</m>
+                    a’ gabhail seachad, ’s chluinneadh e an cuid sgriachail. Le an amhaichean
+                    fada caola ’s an cuirp geala biorach mar chlachan bha iad a’ cur gràin’ air.
+                    Theab e an glacadh ’s an lìonadh le uisgebeatha, na biasdan nach gabhadh
+                    sàsachadh, na clachan aosd ud, na sgòrnanan ud làn gaoith is sgadain.
+                    Chaidil e airson greiseag ’s nuair a dhùisg e anns a’ mhadainn bha a bheul
+                    salach le blas an uisge-bheatha. Choisich e mach ás a’ bhàta <m>a-measg nam
+                        rionnagan</m>, ga[n] sguabadh air falbh le a làmhan, agus lean e air
+                    suas an aon rathad a bh’ ann gus an ruigeadh e an tigh. [...]</gd>
+                <tr>[...] And they were sat there drinking whisky all night, the four of them.
+                    Now and again John would look out the window at the sea and the islands. He
+                    could see at times the gulls going past, and he could hear their screeching.
+                    With their long thin necks and their pointed white bodies like stones they
+                    disgusted him. He almost [??] caught them and filled them with whisky, the
+                    beasts that cannot be satiated, those ancient stones, those throats full of
+                    wind and herring. He slept for a bit and when he woke up in the morning his
+                    mouth was dirty with the taste of the whisky. He walked out of the boat
+                    among the gulls, brushing them away with his hands, and he continued up the
+                    only road that there was until he reached the house. [...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+        </xl>
+        </p>
+    </section>
+    -->
+
+
+
+</module>

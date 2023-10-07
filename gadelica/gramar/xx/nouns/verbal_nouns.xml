@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>verbal nouns</h>
+  <p>Verbal nouns are a subclass of deverbal nouns ie. derived common nouns which are derived from
+    verbs. For example – <ul>
+      <li>The (masculine) verbal noun <m>sgrìobhadh</m>
+        <en>writing</en> is derived from the verb <g>sgrìobh</g>
+        <en>write</en>.</li>
+      <li>The (feminine) verbal noun <m>cluinntinn</m>
+        <en>hearing</en> is derived from the verb <g>cluinn</g>
+        <en>hear</en>.</li>
+      <li>The (feminine) verbal noun <m>seinn</m>
+        <en>singing</en> is derived from the verb <g>seinn</g>
+        <en>sing</en>.</li>
+    </ul>
+  </p>
+  <p>The default way of deriving a (masculine) verbal noun from a verb involves
+      <emph>deslenderising</emph> (where possible) the verbal root and adding the suffix <g>-adh</g>
+    eg. <ul>
+      <li><g>coinnich</g>
+        <en>meet</en> → <m>coinneachadh</m>
+        <en>meeting</en></li>
+      <li><g>sgrìobh</g>
+        <en>write</en> → <m>sgrìobhadh</m>
+        <en>writing</en></li>
+      <li><g>biadhaich</g>
+        <en>feed</en> → <m>biadhachadh</m>
+        <en>feeding</en></li>
+    </ul>
+  </p>
+  <p>The plural of a regular verbal noun in <g>-adh</g> ends in <g>-aidhean</g> eg.
+      <m>sgrìobhaidhean</m>
+    <en>writings</en>.</p>
+  <p>However, there is a very large number of idiosyncratic verbal nouns, even for otherwise regular
+    verbs. <!--A comprehensive list is available <a href="?xx=verbs/simple_verbs">here</a>. --></p>
+  <p>Verbal nouns have the following main uses – <ul>
+      <li>As the complement of the progressive particle <a href="?gd=ag"><g>ag</g></a> eg. <m>tha mi
+          a’ biadhachadh nan con</m>
+        <en>I am feeding the dogs</en>.</li>
+      <li>As the complement of the preposition <a href="?gd=do^preposition"><g>do</g></a> when used to express
+        intention eg. <m>thàinig mi do bhiadhachadh nan con</m>
+        <en>I came to feed the dogs</en></li>
+    </ul>
+  </p>
+  <p>Verbal nouns are also used in <a href="?xx=verbs/infinitivals">infinitivals</a>, though the syntax of objects is somewhat different.</p>
+  <section id="objects">
+    <h>objects</h>
+    <p>When a verbal noun is formed from a transitive verb, a <emph>noun object</emph> of the verb
+      is expressed as a <emph>genitive post-specifier</emph> of the verbal noun eg. <ul>
+        <li><g>sgrìobh an leabhar</g>
+          <en>write the book</en> → <m>sgrìobadh an leabhair</m>
+          <en>writing the book</en></li>
+        <li><g>leugh an litir</g>
+          <en>read the letter</en> → <m>leughadh na litreach</m>
+          <en>reading the letter</en></li>
+        <li><g>ith na h-ùbhlan</g>
+          <en>eat the apples</en> → <m>ithe nan ùbhlan</m>
+          <en>eating the apples</en></li>
+        <li><g>faic bean a’ mhinisteir</g>
+          <en>see the minister’s wife</en> → <m>faicinn bean a’ mhinisteir</m>
+          <en>seeing the minister’s wife</en></li>
+        <li><g>biadhaich coin</g>
+          <en>feed dogs</en> → <m>biadhachadh chon</m>
+          <en>feeding dogs</en></li>
+      </ul>
+    </p>
+    <p>As with other <a href="?xx=nouns/common_nouns">common nouns</a>, this object-cum-specifier is
+      usually in the <emph>genitive</emph> case (unless it has a post-specifier itself).</p>
+    <p>In traditional Gaelic, this was also true for non-specified singular nouns eg. <ul>
+        <li><g>sgrìobh leabhar</g>
+          <en>write a book</en> → <m>sgrìobhadh leabhair</m>
+          <en>writing a book</en></li>
+        <li><g>leugh litir</g>
+          <en>read a letter</en> → <m>leughadh litreach</m>
+          <en>reading a letter</en></li>
+        <li><g>biadhaich cù</g>
+          <en>feed a dog</en> → <m>biadhachadh coin</m>
+          <en>feeding a dog</en></li>
+      </ul>
+    </p>
+    <p>However, this latter usage is nowadays perceived to be <emph>archaic</emph>, with
+        <emph>nominative</emph> case preferred for non-specified singular objects-cum-specifiers – <ul>
+        <li><m>sgrìobhadh leabhar</m></li>
+        <li><m>leughadh litir</m></li>
+        <li><m>biadhachadh cù</m></li>
+      </ul>
+    </p>
+    <p>Notes – <ol>
+        <li>in contemporary vernacular Gaelic, use of the nominative with plural and specified noun
+          objects is increasingly common eg. <m>leughadh an litir</m>
+          <en>reading the letter</en>, <m>ithe na h-ùbhlan</m>
+          <en>eating the apples</en>, <m>biadhachadh coin</m>
+          <en>feeding dogs</en>.</li>
+        <li>External sources – <ax href="https://www.gramar-g.scot/pdfs/section-1.pdf"
+          >gràmar-g</ax></li>
+      </ol>
+    </p>
+  </section>
+
+  <section id="prons">
+    <h>personal pronoun objects</h>
+    <p>When the object is a personal pronoun, it is expressed as a <emph>personal determiner</emph>
+      (‘possessive adjective’) specifying the verbal noun eg. <m>mo fhaicinn</m>
+      <en>seeing me</en>, <m>an leughadh</m>
+      <en>reading them</en>. </p>
+    <p>When a verbal noun is formed from a transitive verb, a <emph>pronoun object</emph> of the
+      verb is expressed as a <emph>personal determiner pre-specifier</emph> (‘possessive adjective’)
+      of the verbal noun eg. <ul>
+        <li><g>faic mi</g>
+          <en>see me</en> → <m>mo fhaicinn</m>
+          <en>seeing me, lit. my seeing</en></li>
+        <li><g>biadhaich sibh</g>
+          <en>feed you</en> → <m>(bh)ur biadhachadh</m>
+          <en>feeding you, lit. your feeding</en></li>
+        <li><g>leugh iad</g>
+          <en>read them</en> → <m>an leughadh</m>
+          <en>reading them, lit. their reading</en></li>
+      </ul>
+    </p>
+    <p>Emphatic pronoun objects are expressed using <emph>emphatic personal determiners</emph> – <ul>
+        <li><g>faic mise</g>
+          <en>see <emph>me</emph></en> → <m>mo fhaicinn-sa</m>
+          <en>seeing <emph>me</emph>, lit. <emph>my</emph> seeing</en></li>
+        <li><g>biadhaich sibhse</g>
+          <en>feed <emph>you</emph></en> → <m>(bh)ur biadhachadh-se</m>
+          <en>feeding <emph>you</emph>, lit. <emph>your</emph> feeding</en></li>
+        <li><g>leugh iadsan</g>
+          <en>read <emph>them</emph></en> → <m>an leughadh-san</m>
+          <en>reading <emph>them</emph>, lit. <emph>their</emph> reading</en></li>
+      </ul>
+    </p>
+    <p>Reflexive pronoun objects can be emphasised using <g>fhèin</g>
+      <en>self</en> as follows – <ul>
+        <li><g>faic mi fhìn</g>
+          <en>see myself</en> → <m>mo fhaicinn fhìn</m>
+          <en>seeing myself</en></li>
+        <li><g>biadhaich sibh fhèin</g>
+          <en>feed you</en> → <m>(bh)ur biadhachadh fhèin</m>
+          <en>feeding yourself</en></li>
+      </ul>
+    </p>
+    <p>It is important to note that usages like <bad>faicinn mi</bad> or <bad>leughadh iadsan</bad>
+      or <bad>biadhachadh sibh fhèin</bad> are <emph>ungrammatical</emph> in Gaelic.</p>
+    <p>However, demonstrative pronouns do follow the verbal noun (with no need for a definite
+      article) eg. <ul>
+        <li><g>faic seo</g>
+          <en>see this</en> → <m>faicinn seo</m>
+          <en>seeing this</en></li>
+        <li><g>leugh sin</g>
+          <en>read that</en> → <m>leughadh seo</m>
+          <en>reading that</en></li>
+      </ul>
+    </p>
+    <p>Notes – <ol>
+        <li>External sources – <ax href="https://www.gramar-g.scot/pdfs/section-11.pdf"
+            >gràmar-g</ax></li>
+      </ol>
+    </p>
+  </section>
+
+</module>

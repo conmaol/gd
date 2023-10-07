@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>aba</h>
+    <p><b>aba</b>
+        <en>abbot</en> is a masculine <a href="?xx=nouns/occupational_common_nouns">occupational</a>
+        <a href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
+    <section>
+        <h>forms</h>
+        <p>The principal parts of <g>aba</g> are – <ul>
+                <li><m>aba</m> – nominative/dative/genitive singular</li>
+                <li><m>abachan</m> – plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>aba</m></li>
+                                    <li>dative – (le) <m>aba</m></li>
+                                    <li>genitive – (leabhar) <m>aba</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>abachan</m></li>
+                                    <li>dative – (le) <m>abachan</m></li>
+                                    <li>genitive – (leabhraichean) <m>abachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an t-aba</m></li>
+                                    <li>dative – (leis) <m>an aba</m></li>
+                                    <li>genitive – (leabhar) <m>an aba</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na h-abachan</m></li>
+                                    <li>dative – (leis) <m>na h-abachan</m></li>
+                                    <li>genitive – (leabhraichean) <m>nan abachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>aba</m></li>
+                                    <li>dative – (le) <m>aba</m></li>
+                                    <li>genitive – (leabhar) <m>aba</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an t-aba</m></li>
+                                    <li>dative – (leis) <m>an aba</m></li>
+                                    <li>genitive – (leabhar) <m>an aba</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>abachan</m></li>
+                                    <li>dative – (le) <m>abachan</m></li>
+                                    <li>genitive – (leabhraichean) <m>abachan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na h-abachan</m></li>
+                                    <li>dative – (leis) <m>na h-abachan</m></li>
+                                    <li>genitive – (leabhraichean) <m>nan abachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>aba</m></li>
+                                    <li>plural – <m>abachan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an t-aba</m></li>
+                                    <li>plural – <m>na h-abachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (le) <m>aba</m></li>
+                                    <li>plural – (le) <m>abachan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (leis) <m>an aba</m></li>
+                                    <li>plural – (leis) <m>na h-abachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (leabhar) <m>aba</m></li>
+                                    <li>plural – (leabhraichean) <m>abachan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (leabhar) <m>an aba</m></li>
+                                    <li>plural – (leabhraichean) <m>nan abachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>stem</h>
+            <section>
+                <h>prefixed</h>
+                <p>Compounds – <ul>
+                        <li><g><a href="?gd=bean^noun">ban</a>-aba</g>
+                            <fem/>
+                            <en>abbess</en> pl. <g>ban-abachan</g>.</li>
+                    </ul>
+                </p>
+            </section>
+            <section>
+                <h>suffixed</h>
+                <p>Derivatives – <ul>
+                        <li><a href="?gd=abaid"><g>abaid</g></a>
+                            <fem/>
+                            <en>abbey</en></li>
+                    </ul>
+                </p>
+            </section>
+        </section>
+    </section>
+
+    <section id="etymology">
+        <h>etymology</h>
+        <p>[to come]</p>
+    </section>
+
+</module>

@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>a – relative particle</h>
+    <p>cf. other uses of the particle <a href="?gd=a">a</a>.</p>
+    <module id="subject">
+        <h lang="en">subject extracting</h>
+        <h lang="gd">...</h>
+        <p lang="en">Examples from Gairm – <xl id="subject-gairm">
+                <li>
+                    <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios
+                        os cionn obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach
+                        ag ath-nuadhachadh dreach a’ Chomuinn. [...] Ach dh’ fheumadh am
+                        Fear-stiùiridh ùr barrachd air a sin a dhèanamh. Dh’ fheumadh e siubhal a
+                        dhèanamh eadar Rubha Robhanais agus Ceann Bharraidh, eadar am Parbh is Maol
+                        Chinn-tìre, agus cha deanadh math dha dìochuimhneachadh gu robh obair a’
+                        Chomuinn a’ buntainn ri Coimisean nan Croitearan an Inbhirnis, ri Roinn an
+                        Fhoghluim an Dùn-Eideann, agus ri Tigh nan Cumantan an Lunnainn. <m>An duine
+                            a theid do gach àite dhiubh sin, agus a bheir barrachd air còmhradh leis
+                            dhachaidh</m>, nì e feum do ’n Chomunn is do ’n Ghàidhlig. [...]</gd>
+                    <tr>The Highland Society is talking about choosing a new General who will
+                        oversee the Society’s work. [...] He would have enough to do initially
+                        reforming the Society. [...] But the new leader would have to do more than
+                        (just) that. He would have to travel between the Butt of Lewis and Barra
+                        Head, between Cape Wrath and the Mull of Kintyre, and he should not forget
+                        that the Society’s work is related to the Crofters’ Commission in Inverness,
+                        to the Education Department in Edinburgh, and to the House of Commons in
+                        London. The person who goes to each of those places, and who brings home
+                        more than (just) conversation, will benefit the Society and the Gaelic
+                        language. [...]</tr>
+                    <ref text="400-46">td. 105, ‘Air An Spiris’</ref>
+                    <note>conjunction, human</note>
+                </li>
+                <li>
+                    <gd>[...] Bha Mairead ’na suidhe ann an cathair ris an teine is plaide timcheall
+                        air a glùinean. Bha Màiri a’ deanamh na dìnneir. Dh’ innis e dhaibh gur esan
+                            <m>an duine a sgrìobh thuca</m>, a dh’ fhaighneachd am b’ urrainn dha a
+                        thighinn. [...]</gd>
+                    <tr>[...] Margaret was sat in a chair by the fire with a blanket around her
+                        knees. Mary was making the dinner. He told them that he was the man who had
+                        written to them, asking if he could come. [...]</tr>
+                    <ref text="400-46">td. 169–70, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+                <li>
+                    <gd>Bha feallsanach mar Hegel a’ togail <m>riaghailtean móra a dheanadh an
+                            saoghal air a thaobh a-muigh fhéin soilleir</m>, ach cha b’ ann mar sin
+                        a bha Kierkegaard.</gd>
+                    <tr>A philosopher like Hegel constructed grand rules which made the external
+                        world itself clear but K. was not like that.</tr>
+                    <ref text="400-41">td. 103</ref>
+                </li>
+            </xl>
+        </p>
+        <p>Other examples from modern usage – <xl id="other">
+                <li>
+                    <gd>Bha <m>a h-uile duine a dh’aithnicheadh e</m> a’ smaoineachadh gu robh
+                        beatha shòlasach aig Ailig Smart. [...]</gd>
+                    <tr>Everybody who got to know him thought that Alec Smart had a good life.
+                        [...]</tr>
+                    <ref text="2">td. 103</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">Biblical examples – <xl id="subject-bible">
+                <li>
+                    <gd>A Nis is iad so ainmeanna <m>chloinn Israeil, a thàinig do’n Eiphit</m>;
+                        thàinig gach duine agus a theaghlach maille re Iacob: Reuben, Simeon, Lebhi,
+                        agus Iudah, Isachar, Sebulun, agus Beniamin, Dan, agus Naphtali, Gad, agus
+                        Aser. Agus <m>na h-anman uile a thàinig a mach a leasraidh Iacoib</m>, bu
+                        deich agus tri fichead anam iad; oir bha Ioseph ’san Eiphit a cheana.
+                        [...]</gd>
+                    <tr>Now these are the names of the children of Israel, which came into Egypt;
+                        every man and his household came with Jacob. Reuben, Simeon, Levi, and
+                        Judah, Issachar, Zebulun, and Benjamin, Dan, and Naphtali, Gad, and Asher.
+                        And all the souls that came out of the loins of Jacob were seventy souls:
+                        for Joseph was in Egypt already. [...] [KJV]</tr>
+                    <ref text="160">Ecsodus I.1–5</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+    <module id="object">
+        <h lang="en">object extracting</h>
+        <h lang="gd">...</h>
+        <p lang="en">Examples from Gairm – <xl id="object-gairm">
+                <li>
+                    <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha fhios gun
+                        dig iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C. Dh’ fhàg Eóghan
+                        Mac-a- phì a sheula fhéin air an an sin, agus air a’ Bh.B.C. an Albainn gu
+                        h-iomlan, agus air dha a nis a dhreuchd a leigeil dheth, dh’ iarramaid taing
+                        a thoirt dha airson <m>gach seirbhis a thug e do ar cànain</m>, is
+                        ghuidheamaid dhà saorsainn is toileachas ’na shaorsa, agus obair ás ùr anns
+                            <m>na raointean a thaghas e</m>. [...]</gd>
+                    <tr>During the seasons and the years that are ahead of us, it is known that many
+                        changes will come to the Gaelic Department of the BBC. Ewan MacPhee has left
+                        his own stamp on that Department, and on the BBC in Scotland as a whole, and
+                        after him now giving up his job, we would ask for thanks to be given him for
+                        all the service he has given to our language, and wish him liberty and
+                        pleasure in his freedom, and new work in the areas that he will choose.
+                        [...]</tr>
+                    <ref text="400-48">td. 297, ‘Air An Spiris’</ref>
+                    <note>abstract</note>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <module id="passive">
+            <h lang="en">passive</h>
+            <h lang="gd">...</h>
+            <p lang="en">Biblical examples – <xl id="passive-bible">
+                    <li>
+                        <gd>[...] A nis dh’éirich righ ùr air an Eiphit, do nach b’aithne Ioseph.
+                            [......] Agus thug Pharaoh àithne d’a shluagh uile, ag ràdh, <m>Gach mac
+                                a bheirear</m> tilgidh sibh ’san abhainn, agus gach nighean
+                            gleidhidh sibh beo.</gd>
+                        <tr>[...] Now there arose up a new king over Egypt, which knew not Joseph.
+                            [......] And Pharaoh charged all his people, saying, Every son that is
+                            born ye shall cast into the river, and every daughter ye shall save
+                            alive. [KJV]</tr>
+                        <ref text="160">Ecsodus I.8–22</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+        <module id="object-long-distance">
+            <h lang="en">long distance</h>
+            <h lang="gd">...</h>
+            <p lang="en">Examples from Gairm – <xl id="object-long-distance-gairm">
+                    <li>
+                        <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n
+                            Ghàidhlig no do fhoghlum agus do litreachas na Gàidhlig. [...] Dé na
+                            rudan a dh’ fhaodadh sinn iarraidh? Tuilleadh de luchd-teagaisg ’s de
+                            luchd-ceasnachaidh Gàidhlig. Airgead gu leabhraichean uallachadh is a
+                            chlo-bhualadh. Barrachd tìde air an réidio agus air telebhisean. [...]
+                            Chan eil an sin ach <m>rud no dhà a dh’ fhaodamaid iarraidh</m>.
+                            [...]</gd>
+                        <tr>[...] The Parliament has given very little assistance ever to the Gaelic
+                            language or to Gaelic education and literature. [...] What are the
+                            things that we could demand? More Gaelic teachers and inspectors. Money
+                            to prepare and print books. More time on the radio and on television.
+                            [...] Those are just a couple of things that we could demand. [...]</tr>
+                        <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+        </module>
+
+    </module>
+    <module id="bi">
+        <h lang="en">a tha/bhios/bha/bhiodh</h>
+        <h lang="gd">a tha/bhios/bha/bhiodh</h>
+        
+        <p>Older pedagogical examples – <xl id="bi-older-pedag">
+            <li>
+                <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu <m>m’athair a tha air
+                    falbh</m>.</gd>
+                <tr>My mother is writing a letter to my father who is away.</tr>
+                <ref text="621">td. 5</ref>
+            </li>
+        </xl>
+        </p>
+        
+        <p lang="en">Examples from Gairm – <xl id="bi-gairm">
+                <li>
+                    <gd>Tha An Comunn Gaidhealach a’ bruidhinn air <m>Seanaileir ùr a thaghadh a
+                            bhios os cionn obair a’ Chomuinn</m>. Tha e iomchuidh aig an àm gun
+                        tugamaid tarraing air a’ chuspair so. [...]</gd>
+                    <tr>The Highland Society is talking about choosing a new General who will
+                        oversee the Society’s work. It is pertinent at the [present] time that we
+                        [would] comment upon this subject. [...]</tr>
+                    <ref text="400-46">td. 105, ‘Air An Spiris’</ref>
+                    <note>human, non-restrictive</note>
+                </li>
+                <li>
+                    <gd>’S bha iad ’nan suidhe an sin ag òl uisge-beatha fad na h-oidhch’, na
+                        ceathrar aca. An dràsda ’s a rithist shealladh Iain a-mach air an uinneig
+                        ris a’ mhuir ’s na h-eileanan. [...] Chaidil e airson greiseag ’s nuair a
+                        dhùisg e anns a’ mhadainn bha a bheul salach le blas an uisge-bheatha.
+                        Choisich e mach ás a’ bhàta a-measg nam faoileagan, ga[n] sguabadh air falbh
+                        le a làmhan, agus lean e air suas <m>an aon rathad a bh’ ann</m> gus an
+                        ruigeadh e an tigh. [...]</gd>
+                    <tr>And they were sat there drinking whisky all night, the four of them. Now and
+                        again John would look out the window at the sea and the islands. [...] He
+                        slept for a bit and when he woke up in the morning his mouth was dirty with
+                        the taste of the whisky. He walked out of the boat among the gulls, brushing
+                        them away with his hands, and he continued up the only road that there was
+                        until he reached the house. [...]</tr>
+                    <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                    <note>masculine</note>
+                </li>
+                <li>
+                    <gd>Anns <m>na ràithean ’s na bliadhnachan a tha air thoiseach oirnn</m>, tha
+                        fhios gun dig iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C. [...]
+                        Mar a bhios obair a’ Bh.B.C. a’ leudachadh anns a’ Ghaidhealtachd—agus tha
+                        fhios gun tachair so leis na stéiseanan ùra a thathas a’ togail—bithidh sùil
+                        againn ri daoine ùra ’s ri dòighean ùra. [...] Bhitheadh e iomchuidh gun
+                        deigheadh uairean a chur air leth airson luchd-Gàidhlig sna sgoiltean—chan
+                        ann a chùm cànan a theagasg dhaibh, ach a chùm eòlas a thoirt dhaibh air
+                        eachdraidh, air ceòl, air cruth is air caitheamh-beatha an t-saoghail mhóir,
+                        air <m>cuspair sam bith a tha iomchuidh agus feumail do chloinn
+                        sgoile</m>—tre Ghàidhlig. A thaobh ciùil, nach bu chòir do ’n Bh.B. C. a
+                        bhith ceum air thoiseach air càch, a’ deilbh dhòighean is chruthan ùra, gun
+                        dearmad a dhèanamh air <m>na rudan luachmhor a tha nar dìleab</m>? Tha aca
+                        ri sùil a chumail air an aois ’s air an òigridh, agus chan eil sinn gun
+                        dòchas gun tarraing iad air ais bho shloc nan daolagan pàirt de òigridh na
+                        Gàidhlig, agus gu seall iad dhaibh nach do chaill ceòl nan Gaidheal <m>a’
+                            bhuaidh a bha aige air ar sluagh fad cheudan bliadhna</m>. Bithidh
+                        cuideachadh a dhìth air luchd a’ Bh.B.C., agus ’se an cuideachadh a b’
+                        fheàrr a b’ urrainn dhuinn a thoirt dhaibh ar n-ùidh a nochdadh, le bhith a’
+                        sgrìobhadh thuca, gam moladh is gan càineadh, ag iarraidh tuilleadh tìde do
+                        ’n Ghàidhlig, is a’ sealltainn dhaibh gu bheil sinn a’ dèanamh feum de <m>’n
+                            tìde a th’ againn</m>.</gd>
+                    <tr>During the seasons and the years that are ahead of us, it is known that many
+                        changes will come to the Gaelic Department of the BBC. [...] As the work of
+                        the BBC will be expanding in the Highlands – and it is known that this will
+                        happen with the new stations that are being established – we will be
+                        expecting new people and new methods. [...] It would be appropriate that
+                        times would be set aside for Gaelic speakers in the schools – not to teach
+                        them language, but to pass on knowledge to them on history, on music, on the
+                        form and the lifestyle of the world at large, on any subject that is
+                        suitable and useful to schoolchildren – through Gaelic. On the subject of
+                        music, shouldn’t the BBC be a step ahead of the rest, producing new methods
+                        and forms, without neglecting the valuable things that are in our
+                        inheritance? They have to keep an eye on old age and on the youth, and we
+                        are not without hope that they will pull back part of Gaelic-speaking youth
+                        from the pit of beetles, and that they will show them that the Gael’s music
+                        has not lost the effect that ithas had on our people for hundreds of years.
+                        The BBC people will need help, and the best help that we can give them is to
+                        show them our interest, by writing to them, praising them and criticising
+                        them, demanding more time for Gaelic, and showing them that we are making
+                        use of the time that we have.</tr>
+                    <ref text="400-48">td. 297, ‘Air An Spiris’</ref>
+                </li>
+                <li>
+                    <gd>[...] “Rinn e òran dhomh. Oran briagha. [...] Cha robh sinn ach fichead
+                        bliadhna a dh’ aois. [...] ’Se Sasunnach a bh’ ann [...]. Cha robh e ach
+                        fichead bliadhna a dh’ aois. Balach àrd tapaidh le léine shìoda. Thubhairt e
+                        rium gum pòsadh e mi.” Thòisich i a’ crònan <m>fonn a bha cumanta
+                            bliadhnachan air ais</m>—air feadh an t-samhraidh ud. [...]</gd>
+                    <tr>[...] “He sang me a song. A beautiful song. [...] We were just twenty years
+                        of age. [...] He was an Englishman [...]. He was just twenty years of age. A
+                        tall strong boy with a silk shirt. He said to me that he would marry me.”
+                        She started to hum a melody that was popular years ago – all through that
+                        summer. [...]</tr>
+                    <ref text="400-46">td. 170, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+            </xl>
+        </p>
+        <p>Other examples from modern usage – <xl id="bi-other">
+                <li>
+                    <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn.
+                        Rinn e sin tro dhìcheall, obair chruaidh agus <m>tàlant malairt a bha
+                            neo-ghnàthach</m>. An-diugh tha iomadh companaidh na ainm air feadh na
+                        Gàidhealtachd. [...]</gd>
+                    <tr>Thomas is the only crofter I know who has risen to the status of a tycoon.
+                        He did that through duty, hard work and a talent for business that was
+                        unusual. Today there are many companies in his name all over the Highlands.
+                        [...]</tr>
+                    <ref text="2">td. 5</ref>
+                </li>
+            </xl>
+        </p>
+        <module id="bi-progressive">
+            <h lang="en">progressive</h>
+            <h lang="gd">...</h>
+            <p lang="en">Examples from Gairm – <xl id="bi-prog-gairm">
+                    <li>
+                        <gd>[...] Choisich e mach ás a’ bhàta a-measg nam faoileagan, ga[n] sguabadh
+                            air falbh le a làmhan, agus lean e air suas an aon rathad a bh’ ann gus
+                            an ruigeadh e an tigh. Cha robh e duilich tigh Maireid a lorg. “’S
+                            iongantach mar a bhios iad a’ smaoineachadh gur ann a reic rudeigin a
+                            thainig mi,” thubhairt e ris fhéin le seòrsa de ghàire, ’s e a’
+                            sealltainn ris <m>an inneal a bha e slaodadh</m>. Bha Mairead ’na suidhe
+                            ann an cathair ris an teine is plaide timcheall air a glùinean.
+                            [...]</gd>
+                        <tr>[...] He walked out of the boat among the gulls, brushing them away with
+                            his hands, and he continued up the only road that there was until he
+                            reached the house. It was not difficult to find Margaret’s house.
+                            Margaret was sat in a chair by the fire with a blanket around her knees.
+                            [...]</tr>
+                        <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                    </li>
+                    <li>
+                        <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha fhios
+                            gun dig iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C. Dh’ fhàg
+                            Eóghan Mac-a- phì a sheula fhéin air an an sin, agus air a’ Bh.B.C. an
+                            Albainn gu h-iomlan, agus air dha a nis a dhreuchd a leigeil dheth, dh’
+                            iarramaid taing a thoirt dha airson gach seirbhis a thug e do ar cànain
+                            [...]. Anns an aon fhacal chuireamaid fàilte air <m>Fread MacAmhlaidh a
+                                tha a’ togail an eallaich</m>. Tha sinn eòlach air a ghuth agus air
+                            obair, agus ghuidheamaid gach soirbheachadh leis. [...]</gd>
+                        <tr>During the seasons and the years that are ahead of us, it is known that
+                            many changes will come to the Gaelic Department of the BBC. Ewan MacPhee
+                            has left his own stamp on that Department, and on the BBC in Scotland as
+                            a whole, and after him now giving up his job, we would ask for thanks to
+                            be given him for all the service he has given to our language [...]. In
+                            the same word we would welcome Fred MacAulay who is taking up the
+                            burden. We know his voice and his work, and we would wish him every
+                            success. [...]</tr>
+                        <ref text="400-48">td. 297, ‘Air An Spiris’</ref>
+                        <note>human, proper noun/name, non-restrictive</note>
+                    </li>
+                </xl>
+            </p>
+            <p lang="gd">...</p>
+            <!--<p lang="en">Biblical examples – <xl id="bi-prog-bible"> </xl>
+            </p>
+            <p lang="gd">...</p>-->
+            <module id="bi-progressive-passive">
+                <h lang="en">passive</h>
+                <h lang="gd">...</h>
+                <p lang="en">Examples from Gairm – <xl id="bi-prog-passive-gairm">
+                        <li>
+                            <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha
+                                fhios gun dig iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C.
+                                [...] Mar a bhios obair a’ Bh.B.C. a’ leudachadh anns a’
+                                Ghaidhealtachd—agus tha fhios gun tachair so leis <m>na stéiseanan
+                                    ùra a thathas a’ togail</m>—bithidh sùil againn ri daoine ùra ’s
+                                ri dòighean ùra. [...]</gd>
+                            <tr>During the seasons and the years that are ahead of us, it is known
+                                that many changes will come to the Gaelic Department of the BBC.
+                                [...] As the work of the BBC will be expanding in the Highlands –
+                                and it is known that this will happen with the new stations that are
+                                being established – we will be expecting new people and new methods.
+                                [...]</tr>
+                            <ref text="400-48">td. 297, ‘Air An Spiris’</ref>
+                            <note>abstract, passive object extraction</note>
+                        </li>
+                    </xl>
+                </p>
+                <p lang="gd">...</p>
+            </module>
+        </module>
+    </module>
+    <module id="copula">
+        <h lang="en">a is/bu</h>
+        <h lang="gd">...</h>
+        <p lang="en">Examples from Gairm – <xl id="cop-gairm">
+                <li>
+                    <gd>[...] Bha Mairead ’na suidhe ann an cathair ris an teine is plaide timcheall
+                        air a glùinean. Bha Màiri a’ deanamh na dìnneir. Dh’ innis e dhaibh gur esan
+                        an duine a sgrìobh thuca, a dh’ fhaighneachd am b’ urrainn dha a thighinn.
+                        [...] Shuidh e air cathair. “Tha sinn airson feadhainn de <m>na h-òrain as
+                            aithne dhuibh</m> a chur air clàr, gus nach teid iad air chall.”
+                        [...]</gd>
+                    <tr>[...] Margaret was sat in a chair by the fire with a blanket around her
+                        knees. Mary was making the dinner. He told them that he was the man who had
+                        written to them, asking if he could come. [...] He sat [down] on a chair.
+                        “We are wanting to put some of the songs that you know on record, so that
+                        they are not lost.” [...]</tr>
+                    <ref text="400-46">td. 169–70, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+            </xl>
+        </p>
+        <p>Other examples from modern usage – <xl id="cop-other">
+                <li>
+                    <gd>’S e Tòmas <m>an aon chroitear as aithne dhomh</m> a dh’èirich gu inbhe
+                        taidhcùn. Rinn e sin tro dhìcheall, obair chruaidh agus tàlant malairt a bha
+                        neo-ghnàthach. An-diugh tha iomadh companaidh na ainm air feadh na
+                        Gàidhealtachd. [...]</gd>
+                    <tr>Thomas is the only crofter I know who has risen to the status of a tycoon.
+                        He did that through duty, hard work and a talent for business that was
+                        unusual. Today there are many companies in his name all over the Highlands.
+                        [...]</tr>
+                    <ref text="2">td. 5</ref>
+                </li>
+            </xl>
+        </p>
+
+
+        <p lang="gd">...</p>
+        <module id="cop-super">
+            <h lang="en">superlative</h>
+            <h lang="gd">...</h>
+            <p lang="en">Examples from Gairm – <xl id="cop-super-gairm">
+                    <li>
+                        <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha fhios
+                            gun dig iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C. [......]
+                            Bithidh cuideachadh a dhìth air luchd a’ Bh.B.C., agus ’se <m>an
+                                cuideachadh a b’ fheàrr a b’ urrainn dhuinn a thoirt dhaibh</m> ar
+                            n-ùidh a nochdadh, le bhith a’ sgrìobhadh thuca, gam moladh is gan
+                            càineadh, ag iarraidh tuilleadh tìde do ’n Ghàidhlig, is a’ sealltainn
+                            dhaibh gu bheil sinn a’ dèanamh feum de ’n tìde a th’ againn.</gd>
+                        <tr>During the seasons and the years that are ahead of us, it is known that
+                            many changes will come to the Gaelic Department of the BBC. [......] The
+                            BBC people will need help, and the best help that we can give them is to
+                            show them our interest, by writing to them, praising them and
+                            criticising them, demanding more time for Gaelic, and showing them that
+                            we are making use of the time that we have.</tr>
+                        <ref text="400-48">td. 297, ‘Air An Spiris’</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Other examples from modern usage – <xl id="cop-super-other">
+                    <li>
+                        <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe
+                            taidhcùn. [...] Bha seachdnar de theaghlach aige, ceathrar mhac agus
+                            triùir nighean, agus bha a h-uile fear is tè anns a’ mhalairt ach Rob.
+                                <m>B’ e Rob a b’ òige</m> agus lean e an sgoil. Nuair a ràinig e an
+                            t-oilthigh bha càch airson gun ionnsaicheadh e cunntasachd, a bhiodh
+                            feumail anns a’ mhalairt, ach ’s ann a bha ùidh-san ann an ealain.
+                            [...]</gd>
+                        <tr>Thomas is the only crofter I know who has risen to the status of a
+                            tycoon. [...] He had a family of seven, four sons and three daughters,
+                            and every man and woman was in the business except Rob. Rob was the
+                            youngest and he stayed on at school. When he reached the university the
+                            others wanted him to learn accountancy, which would be useful in the
+                            business, but his interest was in art. [...]</tr>
+                        <ref text="2">td. 5</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </module>
+    <module id="conjunctions">
+        <h lang="en">conjunctions</h>
+        <h lang="gd">...</h>
+        <p lang="en">cf. <a href="?gd=mar">mar a</a>, <a href="?gd=nuair">nuair a</a>, <a
+                href="?gd=ged">ged a</a>.</p>
+        <p lang="gd">...</p>
+        <p lang="en">cf. <a href="?gd=dè">dè a ... ?</a>, <a href="?gd=cò">cò a ... ?</a>, <a
+                href="?gd=carson">carson a ... ?</a>, <a href="?gd=cuin">cuin a ... ?</a>.</p>
+        <p lang="gd">...</p>
+    </module>
+</module>

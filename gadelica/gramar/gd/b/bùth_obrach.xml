@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>bùth obrach</h>
+    <p><g>bùth obrach</g>
+        <en>workshop</en> is a noun compound, with head <a href="?gd=bùth"><g>bùth</g></a>
+        <fem/>
+        <en>shop, booth</en> and modifier <g>obrach</g> – the genitive singular form of <a
+            href="?gd=obair"><g>obair</g></a>
+        <fem/>
+        <en>work</en>. [also <g>bùth oibre</g>]</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>Some examples – <xl id="deps-spr-xs">
+                    <li>
+                        <gd>Bha sinn a’ tadhal air a’ bhùth-obrach aca.</gd>
+                        <tr>We were visiting their workshop.</tr>
+                        <ref text="601">td. 105</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <p>Some examples – <xl id="uses-comp-xs">
+                <li>
+                    <gd>Bha sinn a’ tadhal air a’ bhùth-obrach aca.</gd>
+                    <tr>We were visiting their workshop.</tr>
+                    <ref text="601">td. 105</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+    </section>
+    
+
+
+
+
+
+</module>

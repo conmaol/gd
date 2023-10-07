@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>caill</h>
+    <p><g>caill</g>
+        <en>lose, miss</en> is a <a href="?gd=caill">simple verb</a>.</p>
+    <p>Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>[...] A thaobh ciùil, nach bu chòir do ’n Bh.B.C. a bhith ceum air thoiseach air
+                    càch, a’ deilbh dhòighean is chruthan ùra, gun dearmad a dhèanamh air na rudan
+                    luachmhor a tha nar dìleab? Tha aca ri sùil a chumail air an aois ’s air an
+                    òigridh, agus chan eil sinn gun dòchas gun tarraing iad air ais bho shloc nan
+                    daolagan pàirt de òigridh na Gàidhlig, agus gu seall iad dhaibh <m>nach do
+                        chaill ceòl nan Gaidheal a’ bhuaidh a bha aige</m> air ar sluagh fad cheudan
+                    bliadhna. [...]</gd>
+                <tr>[...] On the subject of music, shouldn’t the BBC be a step ahead of the rest,
+                    producing new methods and forms, without neglecting the valuable things that are
+                    in our inheritance? They have to keep an eye on old age and on the youth, and we
+                    are not without hope that they will pull back part of Gaelic-speaking youth from
+                    the pit of beetles, and that they will show them that the Gael’s music has not
+                    lost the effect that ithas had on our people for hundreds of years. [...]</tr>
+                <ref text="400-48">td. 297, ‘Air an Spiris’</ref>
+            </li>
+        </xl>
+    </p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>derivatives</h>
+            <module status="bronze" id="deriv-call">
+                <h>call</h>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module status="bronze" id="air_chall">
+                            <h>air chall</h>
+                            <section>
+                                <h>uses</h>
+                                <section>
+                                    <h>complement</h>
+                                    <module status="bronze" id="rach_air_chall">
+                                        <h>rach air chall</h>
+                                        <p><g><a href="?gd=rach">rach</a> air chall</g>
+                                            <en>get/become lost</en> – <ul>
+                                                <li>pedagogical examples –<xl id="comps-chall-pedag">
+                                                  <li>
+                                                  <gd>Dè nì sinn ma thèid sinn <m>air
+                                                  chall</m>.</gd>
+                                                  <tr>What will we do if we get lost.</tr>
+                                                  <ref text="609">td. 118</ref>
+                                                  </li>
+                                                  <li>
+                                                  <gd>Chaidh iad air chall.</gd>
+                                                  <tr>They became lost.</tr>
+                                                  <ref text="601">td. 478</ref>
+                                                  </li>
+                                                  </xl>
+                                                </li>
+                                            </ul>
+                                        </p>
+                                    </module>
+                                </section>
+                            </section>
+
+
+                        </module>
+                    </section>
+                </section>
+            </module>
+        </section>
+    </section>
+
+</module>

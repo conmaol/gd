@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h lang="en">eas-</h>
+  <h lang="gd">eas-</h>
+  <p lang="en">
+    <ul>
+      <li>eas-aonachd fem. disunity</li>
+      <li>eas-aonadh masc. dissension</li>
+      <li>aonta masc agreement, assent, consent → <m>eas-aonta</m> fem. disagreement, dissent, discord(ance), disunity</li>
+      <li>eas-aontach adj. dissenting, dissident, discordant, disagreeable</li>
+      <li>eas-aontachd fem. disagreement, dissent, discord, disunity</li>
+      <li>aontaich vb. agree, consent → <m>eas-aontaich</m> vb. disagree, dissent</li>
+      <li>eas-aontaire masc. dissenter</li>
+      <li>eas-aontas masc. disobedience, transgression</li>
+      <li>eas-bhuannachd fem. disadvantage</li>
+      <li>caraid masc. friend, relative → <m>eas(-)caraid</m> masc. enemy, foe</li>
+      <li>easchruthach adj. abstract</li>
+      <li>eas-còrdadh masc. rupture</li>
+      <li>onair fem. honour → <m>eas-onair</m> fem. dishonour</li>
+      <li>onarach adj. honest, honourable → <m>eas-ona(i)r(e)ach</m> adj. dishonest, dishonourable</li>
+      <li>eas-tharraing fem. export</li>
+      <li>umhail adj. obedient, humble → <m>eas-umhail</m> adj. disobedient, insubordinate</li>
+      <li>ùmhlachd fem. obedience, humility → <m>eas-ùmhlachd</m> fem. disobedience, insubordination</li>
+      <li>urram masc. honour, respect → <m>eas-urram</m> masc. dishonour, disrespect</li>
+      <li>urramach adj. honourable, respectful → <m>eas-urramach</m> adj. dishonourable, disrespectful</li>
+    </ul>
+  </p>
+  <p lang="gd">...</p>
+</module>
+

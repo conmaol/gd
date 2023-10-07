@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title lang="en">feudar</title>
+  <title lang="gd">feudar</title>
+  <p lang="en"><strong>feudar</strong>
+    <en>must</en> is used in a couple of modal constructions of necessity.</p>
+  <hr/>
+  <h lang="en">is fheudar do ...</h>
+  <ul lang="en">
+    <li>present – <ulx id="is_fheudar_do">
+        <lix>
+          <gd>’S fheudar dhi sgur.</gd>
+          <tr>She has to stop.</tr>
+          <ref text="605">td. 185</ref>
+        </lix>
+        <lix>
+          <gd>’S fheudar dhomh fhìn a bhith gabhail dhachaigh dìreach.</gd>
+          <tr>I must be getting straight home.</tr>
+          <ref text="605">td. 185</ref>
+        </lix>
+        <lix>
+          <gd>Is fheudar dhomh an t-each a reic.</gd>
+          <tr>I must sell the horse.</tr>
+          <ref text="601">td. 297</ref>
+        </lix>
+      </ulx></li>
+    <li>past – <ulx id="b_fheudar_do">
+        <lix>
+          <gd>B’ fheudar dhi sgur.</gd>
+          <tr>She had to stop.</tr>
+          <ref text="605">td. 185</ref>
+        </lix>
+        <lix>
+          <gd>B’ fheudar dha an dùthaich fhàgail.</gd>
+          <tr>He had to leave the country.</tr>
+          <ref text="601">td, 297</ref>
+        </lix>
+        <lix>
+          <gd>B’ fheudar dhi togail a-mach a chosnadh airgid.</gd>
+          <tr>She had to go out to earn money.</tr>
+          <ref text="601">td. 297</ref>
+        </lix>
+      </ulx></li>
+  </ul>
+  <hr/>
+  <h lang="en">is fheudar gun ...</h>
+  <ulx id="is_fheudar_gun">
+    <lix>
+      <gd>’S fheudar gun aithnich thu e.</gd>
+      <tr>You must know him.</tr>
+      <ref text="601">td. 297</ref>
+    </lix>
+  </ulx>
+  <hr/>
+  <h lang="en">mas fheudar</h>
+  <ulx id="mas_fheudar">
+    <lix>
+      <gd>Bheir mi seòladh dhut mas fheudar.</gd>
+      <tr>I’ll give you directions if need be.</tr>
+      <ref text="601">td. 297</ref>
+    </lix>
+  </ulx>
+  <hr/>
+</module>

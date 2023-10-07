@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h lang="en">cùl</h>
+  <p lang="en"><b>cùl</b> is a <a href="?xx=nouns/common_nouns">common noun</a> with the general
+    meaning <en>back, rear, (area) behind</en>.</p>
+  <p>air cùlaibh</p>
+  <p><a href="?xx=prepositions/compound_prepositions">Compound preposition</a></p>
+  <p>compounding prefix</p>
+  <p>As a <a href="?xx=verbs/compound_verbs">verb-compounding</a> prefix – <ul>
+      <li><i>càin</i>
+        <en>[verb] abuse verbally</en> ⇒ <m>cùl-chàin</m>
+        <en>[verb] slander, defame</en></li>
+      <li><i>sgrìobh</i>
+        <en>[verb] write</en> ⇒ <m>cùl-sgrìobh</m>
+        <en>[verb] endorse</en></li>
+      <li><i>sleamhainn</i>
+        <en>[adjective] slippery</en> ⇒ <i>sleamhnaich</i>
+        <en>[verb] slide, slip</en> ⇒ <m>cùl-shleamhnaich</m>
+        <en>[verb] backslide, relapse into bad ways or error</en></li>
+      <li><i>spreadh</i>
+        <en>[verb] burst, explode</en> ⇒ <m>cùl-spreadh</m>
+        <en>[verb] backfire (of an engine, gun)</en></li>
+    </ul>
+  </p>
+  <p>As a <a href="?xx=verbs/compound_nouns">noun-compounding</a> prefix – <ul>
+      <li><i>cuideachd</i>
+        <en>[feminine noun] body or men/soldiers</en> ⇒ <m>cùl-chuideachd</m>
+        <en>[feminine noun] rearguard, reserve</en></li>
+      <li><i>earail</i>
+        <en>[feminine noun] caution</en> ⇒ <i>earalas</i>
+        <en>[masculine noun] caution, cautiousness</en> ⇒ <m>cùl-earalas</m>
+        <en>[masculine noun] reserve</en></li>
+      <li><i>mùtaire</i>
+        <en>[masculine noun] smuggler</en> ⇒ <m>cùl-mhùtaire</m>
+        <en>[masculine noun] smuggler</en></li>
+    </ul>
+  </p>
+  <p>a chùl air a sin</p>
+  <p lang="en"><b>a chùl air a sin</b>
+    <en>over and above that, besides that, more than that, moreover</en> – <xl id="besides">
+      <li>
+        <gd>Ann an dà bhliadhna dheug sgrìobh e fichead leabhar ’s a h-aon ’s dh’ fhàg e grunn mór
+          phàipearan <m>a chùl air a sin</m>.</gd>
+        <tr>In 12 years he [Kierkegaard] wrote 21 books and he left a large quantity of papers
+            <u>besides</u>.</tr>
+        <ref text="400-41">td. 103</ref>
+      </li>
+    </xl>
+  </p>
+  <p>Other idioms – <ul>
+      <li><m>cùl-cinn</m>, <m>cùl a’ bhaile</m>
+        <en>common grazing</en></li>
+    </ul>
+  </p>
+
+</module>

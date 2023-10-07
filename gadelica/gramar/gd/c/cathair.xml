@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>cathair</h>
+    <p><g>cathair</g>
+        <en>chair</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>prefix</h>
+            <p><g>cathair-<a href="?gd=eaglais">eaglais</a></g> <fem/>
+                <en>cathedral</en></p>
+        </section>
+    </section>
+
+</module>

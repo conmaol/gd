@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">àraidh</h>
+    <h lang="gd">àraidh</h>
+    <p><b>àraidh</b> is an adjective.</p>
+    <p lang="en">Corpus examples – <xl id="xs">
+        <li>
+            <gd>[...] A nis, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas ùr againn.
+                Tha sinn an dòchas gun téid gu math dhaibh, agus gun cuir iad spionnadh ás ùr
+                anns an dùthaich air fad. Agus <m>gu seachd àraidh</m> anns a’ Ghaidhealtachd:
+                [...]</gd>
+            <tr>[...] Now, the General Election is behind [us], and we have a new Government. We
+                hope that they will do well, and that they will re-energise the whole country.
+                And <u>most especially</u> in the Highlands: [...]</tr>
+            <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+        </li>
+    </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>numerals</h>
+  <p>Numerals are a kind of <a href="?xx=nouns/quantity_words">quantity word</a> used in <a
+      href="?xx=nouns/numeric_quantity_expressions">numeric quantity expressions</a>.</p>
+  <p>There are ten numerals in Gaelic – <ul>
+      <li><a href="?gd=aon">aon</a>
+        <en>one</en></li>
+      <li><a href="?gd=dà">dà</a>
+        <en>two</en></li>
+      <li><a href="?gd=trì">trì</a>
+        <en>three</en></li>
+      <li><a href="?gd=ceithir">ceithir</a>
+        <en>four</en></li>
+      <li><a href="?gd=còig">còig</a>
+        <en>five</en></li>
+      <li><a href="?gd=sia">sia</a>
+        <en>six</en></li>
+      <li><a href="?gd=seachd">seachd</a>
+        <en>seven</en></li>
+      <li><a href="?gd=ochd">ochd</a>
+        <en>eight</en></li>
+      <li><a href="?gd=naoi">naoi</a>
+        <en>nine</en></li>
+      <li><a href="?gd=deich">deich</a>
+        <en>ten</en></li>
+    </ul>
+  </p>
+  <module id="relations">
+    <h>relations</h>
+    <p>[to come]</p>
+  </module>
+  <module id="uses">
+    <h>uses</h>
+    <p>[to come]</p>
+  </module>
+
+
+</module>

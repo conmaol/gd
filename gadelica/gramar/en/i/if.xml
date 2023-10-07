@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="silver">
+  <h>if</h>
+  <p>The English word <emph>if</emph> has two main uses: <ol>
+      <li>introducing a conditional-hypothetical subordinate clause</li>
+      <li>introducing an embedded question.</li>
+    </ol>
+  </p>
+  <p>Here are some examples of <emph>if</emph> being used to introduce a conditional-hypothetical
+    clause: <ul>
+      <li>“I won’t take you to the police <m>if</m> you do a bit of work for me.”</li>
+      <li>“<m>If</m> you stopped paying that, he would come to his senses.”</li>
+      <li>“<m>If</m> you don't do that, it certainly won’t be me who comes to see you.”</li>
+    </ul>
+  </p>
+  <p>Note that the word <emph>if</emph> can be (somewhat clumsily) rephrased using ‘assuming that’
+    in these examples: <ul>
+      <li>“I won’t take you to the police <m>assuming that</m> you do a bit of work for me.”</li>
+      <li>“<m>Assuming that</m> you stopped paying that, he would come to his senses.”</li>
+      <li>“<m>Assuming that</m> you don't do that, it certainly won’t be me who comes to see
+        you.”</li>
+    </ul>
+  </p>
+  <p>Here are some examples of the second use of the word <emph>if</emph>, introducing an embedded
+    question: <ul>
+      <li>He asked <m>if</m> Maggie was in.</li>
+      <li>He asked <m>if</m> Maggie wasn’t in.</li>
+    </ul>
+  </p>
+  <p>The word <emph>if</emph> can be easily replaced by ‘whether’ in these examples: <ul>
+      <li>He asked <m>whether</m> Maggie was in.</li>
+      <li>He asked <m>whether</m> Maggie wasn’t in.</li>
+    </ul>
+  </p>
+  <p>Or the whole embedded question could be turned into reported speech: <ul>
+      <li>He asked, “Is Maggie in?”</li>
+      <li>He asked, “Is Maggie not in?”</li>
+    </ul>
+  </p>
+  <p>When <emph>if</emph> is used in a conditional-hypothetical sense, it corresponds to one of the
+    following Gaelic subordinating conjunctions: <ul>
+      <li><g>ma</g> ‘if’</li>
+      <li><g>mura</g> ‘if not’, ‘unless’</li>
+      <li><g>nan</g> ‘if’</li>
+    </ul>
+  </p>
+  <p>For example – <xl id="conditional-xs">
+      <li>
+        <gd>“Cha toir mi gu lagh thu <m>ma</m> nì thu car obrach dhòmhsa.”</gd>
+        <tr>“I won’t take you to the police if you do a bit of work for me.”</tr>
+        <ref text="2">td. 29</ref>
+      </li>
+      <li>
+        <gd>“<m>Nan</m> sguireadh tu a phàigheadh sin, thigeadh e gu chiall.”</gd>
+        <tr>“If you stopped paying that, he would come to his senses.”</tr>
+        <ref text="2">td. 7</ref>
+      </li>
+      <li>
+        <gd>“<m>Mura</m> dèan thu sin, chan e mise a thig a choimhead ort idir.”</gd>
+        <tr>“If you don't do that, it certainly won’t be me who comes to see you.”</tr>
+        <ref text="2">td. 55</ref>
+      </li>
+    </xl>
+  </p>
+  <p>When <emph>if</emph> is used to introduce an embedded question, it corresponds to embedded uses
+    of the Gaelic interrogative verb particles: <ul>
+      <li><g>an</g></li>
+      <li><g>nach</g></li>
+    </ul>
+  </p>
+  <p>For example: <xl id="interr-xs">
+      <li>
+        <gd>Dh’fhaighnich e <m>an</m> robh Magaidh a-staigh.</gd>
+        <tr>He asked if Maggie was in.</tr>
+        <ref text="2">124</ref>
+      </li>
+    </xl>
+  </p>
+  <p>Note that using <g>ma</g> or <g>nan</g> to introduce an embedded question is not Gaelic: <ul>
+      <li><bad>Dh’fhaighnich e ma bha Magaidh a-staigh.</bad></li>
+      <li><bad>Dh’fhaighnich e nan robh Magaidh a-staigh.</bad></li>
+    </ul>
+  </p>
+</module>

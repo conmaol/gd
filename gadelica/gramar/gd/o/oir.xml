@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>oir</h>
+  <p><g>oir</g> <en>because</en> is a conjunction.</p>
+  <p>Examples from Gairm – <xl id="gairm">
+    <li>
+      <gd>’Se madainn bhòidheach foghair a bh’ ann—tioram, le ceileir eòin, is beagan
+        dealt air an fheur. Bha a[m] muir ’s na tighean ag éirigh á inntinn an latha.
+        Cha robh e fhéin a’ faireachdainn uabhasach math, <m>oir, air a’ bhàta, bha triùir
+        dhaoine le botul uisge-bheatha</m> agus cha robh càil air a shon ach gu feumadh e òl
+        ’nan cuideachd. </gd>
+      <tr>It was a beautiful autumn morning – dry, with the chirping of birds, and a little dew on
+        the grass. The sea and the houses were rising from the mind of the day [?]. He was not feeling
+        terribly good/well, because, on the boat, there were three men with a bottle of whisky and there was
+        nothing for it but that he would have to drink in their company.</tr>
+      <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+    </li>
+  </xl>
+  </p>
+  <p>Biblical examples – <xl id="bible-exs">
+      <li>
+        <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig do’n Eiphit; thàinig gach duine
+          agus a theaghlach maille re Iacob: Reuben, Simeon, Lebhi, agus Iudah, [...] Agus na
+          h-anman uile a thàinig a mach a leasraidh Iacoib, bu deich agus tri fichead anam iad;
+            <m>oir bha Ioseph ’san Eiphit a cheana</m>. [...]</gd>
+        <tr>Now these are the names of the children of Israel, which came into Egypt; every man and
+          his household came with Jacob. Reuben, Simeon, Levi, and Judah, [...] And all the souls
+          that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt already.
+          [...] [KJV]</tr>
+        <ref text="160">Ecsodus I.1–5</ref>
+      </li>
+    </xl>
+  </p>
+</module>

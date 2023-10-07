@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>gorm</h>
+    <p><g>gorm</g>
+        <en>green, blue</en> is a <a href="?xx=adjectives/simple_adjectives">simple
+        adjective</a>.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>modifier</h>
+            <p><g><a href="?gd=aite">àite</a> gorm</g>
+                <en>a green place</en> – <ul>
+                    <li>older pedagogical examples – <xl id="mods-older-pedag">
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                                    anns a’ chàr. Chaidh iad sìos taobh an locha is stad iad aig
+                                        <m>àite</m> bòidheach <m>gorm</m>. [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. [...]</tr>
+                                <ref text="621">td. 6–7</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+</module>

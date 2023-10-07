@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>a-nall</h>
+    <p><g>a-nall</g>
+        <en>(to) over here</en> is a proximal adverb of motion along a <a href="?q=motion"
+            >trajectory</a> (contrasting with the distal <a href="?gd=a-null"><g>a-null</g></a>
+        <en>(to) over there</en>).</p>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complements</h>
+            <module status="bronze" id="thig">
+                <h>thig a-nall</h>
+                <p><g><a href="?gd=thig">thig</a> a-nall</g>
+                    <en>come over here</en>
+                    <ul>
+                        <li>pedagogical examples – <xl id="uses-comp-thig-pedag">
+                                <li>
+                                    <gd>Tha Màiri a’ tighinn a-nall à Glaschu.</gd>
+                                    <tr>Mary is coming over here from Glasgow.</tr>
+                                    <ref text="609">td. 31</ref>
+                                </li>
+                            </xl></li>
+                    </ul>
+                </p>
+            </module>
+        </section>
+    </section>
+
+</module>

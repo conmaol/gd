@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>tàmh</h>
+    <p><g>tàmh</g>
+        <en>quiet, rest</en> is a common noun.</p>
+
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <module status="bronze" id="mu_thamh">
+                <h>mu thàmh</h>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module status="bronze" id="rach_mu_thamh">
+                            <h>rach mu thàmh</h>
+                            <p><g><a href="?gd=rach">rach</a> mu thàmh</g>
+                                <en>go to bed</en> – <ul>
+                                    <li>pedagogical examples – <xl id="rach_mu_thamh-pedag">
+                                            <li>
+                                                <gd>a’ dol mu thàmh</gd>
+                                                <tr>going to bed, retiring for the night</tr>
+                                                <ref text="601">td. 478</ref>
+                                            </li>
+                                        </xl>
+                                    </li>
+                                </ul>
+                            </p>
+                        </module>
+                    </section>
+                </section>
+            </module>
+            <module status="bronze" id="gu_tamh">
+                <h>gu tàmh</h>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module status="bronze" id="rach_gu_tamh">
+                            <h>rach gu tàmh</h>
+                            <p><g><a href="?gd=rach">rach</a> gu tàmh</g>
+                                <en>go to rest, die</en> – <ul>
+                                    <li>pedagogical examples – <xl id="rach_gu_tamh-pedag">
+                                            <li>
+                                                <gd>Tha e air a dhol gu tàmh</gd>
+                                                <tr>He has gone to rest.</tr>
+                                                <ref text="601">td. 478</ref>
+                                            </li>
+                                        </xl>
+                                    </li>
+                                </ul>
+                            </p>
+                        </module>
+                    </section>
+                </section>
+            </module>
+        </section>
+    </section>
+
+</module>

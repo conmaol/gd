@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>fèin</h>
+  <p lang="en"><g>fèin</g>
+    <en>self</en> has a number of uses.</p>
+
+
+  <p>Older pedagogical examples – <xl id="obj-older-pedag">
+      <li>
+        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh. Thubhairt mo
+          mhàthair, “An téid thu do bhocsa nan litrichean leis an litir seo, Iain?” “Théid,” ars
+          Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi i is gus an cuir mi seòladh oirre.
+            <m>Ceannaich fhéin stamp</m> agus cuir oirre i.” [...]</gd>
+        <tr>My mother is writing a letter to my father who is away. My mother said, “Will you go to
+          the postbox with this letter, John?” “Yes, I will,” said John, “I will leave now.” “Wait
+          until I seal it and put an address on it. Buy a stamp [too?] and put it on it.” [...]</tr>
+        <ref text="621">td. 5</ref>
+      </li>
+    </xl>
+  </p>
+
+  <!--
+  <hr/>
+  <h lang="en">With a personal article</h>
+  <p lang="en">Examples of usage –</p>
+  <ulx id="exs">
+    <lix>
+      <gd>Tha <m>ar</m> linn <m>fhìn</m> a’ coimhead gur e feallsanach mór a bh’ ann de Khierkegaard, gidheadh feallsanach eu-coltach ri a roi-shealbhadairean, ach a-mhàin, ’s math dh’ fhaoite, Nietzche.</gd>
+      <tr><u>Our own</u> era views Kierkegaard as a great philosopher, even if a philosopher different to his predecessors, aside from, perhaps, Nietzsche.</tr>
+      <ref text="400-41">td. 103</ref>
+    </lix>
+    <lix>
+      <gd>Bha feallsanach mar Hegel a’ togail riaghailtean móra a dheanadh an saoghal air a thaobh a-muigh <m>fhéin</m> soilleir, ach cha b’ ann mar sin a bha Kierkegaard.</gd>
+      <tr>A philosopher like Hegel constructed grand rules which made the external world <u>itself</u> clear but K. was not like that.</tr>
+      <ref text="400-41">td. 103</ref>
+    </lix>
+    <lix>
+      <gd>Ma bha Hegel a’ déiligeadh ris an t-saoghal ar an taobh a-muigh, ’sann a bha Kierkegaard a’ déiligeadh gu tric ris an fheallsanach <m>fhéin</m>.</gd>
+      <tr>If Hegel dealt with the outside world, it was the philosopher himself that K. usually dealt with.</tr>
+      <ref text="400-41">td. 103</ref>
+    </lix>
+  </ulx>
+  -->
+
+</module>

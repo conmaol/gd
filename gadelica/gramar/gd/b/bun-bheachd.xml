@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>bun-bheachd</h>
+    <p><g><a href="?gd=bun">bun</a>-<a href="?gd=beachd">bheachd</a></g>
+        <en>concept</en> is a masculine compound noun.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>Some examples – <xl id="deps-spr-xs">
+                    <li>
+                        <gd>Tha e doirbh am bun-bheachd seo a thuigsinn.</gd>
+                        <tr>It is difficult to understand this concept.</tr>
+                        <ref text="601">td. 103</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>object</h>
+            <p>Some examples – <xl id="uses-obj-xs">
+                    <li>
+                        <gd>Tha e doirbh am bun-bheachd seo a thuigsinn.</gd>
+                        <tr>It is difficult to understand this concept.</tr>
+                        <ref text="601">td. 103</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+</module>

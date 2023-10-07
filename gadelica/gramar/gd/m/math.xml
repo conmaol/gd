@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">math</h>
+    <h lang="gd">math</h>
+    <p lang="en">cf. <a href="?gd=tomhas">tomhas math</a>
+        <en>a good measure</en></p>
+    <p lang="gd">...</p>
+    <module id="is_math">
+        <h lang="en">is math gun</h>
+        <h lang="gd">is math gun</h>
+        <p lang="en">Corpus examples – <xl id="is_math-xs">
+                <li>
+                    <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios
+                        os cionn obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach
+                        ag ath-nuadhachadh dreach a’ Chomuinn. Tha móran ri dhèanamh ris a’ Mhòd mus
+                        beir e air linn an telebhisean, no eadhon air linn an réidio: <m>bu mhath
+                            gun</m> cuirte luchd-sgrìobhaidh is luchd-ciùil an sàs ann a bhith a’
+                        cruthachadh ás ùr, an àite bhith an còmhnaidh a’ cur seòrsa de dhreach ùr
+                        air seann rudan [...]</gd>
+                    <tr>The Highland Society is talking about choosing a new General who will
+                        oversee the Society’s work. [...] He would have enough to do initially
+                        reforming the Society. There is much to do at the Mod before it catches up
+                        with <ed>??</ed> the era of television, or even with the era of radio:
+                        writers and musicians <u>should</u> be involved in creating afresh, instead
+                        of always putting a sort of new form on old things [...]</tr>
+                    <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+    <module id="dean_math">
+        <h lang="en">cha dèan math do</h>
+        <h lang="gd">cha dèan math do</h>
+        <p lang="en">Corpus examples – <xl id="exs">
+                <li>
+                    <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios
+                        os cionn obair a’ Chomuinn. [...] Cha b’ fhuilear do dhuine de ’n t-seòrsa
+                        so tomhas mhath de chumhachd a bhith aige. <m>Cha dean math dha</m> a bhith
+                        air a shlaodadh aig tòin Coimitidh, ach feumaidh an Coimitidh earbsa a bhith
+                        aca ás. [...] Bhiodh a leòr aige ri dhèanamh an toiseach ag ath-nuadhachadh
+                        dreach a’ Chomuinn. [...] Ach dh’ fheumadh am Fear-stiùiridh ùr barrachd air
+                        a sin a dhèanamh. Dh’ fheumadh e siubhal a dhèanamh eadar Rubha Robhanais
+                        agus Ceann Bharraidh, eadar am Parbh is Maol Chinn-tìre, agus <m>cha deanadh
+                            math dha</m> dìochuimhneachadh gu robh obair a’ Chomuinn a’ buntainn ri
+                        Coimisean nan Croitearan an Inbhirnis, ri Roinn an Fhoghluim an Dùn-Eideann,
+                        agus ri Tigh nan Cumantan an Lunnainn.</gd>
+                    <tr>The Highland Society is talking about choosing a new General who will
+                        oversee the Society’s work. [...] A person of this kind would have to have a
+                        good measure of power. <u>It would do him no good</u> to be dragged along by
+                        the Committee <ed>??</ed>, but the Committee must have trust in him. [...]
+                        He would have enough to do initially reforming the Society. [...] But the
+                        new leader would have to do more than (just) that. He would have to travel
+                        between the Butt of Lewis and Barra Head, between Cape Wrath and the Mull of
+                        Kintyre, and he <u>should not</u> forget that the Society’s work is related
+                        to the Crofters’ Commission in Inverness, to the Education Department in
+                        Edinburgh, and to the House of Commons in London.</tr>
+                    <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+    <module id="gu_math">
+        <h lang="en">gu math</h>
+        <h lang="gd">gu math</h>
+        <p lang="en">Corpus examples – <xl id="gu_math-exs">
+                <li>
+                    <gd>Bha grunnan de ar luchd-leughaidh an dùil, nuair a nochd an àireamh mu
+                        dheireadh de Ghairm, gu robh sin a’ strì ri buidheann shònraichte, no duine
+                        sònraichte, a chur do ’n Phàrlamaid, agus bha wèireichean an telefon <m>gu
+                            math</m> teth, uair no dhà, an déidh dhuinn tighinn o ’n chlò. Thog iad
+                        ceàrr sinn.</gd>
+                    <tr>Some of our readers were expecting [?], when the last issue of Gairm
+                        appeared, that that was striving to send a particular group [party?], or a
+                        particular person, to the Parliament, and the telephone wires were
+                            <u>pretty</u> hot, for an hour or two [once or twice?], after we came
+                        from the printers. They misunderstood us.</tr>
+                    <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+    <module id="rach_gu_math_do">
+        <h lang="en">rach gu math do</h>
+        <h lang="gd">rach gu math do</h>
+        <p lang="en">Corpus examples – <xl id="rach_gu_math-exs">
+                <li>
+                    <gd>[...] A nis, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas ùr
+                        againn. Tha sinn an dòchas <m>gun téid gu math dhaibh</m>, agus gun cuir iad
+                        spionnadh ás ùr anns an dùthaich air fad. Agus gu seachd àraidh anns a’
+                        Ghaidhealtachd: [...]</gd>
+                    <tr>[...] Now, the General Election is behind us, and we have a new Government.
+                        We hope <u>that they will do well</u>, and that they will re-energise the whole
+                        country. And most especially in the Highlands: [...]</tr>
+                    <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+</module>

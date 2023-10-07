@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>Gàidheal</h>
+    <p><b>Gàidheal</b>
+        <en>Gael, member of the Goidelic race, Highlander, Gaelic-speaker</en> is a masculine <a
+            href="?xx=nouns/ethnonymic_common_nouns">ethnonymic common noun</a>, with genitive
+        singular <b>Gàidheil</b> and (nominative/dative) plural <b>Gàidheil</b>.</p>
+    <p>Pedagogical examples – <xl id="Gaidheal-pedag">
+            <li>
+                <gd>Cànan nan Gàidheal</gd>
+                <tr>The Language of the Gaels</tr>
+                <ref text="605">td. 201</ref>
+                <note>song title; note genitive plural</note>
+            </li>
+        </xl>
+    </p>
+    <p>Note: <b>Na Gàidheil</b>
+        <en>The Gaels</en> as an ethnonymic name description.</p>
+    <module id="Gaidhealach">
+        <h>Gàidhealach</h>
+        <p><b>Gàidhealach</b>
+            <en>pertaining to the Gaels or the Highlands</en> is an adjective derived from the noun
+                <b>Gàidheal</b> with suffix <a href="?gd=_ach">-(e)ach</a>.</p>
+        <p>Pedagogical examples – <xl id="Gaidhealach-pedag">
+                <li>
+                    <gd>geamannan Gàidhealach</gd>
+                    <tr>Highland games</tr>
+                    <ref text="605">td. 201</ref>
+                </li>
+            </xl>
+        </p>
+        <module id="ACG">
+            <h>An Comunn Gàidhealach</h>
+            <p><b>An Comunn Gàidhealach</b>
+                <en>The Highland Society</en> is an <a href="?xx=nouns/ergonyms">ergonymic name
+                    description</a>.</p>
+        </module>
+    </module>
+    <module id="Gaidhlig">
+        <h>Gàidhlig</h>
+        <p>Gàidhlig is a (feminine) <a href="?xx=nouns/glottonyms">glottonymic</a> proper noun
+            derived from the noun <b>Gàidheal</b>, with genitive singular <b>Gàidhlige</b> (though
+            the final <b>-e</b> is almost always dropped in all but the most formal usage).</p>
+        <p>Pedagogical examples – <xl id="Gaidhlig-pedag">
+                <li>
+                    <gd>Tha Gàidhlig agam. / cuir Gàidhlig air Beurla / bruidhinn Gàidhlig / Is e facal Gàidhlig a th’ ann.</gd>
+                    <tr>I speak Gaelic. / translate English into Gaelic / speak Gaelic / It’s a Gaelic word.</tr>
+                    <ref text="605">td. 201</ref>
+                </li>
+                <li>
+                    <gd>Tha Gàidhlig aige. / ’S e faclair Gàidhlig a th’ ann. / facail Ghàidhlig</gd>
+                    <tr>He knows Gaelic; he can speak Gaelic. / It’s a Gaelic dictionary. / Gaelic words</tr>
+                    <ref text="601">td. 322</ref>
+                </li>
+            </xl>
+        </p>
+        <p>Compounds –
+        <ul>
+            <li><b>Gàidhlig Mhanainneach</b> <en>Manx</en></li>
+            <li><b>Gàidhlig ghnàthasach</b> <en>idiomatic Gaelic</en></li>
+        </ul>
+        </p>
+        <module>
+            <h>A’ Ghàidhlig</h>
+            <p>As with other glottonymic proper nouns, <b>Gàidhlig</b> often occurs with the
+                definite article (as an ‘uncommon/improper’ noun).</p>
+            <p>Pedagogical examples – <xl id="A_Gaidhlig-pedag">
+                    <li>
+                        <gd>bruidhinn sa Ghàidhlig</gd>
+                        <tr>speak Gaelic</tr>
+                        <ref text="605">td. 201</ref>
+                    </li>
+                    <li>
+                        <gd>luchd na Gàidhlig</gd>
+                        <tr>Gaelic people, Gaelic speakers</tr>
+                        <ref text="605">td. 201</ref>
+                    </li>
+                </xl>
+            </p>
+            <module id="CNG">
+                <h>Comunn na Gàidhlig</h>
+                <p><b>Comunn na Gàidhlig</b>
+                    <en>The Gaelic Society</en> is an <a href="?xx=nouns/ergonyms">ergonymic name
+                        description</a>, with acronym <b>CNAG / CnaG / Cnag</b>.</p>
+            </module>
+        </module>
+    </module>
+    <module id="Gaidhealtachd">
+        <h>Gàidhealtachd</h>
+        <p><b>Gàidhealtachd</b>
+            <en>a Gaeldom, area where Gaels live</en> is a feminine <a
+                href="?xx=nouns/toponymic_common_nouns">toponymic common noun</a> derived from the
+            noun <b>Gàidheal</b>, with genitive singular <b>Gàidhealtachd</b> and plural form
+                <b>Gàidhealtachdan</b>.</p>
+        <module id="A_Ghaidhealtachd">
+            <h>A’ Ghàidhealtachd</h>
+            <p><b>A’ Ghàidhealtachd</b>
+                <en>Gaeldom, The Highlands</en> is a <a href="?xx=nouns/toponymic_name_descriptions"
+                    >toponymic name description</a>.</p>
+            <p>Pedagogical examples – <xl id="A_Gaidhealtachd-pedag">
+                    <li>
+                        <gd>Roinn na Gàidhealtachd</gd>
+                        <tr>Highland Region</tr>
+                        <ref text="605">td. 201</ref>
+                        <note>toponymic name description</note>
+                    </li>
+                    <li>
+                        <gd>air (a’) Ghàidhealtachd</gd>
+                        <tr>in the Highlands</tr>
+                        <ref text="605">td. 201</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples from modern usage – <xl id="xs">
+                    <li>
+                        <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe
+                            taidhcùn. Rinn e sin tro dhìcheall, obair chruaidh agus tàlant malairt a
+                            bha neo-ghnàthach. An-diugh tha iomadh companaidh na ainm <m>air feadh
+                                na Gàidhealtachd</m>. [...]</gd>
+                        <tr>Thomas is the only crofter I know who has risen to the status of a
+                            tycoon. He did that through duty, hard work and a talent for business
+                            that was unusual. Today there are many companies in his name all over
+                            the Highlands. [...]</tr>
+                        <ref text="2">td. 5</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </module>
+</module>

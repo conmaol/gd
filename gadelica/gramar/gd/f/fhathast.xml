@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">fhathast</h>
+    <h lang="gd">fhathast</h>
+    <p lang="en">Corpus examples – <xl id="gairm">
+        <li>
+            <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os
+                cionn obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach ag
+                ath-nuadhachadh dreach a’ Chomuinn. Tha móran ri dhèanamh ris a’ Mhòd mus beir e
+                air linn an telebhisean, no eadhon air linn an réidio: [...] A thaobh
+                    propaganda, <m>tha obair a’ Chomuinn gun tòiseachadh fhathast</m>; am faca tusa
+                riamh postair Gàidhlig air balla, no an cuala tu guth a’ Chomuinn ann an
+                sanas-reic air STV?</gd>
+            <tr>The Highland Society is talking about choosing a new General who will oversee
+                the Society’s work. [...] He would have enough to do initially reforming the
+                Society. There is much to do at the Mod before it catches up with <ed>??</ed>
+                the era of television, or even with the era of radio: [...] On the subject of
+                    propaganda, the Society’s work is yet to start; have you ever seen a
+                Gaelic poster on a wall, or have you heard the voice of the Society in an advert
+                on STV?</tr>
+            <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+        </li>
+        <li>
+            <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan fhalbh aon
+                choigreach le mo leanabh. Cha teid i gu aon dannsa, tha sin cinnteach. Tha. Tha.
+                Na bi smaoineachadh gun teid, a leanaibh. Chan eil fhios agad mu ’n deidhinn,
+                mar a th’ agamsa.” “Carson nach do bhàsaich thu o chionn leth-cheud
+                bliadhna,” dh’ éigh Màiri. <m>Bha i smaoineachadh air na gnothaichean ud
+                fhathast!</m> “Greas ort leis an tea,” ars a màthair. [...]</gd>
+            <tr>[...] Her voice grew louder. “One thing is certain, not one stranger will leave
+                [go out?] with my child. She will not go to a single dance, that is certain. It
+                is. It is. Do not be thinking that you will, child. You don’t know about them,
+                as I do.” “Why did you not die fifty years ago,” shouted Mary. She was still
+                thinking about those matters! “Hurry up with the tea,” said her mother.
+                [...]</tr>
+            <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+    </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>
+

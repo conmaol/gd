@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>Eaglais na h-Alba</h>
+    <p><g><a href="?gd=eaglais">Eaglais</a> na h-<a href="?gd=Alba">Alba</a></g>
+        <en>The Church of Scotland</en> is an <a href="?xx=nouns/ergonymic_name-descriptions"
+            >ergonymic name-description</a>.</p>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <p>Some examples – <xl id="uses-comp-xs">
+                    <li>
+                        <gd>Bha dà mhinistear à Eaglais na h-Alba aig a’ choinneimh.</gd>
+                        <tr>There were two church of Scotland ministers at the meeting.</tr>
+                        <ref text="601">td. 256</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+
+        <section>
+            <h>specifier</h>
+            <p>Some examples – <xl id="eaglais_na_h-alba-uses-spr">
+                    <li>
+                        <gd>’S e eaglais pharaiste Eaglais na h-Alba ann an Dùn Èideann a th’ ann an
+                            Eaglais nam Manach Liath.</gd>
+                        <tr>Greyfriars Kirk is a parish church of the Church of Scotland located in
+                            Edinburgh.</tr>
+                        <ref text="wiki">Eaglais nam Manach Liath</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+</module>

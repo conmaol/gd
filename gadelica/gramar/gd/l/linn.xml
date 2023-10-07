@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>linn</h>
+    <p><g>linn</g>
+        <en>era, century</en> is a feminine common noun.</p>
+    <p>Examples from Gairm – <xl id="exs">
+            <li>
+                <gd>Ma rannsaicheas sinn air ais fada gu leòir chì sinn nach robh sgoilean anns an
+                    Oban gus <m>an ochdamh linn deug</m>. Bha an sgoil bheag a b’ fhaisge air anns
+                    a’ Chill Mhóir cóig mìle air falbh, agus tha e coltach gu robh an sgoil sin air
+                    an fheadhainn bu shine an Earra-Ghaidheal.</gd>
+                <tr>If we research back long enough we will see that there were no schools in Oban
+                    until the eighteenth century. The closest little school was in Kilmore five
+                    miles away, and it appears that that school was one of the oldest in
+                    Argyll.</tr>
+                <ref text="400-20">td. 363</ref>
+            </li>
+            <li>
+                <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os
+                    cionn obair a’ Chomuinn. [...] Cha b’ fhuilear do dhuine de ’n t-seòrsa so
+                    tomhas mhath de chumhachd a bhith aige. [...] Bhiodh a leòr aige ri dhèanamh an
+                    toiseach ag ath-nuadhachadh dreach a’ Chomuinn. Tha móran ri dhèanamh ris a’
+                    Mhòd mus beir e air <m>linn an telebhisean</m>, no eadhon air <m>linn an
+                        réidio</m> [...]</gd>
+                <tr>The Highland Society is talking about choosing a new General who will oversee
+                    the Society’s work. [...] A person of this kind would have to have a good
+                    measure of power. [...] He would have enough to do initially reforming the
+                    Society. There is much to do at the Mod before it catches up with <ed>??</ed>
+                    the era of television, or even with the era of radio [...]</tr>
+                <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+            </li>
+        </xl>
+    </p>
+</module>

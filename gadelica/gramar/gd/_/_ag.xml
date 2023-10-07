@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>-(e)ag</h>
+  <p><g>-(e)ag</g> is a suffix used to create feminine <a href="?xx=nouns/derived_common_nouns"
+      >derived common nouns</a> from adjectives and from other nouns.</p>
+  <section id="adj">
+    <h>de-adjectival</h>
+    <p>Examples derived from adjectives – <ul>
+        <li><g>sleamhainn</g>
+          <adj/>
+          <en>slippery</en> ⇒ <g>sleamhnag</g>
+          <fem/>
+          <en>slide (for playing on)</en></li>
+      </ul>
+    </p>
+  </section>
+  <section id="nouns">
+    <h>denominal</h>
+    <p>Examples derived from common nouns – <ul>
+        <li><g>braid</g>
+          <fem/>
+          <en>theft</en> ⇒ <g>bradag</g>
+          <fem/>
+          <en>thievish girl</en></li>
+        <li><g>rionn</g>
+          <masc/>
+          <en>star [archaic]</en> ⇒ <a href="?gd=rionnag"><g>rionnag</g></a>
+          <fem/>
+          <en>star</en></li>
+      </ul>
+    </p>
+  </section>
+  <section id="other">
+    <h>other</h>
+    <p>Diminutives of unclear derivation – <ul>
+        <li><a href="?gd=faoileag"><g>faoileag</g></a>
+          <fem/>
+          <en>seagull</en></li>
+        <li><a href="?gd=sgalag"><g>sgalag</g></a>
+          <fem/>
+          <en>farm servant</en></li>
+      </ul>
+    </p>
+  </section>
+</module>

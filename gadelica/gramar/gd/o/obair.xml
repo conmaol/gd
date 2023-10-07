@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>obair</h>
+    <p><g>obair</g>
+        <en>work</en> is a feminine <a href="?xx=nouns/common_nouns">common noun</a>.</p>
+
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>modifiers</h>
+            <p>Examples from modern usage – <xl id="deps-mods-xs">
+                    <li>
+                        <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe
+                            taidhcùn. Rinn e sin tro dhìcheall, <m>obair chruaidh</m> agus tàlant
+                            malairt a bha neo-ghnàthach. An-diugh tha iomadh companaidh na ainm air
+                            feadh na Gàidhealtachd. [...]</gd>
+                        <tr>Thomas is the only crofter I know who has risen to the status of a
+                            tycoon. He did that through duty, hard work and a talent for business
+                            that was unusual. Today there are many companies in his name all over
+                            the Highlands. [...]</tr>
+                        <ref text="2">td. 5</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <p>Examples from modern usage – <xl id="uses-comp-xs">
+                    <li>
+                        <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe
+                            taidhcùn. Rinn e sin tro dhìcheall, <m>obair chruaidh</m> agus tàlant
+                            malairt a bha neo-ghnàthach. An-diugh tha iomadh companaidh na ainm air
+                            feadh na Gàidhealtachd. [...]</gd>
+                        <tr>Thomas is the only crofter I know who has risen to the status of a
+                            tycoon. He did that through duty, hard work and a talent for business
+                            that was unusual. Today there are many companies in his name all over
+                            the Highlands. [...]</tr>
+                        <ref text="2">td. 5</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+
+        <section>
+            <h>modifier</h>
+            <p><a href="?gd=bùth_obrach"><g>bùth obrach</g></a>
+                <en>workshop</en></p>
+        </section>
+    </section>
+
+
+</module>

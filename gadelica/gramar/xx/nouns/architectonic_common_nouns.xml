@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>architectonic common nouns</h>
+    <p>Architectonic commons nouns are <a href="?xx=nouns/toponymic_common_nouns">toponymic common
+            nouns</a> that describe kinds of building.</p>
+
+    <section id="simple">
+        <h>simple architectonic common nouns</h>
+        <p>List of simple architectonic common nouns – <ul>
+            <li><a href="?gd=bùth"><g>bùth</g></a>
+                <fem/>
+                <en>shop. booth</en></li>
+                <li><a href="?gd=eaglais"><g>eaglais</g></a>
+                    <fem/>
+                    <en>church</en></li>
+                <li><a href="?gd=lùchairt"><g>lùchairt</g></a>
+                    <fem/>
+                    <en>palace</en></li>
+                <li><a href="?gd=sgoil"><g>sgoil</g></a>
+                    <fem/>
+                    <en>school</en></li>
+            </ul>
+        </p>
+    </section>
+
+    <section id="derived">
+        <h>derived architectonic common nouns</h>
+        <p>List of derived architectonic common nouns – <ul>
+                <li><a href="?gd=aba"><g>aba</g></a>
+                    <masc/>
+                    <en>abbot</en> ⇒ <g>abaid</g>
+                    <fem/>
+                    <en>abbey</en></li>
+                <li><a href="?gd=manach"><g>manach</g></a>
+                    <masc/>
+                    <en>monk</en> ⇒ <g>manachainn</g>
+                    <fem/>
+                    <en>monastery</en></li>
+            </ul>
+        </p>
+    </section>
+
+    <section id="thematic">
+        <h>thematic classification</h>
+        <section id="religion">
+            <h>religion</h>
+            <p>List of architectonic common nouns related to religion – <ul>
+                    <li><a href="?gd=aba"><g>abaid</g></a>
+                        <fem/>
+                        <en>abbey</en></li>
+                    <li><a href="?gd=eaglais"><g>eaglais</g></a>
+                        <fem/>
+                        <en>church</en></li>
+                    <li><a href="?gd=manach"><g>manachainn</g></a>
+                        <fem/>
+                        <en>monastery</en></li>
+                </ul>
+            </p>
+        </section>
+        <section id="government">
+            <h>royalty/aristocracy/government</h>
+            <p>List of architectonic common nouns related to royalty/aristocracy/government – <ul>
+                    <li><a href="?gd=lùchairt"><g>lùchairt</g></a>
+                        <fem/>
+                        <en>palace</en></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+</module>

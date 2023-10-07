@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <title>mòran a bharrachd (air)</title>
+  <p><strong>mòran a bharrachd (air)</strong> is an expression of quantity equivalent to the English <en>many more</en>. It is derived from the quantity noun <a href="?gd=mòran">mòran</a>
+    <en>large quantity</en> modified by the prepositional compound <a href="?gd=a_bharrachd">a bharrachd (air)</a>
+    <en>in addition</en>. </p>
+  <hr/>
+  <p>When <strong>mòran a bharrachd</strong> is used on its own, without a <a href="?xx=nouns/specifiers">specifier</a> or any <a href="?xx=nouns/modifiers">modifiers</a>, both the standard of
+    comparison and the target of the comparison are implied by the context eg. <ul>
+      <li>Tha trì coin aig Màiri ach tha <m>mòran a bharrachd</m> aig Dòmhnall. <en>Mary has three dogs but Donald has many more [dogs than Mary has].</en></li>
+    </ul>
+  </p>
+  <hr/>
+  <p>The <u>standard of comparison</u> is usually expressed as the <a href="?xx=nouns/specifiers">specifier</a> of <strong>mòran</strong>, particularly when the latter is a non-specified (ie.
+    ‘indefinite’) noun eg. <ul>
+      <li>Tha Màiri ag iarraidh <m>mòran chon a bharrachd</m>. <en>Mary wants many more dogs [than she has at the moment].</en></li>
+    </ul>
+    <ul id="barrachd_specifier">
+      <li>
+        <gd>As déidh na bliadhna 1887, nuair a thòisicheadh air iasgach geamhraidh an toiseach, chuireadh <m>móran sgadain a bharrachd</m> air tìr anns a’ chumantas gach bliadhna na rinneadh roimh an
+          ám sin.</gd>
+        <tr>After 1887, when winter fishing was first started, many more herring were landed in general every year, compared to the previous year.</tr>
+        <ref text="400-1">td. 25</ref>
+      </li>
+      <li>
+        <gd> Bha i òg, cumadail, agus ged a bha i a cheart cho leisg ris, bha <m>mòran a bharrachd tuigse</m> aice air an t-Seilcheig.</gd>
+        <tr>She was young and shapely, and although she was just as lazy, she had much more intelligence than the Slug.</tr>
+        <ref text="2">td. 26</ref>
+      </li>
+    </ul>
+  </p>
+  <p>When the standard of comparison is pronominal or specified (ie. ‘definite’), it is usually expressed as the partitive <m>mòran <a href="?gd=de">de</a> ... a bharrachd</m> eg. <ul>
+      <li>Tha Màiri ag iarraidh <m>mòran dhiubh a bharrachd</m>. <en>Mary wants many more of them.</en></li>
+      <li>Tha Màiri ag iarraidh <m>mòran de na coin a bharrachd</m>. <en>Mary wants many more of the dogs.</en></li>
+    </ul>
+  </p>
+  <p>However, there is some variation in usage to be found here. <ul id="barrachd_de_variation">
+      <li>
+        <gd>Cha do chuir Diack <m>mòran de chudthrom a bharrachd</m> air na faclan mu dheireadh.</gd>
+        <tr>Diack did not put much more weight on the last words.</tr>
+        <ref text="16">td. 25</ref>
+      </li>
+      <li>
+        <gd>Agus dh’aithnich e anns a’ mhionaid nach robh còir aige an gunna a lasadh cho luath, ’s gu robh dùil aca ri <m>mòran a bharrachd de dh’fhèidh</m> na fhuair iad.</gd>
+        <tr>And he recognised immediately that he should not have fired the gun so soon, and that they had been expecting many more deer than they had gotten.</tr>
+        <ref text="501">td. 47</ref>
+      </li>
+    </ul>
+  </p>
+  <hr/>
+  <p>The target of comparison is usually expresed by the preposition <a href="?gd=air">air</a> followed by the relative particle <strong>na</strong> eg. <ul>
+      <li>Tha <m>mòran chon a bharrachd</m> aig Dòmhnall <m>air na tha</m> aig Màiri. <en>Donald has many more dogs than Mary [does].</en></li>
+      <li>Tha <m>mòran chon a bharrachd</m> aig Dòmhnall <m>air na tha</m> cait aige. <en>Donald has many more dogs than [he does] cats.</en></li>
+    </ul>
+    <ul id="barrachd_air_na">
+      <li>
+        <gd>Tha feadhainn eile a cheart cho làidir de’n bheachd gu bheil Alba a’ pàidheadh a mach <m>móran a bharrachd air na tha</m> i a’ faotainn air ais.</gd>
+        <tr>There are others who are just as strongly of the opinion that Scotland is paying out much more than it is getting back.</tr>
+        <ref text="400-1">td. 69</ref>
+      </li>
+      <li>
+        <gd>“Feumaidh mi fios a chur gu mo bhean gum bi mi fada gun tilleadh,” arsa Seòras, a’ gabhail an airgid, <m>mòran a bharrachd air na b’ fhiach</m> a’ bhòidse.</gd>
+        <tr>“I have to let my wife know that I will away for a long time,” said George, taking the money, much more than the trip was worth.</tr>
+        <ref text="2">td. 98</ref>
+      </li>
+      <li>
+        <gd>Bha aon bhodach faisg oirnn, Ruairidh Alasdair, aig an robh tàbh a ghlacadh <m>mòran èisg a bharrachd air na ghlacamaid</m> le aon dubhan.</gd>
+        <tr>There was one old man near us, Roddy Alexander, who had a hand-net that could catch many more fish than we would catch with one hook.</tr>
+        <ref text="333">td. 118</ref>
+      </li>
+    </ul>
+  </p>
+  <p>Sometimes the preposition is dropped. <ul id="barrachd_na">
+      <li>
+        <gd>As déidh na bliadhna 1887, nuair a thòisicheadh air iasgach geamhraidh an toiseach, chuireadh <m>móran sgadain a bharrachd</m> air tìr anns a’ chumantas gach bliadhna <m>na rinneadh</m>
+          roimh an ám sin.</gd>
+        <tr>After 1887, when winter fishing was first started, many more herring were landed in general every year, compared to the previous year.</tr>
+        <ref text="400-1">td. 25</ref>
+      </li>
+      <li>
+        <gd>Agus dh’aithnich e anns a’ mhionaid nach robh còir aige an gunna a lasadh cho luath, ’s gu robh dùil aca ri <m>mòran a bharrachd de dh’fhèidh na fhuair</m> iad.</gd>
+        <tr>And he recognised immediately that he should not have fired the gun so soon, and that they had been expecting many more deer than they had gotten.</tr>
+        <ref text="501">td. 47</ref>
+      </li>
+    </ul>
+  </p>
+  <p>Note also cases where the target is expressed by a normal noun. <ul id="barrachd_na_N">
+      <li>
+        <gd>Bha i òg, cumadail, agus ged a bha i a cheart cho leisg ris, bha <m>mòran a bharrachd</m> tuigse aice <m>air an t-Seilcheig</m>.</gd>
+        <tr>She was young and shapely, and although she was just as lazy as him, she had much more intelligence than the Slug.</tr>
+        <ref text="2">td. 26</ref>
+      </li>
+    </ul></p>
+</module>

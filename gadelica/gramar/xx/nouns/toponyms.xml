@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>toponyms</h>
+  <p>Toponyms are <a href="?xx=nouns/names">names</a> identifying places and other geographical
+    entities.</p>
+  <p>Like other kinds of name, toponyms can be classified into two grammatical types – <ul>
+      <li><a href="?xx=nouns/toponymic_proper_nouns">toponymic proper nouns</a> – <g>Barraigh</g>
+        <fem/>
+        <en>Barra</en>, <g>Glaschu</g>
+        <masc/>
+        <en>Glasgow</en>, <g>Alba (Nuadh)</g>
+        <fem/>
+        <en>(Nova) Scotia</en>, <g>Sùilebheinn</g>
+        <fem/>
+        <en>Suilven</en>, <g>Foirthe</g>
+        <fem/>
+        <en>The Forth</en></li>
+      <li><a href="?xx=nouns/toponymic_name_descriptions">toponymic name-descriptions</a> – <g>Am
+          Ploc</g>
+        <en>Plockton</en>, <g>Dùthaich MhicAoidh</g>
+        <en>North Sutherland</en>, <g>Beinn a’ Bhreacaidh</g>
+        <en>Ben Vrackie</en>, <g>An Linne Latharnach</g>
+        <en>The Lorne Firth</en>.</li>
+    </ul>
+  </p>
+  <!--
+  <p>Toponyms can also be classified <u>semantically</u> according to the kind of geographical
+    entity they refer to – <ul>
+      <li>islands and districts eg. <i>Barraigh</i>, <i>Dùthaich MhicAoidh</i></li>
+      <li>towns and settlements eg. <i>Glaschu</i>, <i>Am Ploc</i></li>
+      <li>countries and continents eg. <m>Aimearaga a Tuath</m>
+        <en>North America</en>, <m>A’ Ghreug</m>
+        <en>Greece</en></li>
+      <li>mountains and uplands eg. <i>Sùilebheinn</i>, <i>Beinn a’ Bhreacaidh</i>, <m>Am Monadh
+          Ruadh</m>
+        <en>The Cairngorms</en></li>
+      <li>rivers, lakes and seas eg. <i>An Linne Latharnach</i>, <m>Loch Obha</m>
+        <en>Loch Awe</en>, <m>A’ Mhaoil</m>
+        <en>The Minch</en></li>
+    </ul>
+  </p>
+  -->
+</module>

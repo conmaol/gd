@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h lang="en">caochail</h>
+    <h lang="gd">caochail</h>
+    <p lang="en"><b>caochail</b>
+        <en>change, alter, die, pass away</en> is an intransitive (non-durative) <a
+            href="?q=verbal_aspect">telic</a> verb, with verbal noun <b>caochladh</b>
+        <masc/></p>
+    <p lang="gd">...</p>
+</module>
+

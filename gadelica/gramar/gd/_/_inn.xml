@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>-(a)inn</h>
+    <p>eg. <a href="?gd=manach"><g>manach</g></a>
+        <masc/>
+        <en>monk, friar</en> ⇒ <a href="?gd=manachainn"><g>manachainn</g></a>
+        <fem/>
+        <en>monastery</en>.</p>
+</module>

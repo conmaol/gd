@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>easbaig</h>
+    <p><g>easbaig</g>
+        <en>bishop</en> is a masculine <a href="?xx=nouns/occupational_common_nouns"
+            >occupational</a>
+        <a href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
+    <section>
+        <h>forms</h>
+        <p>The principal parts of <g>easbaig</g> are – <ul>
+                <li><m>easbaig</m> – nominative/dative/genitive singular</li>
+                <li><m>easbaigean</m> – plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>easbaig</m></li>
+                                    <li>dative – (le) <m>easbaig</m></li>
+                                    <li>genitive – (leabhar) <m>easbaig</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>easbaigean</m></li>
+                                    <li>dative – (le) <m>easbaigean</m></li>
+                                    <li>genitive – (leabhraichean) <m>easbaigean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an t-easbaig</m></li>
+                                    <li>dative – (leis) <m>an easbaig</m></li>
+                                    <li>genitive – (leabhar) <m>an easbaig</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na h-easbaigean</m></li>
+                                    <li>dative – (leis) <m>na h-easbaigean</m></li>
+                                    <li>genitive – (leabhraichean) <m>nan easbaigean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>easbaig</m></li>
+                                    <li>dative – (le) <m>easbaig</m></li>
+                                    <li>genitive – (leabhar) <m>easbaig</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an t-easbaig</m></li>
+                                    <li>dative – (leis) <m>an easbaig</m></li>
+                                    <li>genitive – (leabhar) <m>an easbaig</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>easbaigean</m></li>
+                                    <li>dative – (le) <m>easbaigean</m></li>
+                                    <li>genitive – (leabhraichean) <m>easbaigean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na h-easbaigean</m></li>
+                                    <li>dative – (leis) <m>na h-easbaigean</m></li>
+                                    <li>genitive – (leabhraichean) <m>nan easbaigean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>easbaig</m></li>
+                                    <li>plural – <m>easbaigean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an t-easbaig</m></li>
+                                    <li>plural – <m>na h-easbaigean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (le) <m>easbaig</m></li>
+                                    <li>plural – (le) <m>easbaigean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (leis) <m>an easbaig</m></li>
+                                    <li>plural – (leis) <m>na h-easbaigean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – (leabhar) <m>easbaig</m></li>
+                                    <li>plural – (leabhraichean) <m>easbaigean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – (leabhar) <m>an easbaig</m></li>
+                                    <li>plural – (leabhraichean) <m>nan easbaigean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>modifier</h>
+            <p>Compounds – <ul>
+                    <li><g><a href="?gd=sgìre">sgìre</a> easbaig</g>
+                        <en>diocese</en></li>
+                    <li><g>roinn easbaig</g>
+                        <en>bishopric, bishop’s see</en></li>
+                </ul></p>
+        </section>
+        <section>
+            <h>specifier</h>
+            <p>Compounds – <ul>
+                    <li><g>
+                            <a href="?gd=lùchairt">lùchairt</a> (an) easbaig</g>
+                        <en>(the) episcopal palace, (the) bishop’s palace</en></li>
+                    <li><g>gille (an) easbaig</g>
+                        <en>(the) bishop’s boy/servant</en>
+                        <ul>
+                            <li><g>GilleEasbaig</g>
+                                <masc/>
+                                <en>Archibald, Gillespie</en> [<a
+                                    href="?xx=nouns/anthroponymic_proper_nouns">anthroponymic proper
+                                    noun</a>] <ul>
+                                    <li><g>NicGilleEasbaig</g> / <g>MacGilleEasbaig</g>
+                                        <en>Gillespie, Archibald, Bishop</en> [surname]</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul></p>
+        </section>
+        <section>
+            <h>stem</h>
+            <section>
+                <h>prefixed</h>
+                <p>Compounds – <ul>
+                        <li><g><a href="?gd=ard">àrd</a>-easbaig</g>
+                            <masc/>
+                            <en>archbishop</en>
+                            <ul>
+                                <li><g><a href="?gd=sgìre">sgìre</a> àrd-easbaig</g>
+                                    <en>archdiocese</en></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </p>
+            </section>
+            <section>
+                <h>suffixed</h>
+                <p>Derivatives – <ul>
+                        <li><a href="?gd=easbaigeach"><g>easbaigeach</g></a>
+                            <adj/>
+                            <en>episcopal</en></li>
+                        <li><a href="?gd=easbaigeachd"><g>easbaigeachd</g></a>
+                            <fem/>
+                            <en>episcopacy</en></li>
+                    </ul>
+                </p>
+            </section>
+        </section>
+    </section>
+
+    <section id="etymology">
+        <h>etymology</h>
+        <p>[to come]</p>
+    </section>
+
+</module>

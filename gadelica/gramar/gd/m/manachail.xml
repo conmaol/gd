@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>manachail</h>
+    <p><g>manachail</g>
+        <en>monastic, monkish</en> is a <a href="?xx=adjectives/derived_adjectives">derived
+            adjective</a>, with stem <a href="?gd=manach"><g>manach</g></a>
+        <masc/>
+        <en>monk, friar</en>, and suffix <a href="?gd=_il"><g>-(a)il</g></a>.</p>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>stem</h>
+            <section>
+                <h>suffixed</h>
+                <p>Derivatives – <ul>
+                        <li><a href="?gd=manachalachd"><g>manachalachd</g></a>
+                            <fem/>
+                            <en>monasticism</en></li>
+                    </ul>
+                </p>
+            </section>
+        </section>
+    </section>
+</module>

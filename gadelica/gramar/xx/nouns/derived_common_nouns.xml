@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+  <h lang="en">derived common nouns</h>
+  <h lang="gd">ainmearan gnàthach bunaichte</h>
+  <p>Derived common nouns are <a href="?xx=nouns/common_nouns">common nouns</a> which have been
+    derived from other nouns, adjectives or verbs, typically by addition of a suffix eg. <ul>
+      <li><m>ceart</m> adj. <en>correct</en> ⇒ <m>ceartas</m> masc. <en>justice</en></li>
+      <li><m>seall</m> vb. <en>look</en> ⇒ <m>sealladh</m> masc. <en>view</en></li>
+    </ul>
+  </p>
+  <p>An important subclass of derived common nouns are the <a href="?xx=nouns/verbal_nouns">verbal
+      nouns</a>.</p>
+  <p>Noun-deriving suffixes – <ul>
+      <li><a href="?gd=_ach">-(e)ach</a></li>
+      <li><a href="?gd=_achd">-(e)achd</a></li>
+      <li><a href="?gd=_ag">-(e)ag</a></li>
+      <li><a href="?gd=_aire">-aire</a></li>
+      <li><a href="?gd=_an">-(e)an</a></li>
+      <li><a href="?gd=_as">-(e)as</a></li>
+      <li><a href="?gd=_e">-e</a></li>
+      <li><a href="?gd=_ead">-ead</a></li>
+      <li><a href="?gd=_iche">-(a)iche</a></li>
+      <li><a href="?gd=_inn">-(a)inn</a></li>
+    </ul>
+  </p>
+  <p>cf. <a href="?gd=tionail">tionail</a>
+    <vb/>
+    <en>come/bring together, gather</en> ⇒ <a href="?gd=tional">tional</a>
+    <masc/>
+    <en>collection, assembly</en>, <a href="?gd=aba">aba</a>
+    <masc/>
+    <en>abbot</en> ⇒ <a href="?gd=abaid">abaid</a>
+    <fem/>
+    <en>abbey</en>.</p>
+  <!--
+  <p><xref id="612" p="151"/> also lists –</p>
+  <ul>
+    <li>the agentive suffix <strong>-seach</strong> eg. <i>on</i> <en>foolish</en> ⇒ <m>oinseach</m> <en>foolish woman</en></li>
+    <li>the collective suffix <strong>-r(a)idh</strong> eg. <i>mac</i> <en>son</en> ⇒ <m>macruidh</m> <en>band of young men</en>, 
+      <i>òg</i> <en>young</en> ⇒ <m>òigridh</m> <en>young people</en></li>
+    <li>the collective suffix <strong>-lach</strong> eg. <i>taigh</i> <en>house</en> ⇒ <m>teaghlach</m> <en>family</en></li>
+  </ul>
+  -->
+</module>

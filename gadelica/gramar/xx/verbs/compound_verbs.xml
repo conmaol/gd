@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+  <h lang="en">compound verbs</h>
+  <h lang="gd">gnìomhairean fillte</h>
+  <p lang="en">Compound verbs are <a href="?xx=verbs/verbs">verbs</a> which have been formed from
+    other verbs, typically by addition of a prefix eg. <ul>
+      <li><m>sgrìobh</m> vb. <en>write</en> → <m>ath-sgrìobh</m> vb. <en>rewrite</en></li>
+      <li><m>sgaoil</m> vb. <en>spread</en> → <m>craobh-sgaoil</m> vb. <en>broadcast</en></li>
+    </ul>
+  </p>
+  <p lang="gd">Is e <a href="?xx=verbs/verbs">gnìomhairean</a> a tha ann an gnìomhairean fillte, a
+    tha air an cruthachadh à gnìomhairean eile, gu cumanta le ro-leasachan.</p>
+  
+  <p>cf. <a href="?gd=comh-">co(mh)-</a>.</p>
+  <!--
+  <p lang="en">Verb-compounding prefixes –</p>
+  <p lang="gd">Ro-leasachain –</p>
+  <ul>
+    <li><a href="?gd=an_">a(i)n-</a></li>
+    <li><a href="?gd=cùl">cùl-</a></li>
+    <li><a href="?gd=dì_">dì-</a></li>
+    <li><a href="?gd=dian">dian-</a></li>
+    <li><a href="?gd=eadar">eadar-</a></li>
+    <li><a href="?gd=geur">geur-</a></li>
+    <li><a href="?gd=mì_">mì-</a></li>
+    <li><a href="?gd=mìn">mìn-</a></li>
+  </ul>
+  <p>Also: <a href="?gd=dia">dia-</a>.</p>
+  -->
+</module>

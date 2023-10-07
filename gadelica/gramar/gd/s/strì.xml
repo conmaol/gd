@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h lang="en">strì</h>
+    <h lang="gd">strì</h>
+    <p lang="en"><b>strì</b>
+        <en>struggle, strive, battle, compete</en> is an intransitive (durative) <a
+            href="?q=verbal_aspect">atelic</a> verb, with verbal noun <b>strì</b>
+        <i>fem.</i></p>
+    <p lang="gd">...</p>
+    <p lang="en">Examples from Gairm – <xl id="exs">
+        <li>
+            <gd>Bha grunnan de ar luchd-leughaidh an dùil, nuair a nochd an àireamh mu
+                dheireadh de Ghairm, <m>gu robh sin a’ strì ri buidheann shònraichte, no duine
+                sònraichte, a chur do ’n Phàrlamaid</m>, agus bha wèireichean an telefon gu math
+                teth, uair no dhà, an déidh dhuinn tighinn o ’n chlò. Thog iad ceàrr sinn. [...]</gd>
+            <tr>Some of our readers were expecting [?], when the last issue of Gairm
+                appeared, that that was <u>striving to send a particular group [party?], or a
+                particular person, to the Parliament</u>, and the telephone wires were
+                pretty hot, for an hour or two [once or twice?], after we came from the
+                printers. They misunderstood us. [...]</tr>
+            <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+        </li>
+    </xl>
+    </p>
+    <p lang="gd">...</p>
+</module>
+

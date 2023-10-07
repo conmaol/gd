@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>bun-os-cionn</h>
+    <p><g>bun-os-cionn</g>
+        <en>head over heels, topsy-turvy, upside-down</en> is an adverb, with head <a href="?gd=bun"
+                ><g>bun</g></a>
+        <masc/>
+        <en>base, origin, source</en> and modifier <a href="?gd=os_cionn"><g>os cionn</g></a>
+        <en>over, above</en>.</p>
+
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>predicate</h>
+            <p>Some examples – <xl id="uses-pred-xs">
+                    <li><gd>Bha an taigh bun-os-cionn.</gd>
+                        <tr>The house was topsy-turvy.</tr>
+                        <ref text="601">td. 103</ref>
+                    </li>
+                    <li>
+                        <gd>Bha inntinn bun-os-cionn.</gd>
+                        <tr>His mind was topsy-turvy.</tr>
+                        <ref text=""/>
+                    </li>
+                </xl></p>
+        </section>
+        <section>
+            <h>complement</h>
+            <p>Some examples – <xl id="uses-comp-xs">
+                    <li><gd>cuir bun-os-cionn</gd>
+                        <tr>capsize, overturn, subvert, trun topsy-turvy</tr>
+                        <ref text="601">td. 103</ref>
+                    </li>
+                    <li>
+                        <gd>Bha an saoghal air dol bun-os-cionn.</gd>
+                        <tr>The world had turned upside down.</tr>
+                        <ref text=""/>
+                    </li>
+                    <li>
+                        <gd>Thuit e bun-os-cionn.</gd>
+                        <tr>He fell head over heels.</tr>
+                        <ref text="601">td. 103</ref>
+                    </li>
+                </xl></p>
+        </section>
+    </section>
+
+
+</module>

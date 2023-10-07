@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>à</h>
+    <p><g>à</g>
+        <en>out of, off, from</en> is the (non-leniting) elative <a
+            href="?xx=prepositions/prepositions">preposition</a>.</p>
+    <!--<p>The elative preposition <g>à</g> should not be confused with other uses of the particle <a
+            href="?gd=a"><g>a</g></a>.</p>-->
+    <section>
+        <h>forms</h>
+        <section id="indefinite">
+            <h>indefinite</h>
+            <p>The default form of the elative preposition is simply <g>à</g> – <ul>
+                    <li><m>à</m> taigh <en>out of a house</en></li>
+                    <li><m>à</m> aislingean <en>out of dreams</en></li>
+                    <li><m>à</m> Nirribhidh <en>out of Norway</en></li>
+                    <!--<li><m>à</m> trì làithean <en>out of three days</en></li>-->
+                </ul></p>
+            <p>Note that this preposition is often spelled with an acute accent, as in <g>á</g>, in
+                older writings, and sometimes even without any accent, as <g>a</g>. It is always
+                pronounced as a short, clear [a], and never as long [a:] or as schwa [ə].</p>
+        </section>
+        <section id="definite">
+            <h>definite</h>
+            <p>When the immediately following word is a form of the definite article, the linking
+                form <g>às</g> is used – <ul>
+                    <li><m>às an</m> taigh <en>out of the house</en></li>
+                    <li><m>às a’</m> bhaile <en>out of the town</en></li>
+                    <li><m>às na h-</m>aislingean <en>out of the dreams</en></li>
+                </ul>
+            </p>
+            <!-- <p><g>às</g> is used in a range of other vowel-initial contexts as well – <ul>
+                    <li><g>às a-màireach</g>
+                        <en>from tomorrow</en></li>
+                    <li><g>às a h-uile ...</g>
+                        <en>from every ...</en></li>
+                    <li><g>às a bheil ...</g>
+                        <en>out of which ...</en></li>
+                    <li><g>às àite</g>
+                        <en>out of place</en></li>
+                </ul>
+            </p>-->
+            <p>There are no fused forms with <g>à</g> and a <a
+                    href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+                    <li><m>às mo</m> thaigh <en>out of my house</en></li>
+                    <li><m>às do</m> bhaile <en>out of your town</en></li>
+                    <li><m>às a h-</m>òran <en>out of her song</en></li>
+                    <li><m>às a</m> chraoibh <en>out of his tree</en></li>
+                    <li><m>às ar n-</m>achadh <en>out of our field</en></li>
+                    <li><m>às bhur</m> leapannan <en>out of your beds</en></li>
+                    <li><m>às an</m> taighean <en>out of their houses</en></li>
+                    <li><m>às am</m> baile <en>out of their town</en></li>
+                </ul>
+            </p>
+        </section>
+        <section id="pronouns">
+            <h>prepositional pronouns</h>
+            <p>Conjugated prepositions are used in place of <bad>à mi</bad>, <bad>à thu</bad>, ... ,
+                    <bad>à iad</bad> – <ul>
+                    <li><m>asam</m>
+                        <en>out of me</en></li>
+                    <li><m>asad</m>
+                        <en>out of you</en></li>
+                    <li><m>aiste</m>
+                        <en>out of her/it</en></li>
+                    <li><m>às</m>
+                        <en>out of him/it</en></li>
+                    <li><m>asainn</m>
+                        <en>out of us</en></li>
+                    <li><m>asaibh</m>
+                        <en>out of you</en></li>
+                    <li><m>asta</m>
+                        <en>out of them</en></li>
+                </ul>
+            </p>
+            <p>There are also emphatic forms (cf. <bad>à mise</bad>, <bad>à thusa</bad>, ... ,
+                    <bad>à iadsan</bad>) – <ul>
+                    <li><m>asamsa</m>
+                        <en>out of <emph>me</emph></en></li>
+                    <li><m>asadsa</m>
+                        <en>out of <emph>you</emph></en></li>
+                    <li><m>aistese</m>
+                        <en>out of <emph>her/it</emph></en></li>
+                    <li><m>às-san</m>
+                        <en>out of <emph>him/it</emph></en></li>
+                    <li><m>asainne</m>
+                        <en>out of <emph>us</emph></en></li>
+                    <li><m>asaibhse</m>
+                        <en>out of <emph>you</emph></en></li>
+                    <li><m>astasan</m>
+                        <en>out of <emph>them</emph></en></li>
+                </ul>
+            </p>
+            <p>Finally, there are also reflexive forms (cf. <bad>à mi fhìn</bad>, <bad>à thu
+                    fhèin</bad>, ... , <bad>à iad fhèin</bad>) – <ul>
+                    <li><m>asam fhìn</m>
+                        <en>out of myself</en></li>
+                    <li><m>asad fhèin</m>
+                        <en>out of yourself</en></li>
+                    <li><m>aiste fhèin</m>
+                        <en>out of herself/itself</en></li>
+                    <li><m>às fhèin</m>
+                        <en>out of himself/itself</en></li>
+                    <li><m>asainn fhìn</m>
+                        <en>out of ourselves</en></li>
+                    <li><m>asaibh fhèin</m>
+                        <en>out of yourself</en></li>
+                    <li><m>asta fhèin</m>
+                        <en>out of themselves</en></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section id="comp">
+            <h>complements</h>
+            <p>Some examples – <ul>
+                    <li>pedagogical examples – <xl id="comps-pedag">
+                            <li>
+                                <gd>Cò às a tha thu? Tha à Glaschu.</gd>
+                                <tr>Where are you from? From Glasgow.</tr>
+                                <ref text="601">td. 2</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li>older pedagogical examples – <xl id="comp-older-pedag">
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                                    anns a’ chàr. Chaidh iad sìos taobh an locha is stad iad aig
+                                    àite bòidheach gorm. Chuir iad an càr a stigh gu taobh an
+                                    rathaid is thug iad brat a mach <m>as a’ chàr</m> air son suidhe
+                                    air. [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. They put the car into the side of
+                                    the road and they took a blanket out of the car for sitting on.
+                                    [...]</tr>
+                                <ref text="621">td. 6</ref>
+                                <note><a href="?gd=càr">càr</a>
+                                    <masc/>
+                                    <en>car</en></note>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+            <p>Some idioms – <ul>
+                    <!--<li><g>às <a href="?gd=an-seo">an·seo</a></g>
+                        <en>hence</en></li>-->
+                   <!-- <li><g>às <a href="?gd=an-sin">an·sin</a></g>, <g>às an àite sin</g>
+                        <en>thence</en></li>-->
+                    <li><g>à fasan</g> / <g>às an fhasan</g>
+                        <en>out-of-date, out of fashion</en></li>
+                    <li><g>às an t-sreath</g>
+                        <en>exceptional</en></li>
+                    <li><g>às a’ chumantas</g>
+                        <en>out of the usual, abnormal</en></li>
+                    <li><g>às an rathad</g>
+                        <en>esoteric</en></li>
+                    <li><g>à measg ...</g>
+                        <en>from among ...</en> – <ul>
+                            <li>pedagogical examples – <xl id="a_measg-pedag">
+                                    <li>
+                                        <gd>Thàinig iad a-mach <m>à measg nan craobh</m>.</gd>
+                                        <tr>They came out from among the trees.</tr>
+                                        <ref text="601">td. 2</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="pred">
+            <h>predicate</h>
+            <module status="bronze" id="bi_a">
+                <h>bi à ...</h>
+                <p><g><a href="?gd=bi">bi</a> à ...</g>
+                    <en>be from ...</en></p>
+                <p>Some examples – <ul id="bi-exs">
+                        <li>pedagogical examples – <xl id="bi_a-pedag">
+                                <li>
+                                    <gd>Cò às a tha thu? Tha à Glaschu.</gd>
+                                    <tr>Where are you from? From Glasgow.</tr>
+                                    <ref text="601">td. 2</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </module>
+        </section>
+        <section id="uses-comp">
+            <h>complement</h>
+            <module id="thig" status="bronze">
+                <h>thig à ...</h>
+                <p><g><a href="?gd=thig">thig</a> à ...</g>
+                    <en>come from somewhere</en></p>
+                <p>Some examples – <ul id="thig-exs">
+                        <li>pedagogical examples – <xl id="thig-pedag">
+                                <li>
+                                    <gd>Tha Màiri a’ tighinn a-nall <m>à Glaschu</m>.</gd>
+                                    <tr>Mary is coming over here from Glasgow.</tr>
+                                    <ref text="609">td. 31</ref>
+                                </li>
+                                <li>
+                                    <gd>Bha e a’ tighinn a-mach às an taigh. Chaidh e a-steach don
+                                        togalach às an robh an t-seinn a’ tighinn.</gd>
+                                    <tr>He was coming out of the house. He entered the building from
+                                        which the singing was coming.</tr>
+                                    <ref text="601">td. 49</ref>
+                                </li>
+                                <li>
+                                    <gd>Thuit e anns a’ chadal às nach tig dùsgadh.</gd>
+                                    <tr>He fell into the sleep from which comes no awakening.</tr>
+                                    <ref text="601">td. 49</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>biblical examples – <xl id="thig-bible">
+                                <li>
+                                    <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig do’n
+                                        Eiphit; thàinig gach duine agus a theaghlach maille re
+                                        Iacob: Reuben, Simeon, Lebhi, agus Iudah, [...] Agus na
+                                        h-anman uile <m>a thàinig a mach a leasraidh Iacoib</m>, bu
+                                        deich agus tri fichead anam iad; oir bha Ioseph ’san Eiphit
+                                        a cheana. [...]</gd>
+                                    <tr>Now these are the names of the children of Israel, which
+                                        came into Egypt; every man and his household came with
+                                        Jacob. Reuben, Simeon, Levi, and Judah, [...] And all the
+                                        souls that came out of the loins of Jacob were seventy
+                                        souls: for Joseph was in Egypt already. [...] [KJV]</tr>
+                                    <ref text="160">Ecsodus I.1–5</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+                <module id="thig_a_measg" status="bronze">
+                    <h>thig à measg ...</h>
+                    <p><g>thig à measg ...</g>
+                        <en>come from among ...</en></p>
+                    <p>Some examples – <ul id="thig_a_measg-exs">
+                            <li>pedagogical examples – <xl id="thig_a_measg-pedag">
+                                    <li>
+                                        <gd>Thàinig iad a-mach à measg nan craobh.</gd>
+                                        <tr>They came out from among the trees.</tr>
+                                        <ref text="601">td. 2</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </p>
+                </module>
+            </module>
+            <!--<module id="thoir" status="bronze">
+                <h>thoir à ...</h>
+                <p><g><a href="?gd=thoir">thoir</a> à ...</g>
+                    <en>take from someone</en></p>
+                <module id="thoir_an_car_a" status="bronze">
+                    <h>thoir an car à ...</h>
+                    <p><g>thoir an car à ...</g>
+                        <en>cheat/outwit/trick someone</en></p>
+                    <p>Some examples – <ul id="thoir_car_-exs">
+                            <li>pedagogical examples – <xl id="thoir_car-pedag">
+                                    <li>
+                                        <gd>Thug e an car asam.</gd>
+                                        <tr>He cheated/tricked me.</tr>
+                                        <ref text="601">td. 49</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </p>
+                </module>
+            </module>-->
+
+            <module status="bronze" id="tarraing_a">
+                <h>tarraing à ...</h>
+                <p><g><a href="?gd=tarraing">tarraing</a> à ...</g>
+                    <en>tease</en></p>
+                <p>Some examples – <ul id="tarraing-exs">
+                        <li>pedagogical examples – <xl id="tarraing-pedag">
+                                <li>
+                                    <gd>Bha iad a’ tarraing às.</gd>
+                                    <tr>They were teasing him.</tr>
+                                    <ref text="601">td. 2</ref>
+                                </li>
+                                <li>
+                                    <gd>Bha i a’ tarraing asam.</gd>
+                                    <tr>She was teasing me.</tr>
+                                    <ref text="601">td. 2</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </module>
+
+            <module status="bronze" id="fada_a">
+                <h>fada à ...</h>
+                <p><g><a href="?gd=fada">fada</a> à ...</g>
+                    <en>far (away) from ...</en></p>
+                <p>Some examples – <ul id="fada-exs">
+                        <li>pedagogical examples – <xl id="fada-pedag">
+                                <li>
+                                    <gd>Cha robh iad <m>fada à cala</m> nuair a dh’èirich a’ ghaoth
+                                        gu gailinn.</gd>
+                                    <tr>They weren’t far out of harbour when the wind rose to a
+                                        gale.</tr>
+                                    <ref text="601">td. 2</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </module>
+            <module status="bronze" id="cinnteach_a">
+                <h>cinnteach à ...</h>
+                <p><g><a href="?gd=cinnteach">cinnteach</a> à ...</g>
+                    <en>sure of ...</en></p>
+                <p>Some examples – <ul id="cinnteach-exs">
+                        <li>pedagogical examples – <xl id="cinnteach-pedag">
+                                <li>
+                                    <gd>Bha i cinnteach aiste fhèin.</gd>
+                                    <tr>She was sure of herself.</tr>
+                                    <ref text="601">td. 2</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </module>
+
+        </section>
+    </section>
+
+    <!--
+    <module id="as_bith">
+        <h>às bith</h>
+        <h lang="gd">às bith</h>
+        <p>Corpus examples – <xl id="as_bith-exs">
+                <li>
+                    <gd>[...] A nis, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas ùr
+                        againn. Tha sinn an dòchas gun téid gu math dhaibh, agus gun cuir iad
+                        spionnadh ás ùr anns an dùthaich air fad. Agus gu seachd àraidh anns a’
+                        Ghaidhealtachd: gun tòisich obair an dealain a rithist, gun cuirear
+                        tuilleadh bhàtaichean-iasgaich an sàs, gum faigh na Gaidheil cothrom air
+                        fearann na Gaidhealtachd obrachadh dhaibh fhéin, <m>ás bith an ann</m> mar
+                        chroitean no mar innis no mar choille, gun bhacadh o bhàllidh no o
+                        thighearna.</gd>
+                    <tr>[...] Now, the General Election is behind us, and we have a new Government.
+                        We hope that they will do well, and that they will re-energise the whole
+                        country. And most especially in the Highlands: that electricity work will
+                        restart, that more fishing boats will be put into service [?], that the
+                        Gaels will get the opportunity to work the land of the Highlands for
+                        themselves, <u>whether</u> as crofts or as grazing or as forest, without
+                        hindrance from a bailiff or from a laird.</tr>
+                    <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                </li>
+            </xl></p>
+        <p lang="gd">...</p>
+    </module>
+    <module id="as_ur">
+        <h>às ùr</h>
+        <h lang="gd">às ùr</h>
+        <p>cf. <a href="?gd=ur-adjective">às ùr</a></p>
+        <p lang="gd">...</p>
+    </module>
+-->
+
+</module>

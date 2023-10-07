@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>An Eaglais Stèidhichte</h>
+    <p><g>An <a href="?gd=eaglais_stèidhichte">Eaglais Stèidhichte</a></g>
+        <en>The Established Church</en> is an <a href="?xx=nouns/ergonymic_name-descriptions"
+            >ergonymic name-description</a>. </p>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>object</h>
+            <p>Examples from modern usage – <xl id="uses-obj">
+                    <li>
+                        <gd>Nuair a thàinig an Dealachadh (1843) agus a dh’fhàg mòran dhen t-sluagh
+                            an Eaglais Stèite, chuir an Eaglais Shaor a cuid sgoiltean fhèin air
+                            chois.</gd>
+                        <tr>When the Disruption came (1843) and many of the people left the
+                            Established Church, the Free Church set up its own schools.</tr>
+                        <ref text="609">td. 193</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>complement</h>
+            <p>Examples from modern usage – <xl id="uses-comp">
+                    <li>
+                        <gd>Rinneadh tomhas dhen obair sin [modh-litreachadh na Gàidhlig a
+                            leasachadh] fo sgèith Seanadh Earra-Ghàidheal anns an Eaglais
+                            Stèite.</gd>
+                        <tr>A certain amount of that work [developing the orthography of Gaelic] had
+                            been done under the aegis of the Synod of Argyll in the Established
+                            Church.</tr>
+                        <ref text="609">td. 193</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+</module>

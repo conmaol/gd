@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>teann</h>
+  <p><g>teann</g>
+    <en>firm, hard, solid, tense, tight, strict, severe, stringent, austere, compact, intense,
+      taut</en> is an <a href="?xx=adjectives/adjectives">adjective</a>.</p>
+
+  <section>
+    <h>dependents</h>
+    <section id="deps-comps">
+      <h>complements</h>
+      <module status="bronze" id="teann_air">
+        <h>teann air ...</h>
+        <p><g>teann air ...</g>
+          <en>close to, near</en></p>
+      </module>
+    </section>
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section>
+      <h>derivatives</h>
+      <module status="bronze" id="teann-vb">
+        <h>teann <vb/></h>
+        <p><g>teann</g>
+          <en>approach, draw near</en> is a verb, derived from the adjective <g>teann</g>
+          <en>firm, tight, taut</en>.</p>
+        <section id="forms">
+          <h>forms</h>
+          <p>The principal parts of the verb <g>teann</g> are – <ul>
+              <li><m>teannaidh</m> – future independent ie. <en>will start</en></li>
+              <li><m>theann</m> – past independent ie. <en>started</en></li>
+              <li><m>teannadh</m> – verbal noun ie. <en>starting</en></li>
+            </ul>
+          </p>
+          <section id="tense">
+            <h>tense</h>
+            <p>
+              <ul>
+                <li>past <ul id="past">
+                    <li>active <ul>
+                        <li>independent – <m>theann</m></li>
+                        <li>relative – a <m>theann</m></li>
+                        <li>dependent – cha/an/nach <m>do theann</m></li>
+                      </ul>
+                    </li>
+                    <li>passive <ul>
+                        <li>independent – <m>theannadh</m></li>
+                        <li>relative – a <m>theannadh</m></li>
+                        <li>dependent – cha/an/nach <m>do theannadh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li>future <ul id="future">
+                    <li>active <ul>
+                        <li>independent – <m>tòisichidh</m></li>
+                        <li>relative – a <m>theannas</m></li>
+                        <li>dependent – cha/an/nach <m>teann</m></li>
+                      </ul>
+                    </li>
+                    <li>passive <ul>
+                        <li>independent – <m>teannar</m></li>
+                        <li>relative – a <m>theannar</m></li>
+                        <li>dependent – cha/an/nach <m>teannar</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li>conditional <ul id="conditional">
+                    <li>active <ul>
+                        <li>first person singular <ul>
+                            <li>independent – <m>theannainn</m></li>
+                            <li>relative – a <m>theannainn</m></li>
+                            <li>dependent – cha/an/nach <m>teannainn</m></li>
+                          </ul>
+                        </li>
+                        <li>first person plural <ul>
+                            <li>independent – <m>theannamaid</m></li>
+                            <li>relative – a <m>theannamaid</m></li>
+                            <li>dependent – cha/an/nach <m>teannamaid</m></li>
+                          </ul>
+                        </li>
+                        <li>second/third persons <ul>
+                            <li>independent – <m>theannadh</m></li>
+                            <li>relative – a <m>theannadh</m></li>
+                            <li>dependent – cha/an/nach <m>teannadh</m></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </li>
+                    <li>passive <ul>
+                        <li>independent – <m>theannte</m></li>
+                        <li>relative – a <m>theannte</m></li>
+                        <li>dependent – cha/an/nach <m>teannte</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </p>
+          </section>
+        </section>
+
+
+        <section>
+          <h>dependents</h>
+          <section id="deps-sbj">
+            <h>subject</h>
+            <p>[coming]</p>
+          </section>
+          <section>
+            <h>complements</h>
+            <section>
+              <h>prepositions</h>
+              <module status="bronze" id="teann-vb_air">
+                <h>teann air ...</h>
+                <p><g>teann air</g>
+                  <en>approach, near, draw near to, commence</en></p>
+              </module>
+              <module id="teann-vb_ri" status="bronze">
+                <h>teann ri ...</h>
+                <p>The verb <g>teann</g> can govern a complement introduced by the preposition <a
+                    href="?gd=ri"><g>ri</g></a>, expressing <a href="?q=verbal_aspect">inchoative
+                    verbal aspect</a>, cf. <a href="?gd=tòisich"><g>tòisich</g></a> – <ul>
+                    <li><m>Theann Raonaid ri seinn</m>
+                      <en>Rachel began to sing</en></li>
+                    <li><m>Bha Iain a’ teannadh ri ubhal a ithe</m>
+                      <en>John was starting to eat an apple</en></li>
+                  </ul>
+                </p>
+                <p>Some examples – <ul>
+                    <li>intransitive – <xl id="non-progressive">
+                        <li>
+                          <gd>Cha d’rinn i ach teannadh ri ithe an uair a thàinig trì
+                            madaidhean-allaidh far an robh i.</gd>
+                          <tr>She had just started to eat when three wolves came to where she
+                            was.</tr>
+                          <ref text="48">td. 129</ref>
+                        </li>
+                        <li>
+                          <gd>Theann am feasgar ri ciaradh.</gd>
+                          <tr>The evening started to darken.</tr>
+                          <ref text="400-154">td. 166</ref>
+                          <note><ed>Is ciaradh a verbal noun here?</ed></note>
+                        </li>
+                        <li>
+                          <gd>Theann e ri streap.</gd>
+                          <tr>he began/set about climbing</tr>
+                          <ref text="605">td. 369</ref>
+                        </li>
+                        <li>
+                          <gd>Theann na cuileagan ri laighe air an uisge.</gd>
+                          <tr>The flies began to land on the water.</tr>
+                          <ref text="601">td. 572</ref>
+                        </li>
+                        <li>
+                          <gd>“Mo bhuan-bheannachd ort, ’ille,” thuirt e, agus theann e ri ithe gu
+                            cabhagach. </gd>
+                          <tr>“Eternal blessing unto you, lad,” he said, and he started to eat
+                            hurriedly.</tr>
+                          <ref text="328">td. 28</ref>
+                        </li>
+                      </xl>
+                    </li>
+                    <li>transitive examples with direct object inversion – <xl id="inversion">
+                        <li>
+                          <gd>Theann feadhainn ri bonnach arain a chur air tobhtaichean nan taighean
+                            agus bhiodh na bonnaich air falbh ’sa’ mhaduinn.</gd>
+                          <tr>Some people began putting bannocks on the ruins of the houses and the
+                            bannocks would be gone in the morning.</tr>
+                          <ref text="31">td. 19</ref>
+                        </li>
+                        <li>
+                          <gd>Dh’fheumadh e teannadh ri a theachd-an-tìr a chosnadh.</gd>
+                          <tr>He had to start to earn his livelihood.</tr>
+                          <ref text="601">td. 572</ref>
+                        </li>
+                      </xl></li>
+                    <li>transitive examples without inversion – <xl id="no-inversion">
+                        <li>
+                          <gd>Shuidh e ’s theann e ri bleoghan nan caorach ’s gobhair nam meigead
+                            [...]</gd>
+                          <tr>He sat down and started to milk the sheep and the bleating goats
+                            [...]</tr>
+                          <ref text="267"/>
+                        </li>
+                      </xl></li>
+                    <li>progressive examples – <xl id="progressive">
+                        <li>
+                          <gd>Bha e a’ teannadh ris an fhuachd fhaireachdach tron chòta.</gd>
+                          <tr>He was beginning to feel the cold through the coat.</tr>
+                          <ref text="601">td. 572</ref>
+                        </li>
+                      </xl></li>
+                  </ul>
+                </p>
+                <p>Some variation – <ul>
+                    <li><g>teann air (dèanamh)</g> as an alternative – <xl id="teann_air-xs">
+                        <li>
+                          <gd>[...] agus theann iad air falbh a dheanamh cath, ás leth Shasuinn, ro
+                            rìoghachdan a bha riamh càirdeil, bàigheil ri Albainn.</gd>
+                          <tr>[...] and they started to leave to make war, on behalf of England, on
+                            kingdoms who had always been friendly and well disposed to
+                            Scotland.</tr>
+                          <ref text="218-4">td. 361</ref>
+                        </li>
+                        <li>
+                          <gd>Rug Dùghall air té de na pacaidean, bhris e air a ghlùin i, agus
+                            theann eair tilgeil nam brioscaidean-móra chun nan gillean.</gd>
+                          <tr>[...] and he started to throw the biscuits to the boys.</tr>
+                          <ref text="400-3">td. 34</ref>
+                        </li>
+                        <li>
+                          <gd>Cha robh e ach glé òg an uair a theann e air luinneagan a chur r’a
+                            chéile.</gd>
+                          <tr>He was only very young when he began to compose ditties.</tr>
+                          <ref text="45">td. 8</ref>
+                        </li>
+                        <li>
+                          <gd>Aon oidhche ’s mi air chéilidh theann gille òg air seinn òran nach
+                            robh mi air a chluinntinn a riamh.</gd>
+                          <tr>[...] a young boy started to sing a song [...]</tr>
+                          <ref text="400-5">td. 17</ref>
+                        </li>
+                        <li>
+                          <gd>Theann na féidh air ith a’ choirce.</gd>
+                          <tr>The deer started to eat the oats.</tr>
+                          <ref text="400-87">td. 222</ref>
+                        </li>
+                      </xl>
+                    </li>
+                    <li><g>teann ag (dèanamh)</g> – <xl id="teann_ag">
+                        <li>
+                          <gd>[...] is bha mi toilichte nuair a theann iad a’ bruidhinn air ceòl a
+                            rithist.</gd>
+                          <tr>[...] and I was happy when they began talking about music again.</tr>
+                          <ref text="400-17">td. 22</ref>
+                          <note>teann a’ dèanamh</note>
+                        </li>
+                        <li>
+                          <gd>Theann a chasan a’ dol ma seach.</gd>
+                          <tr>His feet started to stagger.</tr>
+                          <ref text="400-109">td. 44</ref>
+                        </li>
+                      </xl>
+                    </li>
+                    <li><g>teann dèanamh</g> – <xl id="teann_deanamh">
+                        <li>
+                          <gd>Mar theann uair na meadhon-oidhche theann iomagain dhaoine dhol am
+                            meud.</gd>
+                          <tr>As midnight drew nearer, people’s anxiety started to increase.</tr>
+                          <ref text="313">td. 148</ref>
+                        </li>
+                      </xl>
+                    </li>
+                  </ul>
+                </p>
+              </module>
+            </section>
+          </section>
+        </section>
+      </module>
+    </section>
+  </section>
+
+  <!--
+  <p><b>teann air/ri + NP</b>
+    <ed>approach or start ???</ed> – <ul>
+      <li>Agus <u>theann i air òraid-molaidh</u> ma na daoine a bhuineadh dhi… (§336)</li>
+      <li>Se a thachair gu’n do <u>theann iad am mach air an turus</u> dh’ionnsuidh an Eilein Fhada
+        ... (§218004)</li>
+      <li>Bha bean Dhòmhnaill agus a clann cho math rithe, sàsta gu leòr leis an tigh gus an do
+          <u>theann na coimhearsnaich air an obair</u> (§400052)</li>
+      <li>... cionnas a bha iad o <u>theann iad air an turus</u>? (§142)</li>
+      <li>Bho’n a <u>theann sinn ris a’ chlò</u>, Gun cuir sinn dòigh is rian air, Is ni sinn deis’
+        o cheann gu shàil, Do Theàrlach Bàn mar b’ fhiach dhuinn (§83)</li>
+      <li>Thatar a’ cur air Diuc Atholl gu’m b’ e <u>theann ris an obair an-iochdmhor sin</u> an
+        toiseach (§81011)</li>
+    </ul>
+  </p>
+-->
+
+  <p/>
+  <!--
+  <p>others</p>
+  <ulx id="others">
+    <lix>
+      <gd>Theann e ris a’ ghairm-pòsaidh.</gd>
+      <tr>He started on the wedding declaration.</tr>
+      <ref text="328">td. 33</ref>
+    </lix>
+    <lix>
+      <gd>Chuir e fios thuca gun robh nàimhdean a’ teannadh orra.</gd>
+      <tr>He sent information that enemies were approaching them.</tr>
+      <ref text="601">td. 572</ref>
+    </lix>
+    <lix>
+      <gd>Theann iad na b’fhaisge air blàths an teine.</gd>
+      <tr>They drew nearer the warmth of the fire.</tr>
+      <ref text="601">td. 572</ref>
+    </lix>
+    <lix>
+      <gd>Theann a ceum ris na cnuic.</gd>
+      <tr>She walked towards the hillocks.</tr>
+      <ref text="601">td. 572</ref>
+    </lix>
+  </ulx>
+
+  <hr/>
+  -->
+</module>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>uisge</h>
+    <p><g>uisge</g>
+        <en>water</en> is a masculine simple common noun</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <module status="bronze" id="fon_uisge">
+                <h>fon uisge</h>
+                <p><g><a href="?gd=fo">fon</a> uisge</g>
+                    <en>underwater</en></p>
+                <section>
+                    <h>uses</h>
+                    <section>
+                        <h>complement</h>
+                        <module status="bronze" id="rach_fon_uisge">
+                            <h>rach fon uisge</h>
+                            <p><g><a href="?gd=rach">rach</a> fon uisge</g>
+                                <en>go underwater</en> – <ul>
+                                    <li>pedagogical examples – <xl id="rach_fon_uisge">
+                                            <li>
+                                                <gd>Chaidh an long-fo-mhuir fon uisge. | Bha e math
+                                                  air dol fon uisge.</gd>
+                                                <tr>The submarine dived/submerged. | He was good at
+                                                  diving.</tr>
+                                                <ref text="601">td. 478, ibid</ref>
+                                            </li>
+                                        </xl>
+                                    </li>
+                                </ul>
+                            </p>
+                        </module>
+                    </section>
+                </section>
+            </module>
+        </section>
+    </section>
+
+
+</module>

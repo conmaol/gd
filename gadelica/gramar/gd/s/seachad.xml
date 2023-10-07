@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>seachad</h>
+    <p><g>seachad</g>
+        <en>past</en> is an adverb.</p>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complements</h>
+            <module status="bronze" id="rach_seachad">
+                <h>rach seachad</h>
+                <p><g><a href="?gd=rach">rach</a> seachad</g>
+                    <en>go past</en> – <ul>
+                        <li>pedagogical examples – <xl id="comps-seachad-pedag">
+                                <li>
+                                    <gd>An deach sibh tarsainn air an abhainn no <m>seachad air Càrn
+                                            Sheumais</m>?</gd>
+                                    <tr>Did you go across the river or past Càrn Sheumais?</tr>
+                                    <ref text="609">td. 99</ref>
+                                </li>
+                                <li>
+                                    <gd>Cha do dh’fhairich sinn an oidhche a’ dol
+                                        <m>seachad</m>.</gd>
+                                    <tr>We didn’t feel the night passing.</tr>
+                                    <ref text="609">td. 165</ref>
+                                    <note>figurative</note>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+                <p>Note the following idiomatic use – <g>rach seachad air</g>
+                    <en>ignore</en> – <ul>
+                        <li>pedagogical examples – <xl id="idioms-rach_seachad-pedag">
+                                <li>
+                                    <gd>[...] ach uaireannan tha e duilich a <m>dhol seachad
+                                            orra</m></gd>
+                                    <tr>[...] but sometimes it’s difficult to ignore them</tr>
+                                    <ref text="601">td. 477</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul></p>
+            </module>
+        </section>
+    </section>
+
+
+    <section id="other">
+        <h>other</h>
+        <p>Examples from Gairm – <xl id="xs">
+                <li>
+                    <gd>[...] A nis, <m>tha an Taghadh Nàiseanta seachad</m>, agus tha Riaghaltas ùr
+                        againn. Tha sinn an dòchas gun téid gu math dhaibh, agus gun cuir iad
+                        spionnadh ás ùr anns an dùthaich air fad. Agus gu seachd àraidh anns a’
+                        Ghaidhealtachd: [...]</gd>
+                    <tr>[...] Now, the General Election is over, and we have a new Government. We
+                        hope that they will do well, and that they will re-energise the whole
+                        country. And most especially in the Highlands: [...]</tr>
+                    <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+                </li>
+                <li>
+                    <gd>[...] ’S bha iad ’nan suidhe an sin ag òl uisge-beatha fad na h-oidhch’, na
+                        ceathrar aca. An dràsda ’s a rithist shealladh Iain a-mach air an uinneig
+                        ris a’ mhuir ’s na h-eileanan. Chitheadh e aig amannan <m>na faoileagan a’
+                            gabhail seachad</m>, ’s chluinneadh e an cuid sgriachail. [...]</gd>
+                    <tr>[...] And they were sat there drinking whisky all night, the four of them.
+                        Now and again John would look out the window at the sea and the islands. He
+                        could see at times the gulls going past, and he could hear their screeching.
+                        [...]</tr>
+                    <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+</module>

@@ -1,0 +1,2193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>Gaelic Orthographic Conventions</h>
+    <p>The original version of this document can be found <ax
+            href="https://www.sqa.org.uk/sqa/files_ccc/SQA-Gaelic_Orthographic_Conventions-En-e.pdf"
+            >here</ax>.</p>
+    <section id="spelling_rule">
+        <h>1. the spelling rule</h>
+        <p>The spelling rule – <g>leathann ri leathann is caol ri caol</g>
+            <en>broad to broad and slender to slender</en> – means that when one or more consonants
+            come between two vowels, the vowels on either side of the consonant(s) should be of the
+            same class.</p>
+        <section id="broad2broad">
+            <h>a. broad to broad</h>
+            <p>If the vowel preceding the consonant(s) is broad – <g>a</g>, <g>o</g> or <g>u</g> –
+                the vowel following should also be broad – <ul>
+                    <li><m>b<emph>oda</emph>ch</m>, <m>ce<emph>òlmho</emph>r</m>,
+                                <m>c<emph>uma</emph>dh</m></li>
+                </ul>
+            </p>
+        </section>
+        <section id="slender2slender">
+            <h>b. slender to slender</h>
+            <p>B. Where the vowel before the consonant(s) is slender – <g>i</g> or <g>e</g> – then
+                the vowel after the consonant(s) should be slender – <ul>
+                    <li><m>ca<emph>ile</emph>ag</m>, <m>co<emph>inni</emph>ch</m>,
+                                <m>o<emph>idhche</emph></m></li>
+                </ul>
+            </p>
+        </section>
+        <section id="spelling_rule-exceptions">
+            <h>exceptions</h>
+            <p>Exceptions to this rule occur – <ul>
+                    <li>with some past participles passive – <ul>
+                            <li><m>gl<emph>acte</emph></m>, <m>le<emph>agte</emph></m>,
+                                        <m>t<emph>ogte</emph></m></li>
+                        </ul></li>
+                    <li>with certain compounds – <ul>
+                            <li><m>b<emph>anri</emph>gh</m>, <m>ch<emph>ore</emph>igin</m>,
+                                        <m>m<emph>oche</emph>irigh</m>,
+                                <m>r<emph>ude</emph>igin</m></li>
+                        </ul></li>
+                    <li>and with some borrowed words – <ul>
+                            <li><m>m<emph>osgì</emph>oto</m>, <m>so<emph>irca</emph>s</m>,
+                                        <m>tel<emph>efò</emph>n</m></li>
+                        </ul></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+    <section id="consonant_quality">
+        <h>2. consonant quality</h>
+        <section id="palatal_quality">
+            <h>a. palatals</h>
+            <p>A. Consonants or consonant groups with palatal quality should be indicated by placing
+                slender vowels (<g>e</g>, <g>i</g>) adjacent to them: <ul>
+                    <li>at the beginning of a word – <m><emph>ce</emph>ann</m>,
+                            <m><emph>ge</emph>all</m>, <m><emph>gre</emph>ann</m>,
+                                <m><emph>se</emph>all</m>, <m><emph>ste</emph>all</m></li>
+                    <li>at the end of a word – <m>cru<emph>inn</emph></m>,
+                        <m>cu<emph>irm</emph></m>, <m>Go<emph>ill</emph></m>,
+                            <m>rù<emph>isg</emph></m>, <m>sa<emph>ill</emph></m></li>
+                    <li>in the middle of a word – <m>cl<emph>isge</emph>adh</m>,
+                                <m>cru<emph>inne</emph></m>, <m>sa<emph>ille</emph>adh</m>,
+                                <m>tu<emph>ille</emph>adh</m></li>
+                </ul>
+            </p>
+        </section>
+        <section id="velar_quality">
+            <h>b. velars</h>
+            <p>B. Consonants or consonant groups with velar quality should be indicated by placing
+                broad vowels (<g>a</g>, <g>o</g>, <g>u</g>) adjacent to them – <ul>
+                    <li>at the beginning of a word – <m><emph>grà</emph>n</m>,
+                            <m><emph>sprù</emph>illeach</m>, <m><emph>stò</emph>r</m></li>
+                    <li>at the end of a word – <m>ce<emph>ann</emph></m>, <m>c<emph>osg</emph></m>,
+                                <m>ge<emph>al</emph></m>, <m>se<emph>alg</emph></m></li>
+                    <li>in the middle of a word – <m>ce<emph>anna</emph>ich</m>,
+                                <m>b<emph>ala</emph>ch</m>, <m>c<emph>osga</emph>is</m>,
+                                <m>l<emph>ochda</emph>n</m></li>
+                </ul></p>
+        </section>
+        <section id="consonant_quality-seo">
+            <h>c. seo, siud, no</h>
+            <p>The forms <m>seo</m> and <m>siud</m>, showing palatal quality, should be used. In the
+                case of <m>neo</m> or <m>no</m>, the latter is the preferred form, although the
+                former is appropriate in the phrase <m>air neo</m>.</p>
+        </section>
+        <section id="consonant_quality-taigh">
+            <h>d. taigh</h>
+            <p>To refect the sound quality of the consonant, <m>taigh</m> should be used instead of
+                    <m>tigh</m>. </p>
+        </section>
+    </section>
+    <section id="consonant_groups">
+        <h>3. consonant groups</h>
+        <section id="groups-sybillant">
+            <h>a. -sg-, -sp-, -st-</h>
+            <p>The letters <g>sg</g> should be used in all positions in place of <g>sc</g> – <ul>
+                    <li><m>ba<emph>sg</emph>aid</m>, <m>co<emph>sg</emph></m>,
+                            <m>pa<emph>sg</emph>an</m>, <m><emph>Sg</emph>alpaigh</m>,
+                                <m><emph>sg</emph>ian</m></li>
+                </ul></p>
+            <p>The letters <g>sp</g> should be used in all positions in place of <g>sb</g> – <ul>
+                    <li><m>cu<emph>sp</emph>air</m>, <m>cu<emph>sp</emph>ann</m>,
+                            <m><emph>sp</emph>eal</m>, <m>u<emph>sp</emph>ag</m></li>
+                </ul></p>
+            <p>However, because of their frequency and familiarity, the spelling of the words
+                    <m>deasbad</m>, <m>easbaig</m>, <m>susbaint</m> and <m>taisbeanadh</m> should be
+                left unchanged.</p>
+            <p>The letters <g>st</g> should be used in all positions in place of <g>sd</g> – <ul>
+                    <li><m>ao<emph>st</emph>a</m>, <m>a-rithi<emph>st</emph></m>,
+                                <m>èi<emph>st</emph></m>, <m>fura<emph>st</emph>a</m>,
+                                <m>ga<emph>st</emph>a</m>, <m>pò<emph>st</emph>a</m>,
+                                <m><emph>st</emph>aidhre</m>, <m>tuara<emph>st</emph>al</m>,
+                                <m>tubai<emph>st</emph></m></li>
+                </ul></p>
+            <p>An exception would arise in a compound place name where the final element is
+                    <g>-dal</g> or <g>-dail</g> – <ul>
+                    <li><m>Grama<emph>sd</emph>al</m>, <m>Laca<emph>sd</emph>al</m>, <m>Loch
+                                Bagha<emph>sd</emph>ail</m></li>
+                </ul></p>
+            <p>Exceptions may also be found in the case of established forms of personal names and
+                nomenclature on signage – <ul>
+                    <li><m>Ala<emph>sd</emph>air</m>, <m>Colai<emph>sd</emph>e</m>,
+                                <m>Fionnla<emph>sd</emph>an</m>, <m>Taigh-ò<emph>sd</emph>a</m>,
+                                <m>Ùi<emph>sd</emph>ean</m></li>
+                </ul></p>
+            <p>Likewise, <m>Crìo<emph>sd</emph>(a)</m>, <m>Crìo<emph>sd</emph>aidh</m>
+                <etc/></p>
+        </section>
+        <section id="groups-comh">
+            <h>b. co-</h>
+            <p>The prefix formerly written as <g>comh-</g> should be written as <g>co-</g> where it
+                does not take stress – <ul>
+                    <li><m><emph>co</emph>-chomann</m>, <m><emph>co</emph>-chòrdadh</m>,
+                                <m><emph>co</emph>-labhairt</m>, <m><emph>co</emph>-ogha</m></li>
+                </ul></p>
+            <p>Where it bears stress but does not have nasalisation, words should be written as in
+                the examples below – <ul>
+                    <li><m><emph>co</emph>ileanta</m>, <m><emph>co</emph>itheanal</m>,
+                                <m><emph>co</emph>luadar</m></li>
+                </ul></p>
+            <p>Where it bears stress and does have nasalisation, the form <g>comh-</g>/<g>còmh-</g>
+                without a hyphen should be used – <ul>
+                    <li><m><emph>comh</emph>aois</m>
+                        <en>person of similar age</en>, <m><emph>còmh</emph>dhail</m>
+                        <en>congress, transport</en>, <m><emph>còmh</emph>radh</m>
+                        <en>speech</en></li>
+                </ul></p>
+        </section>
+        <section id="groups-cudrom">
+            <h>c. cudrom, meòraich</h>
+            <p>Consonant groups should be simplifed in – <ul>
+                    <li><m>cudrom</m> (<m>cuideam</m> also acceptable), <m>cudromach</m>,
+                            <m>meòraich</m> and <m>meòrachan</m></li>
+                </ul></p>
+        </section>
+    </section>
+    <section id="vowels">
+        <h>4. vowel representations</h>
+        <p>The following are recommended forms –</p>
+        <section id="vowels-eu">
+            <h>a. -eu-</h>
+            <p><g>eu</g> rather than <g>ia</g> as in the words <m>b<emph>eu</emph>l</m>,
+                        <m>f<emph>eu</emph>r</m>, <m>m<emph>eu</emph>d</m>,
+                    <m>sg<emph>eu</emph>l</m></p>
+        </section>
+        <section id="vowels-io">
+            <h>b. -ìo-</h>
+            <p><g>ìo</g> rather than <g>ia</g> as in the words <m>d<emph>ìo</emph>n</m>,
+                        <m>f<emph>ìo</emph>n</m>, <m>f<emph>ìo</emph>r</m>,
+                <m>m<emph>ìo</emph>s</m></p>
+        </section>
+        <section id="vowels-homos">
+            <h>c. homophones</h>
+            <p>Homophones (words with the same sound but a different meaning) should be
+                differentiated where possible. For example, <m>ceud</m> should be retained for <en>a
+                    hundred</en> and the word for <en>first</en> should be written <m>ciad</m>.
+                Similarly, <en>month</en> would be <m>mìos</m> and the word for <en>basin</en>
+                should be written <m>mias</m>. The words for <en>grass</en>, <en>squint</en> and
+                    <en>true</en> should be spelt <m>feur</m>, <m>fiar</m> and <m>fìor</m>
+                respectively. The words for <en>anything</en>, <en>charm/spell</en> and
+                    <en>storm</en> should be spelt <m>sìon</m>, <m>seun</m> and <m>sian</m>
+                respectively. </p>
+        </section>
+        <section id="vowels-adh">
+            <h>d. -adh-, -ao-</h>
+            <p>The sound previously represented by the vowel combination <g>ao</g> should be written
+                as <g>adh</g> in words such as – <ul>
+                    <li><m><emph>adh</emph>bhar</m>, <m><emph>adh</emph>brann</m>,
+                                <m><emph>adh</emph>radh</m></li>
+                </ul></p>
+            <p>The combination <g>ao</g> is retained to represent the different sound in, for
+                example – <ul>
+                    <li><m>d<emph>ao</emph>r</m>, <m>f<emph>ao</emph>bhar</m>,
+                            <m>g<emph>ao</emph>th</m>, <m>s<emph>ao</emph>r</m></li>
+                </ul></p>
+        </section>
+        <section id="vowels-unstressed">
+            <h>e. unstressed vowels</h>
+            <p> The use of <g>a</g> (rather than <g>u</g>) to render the sound in the unstressed
+                second syllable in words like <m>balach</m>, <m>bodach</m> and <m>tioram</m> should
+                be extended to most words, <eg/>
+                <ul>
+                    <li><m>àl<emph>a</emph>inn</m>, <m>altr<emph>a</emph>m</m>,
+                                <m>Bìob<emph>a</emph>ll</m>, <m>com<emph>a</emph>nn</m>,
+                                <m>dor<emph>a</emph>s</m>, <m>fall<emph>a</emph>s</m>,
+                                <m>foghl<emph>a</emph>m</m>, <m>mad<emph>a</emph>inn</m>,
+                                <m>sol<emph>a</emph>s</m>, <m>tur<emph>a</emph>s</m></li>
+                </ul></p>
+            <p> An exception to this is <m>ag<emph>u</emph>s</m>, in which u should not change to a,
+                because of frequency and familiarity.</p>
+            <p>Similarly, <g>ea</g> should be used rather than <g>io</g> in words like – <ul>
+                    <li><m>boir<emph>ea</emph>nn</m>, <m>doilgh<emph>ea</emph>s</m>,
+                                <m>Èir<emph>ea</emph>nnach</m>, <m>fir<emph>ea</emph>nnach</m>,
+                                <m>gaill<emph>ea</emph>nn</m>, <m>timch<emph>ea</emph>ll</m></li>
+                </ul></p>
+            <p>However, the words <m>aotrom</m> and <m>cothrom</m> should refect the element
+                    <m>trom</m> in their spelling.</p>
+        </section>
+        <section id="vowels-am">
+            <h>f. -am, -om</h>
+            <p>In the case of spelling of diphthongs with <g>m</g> in words such as:
+                        <m>c<emph>am</emph></m>, <m>l<emph>am</emph>pa</m>, <m>l<emph>om</emph></m>,
+                        <m>tr<emph>om</emph></m> the spelling without the accent should be retained
+                except in: <m>àm</m>
+                <en>time</en> which should have an accent to differentiate it from other words spelt
+                    <m>am</m>.</p>
+        </section>
+        <section id="vowels-il">
+            <h>g. -eil, -ail</h>
+            <p>The conventional spelling should be used in the representation of the vowel quality
+                of adjectival endings in words such as those below, although in many areas some of
+                these spelt with a slender vowel contain back vowels in speech – <ul>
+                    <li><m>ainm<emph>eil</emph></m>, <m>bodach<emph>ail</emph></m>,
+                                <m>cuideach<emph>ail</emph></m>, <m>duin<emph>eil</emph></m>,
+                                <m>fear<emph>ail</emph></m>, <m>sgil<emph>eil</emph></m>,
+                                <m>sgoinn<emph>eil</emph></m></li>
+                </ul>
+            </p>
+        </section>
+        <section id="vowels-accents">
+            <h>h. accents</h>
+            <p>The grave accent only should be used to indicate length – <ul>
+                    <li><m>an-d<emph>è</emph></m>, <m>b<emph>ò</emph></m>, <m>c<emph>ù</emph></m>,
+                                <m>l<emph>à</emph>mh</m>, <m>l<emph>è</emph>ine</m>,
+                                <m>m<emph>ò</emph>r</m>, <m>t<emph>ì</emph>r</m></li>
+                </ul></p>
+            <p>However, the accent should be written on <m>à</m>/<m>às</m>
+                <en>out of</en> and on <m>às</m> whenever the vowel is open (<m>às bith</m>, <m>às
+                    dèidh</m>, <m>às mo chadal</m>) to distinguish it from as when the vowel is not
+                open (<m>as fheàrr</m>, <m>as t-earrach</m>, <m>as t-samhradh</m>
+                <etc/>).</p>
+            <p>The accent should also be used to indicate length on capital letters – <ul>
+                    <li><m><emph>À</emph>ird <emph>À</emph>saig</m>, <m><emph>Ì</emph>le</m>,
+                                <m><emph>Ì</emph>omhar</m>, <m>An t-<emph>Ò</emph>ban</m>,
+                                <m><emph>Ù</emph>ig</m>, <m><emph>Ù</emph>na</m></li>
+                </ul>
+            </p>
+        </section>
+        <section id="vowels-ann">
+            <h>i. -ann, -ill, -inn, -onn, -unn</h>
+            <p>The conventional spelling without an accent should be retained on the long vowel
+                sound before <g>ll</g> and <g>nn</g> in words such as – <ul>
+                    <li><m>c<emph>inn</emph>teach</m>, <m>f<emph>ill</emph>te</m>,
+                                <m><emph>inn</emph>tinn</m>, <m>t<emph>ill</emph></m></li>
+                    <li><m>b<emph>onn</emph></m>, <m>c<emph>unn</emph>tas</m>,
+                            <m>s<emph>ann</emph>tach</m></li>
+                </ul></p>
+            <p>This principle should also be applied to words formerly spelt with the accent, <eg/>
+                <ul>
+                    <li><m>d<emph>ill</emph>eachdan</m>, <m>d<emph>inn</emph>ear</m>,
+                                <m>tr<emph>ill</emph>eachan</m></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+    <section id="stress">
+        <h>5. word stress and emphasis</h>
+        <section id="initial">
+            <h>a. initial stress</h>
+            <p>Where stress is on the first syllable of words, including proper compounds, these
+                should be spelt as one word – <ul>
+                    <li><m><emph>ath</emph>arrais</m>, <m><emph>ban</emph>righ</m>,
+                                <m><emph>barr</emph>all</m>, <m><emph>cuing</emph>ealachadh</m>,
+                                <m><emph>dìo</emph>chuimhnich</m>, <m><emph>eat</emph>arrasan</m>,
+                                <m><emph>im</emph>eachd</m>, <m><emph>smaoin</emph>eachadh</m>,
+                                <m><emph>leabhar</emph>lann</m></li>
+                </ul></p>
+            <p>Words with prefixes conform to the same pattern – <ul>
+                    <li><m><emph>ana</emph>barrach</m>, <m><emph>ana</emph>cothrom</m>,
+                                <m><emph>ao</emph>coltach</m>, <m><emph>ao</emph>domhainn</m>,
+                                <m><emph>eu</emph>coir</m></li>
+                </ul></p>
+        </section>
+        <section id="non-initial">
+            <h>b. non-initial stress</h>
+            <p>Words in which stress does not fall on the first syllable should generally be
+                hyphenated, with the hyphen coming before the part of the word bearing the stress – <ul>
+                    <li><m>ban-<emph>diùc</emph></m>, <m>cas-<emph>chrom</emph></m></li>
+                </ul></p>
+            <p>Words with prefixes conform to the same pattern – <ul>
+                    <li><m>ana-<emph>miann</emph></m>, <m>ath-<emph>bheothachadh</emph></m></li>
+                </ul></p>
+            <p>However, hyphens should not be used in borrowed or adapted words that have
+                non-initial stress – <ul>
+                    <li><m>bun<emph>tàt</emph>a</m>, <m>tele<emph>bhis</emph>ean</m>,
+                                <m>tom<emph>bac</emph>a</m></li>
+                </ul></p>
+            <p>Pronouns with emphasising particles (<g>-ne</g>, <g>-sa</g>, <g>-se</g>, <g>-san</g>)
+                should generally be written as one word – <ul>
+                    <li><m>againne</m>, <m>astasan</m>, <m>dhaibhsan</m>, <m>dhutsa</m>,
+                            <m>leathase</m>, <m>troimhesan</m></li>
+                </ul></p>
+            <p>But <m>leis-<emph>san</emph></m> and <m>ris-<emph>san</emph></m> should be hyphenated
+                to avoid the juxtaposition of <g>-ss-</g>. </p>
+        </section>
+        <section id="emphatics">
+            <h>c. emphatic particles</h>
+            <p> Where the emphasising particle follows a noun or an adjective, the word should be
+                hyphenated – <ul>
+                    <li><m>a brògan-<emph>se</emph></m>, <m>ar càirdean-<emph>ne</emph></m>, <m>mo
+                                leabhar-<emph>sa</emph></m>, <m>mo sheacaid
+                        ùr-<emph>sa</emph></m></li>
+                </ul></p>
+            <p>However, adjectival forms of <g>seo</g>, <g>sin</g> and <g>siud</g> should be written
+                as separate words – <ul>
+                    <li><m>an rud <emph>seo</emph></m>/<m>an rud <emph>sa</emph></m>, <m>an rud
+                                <emph>sin</emph></m>, <m>an rud <emph>ud</emph></m></li>
+                </ul></p>
+        </section>
+        <section id="adverbs">
+            <h>d. adverbs</h>
+            <p> Adverbial expressions of time and place which constitute units should be hyphenated
+                – <ul>
+                    <li><m>a-màireach</m>, <m>a-nis</m>, <m>a-nochd</m>, <m>a-raoir</m>,
+                            <m>a-rithist</m>, <m>am-bliadhna</m>, <m>an-ceartuair</m>, <m>an-dè</m>,
+                            <m>an-diugh</m>, <m>an-dràsta</m>, <m>an-earar</m>, <m>an-uiridh</m>
+                    </li>
+                    <li><m>a-bhàn</m>, <m>a-bhos</m>, <m>an-àird</m>, <m>a-nall</m>, <m>a-nìos</m>,
+                            <m>a-nuas</m>, <m>a-null</m></li>
+                    <li><m>a-chaoidh</m>, <m>a-cheana</m>, <m>am-feast</m>, <m>a-mhàin</m>,
+                            <m>a-riamh</m></li>
+                    <li><m>a-mach</m>, <m>a-muigh</m>, <m>a-staigh</m>, <m>a-steach</m></li>
+                </ul>
+            </p>
+        </section>
+        <section id="ath-adverbs">
+            <h>e. adverbs with ath-</h>
+            <p> In the adverbial expressions meaning <en>next year</en>, <en>tomorrow night</en> and
+                    <en>next week</en>, hyphens should be used – <ul>
+                    <li><m>an-ath-bhliadhn’</m> / <m>an-ath-bhliadhna</m>, <m>an-ath-oidhch’</m>,
+                            <m>an-ath-sheachdain</m></li>
+                </ul></p>
+            <p>However, they should be written as separate words when they are nouns and the sense
+                is <en>the following</en> or <en>the next</en>, <eg/>
+                <ul>
+                    <li>Bha <m>an ath bhliadhna</m> na b’ fheàrr. <en>The following/the next year
+                            was better.</en></li>
+                    <li>Bhiodh <m>an ath oidhche</m> glè eadar-dhealaichte. <en>The following/the
+                            next night would be very different.</en></li>
+                    <li>Thòisich <m>an ath sheachdain</m> le gaoth is uisge. <en>The following/the
+                            next week began with wind and rain.</en></li>
+                </ul>
+            </p>
+        </section>
+        <section id="prepositional_compounds">
+            <h>f. prepositional compounds</h>
+            <p>Compound prepositions with stress on non-initial elements should be written as two
+                words – <ul>
+                    <li><m>a chum</m>, <m>am broinn</m>, <m>à measg</m>, <m>am measg</m>, <m>a
+                            rèir</m>, <m>a thaobh</m>, <m>os cionn</m>, <m>ri taobh</m></li>
+                </ul>
+            </p>
+        </section>
+        <section id="airson">
+            <h>g. airson, carson, ciamar</h>
+            <p><m>airson</m>, <m>carson</m> and <m>ciamar</m> should be written as one word, but
+                    <g>son</g>/<g>shon</g> in expressions such as <m>air a son fhèin</m> and <m>air
+                    mo shon fhèin</m> should be written as separate words. However, when
+                    <g>airson</g> is contracted, the spelling should be <g>’son</g>. </p>
+        </section>
+        <section id="eigin">
+            <h>h. -eigin</h>
+            <p> Words ending in the element <g>-eigin</g> should generally be written as one word,
+                even where the spelling rule is broken – <ul>
+                    <li><m>air choreigin</m>, <m>cuideigin</m>, <m>feareigin</m>, <m>latheigin</m>,
+                            <m>neacheigin</m>, <m>rudeigin</m>, <m>uaireigin</m></li>
+                </ul></p>
+            <p>The word <m>tè-eigin</m> should, however, be hyphenated to avoid the juxtaposition of
+                    <g>-ee-</g>.</p>
+        </section>
+    </section>
+    <section id="apostrophes">
+        <h>6. apostrophes and spacing</h>
+        <section id="apostrophes-yes">
+            <h>a. use of apostrophes</h>
+            <p> Apostrophes are used for the following – <ul>
+                    <li>forms of the article before a noun, <eg/>
+                        <m>a’ ghealach</m></li>
+                    <li>verbal nouns beginning with a consonant, <eg/>
+                        <m>a’ falbh</m></li>
+                    <li> shortened version of the verb <g>is</g>, <eg/>
+                        <m>’s ann</m>, <m>’s dòcha</m>, <m>’s e</m>, <m>’s math</m></li>
+                    <li>shortened version of <g>bu</g>, <eg/>
+                        <m>b’ ann</m>, <m>b’ e</m>, <m>b’ fheàrr</m></li>
+                    <li>shortened version of <g>is</g>/<g>agus</g>, <eg/>
+                        <m>cho luath ’s a tha e</m>, <m>math ’s gu bheil e</m></li>
+                    <li>shortened version of possessive pronouns, <eg/>
+                        <m>d’ fhàinne</m>, <m>m’ amhach</m></li>
+                    <li>after the past tense marker <g>dh’</g>, <eg/>
+                        <m>dh’fhalbh</m>, <m>dh’ith</m></li>
+                    <li> when the preposition becomes <g>a dh’</g> before vowels, <eg/>
+                        <m>a dh’iarraidh</m>, <m>a dh’Uibhist</m></li>
+                </ul>
+            </p>
+        </section>
+        <section id="apostrophes-no">
+            <h>b. no apostrophe</h>
+            <p> The apostrophe should not be used in the following: <ul>
+                    <li><m>gum faigh</m>, <m>gun creideadh</m>, <m>gur ann</m></li>
+                    <li><m>làrna-mhàireach</m>, <m>nuair</m></li>
+                </ul>
+            </p>
+        </section>
+        <section id="apostrophe-possessives">
+            <h>c. possessive phrases</h>
+            <p> The apostrophe should not be used in possessive phrases, <eg/>
+                <ul>
+                    <li><m>nam</m> thaigh; <m>na mo</m> thaigh</li>
+                    <li><m>nad</m> thaigh; <m>na do</m> thaigh</li>
+                    <li><m>na</m> thaigh</li>
+                    <li><m>na</m> taigh, <m>na h-</m>àite</li>
+                    <li><m>nar</m> taigh; <m>na ar</m> taigh</li>
+                    <li><m>nur</m> taigh; <m>na ur</m> taigh</li>
+                    <li><m>nan</m> taighean, <m>nam</m> brògan</li>
+                </ul>
+            </p>
+        </section>
+        <section id="ga">
+            <h>d. ga*</h>
+            <p> The apostrophe should not be used with forms such as <g>ga</g>, <eg/>
+                <ul>
+                    <li><m>gam</m> thuigsinn; <m>ga mo</m> thuigsinn</li>
+                    <li><m>gad</m> chreidsinn; <m>ga do</m> chreidsinn</li>
+                    <li><m>ga</m> chluinntinn</li>
+                    <li><m>ga h-</m>aithneachadh</li>
+                    <li><m>gar</m> togail; <m>ga ar</m> togail</li>
+                    <li><m>gur</m> leantainn; <m>ga ur</m> leantainn</li>
+                    <li><m>gan</m> coinneachadh <m>gam</m> faicinn</li>
+                </ul>
+            </p>
+        </section>
+        <section id="spacing">
+            <h>e. spacing</h>
+            <p> It should be noted that the forms <g>a’</g>, <g>b’</g>, <g>d’</g> and <g>m’</g> are
+                always followed by a space. There should not, however, be a space after
+                <g>dh’</g>.</p>
+            <p>Where <g>an</g> or <g>am</g> are shortened to <g>’n</g> and <g>’m</g> and are
+                preceded by a noun or a pronoun, they should be written as separate words, with a
+                space left, <eg/>
+                <ul>
+                    <li>a bheil thu <m>’m</m> beachd?</li>
+                    <li>bha an duine <m>’n</m> dùil</li>
+                    <li>tha mi <m>’n</m> dòchas</li>
+                </ul></p>
+            <p>A space should always follow <g>’s</g>, and it should never be joined to the
+                following word, <eg/>
+                <ul>
+                    <li><m>’s</m> ann à Nis a tha mi</li>
+                    <li><m>’s</m> e sin as fheàrr</li>
+                    <li><m>’s</m> mise a th’ ann</li>
+                    <li><m>’s</m> dòcha gun tig iad</li>
+                    <li>mi fhìn <m>’s</m> tu fhèin</li>
+                    <li>cho luath <m>’s</m> a chì mi e</li>
+                </ul>
+            </p>
+        </section>
+    </section>
+    <section id="loans">
+        <h>7. sound adaptation and loan words</h>
+        <p>Words or sounds integrated into Gaelic should be written as follows – </p>
+        <p>Initial CH may be represented by <g>se-</g> or <g>te-</g> – <ul>
+                <li><m>seic</m>
+                    <en>cheque</en>, <m>seòclaid</m>
+                    <en>chocolate</en>, <m>seans(a)</m> / <m>teans(a)</m>
+                    <en>chance</en></li>
+            </ul></p>
+        <p>Initial J may be represented by <g>i-</g> or <g>s-</g> or <g>d-</g> – <ul>
+                <li><m>Iapan</m>
+                    <en>Japan</en>, <m>Iupatar</m>
+                    <en>Jupiter</en></li>
+                <li><m>seit-phlèan</m>
+                    <en>jet-plane</en></li>
+                <li><m>dinichean</m>
+                    <en>jeans</en></li>
+            </ul>
+        </p>
+        <p>Initial K may be represented by <g>c-</g> – <ul>
+                <li><m>cilegram</m> / <m>cg</m>
+                    <en>kilogram / kg</en>, <m>cilemeatair</m> / <m>km</m>
+                    <en>kilometre / km</en> (<g>km</g> is used to avoid confusion with
+                    <g>cm</g>)</li>
+            </ul>
+        </p>
+        <p>Initial Q may be represented by <g>cu-</g> – <ul>
+                <li><m>cuaraidh</m>
+                    <en>quarry</en>, <m>cuota</m>
+                    <en>quota</en></li>
+            </ul></p>
+        <p>Initial V may be represented by <g>bh-</g> – <ul>
+                <li><m>bhana</m>
+                    <en>van</en>, <m>Bhictòria</m>
+                    <en>Victoria</en></li>
+            </ul></p>
+        <p>Initial W may be represented by <g>u(a)-</g> or <g>u(e)-</g> – <ul>
+                <li><m>uàlras</m>
+                    <en>walrus</en>, <m>uèir</m>
+                    <en>wire</en></li>
+            </ul></p>
+        <p>Initial WH may be represented by <g>cu-</g> or <g>chu-</g> – <ul>
+                <li><m>chuip</m>
+                    <en>whipped</en>, <m>cuibheall</m>
+                    <en>wheel</en>, <m>cuip</m>
+                    <en>whip</en></li>
+            </ul></p>
+        <p>Initial X may be represented by <g>s-</g> – <ul>
+                <li><m>saidhleafòn</m>
+                    <en>xylophone</en></li>
+            </ul></p>
+        <p>X in the middle of a word may be represented by <g>-gs-</g> – <ul>
+                <li><m>bogsa</m>
+                    <en>box</en>, <m>tagsaidh</m>
+                    <en>taxi</en></li>
+            </ul>
+        </p>
+        <p>Initial Y may be represented by <g>gh-</g> or <g>i-</g> – <ul>
+                <li><m>gheat</m>
+                    <en>yacht</en>, <m>iogart</m>
+                    <en>yoghurt</en>, <m>Iorc</m>
+                    <en>York</en></li>
+            </ul></p>
+        <p>Initial Z may be represented by <g>s-</g> – <ul>
+                <li><m>sinc</m>
+                    <en>sink / zinc</en>, <m>sù</m> / <m>sutha</m>
+                    <en>zoo</en></li>
+            </ul></p>
+        <p>Diphthongs in adapted words should be represented by <g>–dh</g>, not <g>–gh</g> – <ul>
+                <li><m>baidhsagal</m>
+                    <en>bicycle</en>, <m>loidhne</m> (<en>line</en>), <m>soidhne</m>
+                    <en>sign</en>, <m>stoidhle</m>
+                    <en>style</en></li>
+            </ul></p>
+        <p>Final –EE and –Y should be represented by <g>–(a)idh</g> – <ul>
+                <li><m>cofaidh</m>
+                    <en>coffee</en>, <m>comadaidh</m>
+                    <en>comedy</en>, <m>comataidh</m>
+                    <en>committee</en>, <m>poileasaidh</m>
+                    <en>policy</en>, <m>silidh</m>
+                    <en>jelly / jam</en>, <m>tofaidh</m>
+                    <en>toffee</en></li>
+            </ul>
+        </p>
+    </section>
+    <section id="verbs">
+        <h>8. verbs</h>
+        <section id="verbs-bi">
+            <h>a. bi</h>
+            <p>The following forms should be used for the verb <en>to be</en>. Commas are used where
+                there are alternative forms determined by stress. An oblique is used to indicate
+                dialectal alternatives – <ul>
+                    <li>past tense – <ul>
+                            <li><m>an robh?</m>
+                                <en>was/were?</en>
+                            </li>
+                            <li><m>gun robh</m>
+                                <en>that ... was/were</en></li>
+                            <li><m>nach robh</m>
+                                <en>that ... was/were not</en></li>
+                        </ul></li>
+                    <li>past participle – <m>bhite</m> / <m>bhithist(e)</m>
+                        <en>used to be</en></li>
+                    <li>conditional – <ul>
+                            <li><m>bhiodh</m>, <m>bhitheadh</m>
+                                <en>would be</en></li>
+                            <li><m>cha bhiodh</m>, <m>cha bhitheadh</m>
+                                <en>would not be</en></li>
+                        </ul></li>
+                    <li>future tense – <ul>
+                            <li><m>bidh</m>, <m>bithidh</m>
+                                <en>will be</en></li>
+                            <li><m>cha bhi</m>
+                                <en>will not be</en></li>
+                            <li><m>am bi?</m>
+                                <en>will ... be?</en></li>
+                            <li><m>... gum bi</m>
+                                <en>that ... will be</en></li>
+                            <li><m>... nach bi</m>
+                                <en>that ... will not be</en></li>
+                            <li><m>a bhith</m>
+                                <en>to be</en></li>
+                        </ul></li>
+                </ul>
+            </p>
+            <p>The monosyllabic forms <g>bidh</g>, <g>bhiodh</g>, <g>cha bhiodh</g> should be the
+                norm, with the forms <g>bithidh</g>, <g>bhitheadh</g> and <g>cha bhitheadh</g> being
+                used only to show emphasis.</p>
+        </section>
+        <section id="verbs-irregular">
+            <h>b. irregular verbs</h>
+            <p>The following forms should be used for irregular verbs. Commas are used where there
+                are alternative forms determined by stress.</p>
+            <p><g>abair</g> – <ul>
+                    <li>verbal noun – <m>ag ràdh</m> / <m>a’ ràdh</m></li>
+                    <li>past positive – <m>thuirt</m>, <m>thubhairt</m></li>
+                    <li>past negative – <m>cha tuirt</m>, <m>cha tubhairt</m></li>
+                </ul>
+            </p>
+            <p><g>beir (air)</g> – <ul>
+                    <li>verbal noun – <m>a’ breith</m></li>
+                    <li>past positive – <m>rug</m></li>
+                    <li>past negative – <m>cha do rug</m></li>
+                </ul>
+            </p>
+            <p><g>cluinn</g> – <ul>
+                    <li>verbal noun – <m>a’ cluinntinn</m></li>
+                    <li>past positive – <m>chuala</m></li>
+                    <li>past negative – <m>cha chuala</m></li>
+                </ul>
+            </p>
+            <p><g>dèan</g> – <ul>
+                    <li>verbal noun – <m>a’ dèanamh</m></li>
+                    <li>past positive – <m>rinn</m></li>
+                    <li>past negative – <m>cha do rinn</m></li>
+                </ul>
+            </p>
+            <p><g>faic</g> – <ul>
+                    <li>verbal noun – <m>a’ faicinn</m></li>
+                    <li>past positive – <m>chunnaic</m> / <m>chunna</m></li>
+                    <li>past negative – <m>chan fhaca</m></li>
+                </ul>
+            </p>
+            <p><g>faigh</g> – <ul>
+                    <li>verbal noun – <m>a’ faighinn</m></li>
+                    <li>past positive – <m>fhuair</m></li>
+                    <li>past negative – <m>cha d’ fhuair</m></li>
+                </ul>
+            </p>
+            <p><g>rach</g> – <ul>
+                    <li>verbal noun – <m>a’ dol</m></li>
+                    <li>past positive – <m>chaidh</m></li>
+                    <li>past negative – <m>cha deach</m> / <m>cha deachaidh</m></li>
+                </ul>
+            </p>
+            <p><g>ruig</g> – <ul>
+                    <li>verbal noun – <m>a’ ruighinn</m> / <m>a’ ruigsinn</m></li>
+                    <li>past positive – <m>ràinig</m></li>
+                    <li>past negative – <m>cha do ràinig</m> / <m>cha d’ ràinig</m></li>
+                </ul>
+            </p>
+            <p><g>thig</g> – <ul>
+                    <li>verbal noun – <m>a’ tighinn</m></li>
+                    <li>past positive – <m>thàinig</m></li>
+                    <li>past negative – <m>cha tàinig</m></li>
+                </ul>
+            </p>
+            <p><g>thoir</g> – <ul>
+                    <li>verbal noun – <m>a’ toirt</m></li>
+                    <li>past positive – <m>thug</m></li>
+                    <li>past negative – <m>cha tug</m></li>
+                </ul>
+            </p>
+        </section>
+        <section id="verbs-cuir">
+            <h>c. cuir</h>
+            <p>Forms of the verb <g>cuir</g>
+                <en>put</en> should be written as follows – <ul>
+                    <li>root – <m>cuir</m></li>
+                    <li>verbal noun – <m>a’ cur</m></li>
+                    <li>past positive – <m>chuir</m></li>
+                    <li>past negative – <m>cha do chuir</m></li>
+                    <li>infinitive – <m>a chur</m></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+    <section id="prepositions">
+        <h>9. prepositional phrases</h>
+        <section id="prepositions-article">
+            <h>a. preposition + article</h>
+            <p> Prepositional phrases may consist of preposition + article + noun, <eg/>
+                <g>bho</g> + <g>an</g> + <g>baile</g>, which yields <m>bhon bhaile</m>
+                <en>from the town</en>. The form <m>bhon a’ bhaile</m> is also acceptable. The same
+                principle is shown below with other prepositions – <ul>
+                    <li><g>fo</g> + <g>an</g> – <m>fon taigh</m> / <m>fon an taigh</m></li>
+                    <li><g>mu</g> + <g>an</g> – <m>mun bhòrd</m> / <m>mun a’ bhòrd</m></li>
+                    <li><g>ro</g> + <g>an</g> – <m>ron Nollaig</m> / <m>ron an Nollaig</m></li>
+                    <li><g>tro</g> + <g>an</g> – <m>tron bhaile</m> / <m>tron a’ bhaile</m></li>
+                </ul></p>
+            <p>In the case of <g>leis</g> and <g>ris</g>, a different pattern is found, as they do
+                not combine with the singular article to form a new word and they can be followed by
+                two different forms of the article – <ul>
+                    <li><g>leis</g> + <g>an</g> – <m>leis an duine</m>, <m>leis a’ bhaile</m></li>
+                    <li><g>ris</g> + <g>an</g> – <m>ris an duine</m>, <m>ris a’ bhaile</m></li>
+                </ul></p>
+            <p> A similar pattern is found with <g>anns</g>, but additional contractions are also
+                found – <ul>
+                    <li><g>anns</g> + <g>an</g> – <m>anns an duine</m>, <m>anns a’ bhaile</m> –
+                            <m>san duine</m>, <m>sa bhaile</m></li>
+                </ul>
+            </p>
+            <p>The prepositions <g>do</g> and <g>de</g> are replaced in many areas with <g>dha</g>
+                and <g>dhe</g> / <g>dha</g>, resulting in a greater variety of forms than in the
+                case of those above – <ul>
+                    <li><g>do</g> + <g>an</g> – <m>don bhaile</m> / <m>don a’ bhaile</m></li>
+                    <li><g>dha</g> + <g>an</g> – <m>dhan bhaile</m> / <m>dhan a’ bhaile</m></li>
+                    <li><g>de</g> + <g>an</g> – <m>den bhaile</m> / <m>den a’ bhaile</m></li>
+                    <li><g>dhe</g> + <g>an</g> – <m>dhen bhaile</m> / <m>dhen a’ bhaile</m></li>
+                </ul></p>
+            <p> In the case of <g>do</g> + <g>an</g>, <m>dan bhaile</m> may also be found.</p>
+            <p> Before plurals and <g>gach</g>, both <g>le</g> and <g>ri</g> may be found as well as
+                    <g>leis</g> and <g>ris</g> – <ul>
+                    <li><m>le/leis na balaich</m></li>
+                    <li><m>ri/ris gach tè</m></li>
+                </ul></p>
+            <p>Both forms are acceptable.</p>
+        </section>
+        <section id="prepositions-b">
+            <h>b. preposition + possessive</h>
+            <p> Other prepositional phrases may consist of preposition + possessive + noun, eg
+                    <g>do</g> + <g>mo</g> + <g>taigh</g>, which yields <m>dom thaigh</m>
+                <en>to my house</en>. The form <m>dham thaigh</m> is also acceptable. The following
+                combined forms can be used, although the separate versions are also acceptable – <ul>
+                    <li><g>do</g>
+                        <ul>
+                            <li><g>mo</g> – <m>dom</m>/<m>dham</m></li>
+                            <li><g>do</g> – <m>dod</m>/<m>dhad</m></li>
+                            <li><g>a</g>
+                                <masc/> – <m>da</m>/<m>dha</m> (a) thaigh</li>
+                            <li><g>a</g>
+                                <fem/> – <m>da</m>/<m>dha</m> (a) taigh</li>
+                            <li><g>ar</g> – <m>dor</m>/<m>dar</m>/<m>dhar</m></li>
+                            <li><g>ur</g> – <m>dur</m>/<m>dhur</m></li>
+                            <li><g>am</g> – <m>dom</m>/<m>dam</m>/<m>dham</m></li>
+                            <li><g>an</g> – <m>don</m>/<m>dan</m>/<m>dhan</m></li>
+                        </ul>
+                    </li>
+                    <li><g>bho</g>
+                        <ul>
+                            <li><g>mo</g> – <m>bhom</m>/<m>om</m></li>
+                            <li><g>do</g> – <m>bhod</m>/<m>od</m></li>
+                            <li><g>a</g>
+                                <masc/> – <m>bho</m>/<m>o</m> (a) thaigh</li>
+                            <li><g>a</g>
+                                <fem/> – <m>bho</m>/<m>o</m> (a) taigh</li>
+                            <li><g>ar</g> – <m>bhor</m>/<m>or</m></li>
+                            <li><g>ur</g> – <m>bhur</m></li>
+                            <li><g>am</g> – <m>bhom</m>/<m>om</m></li>
+                            <li><g>an</g> – <m>bhon</m>/<m>on</m></li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section id="prepositions-others">
+            <h>c. other combined forms</h>
+            <p>Other combined forms follow this pattern – <ul>
+                    <li><g>de</g>
+                        <ul>
+                            <li><g>mo</g> – <m>d(h)em</m></li>
+                            <li><g>do</g> – <m>d(h)ed</m></li>
+                            <li><g>a</g> – <m>d(h)e (a)</m></li>
+                            <li><g>ar</g> – <m>d(h)er</m></li>
+                            <li><g>ur</g> – <m>d(h)ur</m></li>
+                            <li><g>am</g> – <m>d(h)em</m>/<m>d(h)en</m></li>
+                        </ul>
+                    </li>
+                    <li><g>fo</g>
+                        <ul>
+                            <li><g>mo</g> – <m>fom</m></li>
+                            <li><g>do</g> – <m>fod</m></li>
+                            <li><g>a</g> – <m>fo (a)</m></li>
+                            <li><g>ar</g> – <m>for</m></li>
+                            <li><g>ur</g> – <m>fur</m></li>
+                            <li><g>am</g> – <m>fom</m>/<m>fon</m></li>
+                        </ul>
+                    </li>
+                    <li><g>gu</g>
+                        <ul>
+                            <li><g>mo</g> – <m>gum</m></li>
+                            <li><g>do</g> – <m>gud</m></li>
+                            <li><g>a</g> – <m>gu (a)</m></li>
+                            <li><g>ar</g> – <m>gar</m></li>
+                            <li><g>ur</g> – <m>gur</m></li>
+                            <li><g>am</g> – <m>gum</m>/<m>gun</m></li>
+                        </ul>
+                    </li>
+                    <li><g>le</g>
+                        <ul>
+                            <li><g>mo</g> – <m>lem</m></li>
+                            <li><g>do</g> – <m>led</m></li>
+                            <li><g>a</g> – <m>le (a)</m></li>
+                            <li><g>ar</g> – <m>ler</m></li>
+                            <li><g>ur</g> – <m>lur</m></li>
+                            <li><g>am</g> – <m>lem</m>/<m>len</m></li>
+                        </ul>
+                    </li>
+                    <li><g>ri</g>
+                        <ul>
+                            <li><g>mo</g> – <m>rim</m></li>
+                            <li><g>do</g> – <m>rid</m></li>
+                            <li><g>a</g> – <m>ri (a)</m></li>
+                            <li><g>ar</g> – <m>rir</m></li>
+                            <li><g>ur</g> – <m>rur</m></li>
+                            <li><g>am</g> – <m>rim</m>/<m>rin</m></li>
+                        </ul>
+                    </li>
+                    <li><g>ro</g>
+                        <ul>
+                            <li><g>mo</g> – <m>rom</m></li>
+                            <li><g>do</g> – <m>rod</m></li>
+                            <li><g>a</g> – <m>ro (a)</m></li>
+                            <li><g>ar</g> – <m>ror</m></li>
+                            <li><g>ur</g> – <m>rur</m></li>
+                            <li><g>am</g> – <m>rom</m>/<m>ron</m></li>
+                        </ul>
+                    </li>
+                    <li><g>tro</g>
+                        <ul>
+                            <li><g>mo</g> – <m>trom</m></li>
+                            <li><g>do</g> – <m>trod</m></li>
+                            <li><g>a</g> – <m>tro (a)</m></li>
+                            <li><g>ar</g> – <m>tror</m></li>
+                            <li><g>ur</g> – <m>trur</m></li>
+                            <li><g>am</g> – <m>trom</m>/<m>tron</m></li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section id="prepositions-d">
+            <h>d. full forms</h>
+            <p>However, it is also acceptable to use the full forms: <ul>
+                    <li><m>bho do mhàthair</m></li>
+                    <li><m>gu do sheanair</m></li>
+                    <li><m>le bhur cead</m></li>
+                    <li><m>ro ur bracaist</m></li>
+                </ul>
+            </p>
+            <p>In the first and second plurals, the full forms would be: <ul>
+                    <li><m>bho ar</m> and <m>bho ur</m></li>
+                    <li><m>de/dhe ar</m> and <m>de/dhe ur</m></li>
+                    <li><m>do/dha ar</m> and <m>do/dha ur</m></li>
+                    <li><m>fo ar</m> and <m>fo ur</m></li>
+                    <li><m>gu ar</m> and <m>gu ur</m></li>
+                    <li><m>le ar</m> and <m>le ur</m></li>
+                    <li><m>ri ar</m> and <m>ri ur</m></li>
+                    <li><m>ro ar</m> and <m>ro ur</m></li>
+                    <li><m>tro ar</m> and <m>tro ur</m></li>
+                </ul>
+            </p>
+        </section>
+        <section id="prepositions-e">
+            <h>e. do, dha</h>
+            <p>In many areas <g>dha</g> has replaced <g>do</g> as the is retained when there is no
+                article, <eg/>
+                <ul>
+                    <li><m>dhan taigh</m>, <m>dhan a’ bhùth</m>, <m>taing dhan Fhreastal</m>,
+                        but</li>
+                    <li><m>do thaigh mòr</m>, <m>do bhùth an arain</m>, <m>taing do Dhia</m></li>
+                </ul></p>
+            <p>However, in some areas <g>dha</g> is used even when there is no article, especially
+                with proper names. In these cases, the word following should never be lenited, <eg/>
+                <ul>
+                    <li><m>dha seirbheis an Rìgh</m>, <m>dha Màiri</m>, <m>dha Seumas</m></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+    <section id="hyphens">
+        <h>10. hyphenation</h>
+        <section id="hyphens-nouns">
+            <h>a. nouns</h>
+            <p>It is acknowledged that the spelling of words made up of more than one noun joined
+                together presents diffculties, and the following guidelines are intended to assist.
+                Compounds are generally hyphenated if they are regarded as constituting a unit — for
+                example, if any accompanying adjective would normally come before, or after, the
+                paired words rather than between them, <eg/>
+                <ul>
+                    <li><m>an t-eadar-lìon</m>, <m>brath-naidheachd</m>, <m>cùis-lagha</m>,
+                            <m>in-sheirbheis</m>, <m>làrach-lìn</m>, <m>leabhar-latha</m>,
+                            <m>post-dealain</m>, <m>ro-ràdh</m></li>
+                </ul>
+            </p>
+            <p> The words <g>àite</g>, <g>ball</g>, <g>bàta</g>, <g>ceann</g>, <g>clàr</g>,
+                    <g>còir</g>, <g>cùirt</g>, <g>culaidh</g>, <g>inneal</g>, <g>ionad</g>,
+                    <g>obair</g>, <g>rùm</g>, <g>seòmar</g>, <g>taigh</g> and <g>uidheam</g> should
+                be followed by a hyphen when preceding another noun which is in the genitive case, <eg/>
+                <ul>
+                    <li><m>àite-fuirich</m>, <m>ball-maise</m>, <m>bàta-siùil</m>,
+                            <m>ceann-suidhe</m>, <m>clàr-gnothaich</m>, <m>còir-bhreith</m>,
+                            <m>cùirt-lagha</m>, <m>culaidh-thruais</m>,
+                            <m>inneal-nigheadaireachd</m>, <m>ionad-obrach</m>, <m>obair-làimhe</m>,
+                            <m>rùm-cadail</m>, <m>seòmar-ionnlaid</m>, <m>taigh-bìdh</m>,
+                            <m>uidheam-spòrs</m></li>
+                </ul>
+            </p>
+            <p> The following words denoting persons or groups — <g>bean</g>, <g>buidheann</g>,
+                    <g>fear</g>, <g>luchd</g>, <g>neach</g>, <g>sgioba</g>, <g>tè</g> — should be
+                hyphenated when followed by a common noun, <eg/>
+                <ul>
+                    <li><m>bean-taighe</m>, <m>buidheann-obrach</m>, <m>fear-siubhail</m>,
+                            <m>luchd-eòlais</m>, <m>neach-gairm(e)</m>, <m>sgioba-glanaidh</m>,
+                            <m>tè-labhairt</m></li>
+                </ul>
+            </p>
+            <p> Similarly with the prefix <g>ban(a)</g> when the stress is on the second syllable, <eg/>
+                <ul>
+                    <li><m>bana-phrionnsa</m>, <m>ban-Eadailteach</m>,
+                        <m>ban-s(h)einneadair</m></li>
+                </ul>
+            </p>
+            <p>When the stress is on the first syllable, there should be no hyphen, <eg/>
+                <ul>
+                    <li><m>banabaidh</m>, <m>banacharaid</m>, <m>banacheard</m>,
+                        <m>banaltram</m></li>
+                </ul>
+            </p>
+            <p>Being a prefix, unlike bean, ban is never followed by the genitive case. The spelling
+                    <m>baintighearna</m>
+                <en>noblewoman/lady</en> should also be noted. </p>
+            <p> A similar pattern of hyphenation occurs when one noun is used (like an adjective) to
+                prefix another noun not in the genitive case, with lenition occurring where
+                possible, <eg/>
+                <ul>
+                    <li><m>bròn-chluich</m>, <m>bun-sgoil</m>, <m>ceann-latha</m>,
+                            <m>sluagh-ghairm</m>, <m>speur-bhean</m></li>
+                </ul>
+            </p>
+            <p> It should also be noted that when the second noun (whether feminine or masculine) is
+                not lenited in the nominative, it may still be lenited in an oblique case following
+                a preposition and the article, <eg/>
+                <ul>
+                    <li><m>anns an eachdraidh-bheatha</m>, <m>san taigh-sheinnse</m></li>
+                </ul>
+            </p>
+            <p> Words that should not be followed by a hyphen include <g>aithisg</g>,
+                    <g>comhairle</g>, <g>greis</g>, <g>iomairt</g>, <g>oifigeach</g>,
+                    <g>oifigear</g>, <g>òrdugh</g>, <g>plana</g>, <g>roinn</g>, <eg/>
+                <ul>
+                    <li><m>aithisg comhairleachaidh</m>, <m>comhairle baile</m>, <m>iomairt
+                            coimhearsnachd</m>, <m>oifigeach/oifigear leasachaidh</m>, <m>òrdugh
+                            cùirte</m>, <m>plana gnìomh</m>, <m>roinn dealbhachaidh</m></li>
+                </ul>
+            </p>
+            <p> There should be no hyphen when nouns are separated by the article or when the second
+                or following noun is a proper noun, <eg/>
+                <ul>
+                    <li><m>Ball Pàrlamaid</m>, <m>bàta Mhalaig</m>, <m>bean Thormoid</m>, <m>Cùirt
+                            an t-Seisein</m>, <m>fear an taighe</m>, <m>obair na h-ola</m>, <m>rùm
+                            na cloinne</m>, <m>sgioba rugbaidh na h-Alba</m>, <m>taigh
+                            Dhòmhnaill</m></li>
+                </ul>
+            </p>
+            <p>In the case of titles or designations which begin with a capital letter, where the
+                noun following the hyphen is itself normally written with a capital letter because
+                it is a proper noun or a title, the capital should be retained after the hyphen, <eg/>
+                <ul>
+                    <li><m>(an t-)Ath-Leasachadh</m>, <m>Iar-Chathraiche</m>,
+                        <m>Leas-Stiùiriche</m>, <m>(na) Meadhan-Aoisean</m></li>
+                </ul>
+            </p>
+            <p>Otherwise, the noun following the hyphen should be in lower-case, <eg/>
+                <ul>
+                    <li><m>Ceann-cinnidh</m>, <m>Ceann-feadhna</m>, <m>Ceann-suidhe</m>, <m>(an)
+                            Co-fhlaitheas</m></li>
+                </ul>
+            </p>
+            <p>It is not possible to give a definitive ruling on whether a noun following a feminine
+                noun (whether or not there is hyphenation) should be lenited, as there are many
+                examples of when such a noun is lenited and many examples of when it is not, <eg/>
+                <g>bean-ghlùine</g> and <g>deise chlò</g> but <g>eachdraidh-beatha</g>. </p>
+        </section>
+        <section id="hyphens-adjectives">
+            <h>b. adjectives</h>
+            <p> Where an adjective is prefixed to a noun, a hyphen should be used, <eg/>
+                <ul>
+                    <li><m>Àrd-Easbaig</m>, <m>ath-innse</m>, <m>beag-seagh</m>,
+                        <m>cruaidh-chàs</m>, <m>dubh-fhacal</m>, <m>Iar-Cheann-suidhe</m>,
+                            <m>liath-reothadh</m>, <m>mòr-roinn</m>, <m>trom-laighe</m></li>
+                </ul>
+            </p>
+            <p>Exceptions are adjectives that always precede the noun: <g>droch</g>, <g>fìor</g>,
+                    <g>ioma</g>/<g>iomadh</g>, <g>prìomh</g>, <g>seann</g>, <eg/>
+                <ul>
+                    <li><m>droch shùil</m>, <m>fìor dhuine</m>, <m>iomadh oidhche</m>, <m>(am)
+                            Prìomh Mhinistear</m>, <m>seann sgeulachd</m></li>
+                </ul>
+            </p>
+            <p>An adjective preceding another adjective should always be hyphenated – <ul>
+                    <li><m>fad-fhulangach</m>, <m>ioma-dhathach</m>, <m>iomadh-fhillte</m>,
+                            <m>làn-eòlach</m>, <m>uile-chumhachdach</m></li>
+                </ul>
+            </p>
+            <p>Some exceptions occur when stress falls on the first syllable – <ul>
+                    <li><m>lagchuiseach</m>, <m>mòrchuiseach</m></li>
+                </ul>
+            </p>
+            <p>Use of capitals and lower-case with adjectives follows the pattern with nouns, <eg/>
+                <ul>
+                    <li><m>leth-Cheilteach</m>, <m>Gall-Ghàidhealach</m></li>
+                </ul>
+            </p>
+        </section>
+        <section id="hyphens-adverbs">
+            <h>c. adverbs</h>
+            <p>Guidance on adverbial phrases is given in Section 5.D.</p>
+            <p>It should be noted that <g>an seo</g>, <g>an sin</g> and <g>an siud</g> should be
+                spelt without a hyphen.</p>
+        </section>
+        <section id="hyphens-fein">
+            <h>d. use of fèin and fhèin</h>
+            <p>The prefix <g>fèin</g> is always followed by a hyphen, <eg/>
+                <ul>
+                    <li><m>fèin-eòlas</m>, <m>fèin-mheas</m>, <m>fèin-mhothachail</m></li>
+                </ul></p>
+            <p>However, <g>fhèin</g> (and the alternative first person form <g>fhìn</g>) should
+                always follow the word it qualifies and never be hyphenated, <eg/>
+                <ul>
+                    <li><m>an duine fhèin</m>, <m>an duine seo fhèin</m>, <m>an taigh againn
+                            fhìn</m>, <m>iad fhèin</m>, <m>mi fhìn</m>, <m>Seumas fhèin</m></li>
+                </ul></p>
+            <p>The forms <g>agaib’ fhèin</g>, <g>sib’ fhèin</g> etc may be used to reflect the
+                elided version of <g>agaibh fhèin</g>, <g>sibh fhèin</g>
+                <etc/> in speech.</p>
+        </section>
+    </section>
+    <section id="other">
+        <h>11. other orthographic issues</h>
+        <section id="numbers">
+            <h>a. numbers</h>
+
+            <p>There are two counting systems in use in Gaelic — one based on twenties, the other
+                (more recently introduced in education) on tens. Examples of the two systems are
+                given below, with new forms in [...] – <ul>
+                    <li>11 – <m>aon-deug</m></li>
+                    <li>19 – <m>naoi-deug</m></li>
+                    <li>27 – <m>seachd air fhichead</m> [fichead ’s a seachd]</li>
+                    <li>29 – <m>naoi air fhichead</m> [fichead ’s a naoi]</li>
+                    <li>30 – <m>deich air fhichead</m> [trithead]</li>
+                    <li>32 – <m>dhà-dheug air fhichead</m> [trithead ’s a dhà]</li>
+                    <li>40 – <m>dà fhichead</m> [ceathrad]</li>
+                    <li>46 – <m>dà fhichead ’s a sia</m> [ceathrad ’s a sia]</li>
+                    <li>50 – <m>leth-cheud</m> [caogad]</li>
+                    <li>60 – <m>trì fichead</m> [seasgad]</li>
+                    <li>70 – <m>trì fichead ’s a deich</m> [seachdad]</li>
+                    <li>80 – <m>ceithir fichead</m> [ochdad]</li>
+                    <li>90 – <m>ceithir fichead ’s a deich</m> [naochad]</li>
+                    <li>135 – <m>sia fichead ’s a còig-deug</m> / <m>ceud ’s còig-deug air
+                            fhichead</m> [ceud, trithead ’s a còig]</li>
+                    <li>50,000 – <m>leth-cheud mìle</m> [caogad mìle]</li>
+                    <li>1,000,000 – <m>millean</m></li>
+                    <li>1,000,000,000 – <m>billean</m></li>
+                </ul>
+            </p>
+            <p>Numbers are combined with nouns thus – <ul>
+                    <li><m>seachd bliadhna deug</m></li>
+                    <li><m>sia neach air fhichead</m> / <m>fichead neach ’s a sia</m> / <m>fichead
+                            ’s a sia neach</m></li>
+                    <li><m>còig sgillinn deug air fhichead</m> / <m>trithead sgillinn ’s a còig</m>
+                        / <m>trithead ’s a còig sgillinn</m></li>
+                </ul>
+            </p>
+            <p>Numbers should be sequenced thus – <ul>
+                    <li><m>a’ chiad</m> (1d)</li>
+                    <li><m>an dàrna</m> / <m>an dara</m> (2na / 2ra)</li>
+                    <li><m>an treas</m> / <m>an treasamh</m> / <m>an trìtheamh</m> (3mh)</li>
+                    <li><m>an ceathramh</m> (4mh)</li>
+                    <li><m>an còigeamh</m> (5mh)</li>
+                    <li><m>an siathamh</m> (6mh)</li>
+                    <li><m>an seachdamh</m> (7mh)</li>
+                    <li><m>an t-ochdamh</m> (8mh)</li>
+                    <li><m>an naoidheamh</m> (9mh)</li>
+                    <li><m>an deicheamh</m> (10mh)</li>
+                </ul></p>
+            <p>Whether the numbers 6, 7, 8 and 11, are preceded by <g>t-</g> depends on the gender
+                of the word, <eg/>
+                <g>an seachdamh bogsa</g> (masculine), but <g>an t-seachdamh bròg</g>
+                (feminine).</p>
+        </section>
+        <section id="months">
+            <h>b. months of the year</h>
+            <p>
+                <ul>
+                    <li><m>Am Faoilleach</m> (Faoi)</li>
+                    <li><m>An Gearran</m> (Gear)</li>
+                    <li><m>Am Màrt</m> (Màrt)</li>
+                    <li><m>An Giblean</m> (Gibl)</li>
+                    <li><m>An Cèitean</m> (Cèit)</li>
+                    <li><m>An t-Ògmhios</m> (Ògmh)</li>
+                    <li><m>An t-Iuchar</m> (Iuch)</li>
+                    <li><m>An Lùnastal</m> (Lùn)</li>
+                    <li><m>An t-Sultain</m> (Sult)</li>
+                    <li><m>An Dàmhair</m> (Dàmh)</li>
+                    <li><m>An t-Samhain</m> (Samh)</li>
+                    <li><m>An Dùbhlachd</m> (Dùbh)</li>
+                </ul>
+            </p>
+        </section>
+        <section id="dates">
+            <h>c. dates</h>
+            <p>Dates may be written in full or using numbers, thus – <ul>
+                    <li><m>An seachdamh latha deug dhen Fhaoilleach</m></li>
+                    <li><m>An ceathramh latha fichead/air fhichead dhen Ghearran</m></li>
+                    <li><m>An 23mh den Mhàrt</m></li>
+                    <li><m>23mh (An) Giblean</m></li>
+                    <li><m>26 Cèitean</m></li>
+                </ul></p>
+        </section>
+        <section id="days">
+            <h>d. days</h>
+            <p>The names of the days of the week should be written as follows – Full form <ul>
+                    <li><m>Diluain</m> (Dil)</li>
+                    <li><m>Dimàirt</m> (Dim)</li>
+                    <li><m>Diciadain</m> (Dic)</li>
+                    <li><m>Diardaoin</m> (Diar)</li>
+                    <li><m>Dihaoine</m> (Dih)</li>
+                    <li><m>Disathairne</m> (Dis)</li>
+                    <li><m>Didòmhnaich</m> (Did)</li>
+                    <li><m>Latha/Là na Sàbaid</m> (LnS)</li>
+                </ul>
+            </p>
+            <p>Periods of the day are indicated as follows: <ul>
+                    <li><m>madainn Diluain</m></li>
+                    <li><m>feasgar Dimàirt</m></li>
+                    <li><m>feasgar na Sàbaid</m></li>
+                </ul></p>
+            <p>The names of the nights of the week should be written – <ul>
+                    <li><m>Oidhche Luain</m></li>
+                    <li><m>Oidhche Mhàirt</m></li>
+                    <li><m>Oidhche Chiadain</m></li>
+                    <li><m>Oidhche Ardaoin</m> / <m>Oidhche Dhiardaoin</m></li>
+                    <li><m>Oidhche Haoine</m></li>
+                    <li><m>Oidhche Shathairne</m></li>
+                    <li><m>Oidhche Dhòmhnaich</m> / <m>Oidhche na Sàbaid</m></li>
+                </ul></p>
+            <p>Forms such as <g>Oidhche Diluain</g> are also acceptable.</p>
+        </section>
+        <section id="surnames">
+            <h>e. surnames</h>
+            <p>Surnames including <g>Mac</g> and <g>Nic</g> should be written as one word, but with
+                a capital letter on the second and any succeeding elements – <ul>
+                    <li><m>MacAilein</m>, <m>MacCoinnich</m>/<m>MacChoinnich</m>,
+                            <m>MacDhòmhnaill</m>, <m>MacIlleMhaoil</m>, <m>NicIlleDhuinn</m>,
+                            <m>NicLeòid</m>, <m>NicThòmais</m></li>
+                </ul></p>
+            <p>Exceptions are surnames which include the definite article – <ul>
+                    <li><m>Mac a’ Ghobhainn</m>, <m>Mac an Aba</m>, <m>Nic a’ Phearsain</m></li>
+                </ul></p>
+        </section>
+        <section id="placenames">
+            <h>f. place names</h>
+            <p>The spelling of place names consisting of two or more elements should refect the
+                distinctive elements – <ul>
+                    <li><m>Ceann Loch Chille Chiarain</m>, <m>Dùn Èideann</m>, <m>Inbhir Nis</m>,
+                            <m>Obar Dheathain</m></li>
+                </ul></p>
+            <p>Where an element has become obscure, a hyphen should be inserted – <ul>
+                    <li><m>Earra-Ghàidheal</m></li>
+                </ul></p>
+            <p>The final element in names derived from Norse <g>-ey</g>
+                <en>island</en> should be spelt <g>-aigh</g> or <g>-eigh</g> – <ul>
+                    <li><m>Barraigh</m>, <m>Beàrnaraigh</m>, <m>Èirisgeigh</m>, <m>Pabaigh</m>,
+                            <m>Sgalpaigh</m>, <m>Tarasaigh</m></li>
+                </ul>
+            </p>
+        </section>
+        <section id="titles">
+            <h>g. personal titles</h>
+            <section id="titles-women">
+                <h>women</h>
+
+                <p>It is recommended that <en>Miss</en>, <en>Ms</en> and <en>Mrs</en> be rendered as
+                        <g>a’ Bh-uas</g> (a contraction of <g>a’ Bhean-uasal</g>). This would yield
+                    – <ul>
+                        <li><m>a’ Bh-uas (Màiri) Chaimbeul</m>, <m>a’ Bh-uas (Sìne) Mhoireach</m>,
+                                <m>a’ Bh-uas (Anna) NicDhòmhnaill</m></li>
+                    </ul></p>
+                <p>The article would not be written with a capital letter except in a postal
+                    address, and after a preposition the name would appear as follows: <ul>
+                        <li><m>aig a’ Bh-uas (Màiri) Chaimbeul</m>, <m>aig a’ Bh-uas (Sìne)
+                                Mhoireach</m>, <m>aig a’ Bh-uas (Anna) NicDhòmhnaill</m></li>
+                        <li><m>dhan Bh-uas Chaimbeul</m>, <m>dhan Bh-uas Mhoireach</m>, <m>dhan
+                                Bh-uas NicDhòmhnaill</m></li>
+                    </ul></p>
+                <p>A dative might be marked both in the title and in the name, <eg/>
+                    <g>aig a’ Mhnaoi-uasail Chaimbeil/Mhoirich/NicDhòmhnaill</g>, but this would
+                    probably be unnecessarily formal. </p>
+                <p>However, a genitive should be marked, which would be <g>na M-uas</g> (a
+                    contraction of <g>na Mnà-uasail/uaisle</g>): <ul>
+                        <li><m>nighean na M-uas C(h)aimbeil</m>, <m>nighean na M-uas M(h)oirich</m>,
+                                <m>nighean na M-uas NicDhòmhnaill</m></li>
+                    </ul></p>
+                <p>The unlenited form is strictly correct, but in practice lenited forms such as
+                        <g>nighean na M-uas Chaimbeil</g> and <g>nighean na M-uas Mhoirich</g> are
+                    more likely to be found. </p>
+                <p>The form when addressing someone would be: <ul>
+                        <li><m>a Bh-uas Chaimbeul</m>, <m>a Bh-uas Mhoireach</m>, <m>a Bh-uas
+                                NicDhòmhnaill</m></li>
+                    </ul></p>
+                <p>Where it is desired to make clear that a woman is married, the form <g>a’
+                        Bh-ph</g> (a contraction of <g>a’ Bhean-phòsta</g>) is used in the same way
+                    as <g>a’ Bh-uas</g> above. The genitive would be <g>na M-p</g> (a contraction of
+                        <g>na Mnà-pòsta</g>). <ul>
+                        <li><m>a’ Bh-ph Chaimbeul</m>, <m>a’ Bh-ph Mhoireach</m>, <m>a’ Bh-ph
+                                NicDhòmhnaill</m></li>
+                        <li><m>aig a’ Bh-ph Chaimbeul</m>, <m>aig a’ Bh-ph Mhoireach</m>, <m>aig a’
+                                Bh-ph NicDhòmhnaill</m></li>
+                        <li><m>dhan Bh-ph Chaimbeul</m>, <m>dhan Bh-ph Mhoireach</m>, <m>dhan Bh-ph
+                                NicDhòmhnaill</m></li>
+                        <li><m>nighean na M-p C(h)aimbeil</m>, <m>nighean na M-p M(h)oirich</m>,
+                                <m>nighean na M-p NicDhòmhnaill</m></li>
+                    </ul></p>
+                <p>The formulation below may also be used: <ul>
+                        <li><m>Màiri, Bean Chaimbeil</m>
+                            <en>Mrs Mary Campbell</en></li>
+                        <li><m>Sìne, Bean Mhoirich</m>
+                            <en>Mrs Jean Murray</en></li>
+                        <li><m>Anna, Bean MhicDhòmhnaill</m>
+                            <en>Mrs Anne MacDonald</en></li>
+                    </ul></p>
+            </section>
+            <section id="titles-men">
+                <h>men</h>
+                <p>It is recommended that <en>Mr</en> be rendered as <g>Mgr</g> (a contraction of
+                        <g>Maighstir</g>). The genitive would be <g>Mhgr</g> (a contraction of
+                        <g>Mhaighstir</g>). This would yield the following – <ul>
+                        <li><m>Mgr Caimbeul</m>, <m>Mgr MacDhòmhnaill</m>, <m>Mgr Moireach</m></li>
+                        <li><m>aig Mgr Caimbeul</m>, <m>aig Mgr MacDhòmhnaill</m>, <m>aig Mgr
+                                Moireach</m></li>
+                        <li><m>do Mhgr Caimbeul</m>, <m>do Mhgr MacDhòmhnaill</m>, <m>do Mhgr
+                                Moireach</m></li>
+                        <li><m>mac Mhgr Chaimbeil</m>, <m>mac Mhgr MhicDhòmhnaill</m>, <m>mac Mhgr
+                                Mhoirich</m></li>
+                    </ul></p>
+                <p>The form used when addressing someone would be – <ul>
+                        <li><m>a Mhgr Chaimbeil</m>, <m>a Mhgr Mhoirich</m>, <m>a Mhgr
+                                MhicDhòmhnaill</m></li>
+                    </ul></p>
+            </section>
+            <section id="titles-other">
+                <h>another form of address</h>
+                <p> Another format is exemplifed in <m>Màiri Chaimbeul, Uas</m> (a contraction of
+                        <g>Uasal</g>, spelt with an upper-case <g>U</g>) – <ul>
+                        <li><m>Sìne Mhoireach, Uas</m>, <m>Anna NicDhòmhnaill, Uas</m>, <m>Seumas
+                                Caimbeul, Uas</m>, <m>Alasdair Moireach, Uas</m>, <m>Cailean
+                                MacDhòmhnaill, Uas</m></li>
+                    </ul></p>
+                <p>When any of the names are infected in the normal way, the <g>Uas</g> is
+                    unaffected.</p>
+            </section>
+        </section>
+        <section id="acronyms">
+            <h>h. acronyms</h>
+            <p>Gaelic acronyms, including some which are translations, should be written as follows
+                – <ul>
+                    <li>BP (Ball Pàrlamaid)</li>
+                    <li>BPA (Ball Pàrlamaid na h-Alba)</li>
+                    <li>BPE (Ball Pàrlamaid na h-Eòrpa)</li>
+                    <li>CnaG (Comunn na Gàidhlig)</li>
+                    <li>CNES (Comhairle nan Eilean Siar)</li>
+                    <li>SMO (Sabhal Mòr Òstaig)</li>
+                </ul>
+            </p>
+            <p>However, non-Gaelic acronyms are often left in their original form even though the
+                full title may be used in Gaelic, <eg/>
+                <ul>
+                    <li>BBC, NATO, SNH, SQA, UN, VAT</li>
+                </ul></p>
+            <p>Acronyms are subject to normal infection patterns, <eg/>
+                <ul>
+                    <li>aig a’ BhBC, leis a’ BhPA, oifis ChnaG</li>
+                </ul></p>
+        </section>
+        <section id="abbreviation">
+            <h>i. abbreviations</h>
+            <p>When abbreviations appear in Gaelic form, they are written as follows – <ul>
+                    <li><m>àir.</m>
+                        <en>no.</en>, <m>An t-Oll</m>
+                        <en>Prof</en>, <m>An t-Urr</m>
+                        <en>Rev</en>, <m>cg</m>
+                        <en>kg</en>, <m>An Dr</m>
+                        <en>Doctor: medical and academic</en>, <m>km</m>
+                        <en>km</en>, <m>me</m>
+                        <en>eg</en>, <m>Mgr</m>
+                        <en>Fr</en>, <m>msaa</m>
+                        <en>etc</en>, <m>td</m>
+                        <en>page</en>, <m>tdd</m>
+                        <en>pp</en>
+                    </li>
+                </ul></p>
+        </section>
+    </section>
+    <section id="wordlist">
+        <h>12. word list</h>
+        <p>The following word list gives examples of how words should be spelt in accordance with
+            principles and recommendations set out in the document. The list cannot take full
+            account of all the variants which occur in speech. People pronounce certain words in
+            different ways and this diversity is acknowledged, but it is not practicable to include
+            all dialectal forms in this list. </p>
+        <p>Key – <ul>
+                <li>adj = adjective</li>
+                <li>gen = genitive</li>
+                <li>n = noun</li>
+                <li>pl = plural</li>
+                <li>sg = singular</li>
+                <li>v = verb</li>
+                <li>vn = verbal noun</li>
+            </ul></p>
+        <p>Brackets – a letter or letters in brackets may be omitted</p>
+        <p>Comma – an alternative depending on context, <eg/> emphasis</p>
+        <p>Oblique (/) – an alternative form or forms; where the alternatives appear twice in
+            reverse order, they are equally acceptable. Where the alternatives appear once, the frst
+            form is the recommended one. </p>
+        <section id="a">
+            <h>a</h>
+            <p><g>à</g>
+                <en>from, out of</en>, <g>abair</g>, <g>a-bhàn</g>, <g>a bharrachd</g>
+                <en>in addition; either</en>, <g>a bheil?</g>, <g>... a bheil ...</g> (dependent
+                form), <g>a bhith</g>
+                <en>to be</en> (not <bad>a bhi</bad>), <g>a’ bhòn-dè</g>, <g>a’ bhòn-raoir</g>,
+                    <g>a’ bhòn-uiridh</g>, <g>a-bhos</g>, <g>acair(e)</g>, <g>acfhainn</g>,
+                    <g>a-chaoidh</g>, <g>a-cheana</g>, <g>a’ chiad</g>, <g>a-chianaibh</g>, <g>a
+                    chionn ’s</g> / <g>a chionn</g>, <g>a chum</g>, <g>a chur</g>
+                <en>to put</en> (not <bad>a chuir</bad>), <g>a’ cluich(e)</g>, <g>a’ cluinntinn</g>,
+                    <g>a’ cur</g>
+                <en>putting</en>, <g>a’ dannsa(dh)</g>, <g>a’ dèanamh</g>, <g>a dh’aindeoin</g>,
+                    <g>a dh’aon(a) ghnotha(i)ch</g>, <g>adhar</g>
+                <en>sky</en>, <g>adharc</g>, <g>adhart</g>, <g>adhbhar</g>, <g>adhbrann</g>, <g>a
+                    dh’iarraidh</g>, <g>a dh’ionnsaigh</g>, <g>adhlacadh</g>, <g>adhradh</g>, <g>a
+                    dh’Uibhist</g>, <g>agam</g> (<g>a’m</g> for short), <g>agh</g>
+                <en>heifer</en>, àgh <en>joy, bliss</en>, <g>A’ Ghearmailt</g>, <g>a-ghnàth</g>,
+                    <g>a’ ghriùrach / a’ ghriùlach</g>, <g>ag ràdh / a’ ràdh</g>, <g>agus</g>, <g>a
+                    h-uile (h-)oidhche</g>, <g>àibheiseach</g>, <g>aifreann</g>, <g>aig a’ BhBC</g>,
+                    <g>aigne</g>, <g>ailbhean</g>, <g>àilgheasach</g>, <g>aillse</g>,
+                    <g>aindeonach</g>, <g>ain-diadhaidh</g>, <g>aineolach</g>, <g>ainmeil</g>,
+                    <g>ainmig</g>, <g>ainneamh</g>, <g>air a shon fhèin</g>, <g>air a son fhèin</g>,
+                    <g>air choreigin</g>, <g>Àird Àsaig</g>, <g>àird</g>
+                <en>headland; point of compass</en>, <g>àird(e)</g>
+                <en>height</en>, <g>àireamh</g> (<g>àir.</g> for short) <en>number</en>,
+                    <g>airgead</g>, <g>airidh</g>
+                <en>worthy</en>, <g>àirigh</g>
+                <en>sheiling</en>, <g>àirleas</g> / <g>eàrlas</g>, <g>air-loidhne</g>, <g>air
+                    muin</g>, <g>àirneis</g>, <g>air neo</g>, <g>air seachran</g>, <g>airson</g>
+                    (<g>’son</g> for short), <g>airtneal</g>, <g>airtnealach</g>, <g>aiseag</g> n,
+                    <g>aiseal</g>
+                <en>axle</en>, <g>aisig</g> v, <g>aiste</g>, <g>àite-còmhnaidh</g>,
+                    <g>àite-falaich</g>, <g>àite-fuirich</g>, <g>àiteigin</g>, <g>aithghearr</g>,
+                    <g>aithisg</g>, <g>àlainn</g>, <g>Alba</g>, <g>altram</g>, <g>àm</g>,
+                    <g>a-mach</g>, <g>a-màireach</g>, <g>amar-snà(i)mh</g>, <g>am badeigin</g>,
+                    <g>am bi?</g>, <g>... am bi ...</g> (dependent form), <g>am-bliadhna</g>
+                <en>this year</en>, <g>am broinn</g>, <g>à measg</g>
+                <en>from among</en>, <g>am-feast</g>
+                <en>ever</en>, <g>a-mhàin</g>, <g>àmhainn</g>, <g>amharas</g>, <g>àmhghar</g>, <g>am
+                    measg</g>
+                <en>among</en>, <g>am Pàrtaidh Làbarach</g>, <g>am Pàrtaidh Libearalach</g>,
+                    <g>Deamocratach</g>, <g>am Pàrtaidh Nàiseanta</g>, <g>am Pàrtaidh
+                    Tòraidheach</g>, <g>a-muigh</g>, <g>an-abaich</g>
+                <en>unripe</en>, <g>anabaich</g>
+                <en>premature; unready</en>
+                <g>anabarrach</g>, <g>anacothrom</g>, <g>an-àird(e)</g>
+                <en>upwards</en>, <g>an àird an ear</g>, <g>an àiteigin</g>, <g>a-nall</g>,
+                    <g>ana-miann</g>, <g>an-asgaidh</g>, <g>an ath bhliadhna</g>
+                <en>the following year</en>, <g>an-ath-bhliadhn’ </g> / <g>an-ath-bhliadhna</g>
+                <en>next year</en>, <g>an ath oidhche</g>
+                <en>the following night</en>, <g>an-ath-oidhch’</g>
+                <en>tomorrow night</en>, <g>an ath sheachdain</g>
+                <en>the following week</en>, <g>an-ath-sheachdain</g>
+                <en>next week</en>, <g>an-ceartuair</g>, <g>an co-bhoinn ri</g>
+                <en>in association with</en>, <g>an-còmhnaidh</g>, <g>an-dè</g>, <g>an dèidh</g> /
+                    <g>às dèidh</g>, <g>an-diugh</g>, <g>an do rinn?</g> / <g>na rinn?</g>,
+                    <g>an-dràsta</g>, <g>An Eadailt</g>, <g>an-earar</g>, <g>an eisimeil</g>
+                <en>dependent on</en>, <g>anfha(i)nn</g>, <g>a-nìos</g>, <g>a-nis(e)</g>,
+                    <g>a-nochd</g>, <g>an làthair</g>, <g>anns a’ bhaile</g> / <g>sa bhaile</g>,
+                    <g>anns an taigh</g> / <g>san taigh</g>, <g>annta</g>, <g>an robh?</g>, <g>...
+                    an robh ...</g> (dependent form), <g>an rud sa</g>, <g>an rud seo</g>, <g>an rud
+                    sin</g>, <g>an rud ud</g>, <g>an seo</g>, <g>anshocair</g>
+                <g>unease; illness</g>, <g>an sin</g>, <g>an siud</g>, <g>antaidh</g>, <g>an
+                    triuthach</g>, <g>an tugte</g>, <g>an tuirt, an tubhairt</g>, <g>an uair
+                sin</g>, <g>a-nuas</g>, <g>an-uiridh</g>, <g>a-null</g>, <g>aocoltach</g>,
+                    <g>aodomhainn</g>, <g>aoidion</g>
+                <en>leak</en>, <g>aoidionach</g> leaking, <g>aoigh</g>
+                <en>guest</en>, <g>aoigheachd</g>
+                <en>hospitality</en>, <g>aoigheil</g>
+                <en>genial</en>, <g>aon-deug</g>, <g>aosta</g>, <g>aotrom</g>, <g>ar-a-mach</g>,
+                    <g>a-raoir</g>, <g>Àrd-Easbaig</g>, <g>àrd-ìre</g>, <g>àrd-sgoil</g>,
+                    <g>àrd-sheanadh</g>, <g>àrd-ùrlar</g>, <g>a rèir</g>, <g>a-rèist</g>,
+                    <g>a-riamh</g>, <g>a-rithist</g> / <g>a-rìs</g>, <g>ars</g> (before vowel),
+                    <g>arsa</g> (before consonant), <g>a’ ruighinn</g> / <g>a’ ruigsinn</g>,
+                    <g>às</g>
+                <en>from, out of</en>, <g>às bith</g>, <g>às dèidh</g> / <g>an dèidh</g>, <g>as
+                    fheàrr</g>, <g>às mo chadal</g>, <g>a-staigh</g>, <g>astasan</g>, <g>astar</g>,
+                    <g>a-steach</g>, <g>as t-earrach</g>, <g>as t-fhoghar</g>, <g>as t-samhradh</g>,
+                    <g>athair</g> gen <g>athar</g>, <g>a thaobh</g>
+                <en>regarding</en>, <g>atharrais</g>, <g>ath-bheothachadh</g>, <g>ath-innse</g>
+            </p>
+        </section>
+        <section id="b">
+            <h>b</h>
+            <p>
+                <g>bachall</g>, <g>bàidh</g>
+                <en>tenderness</en>, <g>badhbh</g>, <g>Badhlach</g>, <g>bàibheil</g>
+                <en>marvellous</en>, <g>baidhc</g>, <g>baidhsagal</g>, <g>baidhsagalair</g>,
+                    <g>bàidse</g>
+                <en>badge</en>, <g>baidse</g>
+                <en>batch</en>, <g>bàigh</g>
+                <en>bays</en>, <g>baile</g>, <g>bailiùn</g>, <g>baintighearna</g>, <g>bàirdse</g>
+                <en>barge</en>, <g>balach</g>, <g>bàl</g>
+                <en>ball (dance)</en>, <g>ball</g> / <g>bàlla</g>
+                <en>ball</en>, <g>balla</g>
+                <en>wall</en>, <g>ball-acfhainn</g>, <g>ball-basgaid</g>, <g>ball-bhòilidh</g>,
+                    <g>ball-coise</g>, <g>ball-dòbhrain</g>, <g>ball-maise</g>, <g>Ball Pàrlamaid
+                    (BP)</g>, <g>ball-seirce</g>, <g>banabaidh</g>, <g>bana-bhàrd</g>,
+                    <g>bana-bhuidseach</g>, <g>banacharaid</g>, <g>banacheard</g>,
+                    <g>bana-ghaisgeach</g>, <g>banaltram</g>, <g>bana-phrionnsa</g>, <g>ban-dia</g>,
+                    <g>ban-diùc</g>, <g>ban-Eadailteach</g>, <g>ban-iarla</g>, <g>b’ ann</g>,
+                    <g>ban-ogha</g>, <g>banrigh</g>, <g>ban-rùnaire</g>, <g>ban-sheinneadair</g>,
+                    <g>banntrach</g>, <g>barail</g>
+                <en>opinion</en>, <g>baraill(e)</g>
+                <en>barrel</en>, <g>barantas</g>, <g>barraid</g>
+                <en>terrace</en>, <g>Barraigh</g>, <g>barrall</g>
+                <en>shoelace</en>, <g>barrfhad</g>
+                <en>top layer of peat</en>, <g>basgaid</g>
+                <en>basket</en>, <g>bàta-bathair</g>, <g>bàt’-aiseig</g>, <g>batal</g>
+                <en>battle</en>, <g>bàta-siùil</g>, <g>bàta-teasairginn</g>, <g>bàtha(i)ch</g>,
+                    <g>bathar</g>, <g>bàthte</g>, <g>bàt’-iasgaich</g>, <g>b’ e</g>,
+                    <g>beag-chuid</g>, <g>beag-feum</g>, <g>beag-seagh</g>, <g>beag-tùr</g>,
+                    <g>beairt</g>, <g>beairteach</g>, <g>beairteas</g>, <g>beairtich</g> v,
+                    <g>bean-ghlùine</g>, <g>bean-phòsta</g>, <g>bean-taighe</g>, <g>beàrn</g>,
+                    <g>Beàrnaraigh</g>, <g>bèicearachd</g>, <g>beòshlaint</g>, <g>beothail</g>,
+                    <g>beul</g>, <g>beulaibh</g>, <g>beul-aithris</g>, <g>b’ fheàrr</g>,
+                    <g>bhan(a)</g>
+                <en>van</en>, <g>bhàsa</g>
+                <en>vase</en>, <g>bhathar</g> / <g>bhathas</g> / <g>bhatar</g>, <g>bheat</g>
+                <en>veterinary surgeon</en>, <g>Bhictòria</g>, <g>bhidio</g>
+                <en>video</en>, <g>bhiodh</g> / <g>bhitheadh</g>, <g>bhìoras</g>
+                <en>virus</en>, <g>bhìosa</g>
+                <en>visa</en>, <g>bhìoto</g>
+                <en>veto</en>, <g>bhite</g> / <g>bhithist(e)</g>, <g>bho</g>
+                <en>from</en>, <g>bhodca</g>
+                <en>vodka</en>, <g>bhòidse</g>, <g>bholt(a)</g>
+                <en>volt</en>, <g>bholtaids</g>
+                <en>voltage</en>, <g>bhòt</g>, <g>biathadh</g>, <g>bidh</g> / <g>bithidh</g>,
+                    <g>bilean</g>
+                <en>lips</en>, <g>billean</g>
+                <en>billion</en>, <g>Bìoball</g>, <g>bith-beò</g>
+                <en>a living, livelihood</en>, <g>bith-bhuan</g> / <g>biothbhuan</g>,
+                    <g>bith-eòlas</g>, <g>biùro</g>, <g>biurocrasaidh</g>, <g>biurocratach</g>,
+                    <g>blaigeard</g>, <g>blasta</g>
+                <en>tasty</en>, <g>bleadraig</g>
+                <en>blether; bother</en>, <g>bleoghain</g> v, <g>bò</g>, <g>bobhstair</g>,
+                    <g>boc</g>
+                <en>male goat; leap</en>, <g>bochd</g>
+                <en>poor; ill</en>, <g>bodach</g>, <g>bodha</g>
+                <en>reef</en>, <g>bodachail</g>, <g>bòdhradh</g>, <g>bogha</g>
+                <en>bow; bulge</en>, <g>bogha-frois(e)</g>
+                <en>rainbow</en>, <g>bogsa</g>, <g>bogsa-ciùil</g>, <g>bogsadh</g>, <g>bogsaig</g>,
+                    <g>bogsair</g>, <g>bogsa-litrichean</g>, <g>bòidhchead</g>, <g>boireann</g>,
+                    <g>bonaid</g>, <g>boireannta</g>
+                <en>feminine</en>, <g>bòst</g>, <g>bòstadh</g>, <g>braidhm</g>, <g>bràiste</g>,
+                    <g>bràmair</g>, <g>brèagha</g>, <g>Breatannach</g>, <g>breug</g>,
+                    <g>brìoghmhor</g>, <g>briosgaid</g>, <g>bris(t)</g>, <g>bris(t)eadh</g>,
+                    <g>britheamh</g>, <g>broidse</g>
+                <en>brooch</en>, <g>bròn-chluich</g>, <g>brosgal</g>, <g>brù-dhearg</g>,
+                    <g>bruich</g>, <g>buaghallan</g>, <g>bucaid</g>, <g>buidheann-obrach</g>,
+                    <g>buidsidh</g>
+                <en>budgerigar</en>, <g>buinteanas</g> / <g>buntanas</g>, <g>bungalo</g>,
+                    <g>bun-os-cionn</g>, <g>bun-sgoil</g>, <g>buntàta</g>
+                <en>bus</en>
+            </p>
+        </section>
+        <section id="c">
+            <h>c</h>
+            <p><g>càball</g>, <g>cafaidh</g>, <g>caibideil</g>, <g>caidreabh</g>, <g>caileag</g>,
+                    <g>càilear</g>, <g>cailleach</g>, <g>caiptean</g>, <g>càirdineal</g>,
+                    <g>càirich</g> v <en>mend</en> vn <g>càradh</g>, <g>càit a bheil?</g>,
+                    <g>càit(e)</g>, <g>caithte</g>
+                <en>worn out, used up</en>, <g>Caitligeach</g>, <g>caladh</g>, <g>calaraidh</g>
+                <en>calorie</en>, <g>calltainn</g>, <g>cam</g>, <g>camara</g> pl <g>camarathan</g>,
+                    <g>cànan</g>, <g>Canèidianach</g>, <g>cangarù</g>, <g>caogad</g>, <g>caora</g>
+                pl <g>caoraich</g>, <g>carabhaidh</g>
+                <g>caraich</g> v <en>move</en> vn <g>carachadh</g>, <g>carbad</g>, <g>cargu</g>,
+                    <g>carson</g>, <g>cartùn</g>, <g>cas-cheum</g>, <g>cas-chrom</g>,
+                <g>catalog</g>, <g>cathadh</g>
+                <en>snowstorm</en>, <g>ceàird</g>
+                <en>craft, trade</en>, <g>ceala-deug</g> / <g>cola-deug</g>, <g>ceann-bliadhna</g>,
+                    <g>ceann-latha</g>, <g>Ceann Loch Chille Chiarain</g>, <g>ceann-suidhe</g>,
+                    <g>cearcall</g>, <g>ceàrd</g>
+                <en>travelling person</en>, <g>ceàrn</g> / <g>ceàrnaidh</g>, <g>ceàrnag</g>,
+                    <g>ceàrnagach</g>, <g>ceart-cheàrnach</g>, <g>ceart-cheàrnag</g>,
+                    <g>ceathrad</g>, <g>ceileir</g>
+                <en>warble</en>, <g>ceimig</g>, <g>ceimigeachd</g>, <g>ceimigear</g>, <g>Ceinia</g>
+                <en>Kenya</en>, <g>ceirsle</g>
+                <en>ball of wool</en>, <g>Cèitean (An)</g>, <g>ceòlmhor</g>, <g>ceud</g>
+                <en>a hundred</en>, <g>ceudameatair</g> (<g>cm</g> for short), <g>cha bhi</g>,
+                    <g>cha d’ fhuair</g>, <g>cha do ràinig</g> / <g>cha d’ ràinig</g>, <g>chan
+                    eil</g>, <g>chan fhaca</g>, <g>chan fhuilear</g>, <g>cha tàinig</g>, <g>cha
+                    tuirt</g> / <g>cha tubhairt</g>, <g>cha tug</g>, <g>chì</g>, <g>chìte</g> /
+                    <g>chithist(e)</g>, <g>chluinnte</g> / <g>chluinnist(e)</g>, <g>chuip</g> v
+                    <en>whipped</en>, <g>chun</g>, <g>chunnacas</g>, <g>chunnaic</g> /
+                <g>chunna</g>, <g>ciad</g>
+                <en>first</en>, <g>ciamar</g>, <g>cia mheud</g>, <g>cidhe</g>
+                <en>pier, quay</en>, <g>cidsin</g>, <g>cile</g>
+                <en>kilo</en>, <g>cileagram</g> (<g>kg</g> for short), <g>cilemeatair</g> (<g>km</g>
+                for short), <g>cinnteach</g>, <g>cìobair</g>, <g>ciopair</g>
+                <en>kipper</en>, <g>ciudha</g>
+                <en>queue</en>, <g>ciutha</g>
+                <en>hair bun</en>, <g>clach-mheallain</g> pl <g>clachan-meallain</g>, <g>clag</g>,
+                    <g>claigeann</g>, <g>clann-nighean</g>, <g>clàr-ama</g>, <g>clàr-gnothaich</g>,
+                    <g>clàr-innse</g>, <g>cleachdte</g>, <g>clìc</g>, <g>clìceach</g>,
+                    <g>cliobach</g>, <g>cliop</g>
+                <en>haircut</en>, <g>clisgeadh</g>, <g>clò</g>, <g>cloc</g>
+                <en>clock</en>, <g>cnàimh</g>
+                <en>bone</en>
+                <g>cnàimhneach</g>
+                <en>skeleton</en>, <g>cnàmh</g>
+                <en>digest</en>
+                <g>cnap</g>, <g>cnap-starra(dh)</g> pl <g>cnapan-starra</g>, <g>cnatan</g>,
+                    <g>cneasta</g>, <g>cnoc</g>, <g>cnuimh</g>, <g>co-aimsireil</g>,
+                    <g>co-aontaich</g>, <g>cò às a tha thu?</g>, <g>co-bhanntachd</g>,
+                    <g>cochall</g>, <g>co-chomann</g>, <g>co-chòrdadh</g>, <g>co-dhalta</g>,
+                    <g>co-dhiù</g>, <g>cofaidh</g>, <g>Co-fhlaitheas (An)</g>, <g>cofhurtachd</g>,
+                    <g>cofhurtaich</g>, <g>cofhurtail</g>, <g>coibhneas</g>, <g>coibhneil</g>,
+                    <g>coidse</g>, <g>còig</g>, <g>coilean</g>
+                <en>fulfil</en>, <g>coileanta</g>
+                <en>complete, perfect</en>, <g>coilleag</g>
+                <en>cockle; sand-dune</en>, <g>coimeas</g>
+                <en>comparison</en>, <g>coimisean</g>, <g>coimpiutair</g>, <g>coingeis</g>,
+                    <g>coinnlear</g>, <g>co-ionann</g>, <g>co-ionannachd</g>, <g>còir-bhreith</g>,
+                    <g>còir-bhòtaidh</g>, <g>Coiria</g>
+                <en>Korea</en>, <g>coiridh</g>
+                <en>curry</en>, <g>coitheanal</g>, <g>co-là-breith</g>, <g>co-labhairt</g>,
+                    <g>cola-deug</g> / <g>ceala-deug</g>, <g>colaiste</g>, <g>colann</g>,
+                    <g>colòiniach</g>
+                <en>colonial</en>, <g>coloinidh</g>, <g>coltach</g>, <g>coltas</g>, <g>coluadar</g>
+                / <g>co-luadar</g>, <g>comadaidh</g>
+                <en>comedy</en>, <g>comaig</g>
+                <en>comic</en>, <g>comann</g>, <g>comas</g>
+                <en>ability</en>, <g>comataidh</g>
+                <en>committee</en>, <g>combaist</g>, <g>comhaois</g>
+                <en>person of similar age</en>, <g>comharra</g>, <g>còmhdhail</g>, <g>còmhla</g>,
+                    <g>còmhlan</g>, <g>còmhnard</g>, <g>còmhradh</g>, <g>còmhrag</g>,
+                    <g>còmhstri</g>, <g>còmh-thràth</g>
+                <en>twilight</en>, <g>com-pàirt</g>, <g>com-pàirtich</g>, <g>conntraigh</g>,
+                    <g>consal</g>
+                <en>consul</en>, <g>co-ogha</g>, <g>co-òrdanaich</g>, <g>copar</g>, <g>còrnair</g>,
+                    <g>corpailear</g>, <g>corporra</g>, <g>cosg</g>, <g>cosgais</g>, <g>costa</g>
+                <en>coast</en>, <g>cothrom</g>, <g>crac</g>
+                <en>chat, crack</en>, <g>cracte</g>, <g>crannchur</g>, <g>crannchur-gill</g>
+                <en>raffe</en>, <g>craiceann</g>, <g>crèadh</g>, <g>creideamh</g>, <g>criogaid</g>,
+                    <g>crioplach</g>, <g>Crìosd(a)</g>, <g>Crìosdaidh</g>, <g>Crìosdail</g>,
+                    <g>criostal</g>
+                <en>crystal</en>, <g>cròg</g>, <g>crosta</g>, <g>crostachd</g>, <g>cruinne(-cè)</g>
+                <en>world, universe</en>, <g>Cruthaidhear, (An)</g> / <g>Cruthadair, (An)</g>
+                <en>God, the Creator</en>, <g>Cuaigear</g>
+                <en>Quaker</en>, <g>cuango</g>
+                <en>quango</en>, <g>cuaraidh</g>, <g>cuartaich</g> / <g>cuairtich</g>, <g>cùbaid</g>
+                / <g>cùbainn</g>, <g>cucair</g>
+                <en>cooker</en>, <g>cudrom</g> / <g>cuideam</g>, <g>cudromach</g>, <g>cuibheall</g>
+                / <g>cuibhle</g> n, <g>cuibhil</g> v <en>wheel</en> vn <g>cuibhleadh</g>,
+                    <g>cuibhle</g> / <g>cuibheall</g> n, <g>cuideachail</g>, <g>cuideigin</g>,
+                    <g>cuidhteas</g>, <g>cuingealachadh</g>, <g>cuin a thig i?</g>, <g>cuin(e)</g>,
+                    <g>cuinn(l)ean</g>, <g>cuip</g> n, v <en>whip</en>, <g>cuir</g> vn <g>cur</g>,
+                    <g>cùis-lagha</g>, <g>cùis-uabhais</g>, <g>cuithe</g>
+                <en>cattle fold; pit</en>, <g>cuithe-sneachda</g>
+                <en>snowdrift</en>, <g>cùlaibh</g>, <g>culaidh-ghràin</g>, <g>culaidh-mhagaidh</g>,
+                    <g>culaidh-thruais</g>, <g>cultar</g>, <g>cultarach</g>, <g>cum</g>
+                <en>shape</en>, <g>cùm</g>
+                <en>keep</en>, <g>cumadh</g>, <g>cumail</g>, <g>cumanta</g>, <g>cunntas</g>,
+                    <g>cunntair</g>
+                <en>counter (shop); bank teller</en>, <g>cuòram</g>
+                <en>quorum</en>, <g>cuota</g>
+                <en>quota</en>, <g>curraicealam</g>, <g>cuspair</g>, <g>cuspann</g> / <g>cusbann</g>
+            </p>
+        </section>
+        <section id="d">
+            <h>d</h>
+            <p><g>da</g>
+                <en>to him/it</en>, <g>dà</g>
+                <en>two</en>, <g>dachaigh</g>, <g>dad</g>, <g>Dadaidh</g>, <g>dàibheadh</g>,
+                    <g>dàibhear</g>, <g>dàibhig</g>, <g>daineamaig</g> n, <g>daineamaigeach</g> adj,
+                    <g>daineamait</g>, <g>daineamo</g>, <g>daingeann</g>, <g>daingneachadh</g>,
+                    <g>daingnich</g>, <g>daithead</g>
+                <en>diet</en>, <g>dam</g>
+                <en>dam</en>, <g>Dàmhair</g> (An), <g>danns(a)</g>, <g>daoimean</g>, <g>daor</g>,
+                    <g>dàrna</g> / <g>dara</g>, <g>da-rìribh</g> / <g>dha-rìribh</g>, <g>dathte</g>,
+                    <g>deach</g> / <g>deachaidh</g>, <g>deadhan</g>
+                <en>dean</en>, <g>deàlrach</g>, <g>deamhais</g>, <g>deamocrasaidh</g>,
+                    <g>deamocratach</g>, <g>dearbhte</g>, <g>deàrrsach</g>, <g>deasbad</g>,
+                    <g>deasg</g>, <g>dèidheil</g>, <g>deilignit</g>
+                <en>gelignite</en>, <g>deireadh-seachdain</g>, <g>deit</g>
+                <en>date</en>, <g>deotar</g>
+                <en>jotter</en>, <g>deothail</g>
+                <en>suck</en>, <g>deug</g>, <g>deugaire</g>, <g>dha</g>
+                <en>to him/it</en>, <g>dhà</g>
+                <en>two</en>, <g>dhachaigh</g>, <g>dhaibh(san)</g>, <g>dha-rìribh</g> /
+                    <g>da-rìribh</g>, <g>dhàsan</g>, <g>dh’fhalbh</g>, <g>dhi</g>
+                <en>to/for her/it</en>, <g>dhibh(se)</g>
+                <en>of/off you</en> pl, <g>dhinn(e)</g>
+                <en>of/off us</en>, <g>dhìom(sa)</g>, <g>dhìot(sa)</g>, <g>dhith(se)</g>
+                <en>of/off her/it</en>, <g>dhìse</g>
+                <en>to her</en>, <g>dh’ith</g>, <g>dhiubh(san)</g>
+                <en>of/off them</en>, <g>dh’òl</g>, <g>dhòmhsa</g>, <g>dhuibhse</g>,
+                    <g>dhuinn(e)</g>
+                <en>of/off you</en>, <g>dhut(sa)</g>, <g>dian</g>
+                <en>intense</en>, <g>Diardaoin</g>, <g>diathad</g>, <g>dìcheall</g>,
+                    <g>Diciadain</g>, <g>dìdean</g>, <g>Didòmhnaich</g>, <g>didseatach</g>
+                <en>digital</en>, <g>digear</g>, <g>Dihaoine</g>, <g>dilleachdan</g>,
+                <g>Diluain</g>, <g>Dimàirt</g>, <g>dìneasair</g>, <g>dinichean</g>
+                <en>jeans</en>, <g>dinn</g>
+                <en>cram, stuff</en>, <g>dinnear</g>, <g>dìochuimhnich</g>, <g>diofar</g>,
+                    <g>dìoghail</g> / <g>dìol</g>
+                <en>avenge; repay</en>, <g>dìoghaltas</g>, <g>diombuan</g>, <g>dìon</g>
+                <en>defend</en>, <g>dioplòmasach</g>, <g>dioplòmasaidh</g>, <g>dìoro</g>
+                <en>giro</en>, <g>diosgo</g>, <g>Disathairne</g>, <g>dithis</g>, <g>diùraidh</g>
+                <en>jury</en>, <g>dleastanas</g>, <g>doca</g>
+                <en>dock, hollow</en>, <g>docair</g>, <g>doile</g> / <g>doileag</g> / <g>doilidh</g>
+                <en>doll</en>, <g>doilgheas</g>, <g>dolair</g>, <g>domhainn</g>
+                <en>deep</en>, <g>domhan</g>
+                <en>world</en>, <g>dòrainneach</g>, <g>doras</g>, <g>dosgainn</g>, <g>dotair</g>
+                    (<g>Dr</g> for short), <g>do ur</g>
+                <en>to your</en>, <g>drabasta</g>, <g>dràibheadh</g>, <g>dràibhear</g>, <g>dram</g>
+                / <g>drama</g>
+                <en>dram</en>, <g>dràma</g>
+                <en>drama</en>, <g>draoidh</g>, <g>drèana</g>, <g>dreasa</g>, <g>dreuchd</g>,
+                    <g>drioftair</g>, <g>drithleann</g>
+                <en>sparkle</en>, <g>dr(i)ùchd</g>, <g>droga</g>, <g>drùdh</g>
+                <en>drop</en>, <g>drudhag</g> / <g>drùdhag</g>, <g>drùdhag</g> / <g>drudhag</g>,
+                    <g>drùidh</g>
+                <en>soak into</en>, <g>drùidhteach</g>, <g>dubh-fhacal</g>
+                <en>riddle, enigma</en>, <g>dubh-ghorm</g>, <g>Dùbhlachd, An</g>, <g>ducs</g>
+                <en>dux</en>, <g>duineil</g>, <g>Dùn Èideann</g>, <g>dùthchasach</g>
+            </p>
+        </section>
+        <section id="e">
+            <h>e</h>
+            <p>
+                <g>e</g>
+                <en>he/it</en>, <g>eacarsaich</g>, <g>eaconamach</g>, <g>eaconamachd</g>,
+                    <g>eaconamaidh</g>, <g>eaconamair</g>, <g>Eaconamas Dachaigh</g>,
+                    <g>eacstasaidh</g>
+                <en>ecstasy (the drug)</en>, <g>eadar-àm</g>, <g>eadar-amail</g>, <g>eadar-lìon</g>,
+                    <g>èadhar</g>
+                <en>air</en>, <g>eadhon</g>, <g>èadhraig</g> v <en>air</en>, <g>eagal</g>,
+                    <g>eala</g>, <g>ealain</g> (not <bad>ealan</bad>), <g>ealla</g> (as in <g>gabh
+                    ealla ri</g>), <g>ealtainn</g>, <g>eanraich</g>, <g>earball</g>, <g>eàrlas</g> /
+                    <g>àirleas</g>, <g>Earra-Ghàidheal</g>, <g>eas-aonta</g>
+                <en>disagreement</en>, <g>easaontas</g>
+                <en>transgression</en>, <g>easbaig</g>, <g>easbhaidh</g>, <g>easbhaidheach</g>,
+                    <g>èasgaidh</g>, <g>easgann</g>, <g>eatarrasan</g>, <g>èiginneach</g> /
+                    <g>èigeannach</g>, <g>èigh</g>, <g>èigheach(d)</g>, <g>èiginn</g>, <g>’eil?</g>,
+                    <g>eileagtronaigeach</g>, <g>eileamaid</g>, <g>eilean</g>, <g>eilthireach</g>,
+                    <g>einnsean</g>, <g>einnseanair</g>, <g>einnseanaireachd</g>, <g>Èireannach</g>,
+                    <g>èirich</g> v <en>rise</en> vn <g>èirigh</g>, <g>èiridh</g>
+                <en>will rise</en>, <g>Èirisgeigh</g>, <g>eisimeil</g>, <g>eisimeileach</g>,
+                    <g>eisimpleir</g>, <g>èist</g>, <g>èisteachd</g>, <g>Èitseal</g>, <g>esan</g>,
+                    <g>eucoir</g>, <g>eucorach</g>, <g>eud</g>, <g>eugmhais</g>
+            </p>
+        </section>
+        <section id="f">
+            <h>f</h>
+            <p>
+                <g>fa chomhair</g>, <g>fa chùis</g>, <g>facs</g>
+                <en>fax</en>, <g>factaraidh</g>, <g>fàd</g>, <g>fa-dheòidh</g>
+                <en>finally</en>, <g>faic</g>, <g>faiceall</g> / <g>faicill</g>, <g>faiceallach</g>
+                / <g>faicilleach</g>, <g>faicte</g> / <g>faicist(e)</g>, <g>faidhle</g> n
+                    <en>file</en>, <g>faidhl(ig)</g>, <g>faigh</g>, <g>faighnich</g>,
+                <g>faileas</g>, <g>faillich</g> / <g>fairtlich</g>, <g>fàillig</g> /
+                <g>fàilnich</g>, <g>failmean</g>
+                <en>knee-cap</en>, <g>fàinne</g>, <g>fàire</g>, <g>fàisgte</g>, <g>fa leth</g>,
+                    <g>fallain</g>, <g>fallas</g>, <g>famhair</g> / <g>fuamhaire</g>,
+                <g>fa-near</g>, <g>faobhar</g>, <g>faochadh</g> / <g>faothachadh</g>,
+                    <g>faoileag</g>, <g>Faoilleach (Am)</g>, <g>far-ainm</g>, <g>faram</g>,
+                    <g>faramach</g>, <g>farchluais</g>, <g>farsaing</g>, <g>fa sgaoil</g>,
+                    <g>fastaidh</g>, <g>fastaidhear</g>, <g>fathann</g>, <g>feabhas</g>,
+                    <g>feadhainn</g>, <g>feallsanachd</g>, <g>fear</g>, <g>fèar</g>
+                <en>just, exactly</en>, <g>fearail</g>, <g>fear-ceàird</g>, <g>feareigin</g>,
+                    <g>fear-labhairt</g>, <g>fear-lagha</g>, <g>fear na cathrach</g>, <g>feàrr</g> /
+                    <g>fheàrr</g>, <g>feart</g>
+                <en>virtue; heed</en>, <g>feasgar Dimàirt</g>, <g>feasgar na Sàbaid</g>,
+                    <g>fèath</g>, <g>fèileadh</g>
+                <en>kilt</en>, <g>fèist</g>
+                <en>feast, banquet</en>, <g>feuch</g>
+                <en>try</en>, <g>feur</g>
+                <en>grass</en>, <g>feurach</g>, <g>feusag</g>, <g>feusgan</g>, <g>fhathast</g>,
+                    <g>fhuair</g>, <g>fhuaras</g>
+                <en>was found</en>, <g>fiacail</g>, <g>fiach</g>
+                <en>worth</en>, <g>fiar</g>
+                <en>squint</en>, <g>fideiseach</g>
+                <en>fidgety</en>, <g>fidheall</g>, <g>fighte</g>, <g>fillte</g>, <g>film</g>,
+                    <g>fìon</g>, <g>fìor</g>
+                <en>true</en>, <g>fìrean</g>
+                <en>righteous/worthy person</en>, <g>fìreanachadh</g>
+                <en>justifying</en>, <g>freann</g>, <g>freannach</g>, <g>fìr-eun</g>
+                <en>eagle</en>, <g>fìrinn</g>
+                <en>truth</en>, <g>fìrinneach</g>
+                <en>truthful</en>, <g>fitheach</g>, <g>fodha</g>
+                <en>under him/it</en>, <g>fòdhpa</g>, <g>foghain</g>
+                <en>suffice</en>, <g>foghlam</g>, <g>fòghnan</g>
+                <en>thistle</en>, <g>fòidhpe</g>, <g>foighidinn</g>, <g>foighidneach</g>,
+                    <g>foillseachadh</g>, <g>foirfeach</g>, <g>foirm</g>
+                <en>form</en>, <g>follaiseach</g>, <g>fon chuthach</g>, <g>fosgladh</g>
+                <en>opening</en>, <g>fraighig</g> / <g>praighig</g>
+                <en>fry</en>, <g>Fraingis</g>
+                <en>French language</en>, <g>Frangach</g>
+                <en>French person</en>, <g>freastal</g>, <g>freumh</g>, <g>frids</g> fridge,
+                    <g>fuaigheil</g> v <en>sew</en> vn <g>fuaigheal</g>, <g>fuaigheal</g> n
+                    <en>sewing</en>, <g>fuaim</g>, <g>fuamhaire</g> / <g>famhair</g>,
+                    <g>fuasgladh</g>
+                <en>solving, loosening</en>, <g>fuathasach</g>
+                <en>very, terribly</en>, <g>fùdar</g> / <g>pùdar</g>, <g>fuidheall</g>
+                <en>remainder</en>, <g>fuiling</g> v <en>suffer</en> vn <g>fulang</g>,
+                    <g>fulang(as)</g> n <en>suffering</en>, <g>furasta</g>, <g>furm</g>
+                <en>stool</en>
+            </p>
+        </section>
+        <section id="g">
+            <h>g</h>
+            <p>
+                <g>Gàidheal</g>, <g>Gàidhealach</g>, <g>Gàidhealtachd</g>, <g>Gàidhlig</g>,
+                    <g>gailleann</g>, <g>gaileis</g>
+                <en>braces</en>, <g>gaineamh</g>, <g>gainmheach</g>, <g>gàirnealaireachd</g>,
+                    <g>Gall</g>, <g>Gallta</g>, <g>gamhlas</g>, <g>gànraich</g>, <g>gaoisid</g>,
+                    <g>gaoth</g>, <g>gar</g> v <en>warm oneself</en> vn <g>garadh</g>,
+                    <g>gàrlach</g>
+                <en>nyaff/irritating person</en>, <g>gàrradh</g>, <g>gasta</g>, <g>gèadh</g>,
+                    <g>geal</g>, <g>geall</g>, <g>gearain</g> v <en>complain</en> vn <g>gearan</g>,
+                    <g>gearan</g>
+                <en>complaint</en>, <g>gearastan</g>, <g>geàrd</g>, <g>Gearran (An)</g>,
+                    <g>gearran</g>
+                <en>gelding</en>, <g>geàrr-chunntas</g>, <g>geimhleag</g>, <g>geoimeatraidh</g>
+                <en>geometry</en>, <g>ge-tà</g>
+                <en>however</en>, <g>geur</g>, <g>geurchuiseach</g>, <g>gheat</g>
+                <en>yacht</en>, <g>Giblean (An)</g>, <g>gidheadh</g>, <g>Gilleasbaig</g>,
+                    <g>giorna-giùirne</g>
+                <en>helter-skelter</en>, <g>giuthas</g>, <g>glacte</g>, <g>glaine</g> adj
+                    <en>cleaner</en>, <g>glainne</g>
+                <en>glass</en>, <g>gleus</g>, <g>gleusta</g>, <g>gloidhc</g>, <g>glù(i)n</g>,
+                    <g>gnìomhachas</g>, <g>gnù</g>
+                <en>surly</en>, <g>goil</g>
+                <en>boil</en>, <g>goilf</g>, <g>goilfear</g>, <g>Goill</g>, <g>graf</g>,
+                    <g>gràin</g>, <g>gràineil</g>, <g>gràinich</g>, <g>gràinne</g>
+                <en>a single grain</en>, <g>gràmar</g>, <g>Gramasdal</g>, <g>gramataigeach</g>,
+                    <g>gràn</g>
+                <en>grain</en>, <g>grànda</g>, <g>greann</g>, <g>grèata</g>
+                <en>grate (fireplace)</en>, <g>grèim</g>, <g>greusaiche</g>, <g>gu leòr</g>, <g>gun
+                    fhiosta</g>, <g>gun do rinn</g> / <g>gun rinn</g>, <g>gun robh</g>
+            </p>
+        </section>
+        <section id="h">
+            <h>h</h>
+            <p>
+                <g>haidhp</g>
+                <en>hype</en>, <g>haidridean</g>
+                <en>hydrogen</en>, <g>hama</g>, <g>hangar</g>, <g>heileacoptar</g>, <g>hocaidh</g>
+                <en>hockey</en>, <g>hòro-gheallaidh</g>, <g>hù-bhitheil</g>
+                <en>stramash</en>
+            </p>
+        </section>
+        <section id="i">
+            <h>i</h>
+            <p>
+                <g>iac</g>
+                <en>yak</en>, <g>Iapan</g>, <g>iarann</g>, <g>iar-cheumnaiche</g>,
+                    <g>Iar-Cheann-suidhe</g>, <g>iarnaig</g>, <g>iar-ogha</g>, <g>iarrtas</g>,
+                    <g>iathadh</g>, <g>idrisgeach</g>
+                <en>fidgety</en>, <g>Ìle</g>, <g>imeachd</g>, <g>imlich</g>, <g>ìmpire</g>,
+                    <g>ìmpireachd</g>, <g>Inbhir Aora</g>, <g>Inbhir Nis</g>, <g>ìne</g>
+                <en>fingernail</en>, <g>inneal-ciùil</g>, <g>inneal-fighe</g>,
+                    <g>inneal-measgachaidh</g>, <g>Innse Gall</g>, <g>inntinn</g>,
+                <g>ìocshlaint</g>, <g>iòga</g>
+                <en>yoga</en>, <g>iogart</g>
+                <en>yogurt</en>, <g>ioma(dh)</g>, <g>ioma-dhathach</g>, <g>iomadh duine</g>,
+                    <g>iomadh-fhillte</g>, <g>ioma-ghaoth</g>, <g>iomchaidh</g>, <g>iom-fhillte</g>,
+                    <g>Ìomhar</g>, <g>iomnaidh</g>, <g>iomrall</g>, <g>ionad-fàilte</g>,
+                    <g>ionad-fiosrachaidh</g>, <g>ionad-slàinte</g>, <g>ionad-spòrs(a)</g>,
+                    <g>ionann</g>, <g>iongantach</g>, <g>iongantas</g>, <g>iongnadh</g>,
+                    <g>ionmhainn</g>, <g>ionnsaich</g>, <g>ionnsaichte</g>, <g>ionnsaigh</g>,
+                    <g>ionnsramaid</g>, <g>ionnsramaideach</g>, <g>Iorc</g>
+                <en>York</en>, <g>iorghail</g>, <g>ìosal</g> / <g>ìseal</g>, <g>iosgaid</g>,
+                    <g>iriosal</g>, <g>irioslachd</g>, <g>isbean</g>, <g>Iseabail</g>, <g>ìsle</g>,
+                    <g>is mathaid</g>, <g>Israelach</g> / <g>Iosaraileach</g>, <g>is toigh le</g> /
+                    <g>is toil le</g>, <g>iubailidh</g>
+                <en>jubilee</en>, <g>Iuchar (An t-)</g>, <g>Iùgoslàibhia</g>, <g>Iupatar</g>
+            </p>
+        </section>
+        <section id="l">
+            <h>l</h>
+            <p>
+                <g>Lacasdal</g>, <g>lachdann</g>, <g>lagchuiseach</g>, <g>laimrig</g>,
+                <g>laiste</g>, <g>làmh</g>, <g>làmh-an-uachda(i)r</g>, <g>làmhchair</g>,
+                    <g>lampa</g>, <g>làrach-lìn</g>, <g>làraidh</g>, <g>làrna-mhàireach</g>,
+                    <g>lastaig</g>, <g>latha</g> / <g>là</g>, <g>latha-breith</g>,
+                    <g>latha-fèille</g>, <g>Latha/Là Luain</g>, <g>Latha/Là na Sàbaid</g>,
+                    <g>latheigin</g>, <g>lèabag</g> / <g>leòbag</g>, <g>leabaidh</g>,
+                    <g>leabhar-latha</g> / <g>leabhar-là</g>, <g>leabharlann</g>, <g>leaghte</g>,
+                    <g>leagte</g>, <g>leann</g>, <g>leasbach</g>
+                <en>lesbian</en>, <g>Leas-Stiùiriche</g>, <g>leathann</g>, <g>leathase</g>, <g>leig
+                    mu sgaoil</g>, <g>lèine</g>, <g>leis(-san)</g>, <g>leiteachas</g>, <g>leòbag</g>
+                / <g>lèabag</g>, <g>leòman</g>
+                <en>moth</en>, <g>leòmhann</g>
+                <en>lion</en>, <g>leònte</g>, <g>leòr</g>, <g>l(e)òsan</g>
+                <en>window pane</en>, <g>lethbhreac</g>, <g>leth-bhreith</g>, <g>lethchar</g>,
+                    <g>lethcheann</g>, <g>leth-cheud</g>, <g>lethchiallach</g>, <g>leth-chuairt</g>,
+                    <g>letheach</g>, <g>lethoireach</g>
+                <en>isolated</en>, <g>leth-uair</g>, <g>lì</g>
+                <en>surface film</en>, <g>lide(adh)</g>, <g>lilidh</g>, <g>liodraig</g>,
+                    <g>lìomhte</g>, <g>liosta</g>, <g>lobhte</g>, <g>locair</g>, <g>Loch
+                    Baghasdail</g>, <g>logaidh</g>, <g>loidhne</g>, <g>loidseadh</g>,
+                    <g>loidsear</g>, <g>loidsig</g>
+                <en>logic</en>, <g>loidsigeach</g>
+                <en>logical</en>, <g>loiliopop</g>, <g>loisgte</g>, <g>lom</g>, <g>luathaireach</g>
+                <en>high-spirited, mischievous</en>, <g>luaths</g>, <g>lùbach</g>, <g>lùbte</g>,
+                    <g>luchd</g>, <g>luchd-ciùil</g>, <g>luchd-ealain</g>, <g>luchd-obrach</g>,
+                    <g>luchdte</g>, <g>luchd-turais</g>, <g>Lùnastal (An)</g>, <g>Lunnainn</g>,
+                    <g>lùths</g>
+            </p>
+        </section>
+        <section id="m">
+            <h>m</h>
+            <p>
+                <g>Mac a’ Ghobhainn</g>, <g>MacAilein</g>, <g>MacAmhlaigh</g>, <g>Mac an Aba</g>,
+                    <g>Mac an t-Saoir</g>, <g>Mac-a-phì</g>, <g>MacCoinnich</g> /
+                    <g>MacChoinnich</g>, <g>MacIlleMhaoil</g>, <g>mac-meanmna</g> /
+                    <g>mac-meanmainn</g>, <g>mac-samhail</g>, <g>mac-talla</g>,
+                    <g>madadh-allaidh</g>, <g>madainn</g>, <g>maicreasgop</g>
+                <en>microscope</en>, <g>maids</g> v <en>match</en> vn <g>maidseadh</g>,
+                    <g>maids(e)</g>
+                <en>match, game</en>, <g>maighdeann</g>, <g>maighstir</g>, <g>maighstir-sgoile</g>,
+                    <g>màileid</g>, <g>mairtfheòil</g>, <g>maith</g> / <g>math</g>
+                <en>forgive</en>, <g>maitheanas</g> / <g>mathanas</g>
+                <en>forgiveness</en>, <g>maitheas</g> / <g>mathas</g>
+                <en>goodness</en>, <g>manaidsear</g>, <g>maoil</g>
+                <en>forehead</en>, <g>mar-aon</g>, <g>mar-bhith</g>
+                <en>fault, blame</en>, <g>mar eisimpleir</g> (<g>me</g> for short), <g>margaid</g>,
+                    <g>màrsail</g>
+                <en>marching</en>, <g>mar sin air adhart</g> (<g>msaa</g> for short), <g>Màrt
+                    (Am)</g>, <g>mar-thà</g> / <g>mu thràth</g>, <g>mas e do thoil e</g>, <g>mas
+                    fhìor</g>, <g>ma-tà</g> / <g>ma-thà</g>, <g>matamataig</g>,
+                    <g>matamataigeach</g>, <g>math</g> / <g>maith</g>
+                <en>forgive</en>, <g>mathanas</g> / <g>maitheanas</g>
+                <en>forgiveness</en>, <g>mathas</g> / <g>maitheas</g>
+                <en>goodness</en>, <g>m’ athair</g>, <g>math dh’fhaodte</g>, <g>math ’s gu bheil
+                    e</g>, <g>meacanaig</g>, <g>meacanaigeach</g>, <g>meadhan</g>,
+                    <g>meadh-bhlàth</g>, <g>mean</g> / <g>mion</g>
+                <en>small</en>, <g>mèaran</g> / <g>mèanan</g>
+                <en>yawn</en>, <g>mèaranaich</g> / <g>mèananaich</g>
+                <en>yawning</en>, <g>mèarrsadh</g>, <g>meas</g>, <g>meata</g>, <g>meatafor</g>,
+                    <g>meidigeach</g>, <g>meileabhaid</g>
+                <en>velvet</en>, <g>mèinneadair</g>, <g>mèinnir</g>
+                <en>mineral</en>, <g>mèinnireach</g>, <g>mèirle</g>, <g>meòrachadh</g>,
+                    <g>meòrachail</g>, <g>meòrachan</g>, <g>meòraich</g>, <g>meud</g>,
+                    <g>meudaich</g>, <g>meur</g>, <g>meuran</g>
+                <en>thimble</en>, <g>meur-chlàr</g>
+                <en>keyboard</en>, <g>mial</g>, <g>mialaich</g> / <g>miathalaich</g>,
+                    <g>mial-chù</g>, <g>mias</g>
+                <en>basin</en>, <g>miast(r)adh</g>
+                <en>havoc</en>, <g>mì-chàilear</g>, <g>mìchiatach</g> / <g>mì-chiatach</g>,
+                    <g>mì-chliù</g>, <g>mì-chofhurtail</g>, <g>mì-fhallain</g>, <g>mi fhèin</g> /
+                    <g>mi fhìn</g>, <g>mi fhìn</g> / <g>mi fhèin</g>, <g>mìlegram</g> (<g>mg</g> for
+                short), <g>mìleliotair</g> (<g>ml</g> for short), <g>mìlemeatair</g> (<g>mm</g> for
+                short), <g>mill</g>, <g>millean</g>, <g>milleanair</g>
+                <en>millionaire</en>, <g>mì-mhodh</g>, <g>mì-mhodhail</g>, <g>minig</g>,
+                    <g>ministear</g>, <g>mion</g> / <g>mean</g>
+                <en>small</en>, <g>mion-chànan</g>, <g>mions</g>
+                <en>mince</en>, <g>mìorbhail</g>, <g>mìorbhaileach</g>, <g>mì-phroifeiseanta</g>,
+                    <g>mìos</g>
+                <en>month</en>, <g>mì-rùn</g>, <g>miseanaraidh</g>, <g>mocheirigh</g>, <g>modail</g>
+                <en>model</en>, <g>modal</g>
+                <en>module</en>, <g>mòdam</g>, <g>moileciuil</g>, <g>mo leabhar-sa</g>,
+                    <g>monmhar</g>, <g>mòr</g>, <g>mòrchuis</g>, <g>mòrchuiseach</g>,
+                    <g>mòr-dhail</g>, <g>morgaids(e)</g>, <g>mòr-roinn</g>
+                <en>continent</en>, <g>mòr-shluagh</g>, <g>mòr-thìr</g>
+                <en>mainland</en>, <g>mosgìoto</g>
+                <en>mosquito</en>, <g>mu choinneamh</g> / <g>mu choinneimh</g>, <g>mu chuairt</g>,
+                    <g>mu dheidhinn</g>, <g>muicfheòil</g>, <g>muileann</g>, <g>muilicheann</g> /
+                    <g>muinichill</g>, <g>muiltfheòil</g>, <g>muinighin</g>, <g>muinntir</g>,
+                    <g>muncaidh</g>, <g>mur(a)</g>
+                <en>unless</en>, <g>murtaidh</g>
+                <en>sultry</en>, <g>mus</g>
+                <en>before</en>, <g>Muslamach</g>, <g>mu thràth</g> / <g>mar-thà</g></p>
+        </section>
+        <section id="n">
+            <h>n</h>
+            <p>
+                <g>nàbaidh</g>, <g>na b’ òige</g>, <g>nach bi</g>, <g>nàdar</g>, <g>nàdarrach</g>,
+                    <g>Na Hearadh</g>, <g>naidheachd</g>, <g>naidhlean</g>, <g>naochad</g>,
+                    <g>naoi</g> / <g>naodh</g>, <g>naoi air fhichead</g> / <g>naodh air
+                fhichead</g>, <g>naoi-deug</g> / <g>naodh-deug</g>, <g>naoidheamh</g> /
+                    <g>naodhamh</g>, <g>naoinear</g> / <g>naodhnar</g>, <g>neach-ciùil</g>,
+                    <g>neach-ealain</g>, <g>neacheigin</g>, <g>neach-gairm</g>,
+                    <g>neach-labhairt</g>, <g>neach-sgrùdaidh</g>, <g>neach-teagaisg</g>,
+                    <g>nèamh</g>, <g>nèapaigin</g>, <g>nèapraig(ear)</g>, <g>neas</g>
+                <en>weasel</en>, <g>neasgaid</g>
+                <en>a boil</en>, <g>nèibhidh</g>, <g>neo-ar-thaing</g>, <g>neochoireach</g>,
+                    <g>neo-eisimeileach</g>, <g>neo-fhoirmeil</g>, <g>neòghlan</g>,
+                    <g>neoichiontach</g>, <g>neoichiontachd</g>, <g>neo-lochdach</g>, <g>neoni</g>,
+                    <g>NicIlleDhuinn</g>, <g>nìghneag</g>, <g>nithear</g>
+                <en>will be done</en>, <g>niùclasach</g>, <g>nobhail</g>, <g>nuair</g>
+            </p>
+        </section>
+        <section id="o">
+            <h>o</h>
+            <p>
+                <g>obair-dachaigh</g>, <g>obair-ghrèis</g>, <g>obair-làimhe</g>, <g>obair-latha</g>,
+                    <g>Òban (An t-)</g>, <g>Obar Dheathain</g>, <g>obraichean</g>, <g>ochdad</g>,
+                    <g>ochd-deug</g>, <g>Ògmhios (An t-)</g>, <g>ogsaidean</g>
+                <en>oxygen</en>, <g>Oidhche Ardaoin</g>, <g>Oidhche Challainn</g>, <g>Oidhche
+                    Chiadain</g>, <g>Oidhche Dhòmhnaich</g>, <g>Oidhche Haoine</g>, <g>Oidhche
+                    Luain</g>, <g>Oidhche Mhàirt</g>, <g>Oidhche na Sàbaid</g>, <g>Oidhche
+                    Shamhna</g>, <g>Oidhche Shathairne</g>, <g>oidhirp</g>, <g>oifigear</g>,
+                    <g>oifigeach airm</g>, <g>oifigear leasachaidh</g>, <g>oifigeil</g>,
+                    <g>òigear</g>, <g>oilisgin</g>, <g>oillteil</g>, <g>oilthigh</g>,
+                    <g>òinseach</g>, <g>oirbh(se)</g>, <g>òirdheirc</g>, <g>òirleach</g>,
+                    <g>oirre</g>
+                <en>on her</en>, <g>oisean</g>, <g>Ollamh (An t-)</g> (<g>An t-Oll</g> for short),
+                    <g>onair</g>, <g>onarach</g>, <g>opairèisean</g>
+                <en>operation</en>, <g>opara</g>
+                <en>opera</en>, <g>òraidiche</g>, <g>orains</g>, <g>orainsear</g>, <g>òran
+                    càraid</g>, <g>òran luaidh</g>, <g>òrdaich</g>, <g>òrdaighean</g>, <g>òrdugh</g>
+                / <g>òrdan</g>, <g>òrdugh cùirte</g>, <g>orra</g>
+                <en>on them</en>, <g>os cionn</g>, <g>os ìosal</g>
+                <en>secretly</en>, <g>os làimh</g>, <g>os-nàdarra(ch)</g>, <g>òson</g>
+                <en>ozone</en>, <g>ostail</g>, <g>Ostair (An)</g>, <g>òstair</g>
+                <en>hotelier</en>, <g>othaisg</g> pl <g>othaisgean</g> / <g>òisgean</g>
+            </p>
+        </section>
+        <section id="p">
+            <h>p</h>
+            <p>
+                <g>Pabaigh</g>, <g>paidh</g>
+                <en>pie</en>, <g>paidhir</g>, <g>paidse</g>
+                <en>patch</en>, <g>pàigh</g>
+                <en>pay</en>, <g>pàipear-naidheachd</g>, <g>paireafain</g>
+                <en>parafin</en>, <g>pairilis</g>
+                <en>paralysis, palsy</en>, <g>paisgte</g>, <g>pàiste</g>, <g>paistiuraich</g>
+                <en>pasteurise</en>, <g>pannal</g>
+                <en>panel</en>, <g>paraimeatair</g>
+                <en>parameter</en>, <g>paraisiut</g>, <g>paròil</g>, <g>parsail</g>, <g>partaidh</g>
+                / <g>pàrtaidh</g>, <g>pasgan</g>, <g>pathadh</g>, <g>peansail</g>,
+                    <g>pears-eaglais</g>, <g>peile</g>, <g>peinnsean</g>, <g>peirceall</g>,
+                    <g>piàno</g>, <g>pinc</g>, <g>pìob-mhòr</g>, <g>pioramaid</g>, <g>piotsa</g>
+                <en>pizza</en>, <g>pitheid</g>, <g>plana cànain</g>, <g>plana leasachaidh</g>,
+                    <g>plastaig</g>, <g>plèan(a)</g>, <g>plèastair</g> / <g>plèastraig</g> v
+                    <en>plaster</en>, <g>plèastar</g> n, <g>pleidhe</g>
+                <en>playtime, interval</en>, <g>plòidh</g>, <g>poball</g>, <g>poblach</g>
+                <en>public</en>, <g>poblachd</g>
+                <en>republic</en>, <g>poidhleat</g>
+                <en>pilot</en>, <g>poidsear</g>, <g>poidsig</g>, <g>poileas</g>, <g>poileasaidh</g>,
+                    <g>poilitigs</g>, <g>poilitigeach</g>, <g>poirdse</g>
+                <en>porch</en>, <g>pòla</g> / <g>pòile</g>
+                <en>pole</en>, <g>pongail</g>, <g>post(a)</g>, <g>pòsta</g>, <g>post-dealain</g>
+                    (<g>post-d</g> for short), <g>practaigeach</g>, <g>pragmatach</g>,
+                    <g>preusant</g>, <g>prìomh bhaile</g>, <g>Prìomh Mhinistear</g>,
+                    <g>prionnsapal</g>, <g>pròbhaist</g>, <g>proifeasair</g>, <g>proifeiseanta</g>,
+                    <g>proipeilear</g>, <g>pròiseact</g>, <g>proiseactair</g>, <g>pronn</g>,
+                    <g>pronnasg</g>
+                <en>sulphur</en>, <g>Pròstanach</g>, <g>pròtacal</g>, <g>prothaid</g>,
+                    <g>prothaideach</g>, <g>prothaidich</g> v, <g>protractair</g>, <g>pùdar</g> /
+                    <g>fùdar</g> n, <g>purpaidh</g> / <g>purpar</g>
+                <en>purple</en>
+            </p>
+        </section>
+        <section id="r">
+            <h>r</h>
+            <p>
+                <g>raidhc</g>
+                <en>rake (person)</en>, <g>raighd</g>
+                <en>ride</en>, <g>ràinig</g>, <g>ràith(e)</g>, <g>raon-cluiche</g>,
+                    <g>rathad-mòr</g>
+                <en>main road</en>, <g>rèabhaireachd</g>
+                <en>rambling(in the sense of walking)</en>, <g>reasabaidh</g>, <g>rèidio</g>,
+                    <g>rèidiografaidh</g>, <g>rèidium</g>, <g>rèidius</g>, <g>rèisimeid</g>,
+                    <g>reoth</g>
+                <en>freeze</en>, <g>reothadh</g>, <g>reòthta</g> / <g>reòthte</g>, <g>reubte</g>,
+                    <g>reudan</g>
+                <en>woodworm, woodlouse, etc</en>, <g>riaghailt</g>, <g>ribh(se)</g>,
+                <g>ribheid</g>, <g>rinc-deighe</g>, <g>rinn(e)</g>
+                <en>to us</en>, <g>rìoghachd</g>, <g>rionnach</g>, <g>rionnag</g>, <g>ris(-san)</g>,
+                    <g>ri taobh</g>, <g>ro</g>
+                <en>before</en> (not <g>roi</g> / <g>roimh</g>), <g>roghainn</g>, <g>roilear</g>,
+                    <g>roilig</g>, <g>roinn dealbhachaidh</g>, <g>ro-innleachd</g>, <g>roinn
+                    ionmhais</g>, <g>rola</g> / <g>roile</g>
+                <en>roll</en>, <g>ro-ràdh</g>, <g>ròsta</g>, <g>rothaig</g>
+                <en>wind up</en>, <g>rùbarab</g>
+                <en>rhubarb</en>, <g>rubha</g>, <g>rudeigin</g>, <g>r(u)idhil</g> v,
+                    <g>r(u)idhle</g> n, <g>rùilear</g>, <g>rùisg</g> v <en>peel</en>, <g>Rùm</g>,
+                    <g>ruma</g>
+                <en>rum</en>, <g>rùm-cadail</g>, <g>rùm-suidhe</g>, <g>rùm-teagaisg</g>,
+                    <g>rùrach</g> / <g>rùileach</g>, <g>rùsg</g> n <en>peel; fleece</en>
+            </p>
+        </section>
+        <section id="s">
+            <h>s</h>
+            <p>
+                <g>sa</g>, <g>san</g> sg <en>in the</en>, <g>’s a</g>
+                <en>and his/her</en>, <g>sabhal</g> pl <g>saibhlean</g>, <g>sabhs</g>
+                <en>sauce</en>, <g>saibhear</g>
+                <en>culvert</en>, <g>saidhbhir</g>
+                <en>rich</en>, <g>saidhbhreas</g>
+                <en>riches</en>, <g>saidhleafòn</g>, <g>sail</g> pl <g>sail(th)ean</g>
+                <en>beam</en>, <g>sàil</g>
+                <en>heel</en>, <g>saill</g> v <en>salt</en> vn <g>sailleadh</g>, <g>saimeant</g>,
+                    <g>sàirdseant</g>, <g>sàl</g>
+                <en>brine</en>, <g>salchar</g>, <g>’s am</g>
+                <en>and the/their</en>, <g>samhail</g>, <g>Samhain (An t-)</g>, <g>samhla</g>, <g>’s
+                    an</g>
+                <en>and the/their</en>, <g>’s ann</g>, <g>saorsainneachd</g>
+                <en>joinery</en>, <g>saorsainneil</g>, <g>Sasainn</g>, <g>Sasannach</g>, <g>’s
+                    dòcha</g>, <g>’s e</g>, <g>seabra</g>
+                <en>zebra</en>, <g>seachain</g>, <g>seachdad</g>, <g>seachdain</g>,
+                    <g>seachdainean</g>, <g>seadh</g>
+                <en>aye, yes</en>, <g>seagh</g>
+                <en>sense</en>, <g>seaghail</g>, <g>seagsaidh</g>
+                <en>sexy</en>, <g>seal</g>
+                <en>a while</en>, <g>sealastair</g> / <g>seileastair</g>, <g>seall</g>,
+                    <g>Sealtainn</g>, <g>seanail</g> channel, <g>seanailear</g>, <g>seanchaidh</g>,
+                    <g>seanchas</g>, <g>seanfhacal</g>, <g>seans(a)</g> / <g>teans(a)</g>,
+                    <g>seansailear</g>, <g>seantans</g>, <g>seaplain</g>
+                <en>chaplain</en>, <g>searaidh</g>
+                <en>sherry</en>, <g>searmon</g>, <g>searmonaich</g>, <g>seasgad</g>,
+                <g>seatlaig</g>, <g>seic</g>
+                <en>cheque</en>, <g>seiche</g>
+                <en>hide</en>, <g>seilear</g>, <g>seileastair</g> / <g>sealastair</g>,
+                    <g>seirbheis</g>, <g>seirbheiseach</g>, <g>sèithear</g>,
+                <g>sèithear-cuibhle</g>, <g>seit-phlèan</g>, <g>seo</g>, <g>seòclaid</g>,
+                    <g>seòmar-bìdh</g>, <g>seòmar-ionnlaid</g>, <g>seòmar-leapa</g>, <g>seud</g>,
+                    <g>seun</g>
+                <en>charm, spell</en>, <g>seunta</g>, <g>seusan</g>, <g>’s fheudar</g>,
+                    <g>Sgalpach</g>, <g>Sgalpaigh</g>, <g>Sgarp (An)</g>, <g>Sgarpach</g>,
+                    <g>sgeidse</g>
+                <en>sketch</en>, <g>sgeul</g>, <g>sgì</g> v <en>ski</en> vn <g>sgitheadh</g>,
+                    <g>sgiamh</g>, <g>sgian</g>, <g>sgileil</g>, <g>sgillinn</g>, <g>sgiort(a)</g>,
+                    <g>Sgitheanach</g>, <g>sgìths</g>, <g>sglèat</g>, <g>sgoilear</g>,
+                    <g>sgoinneil</g>, <g>sgreamh</g>, <g>sgreamhail</g>, <g>sgreataidh</g>,
+                    <g>sgreuch</g>
+                <en>scream</en>, <g>sgrìob-cheangail</g>, <g>sgriubha</g>, <g>sgriubhaig</g>,
+                    <g>sgriubhaire</g>, <g>sguilearaidh</g>, <g>’s i</g>, <g>siabann</g>,
+                    <g>siad</g>
+                <en>hero</en>, <g>’s iad</g>, <g>sian</g>
+                <en>storm</en>, <g>sib’ fhèin</g> (short for <g>sibh fhein</g>), <g>similear</g>,
+                    <g>sinc</g>
+                <en>sink; zinc</en>, <g>sinn-seanair</g>, <g>sinn-seanmhair</g>, <g>sìochaint</g>,
+                    <g>Siog</g>
+                <en>Sikh</en>, <g>siogàr</g>
+                <en>cigar</en>, <g>siogarait</g>
+                <en>cigarette</en>, <g>sìon</g>
+                <en>anything</en>, <g>Sìona</g>
+                <en>China</en>, <g>Sìonach</g>
+                <en>Chinese</en>, <g>sionnsar</g>, <g>siop</g>
+                <en>zip</en>, <g>siopsach</g>
+                <en>gypsy</en>, <g>sioraf</g>
+                <en>giraffe</en>, <g>siorc</g>
+                <en>shark</en>, <g>sìorraidh</g>, <g>siostam</g>, <g>sitheann</g>, <g>siud</g>,
+                    <g>siuga</g>, <g>slac</g>
+                <en>slack, weak</en>, <g>slaic</g>
+                <en>blow</en>, <g>slaighd</g>, <g>slaightear</g>, <g>slaightearachd</g>,
+                    <g>sleamhainn</g>, <g>sleids</g>, <g>sliseag</g>, <g>sloc</g>
+                <en>pit</en>, <g>smachd</g>, <g>smaoinich</g> vn <g>smaoineachadh</g>, <g>’s
+                    math</g>, <g>(’s) math dh’fhaodte</g>, <g>’s maite</g> / <g>’s mathaid</g>,
+                    <g>smeur</g>, <g>smiogaid</g>, <g>smior</g>, <g>smocadh</g>, <g>smocaig</g> v
+                    <en>smoke</en>, <g>sna</g> pl <en>in the</en>, <g>snaidhm</g> / <g>snaoim</g>,
+                    <g>snaigheadair</g>, <g>snaigheadh</g>, <g>snàithlean</g>, <g>snaoim</g> /
+                    <g>snaidhm</g>, <g>snàthainn</g>, <g>snèap</g>, <g>snìomhte</g>,
+                    <g>so-dhèanta</g>, <g>soidhne</g>, <g>soidhnig</g>, <g>soifostaigeach</g>,
+                    <g>soircas</g>, <g>sòisealta</g>, <g>soisgeul</g>, <g>soitheamh</g>
+                <en>tame</en>, <g>solas</g>
+                <en>light</en>, <g>sòlas</g>
+                <en>joy</en>, <g>’son</g> (short for <g>airson</g>), <g>sòn</g>
+                <en>zone</en>, <g>sònraichte</g>, <g>spaidsir</g>, <g>Spainn(t)each</g>,
+                    <g>Spainn(t)is</g>, <g>spanair</g>, <g>speal</g>, <g>spìosrach</g>,
+                    <g>splais</g>, <g>spreadh</g> vn <g>spreadhadh</g>, <g>spreig</g>, <g>spreòt</g>
+                <en>incite</en>, <g>sprochd</g>, <g>sprùilleach</g>, <g>srac</g> vn <g>sracadh</g>,
+                    <g>Sràid na h-Eaglais(e)</g>, <g>srainnsear</g>, <g>srath</g>, <g>sreap</g> /
+                    <g>streap</g>, <g>sreapadair</g> / <g>streapadair</g>, <g>sreapadaireachd</g> /
+                    <g>streapadaireachd</g>, <g>sreothart</g>, <g>sreothartaich</g>, <g>srùbag</g>,
+                    <g>stàball</g>, <g>staidhre</g>, <g>stairsneach</g>, <g>staitistearachd</g>
+                <en>statistics</en>, <g>staitistigeil</g>, <g>staoig</g>
+                <en>steak</en>, <g>steall</g>, <g>steatasgop</g>, <g>steig</g> v <en>stick</en>,
+                    <g>steigeach</g>, <g>stiùidio</g>, <g>stiùireadair</g>, <g>stiùir</g> vn
+                    <g>stiùireadh</g>, <g>stiùrag</g>, <g>stoidhle</g>, <g>stòiridh</g>,
+                <g>stòr</g>, <g>stràc</g>, <g>strèan</g>, <g>streap</g> / <g>sreap</g>,
+                    <g>streapadair</g> / <g>sreapadair</g>, <g>streapadaireachd</g> /
+                    <g>sreapadaireachd</g>, <g>strì</g>, <g>strìoch</g>, <g>structar</g>, <g>sù</g>
+                / <g>sutha</g>
+                <en>zoo</en>, <g>suaicheanta</g>
+                <en>noteworthy</en>, <g>suaitheanta</g>
+                <en>awful</en>, <g>sùbailte</g> / <g>subailte</g>, <g>sùbailteachd</g> /
+                    <g>subailteachd</g>, <g>subsadaidh</g>, <g>sùgh orainseir</g>, <g>suidse</g>
+                <en>switch</en>, <g>sùigh</g>, <g>sùim</g>
+                <en>sum; regard</en>, <g>suiteas</g>
+                <en>sweet</en> pl <g>suiteis</g>
+                <en>sweets</en>, <g>suirghe</g>, <g>sùith</g>
+                <en>soot</en>, <g>Sultain (An t-)</g>, <g>susbaint</g>
+            </p>
+        </section>
+        <section id="t">
+            <h>t</h>
+            <p>
+                <g>tacsa</g>
+                <en>help</en>, <g>taghta</g>
+                <en>fine</en>, <g>taghte</g>
+                <en>chosen</en>, <g>tagsaidh</g>
+                <en>taxi</en>, <g>taidh</g>, <g>taidhear</g> / <g>taidhr</g>, <g>taidhl</g>,
+                    <g>taidhp</g>, <g>taigh</g>, <g>taigh-bìdh</g>, <g>taigh-cluiche</g>,
+                    <g>taigh-cùirte</g>, <g>taigh-òsta</g>, <g>taigh-seinnse</g>, <g>tàinig</g>,
+                    <g>tairig</g> / <g>tarrag</g>
+                <en>nail</en>, <g>tàirnean</g> / <g>tairgean</g> / <g>tarragan</g>
+                <en>nails</en>, <g>tairsgeir</g> / <g>treidhsgeir</g>, <g>taisbeanadh</g>,
+                    <g>taisgte</g>, <g>tana</g>, <g>tancair</g>, taobh-duilleig(e) (td for short),
+                    <g>Tarasaigh</g>, <g>tarcais</g>, <g>tarcaiseach</g>, <g>tastan</g>, <g>TBh</g>,
+                    <g>tè</g>, <g>teacsa</g>, <g>teampall</g>, <g>teanamaint</g>, <g>teanas</g>,
+                teans(a) /seansa <en>chance</en>, <g>tèarainte</g>, <g>tèarainteachd</g>,
+                    <g>tèarmann</g>, <g>teàrn</g> vn <g>teàrnadh</g>, <g>teatha</g> / <g>tì</g>,
+                tè-eigin, <g>teicneòlach</g>, <g>teicneòlas</g>, <g>teicnigeach</g>, <g>tèile</g>
+                (ie <g>tè eile</g>), <g>telefòn</g>, <g>teip</g>, <g>teirm</g>
+                <en>term</en>, <g>teis-meadhan</g>, <g>tè-lagha</g>, <g>telebhisean</g>,
+                    <g>telesgop</g>, <g>teòiridh</g>
+                <en>theory</en>, <g>teòiridheach</g>
+                <en>theoretical</en>, <g>teòth</g>, <g>teòthachd</g>
+                <en>temperature</en>, <g>thàinig</g>, <g>tha mi ’n dòchas</g>, <g>thathar</g> /
+                    <g>thathas</g> / <g>thatar</g>, <g>tha toil agam</g>, <g>thig</g>, <g>thoir
+                    fa-near</g>, <g>thugainn</g> / <g>tugainn</g> / <g>tiugainn</g>, <g>thuirt</g>,
+                    <g>thubhairt</g>, <g>tì</g> / <g>teatha</g>, <g>till</g> vn <g>tilleadh</g>,
+                    <g>timcheall</g>, <g>tiogaid</g>
+                <en>ticket</en>, <g>tiona</g>
+                <en>tin</en>, <g>tionsail</g>
+                <en>tinsel</en>, <g>tìoraidh</g>
+                <en>goodbye</en>, <g>Tiristeach</g> / <g>Tiridheach</g>, <g>tìr-mòr</g>,
+                    <g>titheach</g>, <g>tiugainn</g> / <g>thugainn</g> / <g>tugainn</g>,
+                    <g>tobar</g> m gen <g>tobair</g> f gen <g>tobrach</g>, <g>Tobar Mhoire</g>,
+                    <g>todha</g>
+                <en>hoe</en>, <g>tofaidh</g>, <g>togsaid</g> / <g>tocasaid</g>, <g>togte</g>,
+                    <g>toinisgeil</g>, <g>toirds</g>
+                <en>torch</en>, <g>tomàto</g> pl <g>tomàtothan</g>, <g>tombaca</g>, <g>tò(i)n</g>,
+                    <g>tonsail</g>, <g>tost</g>
+                <en>silence</en>, <g>tost(a)</g>
+                <en>toast</en>, <g>tostach</g>, <g>trafaig</g>, <g>traidhfeal</g>
+                <en>trifle</en>, <g>traidhsagal</g>, <g>traidiseanta</g>, <g>trainnse</g>,
+                    <g>tràlair</g>, <g>trasta</g> adv <en>diagonal</en>, <g>trealaich</g>,
+                    <g>treamhlaidh</g>
+                <en>bug</en>, <g>trèan(a)</g>, <g>trèan</g> v vn <g>trèanadh</g>, <g>trèan(aig)</g>
+                v, <g>treidhe</g>, <g>treidhsgeir</g> / <g>tairsgeir</g>, <g>tribiùnal</g>,
+                    <g>trilleachan</g>, <g>trìoblaich</g>
+                <en>triple</en>, <g>triom</g>
+                <en>mood</en>, <g>trithead</g>, <g>trìtheamh (an)</g>, <g>tro</g> (not ‘troimh’),
+                    <g>troigh</g>
+                <en>foot (measurement)</en>, <g>troilidh</g>
+                <en>trolley</en>, <g>troimh-a-chèile</g>, <g>troimhesan</g>, <g>truileis</g>,
+                    <g>truinnsear</g>, <g>trustar</g>, <g>tuairmse</g>, <g>tuarastal</g>,
+                    <g>tubaist</g>, <g>tugainn</g> / <g>thugainn</g> / <g>tiugainn</g>,
+                    <g>tughadh</g>, <g>tuilleadh</g>, <g>tui(r)neap</g>, <g>tuireadh</g>
+                <en>lament</en>, <g>tuirt</g>, <g>tubhairt</g>, <g>turadh</g>
+                <en>dry weather</en>, <g>turas</g>
+            </p>
+        </section>
+        <section id="u">
+            <h>u</h>
+            <p>
+                <g>uabhar</g>, <g>uabhas</g>, <g>uabhasach</g>, <g>uaimh</g>, <g>uaireigin</g>,
+                    <g>uàlras</g>
+                <en>walrus</en>, <g>uamhraidh</g>
+                <en>very, terribly</en>, <g>uanfheòil</g>, <g>ubhal</g>, <g>uèir-bhiorach</g>,
+                    <g>ugh</g>, <g>ùghdarras</g>, <g>uidheam-glanaidh</g>, <g>uile-gu-lèir</g>,
+                    <g>uilinn</g> / <g>uileann</g>, <g>uill</g>
+                <en>well</en>, <g>uimhir</g>, <g>uiread</g>, <g>uireasbhaidh</g>,
+                    <g>uirle-thruis</g>
+                <en>chaos, stramash</en>, <g>uirsgeul</g>, <g>Ulapul</g>, <g>unnta</g>, <g>Ùna</g>,
+                    <g>uncail</g>, <g>Urànas</g>, <g>ùrlar</g>, <g>ùrnaigh</g>, <g>urra</g>,
+                    <g>urrainn</g>, <g>Urramach (An t-)</g> (<g>An t-Urr</g> for short),
+                    <g>ùruisg</g>, <g>uspag</g>
+            </p>
+        </section>
+        <section id="x">
+            <h>x</h>
+            <p>
+                <g>x-ghath</g>
+            </p>
+        </section>
+
+
+    </section>
+</module>

@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>Banca na Gàidhlig</h>
+    <section id="grammars">
+        <h>Grammars and grammar guides</h>
+        <p>Byrne, Michel (2000). <emph>Facal air an fhacal: Gràmar na Gàidhlig</emph>. Steòrnabhagh:
+            SRG Acair.</p>
+        <p>Byrne, Michel (2002). <emph>Gràmar na Gàidhlig</emph>. Steòrnabhagh: Stòrlann Nàiseanta
+            na Gàidhlig – Acair.</p>
+        <p>Caimbeul, Maoilios (2006). <emph>Gràmar na Gàidhlig: Leabhar-teagaisg le Earrannan
+                Leughaidh, Eacarsaich is Freagairtean</emph>. Steòrnabhagh: Stòrlann Nàiseanta na
+            Gàidhlig.</p>
+        <p>Calder, George (1923). <ax
+                href="https://digital.nls.uk/early-gaelic-book-collections/archive/76600187?mode=transcription"
+                    ><emph>A Gaelic Grammar</emph></ax>. Glasgow: Alex. MacLaren &amp; Sons. [<ax
+                href="https://archive.org/details/gaelicgrammarcon0000cald">alt URL</ax>]</p>
+        <p>Calder, George (1980). <ax href="https://archive.org/details/gaelicgrammarcon0000cald"
+                    ><emph>A Gaelic Grammar</emph></ax>. Glasgow: Gairm.</p>
+        <p>Cox, Richard (2017). <emph>Geàrr-Ghràmar na Gàidhlig</emph>. Brig o’ Turk, Perthshire:
+            Clann Tuirc.</p>
+        <p>Forbes, John (1848) <ax
+                href="https://ia601609.us.archive.org/27/items/principlesofgael00forb/principlesofgael00forb.pdf"
+                    ><emph>The Principles of Gaelic Grammar</emph></ax>. Edinburgh: Oliver &amp;
+            Boyd – London: Simpkin, Marshall, &amp; Co.</p>
+        <p>Gillies, Hugh Cameron (1896). <ax
+                href="https://archive.org/details/elementsofgaelic00gilluoft/page/n5/mode/2up"
+                    ><emph>The Elements of Gaelic Grammar, based on the work of Alexander
+                    Stewart</emph></ax>. London: David Nutt.</p>
+        <p>Klöcker, Olaf (2015). <emph>Concise Grammar: Scottish Gaelic</emph>. Olaf Klöcker.</p>
+        <p>Lamb, William (2001). <ax
+                href="https://www.academia.edu/2488427/Scottish_Gaelic_2nd_Edition_"><emph>Scottish
+                    Gaelic</emph></ax>. München: LINCOM Europa.</p>
+        <p>Lamb, William (2008). <ax
+                href="https://www.academia.edu/350957/Scottish_Gaelic_Speech_and_Writing_Register_Variation_in_an_Endangered_Language"
+                    ><emph>Scottish Gaelic Speech and Writing: Register Variation in an Endangered
+                    Language</emph></ax>. Belfast: Cló Ollscoil na Banríona. [including: Appendix 1:
+            A descriptive grammar of Scottish Gaelic].</p>
+        <p>Lamb, William (in preparation). <emph>Scottish Gaelic: A Comprehensive Grammar</emph>.
+            Routledge.</p>
+        <p>Mark, Colin (2004). <emph>The Gaelic-English Dictionary</emph>. London: Routledge.
+            [Grammatical Appendices: 623–736].</p>
+        <p>Mark, Colin (2013). <emph>Scottish Gaelic: An Essential Grammar</emph>. London:
+            Routledge.</p>
+        <p>Munro, James (1843). <ax href="https://deriv.nls.uk/dcn23/8266/82667129.23.pdf"><emph>A
+                    Practical Grammar of the Scottish Gaelic in Eight Parts</emph></ax>. Edinburgh:
+            Maclachlan, Stewart, &amp; Co. [<ax
+                href="https://archive.org/details/practicalgrammar00munr/page/n3/mode/2up">alt
+                URL</ax>]</p>
+        <p>Nicolson, Alexander (1936). <ax
+                href="https://books.google.co.uk/books/about/Modern_Gaelic.html?id=DS0PAAAAQAAJ&amp;redir_esc=y"
+                    ><emph>Modern Gaelic: A Basic Grammar</emph></ax>. Glasgow: Archibald
+            Sinclair.</p>
+        <p>Ó Maolalaigh, Roibeard with Iain MacAonghuis (1996). <emph>Scottish Gaelic in Three
+                Months</emph>. London: Hugo’s Language Books.</p>
+        <p>Ó Maolalaigh, Roibeard with Iain MacAonghuis (2022) [2008]. <emph>Scottish Gaelic in
+                Twelve Weeks, rev. edn.</emph> Edinburgh: Birlinn.</p>
+        <p>Parsons, Catrìona NicÌomhair (2016). <ax
+                href="https://ourarchive.otago.ac.nz/handle/10523/7732"><emph>Seallagain: Gaelic
+                    grammar at a glance</emph></ax>. Ōtepoti = Dunedin: Continuing Education,
+            University of Otago = Mātaraka Auroa, Te Whare Wānanga O Otāgo. [Audio recordings].</p>
+        <p>Reid, Duncan (1895). <ax href="https://deriv.nls.uk/dcn23/1064/5715/106457155.23.pdf"
+                    ><emph>A Course of Gaelic Grammar</emph></ax>. Glasgow: John Thomlinson. [<ax
+                href="https://archive.org/details/courseofgaelicgr00reid/mode/2up">alt URL</ax>]</p>
+        <p>Ross, Susan, Mark McConville, Wilson McLeod, William Lamb &amp; Richard Cox (2018).
+                <emph>Stiùireadh Gràmair LEACAG</emph>. DASG.
+            (https://dasg.ac.uk/grammar/grammar.pdf) </p>
+        <p>Shaw, William (1778) <ax href="https://archive.org/details/analysisofgalicl00shawiala"
+                    ><emph>An analysis of the Galic language</emph></ax>. Edinburgh: W. and T.
+            Ruddiman.</p>
+        <p>Stewart, Alexander (1892) [1801]. <ax
+                href="https://www.gutenberg.org/files/28766/28766-h/28766-h.htm"><emph>Elements of
+                    Gaelic Grammar</emph></ax>. Edinburgh: John Grant.</p>
+    </section>
+    <section id="dictio">
+        <h>Dictionaries &amp; thesauri</h>
+        <p>Armstrong, Robert A. (1825). <ax
+                href="https://archive.org/details/gaelicdictionary01arms"><emph>A Gaelic Dictionary,
+                    in Two Parts</emph></ax>. London: J. Duncan.</p>
+        <p>Buchanan, Dougal (1998). <emph>Gaelic-English / English-Gaelic Dictionary</emph>. New
+            Lanark: Lomond Books.</p>
+        <p>Buchanan, Dougal (2004). <emph>Gaelic-English / English-Gaelic Dictionary</emph>.
+            Glasgow: Geddes and Grosset.</p>
+        <p>Buidhean Eadar-Roinneil airson Foghlam Gàidhlig (1992). <emph>Faclan Ùra Gàidhlig
+                cleachdte ann an Leabhraichean-Sgoile Bun-sgoile agus Ard-sgoile</emph>.</p>
+        <p>Cox, Richard (1991). <emph>Brìgh nam Facal: Faclair Ùr don Bhun-sgoil Glasgow</emph>.
+            Glasgow: Roinn nan Cànan Ceilteach – Department of Celtic.</p>
+        <p>Dwelly, Edward (2001) [1902-1912]. <emph>Illustrated Gaelic-English Dictionary</emph>.
+            Edinburgh: Birlinn.</p>
+        <p>Highland Society of Scotland (1828). <ax
+                href="https://archive.org/details/dictionariumgael02high"><emph>A Dictionary of the
+                    Gaelic Language, 2 vols</emph></ax>. Edinburgh: William Blackwood.</p>
+        <p>MacAoidh, Garbhan (2007). <emph>Tasgaidh – A Gaelic Thesaurus</emph>. Tulach Mór, Èirinn:
+            Polyglot.</p>
+        <p>Macbain, Alexander (1982) [1896]. <ax href="http://www.ceantar.org/Dicts/MB2/index.html"
+                    ><emph>An Etymological Dictionary of the Gaelic Language, repr. of 2nd rev.
+                    edn.</emph></ax> Glasgow: Gairm. [<ax
+                href="https://archive.org/details/etymologicaldict00macbuoft">1911 2nd rev.
+            edn</ax>].</p>
+        <p>Maclennan, Malcolm (1979) [1925]. <ax
+                href="https://archive.org/details/pronouncingetymo0000macl_q8e3"><emph>A Pronouncing
+                    and Etymological Dictionary of the Gaelic Language</emph></ax>. Aberdeen:
+            Aberdeen University Press.</p>
+        <p>MacLeod, Donald John (1999). <emph>Faclan Ùra Gàidhlig: ùghdarraichte airson an
+                cleachdadh ann na sgoiltean</emph>. Steòrnabhagh: SRG.</p>
+        <p>MacLeod, Norman &amp; Daniel Dewar (1909) [1831]. <ax
+                href="https://archive.org/details/dictionaryofgael00macluoft"><emph>Dictionary of
+                    the Gaelic Language</emph></ax>. Edinburgh: John Grant.</p>
+        <p>MacLeòid, Dòmhnall Iain (2000) [2008]. <emph>Dòigh Eile air a Ràdh</emph>. Steòrnabhagh:
+            Stòrlann Nàiseanta na Gàidhlig.</p>
+        <p>Mark, Colin (2003). <emph>The Gaelic-English Dictionary</emph>. London: Routledge.</p>
+        <p>Owen, Robert C. (1993). <emph>The Modern Gaelic-English Dictionary, specially recommended
+                for learners, containing pronunciation, irregular verb tables, grammatical
+                information, examples of idiomatic usage</emph>. Glasgow: Gairm.</p>
+        <p>Robertson, Boyd &amp; Ian MacDonald (2004). <emph>Gaelic Dictionary</emph>. London: Teach
+            Yourself.</p>
+        <p>Robertson, Boyd &amp; Ian MacDonald (2010). <emph>Essential Gaelic Dictionary</emph>.
+            London: Teach Yourself.</p>
+        <p>Sabhal Mòr Ostaig (1993). <emph>An Stòr-dàta Briathrachais Gàidhlig – The Gaelic
+                Terminology Database</emph>. Slèite: Clò Ostaig.</p>
+        <p>Stòrlann (2011). <emph>Faclair na Sgoile</emph>. Steòrnabhagh: Stòrlann Nàìseanta na
+            Gàidhlig. [expanded and revised version of Brìgh nam Facal].</p>
+        <p>The European Language Initiative (2011). <ax
+                href="https://www3.smo.uhi.ac.uk/gaidhlig/faclair/sbg/co-fhaclair.php"
+                    ><emph>Co-fhaclair Gàidhlig / Thesaurus of the Gaelic Language</emph></ax>.</p>
+        <p>Thomson, Derick (1994). <emph>The New English-Gaelic Dictionary</emph>. Glasgow: Gairm.
+            [updated from 1981 version].</p>
+        <p>Watson, Angus (2001). <emph>The Essential Gaelic-English Dictionary: A Dictionary for
+                Students and Learners of Scottish Gaelic</emph>. Edinburgh: Birlinn.</p>
+        <p>Watson, Angus (2005). <emph>The Essential Gaelic-English Dictionary: A Dictionary for
+                Students and Learners of Scottish Gaelic</emph>. Edinburgh: Birlinn.</p>
+        <p>Watson, Angus (2011). <emph>The Essential Gaelic-English / English-Gaelic
+                Dictionary</emph>. Edinburgh: Birlinn. [compilation of previous two
+            dictionaries].</p>
+        <p>Watson, Angus (2015). <emph>The Pocket Gaelic-English, English-Gaelic Dictionary</emph>.
+            Edinburgh: Birlinn.</p>
+    </section>
+    <section id="special">
+        <h>specialist vocabulary</h>
+        <p>Barr, G. (1998). <emph>Aids san àm ri teachd.</emph> Gairm 185, 38.</p>
+        <p>Bateman, R. R. &amp; F. Màrtainn (1990). <emph>Ceumannan an cruinn-eòlas: Leabhar a
+                h-Aon</emph>.</p>
+        <p>Bateman, R. R. &amp; F. Màrtainn (1991). <emph>Ceumannan an cruinn-eòlas: Leabhar a
+                Dhà</emph>. Stanley Thornes (Publishers) Ltd.</p>
+        <p>Cameron, John (1883), <ax href="https://archive.org/details/gaelicnamesplan00camegoog"
+                    ><emph>Gaelic Names of Plants (Scottish and Irish)</emph></ax>. Edinburgh:
+            William Blackwood.</p>
+        <p>Cannon, Roderick D. (2006). <emph>Gaelic names of Pibrochs: a classification</emph>.
+            Scottish Gaelic Studies 34, 20–59.</p>
+        <p>Clark, Joan W. &amp; Ian MacDonald (1999). <emph>Ainmean Gàidhlig Lusan</emph>. North
+            Ballachulish: J. W. Clark.</p>
+        <p>Clyne, Douglas (1989). <emph>Gaelic names for flowers and plants</emph>. Furnace, Argyll:
+            Cruisgean.</p>
+        <p>Forbes, Alexander Robert (1905). <ax href="https://archive.org/details/cu31924024780219"
+                    ><emph>Gaelic Names of Beasts (Mammalia), Birds, Fishes, Insects, Reptiles,
+                    etc.</emph></ax> Edinburgh: Oliver and Boyd.</p>
+        <p>Foster, J., J. NicDhòmhnaill &amp; J. MacDonald (2006). <emph>Discovery World Ìre F:
+                Beagfhaclair Saidheans</emph>. Steòrnabhagh: Stòrlann Nàiseanta na Gàidhlig. </p>
+        <p>Garvie, Ellen I. (1999). <emph>Plants, fungi and animals: Gaelic names with English &amp;
+                scientific equivalents mainly compiled from published literature</emph>. Slèite: Clò
+            Ostaig. </p>
+        <p>Gordan, Niall (1997). <emph>Meudairean: meadhan pian nàbaidhean</emph>. Gairm 178,
+            161–163.</p>
+        <p>MacAoidh, Garbhan (1996). <emph>Reul-eòlas airson luchd-tòiseachaidh 2</emph>. Gairm 175,
+            217.</p>
+        <p>MNE Media (2008). <ax
+                href="http://www2.smo.uhi.ac.uk/gaidhlig/faclair/cuspair/luth-chleas"
+                    ><emph>Gnàthasan-cainnt is eile son prògraman spòrs</emph></ax></p>
+        <p>Ó Maolalaigh, Roibeard (2001). <emph>Forás na ndeirí díspeagtha -ean agus -ein i nGaeilge
+                na hAlban</emph>. In: Brian Ó Catháin &amp; Ruairí Ó hUiginn (eds) <emph>Béalra:
+                Aistí ar Theangeolaíocht na Gaeilge</emph>. Maigh Nuad: An Sagart, 2–43. </p>
+        <p>Ó Maolalaigh, Roibeard (2007). <emph>Péisteoigín itheas éadach: the significance of
+                leaghmhan "moth"</emph>. In: Sharon Arbuthnot &amp; Kaarina Hollo (eds) <emph>Fil
+                Súil Nglais = A Grey Eye Looks Back: A Festschrift in Honour of Colm Ó
+            Baoill</emph>. Ceann Drochaid: Clann Tuirc, 213–240. </p>
+        <p>Ó Maolalaigh, Roibeard (2010). <emph>Caochlaideachd Leicseachail agus ‘snowflakes’ sa
+                Ghàidhlig</emph>. In: Gillian Munro &amp; Richard Cox (eds) <emph>Cànan &amp;
+                Cultur: Rannsachadh na Gàidhlig 4</emph>. Edinburgh: Dunedin Academic Press,
+            7–21.</p>
+        <p>Ó Maolalaigh, Roibeard (2020). <emph>Lexical and phonological variation in words for
+                ‘ankle’ in Gaelic</emph>. In: Ailbhe Ó Corráin, Fionntán de Brún &amp; Maxim Fomin
+            (eds) <emph>Scotha cennderca cen on: A Festschrift for Séamus Mac Mathúna</emph>.
+            Series: Studia Celtica Upsaliensia, 10. Uppsala: Acta Universitatis Upsaliensis,
+            247-288.</p>
+        <p>Ó Maolalaigh, Roibeard (2022). <emph>The Gaelic element in the lexicon of Galloway
+                Scots</emph>. In: Ronald Black, Michael Ansell &amp; Edward J. Cowan (eds)
+                <emph>Galloway: The Lost Province of Gaelic Scotland</emph>. Peebles: John Dewar,
+            76–124.</p>
+        <p>Seòras Chaluim Sheòrais (2005). <emph>Muir is Tìr</emph>. Steòrnabhagh: Acair. [fishing
+            boats terminology].</p>
+        <p>Stòrlann (2006). <emph>Faclair Matamataig</emph>. Steòrnabhagh: Stòrlann Nàiseanta na
+            Gàidhlig.</p>
+        <p>Stòrlann (2011). <emph>Briathrachas Eadar-lìn: Internet terminology</emph>. Steòrnabhagh:
+            Stòrlann Nàiseanta na Gàidhlig.</p>
+        <p>The European Language Initiative (2001). <ax
+                href="https://archive.org/details/faclairnaparlama0000unse/mode/2up"><emph>Faclair
+                    na Pàrlamaid</emph></ax>. Edinburgh: Scottish Parliament.</p>
+        <p>The European Language Initiative (2011). <emph>Faclair airson Riaghaltas Ionadail /
+                Dictionary for Local Government</emph>.</p>
+        <p>The European Language Initiative (2012). <emph>Faclair Rianachd Phoblaich</emph>.
+            Edinburgh: The Scottish Parliament.</p>
+    </section>
+    <section id="online-dict">
+        <h>online dictionaries</h>
+        <p><ax href="https://www.faclair.com"><emph>Am Faclair Beag</emph></ax></p>
+        <p><ax href="https://www.dwelly.info"><emph>Dwelly-d: Faclair Dwelly air
+            Loidhne</emph></ax></p>
+        <p><ax href="http://www.faclair.ac.uk">Faclair na Gàidhlig – Dictionary of the Scottish
+                Gaelic Language</ax></p>
+        <p><ax href="https://learngaelic.net/dictionary">LearnGaelic: Dictionary</ax></p>
+        <p>Wentworth, Roy (2000). <ax
+                href="https://www3.smo.uhi.ac.uk/gaidhlig/wentworth/faclair/bun-tomhasach"
+                >English-Gaelic dictionary</ax></p>
+    </section>
+    <section id="datab">
+        <h>lexical databases</h>
+        <p><ax href="https://dasg.ac.uk/briathradan">Am Briathradan</ax></p>
+        <p><ax href="https://www.anseotal.org.uk/en">An Seotal: Stòr-dàta briathrachais
+                Gàidhlig</ax></p>
+        <p><ax href="https://www3.smo.uhi.ac.uk/gaidhlig/faclair/sbg/lorg.php">An Stòr-dàta
+                Briathrachais</ax></p>
+        <p><ax href="https://www3.smo.uhi.ac.uk/gaidhlig/faclair/cuspair">Facail Ghàidhlig airson
+                Chuspairean Àraid</ax></p>
+        <p><ax href="https://dasg.ac.uk/fieldwork">Faclan bhon t-Sluagh / Fieldwork Archive</ax>
+            (DASG)</p>
+        <p><ax href="https://learngaelic.net/thesaurus">LearnGaelic: Thesaurus</ax></p>
+    </section>
+    <section id="corpora">
+        <h>corpora</h>
+        <p><ax href="https://dasg.ac.uk/corpus">Corpas na Gàidhlig</ax></p>
+    </section>
+    <section id="placenames">
+        <h>placename databases</h>
+        <p><ax href="https://www.ainmean-aite.scot">Ainmean Àite na h-Alba – Gaelic Place-Names of
+                Scotland</ax></p>
+        <p><ax href="https://saintsplaces.gla.ac.uk/contact.php">Saints in Scottish
+            Place-Names</ax></p>
+    </section>
+    <section id="audio">
+        <h>collections of audio recordings</h>
+        <p><ax href="https://dasg.ac.uk/audio/about/crc/gd">Cluas ri Claisneachd</ax> (DASG)</p>
+        <p><ax href="https://www.tobarandualchais.co.uk">Tobar an Dualchas – Kist o Riches</ax></p>
+    </section>
+    <section id="learner">
+        <h>learner materials</h>
+        <p>Black, Ronald (2006). <emph>Cothrom ionnsachaidh: Scottish Gaelic grammar and
+                exercises</emph>. Peebles: Ronald Black.</p>
+        <p>Chapman, Jenna (2017). <emph>Scottish Gaelic Verbs: 500 Scottish Gaelic Verbs Fully
+                Conjugated</emph>. [Kindle Edition]</p>
+        <p>Desseyn-Cooper, Ann (2020). <emph>Leuman Gràmair: Pàirt 1</emph>. Lulu Press.</p>
+        <p>Desseyn-Cooper, Ann (2020). <emph>Scottish Gaelic: 50 Grammar Exercises 2</emph>. Lulu
+            Press.</p>
+        <p>Desseyn-Cooper, Ann (2021). <emph>Leuman Gràmair: Pàirt 2</emph>. Lulu Press.</p>
+        <p>Desseyn-Cooper, Ann (2021). <emph>Cùrsa Ro-ìre: Gràmar na Gàidhlig: Preliminary
+                Level</emph>. Lulu Press.</p>
+        <p>Desseyn-Cooper, Ann (2021). <emph>Scottish Gaelic: 50 Grammar Exercises 1</emph>. Lulu
+            Press.</p>
+        <p>Desseyn-Cooper, Ann (2021). <emph>Introduction to Scottish Gaelic: Regular &amp;
+                Irregular Verb Use and Dialogue Drills: Intermediate Level</emph>. Lulu Press.</p>
+        <p>Eurotalk (2003). <emph>Scots Gaelic Vocabulary Builder</emph>. London: Eurotalk. [CD ROM] </p>
+        <p>Graham, Katie &amp; Katherine M. Spadaro (2001). <emph>Colloquial Scottish Gaelic: The
+                Complete Course for Beginners</emph>. London – New York: Routledge.</p>
+        <p>Klevenhaus, Michael (2009). <emph>Lehrbuch der schottisch-gälischen Sprache</emph>.
+            Hamburg: Buske.</p>
+        <p>Klevenhaus, Michael (2014). <emph>Grammatikübungsbuch Schottish-Gälisch</emph>. Hamburg:
+            Buske.</p>
+        <p>MacIlleathain, Ruairidh (2006). <emph>Ceum air Cheum: Leabhran Taice do Luchd-stiùiridh
+                Chlasaichean Còmhraidh Gàidhlig</emph>. Steòrnabhagh: Stòrlann Nàiseanta na
+            Gàidhlig.</p>
+        <p>Mackinnon, Roderick (1971). <ax
+                href="https://archive.org/details/gaelic0326mack_KN731/mode/2up"><emph>Gaelic: A
+                    complete course for beginners</emph></ax>. London: Hodder and Stoughton – New
+            York: McKay.</p>
+        <p>MacLaren, James &amp; James White MacLean (1923). <ax
+                href="https://archive.org/details/maclarensgaelics00macl/mode/2up"><emph>MacLaren’s
+                    Gaelic self-taught</emph></ax>. Glasgow: MacLaren &amp; Sons.</p>
+        <p>MacLean, James White (1800). <ax
+                href="https://archive.org/details/introductiontoga00macl/mode/2up"
+                    ><emph>Introduction to Gaelic for beginners</emph></ax>. Edinburgh.</p>
+        <p>McLennan, George (2005). <emph>Scots Gaelic: An Introduction to the Basics</emph>.
+            Glendaruel: Argyll. </p>
+        <p>MacNeil, Morag (2006). <emph>Everyday Gaelic</emph>. Edinburgh: Birlinn. </p>
+        <p>Mark, Colin (1986). <emph>Gaelic verbs: systemised and simplified</emph>. Glaschu: Roinn
+            nan Cànan Ceilteach, Oilthigh Glaschu. </p>
+        <p>McArthur, Flora (1995). <emph>A Taste of Gaelic</emph>. Edinburgh: Edinburgh’s Telford
+            College. </p>
+        <p>McLennan, George (1986). <emph>Scots Gaelic: A Brief Introduction</emph>. Glasgow: Gairm. </p>
+        <p>Ó Baoill, Colm (1991). <emph>Gaelic is Fun: A New Course in Gaelic for the
+                Beginner</emph>. Stornoway: Acair.</p>
+        <p>Ó Maolalaigh, Roibeard with Iain MacAonghuis (1996). <emph>Scottish Gaelic in Three
+                Months</emph>. London: Hugo’s Language Books.</p>
+        <p>Ó Maolalaigh, Roibeard with Iain MacAonghuis (2008). <emph>Scottish Gaelic in Twelve
+                Weeks</emph>. Edinburgh: Birlinn.</p>
+        <p>Owen, Robert C. (1979). <emph>Instant Gaelic: Gaelic and English in parallel texts, with
+                a complete course of drills for grammar practice</emph>. Aberfeldy: Clò
+            Chailleann.</p>
+        <p>Reid, Duncan (1895). <ax href="https://deriv.nls.uk/dcn23/1064/5715/106457155.23.pdf"
+                    ><emph>A Course of Gaelic Grammar</emph></ax>. Glasgow: John Thomlinson. [<ax
+                href="https://archive.org/details/courseofgaelicgr00reid/mode/2up">1908
+            edition</ax>].</p>
+        <p>Robertson, Boyd &amp; Gordon Wells (2008). <emph>Gaelic Conversation</emph>. London:
+            Hodder Education. [CDs].</p>
+        <p>Robertson, Boyd &amp; Iain Taylor (2010). <emph>Complete Gaelic. Teach Yourself</emph>. </p>
+        <p><emph>Speaking Our Language</emph>. [textbooks, CD ROM]</p>
+        <p>Watson, Moray (2011). <emph>Progressive Gaelic 1: A complete academic course in Gaelic
+                for beginners</emph>. Follais Books.</p>
+        <p>Watson, Moray (2012). <emph>Progressive Gaelic 2: A complete academic course in Gaelic
+                for beginners</emph>. Aberdeen: CreateSpace Independent Publishing Platform.</p>
+        <p>Watson, Moray (2017). <emph>Progressive Gaelic 3: A complete academic course in Gaelic
+                for beginners</emph>. Aberdeen: CreateSpace Independent Publishing Platform.</p>
+        <p>Watson, Moray (2018). <emph>Progressive Gaelic 4: An Academic Course in Gaelic</emph>.
+            Aberdeen: CreateSpace Independent Publishing Platform.</p>
+    </section>
+    <section id="online_learning">
+        <h>online learning resources</h>
+        <p>BBC Bitesize: <ax href="https://www.bbc.co.uk/bitesize/subjects/zqnygk7">Gaelic
+                (Learners)</ax>.</p>
+        <p><ax href="https://www.bbc.co.uk/alba/foghlam/beag_air_bheag">Beag air Bheag</ax>.</p>
+        <p><ax href="https://www.gaelic4parents.com">Gaelic4parents</ax>.</p>
+        <p><ax href="https://www.akerbeltz.org/index.php?title=Pr%C3%AComh_dhuilleag">Goireasan
+                Akerbeltz</ax>.</p>
+        <p><ax href="https://learngaelic.net">LearnGaelic</ax>.</p>
+        <p><ax href="https://app.memrise.com/courses/english/scottish-gaelic">Memrise: Scottish
+                Gaelic courses</ax>.</p>
+        <p><ax href="https://speakgaelic.scot">Speak Gaelic</ax>.</p>
+        <p><ax href="https://www.taic.me.uk">Taic: Goireas do Luchd-ionnsachaidh na
+            Gàidhlig</ax>.</p>
+    </section>
+    <section id="tv">
+        <h>TV programmes for learners</h>
+        <p>Can Seo (1979). [BBC, available on <ax
+                href="https://www.youtube.com/watch?v=EBVb1zbe32k&amp;list=PL04B67DB0ABD8AAD2"
+                >Youtube</ax>].</p>
+        <p>Speaking our Language [BBC, available on <ax
+                href="https://www.youtube.com/watch?v=AxeyZABaHeI">Youtube</ax>].</p>
+    </section>
+    <section id="pods">
+        <h>podcasts</h>
+        <p><ax href="https://www.bbc.co.uk/programmes/b05mzzhr/episodes/downloads">Beag air
+                Bheag</ax>: Prògram do luchd-ionnsachaidh na Gàidhlig le Iain Urchardan</p>
+        <p><ax href="https://www.abdn.ac.uk/sll/disciplines/gaelic/gaidhlig-na-cagailte-1528.php"
+                >Gàidhlig na Cagailte</ax> (University of Aberdeen)</p>
+    </section>
+    <section id="ortho">
+        <h>orthography</h>
+        <p><ax href="https://www.sqa.org.uk/files_ccc/SQA-Gaelic_Orthographic_Conventions-En-e.pdf"
+                    ><emph>Gaelic Orthographic Conventions</emph></ax>, SQA, Glasgow, 2009.</p>
+        <p><emph>LEACAN – online Gaelic grammar guidance</emph>. (https://dasg.ac.uk/gnag)</p>
+        <p>Black, Ronald (2010). <emph>Gaelic orthography: The Drunk Man’s Broad Road</emph>. In:
+            Moray Watson &amp; Michelle Macleod (eds) <emph>The Edinburgh Companion to the Gaelic
+                Language</emph>. Edinburgh: Edinburgh University Press, 229–261.</p>
+        <p>Cox, Richard (2010). <emph>Review of Gaelic orthographic conventions</emph>. [2009].
+            Scottish Gaelic Studies 26, 162–173.</p>
+    </section>
+    <section id="it">
+        <h>information technology</h>
+        <p><ax href="https://www3.smo.uhi.ac.uk/gaidhlig/wentworth/litreachadh/english.html"
+                    ><emph>Spell-checker for Scottish Gaelic</emph></ax> (TELI), 2006.</p>
+        <p><emph>Captions Language Interface Pack</emph> (TELI), 2011.</p>
+    </section>
+    <section id="academic">
+        <h>academic publications</h>
+        <p>Adger, David (1996). ‘<ax
+                href="https://www.cambridge.org/core/books/syntax-of-the-celtic-languages/94287870C78B1784DFADE247B58825B1"
+                >Aspect, agreement and measure phrases in Scottish Gaelic</ax>’. In: Robert D.
+            Borsley &amp; Ian Roberts (eds). <emph>The Syntax of the Celtic Languages</emph>.
+            Cambridge: Cambridge University Press, 200–222.</p>
+        <p>Adger, David (1999). ‘Predication and comparison in Scottish Gaelic’. Paper presented at
+            the Third Celtic Linguistics Conference, Dublin.</p>
+        <p>Adger, David (2001). <emph>A Predicational Head in Scottish Gaelic</emph>. University of
+            York. [MS] </p>
+        <p>Adger, David (2005). <emph>Fracturing the Adjective: Evidence from the Gaelic
+                Comparative</emph>. Queen Mary’s OPAL #4. Occasional Papers Advancing
+            Linguistics.</p>
+        <p>Adger, David (2007). ‘Stress and phasal syntax’. <emph>Linguistic Analysis</emph> 33/3–4,
+            238–266.</p>
+        <p>Adger, David (2007). ‘Pronouns postpose at PF’. <emph>Linguistic Inquiry</emph> 38/2,
+            343–349.</p>
+        <p>Adger, David (2010). ‘<ax href="https://www.jstor.org/stable/10.3366/j.ctt1g0b6g6">Gaelic
+                morphology</ax>’. In: Michelle Macleod &amp; Moray Watson (eds). <emph>The Edinburgh
+                Companion to the Gaelic Language</emph>. Edinburgh: Edinburgh University Press,
+            283–303.</p>
+        <p>Adger, David (2010). ‘<ax href="https://www.jstor.org/stable/10.3366/j.ctt1g0b6g6">Gaelic
+                syntax</ax>’. In: Michelle Macleod &amp; Moray Watson (eds). <emph>The Edinburgh
+                Companion to the Gaelic Language</emph>. Edinburgh: Edinburgh University Press,
+            304–351.</p>
+        <p>Adger, David (2011). ‘<ax
+                href="https://www.cambridgescholars.com/resources/pdfs/978-1-4438-2903-8-sample.pdf"
+                >Clefted situations: a note on expletives in Scottish Gaelic clefts</ax>’. In:
+            Andrew Carnie (ed.). <emph>Formal approaches to Celtic Linguistics</emph>. Newcastle
+            upon Tyne: Cambridge Scholars Publishing, 3–15.</p>
+        <p>Adger, David (2017). ‘Structure, use, and syntactic ecology in language obsolescence’.
+                <emph>Canadian journal of linguistics – Revue canadienne de linguistique</emph>
+            62/4, 1–25.</p>
+        <p>Adger, David (2022). <ax
+                href="https://www.qmul.ac.uk/sllf/media/sllf-new/department-of-linguistics/hagit-borer-celebration/Adger.pdf"
+                    ><emph>The parallel formation of verbal nouns in Scottish Gaelic</emph></ax>.
+            Queen Mary University of London.</p>
+        <p>Adger, David &amp; Gillian Ramchand (2003) Predication and equation. Linguistic Inquiry
+            34/3, 325–359. (https://www.jstor.org/stable/4179238)</p>
+        <p>Adger, David &amp; Gillian Ramchand (2005) Merge and move: Wh-dependencies revisited.
+            Linguistic Inquiry 36/2, 161–193. (https://www.jstor.org/stable/4179317)</p>
+        <p>Adger, David &amp; Gillian Ramchand (2006) Dialect variation in Gaelic relative clauses.
+            In: James E. Fraser, Anja Gunderloch &amp; Wilson McLeod (eds) Rannsachadh na Gàidhlig
+            3. Edinburgh: Dunedin Academic Press, 179–192.</p>
+        <p>Archangeli, Diana, Andrew Carnie, Andréa Davis, Muriel Fisher, Michael Hammond &amp;
+            Natasha Warner (2014). ‘Vowel insertion in Scottish Gaelic’. <emph>Phonology</emph> 31,
+            123–153.</p>
+        <p>Archangeli, Diana, Andrew Carnie, Yan Chen, Muriel Fisher, Michael Hammond &amp; Adam
+            Ussishkin (2017) ‘<ax
+                href="https://www.linguisticsociety.org/sites/default/files/08_93.2Hammond.pdf"
+                >Phonological restrictions on lenition in Scottish Gaelic</ax>’.
+                <emph>Language</emph> 93/2, 446–472.</p>
+        <p>Bartlett, Tom (2021). <ax
+                href="https://www.cambridge.org/core/books/interpersonal-grammar/interpersonal-grammar-in-scottish-gaelic/2AF71FB97DD5D7A11DAA0CB716F07D1F"
+                    >‘Interpersonal Grammar in Scottish Gaelic’</ax>. In: J. R. Martin,
+            Beatriz Quiroz, Giacomo Figueredo (eds). <emph>Interpersonal Grammar: Systemic Functional
+            Linguistic Theory and Description</emph>. Cambridge: Cambridge University Press, 257–284.</p>
+        <p>Bartlett, Tom (2023). ‘Atopicality as the unmarked logical structure in Scottish
+                Gaelic’. In: Caroline Gentens, Lobke Ghesquière, William B. McGregor &amp; An
+            van Linden (eds) <emph>Reconnecting Form and Meaning: In honour of Kristin Davidse</emph>. Series:
+            Studies in language companion series, 230. Amsterdam: John Benjamins Publishing Company,
+            71–95.</p>
+        <p>Batchelor, Colin (2019). ‘<ax href="https://aclanthology.org/W19-6902.pdf">Universal
+                    dependencies for Scottish Gaelic: syntax</ax>’. In: Teresa Lynn, Delyth
+            Prys, Colin Batchelor &amp; Francis Tyers (eds) <emph>Proceedings of the Celtic Language
+            Technology Workshop</emph>. Dublin: European Association for Machine Translation, 7–15.</p>
+        <p>Bateman, Meg (2010) ‘Gàidhlig ùr’. In: Iain Mac an Tàilleir &amp; Gillian Munro (eds)
+            Coimhearsnachd na Gàidhlig an-diugh – Gaelic communities today. Edinburgh: Dunedin
+            Academic Press, 87-98. </p>
+        <p>Bell, Susan (2013) An seilbheach Gàidhlig: rannsachadh le corpas. In: Nancy McGuire &amp;
+            Colm Ó Baoill (eds) Rannsachadh na Gàidhlig 6. Obar Dheathain: An Clò Gàidhealach,
+            253–273. </p>
+        <p>Boizou, Loïc &amp; William Lamb (2020) An online linguistic analyser for Scottish Gaelic.
+            In: Danguolė Kalinauskaitė, Jolanta Kovalevskaitė, Andrius Utka &amp; Jurgita
+            Vaičenonienė (eds) Human Language Technologies – the Baltic Perspective: Proceedings of
+            the 9th International Conference Baltic HLT 2020. Series: Frontiers in artificial
+            intelligence and applications, 328. Amsterdam: IOS Press, 119–122. </p>
+        <p>Borgstrøm, Carl Hj. (1968) Notes on Gaelic grammar. In: James Carney &amp; David Greene
+            (eds) Celtic studies. Essays in memory of Angus Matheson, 1912–1962. London: Routledge,
+            12–21. </p>
+        <p>Bosch, Anna R. K. &amp; James M. Scobbie (2009) Fine-grained morpho-phonological
+            variation in Scottish Gaelic: Evidence from the Linguistic Survey of Scotland. In: James
+            N. Stanford &amp; Dennis R. Preston (eds) Variation in indigenous minority languages.
+            Series: IMPACT: Studies in Language and Society, 25. Amsterdam: John Benjamins, 347–368.
+            (https://benjamins.com/catalog/impact.25.18bos)
+            (https://core.ac.uk/download/pdf/141195149.pdf – draft) </p>
+        <p>Boyle, Daniel (1973) Ach and agus as coordinate and subordinate conjunctions in Gaelic.
+            In: Claudia Corum, T. Cedric Smith-Stark &amp; Anne Weiser (eds) You take the high node
+            and I’ll take the low node: papers from the Comparative Syntax Festival. Chicago:
+            Chicago Linguistic Society, 220–228. </p>
+        <p>Brenner, Dan, Andrew Carnie, Ian Clayton, Muriel Fisher, Michael Hammond, Adam Ussishkin
+            &amp; Natasha Warner (2017) Lexical representation and processing of word-initial
+            morphological alternations: Scottish Gaelic mutation. Laboratory phonology 8/1, 1–34. </p>
+        <p>Caimbeul, Aonghas Pàdraig (2012) untitled column. West Highland Free Press 14 December
+            2012, 16. </p>
+        <p>Carty, Nicola (2018) New speakers, potential new speakers, and their experiences and
+            abilities in Scottish Gaelic. In: Michael Hornsby, Máiréad Moriarty, Noel P. Ó Murchadha
+            &amp; Cassie Smith-Christmas (eds) New speakers of minority languages. Houndmills,
+            Basingstoke, Hampshire: Palgrave Macmillan, 253–270. </p>
+        <p>Clement, David (1984) Gaelic. In: Peter Trudgill (ed.) Language in the British Isles,
+            318–342.</p>
+        <p>Clements, George N. (1986) Syllabification and epenthesis in the Barra dialect of Gaelic.
+            In: Koen Bogers, Harry van der Hulst &amp; Maarten Mous (eds) The phonological
+            representation of suprasegments. Dordrecht: Foris, 317–336.</p>
+        <p>Clugston, John &amp; Peadar Ó Muircheartaigh (2017) A note on pronoun marking and
+            register in Scottish Gaelic. Australian Celtic journal 14, 7–18.</p>
+        <p>Cole, Beth (2013). <ax
+                href="https://www.abdn.ac.uk/sll/documents/Cole-Grammatical-Change-in-a-Not-So-Dying-Dialect.pdf"
+                    ><emph>Grammatical change in a not so dying dialect: genitive mutation in Uist
+                    Gaelic</emph></ax>. In: Janet Cruickshank &amp; Robert McColl Millar (eds) After
+            the Storm: papers from the Forum for Research on the Languages of Scotland and Ulster
+            triennial meeting, Aberdeen 2012. Aberdeen: Forum for Research on the Languages of
+            Scotland and Ulster, 11–139.</p>
+        <p>Cole, Beth (2015). <ax
+                href="https://abdn.alma.exlibrisgroup.com/discovery/delivery/44ABE_INST:44ABE_VU1/12152999110005941"
+                    ><emph>Morphosyntactic Variation in Uist Gaelic: A Case of Language
+                    Shift?</emph></ax>. PhD thesis, University of Aberdeen.</p>
+        <p>Cox, Richard (1996) Time and aspect in the Scottish Gaelic verbal system: a working paper
+            on definitions and presentation. Scottish Gaelic Studies 17, 82–86.</p>
+        <p>Cox, Richard (2010) Review of Gaelic orthographic conventions [2009]. Scottish Gaelic
+            Studies 26: 162–173.</p>
+        <p>Cox, Richard (2011) Eachdraidh is tùs a’ mhìr àireamhail ann an Gàidhlig (na h-Albann).
+            Scottish Gaelic Studies 28, 254–306.</p>
+        <p>Cox, Richard (2013) The history of the numerical particle in (Scottish) Gaelic. In:
+            Cathinka Hambro &amp; Lars Ivar Widerøe (eds) Lochlann: festskrift til Jan Erik Rekdal
+            på 60-årsdagen – aistí in ómós do Jan Erik Rekdal ar a 60ú lá breithe. Oslo: Hermes,
+            247–281.</p>
+        <p>Cram, David (1975) Grammatical and phonological conditioning of initial mutations in
+            Scottish Gaelic. Leuvense Bijdragen: Leuven contributions in linguistics and philology
+            64, 363–375. </p>
+        <p>Cram, David (1983–1984) Scottish Gaelic ann as an aspect particle. Studia Celtica 18–19,
+            311–326.</p>
+        <p>Cram, David (1984) Is Scottish Gaelic a VSO language?. Scottish language 3, 33–48.</p>
+        <p>Cram, David (1986) Patterns of English-Gaelic and Gaelic-English code-switching. Scottish
+            language 5, 126–130.</p>
+        <p>Csonka, Veronika (2019). <ax href="https://www.jstor.org/stable/26654002"><emph>The
+                    conceptualising function of Scottish Gaelic preposed adjectives</emph></ax>. In:
+            Acta linguistica academica: an international journal of linguistics 66, 31–68.</p>
+        <p>Dilworth, Anthony (1995–1996) A comparison of a central western dialect with a peripheral
+            one: western mainland Inverness-shire and Perthshire. Scottish language 14–15, 42–51. </p>
+        <p>Dorian, Nancy C. (1973) Grammatical change in a dying dialect. Language 49, 413–438.
+            (https://www.jstor.org/stable/412461) </p>
+        <p>Dorian, Nancy C. (1976) A hierarchy of morphophonemic decay in Scottish Gaelic language
+            death: the differential failure of lenition. Word 28/1-2, 96–109.
+            (https://www.tandfonline.com/doi/epdf/10.1080/00437956.1977.11435851?needAccess=true&amp;role=button) </p>
+        <p>Dorian, Nancy C. (1976) Gender in a terminal Gaelic dialect. Scottish Gaelic Studies
+            12/2, 279–282. </p>
+        <p>Dorian, Nancy C. (1977) The problem of the semi-speaker in language death. Linguistics
+            15/191, 23–32. </p>
+        <p>Dorian, Nancy C. (1978) The preservation of the vocative in a dying Gaelic dialect.
+            Scottish Gaelic Studies 13/1, 98–102. </p>
+        <p>Dorian, Nancy C. (1978) The fate of morphological complexity in language death: evidence
+            from East Sutherland Gaelic. Language 54, 590–609. (https://www.jstor.org/stable/412788) </p>
+        <p>Dorian, Nancy C. (1980) Maintenance and loss of same-meaning structures in language
+            death. Word 31/1, 39–45.
+            (https://www.tandfonline.com/doi/pdf/10.1080/00437956.1980.11435680) </p>
+        <p>Dorian, Nancy C. (1996) Personal-pattern variation in East Sutherland Gaelic. Scottish
+            Gaelic Studies 17, 103–113. </p>
+        <p>Gillies, William (1980) English influences on contemporary Scottish Gaelic. Scottish
+            Literary Studies Journal, Supplement 12, 1–12. </p>
+        <p>Gillies, William (1990) An impersonal usage in Scottish Gaelic. In: A. T. E. Matonis
+            &amp; Daniel F. Melia (eds) Celtic languages, Celtic culture. Van Nuys, CA: Ford and
+            Bailie, 207–217. </p>
+        <p>Gillies, William (2010) [1993] Scottish Gaelic. In: Martin J. Ball &amp; Nicole Müller
+            (eds) The Celtic languages, 2nd edn. London – New York: Routledge, 230–304. </p>
+        <p>Gleasure, James (1990) The evolution of the present/future tense in Scottish Gaelic.
+            Scottish Gaelic Studies 16, 181–189. </p>
+        <p>Gorrie, Colin (2011) Adjective agreement in Gaelic: a case for morphophonological
+            features. Formal approaches to Celtic linguistics. In: Andrew Carnie (ed.) Formal
+            approaches to Celtic linguistics. Newcastle upon Tyne: Cambridge Scholars Publishing,
+            321–335. </p>
+        <p>Greene, David (1979–1980) Perfect and passive in Eastern and Western Gaelic. Studia
+            Celtica 14–15, 87–94.
+            (https://www.proquest.com/docview/1297888016?pq-origsite=gscholar&amp;fromopenview=true&amp;imgSeq=1) </p>
+        <p>Howells, Donald (1971) The nominative plural of the noun in the Gaelic of the isle of
+            Lewis. Studia Celtica 6, 90–97. </p>
+        <p>Howells, Donald (1970) The Scottish Gaelic 2 sg. personal pronoun. Studia Celtica 5,
+            86–88. </p>
+        <p>Iosad, Pavel (2015) “Pitch accent” and prosodic structure in Scottish Gaelic: reassessing
+            the role of contact. In: Janet Duke, Martin Hilpert, Christine Mertzlufft, Jan-Ola
+            Östman &amp; Michael Rießler (eds) New trends in Nordic and general linguistics. Berlin
+            – Munich – Boston: De Gruyter, 28–54. (https://www.anghyflawn.net/pdf/icngl.paper.pdf) </p>
+        <p>Iosad, Pavel &amp; William Lamb (2020) Dialect variation in Scottish Gaelic nominal
+            morphology: A quantitative study. Glossa: a journal of general linguistics 5(1): 130,
+            1–31.
+            (https://www.researchgate.net/publication/348068995_Dialect_variation_in_Scottish_Gaelic_nominal_morphology_A_quantitative_study) </p>
+        <p>Lamb, William (1999) “Agus: Dè th’ ann? Thoughts on Subordination and Coordination in
+            Scottish Gaelic”. Presented at the 3rd Conference of Goidelic Linguistics, Edinburgh,
+            April 1999.
+            (https://www.academia.edu/attachments/1775405/download_file?st=MTY4ODUwMDUwMCw5NC4xNC4xOTEuMTQ2LDI3MjIzMTM%3D&amp;s=profile) </p>
+        <p>Lamb, William (2006) The noun phrase in Gaelic speech and writing. In: James E. Fraser,
+            Anja Gunderloch &amp; Wilson McLeod (eds) Rannsachadh na Gàidhlig 3. Edinburgh: Dunedin
+            Academic Press, 153–178. </p>
+        <p>Lamb, William (2008) Scottish Gaelic Speech and Writing: Register Variation in an
+            Endangered Language. Belfast: Cló Ollscoil na Banríona. [including: Appendix 1: A
+            descriptive grammar of Scottish Gaelic]
+            (https://www.academia.edu/350957/Scottish_Gaelic_Speech_and_Writing_Register_Variation_in_an_Endangered_Language) </p>
+        <p>Lamb, William (2015) Verbal Formulas in Gaelic Traditional Narrative: Some Aspects of
+            Their Form and Function. In: Asif Agha &amp; Frog (eds) Registers of Communication.
+            Helsinki: Finish Literature Society, 225¬–246.
+            (https://www.academia.edu/19355536/Verbal_Formulas_in_Gaelic_Traditional_Narrative) </p>
+        <p>Lamont, Donald (1960) Sgrìobhadh na Gàidhlig. In: Thomas M. Murchison (ed.) Prose Writing
+            of Donald Lamont 1874–1958. Edinburgh: Oliver &amp; Boyd for the Scottish Gaelic Text
+            Society, 164–170. </p>
+        <p>Landgraf, Julia (2011) Tense in the Scottish Gaelic verbal system. In: Renate Musan &amp;
+            Monika Rathert (eds) Tense across languages. Berlin – Boston: De Gruyter, 109–125.
+            (https://www.degruyter.com/document/doi/10.1515/9783110267020.109/html) </p>
+        <p>Lewin, Christopher (2016) Syntactic innovation in Manx and Sutherland Gaelic. Rob Dunbar,
+            Anja Gunderloch &amp; Wilson McLeod (eds) Rannsachadh na Gàidhlig 8. Edinburgh – London:
+            Dunedin Academic Press, 237–249. </p>
+        <p>MacAulay, Donald (1962) Notes on some noun-initial mutations in a dialect of Scottish
+            Gaelic. Scottish Gaelic Studies 9, 146–175. </p>
+        <p>MacAulay, Donald (1982) Register range and choice in Scottish Gaelic. International
+            Journal of the Sociology of Language 35, 25–48. </p>
+        <p>MacAulay, Donald (1986) ‘New Gaelic’. Scottish Language 5, 120-125. </p>
+        <p>MacAulay, Donald (1988) On the order of elements in Scottish Gaelic clause structure and
+            some related linguistic problems. In: Gordon MacLennan (ed) Proceedings of the first
+            North American Congress of Celtic Studies, held at Ottawa from 26th-30th March, 1986.
+            Ottawa: Chair of Celtic Studies, University of Ottawa, 397–406. </p>
+        <p>MacAulay, Donald (1992) The Scottish Gaelic language. In: Donald MacAulay (ed) The Celtic
+            languages. Cambridge: Cambridge University Press, 137–248. </p>
+        <p>MacAulay, Donald (1996) Some thoughts on time, tense and mode, and on aspect in Scottish
+            Gaelic. Scottish Gaelic Studies 17, 193–204. </p>
+        <p>MacAulay, Donald (2013) Aspects of the category of person in Scottish Gaelic. In: Dónall
+            Ó Baoill, Donncha Ó hAodha and Nollaig Ó Muraílle (eds) Saltair saíochta, sanasaíochta
+            agus seanchais: a festschrift for Gearóid Mac Eoin. Dublin: Four Courts, 112–116. </p>
+        <p>Macaulay, Cathlin &amp; Kenneth MacKinnon (2000) Scottish Gaelic. In: Jan Wirrer (ed.)
+            Minderheiten- und Regionalsprachen in Europa. Wiesbaden: Westdeutscher Verlag, 46–63. </p>
+        <p>MacFarlane, Malcolm (1889) The phonetics of the Gaelic language: with an exposition of
+            the current orthography and a system of phonography. Paisley – Edinburgh – London: J.
+            &amp; R. Parlane; J. Menzies; Houlston. </p>
+        <p>Mac Gill-Fhinnein, Gordon (1958/61) Ris and leis with the meanings ‘bare’ or ‘exposed’.
+            Éigse 9, 227–229. </p>
+        <p>MacInnes, John (1992) The Scottish Gaelic language. In: Glanville Price (ed.) The Celtic
+            connection. Gerrards Cross, Buckinghamshire: Colin Smythe, 101–130. </p>
+        <p>Mackenzie, J. Lachlan (2009) Aspects of the interpersonal grammar of Gaelic. Linguistics:
+            an interdisciplinary journal of the language sciences 47/4, 885–911.
+            (https://www.degruyter.com/document/doi/10.1515/LING.2009.031/html) </p>
+        <p>MacKinnon, Kenneth (2000) Scottish Gaelic. In: Glanville Price (ed.) Languages in Britain
+            &amp; Ireland. Oxford: Blackwell, 44–57. </p>
+        <p>MacLeod, Michelle (2007) Measuring Gaelic Language Planning. Scottish Language 26, 61–78. </p>
+        <p>MacLeod, Michelle &amp; Moray Watson (eds) (2010) The Edinburgh companion to the Gaelic
+            language. Edinburgh: Edinburgh University Press. </p>
+        <p>MacLeòid, Murchadh (1967) Gàidhlig gun Ghràmair. Gairm 58, 169–171.</p>
+        <p>McCaughey, Terence (1976) The possessive construction in Scottish Gaelic. Celtica 11,
+            141–149.</p>
+        <p>McConville, Mark (2013) Reverse-engineering the morphophonology of Gaelic vowels from
+            orthography: language planning to linguistic theory, and back again. In: Janet
+            Cruickshank &amp; Robert McColl Millar (eds) After the storm: papers from the Forum for
+            Research on the Languages of Scotland and Ulster triennial meeting, Aberdeen 2012.
+            Aberdeen: Forum for Research on the Languages of Scotland and Ulster, 61–81.
+            (https://www.abdn.ac.uk/sll/documents/McConville-Reverse-engineering-the-morphophonology.pdf) </p>
+        <p>McLeod, Wilson (2001) Faclair na Pàrlamaid: a critical evaluation. Rannsachadh air
+            Poileasaidh Cànain agus Dealbhadh Cànain – Research on Language Policy and Planning.
+            Edinburgh: Department of Celtic and Scottish Studies, University of Edinburgh.
+            (https://www.poileasaidh.celtscot.ed.ac.uk/faclairrep.pdf) </p>
+        <p>McLeod, Wilson (2004) ‘Feumaidh sinn a’ Ghàidhlig a chumail pure’: Problems of linguistic
+            purism in Scottish Gaelic. In: Dónall Ó Riagáin &amp; Thomas Stolz (eds) Purism: A
+            Second Helping. Bochum: Brockmeyer, 25–45. </p>
+        <p>McLeod, Wilson (2004) The challenge of corpus planning in Gaelic development. Scottish
+            Language 23, 68–92. </p>
+        <p>McLeod, Wilson (2010) Poileasaidh Leasachaidh na Gàidhlig: Paradaim Ùr?. In: Gillian
+            Munro &amp; Iain Mac an Tàilleir (eds) Coimhearsnachdan na Gàidhlig an-diugh. Edinburgh:
+            Dunedin Academic Press, 1–18. </p>
+        <p>Meek, Donald E. (1990) Language and style in the Scottish Gaelic Bible (1767–1807).
+            Scottish Language 9, 1–16. </p>
+        <p>Milligan, Lindsay G. (2009) Territoriality and macro Gaelic education policy. Scottish
+            Gaelic Studies 25, 331–349.</p>
+        <p>Milligan, Lindsay (2010) Gaelic in the workplace: helping to create linguistic capacity.
+            Scottish Languages Review 21, 7–16.</p>
+        <p>Ó Baoill, Colm (1978) Contributions to a Comparative Study of Ulster Irish and Scottish
+            Gaelic. Belfast: Institute of Irish Studies.</p>
+        <p>О’Коррань, А. [Ó Corráin, Ailbhe] (2007) Перфектные конструкции в островных кельтских
+            языках [Perfect constructions in the insular Celtic languages]. Вопросы языкознания
+            [Voprosy jazykoznanija] 55/5, 73–88. (https://vja.ruslang.ru/ru/archive/2007-5/73-88) </p>
+        <p>Ó Maolalaigh, Roibeard (1994) The internal structure of the noun phrase in Scottish
+            Gaelic. In: The Noun Phrase Structure. Series: Eurotype Working Papers. Konstanz:
+            Eurotyp. </p>
+        <p>Ó Maolalaigh, Roibeard (2000) Transition zones, hyperdialectisms and historical change:
+            the case of final unstressed -igh/ich and -idh in Scottish Gaelic. Scottish Gaelic
+            Studies 19, 195–233. </p>
+        <p>Ó Maolalaigh, Roibeard (2003) Varia: IV. 1. On the 3pl. prepositional pronominal ending
+            -u in Irish and Scottish Gaelic. Ériu 53, 171–174.
+            (https://www.jstor.org/stable/30008360) </p>
+        <p>Ó Maolalaigh, Roibeard (2003) Varia: IV. 2. On the 2pl. imperative in Scottish Gaelic.
+            Ériu 53, 174–178. (https://www.jstor.org/stable/30008360) </p>
+        <p>Ó Maolalaigh, Roibeard (2003) "Siubhadaibh a bhalachaibh! Tha an Suirbhidh a-nis ullamh
+            agaibh": mar a Dh’èirich do -bh, -mh gun Chudrom ann an Gàidhlig Alba. Scottish Gaelic
+            Studies 21, 163–219. </p>
+        <p>Ó Maolalaigh, Roibeard (2013) Gaelic gach uile / a h-uile and the genitive of time. Éigse
+            38, 41–93. </p>
+        <p>Ó Maolalaigh, Roibeard (2013) Corpas na Gàidhlig and singular nouns with the numerals
+            ‘three’ to ‘ten’ in Scottish Gaelic. In: Wendy Anderson (ed.) Language in Scotland:
+            corpus-based studies. Series: Scottish cultural review of language and literature, 19.
+            Amsterdam – New York: Rodopi, 113–142.
+            (https://brill.com/display/book/9789401209748/B9789401209748-s009.xml) </p>
+        <p>Ó Maolalaigh, Roibeard (2018) An archaic survival: initial h- in Scottish Gaelic thig,
+            thug, thàinig, fhuair revisited. Scottish Gaelic Studies 31, 42–51. </p>
+        <p>Ó Maolalaigh, Roibeard (2023) An Old Gaelic conjunction rediscovered: Old Gaelic ceni,
+            Scottish Gaelic gar an and related concessive conjunctions in Gaelic. North American
+            journal of Celtic studies 7/1, 1–87. (https://eprints.gla.ac.uk/286273/1/286723.pdf) </p>
+        <p>Ó Maolalaigh, Roibeard &amp; Mark McConville (2020) ‘Risk-free’ corpus-planning for
+            Scottish Gaelic? Collaborative development of basic grammatical norms for 21st century
+            speakers. In: Joanna Kopaczyk &amp; Robert M. Millar (eds) Language on the Move Across
+            Contexts and Communities. Series: The languages of Scotland and Ulster, 6. Aberdeen:
+            Forum for Research on the Languages of Scotland and Ulster, 13-36.
+            (https://www.abdn.ac.uk/sll/documents/Ch2-O-Maolalaigh-and-McConville.pdf) </p>
+        <p>Ó Muirí, Damien (1988) Gender of the noun in Scottish Gaelic. In: Gordon W. MacLennan
+            (ed.) Proceedings of the first North American Congress of Celtic Studies, held at Ottawa
+            from 26th–30th March, 1986. Ottawa: Chair of Celtic Studies, University of Ottawa,
+            423–441. </p>
+        <p>Ó Sé, Diarmuid (2004) The ‘after’ perfect and related constructions in Gaelic dialects.
+            Ériu 54, 179–248. </p>
+        <p>Ostrove, Jason (2019) Adjacency and Case Morphology in Scottish Gaelic. Linguistic
+            Inquiry 51(1), 1–49.
+            (https://www.researchgate.net/publication/332922961_Adjacency_and_Case_Morphology_in_Scottish_Gaelic) </p>
+        <p>Ramchand, Gillian Catriona (1993) Verbal Nouns and Event Structure in Scottish Gaelic.
+            SALT III, 162–181.
+            (https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/download/3120/2842) </p>
+        <p>Ramchand, Gillian Catriona (1996) Two subject positions in Scottish Gaelic: the
+            syntax-semantics interface. Natural language semantics 4/2, 165–191.
+            (https://www.jstor.org/stable/23748707) </p>
+        <p>Reed, Sylvia L. (2021) The semantics of Scottish Gaelic tense and aspect. In: Andrew
+            Carnie (ed.) Formal approaches to Celtic linguistics. Newcastle upon Tyne: Cambridge
+            Scholars Publishing, 255–279. </p>
+        <p>Reed, Sylvia L. (2012) Multiple perfects in Scottish Gaelic. In: Jaehoon Choi, E. Alan
+            Hogue, Jeffrey Punske, Jessamyn Schertz, Deniz Tat &amp; Alex Truman (eds) Proceedings
+            of the 29th West Coast Conference on Formal Linguistics. Somerville, MA: Cascadilla,
+            389–397. (http://www.lingref.com/cpp/wccfl/29/paper2725.pdf)</p>
+        <p>Reed, Sylvia L. (2015) The creation and interpretation of nominal predicates: bi + ann in
+            Scottish Gaelic. Lingua 154, 110–139.
+            (https://www.sciencedirect.com/science/article/abs/pii/S002438411400271X)</p>
+        <p>Rogers, Henry (1972) The initial mutations in modern Scots Gaelic. Studia Celtica 7,
+            63–85. </p>
+        <p>Schreiner, Sylvia L. R. &amp; Andrew Carnie (2016) The syntax and semantics of Scottish
+            Gaelic a’ dol aL. Journal of Celtic Linguistics 17, 1–30.
+            (https://www.ingentaconnect.com/contentone/uwp/jcl/2016/00000017/00000001/art00002;jsessionid=m9fotpkaaf.x-ic-live-02) </p>
+        <p>Sheil, Christine (2012) Scottish Gaelic prepositional relatives: The problem of
+            inflection. Working Papers of the Linguistic Circle of the University of Victoria 21(2),
+            80–90. (https://journals.uvic.ca/index.php/WPLC/article/view/7762) </p>
+        <p>Stalmaszczyk, Piotr (2011) Prepositional possessive constructions in Celtic languages and
+            Celtic Englishes. In: Hildegard L. C. Tristram (ed.) The Celtic languages in contact.
+            Potsdam: Potsdam University Press, 126–145.
+            (https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/1744/file/126_145.pdf) </p>
+        <p>Stewart, Thomas W. (2013) The sub-types of initial lenition in Scottish Gaelic. In: Janet
+            Cruickshank &amp; Robert McColl Millar (eds) After the Storm: papers from the Forum for
+            Research on the Languages of Scotland and Ulster triennial meeting, Aberdeen 2012.
+            Aberdeen: Forum for Research on the Languages of Scotland and Ulster, 100–116.
+            (https://www.abdn.ac.uk/sll/documents/Stewart-Sub-types-of-initial-lenition.pdf) </p>
+        <p>Stortz, Stephen (1995) Relative Clause Structure in Scottish Gaelic. BA dissertation,
+            Swarthmore College.
+            (https://scholarship.tricolib.brynmawr.edu/bitstream/handle/10066/10669/Stortz_thesis_1995.pdf?sequence=3&amp;isAllowed=y) </p>
+        <p>Sung, Jae-Hyun, Diana Archangeli, Samuel Johnston, Ian Clayton &amp; Andrew Carnie (2015)
+            The articulation of mutated consonants: palatalization in Scottish Gaelic. In: The
+            Scottish Consortium for ICPhS (eds) Proceedings of the 18th International Congress of
+            the Phonetic Sciences, August 10–14, 2015. Glasgow: University of Glasgow, 1–5. </p>
+        <p>Thoms, Gary (2014) MaxElide and clause structure in Scottish Gaelic. Linguistic Inquiry
+            45/1, 158–168. (https://www.jstor.org/stable/43695639)</p>
+        <p>Thoms, Gary (2016) Short answers in Scottish Gaelic and their theoretical implications.
+            Natural language and linguistic theory 34/1, 351–391.
+            (https://www.jstor.org/stable/43698476)</p>
+        <p>Watson, Seosamh (1983) Loan-words and initial mutations in a Gaelic dialect. Scottish
+            Gaelic Studies 14/1, 100–113.</p>
+        <p>Whyte, Christopher (1988) The Gaelic noun: a new description. Scottish Gaelic Studies 15,
+            74–92.</p>
+    </section>
+    <section id="dialects">
+        <h>Gaelic dialects</h>
+        <p>Borgstrøm, Carl Hj. (1935). <emph>The Dialect of Barra</emph>. Oslo: A. W. Brøggers
+            Boktrykkeri.</p>
+        <p>Borgstrøm, Carl Hj. (1940). <emph>The Dialects of the Outer Hebrides</emph>. Oslo:
+            Norwegian Universities Press.</p>
+        <p>Borgstrøm, Carl Hj. (1941). <emph>The Dialects of Skye and Ross-shire</emph>. Oslo:
+            Norwegian Universities Press.</p>
+        <p>Campbell, John Lorne &amp; Allan MacDonald (1958). <emph>Gaelic words and expressions
+                from South Uist and Eriskay</emph>. Dublin: Dublin Institute for Advanced
+            Studies.</p>
+        <p>Clement, David &amp; Adam Watson (1980–1982). <emph>Aberdeenshire Gaelic</emph>.
+            Transactions of the Gaelic Society of Inverness 52, 373–404.</p>
+        <p>Dorian, Nancy C. (1978). <emph>East Sutherland Gaelic: the dialect of the Brora, Golspie,
+                and Embo fishing communities</emph>. Dublin: Dublin Institute for Advanced Studies. </p>
+        <p>Dorian, Nancy C. (1983). <emph>East Sutherland Gaelic dialect affinities: some new
+                material</emph>. Scottish Gaelic Studies 14/1, 114–119. </p>
+        <p>Grannd, Seumas (1995). <emph>The lexical geography of the Western Isles</emph>. Scottish
+            Language 14/15, 52–65. </p>
+        <p>Grannd, Seumas (2000). <emph>The Gaelic of Islay: a comparative study</emph>. Aberdeen:
+            Department of Celtic, University of Aberdeen. </p>
+        <p>Grant, James (2003). <emph>The Gaelic of Strathspey and its relationship with other
+                dialects</emph>. Transactions of the Gaelic Society of Inverness. Vol. LXI,
+            1998–2000, 71–115. </p>
+        <p>Holmer, Nils M. (1938). <emph>Studies on Argyllshire Gaelic</emph>. Oslo: Almqvist &amp;
+            Wiksells. </p>
+        <p>Holmer, Nils M. (1957). <emph>The Gaelic of Arran</emph>. Dublin: Dublin Institute for
+            Advanced Studies.</p>
+        <p>Holmer, Nils M. (1962). <emph>The Gaelic of Kintyre</emph>. Dublin: Dublin Institute for
+            Advanced Studies.</p>
+        <p>MacBain, A. (1894). <emph>The Gaelic Dialect of Badenoch</emph>. Transactions of the
+            Gaelic Society of Inverness 18 (1891–92), 79–96.</p>
+        <p>MacDonald, Duncan (1993). <emph>Gaelic Words from Great Bernera: Collected by Duncan
+                MacDonald circa 1920–1930</emph>. Inverness: The Gaelic Society of Inverness.</p>
+        <p>Mac Gill-Fhinnein, Gordon (1966). <emph>Gàidhlig Uidhist a Deas (téacs-leabhar)</emph>.
+            Baile Átha Cliath: Institiúid Árd-Léinn Bhaile Átha Cliath.</p>
+        <p>MacInnes, John (2006 [XX]) <emph>Cainnt is Cànan</emph>. In: Michael Newton (ed.).
+                <emph>Dùthchas nan Gàidheal: Selected Essays of John MacInnes</emph>. Edinburgh:
+            Birlinn, 120–30.</p>
+        <p>MacKillop, Donald (2000). <emph>Gaelic idioms and expressions from Berneray
+                Lochmaddy</emph>. Transactions of the Gaelic Society of Inverness. Vol. LX,
+            187-232.</p>
+        <p>McDonald, Allan (1958). <emph>Gaelic words and expressions from South Uist and
+                Eriskay</emph>. Dublin: Dublin Institute for Advanced Studies.</p>
+        <p>McGregor, Neil (1994–1996). <emph>Gaelic in Strathspey</emph>. Transactions of the Gaelic
+            Society of Inverness 59, 488–606.</p>
+        <p>Ó Dochartaigh, Cathair (ed.) (1997). <emph>Survey of the Gaelic Dialects of
+                Scotland</emph>. Dublin: Dublin Institute for Advanced Studies.</p>
+        <p>Oftedal, Magne (1956). <emph>The Gaelic of Leurbost, Isle of Lewis</emph>. Oslo:
+            Aschehoug.</p>
+        <p>Ó Murchú, Máirtín (1978). <emph>East Perthshire Gaelic</emph>. Dublin: Dublin Institute
+            for Advanced Studies.</p>
+        <p>Ó Murchú, Máirtín (2021). <emph>West Perthshire Gaelic</emph>. Dublin: Dublin Institute
+            for Advanced Studies.</p>
+        <p>Robertson, C. M. (1899). <emph>The Gaelic Dialect of Arran</emph>. Transactions of the
+            Gaelic Society of Inverness 21 (1896–1897), 229–265.</p>
+        <p>Robertson, C. M. (1900). <emph>Perthshire Gaelic</emph>. Transactions of the Gaelic
+            Society of Inverness 22 (1897–98), 4-42.</p>
+        <p>Robertson, C. M. (1902). <emph>Skye Gaelic</emph>. Transactions of the Gaelic Society of
+            Inverness 23 (1898–99), 54–89.</p>
+        <p>Robertson, C. M. (1904). <emph>The Gaelic of the West of Ross-shire</emph>. Transactions
+            of the Gaelic Society of Inverness 24 (1899–1901), 321–369.</p>
+        <p>Robertson, C. M. (1906–1908). <emph>Scottish Gaelic Dialects</emph>. The Celtic Review 3,
+            97–113; 223–239; 319–332; The Celtic Review 4, 69–80; 167–183; 273–280; 335–348.</p>
+        <p>Robertson, C. M. (1907). <emph>Sutherland Gaelic</emph>. Transactions of the Gaelic
+            Society of Inverness 25 (1901–1903), 84–125.</p>
+        <p>Ternes, Elmar (2006) [1973]. <emph>The Phonemic Analysis of Scottish Gaelic, rev.
+                edn</emph>. Dublin: Dublin Institute for Advanced Studies.</p>
+        <p>Watson, Joseph (1974). <emph>A Gaelic dialect of N. E. Ross-shire</emph>. Lochlann 6,
+            9–90.</p>
+        <p>Watson, Seosamh (1983). <emph>Fisher Gaelic in N. E. Scotland</emph>. Éigse 19/2,
+            341–353.</p>
+        <p>Watson, Seosamh (1999). <emph>Aspects of some Nova Scotian Gaelic dialects</emph>. In:
+            Ronald Black, William Gillies, Roibeard Ó Maolalaigh (eds) Celtic connections:
+            proceedings of the Tenth International Congress of Celtic Studies. Vol. 1. Language,
+            literature, history, culture. East Linton: Tuckwell Press, 347–395.</p>
+        <p>Watson, Seosamh (2010). <emph>Hebridean and Mainland dialects</emph>. In: Michelle
+            Macleod &amp; Moray Watson (eds) The Edinburgh companion to the Gaelic language.
+            Edinburgh: Edinburgh University Press, 108–127.</p>
+        <p>Watson, Seosamh (2022). <emph>Easter Ross Gaelic</emph>. Dublin: Dublin Institute for
+            Advanced Studies.</p>
+        <p>Wentworth, Roy (1996). <emph>Faclan is abairtean à Ros an Iar</emph>. Geàrrloch: R.
+            Wentworth.</p>
+        <p>Wentworth, Roy (2003). <emph><ax
+                    href="https://www3.smo.uhi.ac.uk/gaidhlig/wentworth/faclair/dualchainnt">Gaelic
+                    Words and Phrases from Wester Ross</ax> – Faclan is abairtean à Ros an
+                Iar</emph>. Inbhir Nis: CLÀR.</p>
+        <p>Wentworth, Roy (2003). <ax
+                href="https://www.dias.ie/wp-content/uploads/2011/04/gearrloch.pdf"
+                    ><emph>Rannsachadh air fon-eòlas dualchainnt Ghàidhlig Gheàrrloch, Siorrachd
+                    Rois, 3 vols</emph></ax>. PhD thesis, University of Aberdeen.</p>
+    </section>
+    <section id="other">
+        <h>other</h>
+        <p>Bauer, Michael; Roibeard Ó Maolalaigh &amp; Rob Wherrett (2009). <emph><ax
+                    href="https://www.gaidhlig.scot/wp-content/uploads/2016/12/Bauer-et-al.-2009-Teicne%C3%B2las-corpais-CR09-03-Corpus-technology.pdf"
+                    >Survey of Gaelic Corpus Technology</ax>: Project report</emph>. Bòrd na
+            Gàidhlig.</p>
+        <p>Bell, Susan; Mark McConville, Wilson McLeod &amp; Roibeard Ó Maolalaigh (2014). <emph><ax
+                    href="https://eprints.gla.ac.uk/98132/1/98132.pdf">Dlùth is Inneach</ax>:
+                Linguistic and Institutional Foundations for Gaelic Corpus Planning. Final Project
+                Report</emph>.</p>
+        <p>Bòrd na Gàidhlig (2007). <emph>The National Plan for Gaelic, 2007–2012</emph>.</p>
+        <p>Bòrd na Gàidhlig (2007). <emph>The National Gaelic Education Strategy</emph>. [Annexe A
+            to Bòrd na Gàidhlig (2007). <emph>The National Plan for Gaelic, 2007–2012</emph>].</p>
+        <p>Bòrd na Gàidhlig (2010). <emph>Ginealach Ùr na Gàidhlig: An Action Plan to Increase the
+                Numbers of Gaelic Speakers</emph>.</p>
+        <p>Bòrd na Gàidhlig (2011). <emph>Aithisg Bhliadhnail – Annual Report, 2010–2011</emph>.</p>
+    </section>
+    <section id="projects">
+        <h>academic projects</h>
+        <p><ax href="https://repository.arizona.edu/handle/10150/577012">Arizona Scottish Gaelic
+                Syntax Project</ax>, University of Arizona – creating a database of Scottish Gaelic
+            grammatical structures and a complete descriptive grammar of the language.</p>
+    </section>
+    <section id="additional">
+        <h>additional</h>
+        <p>Mango Languages: <ax
+                href="https://mangolanguages.com/available-languages/scottish-gaelic">Scottish
+                Gaelic</ax></p>
+        <p><ax
+                href="https://gaelicgrammar.org/~gaelic/mediawiki/index.php/Scottish_Gaelic_Grammar_Wiki"
+                >Scottish Gaelic Grammar Wiki</ax>.</p>
+        <p><ax href="https://polyglotclub.com/wiki/Language/Scottish-gaelic/Grammar">Scottish Gaelic
+                Grammar</ax> – Polyglot Club.</p>
+        <p>TES: <ax
+                href="https://www.tes.com/teaching-resources/hub/secondary/languages/scottish-gaelic/grammar"
+                >Secondary Scottish Gaelic resources: grammar</ax>.</p>
+        <p>Welcome to <ax href="https://duome.eu/tips/en/gd">Scottish Gaelic on Duolingo</ax>!</p>
+    </section>
+</module>

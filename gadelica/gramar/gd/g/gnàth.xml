@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>gnàth</h>
+    <p><b>gnàth</b>
+        <en>custom, practice, habit, usage, convention</en> is a masculine <a
+            href="?xx=nouns/simple_common_nouns">simple common noun</a>, with genitive singular form
+            <b>gnàtha</b> and plural form <b>gnàthan</b> or <b>gnàthannan</b>.</p>
+    <module id="gnathach">
+        <h>gnàthach</h>
+        <p><b>gnàthach</b>
+            <en>customary, normal, usual, habitual, routine</en> is a <a
+                href="?xx=adjectives/derived_adjectives">derived adjective</a> from the noun
+                <b>gnàth</b> created with the suffix <a href="?gd=_ach">-(e)ach</a>.</p>
+        <module id="neo-ghnathach">
+            <h>neo-ghnàthach</h>
+            <p><b>neo-ghnàthach</b>
+                <en>unusual, unconventional, unorthodox, uncommon</en> is a <a href="?xx=adjectives/compound_adjectives"
+                    >compound adjective</a> from the adjective <b>gnàthach</b> created with the
+                prefix <a href="?gd=neo_">neo-</a>.</p>
+            <p>Examples from modern usage – <xl id="other">
+                <li>
+                    <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. Rinn
+                        e sin tro dhìcheall, obair chruaidh agus tàlant malairt a bha
+                        <m>neo-ghnàthach</m>. An-diugh tha iomadh companaidh na ainm air feadh na
+                        Gàidhealtachd. [...]</gd>
+                    <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. He
+                        did that through diligence, hard work and a talent for business that was
+                        unusual. Today there are many companies in his name all over the Highlands.
+                        [...]</tr>
+                    <ref text="2">td. 5</ref>
+                </li>
+            </xl>
+            </p>
+        </module>
+    </module>
+</module>

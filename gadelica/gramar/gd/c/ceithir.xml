@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>ceithir</h>
+  <p><b>ceithir</b>
+    <en>four, 4</en> is a <a href="?xx=nouns/numerals">numeral</a>.</p>
+  <p>cf. <a href="?gd=deich&amp;mod=ceithir_deug">ceithir deug</a>
+    <en>fourteen, 14</en>.</p>
+
+  <p lang="en">Examples from Gairm – <xl id="gairm">
+      <li>
+        <gd>Bha i ceud bliadhna a dh’ aois is esan dhà air fhichead. Cha robh e ach mìos no dhà
+          a-mach ás an oilthigh. Bha a nighean a’ fuireachd còmhla rithe. Bha ise <m>ceithir
+            fichead</m>. Shaoil e gu robh a’ chailleach ann an dòigh na bu shunndaiche na a nighean.
+          [...]</gd>
+        <tr>She was a hundred years old and him twenty two. He was just a month or two out of the
+          university. Her daughter was living with her. She was eighty. He thought that the old
+          woman was in a way livelier than her daughter. [...]</tr>
+        <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+      </li>
+    </xl>
+  </p>
+
+  <module id="ceathramh">
+    <h>ceathramh</h>
+    <p><b>ceathramh</b>
+      <en>fourth, 4th</en> is a derived ordinal, with suffix <a href="?gd=_amh">-(e)amh</a>.</p>
+  </module>
+
+  <module id="ceathrar">
+    <h>ceathrar</h>
+    <p><b>ceathrar</b>
+      <en>four people</en> is a <a href="?xx=nouns/numeric_nouns">numeric noun</a>.</p>
+    <p lang="en">Examples from Gairm – <xl id="ceathrar-gairm">
+        <li>
+          <gd>[...] ’S bha iad ’nan suidhe an sin ag òl uisge-beatha fad na h-oidhch’, <m>na
+            ceathrar aca</m>. An dràsda ’s a rithist shealladh Iain a-mach air an uinneig ris a’ mhuir
+            ’s na h-eileanan. [...]</gd>
+          <tr>[...] And they were sat there drinking whisky all night, the four of them. Now and
+            again John would look out the window at the sea and the islands. [...]</tr>
+          <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+        </li>
+      </xl>
+    </p>
+    <p>Other examples from modern usage – <xl id="xs">
+        <li>
+          <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. Rinn e sin
+            tro dhìcheall, obair chruaidh agus tàlant malairt a bha neo-ghnàthach. An-diugh tha
+            iomadh companaidh na ainm air feadh na Gàidhealtachd. Bha seachdnar de theaghlach aige,
+              <m>ceathrar mhac</m> agus triùir nighean, agus bha a h-uile fear is tè anns a’
+            mhalairt ach Rob. [...]</gd>
+          <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. He did that
+            through duty, hard work and a talent for business that was unusual. Today there are many
+            companies in his name all over the Highlands. He had a family of seven, four sons and
+            three daughters, and every man and woman was in the business except Rob. [...]</tr>
+          <ref text="2">td. 5</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+
+  <module id="ceathrad">
+    <h>ceathrad</h>
+    <p><b>ceathrad</b>
+      <en>forty, 40</en> is a modern derived <a href="?xx=nouns/numeric_base_nouns">numeric base
+        noun</a>.</p>
+    <module id="na_ceathradan">
+      <h>na ceathradan</h>
+      <p><b>na ceathradan</b>
+        <en>the forties, the 40s</en></p>
+    </module>
+  </module>
+
+</module>

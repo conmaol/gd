@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>an</h>
+  <p>The particle <g>an</g> has three main uses – <ul>
+      <li>the third person plural possessive determiner <a href="?gd=an^determiner"><g>an</g></a>
+        <en>their</en></li>
+      <li>the inessive preposition <a href="?gd=an^preposition"><g>an</g></a>
+        <en>in(side), within</en></li>
+      <li>the positive interrogative verb particle <a href="?gd=an^particle"><g>an</g></a></li>
+    </ul>
+  </p>
+</module>

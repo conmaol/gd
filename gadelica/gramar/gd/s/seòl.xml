@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>seòl</h>
+    <p><g>seòl</g>
+        <en>sail</en> is a <a href="?xx=verbs/simple_verbs">simple verb</a>, denoting an event/activity of <a
+            href="?q=motion">manner of motion</a>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>seòl</g> are – <ul>
+                <li><m>seòlaidh</m> – future independent ie. <en>will sail</en></li>
+                <li><m>sheòl</m> – past independent ie. <en>sailed</en></li>
+                <li><m>seòladh</m> – verbal noun ie. <en>sailing</en></li>
+            </ul>
+        </p>
+        <section>
+            <h>tense</h>
+            <p>
+                <ul>
+                    <li>past <ul id="past">
+                            <li>active <ul>
+                                    <li>independent – <m>sheòl</m></li>
+                                    <li>relative – a <m>sheòl</m></li>
+                                    <li>dependent – cha/an/nach <m>do sheòl</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>sheòladh</m></li>
+                                    <li>relative – a <m>sheòladh</m></li>
+                                    <li>dependent – cha/an/nach <m>do sheòladh</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>future <ul id="future">
+                            <li>active <ul>
+                                    <li>independent – <m>seòlaidh</m></li>
+                                    <li>relative – a <m>sheòlas</m></li>
+                                    <li>dependent – cha <m>sheòl</m>, an/nach <m>seòl</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>seòlar</m></li>
+                                    <li>relative – a <m>sheòlar</m></li>
+                                    <li>dependent – cha <m>sheòlar</m>, an/nach <m>seòlar</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>conditional <ul id="conditional">
+                            <li>active <ul>
+                                    <li>first person singular <ul>
+                                            <li>independent – <m>sheòlainn</m></li>
+                                            <li>relative – a <m>sheòlainn</m></li>
+                                            <li>dependent – cha <m>sheòlainn</m>, an/nach
+                                                  <m>seòlainn</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>first person plural <ul>
+                                            <li>independent – <m>sheòlamaid</m></li>
+                                            <li>relative – a <m>sheòlamaid</m></li>
+                                            <li>dependent – cha <m>sheòlamaid</m>, an/nach
+                                                  <m>seòlamaid</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>second/third persons <ul>
+                                            <li>independent – <m>sheòladh</m></li>
+                                            <li>relative – a <m>sheòladh</m></li>
+                                            <li>dependent – cha <m>sheòladh</m>, an/nach
+                                                  <m>seòladh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>sheòlte</m></li>
+                                    <li>relative – a <m>sheòlte</m></li>
+                                    <li>dependent – cha <m>sheòlte</m>, an/nach <m>seòlte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>status</h>
+            <p><ul>
+                    <li>independent <ul id="independent">
+                            <li>past <ul>
+                                    <li>active – <m>sheòl</m></li>
+                                    <li>passive – <m>sheòladh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – <m>seòlaidh</m></li>
+                                    <li>passive – <m>seòlar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – <m>sheòlainn</m></li>
+                                            <li>first person plural – <m>sheòlamaid</m></li>
+                                            <li>second/third persons – <m>sheòladh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – <m>sheòlte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>relative <ul id="relative">
+                            <li>past <ul>
+                                    <li>active – a <m>sheòl</m></li>
+                                    <li>passive – a <m>sheòladh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – a <m>sheòlas</m></li>
+                                    <li>passive – a <m>sheòlar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – a <m>sheòlainn</m></li>
+                                            <li>first person plural – a <m>sheòlamaid</m></li>
+                                            <li>second/third persons – a <m>sheòladh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – a <m>sheòlte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="dependent">
+                            <li>past <ul>
+                                    <li>active – cha/an/nach <m>do sheòl</m></li>
+                                    <li>passive – cha/an/nach <m>do sheòladh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – cha <m>sheòl</m>, an/nach <m>seòl</m></li>
+                                    <li>passive – cha <m>sheòlar</m>, an/nach <m>seòlar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – cha <m>sheòlainn</m>,
+                                                an/nach <m>seòlainn</m></li>
+                                            <li>first person plural – cha <m>sheòlamaid</m>, an/nach
+                                                  <m>seòlamaid</m></li>
+                                            <li>second/third persons – cha <m>sheòladh</m>, an/nach
+                                                  <m>seòladh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – cha <m>sheòlte</m>, an/nach <m>seòlte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul></p>
+        </section>
+        <section>
+            <h>voice</h>
+            <p>
+                <ul>
+                    <li>active <ul id="active">
+                            <li>past <ul>
+                                    <li>independent – <m>sheòl</m></li>
+                                    <li>relative – a <m>sheòl</m></li>
+                                    <li>dependent – cha/an/nach <m>do sheòl</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>seòlaidh</m></li>
+                                    <li>relative – a <m>sheòlas</m></li>
+                                    <li>dependent – cha <m>sheòl</m>, an/nach <m>seòl</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent <ul>
+                                            <li>first person singular – <m>sheòlainn</m></li>
+                                            <li>first person plural – <m>sheòlamaid</m></li>
+                                            <li>second/third persons – <m>sheòladh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>relative <ul>
+                                            <li>first person singular – a <m>sheòlainn</m></li>
+                                            <li>first person plural – a <m>sheòlamaid</m></li>
+                                            <li>second/third persons – a <m>sheòladh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>dependent <ul>
+                                            <li>first person singular – cha <m>sheòlainn</m>,
+                                                an/nach <m>seòlainn</m></li>
+                                            <li>first person plural – cha <m>sheòlamaid</m>, an/nach
+                                                  <m>seòlamaid</m></li>
+                                            <li>second/third persons – cha <m>sheòladh</m>, an/nach
+                                                  <m>seòladh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>passive <ul id="passive">
+                            <li>past <ul>
+                                    <li>independent – <m>sheòladh</m></li>
+                                    <li>relative – a <m>sheòladh</m></li>
+                                    <li>dependent – cha/an/nach <m>do sheòladh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>seòlar</m></li>
+                                    <li>relative – a <m>sheòlar</m></li>
+                                    <li>dependent – cha <m>sheòlar</m>, an/nach <m>seòlar</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent – <m>sheòlte</m></li>
+                                    <li>relative – a <m>sheòlte</m></li>
+                                    <li>dependent – cha <m>sheòlte</m>, an/nach <m>seòlte</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section>
+            <h>imperative</h>
+            <p>
+                <ul>
+                    <li>independent <ul id="imp-ind">
+                            <li>first person singular – <m>seòlam</m>!</li>
+                            <li>second person singular – <m>seòl</m>!</li>
+                            <li>first person plural – <m>seòlamaid</m>!</li>
+                            <li>second person plural – <m>seòlaibh</m>!</li>
+                            <li>third person – <m>seòladh</m>!</li>
+                            <li>passive – <m>seòl(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="imp-dep">
+                            <li>first person singular – na <m>seòlam</m>!</li>
+                            <li>second person singular – na <m>seòl</m>!</li>
+                            <li>first person plural – na <m>seòlamaid</m>!</li>
+                            <li>second person plural – na <m>seòlaibh</m>!</li>
+                            <li>third person – na <m>seòladh</m>!</li>
+                            <li>passive – na <m>seòl(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>derivatives</h>
+            <module id="seoladh">
+                <h>seòladh</h>
+                <p><b>seòladh</b>
+                    <en>sailing, address</en> is a masculine common noun, derived with suffix <a
+                        href="?gd=_adh"><g>-adh</g></a>.</p>
+                <section id="seoladh-forms">
+                    <h>forms</h>
+                    <p>The principal parts of <g>seòladh</g> are – <ul>
+                            <li><m>seòladh</m> – nominative/dative singular</li>
+                            <li><m>seòlaidh</m> – genitive singular</li>
+                            <li><m>seòlaidhean</m> – plural</li>
+                        </ul>
+                    </p>
+                    <section id="definiteness">
+                        <h>definiteness</h>
+                        <p><ul>
+                                <li>indefinite <ul>
+                                        <li>singular <ul>
+                                                <li>nominative – <m>seòladh</m></li>
+                                                <li>dative – (ann an) <m>seòladh</m></li>
+                                                <li>genitive – (modh) <m>seòlaidh</m></li>
+                                            </ul></li>
+                                        <li>plural <ul>
+                                                <li>nominative – <m>seòlaidhean</m></li>
+                                                <li>dative – (ann an) <m>seòlaidhean</m></li>
+                                                <li>genitive – (taigh) <m>sheòlaidhean</m></li>
+                                            </ul></li>
+                                    </ul></li>
+                                <li>definite <ul>
+                                        <li>singular <ul>
+                                                <li>nominative – <m>an seòladh</m></li>
+                                                <li>dative – (anns) <m>an t-seòladh</m></li>
+                                                <li>genitive – (modh) <m>an t-seòlaidh</m></li>
+                                            </ul></li>
+                                        <li>plural <ul>
+                                                <li>nominative – <m>na seòlaidhean</m></li>
+                                                <li>dative – (anns) <m>na seòlaidhean</m></li>
+                                                <li>genitive – (taigh) <m>nan seòlaidhean</m></li>
+                                            </ul></li>
+                                    </ul></li>
+                            </ul></p>
+                    </section>
+                    <section id="number">
+                        <h>number</h>
+                        <p><ul>
+                                <li>singular <ul>
+                                        <li>indefinite <ul>
+                                                <li>nominative – <m>seòladh</m></li>
+                                                <li>dative – (ann an) <m>seòladh</m></li>
+                                                <li>genitive – (modh) <m>seòlaidh</m></li>
+                                            </ul></li>
+                                        <li>definite <ul>
+                                                <li>nominative – <m>an seòladh</m></li>
+                                                <li>dative – (anns) <m>an t-seòladh</m></li>
+                                                <li>genitive – (modh) <m>an t-seòlaidh</m></li>
+                                            </ul></li>
+                                    </ul></li>
+                                <li>plural <ul>
+                                        <li>indefinite <ul>
+                                                <li>nominative – <m>seòlaidhean</m></li>
+                                                <li>dative – (ann an) <m>seòlaidhean</m></li>
+                                                <li>genitive – (taigh) <m>sheòlaidhean</m></li>
+                                            </ul></li>
+                                        <li>definite <ul>
+                                                <li>nominative – <m>na seòlaidhean</m></li>
+                                                <li>dative – (anns) <m>na seòlaidhean</m></li>
+                                                <li>genitive – (taigh) <m>nan seòlaidhean</m></li>
+                                            </ul></li>
+                                    </ul></li>
+                            </ul></p>
+                    </section>
+                    <section id="case">
+                        <h>case</h>
+                        <p><ul>
+                                <li>nominative <ul>
+                                        <li>indefinite <ul>
+                                                <li>singular – <m>seòladh</m></li>
+                                                <li>plural – <m>seòlaidhean</m></li>
+                                            </ul></li>
+                                        <li>definite <ul>
+                                                <li>singular – <m>an seòladh</m></li>
+                                                <li>plural – <m>na seòlaidhean</m></li>
+                                            </ul></li>
+                                    </ul></li>
+                                <li>dative <ul>
+                                        <li>indefinite <ul>
+                                                <li>singular – (ann an) <m>seòladh</m></li>
+                                                <li>plural – (ann an) <m>seòlaidhean</m></li>
+                                            </ul></li>
+                                        <li>definite <ul>
+                                                <li>singular – (anns) <m>an t-seòladh</m></li>
+                                                <li>plural – (anns) <m>na seòlaidhean</m></li>
+                                            </ul></li>
+                                    </ul></li>
+                                <li>genitive <ul>
+                                        <li>indefinite <ul>
+                                                <li>singular – (modh) <m>seòlaidh</m></li>
+                                                <li>plural – (taigh) <m>sheòlaidhean</m></li>
+                                            </ul></li>
+                                        <li>definite <ul>
+                                                <li>singular – (modh) <m>an t-seòlaidh</m></li>
+                                                <li>plural – (taigh) <m>nan seòlaidhean</m></li>
+                                            </ul></li>
+                                    </ul></li>
+                            </ul></p>
+                    </section>
+                </section>
+
+                <section>
+                    <h>uses</h>
+                    <section id="seoladh-obj">
+                        <h>object</h>
+                        <p><g>seòladh</g> can be used as the object of a verb – <ul>
+                                <li><g><a href="?gd=cuir">cuir</a> seòladh air <a href="?gd=litir"
+                                            >litir</a></g>
+                                    <en>address a letter</en> –
+                                <ul>
+                                    <li>older pedagogical examples – <xl id="cuir-older-pedag">
+                                        <li>
+                                            <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha
+                                                air falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa
+                                                nan litrichean leis an litir seo, Iain?” “Théid,” ars
+                                                Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi
+                                                i is gus an <m>cuir mi seòladh oirre</m>. Ceannaich
+                                                fhéin stamp agus cuir oirre i.” [...]</gd>
+                                            <tr>My mother is writing a letter to my father who is away.
+                                                My mother said, “Will you go to the postbox with this
+                                                letter, John?” “Yes, I will,” said John, “I will leave
+                                                now.” “Wait until I seal it and put an address on it.
+                                                Buy a stamp and put it on it.”[...]</tr>
+                                            <ref text="621">td. 5</ref>
+                                        </li>
+                                    </xl>
+                                    </li>
+                                </ul>
+                                </li>
+                            </ul>
+                        </p>
+                    </section>
+                </section>
+            </module>
+        </section>
+    </section>
+
+
+</module>

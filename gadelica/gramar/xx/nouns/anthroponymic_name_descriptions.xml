@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>anthroponymic name-descriptions</h>
+  <p>Anthroponymic name-descriptions are <a href="?xx=nouns/name_descriptions">name-descriptions</a>
+    which are also <a href="?xx=nouns/anthroponyms">anthroponyms</a> – specified common noun phrases
+    which name individual persons (and other personified entities like toys, boats, pets <etc/>) –
+      <g>An Caiptean</g>
+    <en>The Captain</en>, <g>Bean Alasdair</g>
+    <en>Alexander’s Wife</en>. </p>
+  <p>Anthroponymic name-descriptions contrast with <a href="?xx=nouns/anthroponymic_proper_nouns"
+      >anthroponymic proper nouns</a> like <g>Mairead</g>
+    <en>Margaret</en> or <g>Seumas</g>
+    <en>James</en>.</p>
+
+  <section>
+    <h>forms</h>
+    <section>
+      <h>pre-specified</h>
+      <p>Pre-specified – <ul>
+          <li>topoanthroponyms (the common noun is <a href="?xx=nouns/ethnonymic_common_nouns"
+              >ethnonymic</a>) – <g>am Moireach</g>
+            <en>the Duke of Atholl</en>, <g>am Muileach</g>
+            <en>Hector MacLachlain, the Man from Mull</en>, <g>an Bàideanach</g>
+            <en>the Badenoch man</en> (Calder 1923: 105)</li>
+          <li>military ranks – <g>an Caiptean</g>
+            <en>the Captain</en>, <g>an Còirneal</g>
+            <en>the Colonel</en></li>
+          <li>derived from <a href="?xx=nouns/ethnonymic_common_nouns">ethnonymic common nouns</a> –
+              <g>am Frisealach</g>
+            <en>Fraser</en>, <g>an Caimbeulach dubh</g>
+            <en>black Campbell</en> (all from Calder 1923: 105)</li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>post-specified</h>
+      <p>Post-specified – <ul>
+          <li>topoanthroponyms – <g>Fear Chanaidh</g>
+            <en>John Lorne Campbell of Canna</en>, <g>Fear Chìosmuil</g>
+            <en>MacNeil of Barra</en>, <g>Morair Ghalaibh</g>
+            <en>the Earl of Caithness</en>, <g>Siosalach Shrathghlais</g>
+            <en>Chisholm of Chisholm</en>, <g>Triath Dhubhairt</g>
+            <en>MacLean of Duart</en></li>
+          <li>gamonyms (anthropoanthroponyms) – <g>Bean Alasdair</g>
+            <en>Alexander’s wife</en>, <g>banntrach Uilleim</g>
+            <en>William’s widow</en></li>
+          <li>patronyms (anthropoanthroponyms) – <g>Mac C[h]ailein Mòr</g>
+            <en>the Duke of Argyll</en>, <g>Mac Chailein Mhic Dhonnachaidh</g>
+            <en>the Earl of Breadalbane</en>, <g>Mac Dhòmhnaill Dhuibh</g>
+            <en>Cameron of Lochiel</en>, <g>Mac Gille Chaluim</g>
+            <en>MacLeod of Raasay</en>, <g>Mac Iain</g>
+            <en>MacDonald of Glencoe</en>, <g>Mac Mhic Ailein</g>
+            <en>MacDonald of Clanranald</en>, <g>Mac Mhic Alasdair</g>
+            <en>MacDonald of Glengarry</en>, <g>MacShimidh</g>
+            <en>Lord Lovat (Fraser)</en></li>
+        </ul>
+      </p>
+    </section>
+  </section>
+  <!--
+  <section>
+    <h>senses</h>
+    
+  </section>
+  -->
+
+  <section id="lenition">
+    <h>lenition</h>
+    <p>The head (ie. initial) noun in a (post-specified) anthroponymic name-description which is
+      itself the (genitive) (post-)specifier of another noun is generally not lenited – <ul>
+        <li><g>taigh Fear Chìosmuil</g>
+          <en>MacNeil of Barra’s house</en>, cf. <bad>taigh Fhear Chìosmuil</bad></li>
+        <li><g>cù Bean Alastair</g>
+          <en>Alexander’s Wife’s dog</en>, cf. <bad>cù Bhean Alastair</bad></li>
+        <li><g>peann Ceannard a’ Bhùird</g>
+          <en>the Chairman of the Board’s pen</en>, cf. <bad>peann Cheannard a’ Bhùird</bad></li>
+      </ul>
+    </p>
+  </section>
+
+
+</module>

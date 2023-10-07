@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>a-muigh</h>
+  <p><g>a-muigh</g>
+    <en>[at] outside</en> is is an adessive(?) adverb of location (contrasting with both the elative
+      <a href="?gd=a-mach"><g>a-mach</g></a>
+    <en>[to] outside</en> and the inessive <a href="?gd=a-staigh"><g>a-staigh</g></a>
+    <en>[at] inside</en>).</p>
+
+  <module id="taobh">
+    <h lang="en">air a thaobh a-muigh</h>
+    <p lang="en">Examples of usage – <xl id="relative">
+        <li>
+          <gd>Bha feallsanach mar Hegel a’ togail riaghailtean móra a dheanadh an saoghal <m>air a
+              thaobh a-muigh</m> fhéin soilleir, ach cha b’ ann mar sin a bha Kierkegaard.</gd>
+          <tr>A philosopher like Hegel constructed grand rules which made the external world itself
+            clear but K. was not like that.</tr>
+          <ref text="400-41">td. 103</ref>
+        </li>
+        <li>
+          <gd>Ma bha Hegel a’ déiligeadh ris an t-saoghal <m>ar an taobh a-muigh</m>, ’sann a bha
+            Kierkegaard a’ déiligeadh gu tric ris an fheallsanach fhéin.</gd>
+          <tr>If Hegel dealt with the outside world, it was the philosopher himself that K. usually
+            dealt with.</tr>
+          <ref text="400-41">td. 103</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+
+</module>

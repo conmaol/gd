@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>faisg</h>
+    <p><g>faisg</g>
+        <en>close, near</en> is an adjective.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <module status="bronze" id="thig">
+                <h>thig faisg air ...</h>
+                <p><g><a href="?gd=thig">thig</a> faisg air ...</g>
+                    <en>come near, approach ...</en> – <ul>
+                        <li>pedagogical examples – <xl id="thig-pedag">
+                                <li>
+                                    <gd>Bha e a’ tighinn na b’ fhaisge.</gd>
+                                    <tr>It was coming nearer.</tr>
+                                    <ref text="601">td. 578</ref>
+                                </li>
+                            </xl></li>
+                    </ul>
+                </p>
+            </module>
+        </section>
+        <section>
+            <h>modifier</h>
+            <p>Examples from Gairm – <xl id="gairm">
+                    <li>
+                        <gd>Ma rannsaicheas sinn air ais fada gu leòir chì sinn nach robh sgoilean
+                            anns an Oban gus an ochdamh linn deug. Bha <m>an sgoil bheag a b’
+                                fhaisge air</m> anns a’ Chill Mhóir cóig mìle air falbh, agus tha e
+                            coltach gu robh an sgoil sin air an fheadhainn bu shine an
+                            Earra-Ghaidheal.</gd>
+                        <tr>If we research back long enough we will see that there were no schools
+                            in Oban until the eighteenth century. The closest little school was in
+                            Kilmore five miles away, and it appears that that school was one of the
+                            oldest in Argyll.</tr>
+                        <ref text="400-20">td. 363</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+</module>

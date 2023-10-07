@@ -1,0 +1,2232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+  <h lang="en">verbs</h>
+  <h lang="gd">gnìomhairean</h>
+  <p lang="en">Verbs are words which typically describe situations – events, states, activities
+      <i>&amp;c.</i></p>
+  <p lang="gd">Is e faclan a bheir cunntas gu cumanta air <u>suidheachaidhean</u> a tha ann an
+    gnìomhairean – tachartasan, staidean, dèanadasan <i>&amp;c.</i></p>
+  <p lang="en">For example – <m>ith</m>
+    <en>eat</en>, <m>fàg</m>
+    <en>leave</en>, ...</p>
+  <p lang="gd">...</p>
+  <module id="derivation">
+    <h lang="en">derivation</h>
+    <h lang="gd">...</h>
+    <p lang="en">Verbs are divided into three groups, depending on how they are formed – <ul>
+        <li><a href="?xx=verbs/derived_verbs">Derived verbs</a> are formed from adjectives or nouns,
+          usually by addition of a suffix eg. <m>gealaich</m>
+          <en>whiten</en>, <m>cuimhnich</m>
+          <en>remember</en>.</li>
+        <li><a href="?xx=verbs/compound_verbs">Compound verbs</a> are formed from other verbs,
+          usually by addition of a prefix eg. <m>ath-sgrìobh</m>
+          <en>rewrite</en>, <m>craobh-sgaoil</m>
+          <en>broadcast</en>.</li>
+        <li><a href="?xx=verbs/simple_verbs">Simple verbs</a> are not formed from other words eg.
+            <m>cuir</m>
+          <en>put</en>, <m>fosgail</m>
+          <en>open</en>.</li>
+      </ul>
+    </p>
+    <p lang="gd">...</p>
+    <!--<p lang="gd">Tha trì seòrsachan gnìomhair ann, a rèir ciamar a tha iad air an cruthachadh – <ul>
+      <li>Tha <a href="?xx=verbs/derived_verbs">gnìomhairean bunaichte</a> air an cruthachadh à buadhairean no ainmearan, gu cumanta le iar-leasachan eg. <m>gealaich</m>, <m>cuimhnich</m>.</li>
+      <li> Tha <a href="?xx=verbs/compound_verbs">gnìomhairean fillte</a> air an cruthachadh à gnìomhairean eile, gu cumanta le ro-leasachan eg. <m>ath-sgrìobh</m>
+        <en>rewrite</en>, <m>craobh-sgaoil</m>
+        <en>broadcast</en>.</li>
+      <li>Chan eil <a href="?xx=verbs/simple_verbs">gnìomhairean sìmplidh</a> air an cruthachadh à faclan eile eg. <m>cuir</m>
+        <en>put</en>, <m>fosgail</m>
+        <en>open</en>.</li>
+    </ul>
+  </p>-->
+  </module>
+  <module id="forms">
+    <h lang="en">forms</h>
+    <h lang="gd">...</h>
+    <p lang="en">Verbs have <u>mood</u> – every verb form is either <b>indicative</b> or
+        <b>imperative</b>.</p>
+    <p lang="gd">Tha <u>modh</u> aig gnìomhairean – tha gach gnìomhair <b>taisbeanach</b> no
+        <b>àithneach</b>.</p>
+
+    <module id="indicative">
+      <h lang="en">indicative</h>
+      <h lang="gd">...</h>
+      <p lang="en">Indicative verbs are conjugated for <u>tense</u>, <u>status</u> and <u>voice</u>
+        - <ul>
+          <li>Every indicative verb form is either <b>past</b>, <b>future</b>, <b>conditional</b> or
+              <b>present</b>.</li>
+          <li>Every indicative verb form is either <b>independent</b>, <b>dependent</b>, or
+              <b>relative</b>.</li>
+          <li>Every indicative verb form is either <b>active</b> or <b>passive</b>.</li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <!--<p lang="gd">Tha <u>tràth</u>, <u>inbhe</u> agus <u>guth</u> aig gnìomhairean taisbeanach <ul>
+        <li>Every indicative verb form is either <b>past</b>, <b>future</b>, <b>conditional</b> or <b>present</b>.
+          </li>
+        <li>Every indicative verb form is either <b>independent</b>, <b>dependent</b>, or <b>relative</b>.
+          </li>
+        <li>Every indicative verb form is either <b>active</b> or <b>passive</b>.
+          </li>
+      </ul>
+    </p>-->
+      <module id="past_indicative">
+        <h lang="en">past</h>
+        <h lang="gd">...</h>
+        <p lang="en">The <u>past stem</u> of a verb is formed by <u>leniting</u> the verbal root,
+          eg. <b>cuir</b> → <m>chuir</m>. If the resulting form starts with a vowel, then it is
+          prefixed with <b>dh’</b>, e.g. <b>ith</b> → <m>dh’ith</m>, <b>fosgail</b> →
+            <m>dh’fhosgail</m>.</p>
+        <p lang="gd">...</p>
+        <p lang="en">The <u>past independent active</u> and <u>past relative active</u> forms of a
+          verb are identical to the past stem, eg. <b>cuir</b> → (a) <m>chuir</m>.</p>
+        <p lang="gd">...</p>
+        <p lang="en">The <u>past independent passive</u> and <u>past relative passive</u> forms of a
+          verb are created by adding the suffix <b>-(e)adh</b> to the past stem, eg. <b>cuir</b> →
+            <m>chuireadh</m>, <b>ith</b> → <m>dh’itheadh</m>. Roots ending in <b>-ail</b>,
+            <b>-air</b>, <b>-in(n)</b> are subject to syncope eg. <b>fosgail</b> →
+            <m>dh’fhosgladh</m>.</p>
+        <p lang="gd">...</p>
+        <p lang="en">The <u>past dependent</u> forms of a verb are created by prefixing the particle
+            <b>do</b> to the corresponding past independent form, eg. <b>cuir</b> → cha/an/nach
+            <m>do chuir</m> (active), cha/an/nach <m>do chuireadh</m> (passive); <b>ith</b> →
+          cha/an/nach <m>do dh’ith</m> (active), cha/an/nach <m>do dh’itheadh</m> (passive).</p>
+        <p lang="gd">...</p>
+        <p lang="en"><note>In older writings, dependent forms in <b>do dh’</b> are often simply
+              <b>d’</b> eg. <b>d’òl(adh)</b> instead of <b>do dh’òl(adh)</b>; <b>d’fhosgail</b>,
+              <b>d’fhosgladh</b> instead of <b>do dh’fhosgail</b>, <b>do
+          dh’fhosgladh</b>.</note></p>
+        <p lang="gd">...</p>
+      </module>
+      <module id="future_indicative">
+        <h lang="en">future</h>
+        <h lang="gd">...</h>
+        <p lang="en">The <u>future independent active</u> form of a verb is created by adding the
+          suffix <b>-(a)idh</b> to the verbal root, eg. <b>cuir</b> → <m>cuiridh</m>. Roots ending
+          in <b>-ail</b>, <b>-air</b>, <b>-in(n)</b> are subject to syncope eg. <b>fosgail</b> →
+            <m>fosglaidh</m>.</p>
+        <p lang="gd">...</p>
+        <p lang="en">The <u>future relative active</u> form is created by adding the suffix
+            <b>-(e)as</b> to the (lenited) verbal root, eg. <b>cuir</b> → a <m>chuireas</m>. Again,
+          roots ending in <b>-ail</b>, <b>-air</b>, <b>-in(n)</b> are subject to syncope eg.
+            <b>fosgail</b> → a dh’<m>fhosglas</m>.</p>
+        <p lang="gd">...</p>
+        <p lang="en">The <u>future dependent active</u> form of a verb is identical to the verbal
+          root, eg. <b>cuir</b> → cha <m>chuir</m>, an/nach <m>cuir</m>.</p>
+        <p lang="gd">...</p>
+        <p lang="en">The <u>future passive</u> forms are created by adding the suffix <b>-(e)ar</b>
+          to the verbal root, eg. <b>cuir</b> → <m>cuirear</m> (independent), a <m>chuirear</m>
+          (relative), cha <m>chuirear</m>, an/nach <m>cuirear</m> (dependent). Again, roots ending
+          in <b>-ail</b>, <b>-air</b>, <b>-in(n)</b> are subject to syncope eg. <b>fosgail</b> →
+            <m>fosglar</m>.</p>
+        <p lang="gd">...</p>
+      </module>
+      <module id="conditional_indicative">
+        <h lang="en">conditional</h>
+        <h lang="gd">...</h>
+        <p lang="en">The <u>conditional dependent active</u> forms of a verb are created by adding
+          one of the conditional suffixes to the verbal root – <ul>
+            <li><b>-(a)inn</b> (first-person singular) eg. <b>cuir</b> → cha <m>chuirinn</m>,
+              an/nach <m>cuirinn</m>.</li>
+            <li><b>-(e)amaid</b> (first-person plural) eg. <b>cuir</b> → cha <m>chuireamaid</m>,
+              an/nach <m>cuireamaid</m>.</li>
+            <li><b>-(e)adh</b> (other) eg. <b>cuir</b> → cha <m>chuireadh</m>, an/nach
+                <m>cuireadh</m>.</li>
+          </ul> Note that roots ending in <b>-ail</b>, <b>-air</b>, <b>-in(n)</b> are subject to
+          syncope eg. <b>fosgail</b> → <m>fosglainn</m>, <m>fosglamaid</m>, <m>fosgladh</m>.</p>
+        <p lang="gd">...</p>
+        <p lang="en">The <u>conditional dependent passive</u> form of a verb is created by adding
+          the suffix <b>-te</b> to the verbal root eg. <b>cuir</b> → cha <m>chuirte</m>, an/nach
+            <m>cuirte</m>. The same suffix is used even if the verb ends in a <u>broad</u> consonant
+          eg. <b>òl</b> → chan/an/nach <m>òlte</m>.</p>
+        <p lang="gd">...</p>
+        <p lang="en">The <u>conditional independent and relative</u> forms of a verbs are created by
+          leniting the corresponding conditional dependent form eg. <b>cuir</b> → (a)
+            <m>chuirinn</m> (first-person singular), (a) <m>chuireamaid</m> (first-person plural),
+          (a) <m>chuireadh</m> (other active), (a) <m>chuirte</m> (passive). If the resulting form
+          starts with a vowel, then it is prefixed with <b>dh’</b>, e.g. <b>ith</b> → (a)
+            <m>dh’ithinn</m>, (a) <m>dh’itheamaid</m>, (a) <m>dh’itheadh</m>, (a) <m>dh’ithte</m>;
+            <b>fosgail</b> → (a) <m>dh’fhosglainn</m>, (a) <m>dh’fhosglamaid</m>, (a)
+            <m>dh’fhosgladh</m>, (a) <m>dh’fhosgailte</m>.</p>
+        <p lang="gd">...</p>
+        <p lang="en"><note>In older writings, conditional passive forms in <b>-teadh</b> are often
+            found eg. <b>c(h)uirteadh</b>, <b>(dh’)òlteadh</b>. With verbal roots ending in a broad
+            consonant, the spelling was sometimes altered to preserve the slender-to-slender
+            spelling rule eg. <b>òl</b> → chan/an/nach <b>òilte(adh)</b>. Alternatively, the broad
+            suffix <b>-tadh</b> was sometimes used eg. <b>òl</b> → chan/an/nach
+            <b>òltadh</b>.</note></p>
+        <p lang="gd">...</p>
+      </module>
+    </module>
+    <module id="imperative">
+      <h lang="en">imperative</h>
+      <h lang="gd">...</h>
+      <p lang="en">Imperative verbs are conjugated for <u>voice</u>, <u>person</u> and <u>number</u>
+        – <ul>
+          <li>Every imperative verb is either <b>active</b> or <b>passive</b>.</li>
+          <li>Every active imperative verb is either <b>first-person</b>, <b>second-person</b> or
+              <b>third-person</b>.</li>
+          <li>Every first- or second- person active imperative verb is either <b>singular</b> or
+              <b>plural</b>.</li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <!--<p lang="gd">Tha <u>guth</u>, <u>pearsa</u> agus <u>àireamh</u> aig gnìomhairean àithneach – <ul>
+        <li>Every imperative verb is either <b>active</b> or <b>passive</b>.
+          </li>
+        <li>Every active imperative verb is either <b>first-person</b>, <b>second-person</b> or <b>third-person</b>.
+          </li>
+        <li>Every first- or second- person active imperative verb is either <b>singular</b> or <b>plural</b>
+          .</li>
+      </ul>
+    </p>-->
+      <p lang="en">The active imperative forms are conjugated as follows – <ul>
+          <li>The <u>first-person singular active</u> imperative form is created by adding the
+            suffix <b>-(e)am</b> to the verbal root eg. <b>cuir</b> → <m>cuiream</m>.</li>
+          <li>The <u>first-person plural active</u> imperative form is created by adding the suffix
+              <b>-(e)amaid</b> to the verbal root eg. <b>cuir</b> → <m>cuireamaid</m>.</li>
+          <li>The <u>second-person singular active</u> imperative form is identical to the verbal
+            root eg. <b>cuir</b> → <m>cuir</m>.</li>
+          <li>The <u>second-person plural active</u> imperative form is created by adding the suffix
+              <b>-(a)ibh</b> to the verbal root eg. <b>cuir</b> → <m>cuiribh</m>.</li>
+          <li>The <u>third-person active</u> imperative form is created by adding the suffix
+              <b>-(e)adh</b> to the verbal root eg. <b>cuir</b> → <m>cuireadh</m>.</li>
+        </ul> Roots ending in <b>-ail</b>, <b>-air</b>, <b>-in(n)</b> are shortened with each of
+        these suffixes eg. <b>fosgail</b> → <m>fosglam</m>, <m>fosglamaid</m>, <m>fosglaibh</m>,
+          <m>fosgladh</m>.</p>
+      <p lang="gd">...</p>
+      <p lang="en">The <u>passive</u> imperative form is created by adding the suffix <b>-tear</b>
+        to the verbal root eg. <b>cuir</b> → <m>cuirtear</m>, <b>fosgail</b> →
+        <m>fosgailtear</m>.</p>
+      <p lang="gd">...</p>
+    </module>
+    <module id="examples">
+      <h lang="en">examples</h>
+      <h lang="gd">...</h>
+      <module id="aidich">
+        <h lang="en">aidich</h>
+        <h lang="gd">aidich</h>
+        <p lang="en"><ul>
+            <li>past <ul id="aidich-past">
+                <li>active <ul>
+                    <li>independent – <m>dh’aidich</m></li>
+                    <li>relative – a <m>dh’aidich</m></li>
+                    <li>dependent – cha/an/nach <m>do dh’aidich</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>dh’aidicheadh</m></li>
+                    <li>relative – a <m>dh’aidicheadh</m></li>
+                    <li>dependent – cha/an/nach <m>do dh’aidicheadh</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>future <ul id="aidich-future">
+                <li>active <ul>
+                    <li>independent – <m>aidichidh</m></li>
+                    <li>relative – a dh’<m>aidicheas</m></li>
+                    <li>dependent – chan/an/nach <m>aidich</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>aidichear</m></li>
+                    <li>relative – a dh’<m>aidichear</m></li>
+                    <li>dependent – chan/an/nach <m>aidichear</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>conditional <ul id="aidich-conditional">
+                <li>active <ul>
+                    <li>first-person singular <ul>
+                        <li>independent – <m>dh’aidichinn</m></li>
+                        <li>relative – a <m>dh’aidichinn</m></li>
+                        <li>dependent – chan/an/nach <m>aidichinn</m></li>
+                      </ul>
+                    </li>
+                    <li>first-person plural <ul>
+                        <li>independent – <m>dh’aidicheamaid</m></li>
+                        <li>relative – a <m>dh’aidicheamaid</m></li>
+                        <li>dependent – chan/an/nach <m>aidicheamaid</m></li>
+                      </ul>
+                    </li>
+                    <li>second/third-persons <ul>
+                        <li>independent – <m>dh’aidicheadh</m></li>
+                        <li>relative – a <m>dh’aidicheadh</m></li>
+                        <li>dependent – chan/an/nach <m>aidicheadh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>dh’aidichte</m></li>
+                    <li>relative – a <m>dh’aidichte</m></li>
+                    <li>dependent – chan/an/nach <m>aidichte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>independent <ul id="aidich-independent">
+                <li>past <ul>
+                    <li>active – <m>dh’aidich</m></li>
+                    <li>passive – <m>dh’aidicheadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – <m>aidichidh</m></li>
+                    <li>passive – <m>aidichear</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – <m>dh’aidichinn</m></li>
+                        <li>first-person plural – <m>dh’aidicheamaid</m></li>
+                        <li>second/third-persons – <m>dh’aidicheadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – <m>dh’aidichte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>relative <ul id="aidich-relative">
+                <li>past <ul>
+                    <li>active – a <m>dh’aidich</m></li>
+                    <li>passive – a <m>dh’aidicheadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – a dh’<m>aidicheas</m></li>
+                    <li>passive – a dh’<m>aidichear</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – a <m>dh’aidichinn</m></li>
+                        <li>first-person plural – a <m>dh’aidicheamaid</m></li>
+                        <li>second/third-persons – a <m>dh’aidicheadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – a <m>dh’aidichte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>dependent <ul id="aidich-dependent">
+                <li>past <ul>
+                    <li>active – cha/an/nach <m>do dh’aidich</m></li>
+                    <li>passive – cha/an/nach <m>do dh’aidicheadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – chan/an/nach <m>aidich</m></li>
+                    <li>passive – chan/an/nach <m>aidichear</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – chan/an/nach <m>aidichinn</m></li>
+                        <li>first-person plural – chan/an/nach <m>aidicheamaid</m></li>
+                        <li>second/third-persons – chan/an/nach <m>aidicheadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – chan/an/nach <m>aidichte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>active <ul id="aidich-active">
+                <li>past <ul>
+                    <li>independent – <m>dh’aidich</m></li>
+                    <li>relative – a <m>dh’aidich</m></li>
+                    <li>dependent – cha/an/nach <m>do dh’aidich</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>aidichidh</m></li>
+                    <li>relative – a dh’<m>aidicheas</m></li>
+                    <li>dependent – chan/an/nach <m>aidich</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent <ul>
+                        <li>first-person singular – <m>dh’aidichinn</m></li>
+                        <li>first-person plural – <m>dh’aidicheamaid</m></li>
+                        <li>second/third-persons – <m>dh’aidicheadh</m></li>
+                      </ul>
+                    </li>
+                    <li>relative <ul>
+                        <li>first-person singular – a <m>dh’aidichinn</m></li>
+                        <li>first-person plural – a <m>dh’aidicheamaid</m></li>
+                        <li>second/third-persons – a <m>dh’aidicheadh</m></li>
+                      </ul>
+                    </li>
+                    <li>dependent <ul>
+                        <li>first-person singular – chan/an/nach <m>aidichinn</m></li>
+                        <li>first-person plural – chan/an/nach <m>aidicheamaid</m></li>
+                        <li>second/third-persons – chan/an/nach <m>aidicheadh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>passive <ul id="aidich-passive">
+                <li>past <ul>
+                    <li>independent – <m>dh’aidicheadh</m></li>
+                    <li>relative – a <m>dh’aidicheadh</m></li>
+                    <li>dependent – cha/an/nach <m>do dh’aidicheadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>aidichear</m></li>
+                    <li>relative – a dh’<m>aidichear</m></li>
+                    <li>dependent – chan/an/nach <m>aidichear</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent – <m>dh’aidichte</m></li>
+                    <li>relative – a <m>dh’aidichte</m></li>
+                    <li>dependent – chan/an/nach <m>aidichte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>imperative <ul id="aidich-imperative">
+                <li>independent <ul>
+                    <li>first-person singular – <m>aidicheam</m>!</li>
+                    <li>second-person singular – <m>aidich</m>!</li>
+                    <li>first-person plural – <m>aidicheamaid</m>!</li>
+                    <li>second-person plural – <m>aidichibh</m>!</li>
+                    <li>third-person – <m>aidicheadh</m>!</li>
+                    <li>passive – <m>aidichtear</m>!</li>
+                  </ul>
+                </li>
+                <li>dependent <ul>
+                    <li>first-person singular – na h-<m>aidicheam</m>!</li>
+                    <li>second-person singular – na h-<m>aidich</m>!</li>
+                    <li>first-person plural – na h-<m>aidicheamaid</m>!</li>
+                    <li>second-person plural – na h-<m>aidichibh</m>!</li>
+                    <li>third-person – na h-<m>aidicheadh</m>!</li>
+                    <li>passive – na h-<m>aidichtear</m>!</li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>verbal noun – <m>aideachadh</m></li>
+          </ul></p>
+        <p lang="gd">...</p>
+      </module>
+      <module id="bac">
+        <h lang="en">bac</h>
+        <h lang="gd">bac</h>
+        <p lang="en"><ul>
+            <li>past <ul id="bac-past">
+                <li>active <ul>
+                    <li>independent – <m>bhac</m></li>
+                    <li>relative – a <m>bhac</m></li>
+                    <li>dependent – cha/an/nach <m>do bhac</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>bhacadh</m></li>
+                    <li>relative – a <m>bhacadh</m></li>
+                    <li>dependent – cha/an/nach <m>do bhacadh</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>future <ul id="bac-future">
+                <li>active <ul>
+                    <li>independent – <m>bacaidh</m></li>
+                    <li>relative – a <m>bhacas</m></li>
+                    <li>dependent – cha <m>bhac</m>, am/nach <m>bac</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>bacar</m></li>
+                    <li>relative – a <m>bhacar</m></li>
+                    <li>dependent – cha <m>bhacar</m>, am/nach <m>bacar</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>conditional <ul id="bac-conditional">
+                <li>active <ul>
+                    <li>first-person singular <ul>
+                        <li>independent – <m>bhacainn</m></li>
+                        <li>relative – a <m>bhacainn</m></li>
+                        <li>dependent – cha <m>bhacainn</m>, am/nach <m>bacainn</m></li>
+                      </ul>
+                    </li>
+                    <li>first-person plural <ul>
+                        <li>independent – <m>bhacamaid</m></li>
+                        <li>relative – a <m>bhacamaid</m></li>
+                        <li>dependent – cha <m>bhacamaid</m>, am/nach <m>bacamaid</m></li>
+                      </ul>
+                    </li>
+                    <li>second/third-persons <ul>
+                        <li>independent – <m>bhacadh</m></li>
+                        <li>relative – a <m>bhacadh</m></li>
+                        <li>dependent – cha <m>bhacadh</m>, am/nach <m>bacadh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>bhacte</m></li>
+                    <li>relative – a <m>bhacte</m></li>
+                    <li>dependent – cha <m>bhacte</m>, am/nach <m>bacte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>independent <ul id="bac-independent">
+                <li>past <ul>
+                    <li>active – <m>bhac</m></li>
+                    <li>passive – <m>bhacadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – <m>bacaidh</m></li>
+                    <li>passive – <m>bacar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – <m>bhacainn</m></li>
+                        <li>first-person plural – <m>bhacamaid</m></li>
+                        <li>second/third-persons – <m>bhacadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – <m>bhacte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>relative <ul id="bac-relative">
+                <li>past <ul>
+                    <li>active – a <m>bhac</m></li>
+                    <li>passive – a <m>bhacadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – a <m>bhacas</m></li>
+                    <li>passive – a <m>bhacar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – a <m>bhacainn</m></li>
+                        <li>first-person plural – a <m>bhacamaid</m></li>
+                        <li>second/third-persons – a <m>bhacadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – a <m>bhacte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>dependent <ul id="bac-dependent">
+                <li>past <ul>
+                    <li>active – cha/am/nach <m>do bhac</m></li>
+                    <li>passive – cha/am/nach <m>do bhacadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – cha <m>bhac</m>, am/nach <m>bac</m></li>
+                    <li>passive – cha <m>bhacar</m>, am/nach <m>bacar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – cha <m>bhacainn</m>, am/nach <m>bacainn</m></li>
+                        <li>first-person plural – cha <m>bhacamaid</m>, am/nach <m>bacamaid</m></li>
+                        <li>second/third-persons – cha <m>bhacadh</m>, am/nach <m>bacadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – cha <m>bhacte</m>, am/nach <m>bacte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>active <ul id="bac-active">
+                <li>past <ul>
+                    <li>independent – <m>bhac</m></li>
+                    <li>relative – a <m>bhac</m></li>
+                    <li>dependent – cha/am/nach <m>do bhac</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>bacaidh</m></li>
+                    <li>relative – a <m>bhacas</m></li>
+                    <li>dependent – cha <m>bhac</m>, am/nach <m>bac</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent <ul>
+                        <li>first-person singular – <m>bhacainn</m></li>
+                        <li>first-person plural – <m>bhacamaid</m></li>
+                        <li>second/third-persons – <m>bhacadh</m></li>
+                      </ul>
+                    </li>
+                    <li>relative <ul>
+                        <li>first-person singular – a <m>bhacainn</m></li>
+                        <li>first-person plural – a <m>bhacamaid</m></li>
+                        <li>second/third-persons – a <m>bhacadh</m></li>
+                      </ul>
+                    </li>
+                    <li>dependent <ul>
+                        <li>first-person singular – cha <m>bhacainn</m>, am/nach <m>bacainn</m></li>
+                        <li>first-person plural – cha <m>bhacamaid</m>, am/nach <m>bacamaid</m></li>
+                        <li>second/third-persons – cha <m>bhacadh</m>, am/nach <m>bacadh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>passive <ul id="bac-passive">
+                <li>past <ul>
+                    <li>independent – <m>bhacadh</m></li>
+                    <li>relative – a <m>bhacadh</m></li>
+                    <li>dependent – cha/am/nach <m>do bhacadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>bacar</m></li>
+                    <li>relative – a <m>bhacar</m></li>
+                    <li>dependent – cha <m>bhacar</m>, am/nach <m>bacar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent – <m>bhacte</m></li>
+                    <li>relative – a <m>bhacte</m></li>
+                    <li>dependent – cha <m>bhacte</m>, am/nach <m>bacte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>imperative <ul id="bac-imperative">
+                <li>independent <ul>
+                    <li>first-person singular – <m>bacam</m>!</li>
+                    <li>second-person singular – <m>bac</m>!</li>
+                    <li>first-person plural – <m>bacamaid</m>!</li>
+                    <li>second-person plural – <m>bacaibh</m>!</li>
+                    <li>third-person – <m>bacadh</m>!</li>
+                    <li>passive – <m>bactear</m>!</li>
+                  </ul>
+                </li>
+                <li>dependent <ul>
+                    <li>first-person singular – na <m>bacam</m>!</li>
+                    <li>second-person singular – na <m>bac</m>!</li>
+                    <li>first-person plural – na <m>bacamaid</m>!</li>
+                    <li>second-person plural – na <m>bacaibh</m>!</li>
+                    <li>third-person – na <m>bacadh</m>!</li>
+                    <li>passive – na <m>bactear</m>!</li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>verbal noun – <m>bacadh</m></li>
+          </ul></p>
+        <p lang="gd">...</p>
+      </module>
+      <module id="cuir">
+        <h lang="en">cuir</h>
+        <h lang="gd">cuir</h>
+        <p lang="en"><ul>
+            <li>past <ul id="cuir-past">
+                <li>active <ul>
+                    <li>independent – <m>chuir</m></li>
+                    <li>relative – a <m>chuir</m></li>
+                    <li>dependent – cha/an/nach <m>do chuir</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>chuireadh</m></li>
+                    <li>relative – a <m>chuireadh</m></li>
+                    <li>dependent – cha/an/nach <m>do chuireadh</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>future <ul id="cuir-future">
+                <li>active <ul>
+                    <li>independent – <m>cuiridh</m></li>
+                    <li>relative – a <m>chuireas</m></li>
+                    <li>dependent – cha <m>chuir</m>, an/nach <m>cuir</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>cuirear</m></li>
+                    <li>relative – a <m>chuirear</m></li>
+                    <li>dependent – cha <m>chuirear</m>, an/nach <m>cuirear</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>conditional <ul id="cuir-conditional">
+                <li>active <ul>
+                    <li>first-person singular <ul>
+                        <li>independent – <m>chuirinn</m></li>
+                        <li>relative – a <m>chuirinn</m></li>
+                        <li>dependent – cha <m>chuirinn</m>, an/nach <m>cuirinn</m></li>
+                      </ul>
+                    </li>
+                    <li>first-person plural <ul>
+                        <li>independent – <m>chuireamaid</m></li>
+                        <li>relative – a <m>chuireamaid</m></li>
+                        <li>dependent – cha <m>chuireamaid</m>, an/nach <m>cuireamaid</m></li>
+                      </ul>
+                    </li>
+                    <li>second/third-persons <ul>
+                        <li>independent – <m>chuireadh</m></li>
+                        <li>relative – a <m>chuireadh</m></li>
+                        <li>dependent – cha <m>chuireadh</m>, an/nach <m>cuireadh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>chuirte</m></li>
+                    <li>relative – a <m>chuirte</m></li>
+                    <li>dependent – cha <m>chuirte</m>, an/nach <m>cuirte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>independent <ul id="cuir-independent">
+                <li>past <ul>
+                    <li>active – <m>chuir</m></li>
+                    <li>passive – <m>chuireadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – <m>cuiridh</m></li>
+                    <li>passive – <m>cuirear</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – <m>chuirinn</m></li>
+                        <li>first-person plural – <m>chuireamaid</m></li>
+                        <li>second/third-persons – <m>chuireadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – <m>chuirte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>relative <ul id="cuir-relative">
+                <li>past <ul>
+                    <li>active – a <m>chuir</m></li>
+                    <li>passive – a <m>chuireadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – a <m>chuireas</m></li>
+                    <li>passive – a <m>chuirear</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – a <m>chuirinn</m></li>
+                        <li>first-person plural – a <m>chuireamaid</m></li>
+                        <li>second/third-persons – a <m>chuireadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – a <m>chuirte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>dependent <ul id="cuir-dependent">
+                <li>past <ul>
+                    <li>active – cha/an/nach <m>do chuir</m></li>
+                    <li>passive – cha/an/nach <m>do chuireadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – cha <m>chuir</m>, an/nach <m>cuir</m></li>
+                    <li>passive – cha <m>chuirear</m>, an/nach <m>cuirear</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – cha <m>chuirinn</m>, an/nach <m>cuirinn</m></li>
+                        <li>first-person plural – cha <m>chuireamaid</m>, an/nach
+                          <m>cuireamaid</m></li>
+                        <li>second/third-persons – cha <m>chuireadh</m>, an/nach
+                          <m>cuireadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – cha <m>chuirte</m>, an/nach <m>cuirte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>active <ul id="cuir-active">
+                <li>past <ul>
+                    <li>independent – <m>chuir</m></li>
+                    <li>relative – a <m>chuir</m></li>
+                    <li>dependent – cha/an/nach <m>do chuir</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>cuiridh</m></li>
+                    <li>relative – a <m>chuireas</m></li>
+                    <li>dependent – cha <m>chuir</m>, an/nach <m>cuir</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent <ul>
+                        <li>first-person singular – <m>chuirinn</m></li>
+                        <li>first-person plural – <m>chuireamaid</m></li>
+                        <li>second/third-persons – <m>chuireadh</m></li>
+                      </ul>
+                    </li>
+                    <li>relative <ul>
+                        <li>first-person singular – a <m>chuirinn</m></li>
+                        <li>first-person plural – a <m>chuireamaid</m></li>
+                        <li>second/third-persons – a <m>chuireadh</m></li>
+                      </ul>
+                    </li>
+                    <li>dependent <ul>
+                        <li>first-person singular – cha <m>chuirinn</m>, an/nach <m>cuirinn</m></li>
+                        <li>first-person plural – cha <m>chuireamaid</m>, an/nach
+                          <m>cuireamaid</m></li>
+                        <li>second/third-persons – cha <m>chuireadh</m>, an/nach
+                          <m>cuireadh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>passive <ul id="cuir-passive">
+                <li>past <ul>
+                    <li>independent – <m>chuireadh</m></li>
+                    <li>relative – a <m>chuireadh</m></li>
+                    <li>dependent – cha/an/nach <m>do chuireadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>cuirear</m></li>
+                    <li>relative – a <m>chuirear</m></li>
+                    <li>dependent – cha <m>chuirear</m>, an/nach <m>cuirear</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent – <m>chuirte</m></li>
+                    <li>relative – a <m>chuirte</m></li>
+                    <li>dependent – cha <m>chuirte</m>, an/nach <m>cuirte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>imperative <ul id="cuir-imperative">
+                <li>independent <ul>
+                    <li>first-person singular – <m>cuiream</m>!</li>
+                    <li>second-person singular – <m>cuir</m>!</li>
+                    <li>first-person plural – <m>cuireamaid</m>!</li>
+                    <li>second-person plural – <m>cuiribh</m>!</li>
+                    <li>third-person – <m>cuireadh</m>!</li>
+                    <li>passive – <m>cuirtear</m>!</li>
+                  </ul>
+                </li>
+                <li>dependent <ul>
+                    <li>first-person singular – na <m>cuiream</m>!</li>
+                    <li>second-person singular – na <m>cuir</m>!</li>
+                    <li>first-person plural – na <m>cuireamaid</m>!</li>
+                    <li>second-person plural – na <m>cuiribh</m>!</li>
+                    <li>third-person – na <m>cuireadh</m>!</li>
+                    <li>passive – na <m>cuirtear</m>!</li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>verbal noun – <m>cur</m></li>
+          </ul></p>
+        <p lang="gd">..</p>
+      </module>
+      <module id="diult">
+        <h lang="en">diùlt <en>refuse, reject</en></h>
+        <h lang="gd">diùlt</h>
+        <p lang="en"><ul>
+            <li>past <ul id="diult-past">
+                <li>active <ul>
+                    <li>independent – <m>dhiùlt</m></li>
+                    <li>relative – a <m>dhiùlt</m></li>
+                    <li>dependent – cha/an/nach <m>do dhiùlt</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>dhiùltadh</m></li>
+                    <li>relative – a <m>dhiùltadh</m></li>
+                    <li>dependent – cha/an/nach <m>do dhiùltadh</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>future <ul id="diult-future">
+                <li>active <ul>
+                    <li>independent – <m>diùltaidh</m></li>
+                    <li>relative – a <m>dhiùltas</m></li>
+                    <li>dependent – cha <m>dhiùlt</m>, am/nach <m>diùlt</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>diùltar</m></li>
+                    <li>relative – a <m>dhiùltar</m></li>
+                    <li>dependent – cha <m>dhiùltar</m>, am/nach <m>diùltar</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>conditional <ul id="diult-conditional">
+                <li>active <ul>
+                    <li>first-person singular <ul>
+                        <li>independent – <m>dhiùltainn</m></li>
+                        <li>relative – a <m>dhiùltainn</m></li>
+                        <li>dependent – cha <m>dhiùltainn</m>, am/nach <m>diùltainn</m></li>
+                      </ul>
+                    </li>
+                    <li>first-person plural <ul>
+                        <li>independent – <m>dhiùltamaid</m></li>
+                        <li>relative – a <m>dhiùltamaid</m></li>
+                        <li>dependent – cha <m>dhiùltamaid</m>, am/nach <m>diùltamaid</m></li>
+                      </ul>
+                    </li>
+                    <li>second/third-persons <ul>
+                        <li>independent – <m>dhiùltadh</m></li>
+                        <li>relative – a <m>dhiùltadh</m></li>
+                        <li>dependent – cha <m>dhiùltadh</m>, am/nach <m>diùltadh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>dhiùlte</m></li>
+                    <li>relative – a <m>dhiùlte</m></li>
+                    <li>dependent – cha <m>dhiùlte</m>, am/nach <m>diùlte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>independent <ul id="diult-independent">
+                <li>past <ul>
+                    <li>active – <m>dhiùlt</m></li>
+                    <li>passive – <m>dhiùltadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – <m>diùltaidh</m></li>
+                    <li>passive – <m>diùltar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – <m>dhiùltainn</m></li>
+                        <li>first-person plural – <m>dhiùltamaid</m></li>
+                        <li>second/third-persons – <m>dhiùltadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – <m>dhiùlte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>relative <ul id="diult-relative">
+                <li>past <ul>
+                    <li>active – a <m>dhiùlt</m></li>
+                    <li>passive – a <m>dhiùltadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – a <m>dhiùltas</m></li>
+                    <li>passive – a <m>dhiùltar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – a <m>dhiùltainn</m></li>
+                        <li>first-person plural – a <m>dhiùltamaid</m></li>
+                        <li>second/third-persons – a <m>dhiùltadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – a <m>dhiùlte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>dependent <ul id="diult-dependent">
+                <li>past <ul>
+                    <li>active – cha/am/nach <m>do dhiùlt</m></li>
+                    <li>passive – cha/am/nach <m>do dhiùltadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – cha <m>dhiùlt</m>, am/nach <m>diùlt</m></li>
+                    <li>passive – cha <m>dhiùltar</m>, am/nach <m>diùltar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – cha <m>dhiùltainn</m>, am/nach
+                          <m>diùltainn</m></li>
+                        <li>first-person plural – cha <m>dhiùltamaid</m>, am/nach
+                          <m>diùltamaid</m></li>
+                        <li>second/third-persons – cha <m>dhiùltadh</m>, am/nach
+                          <m>diùltadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – cha <m>dhiùlte</m>, am/nach <m>diùlte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>active <ul id="diult-active">
+                <li>past <ul>
+                    <li>independent – <m>dhiùlt</m></li>
+                    <li>relative – a <m>dhiùlt</m></li>
+                    <li>dependent – cha/am/nach <m>do dhiùlt</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>diùltaidh</m></li>
+                    <li>relative – a <m>dhiùltas</m></li>
+                    <li>dependent – cha <m>dhiùlt</m>, am/nach <m>diùlt</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent <ul>
+                        <li>first-person singular – <m>dhiùltainn</m></li>
+                        <li>first-person plural – <m>dhiùltamaid</m></li>
+                        <li>second/third-persons – <m>dhiùltadh</m></li>
+                      </ul>
+                    </li>
+                    <li>relative <ul>
+                        <li>first-person singular – a <m>dhiùltainn</m></li>
+                        <li>first-person plural – a <m>dhiùltamaid</m></li>
+                        <li>second/third-persons – a <m>dhiùltadh</m></li>
+                      </ul>
+                    </li>
+                    <li>dependent <ul>
+                        <li>first-person singular – cha <m>dhiùltainn</m>, am/nach
+                          <m>diùltainn</m></li>
+                        <li>first-person plural – cha <m>dhiùltamaid</m>, am/nach
+                          <m>diùltamaid</m></li>
+                        <li>second/third-persons – cha <m>dhiùltadh</m>, am/nach
+                          <m>diùltadh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>passive <ul id="diult-passive">
+                <li>past <ul>
+                    <li>independent – <m>dhiùltadh</m></li>
+                    <li>relative – a <m>dhiùltadh</m></li>
+                    <li>dependent – cha/am/nach <m>do dhiùltadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>diùltar</m></li>
+                    <li>relative – a <m>dhiùltar</m></li>
+                    <li>dependent – cha <m>dhiùltar</m>, am/nach <m>diùltar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent – <m>dhiùlte</m></li>
+                    <li>relative – a <m>dhiùlte</m></li>
+                    <li>dependent – cha <m>dhiùlte</m>, am/nach <m>diùlte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>imperative <ul id="diult-imperative">
+                <li>independent <ul>
+                    <li>first-person singular – <m>diùltam</m>!</li>
+                    <li>second-person singular – <m>diùlt</m>!</li>
+                    <li>first-person plural – <m>diùltamaid</m>!</li>
+                    <li>second-person plural – <m>diùltaibh</m>!</li>
+                    <li>third-person – <m>diùltadh</m>!</li>
+                    <li>passive – <m>diùltear</m>!</li>
+                  </ul>
+                </li>
+                <li>dependent <ul>
+                    <li>first-person singular – na <m>diùltam</m>!</li>
+                    <li>second-person singular – na <m>diùlt</m>!</li>
+                    <li>first-person plural – na <m>diùltamaid</m>!</li>
+                    <li>second-person plural – na <m>diùltaibh</m>!</li>
+                    <li>third-person – na <m>diùltadh</m>!</li>
+                    <li>passive – na <m>diùltear</m>!</li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>verbal noun – <m>diùltadh</m></li>
+          </ul></p>
+        <p lang="gd">...</p>
+      </module>
+      <module id="eigh">
+        <h lang="en">èigh <en>shout, call</en></h>
+        <h lang="gd">èigh</h>
+        <p lang="en"><ul>
+            <li>past <ul id="eigh-past">
+                <li>active <ul>
+                    <li>independent – <m>dh’èigh</m></li>
+                    <li>relative – a <m>dh’èigh</m></li>
+                    <li>dependent – cha/an/nach <m>do dh’èigh</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>dh’èigheadh</m></li>
+                    <li>relative – a <m>dh’èigheadh</m></li>
+                    <li>dependent – cha/an/nach <m>do dh’èigheadh</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>future <ul id="eigh-future">
+                <li>active <ul>
+                    <li>independent – <m>èighidh</m></li>
+                    <li>relative – a <m>dh’èigheas</m></li>
+                    <li>dependent – chan/an/nach <m>èigh</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>èighear</m></li>
+                    <li>relative – a <m>dh’èighear</m></li>
+                    <li>dependent – chan/an/nach <m>èighear</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>conditional <ul id="eigh-conditional">
+                <li>active <ul>
+                    <li>first-person singular <ul>
+                        <li>independent – <m>èighinn</m></li>
+                        <li>relative – a <m>dh’èighinn</m></li>
+                        <li>dependent – chan/an/nach <m>èighinn</m></li>
+                      </ul>
+                    </li>
+                    <li>first-person plural <ul>
+                        <li>independent – <m>dh’èigheamaid</m></li>
+                        <li>relative – a <m>dh’èigheamaid</m></li>
+                        <li>dependent – chan/an/nach <m>èigheamaid</m></li>
+                      </ul>
+                    </li>
+                    <li>second/third-persons <ul>
+                        <li>independent – <m>dh’èigheadh</m></li>
+                        <li>relative – a <m>dh’èigheadh</m></li>
+                        <li>dependent – chan/an/nach <m>èigheadh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>dh’èighte</m></li>
+                    <li>relative – a <m>dh’èighte</m></li>
+                    <li>dependent – chan/an/nach <m>èighte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>independent <ul id="eigh-independent">
+                <li>past <ul>
+                    <li>active – <m>dh’èigh</m></li>
+                    <li>passive – <m>dh’èigheadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – <m>èighidh</m></li>
+                    <li>passive – <m>èighear</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – <m>dh’èighinn</m></li>
+                        <li>first-person plural – <m>dh’èigheamaid</m></li>
+                        <li>second/third-persons – <m>dh’èigheadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – <m>dh’èighte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>relative <ul id="eigh-relative">
+                <li>past <ul>
+                    <li>active – a <m>dh’èigh</m></li>
+                    <li>passive – a <m>dh’èigheadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – a <m>dh’èigheas</m></li>
+                    <li>passive – a <m>dh’èighear</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – a <m>dh’èighinn</m></li>
+                        <li>first-person plural – a <m>dh’èigheamaid</m></li>
+                        <li>second/third-persons – a <m>dh’èigheadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – a <m>dh’èighte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>dependent <ul id="eigh-dependent">
+                <li>past <ul>
+                    <li>active – cha/an/nach <m>do dh’èigh</m></li>
+                    <li>passive – cha/an/nach <m>do dh’èigheadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – chan/an/nach <m>èigh</m></li>
+                    <li>passive – chan/an/nach <m>èighear</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – chan/an/nach <m>èighinn</m></li>
+                        <li>first-person plural – chan/an/nach <m>èigheamaid</m></li>
+                        <li>second/third-persons – chan/an/nach <m>èigheadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – chan/an/nach <m>èighte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>active <ul id="eigh-active">
+                <li>past <ul>
+                    <li>independent – <m>dh’èigh</m></li>
+                    <li>relative – a <m>dh’èigh</m></li>
+                    <li>dependent – cha/an/nach <m>do dh’èigh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>èighidh</m></li>
+                    <li>relative – a <m>dh’èigheas</m></li>
+                    <li>dependent – chan/an/nach <m>èigh</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent <ul>
+                        <li>first-person singular – <m>dh’èighinn</m></li>
+                        <li>first-person plural – <m>dh’èigheamaid</m></li>
+                        <li>second/third-persons – <m>dh’èigheadh</m></li>
+                      </ul>
+                    </li>
+                    <li>relative <ul>
+                        <li>first-person singular – a <m>dh’èighinn</m></li>
+                        <li>first-person plural – a <m>dhÆèigheamaid</m></li>
+                        <li>second/third-persons – a <m>dh’èigheadh</m></li>
+                      </ul>
+                    </li>
+                    <li>dependent <ul>
+                        <li>first-person singular – chan/an/nach <m>èighinn</m></li>
+                        <li>first-person plural – chan/an/nach <m>èigheamaid</m></li>
+                        <li>second/third-persons – chan/an/nach <m>èigheadh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>passive <ul id="eigh-passive">
+                <li>past <ul>
+                    <li>independent – <m>dh’èigheadh</m></li>
+                    <li>relative – a <m>dh’èigheadh</m></li>
+                    <li>dependent – cha/an/nach <m>do dh’èigheadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>èighear</m></li>
+                    <li>relative – a <m>dh’èighear</m></li>
+                    <li>dependent – chan/an/nach <m>èighear</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent – <m>dh’èighte</m></li>
+                    <li>relative – a <m>dh’èighte</m></li>
+                    <li>dependent – chan/an/nach <m>èighte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>imperative <ul id="eigh-imperative">
+                <li>independent <ul>
+                    <li>first-person singular – <m>èigheam</m>!</li>
+                    <li>second-person singular – <m>èigh</m>!</li>
+                    <li>first-person plural – <m>èigheamaid</m>!</li>
+                    <li>second-person plural – <m>èighibh</m>!</li>
+                    <li>third-person – <m>èigheadh</m>!</li>
+                    <li>passive – <m>èightear</m>!</li>
+                  </ul>
+                </li>
+                <li>dependent <ul>
+                    <li>first-person singular – na <m>h-èigheam</m>!</li>
+                    <li>second-person singular – na <m>h-èigh</m>!</li>
+                    <li>first-person plural – na <m>h-èigheamaid</m>!</li>
+                    <li>second-person plural – na <m>h-èighibh</m>!</li>
+                    <li>third-person – na <m>h-èigheadh</m>!</li>
+                    <li>passive – na <m>h-èightear</m>!</li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>verbal noun – <m>èigheach</m></li>
+          </ul></p>
+        <p lang="gd">..</p>
+      </module>
+      <module id="fosgail">
+        <h lang="en">fosgail</h>
+        <h lang="gd">fosgail</h>
+        <p lang="en"><ul>
+            <li>past <ul id="fosgail-past">
+                <li>active <ul>
+                    <li>independent – <m>dh’fhosgail</m></li>
+                    <li>relative – a <m>dh’fhosgail</m></li>
+                    <li>dependent – cha/an/nach <m>do dh’fhosgail</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>dh’fhosgladh</m></li>
+                    <li>relative – a <m>dh’fhosgladh</m></li>
+                    <li>dependent – cha/an/nach <m>do dh’fhosgladh</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>future <ul id="fosgail-future">
+                <li>active <ul>
+                    <li>independent – <m>fosglaidh</m></li>
+                    <li>relative – a dh’<m>fhosglas</m></li>
+                    <li>dependent – chan/nach <m>fhosgail</m>, am <m>fosgail</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>fosglar</m></li>
+                    <li>relative – a dh’<m>fhosglar</m></li>
+                    <li>dependent – chan/nach <m>fhosglar</m>, am <m>fosglar</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>conditional <ul id="fosgail-conditional">
+                <li>active <ul>
+                    <li>first-person singular <ul>
+                        <li>independent – <m>dh’fhosglainn</m></li>
+                        <li>relative – a <m>dh’fhosglainn</m></li>
+                        <li>dependent – chan/nach <m>fhosglainn</m>, am <m>fosglainn</m></li>
+                      </ul>
+                    </li>
+                    <li>first-person plural <ul>
+                        <li>independent – <m>dh’fhosglamaid</m></li>
+                        <li>relative – a <m>dh’fhosglamaid</m></li>
+                        <li>dependent – chan/nach <m>fhosglamaid</m>, am <m>fosglamaid</m></li>
+                      </ul>
+                    </li>
+                    <li>second/third-persons <ul>
+                        <li>independent – <m>dh’fhosgladh</m></li>
+                        <li>relative – a <m>dh’fhosgladh</m></li>
+                        <li>dependent – chan/nach <m>fhosgladh</m>, am <m>fosgladh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>dh’fhosgailte</m></li>
+                    <li>relative – a <m>dh’fhosgailte</m></li>
+                    <li>dependent – chan/nach <m>fhosgailte</m>, am <m>fosgailte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>independent <ul id="fosgail-independent">
+                <li>past <ul>
+                    <li>active – <m>dh’fhosgail</m></li>
+                    <li>passive – <m>dh’fhosgladh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – <m>fosglaidh</m></li>
+                    <li>passive – <m>fosglar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – <m>dh’fhosglainn</m></li>
+                        <li>first-person plural – <m>dh’fhosglamaid</m></li>
+                        <li>second/third-persons – <m>dh’fhosgladh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – <m>dh’fhosgailte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>relative <ul id="fosgail-relative">
+                <li>past <ul>
+                    <li>active – a <m>dh’fhosgail</m></li>
+                    <li>passive – a <m>dh’fhosgladh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – a dh’<m>fhosglas</m></li>
+                    <li>passive – a dh’<m>fhosglar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – a <m>dh’fhosglainn</m></li>
+                        <li>first-person plural – a <m>dh’fhosglamaid</m></li>
+                        <li>second/third-persons – a <m>dh’fhosgladh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – a <m>dh’fhosgailte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>dependent <ul id="fosgail-dependent">
+                <li>past <ul>
+                    <li>active – cha/an/nach <m>do dh’fhosgail</m></li>
+                    <li>passive – cha/an/nach <m>do dh’fhosgladh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – chan/nach <m>fhosgail</m>, am <m>fosgail</m></li>
+                    <li>passive – chan/nach <m>fhosglar</m>, am <m>fosglar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – chan/nach <m>fhosglainn</m>, am
+                          <m>fosglainn</m></li>
+                        <li>first-person plural – chan/nach <m>fhosglamaid</m>, am
+                          <m>fosglamaid</m></li>
+                        <li>second/third-persons – chan/nach <m>fhosgladh</m>, am
+                          <m>fosgladh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – chan/nach <m>fhosgailte</m>, am <m>fosgailte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>active <ul id="fosgail-active">
+                <li>past <ul>
+                    <li>independent – <m>dh’fhosgail</m></li>
+                    <li>relative – a <m>dh’fhosgail</m></li>
+                    <li>dependent – cha/an/nach <m>do dh’fhosgail</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>fosglaidh</m></li>
+                    <li>relative – a dh’<m>fhosglas</m></li>
+                    <li>dependent – chan/nach <m>fhosgail</m>, am <m>fosgail</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent <ul>
+                        <li>first-person singular – <m>dh’fhosglainn</m></li>
+                        <li>first-person plural – <m>dh’fhosglamaid</m></li>
+                        <li>second/third-persons – <m>dh’fhosgladh</m></li>
+                      </ul>
+                    </li>
+                    <li>relative <ul>
+                        <li>first-person singular – a <m>dh’fhosglainn</m></li>
+                        <li>first-person plural – a <m>dh’fhosglamaid</m></li>
+                        <li>second/third-persons – a <m>dh’fhosgladh</m></li>
+                      </ul>
+                    </li>
+                    <li>dependent <ul>
+                        <li>first-person singular – chan/nach <m>fhosglainn</m>, am
+                          <m>fosglainn</m></li>
+                        <li>first-person plural – chan/nach <m>fhosglamaid</m>, am
+                          <m>fosglamaid</m></li>
+                        <li>second/third-persons – chan/nach <m>fhosgladh</m>, am
+                          <m>fosgladh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>passive <ul id="fosgail-passive">
+                <li>past <ul>
+                    <li>independent – <m>dh’fhosgladh</m></li>
+                    <li>relative – a <m>dh’fhosgladh</m></li>
+                    <li>dependent – cha/an/nach <m>do dh’fhosgladh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>fosglar</m></li>
+                    <li>relative – a dh’<m>fhosglar</m></li>
+                    <li>dependent – chan/nach <m>fhosglar</m>, am <m>fosglar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent – <m>dh’fhosgailte</m></li>
+                    <li>relative – a <m>dh’fhosgailte</m></li>
+                    <li>dependent – chan/nach <m>fhosgailte</m>, am <m>fosgailte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>imperative <ul id="fosgail-imperative">
+                <li>independent <ul>
+                    <li>first-person singular – <m>fosglam</m>!</li>
+                    <li>second-person singular – <m>fosgail</m>!</li>
+                    <li>first-person plural – <m>fosglamaid</m>!</li>
+                    <li>second-person plural – <m>fosglaibh</m>!</li>
+                    <li>third-person – <m>fosgladh</m>!</li>
+                    <li>passive – <m>fosgailtear</m>!</li>
+                  </ul>
+                </li>
+                <li>dependent <ul>
+                    <li>first-person singular – na <m>fosglam</m>!</li>
+                    <li>second-person singular – na <m>fosgail</m>!</li>
+                    <li>first-person plural – na <m>fosglamaid</m>!</li>
+                    <li>second-person plural – na <m>fosglaibh</m>!</li>
+                    <li>third-person – na <m>fosgladh</m>!</li>
+                    <li>passive – na <m>fosgailtear</m>!</li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>verbal noun – <m>fosgladh</m></li>
+          </ul></p>
+        <p lang="gd">...</p>
+      </module>
+      <module id="freagair">
+        <h lang="en">freagair</h>
+        <h lang="gd">freagair</h>
+        <p lang="en"><ul>
+            <li>past <ul id="freagair-past">
+                <li>active <ul>
+                    <li>independent – <m>fhreagair</m></li>
+                    <li>relative – a <m>fhreagair</m></li>
+                    <li>dependent – cha/an/nach <m>do fhreagair</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>fhreagradh</m></li>
+                    <li>relative – a <m>fhreagradh</m></li>
+                    <li>dependent – cha/an/nach <m>do fhreagradh</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>future <ul id="freagair-future">
+                <li>active <ul>
+                    <li>independent – <m>freagraidh</m></li>
+                    <li>relative – a <m>fhreagras</m></li>
+                    <li>dependent – cha/nach <m>fhreagair</m>, am <m>freagair</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>freagrar</m></li>
+                    <li>relative – a <m>fhreagrar</m></li>
+                    <li>dependent – cha/nach <m>fhreagrar</m>, am <m>freagrar</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>conditional <ul id="freagair-conditional">
+                <li>active <ul>
+                    <li>first-person singular <ul>
+                        <li>independent – <m>fhreagrainn</m></li>
+                        <li>relative – a <m>fhreagrainn</m></li>
+                        <li>dependent – cha/nach <m>fhreagrainn</m>, am <m>freagrainn</m></li>
+                      </ul>
+                    </li>
+                    <li>first-person plural <ul>
+                        <li>independent – <m>fhreagramaid</m></li>
+                        <li>relative – a <m>fhreagramaid</m></li>
+                        <li>dependent – cha/nach <m>fhreagramaid</m>, am <m>freagramaid</m></li>
+                      </ul>
+                    </li>
+                    <li>second/third-persons <ul>
+                        <li>independent – <m>fhreagradh</m></li>
+                        <li>relative – a <m>fhreagradh</m></li>
+                        <li>dependent – cha/nach <m>fhreagradh</m>, am <m>freagradh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>fhreagairte</m></li>
+                    <li>relative – a <m>fhreagairte</m></li>
+                    <li>dependent – cha/nach <m>fhreagairte</m>, am <m>freagairte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>independent <ul id="freagair-independent">
+                <li>past <ul>
+                    <li>active – <m>fhreagair</m></li>
+                    <li>passive – <m>fhreagradh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – <m>freagraidh</m></li>
+                    <li>passive – <m>freagrar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – <m>fhreagrainn</m></li>
+                        <li>first-person plural – <m>fhreagramaid</m></li>
+                        <li>second/third-persons – <m>fhreagradh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – <m>fhreagairte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>relative <ul id="freagair-relative">
+                <li>past <ul>
+                    <li>active – a <m>fhreagair</m></li>
+                    <li>passive – a <m>fhreagradh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – a <m>fhreagras</m></li>
+                    <li>passive – a <m>fhreagrar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – a <m>fhreagrainn</m></li>
+                        <li>first-person plural – a <m>fhreagramaid</m></li>
+                        <li>second/third-persons – a <m>fhreagradh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – a <m>fhreagairte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>dependent <ul id="freagair-dependent">
+                <li>past <ul>
+                    <li>active – cha/an/nach <m>do fhreagair</m></li>
+                    <li>passive – cha/an/nach <m>do fhreagradh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – cha/nach <m>fhreagair</m>, am <m>freagair</m></li>
+                    <li>passive – cha/nach <m>fhreagrar</m>, am <m>freagrar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – cha/nach <m>fhreagrainn</m>, am
+                            <m>freagrainn</m></li>
+                        <li>first-person plural – cha/nach <m>fhreagramaid</m>, am
+                            <m>freagramaid</m></li>
+                        <li>second/third-persons – cha/nach <m>fhreagradh</m>, am
+                          <m>freagradh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – cha/nach <m>fhreagairte</m>, am <m>freagairte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>active <ul id="freagair-active">
+                <li>past <ul>
+                    <li>independent – <m>fhreagair</m></li>
+                    <li>relative – a <m>fhreagair</m></li>
+                    <li>dependent – cha/an/nach <m>do fhreagair</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>freagraidh</m></li>
+                    <li>relative – a <m>fhreagras</m></li>
+                    <li>dependent – cha/nach <m>fhreagair</m>, am <m>freagair</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent <ul>
+                        <li>first-person singular – <m>fhreagrainn</m></li>
+                        <li>first-person plural – <m>fhreagramaid</m></li>
+                        <li>second/third-persons – <m>fhreagradh</m></li>
+                      </ul>
+                    </li>
+                    <li>relative <ul>
+                        <li>first-person singular – a <m>fhreagrainn</m></li>
+                        <li>first-person plural – a <m>fhreagramaid</m></li>
+                        <li>second/third-persons – a <m>fhreagradh</m></li>
+                      </ul>
+                    </li>
+                    <li>dependent <ul>
+                        <li>first-person singular – cha/nach <m>fhreagrainn</m>, am
+                            <m>freagrainn</m></li>
+                        <li>first-person plural – cha/nach <m>fhreagramaid</m>, am
+                            <m>freagramaid</m></li>
+                        <li>second/third-persons – cha/nach <m>fhreagradh</m>, am
+                          <m>freagradh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>passive <ul id="freagair-passive">
+                <li>past <ul>
+                    <li>independent – <m>fhreagradh</m></li>
+                    <li>relative – a <m>fhreagradh</m></li>
+                    <li>dependent – cha/an/nach <m>do fhreagradh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>freagrar</m></li>
+                    <li>relative – a <m>fhreagrar</m></li>
+                    <li>dependent – cha/nach <m>fhreagrar</m>, am <m>freagrar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent – <m>fhreagairte</m></li>
+                    <li>relative – a <m>fhreagairte</m></li>
+                    <li>dependent – cha/nach <m>fhreagairte</m>, am <m>freagairte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>imperative <ul id="freagair-imperative">
+                <li>independent <ul>
+                    <li>first-person singular – <m>freagram</m>!</li>
+                    <li>second-person singular – <m>freagair</m>!</li>
+                    <li>first-person plural – <m>freagramaid</m>!</li>
+                    <li>second-person plural – <m>freagraibh</m>!</li>
+                    <li>third-person – <m>freagradh</m>!</li>
+                    <li>passive – <m>freagairtear</m>!</li>
+                  </ul>
+                </li>
+                <li>dependent <ul>
+                    <li>first-person singular – na <m>freagram</m>!</li>
+                    <li>second-person singular – na <m>freagair</m>!</li>
+                    <li>first-person plural – na <m>freagramaid</m>!</li>
+                    <li>second-person plural – na <m>freagraibh</m>!</li>
+                    <li>third-person – na <m>freagradh</m>!</li>
+                    <li>passive – na <m>freagairtear</m>!</li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>verbal noun – <m>freagairt</m></li>
+          </ul></p>
+        <p lang="gd">...</p>
+      </module>
+      <module id="seachain">
+        <h lang="en">seachain</h>
+        <h lang="gd">seachain</h>
+        <p lang="en"><ul>
+            <li>past <ul id="seachain-past">
+                <li>active <ul>
+                    <li>independent – <m>sheachain</m></li>
+                    <li>relative – a <m>sheachain</m></li>
+                    <li>dependent – cha/an/nach <m>do sheachain</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>sheachnadh</m></li>
+                    <li>relative – a <m>sheachnadh</m></li>
+                    <li>dependent – cha/an/nach <m>do sheachnadh</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>future <ul id="seachain-future">
+                <li>active <ul>
+                    <li>independent – <m>seachnaidh</m></li>
+                    <li>relative – a <m>sheachnas</m></li>
+                    <li>dependent – cha <m>sheachain</m>, an/nach <m>seachain</m></li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>seachnar</m></li>
+                    <li>relative – a <m>sheachnar</m></li>
+                    <li>dependent – cha <m>sheachnar</m>, an/nach <m>seachnar</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>conditional <ul id="seachain-conditional">
+                <li>active <ul>
+                    <li>first-person singular <ul>
+                        <li>independent – <m>sheachnainn</m></li>
+                        <li>relative – a <m>sheachnainn</m></li>
+                        <li>dependent – cha <m>sheachnainn</m>, an/nach <m>seachnainn</m></li>
+                      </ul>
+                    </li>
+                    <li>first-person plural <ul>
+                        <li>independent – <m>sheachnamaid</m></li>
+                        <li>relative – a <m>sheachnamaid</m></li>
+                        <li>dependent – cha <m>sheachnamaid</m>, an/nach <m>seachnamaid</m></li>
+                      </ul>
+                    </li>
+                    <li>second/third-persons <ul>
+                        <li>independent – <m>sheachnadh</m></li>
+                        <li>relative – a <m>sheachnadh</m></li>
+                        <li>dependent – cha <m>sheachnadh</m>, an/nach <m>seachnadh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <li>passive <ul>
+                    <li>independent – <m>sheachainte</m></li>
+                    <li>relative – a <m>sheachainte</m></li>
+                    <li>dependent – cha <m>sheachainte</m>, an/nach <m>seachainte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>independent <ul id="seachain-independent">
+                <li>past <ul>
+                    <li>active – <m>sheachain</m></li>
+                    <li>passive – <m>sheachnadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – <m>seachnaidh</m></li>
+                    <li>passive – <m>seachnar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – <m>sheachnainn</m></li>
+                        <li>first-person plural – <m>sheachnamaid</m></li>
+                        <li>second/third-persons – <m>sheachnadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – <m>sheachainte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>relative <ul id="seachain-relative">
+                <li>past <ul>
+                    <li>active – a <m>sheachain</m></li>
+                    <li>passive – a <m>sheachnadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – a <m>sheachnas</m></li>
+                    <li>passive – a <m>sheachnar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – a <m>sheachnainn</m></li>
+                        <li>first-person plural – a <m>sheachnamaid</m></li>
+                        <li>second/third-persons – a <m>sheachnadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – a <m>sheachainte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>dependent <ul id="seachain-dependent">
+                <li>past <ul>
+                    <li>active – cha/an/nach <m>do sheachain</m></li>
+                    <li>passive – cha/an/nach <m>do sheachnadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>active – cha <m>sheachain</m>, an/nach <m>seachain</m></li>
+                    <li>passive – cha <m>sheachnar</m>, an/nach <m>seachnar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>active <ul>
+                        <li>first-person singular – cha <m>sheachnainn</m>, an/nach
+                            <m>seachnainn</m></li>
+                        <li>first-person plural – cha <m>sheachnamaid</m>, an/nach
+                            <m>seachnamaid</m></li>
+                        <li>second/third-persons – cha <m>sheachnadh</m>, an/nach
+                          <m>seachnadh</m></li>
+                      </ul>
+                    </li>
+                    <li>passive – cha <m>sheachainte</m>, an/nach <m>seachainte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>active <ul id="seachain-active">
+                <li>past <ul>
+                    <li>independent – <m>sheachain</m></li>
+                    <li>relative – a <m>sheachain</m></li>
+                    <li>dependent – cha/an/nach <m>do sheachain</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>seachnaidh</m></li>
+                    <li>relative – a <m>sheachnas</m></li>
+                    <li>dependent – cha <m>sheachain</m>, an/nach <m>seachain</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent <ul>
+                        <li>first-person singular – <m>sheachnainn</m></li>
+                        <li>first-person plural – <m>sheachnamaid</m></li>
+                        <li>second/third-persons – <m>sheachnadh</m></li>
+                      </ul>
+                    </li>
+                    <li>relative <ul>
+                        <li>first-person singular – a <m>sheachnainn</m></li>
+                        <li>first-person plural – a <m>sheachnamaid</m></li>
+                        <li>second/third-persons – a <m>sheachnadh</m></li>
+                      </ul>
+                    </li>
+                    <li>dependent <ul>
+                        <li>first-person singular – cha <m>sheachnainn</m>, an/nach
+                            <m>seachnainn</m></li>
+                        <li>first-person plural – cha <m>sheachnamaid</m>, an/nach
+                            <m>seachnamaid</m></li>
+                        <li>second/third-persons – cha <m>sheachnadh</m>, an/nach
+                          <m>seachnadh</m></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>passive <ul id="seachain-passive">
+                <li>past <ul>
+                    <li>independent – <m>sheachnadh</m></li>
+                    <li>relative – a <m>sheachnadh</m></li>
+                    <li>dependent – cha/an/nach <m>do sheachnadh</m></li>
+                  </ul>
+                </li>
+                <li>future <ul>
+                    <li>independent – <m>seachnar</m></li>
+                    <li>relative – a <m>sheachnar</m></li>
+                    <li>dependent – cha <m>sheachnar</m>, an/nach <m>seachnar</m></li>
+                  </ul>
+                </li>
+                <li>conditional <ul>
+                    <li>independent – <m>sheachainte</m></li>
+                    <li>relative – a <m>sheachainte</m></li>
+                    <li>dependent – cha <m>sheachainte</m>, an/nach <m>seachainte</m></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>imperative <ul id="seachain-imperative">
+                <li>independent <ul>
+                    <li>first-person singular – <m>seachnam</m>!</li>
+                    <li>second-person singular – <m>seachain</m>!</li>
+                    <li>first-person plural – <m>seachnamaid</m>!</li>
+                    <li>second-person plural – <m>seachnaibh</m>!</li>
+                    <li>third-person – <m>seachnadh</m>!</li>
+                    <li>passive – <m>seachaintear</m>!</li>
+                  </ul>
+                </li>
+                <li>dependent <ul>
+                    <li>first-person singular – na <m>seachnam</m>!</li>
+                    <li>second-person singular – na <m>seachain</m>!</li>
+                    <li>first-person plural – na <m>seachnamaid</m>!</li>
+                    <li>second-person plural – na <m>seachnaibh</m>!</li>
+                    <li>third-person – na <m>seachnadh</m>!</li>
+                    <li>passive – na <m>seachaintear</m>!</li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <hr/>
+            <li>verbal noun – <m>seachnadh</m></li>
+          </ul></p>
+        <p lang="gd">...</p>
+      </module>
+    </module>
+    <module id="irregular">
+      <h lang="en">irregular verbs</h>
+      <h lang="gd">...</h>
+      <p lang="en"><ul>
+          <li><a href="?gd=abair">abair</a> – <i>their</i>, <i>thuirt</i>, <i>ràdh</i> –
+              <en>say</en></li>
+          <li><a href="?gd=beir">beir</a> – <i>rug</i>, <i>breith</i> – <en>bear</en></li>
+          <li><a href="?gd=cluinn">cluinn</a> – <i>chuala</i>, <i>cluinntinn</i> –
+            <en>hear</en></li>
+          <li><a href="?gd=dèan">dèan</a> – <i>nì</i>, <i>rinn</i>, <i>dèanamh</i> – <en>do,
+              make</en></li>
+          <li><a href="?gd=faic">faic</a> – <i>chì</i>, <i>chunnaic</i>, <i>faca</i>, <i>faicinn</i>
+            – <en>see</en></li>
+          <li><a href="?gd=faigh">faigh</a> – <i>gheibh</i>, <i>fhuair</i>, <i>faighinn</i> –
+              <en>get</en></li>
+          <li><a href="?gd=rach">rach</a> – <i>thèid</i>, <i>chaidh</i>, <i>deach</i>, <i>dol</i> –
+              <en>go</en></li>
+          <li><a href="?gd=ruig">ruig</a> – <i>ràinig</i>, <i>ruigsinn</i> – <en>reach</en></li>
+          <li><a href="?gd=thig">thig</a> – <i>thàinig</i>, <i>tighinn</i> – <en>come</en></li>
+          <li><a href="?gd=thoir">thoir</a> – <i>bheir</i>, <i>thug</i>, <i>toirt</i> – <en>give,
+              take, bring</en></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">Also – <a href="?gd=bi">bi</a>
+        <en>be</en>.</p>
+      <p lang="gd">...</p>
+    </module>
+  </module>
+  <!--<p>cf. <a href="?xx=verbs/modal_verbs">modal verbs</a></p>-->
+  <module id="relations">
+    <h lang="en">relations</h>
+    <h lang="gd">...</h>
+    <module id="subjects">
+      <h lang="en">subjects</h>
+      <h lang="gd">...</h>
+      <p lang="en">Most verb forms have exactly one core nominal dependent, or <u>subject</u> eg. <ul>
+          <li><m>tha <u>iad</u> sgìth</m>
+            <en>they are tired</en> – the personal pronoun <b>iad</b>
+            <en>they</en> is the subject of the verb <b>tha</b>
+            <en>are</en></li>
+          <li><m>chunnaic am <u>balach</u> beag feòrag anns a’ chraoibh</m>
+            <en>the little boy saw a squirrel in the tree</en> – the common noun <b>balach</b>
+            <en>boy</en> is the subject of the verb <b>chunnaic</b>
+            <en>saw</en>
+            <boxlink ref="#subjects"/></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en"><ed>Imperative and passives??</ed></p>
+      <p lang="gd">...</p>
+      <p lang="en">The subject of a verb can be either – <ul>
+          <li>a common or proper noun</li>
+          <li>a personal or demonstrative pronoun.</li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">The following verb forms <u>never</u> have an explicit subject, because they are
+        assumed to have an implicit, built-in subject – <ul>
+          <li><u>first-person conditional</u> (active) verb forms like <b>èighinn</b>
+            <en>I would put</en>, <b>(cha) èigheamaid</b>
+            <en>we would (not) put</en></li>
+          <li><u>passive</u> verb forms like <b>èighear</b>
+            <en>someone will put</en>, <b>(cha) èighte</b>
+            <en>someone would (not) put</en></li>
+          <li>first- and second-person imperative verb forms like <b>èigheam</b>
+            <en>let me put!</en>, <b>èighibh</b>
+            <en>you put!</en></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">In addition, an active verb form may lack an explicit subject when it occurs as
+        the answer to a yes/no question.</p>
+      <p lang="gd">...</p>
+    </module>
+    <module id="objects">
+      <h lang="en">objects</h>
+      <h lang="gd">...</h>
+      <p lang="en">Verb forms can also have a secondary nominal dependent, or <u>object</u> eg. <ul>
+          <li><m>chì mi a-màireach <u>sibh</u></m>
+            <en>I will see you tomorrow</en> – the personal pronoun <b>sibh</b>
+            <en>you</en> is the object of the verb <b>chì</b>
+            <en>will see</en></li>
+          <li><m>sgrìobh Màiri <u>litir</u> thugam</m>
+            <en>Mary wrote me a letter</en> – the common noun <b>litir</b>
+            <en>letter</en> is the object of the verb <b>sgrìobh</b>
+            <en>wrote</en>
+            <!--<boxlink ref="#objects"/>--></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">Verbs can also have a secondary nominal dependent, or <u>object</u>, which again
+        can be either – <ul>
+          <li>a common or proper noun (phrase) in the nominative case</li>
+          <li>a personal or demonstrative pronoun.</li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+    </module>
+    <module id="complements">
+      <h lang="en">complements</h>
+      <h lang="gd">...</h>
+      <p lang="en">In addition to subjects and objects, verbs can also have one or more non-nominal
+          <u>complements</u> eg. <ul>
+          <li><m>thug Ealasaid ubhal <u>dhan</u> bhodach</m>
+            <en>Elizabeth gave the old man an apple</en> – the preposition <b>dhan</b>
+            <en>to the</en> introduces a complement of the verb <b>thug</b>
+            <en>gave</en></li>
+          <li><m>thuirt a’ chailleach <u>gun</u> robh i sgìth</m>
+            <en>the old woman said that she was tired</en> – the particle <b>gun</b>
+            <en>that</en> introduces a complement of the verb <b>thuirt</b>
+            <en>said</en></li>
+          <li><m>feumaidh tu an leabhar seo a <u>leughadh</u></m>
+            <en>you must read this book</en> – the <a href="?xx=verbs/infinitivals">infinitival</a>
+            <b>leughadh</b>
+            <en>reading</en> is a complement of the verb <b>feumaidh</b>
+            <en>must</en>
+            <!--<boxlink ref="#complements"/>--></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">In addition to subjects and objects, verbs can also have one or more non-nominal
+          <u>complements</u>, which can be either – <ul>
+          <li>a preposition (phrase)</li>
+          <li>a clause introduced by one of the verbal particles <b>gun</b>, <b>an</b> or
+              <b>nach</b></li>
+          <li>an <a href="?xx=verbs/infinitivals">infinitival</a> (phrase).</li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+    </module>
+    <module id="modifiers">
+      <h lang="en">modifiers</h>
+      <h lang="gd">...</h>
+      <p lang="en">Finally, verbs may have one or more adverbial <u>modifiers</u> eg. <ul>
+          <li><m>chaidh iad dhan bhaile <u>an-dè</u></m>
+            <en>they went to the town yesterday</en> – the adverb <b>an-dè</b>
+            <en>yesterday</en> is a (temporal) modifier of the verb <b>chaidh</b>
+            <en>went</en></li>
+          <li><m>an do choinnich thu do bhean <u>anns</u> an oilthigh?</m>
+            <en>did you meet your wife at the university?</en> – the preposition <b>anns</b>
+            <en>in</en> introduces a (locative) modifier of the verb <b>choinnich</b>
+            <en>did meet</en></li>
+          <li><m><u>nam</u> bithinn mì-thoilichte, dh’fhàgainn</m>
+            <en>if I were unhappy, I would leave</en> – the particle <b>nam</b>
+            <en>if</en> introduces a (conditional) modifier of the verb <b>dh’fhàgainn</b>
+            <en>I would leave</en></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+    </module>
+  </module>
+  <module id="uses">
+    <h lang="en">uses</h>
+    <h lang="gd">...</h>
+    <p lang="en">The main uses of <u>independent</u> verbs are – <ul>
+        <li>To introduce a <u>positive declarative sentence</u> eg. <m><u>Thèid</u> sinn dhan
+            bhùth.</m>
+          <en>We will go into the shop.</en></li>
+        <li>To introduce a (positive declarative) conjunct of one of the <u>coordinating
+            conjunctions</u>
+          <b>agus</b>
+          <en>and</en> and <b>no</b>
+          <en>or</en> eg. <m><u>dh’èirich</u> mi agus <u>dh’ith</u> mi bracaist</m>
+          <en>I got up and I ate breakfast</en></li>
+        <li>To introduce the complement of the subordinating conjunction <b>oir</b>
+          <en>because</en> eg. <m>tha i toilichte oir <u>cheannaich</u> i càr ùr</m>
+          <en>she is happy because she has bought a new car</en></li>
+        <!-- discourse particles eg. ge-tà ?? -->
+      </ul>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">The main uses of <u>relative</u> verbs are – <ul>
+        <li>To introduce the complement of the relative particles <b>a</b>
+          <en>who, which</en> and <b>na</b>
+          <en>that which</en> eg. <m>an leabhar a <u>sgrìobhas</u> mi</m>
+          <en>the book which I will write</en>, <m>na chuirear thugam</m>
+          <en>what will be sent to me</en></li>
+        <li>To introduce the complement of the conditional particle <b>ma</b>
+          <en>if</en> eg. <m>ma <u>bhios</u> mi sgìth, fuirichidh mi aig an taigh</m>
+          <en>if I am tired I will stay at home</en></li>
+      </ul>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">The main uses of <u>dependent</u> verbs are – <ul>
+        <li>To introduce the complement of the negative, interrogative and subordinating particles
+            <b>cha</b>, <b>an</b>, <b>nach</b> and <b>gun</b> eg. <m>cha <u>robh</u> e beàrtach</m>
+          <en>he was not rich</en>, <m>thuirt i gun <u>do sgrìobhadh</u> leabhar</m>
+          <en>she said that a book had been written</en></li>
+        <li>To introduce the complement of the conditional particle <b>nan</b>
+          <en>if</en> eg. <m>nan <u>deigheadh</u> tu do Ghlaschu dh’fhaodainn do fhaicinn</m>
+          <en>if you went to Glasgow I could see you</en></li>
+      </ul>
+    </p>
+    <p lang="gd">...</p>
+  </module>
+  <module id="senses">
+    <h lang="en">senses</h>
+    <h lang="gd">...</h>
+    <p lang="en">Like any word or phrase, every verb form is associated with one or more potential
+        <u>senses</u>.</p>
+    <p lang="gd">...</p>
+    <module id="perfective">
+      <h lang="en">perfective vs. imperfective</h>
+      <h lang="gd"/>
+      <p lang="en">When a verb form is associated with a <u>bounded</u> sense, it is being used as a
+          <b>perfective</b> verb. Perfective verb senses are viewed from the outside, as unitary,
+        whole events, generally in the past, eg. <ul>
+          <li><m>bhrùchd/chlisg Màiri</m>
+            <en>Mary burped/started</en></li>
+          <li><m>bhàsaich Seumas</m>
+            <en>James died</en></li>
+          <li><m>shnàmh Raonaid</m> <en>Rachel swam</en></li>
+          <li></li>
+        </ul>
+      </p>
+      <p lang="gd"/>
+      <p lang="en">Perfective verb senses are not compatible with bounding adverbials like 
+        <b>fad na h-oidhche</b> <en>all night long</en> or <b>gu briseadh an latha</b> <en>until daybreak</en>.
+      <ul>
+        <li>Chaidh Màiri dhan leabaidh. Bhrùchd i fad na h-oidhche. Dh’èirich i aig briseadh an latha.</li>
+        <li>Chaidh Màiri dhan leabaidh. Bha i a’ brùchdadh fad na h-oidhche. Dh’èirich i aig briseadh an latha.</li>
+        <li>Chaidh Màiri dhan leabaidh. Bhrùchdadh i fad na h-oidhche. Dh’èirich i aig briseadh an latha.</li>
+        <li>Chaidh Raonaid don ionad-spòrs. Shnàmh i fad leth uair a thìde. Ghabh i fras, agus chaidh i dhachaigh.</li>
+      </ul>
+      </p>
+      <p lang="gd"></p>
+      <p lang="en">Perfective verb senses can be used in narrative foreground.
+        <ul>
+          <li>Thig Seumas a-steach. Chlisg Màiri. Shuidh i sìos.</li>
+          <li>Chaidh Raonaid don ionad-spòrs. Shnàmh i, ghabh i fras, agus chaidh i dhachaigh.</li>
+        </ul>
+      </p>
+      <p lang="gd"></p>
+      <p lang="en">When a verb form is associated with a <u>non-bounded</u> sense, it is being used
+        as an imperfective verb.</p>
+      <p lang="gd"/>
+      <p lang="en">Is bi the only imperfective verb??</p>
+      <p lang="gd">...</p>
+    </module>
+    <module id="telic">
+      <h lang="en">telic vs. atelic</h>
+      <h lang="gd"/>
+    </module>
+  </module>
+</module>

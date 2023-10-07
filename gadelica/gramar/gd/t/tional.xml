@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>tional</h>
+    <p><b>tional</b>
+        <en>collecting, collection, assembly, gathering, rally</en> is a masculine <a
+            href="?xx=nouns/derived_common_nouns">derived common noun</a>, from <a
+            href="?gd=tionail">tionail</a>
+        <vb/>
+        <en>come/bring together, gather</en>.</p>
+    <section id="tional-forms">
+        <h>forms</h>
+        <p>The forms of <b>tional</b> are – <ul>
+                <li>indefinite –<ul>
+                        <li>nominative singular – <m>tional</m></li>
+                        <li>dative singular – (ann an) <m>tional</m></li>
+                        <li>genitive singular – (meud) <m>tionail</m></li>
+                        <li>nominative plural – <m>tionalan</m></li>
+                        <li>dative plural – (ann an) <m>tionalan</m></li>
+                        <li>genitive plural – (meud) <m>thionalan</m></li>
+                    </ul></li>
+                <li>definite –<ul>
+                        <li>nominative singular – <m>an tional</m></li>
+                        <li>dative singular – (anns) <m>an tional</m></li>
+                        <li>genitive singular – (meud) <m>an tionail</m></li>
+                        <li>nominative plural – <m>na tionalan</m></li>
+                        <li>dative plural – (anns) <m>na tionalan</m></li>
+                        <li>genitive plural – (meud) <m>nan tionalan</m></li>
+                    </ul></li>
+            </ul>
+        </p>
+    </section>
+    <section>
+        <h>relations</h>
+        <section>
+            <h>modifiers</h>
+            <p>cf. <b>tional <a href="?gd=fiosrachadh">fiosrachaidh</a></b>
+                <en>data collection</en></p>
+        </section>
+    </section>
+    <section>
+        <h>uses</h>
+        <section id="tional-subject">
+            <h>subject</h>
+            <p>Pedagogical examples – <xl id="tional-pedag">
+                    <li>
+                        <gd>Chaidh an tional an àird.</gd>
+                        <tr>The collection went up / increased.</tr>
+                        <ref text="601">td. 585</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>object</h>
+            <p>cf. <b><a href="?gd=gabh">gabh</a> tional</b>
+                <en>make a collection</en> – pedagogical examples – <xl id="gabh-tional-pedag">
+                    <li>
+                        <gd>Bha tional air a ghabhail air an dol a-mach.</gd>
+                        <tr>A collection was made on the way out.</tr>
+                        <ref text="601">td. 585</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+</module>

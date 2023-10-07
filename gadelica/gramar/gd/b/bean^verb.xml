@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">bean – verb</h>
+    <h lang="gd">bean</h>
+    <p lang="en"><b>bean</b>
+        <en>touch, interfere/meddle/deal/tamper (with)</en> is an intransitive durative verb, with
+        verbal noun <b>beantainn</b>
+        <masc/> (alternative forms – <b>beanail</b>, <b>beantail</b>, <b>beanailt</b>).
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">cf. other uses of the word <a href="?gd=bean">bean</a>.</p>
+    <p lang="gd">...</p>
+    <p lang="en"><b>bean</b> is derived from the Old Gaelic verb <ax href="https://dil.ie/5647"
+            >benaid</ax>
+        <en>beat, strike</en>. It also seems to be the root of the static verb <a href="?gd=buin"
+            >buin</a>
+        <en>belong/pertain (to)</en>, and the two often get confused in modern Gaelic (as many of
+        the examples cited below will make clear).</p>
+    <p lang="gd">...</p>
+    <p lang="en">Imperative examples from dictionaries and grammars – <xl id="imperative-dictionary">
+            <li>
+                <gd>Buin gu caoimhneil ri m’ ghaol!</gd>
+                <tr>Deal gently with my love!</tr>
+                <ref text="602">td. 140</ref>
+            </li>
+            <li>
+                <gd>Na bean ris na buill-maise!</gd>
+                <tr>Don’t touch the ornaments!</tr>
+                <ref text="605">td. 43</ref>
+            </li>
+            <li>
+                <gd>Na buin da sin!</gd>
+                <tr>Do not touch that!</tr>
+                <ref text="602">td. 140</ref>
+            </li>
+            <li>
+                <gd>An rud nach buin duit, <m>na buin da</m>!</gd>
+                <tr>Do not meddle with what does not concern you!</tr>
+                <ref text="602">td. 140</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">Imperative examples from the Bible – <xl id="imperative-bible">
+            <li>
+                <gd>[...] A nis dh’éirich righ ùr air an Eiphit, do nach b’aithne Ioseph. Agus
+                    thubhairt e r’a shluagh, Feuch, tha sluagh chloinn Israeil ni’s lìonmhoire agus
+                    ni’s cumhachdaiche na sinne. Thigibh, <m>buineamaid gu seòlta</m> : an t-eagal
+                    gu’m fàs iad lìonmhor, agus gu’n tachair e, ’nuair a dh’éireas cogadh, gu’n gabh
+                    iadsan mar an ceudna le ’r naimhdibh-ne, agus gu’n cog iad ’nar n-aghaidh, agus
+                    gu’n d’théid iad a mach as an tìr. [...]</gd>
+                <tr>[...] Now there arose up a new king over Egypt, which knew not Joseph. And he
+                    said unto his people, Behold, the people of the children of Israel are more and
+                    mightier than we: Come on, let us deal wisely with them; lest they multiply, and
+                    it come to pass, that, when there falleth out any war, they join also unto our
+                    enemies, and fight against us, and so get them up out of the land. [...]</tr>
+                <ref text="160">Ecsodus I.8–10</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">Simple past tense examples from dictionaries and grammars – <xl
+            id="past-dictionary">
+            <li>
+                <gd>[...] cho luath ’s a bhean e dha [...]</gd>
+                <tr>[...] as soon as he touched it [...]</tr>
+                <ref text="601">td. 68</ref>
+            </li>
+            <li>
+                <gd>Bhean an òraid ris an t-suidheachadh ann an Afraga.</gd>
+                <tr>The talk touched upon the situation in Africa.</tr>
+                <ref text="605">td. 43</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">Simple past tense examples from the Bible – <xl id="past-bible">
+            <li>
+                <gd>[...] Agus labhair righ na h-Eiphit re mnaibh-glùine nan Eabhruidheach [...]
+                    Agus thubhairt e, ’Nuair a ni sibh gnìomh mnà-glùine do na mnaibh Eabhruidheach,
+                    agus a chi sibh iad air na stòlaibh; ma’s mac a bhios ann, ’an sin marbhaidh
+                    sibh e, ach ma’s nighean a bhios ann, bithidh si beo. Ach bha eagal Dé air na
+                    mnaibh-glùine, agus cha d’rinn iad mar a dh’àithn righ na h-Eiphit dhoibh, ach
+                    ghleidh iad a’ chlann mhac beo. [...] Uime sin <m>bhuin Dia gu math ris na
+                        mnaibh-glùine</m>: agus rinneadh an sluagh lìonmhor, agus dh’fhàs iad
+                    ro-chumhachdach. [...]</gd>
+                <tr>[...] And the king of Egypt spake to the Hebrew midwives [...]: And he said,
+                    When ye do the office of a midwife to the Hebrew women, and see them upon the
+                    stools; if it be a son, then ye shall kill him: but if it be a daughter, then
+                    she shall live. But the midwives feared God, and did not as the king of Egypt
+                    commanded them, but saved the men children alive. [...] Therefore God dealt well
+                    with the midwives: and the people multiplied, and waxed very mighty. [...]</tr>
+                <ref text="160">Ecsodus I.15–7</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">Simple future tense examples from dictionaries and grammars – <xl
+            id="future-dictionary">
+            <li>
+                <gd>an ti a bheanas ribh</gd>
+                <tr>he who touches you</tr>
+                <ref text="602">td. 82</ref>
+            </li>
+            <li>
+                <gd>Cha bhean sibh ris.</gd>
+                <tr>Ye shall not touch it.</tr>
+                <ref text="602">td. 82</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">Examples with verbal nouns from dictionaries and grammars – <xl
+        id="verbal_nouns-dictionary">
+        <li>
+            <gd>Chan eil an ola a thaom às an tancair a’ dol a bhuntainn ris na cladaichean
+                againne.</gd>
+            <tr>The oil which poured from the tanker is not going to touch our shores.</tr>
+            <ref text="601">td. 102</ref>
+            <note>dynamic</note>
+        </li>
+    </xl>
+    </p>
+    <p lang="gd">...</p>
+    <module id="bi_a_buntainn">
+        <h lang="en">bi a’ buntainn</h>
+        <h lang="gd">...</h>
+        <p lang="en">Examples from dictionaries and grammars – <xl id="bi_a_buntainn-dictionary">
+                <li>
+                    <gd>Tha na molaidhean a’ buntainn ri [...]</gd>
+                    <tr>The recommendations are concerned/dealing with [...]</tr>
+                    <ref text="601">td. 102</ref>
+                </li>
+                <li>
+                    <gd>Carson a tha thu a’ buntainn ri an duine seo?</gd>
+                    <tr>Why are you dealing with this man?</tr>
+                    <ref text="601">td. 102</ref>
+                </li>
+                <li>
+                    <gd>Tha an earrann seo a’ buntainn ri ceannach na croite.</gd>
+                    <tr>This section deals with the buying of the croft.</tr>
+                    <ref text="601">td. 102</ref>
+                </li>
+                <li>
+                    <gd>a’ buntainn ri [...]</gd>
+                    <tr>relevant to [...]</tr>
+                    <ref text="601">td. 102</ref>
+                </li>
+                <li>
+                    <gd>gach fiosrachadh a tha a’ buntainn ris a’ chùis</gd>
+                    <tr>all relevant information</tr>
+                    <ref text="601">td. 102</ref>
+                </li>
+                <li>
+                    <gd>[...] a’ buntuinn ris gu nàimhdeil</gd>
+                    <tr>[...] persecuting him</tr>
+                    <ref text="602">td. 142</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+        <p lang="en">Examples from Gairm – <xl id="gairm">
+                <li>
+                    <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios
+                        os cionn obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach
+                        ag ath-nuadhachadh dreach a’ Chomuinn. [...] Ach dh’ fheumadh am
+                        Fear-stiùiridh ùr barrachd air a sin a dhèanamh. Dh’ fheumadh e siubhal a
+                        dhèanamh eadar Rubha Robhanais agus Ceann Bharraidh, eadar am Parbh is Maol
+                        Chinn-tìre, agus cha deanadh math dha dìochuimhneachadh <m>gu robh obair a’
+                            Chomuinn a’ buntainn ri Coimisean nan Croitearan an Inbhirnis, ri Roinn
+                            an Fhoghluim an Dùn-Eideann, agus ri Tigh nan Cumantan an
+                        Lunnainn</m>.</gd>
+                    <tr>The Highland Society is talking about choosing a new General who will
+                        oversee the Society’s work. [...] He would have enough to do initially
+                        reforming the Society. [...] But the new leader would have to do more than
+                        (just) that. He would have to travel between the Butt of Lewis and Barra
+                        Head, between Cape Wrath and the Mull of Kintyre, and he should not forget
+                        that the Society’s work <u>is related to</u> the Crofters’ Commission in
+                        Inverness, to the Education Department in Edinburgh, and to the House of
+                        Commons in London.</tr>
+                    <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                </li>
+            </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+
+    <module>
+        <h lang="en">other usages and idioms</h>
+        <h lang="gd">...</h>
+        <p lang="en">Examples from dictionaries and grammars – <xl id="dictionary">
+            <li>
+                <gd>na buin ri</gd>
+                <tr>abstain from</tr>
+                <ref text="601">td. 102</ref>
+                <note>dynamic</note>
+            </li>
+            <li>
+                <gd>buin bho</gd>
+                <tr>exact, take from</tr>
+                <ref text="601">td. 102</ref>
+                <note>dynamic</note>
+            </li>
+            <li>
+                <gd>buin còir-bhreith o</gd>
+                <tr>disinherit</tr>
+                <ref text="601">td. 102</ref>
+                <note>dynamic</note>
+            </li>
+            <li>
+                <gd>buin às</gd>
+                <tr>gouge</tr>
+                <ref text="601">td. 102</ref>
+                <note>dynamic</note>
+            </li>
+            <li>
+                <gd>gun bhuntainn do [...]</gd>
+                <tr>unrelated to [...]</tr>
+                <ref text="601">td. 104</ref>
+            </li>
+            <li>
+                <gd>gun bheantainn ri</gd>
+                <tr>untouched</tr>
+                <ref text="601">69</ref>
+            </li>
+            <li>
+                <gd>[...] gan toirt gu aire nan ùghdarrasan aig a bheil buntainn ris a’ chùis</gd>
+                <tr>[...] bringing them to the attention of the relevant authorities</tr>
+                <ref text="601">td. 104</ref>
+            </li>
+        </xl>
+        </p>
+        <p lang="gd">...</p>
+    </module>
+    
+</module>

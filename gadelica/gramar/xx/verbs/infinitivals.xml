@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="silver">
+  <h>infinitivals</h>
+  <p>Infinitivals are a kind of <a href="?xx=nouns/verbal_nouns">verbal noun</a> phrase used with a
+    range of different constructions in Gaelic.</p>
+  <p>What makes an infinitival different from other verbal noun phrases is that that a direct object
+      <emph>precedes</emph> the verbal noun and is in the nominative case, rather than following it
+    in the genitive eg. the infinitival <m>an <emph>litir</emph> a leughadh</m>
+    <en>reading the letter</en> versus the usual verbal noun phrase <g>leughadh na
+        <emph>litreach</emph></g>. </p>
+  <p>The infinitival of an <emph>intransitive</emph> verb is formed from the unlenited verbal noun
+    followed by its complements and modifiers eg. <ul>
+      <li><m>seinn</m>
+        <en>singing</en></li>
+      <li><m>gabhail ris an tairgse</m>
+        <en>accepting the offer</en></li>
+      <li><m>smaoineachadh gun robh thu ceart</m>
+        <en>thinking that you were right</en></li>
+      <li><m>fàgail a-màireach</m>
+        <en>leaving tomorrow</en></li>
+    </ul>
+  </p>
+  <p>The infinitival of a transitive verb consists of the object in the nominative, the inverting
+    particle <g>a</g>, followed by the lenited verbal noun and other complements and modifiers eg. <ul>
+      <li><m>an leabhar a sgrìobhadh</m>
+        <en>writing the book</en></li>
+      <li><m>òran a gabhail</m>
+        <en>performing a song</en></li>
+      <li><m>ubhal a thoirt dhomh</m>
+        <en>giving me an apple</en></li>
+    </ul>
+  </p>
+  <p>The particle <g>a</g> is usually omitted in both speech and writing if the lenited verbal noun
+      <emph>begins</emph> with a vowel sound eg. <ul>
+      <li><m>ubhal ithe</m>
+        <en>eating an apple</en></li>
+      <li><m>an uinneag fhosgladh</m>
+        <en>opening the window</en></li>
+    </ul>
+  </p>
+  <p>The particle <g>a</g> is also sometimes omitted if the direct object phrase <emph>ends</emph>
+    with a vowel sound eg. <ul>
+      <li><m>an duine mharbhadh</m>
+        <en>killing the man</en></li>
+    </ul>
+  </p>
+  <p>The intransitive verbs <a href="?gd=bi"><g>bi</g></a> and <a href="?gd=rach"><g>rach</g></a>
+    form infinitivals as if they were transitive eg. <ul>
+      <li><m>a bhith cinnteach</m>
+        <en>being certain</en> and <emph>not</emph>
+        <bad>bith cinnteach</bad></li>
+      <li><m>a dhol dhachaigh</m>
+        <en>going home</en> and <emph>not</emph>
+        <bad>dol dhachaigh</bad></li>
+    </ul>
+  </p>
+
+  <!--
+  <p>Transitive verbs where notional direct object is a personal pronoun</p>
+
+  <p>Emphatic and reflexive personal pronouns</p> -->
+
+  <p>Infinitivals are used in the following very commonly used constructions – <ul>
+      <li>the modal verbs eg. <m>feumaidh mi an leabhar a leughadh</m>
+        <en>I have to read the book</en></li>
+      <li>the <a href="?gd=rach"><g>rach</g></a> passive eg. <m>chaidh an leabhar a leughadh</m>
+        <en>the book was read</en></li>
+    </ul>
+  </p>
+
+
+  <!--
+  <ul>
+    <li><span lang="en">first person singular</span><span lang="gd">ciad phearsa singilte</span> –
+      <ul id="passive-1sg">
+        <li><span lang="en">past</span><span lang="gd">caithte</span>
+          <ul>
+            <li><span lang="en">independent</span><span lang="gd">neo-eisimeileach</span> – <m>chaidh mo mharbhadh</m>
+              <en>I was killed</en></li>
+            <li><span lang="en">dependent</span><span lang="gd">eisimeileach</span> – <m>cha/an/nach deach mo mharbhadh</m>
+              <en>I was not killed etc.</en></li>
+          </ul>
+        </li>
+        <li><span lang="en">future</span><span lang="gd">teachdail</span>
+          <ul>
+            <li><span lang="en">independent</span><span lang="gd">neo-eisimeileach</span> – <m>thèid mo mharbhadh</m>
+              <en>I will be killed</en></li>
+            <li><span lang="en">dependent</span><span lang="gd">eisimeileach</span> – <m>cha/an/nach tèid mo mharbhadh</m>
+              <en>I will not be killed etc.</en></li>
+          </ul>
+        </li>
+        <li><span lang="en">conditional</span><span lang="gd">cumhach</span>
+          <ul>
+            <li><span lang="en">independent</span><span lang="gd">neo-eisimeileach</span> – <m>dheigheadh mo mharbhadh</m>
+              <en>I would be killed</en></li>
+            <li><span lang="en">dependent</span><span lang="gd">eisimeileach</span> – <m>cha/an/nach deigheadh mo mharbhadh</m>
+              <en>I would not be killed etc.</en></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><span lang="en">second person singular</span><span lang="gd">dàrna pearsa singilte</span> – <m>thèid do mharbhadh</m>
+      <en>you will be killed</en></li>
+    <li><span lang="en">third person feminine</span><span lang="gd">treas pearsa boireann</span> – <m>cha deach a marbhadh</m>
+      <en>she was not killed</en></li>
+    <li><span lang="en">first person masculine</span><span lang="gd">treas pearsa fireann</span> – <m>an tèid a mharbhadh</m>
+      <en>was he killed ?</en></li>
+    <li><span lang="en">first person plural</span><span lang="gd">ciad phearsa iolra</span> – <m>dheigheadh ar marbhadh</m>
+      <en>we would be killed</en></li>
+    <li><span lang="en">second person plural</span><span lang="gd">dàrna pearsa iolra</span> – <m>nach deigheadh (bh)ur marbhadh</m>
+      <en>would you not be killed ?</en></li>
+    <li><span lang="en">third person plural</span><span lang="gd">treas pearsa iolra</span> – <m>chaidh am marbhadh</m>
+      <en>they were killed</en></li>
+  </ul>
+  <p>Emphatic pronouns (traditional) –</p>
+  <ul id="emph">
+    <li><span lang="en">first person singular</span><span lang="gd">ciad phearsa singilte</span> – <m>chaidh mo mharbhadh-sa</m>
+      <en><u>I</u> was killed</en></li>
+    <li><span lang="en">second person singular</span><span lang="gd">dàrna pearsa singilte</span> – <m>chaidh do mharbhadh-sa</m>
+      <en><u>you</u> were killed</en></li>
+    <li><span lang="en">third person feminine</span><span lang="gd">treas pearsa boireann</span> – <m>chaidh a marbhadh-se</m>
+      <en><u>she</u> was killed</en></li>
+    <li><span lang="en">first person masculine</span><span lang="gd">treas pearsa fireann</span> – <m>chaidh a mharbhadh-san</m>
+      <en><u>he</u> was killed</en></li>
+    <li><span lang="en">first person plural</span><span lang="gd">ciad phearsa iolra</span> – <m>chaidh ar marbhadh-ne</m>
+      <en><u>we</u> were killed</en></li>
+    <li><span lang="en">second person plural</span><span lang="gd">dàrna pearsa iolra</span> – <m>chaidh (bh)ur marbhadh-se</m>
+      <en><u>you</u> were killed</en></li>
+    <li><span lang="en">third person plural</span><span lang="gd">treas pearsa iolra</span> – <m>chaidh am marbhadh-san</m>
+      <en><u>they</u> were killed</en></li>
+  </ul>
+  <p>Emphatic pronouns (modern) –</p>
+  <ul id="emph-new">
+    <li><span lang="en">first person singular</span><span lang="gd">ciad phearsa singilte</span> – <m>chaidh mise a mharbhadh</m>
+      <en><u>I</u> was killed</en></li>
+    <li><span lang="en">second person singular</span><span lang="gd">dàrna pearsa singilte</span> – <m>chaidh thusa a mharbhadh</m>
+      <en><u>you</u> were killed</en></li>
+    <li><span lang="en">third person feminine</span><span lang="gd">treas pearsa boireann</span> – <m>chaidh ise a mharbhadh</m>
+      <en><u>she</u> was killed</en></li>
+    <li><span lang="en">first person masculine</span><span lang="gd">treas pearsa fireann</span> – <m>chaidh esan a mharbhadh</m>
+      <en><u>he</u> was killed</en></li>
+    <li><span lang="en">first person plural</span><span lang="gd">ciad phearsa iolra</span> – <m>chaidh sinne a mharbhadh</m>
+      <en><u>we</u> were killed</en></li>
+    <li><span lang="en">second person plural</span><span lang="gd">dàrna pearsa iolra</span> – <m>chaidh sibhse a mharbhadh</m>
+      <en><u>you</u> were killed</en></li>
+    <li><span lang="en">third person plural</span><span lang="gd">treas pearsa iolra</span> – <m>chaidh iadsan a mharbhadh</m>
+      <en><u>they</u> were killed</en></li>
+  </ul>
+  -->
+
+</module>

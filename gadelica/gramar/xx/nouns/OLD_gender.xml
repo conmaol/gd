@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <title lang="en">gender</title>
+    <title lang="gd">gnè</title>
+    <p lang="en">Gender is a property of <a href="?xx=nouns/nouns">nouns</a> – every (singular) noun
+        form is either <strong>feminine</strong> or <strong>masculine</strong> –</p>
+    <ul lang="en">
+        <li><m>Màiri</m>
+            <en>Mary</en>, <m>Nirribhidh</m>
+            <en>Norway</en>, <m>caileag</m>
+            <en>girl</en> and <m>sùil</m>
+            <en>eye</en> are all feminine singular nouns</li>
+        <li><m>Dòmhnall</m>
+            <en>Donald</en>, <m>Leòdhas</m>
+            <en>Lewis</en>, <m>balach</m>
+            <en>boy</en> and <m>airgead</m>
+            <en>silver, money</en> are all masculine singular nouns</li>
+    </ul>
+    <hr/>
+    <p lang="en"><a href="?xx=nouns/anthroponymic_proper_nouns">Anthroponymic proper nouns</a> are
+        feminine or masculine depending on whether the person referred to is female or male –</p>
+    <ul lang="en">
+        <li>Some anthroponymic proper nouns are traditionally feminine eg. <m>Ealasaid</m>
+            <en>Elizabeth</en>, <m>Màiri</m>
+            <en>Mary</en>, <m>Raonaid</m>
+            <en>Rachel</en>.</li>
+        <li>others are traditional masculine eg. <m>Dòmhnall</m>
+            <en>Donald</en>, <m>Seumas</m>
+            <en>James</en>, <m>Tormod</m>
+            <en>Norman</en>.</li>
+    </ul>
+    <p lang="en"><a href="?xx=nouns/toponymic_proper_nouns">Toponymic proper nouns</a> which name
+            <u>countries</u> are always feminine, as are <a href="?xx=nouns/glottonyms"
+            >glottonymic</a> proper nouns, eg.</p>
+    <ul lang="en">
+        <li><m>Alba</m>
+            <en>Scotland</en>, <m>Nirribhidh</m>
+            <en>Norway</en>, <m>Èirinn</m>
+            <en>Ireland</en>, <m>Sasainn</m>
+            <en>England</en></li>
+        <li><m>Laideann</m>
+            <en>Latin</en></li>
+    </ul>
+    <p>Note that these generalisations also hold for ‘improper nouns’ like <m>An Fhraing</m>
+        <en>France</en>, <m>A’ Ghrèig</m>
+        <en>Greece</en>, <m>An Fhraingis</m>
+        <en>French</en>, <m>A’ Ghreugais</m>
+        <en>Greek</en>.</p>
+    <hr/>
+    <p>The gender of <a href="?xx=nouns/common_nouns.xml">common nouns</a> is, strictly speaking,
+        arbitrary. However, there are a number of rules-of-thumb.</p>
+    <p>The gender of common nouns which describe classes of human and other animals is also usually
+        determined by the sex traditionally associated with the class, eg.</p>
+    <ul>
+        <li>feminine – <m>màthair</m>
+            <en>mother</en>, <m>nighean</m>
+            <en>girl, daughter</en>, <m>cailleach</m>
+            <en>old woman</en>, <m>bò</m>
+            <en>cow</en>, <m>cearc</m>
+            <en>hen</en></li>
+        <li>masculine – <m>athair</m>
+            <en>father</en>, <m>balach</m>
+            <en>boy, son</en>, <m>bodach</m>
+            <en>old man</en>, <m>tarbh</m>
+            <en>bull</en>, <m>coileach</m>
+            <en>cockerel</en></li>
+    </ul>
+    <p>But – <m>boireannach</m> masc. <en>woman</en></p>
+    <hr/>
+    <p>Polysyllabic common nouns with the following endings are usually <u>feminine</u> –</p>
+    <ul>
+        <li><strong>-ag</strong> eg. <m>caileag</m>
+            <en>girl</en>, <m>piseag</m>
+            <en>kitten</en>, <m>uinneag</m>
+            <en>window</en></li>
+        <li><strong>-achd</strong> eg. <m>aotramachd</m>
+            <en>lightness</en>, <m>bàrdachd</m>
+            <en>poetry</en></li>
+        <li><strong>-id</strong> eg. <m>càraid</m>
+            <en>couple</en>, <m>drochaid</m>
+            <en>bridge</en>, <m>pitheid</m>
+            <en>parrot, magpie</en></li>
+    </ul>
+    <p>But – <m>caraid</m> masc. <en>friend</en>, <m>nàmhaid</m> masc. <en>enemy</en>.</p>
+    <p>Polysyllabic common nouns with the following endings are usually <u>masculine</u> –</p>
+    <ul>
+        <li><strong>-ach</strong> eg. <m>canach</m>
+            <en>cottongrass</en></li>
+        <li><strong>-adh</strong> eg. <m>deireadh</m>
+            <en>end</en></li>
+        <li><strong>-an</strong> eg. <m>aran</m>
+            <en>bread</en>, <m>eilean</m>
+            <en>island</en>, <m>òran</m>
+            <en>song</en></li>
+        <li><strong>-as</strong> eg. <m>coltas</m>
+            <en>appearance</en>, <m>solas</m>
+            <en>light</en></li>
+    </ul>
+    <p>But – <m>cailleach</m> fem. <en>old woman</en>.</p>
+    <p>Common nouns with the following endings which describe people or objects according to job or
+        function are always <u>masculine</u> –</p>
+    <ul>
+        <li><strong>-(a)ir</strong> eg. <m>clachair</m>
+            <en>stonemason</en>, <m>dorsair</m>
+            <en>doorman, janitor</en></li>
+        <li><strong>-(e)adair</strong> eg. <m>leughadair</m>
+            <en>reader</en>, <m>seinneadair</m>
+            <en>singer</en>, <m>sgrìobhadair</m>
+            <en>writer</en>, <m>uaireadair</m>
+            <en>watch</en></li>
+        <li><strong>-(a)iche</strong> eg. <m>maraiche</m>
+            <en>seaman</en></li>
+    </ul>
+    <hr/>
+    <p><ed>old neuters and dialect variation</ed></p>
+</module>

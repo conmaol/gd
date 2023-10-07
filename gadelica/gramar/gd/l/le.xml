@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>le</h>
+    <p><g>le</g>
+        <en>with, by</en> is the (non-leniting) instrumental <a href="?xx=prepositions/prepositions"
+            >preposition</a>.</p>
+    <section>
+        <h>forms</h>
+        <section id="indefinite">
+            <h>indefinite</h>
+            <p>The default form of the instrumental preposition is simply <g>le</g> – <ul>
+                    <li><m>le</m> taigh <en>with a house</en></li>
+                    <li><m>le</m> aislingean <en>with dreams</en></li>
+                    <li><m>le</m> Nirribhidh <en>with Norway</en></li>
+                    <li><m>le</m> trì làithean <en>with three days</en></li>
+                </ul></p>
+        </section>
+        <section id="definite">
+            <h>definite</h>
+            <p>When the immediately following word is a form of the definite article, the linking
+                form <g>leis</g> is used – <ul>
+                    <li><m>leis an</m> taigh <en>with the house</en></li>
+                    <li><m>leis a’</m> bhaile <en>with the town</en></li>
+                    <li><m>leis na h-</m>aislingean <en>with the dreams</en></li>
+                </ul>
+            </p>
+            <!-- <p><ed>Add note on ‘leis a-màireach’, ‘leis a h-uile ...’, ‘leis a bheil ...’</ed></p> -->
+            <p>Fused forms are occasionally found when the immediately following word is a <a
+                    href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+                    <li><m>le mo</m> thaigh <en>with my house</en> ≈ <g>lem</g> thaigh </li>
+                    <li><m>le do</m> bhaile <en>with your town</en> ≈ <g>led</g> bhaile </li>
+                    <li><m>le a h-</m>eaglais <en>with her church</en> ≈ <g>le h-</g>eaglais</li>
+                    <li>
+                        <m>le a</m> chraoibh <en>with his tree</en> ≈ <g>le</g> chraoibh</li>
+                    <li><m>le ar n-</m>achadh <en>with our field</en> ≈ <g>lar n-</g>achadh</li>
+                    <li><m>le bhur</m> leapannan <en>with your beds</en> ≈ <g>lur</g> leapannan</li>
+                    <li><m>le an</m> taighean <en>with their houses</en> ≈ <g>len</g> taighean</li>
+                    <li><m>le am</m> baile <en>with their town</en> ≈ <g>lem</g> baile</li>
+                </ul></p>
+            <p>Note that these fused forms are rather awkward and hence are best avoided in writing
+                nowadays.</p>
+        </section>
+        <section id="pronouns">
+            <h>prepositional pronouns</h>
+            <p>Conjugated prepositions are used in place of <bad>le mi</bad>, <bad>le thu</bad>, ...
+                , <bad>le iad</bad> – <ul>
+                    <li><m>leam</m>
+                        <en>with me</en></li>
+                    <li><m>leat</m>
+                        <en>with you</en></li>
+                    <li><m>leatha</m>
+                        <en>with her/it</en></li>
+                    <li><m>leis</m>
+                        <en>with him/it</en></li>
+                    <li><m>leinn</m>
+                        <en>with us</en></li>
+                    <li><m>leibh</m>
+                        <en>with you</en></li>
+                    <li><m>leotha</m>
+                        <en>with them</en></li>
+                </ul>
+            </p>
+            <p>There are also emphatic forms (cf. <bad>le mise</bad>, <bad>le thusa</bad>, ... ,
+                    <bad>le iadsan</bad>) – <ul>
+                    <li><m>leamsa</m>
+                        <en>with <emph>me</emph></en></li>
+                    <li><m>leatsa</m>
+                        <en>with <emph>you</emph></en></li>
+                    <li><m>leathase</m>
+                        <en>with <emph>her/it</emph></en></li>
+                    <li><m>leis-san</m>
+                        <en>with <emph>him/it</emph></en></li>
+                    <li><m>leinne</m>
+                        <en>with <emph>us</emph></en></li>
+                    <li><m>leibhse</m>
+                        <en>with <emph>you</emph></en></li>
+                    <li><m>leothasan</m>
+                        <en>with <emph>them</emph></en></li>
+                </ul>
+            </p>
+            <p>Note that the form <g>leathase</g> breaks the ‘slender-to-slender, broad-to-broad’
+                spelling rule, and hence is sometimes found written with a hyphen –
+                <g>leatha-se</g>.</p>
+            <p>Finally, there are also reflexive forms (cf. <bad>le mi fhìn</bad>, <bad>le thu
+                    fhèin</bad>, ... , <bad>le iad fhèin</bad>) – <ul>
+                    <li><m>leam fhìn</m>
+                        <en>with myself</en></li>
+                    <li><m>leat fhèin</m>
+                        <en>with yourself</en></li>
+                    <li><m>leatha fhèin</m>
+                        <en>with herself/itself</en></li>
+                    <li><m>leis fhèin</m>
+                        <en>with himself/itself</en></li>
+                    <li><m>leinn fhìn</m>
+                        <en>with ourselves</en></li>
+                    <li><m>leibh fhèin</m>
+                        <en>with yourself</en></li>
+                    <li><m>leotha fhèin</m>
+                        <en>with themselves</en></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section id="comp">
+            <h>complement</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="comp-older-pedag">
+                            <li>
+                                <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air
+                                    falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa nan
+                                    litrichean <m>leis an litir seo</m>, Iain?” [...]</gd>
+                                <tr>My mother is writing a letter to my father who is away. My
+                                    mother said, “Will you go to the postbox with this letter,
+                                    John?” [...]</tr>
+                                <ref text="621">td. 5</ref>
+                            </li>
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug <m>an athair</m>
+                                    <m>leis</m> Iain agus Anna anns a’ chàr.</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car.</tr>
+                                <ref text="621">td. 6</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-comp">
+            <h>complement</h>
+            <p><g>le</g> can be used to introduce the complement of a verb – <ul>
+                    <li><g><a href="?gd=rach">rach</a> le</g>
+                        <en>go with something, take something</en></li>
+                    <li><g><a href="?gd=thoir">thoir</a> leam</g>
+                        <en>take/bring something</en></li>
+                    <li><g>na <a href="?gd=stad">stad</a> le bhith a’ dèanamh rud</g>
+                        <en>not stop at doing something, go beyond doing something</en></li>
+                </ul>
+            </p>
+        </section>
+        <section id="uses-mod">
+            <h>modifier</h>
+            <p><g>le</g> can be used to introduce the modifier of a verb – <ul>
+                    <li><g><a href="?gd=ruith">ruith</a> le</g>
+                        <en>run with something</en></li>
+                </ul>
+            </p>
+        </section>
+
+        <section id="uses-other">
+            <h>other</h>
+            <p>Examples from Gairm – <xl id="gairm">
+                    <li>
+                        <gd>[...] ’Se madainn bhòidheach foghair a bh’ ann—tioram, <m>le ceileir
+                                eòin</m>, is beagan dealt air an fheur. Bha a[m] muir ’s na tighean
+                            ag éirigh á inntinn an latha. [...]</gd>
+                        <tr>[...] It was a beautiful autumn morning – dry, with the chirping of
+                            birds, and a little dew on the grass. The sea and the houses were rising
+                            from the mind of the day [??]. [...]</tr>
+                        <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+</module>

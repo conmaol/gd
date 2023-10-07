@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h lang="en">oilthigh</h>
+    <h lang="gd">oilthigh</h>
+    <p lang="en">Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>Bha i ceud bliadhna a dh’ aois is esan dhà air fhichead. Cha robh e ach <m>mìos
+                        no dhà a-mach ás an oilthigh</m>. Bha a nighean a’ fuireachd còmhla rithe.
+                    Bha ise ceithir fichead. Shaoil e gu robh a’ chailleach ann an dòigh na bu
+                    shunndaiche na a nighean. [...]</gd>
+                <tr>She was a hundred years old and him twenty two. He was just a month or two out
+                    of the university. Her daughter was living with her. She was eighty. He thought
+                    that the old woman was in a way livelier than her daughter. [...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+            </li>
+        </xl>
+    </p>
+    <p>Other examples from modern usage – <xl id="other">
+        <li>
+            <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. [...]
+                Bha seachdnar de theaghlach aige, ceathrar mhac agus triùir nighean, agus bha a
+                h-uile fear is tè anns a’ mhalairt ach Rob. B’ e Rob a b’ òige agus lean e an
+                sgoil. Nuair a <m>ràinig e an t-oilthigh</m> bha càch airson gun ionnsaicheadh e
+                cunntasachd, a bhiodh feumail anns a’ mhalairt, ach ’s ann a bha ùidh-san ann an
+                ealain. <m>Dh’fhàg e an t-oilthigh</m> agus chaidh e do sgoil ealain. [...]</gd>
+            <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. [...]
+                He had a family of seven, four sons and three daughters, and every man and woman
+                was in the business except Rob. Rob was the youngest and he stayed on at school.
+                When he reached the university the others wanted him to learn accountancy, which
+                would be useful in the business, but his interest was in art. He left the
+                university and went to an art school. [...]</tr>
+            <ref text="2">td. 5</ref>
+        </li>
+    </xl>
+    </p>
+</module>

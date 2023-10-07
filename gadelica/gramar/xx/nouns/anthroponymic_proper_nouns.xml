@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>anthroponymic proper nouns</h>
+  <p>Anthroponymic proper nouns are <a href="?xx=nouns/proper_nouns">proper nouns</a> which are also
+      <a href="?xx=nouns/anthroponyms">anthroponyms</a> – nouns which identify individual persons
+    (and other personified entities like toys, boats, pets). Examples of anthroponymic proper nouns
+    are <g>Mairead</g>
+    <fem/>
+    <en>Margaret</en>, <g>Seumas</g>
+    <masc/>
+    <en>James</en>.</p>
+  <p>Anthroponymic proper nouns contrast with <a href="?xx=nouns/anthroponymic_name_descriptions"
+      >anthroponymic name-descriptions</a> like <g>An Caiptean</g>
+    <en>The Captain</en> or <g>Bean Alasdair</g>
+    <en>Alexander’s Wife</en>.</p>
+
+  <section id="derivation">
+    <h>derivation</h>
+    <section>
+      <h>simple</h>
+      <p>The vast majority of anthroponymic proper nouns are simple, in that they are not (at least
+        not obviously) created from other words.</p>
+      <section id="fem">
+        <h>feminine</h>
+        <p><ul>
+            <li><a href="?gd=Anna"><g>Anna</g></a>
+              <en>Anne</en></li>
+            <li><g>Cairistìona</g>
+              <en>Christine</en></li>
+            <li><g>Caitrìona</g>
+              <en>Catherine</en></li>
+            <li><g>Ealasaid</g>
+              <en>Elizabeth</en></li>
+            <li><g>Eilidh</g>
+              <en>Helen</en></li>
+            <li><g>Mairead</g>
+              <en>Margaret</en>, gen. <g>Maireid</g></li>
+            <li><g>Màiri</g>
+              <en>Mary</en></li>
+            <li><g>Marsaili</g>
+              <en>Marjory</en></li>
+            <li><g>Mòr</g>
+              <en>Sarah, Marion</en>, gen. <g>Mòir</g></li>
+            <li><g>Oighrig</g>
+              <en>Euphemia, Effie</en></li>
+            <li><g>Raonaid</g>
+              <en>Rachel</en>, also <g>Raghnaid</g></li>
+            <li><g>Seònaid</g>
+              <en>Janet</en></li>
+            <li><g>Sìleas</g>
+              <en>Julia, Cicely, Sheila</en>, gen. <g>Sìleis</g></li>
+            <li><g>Sìne</g>
+              <en>Joan</en></li>
+          </ul></p>
+      </section>
+      <section id="masc">
+        <h>masculine</h>
+        <p><ul>
+            <li><g>Ailean</g>
+              <en>Alan</en>, gen. <g>Ailein</g></li>
+            <li><g>Alastair</g>
+              <en>Alexander</en>, also <g>Alasdair</g></li>
+            <li><g>Anndra</g>
+              <en>Andrew</en></li>
+            <li><g>Aonghas</g>
+              <en>Angus, Innes</en>, gen. <g>Aonghais</g></li>
+            <li><g>Cailean</g>
+              <en>Colin</en>, gen. <g>Chailein</g></li>
+            <li><g>Calum</g>
+              <en>Malcolm</en>, gen. <g>Chaluim</g></li>
+            <li><g>Coinneach</g>
+              <en>Kenneth</en>, gen. <g>Choinnich</g></li>
+            <li><g>Dàibhidh</g>
+              <en>David</en>, gen. <g>Dhàibhidh</g></li>
+            <li><g>Dòmhnall</g>
+              <en>Donald</en>, gen. <g>Dhòmhnaill</g>, also <g>Domhnull</g> in nominative</li>
+            <li><g>Donnchadh</g>
+              <en>Duncan</en>, gen. <g>Dhonnchaidh</g></li>
+            <li><g>Dùghall</g>
+              <en>Douglas</en>, gen. <g>Dhùghaill</g></li>
+            <li><g>Eachann</g>
+              <en>Hector</en>, gen. <g>Eachainn</g></li>
+            <li><g>Fionnlagh</g>
+              <en>Finlay</en>, gen. <g>Fhionnlaigh</g></li>
+            <li><a href="?gd=Iain"><g>Iain</g></a>
+              <en>John</en></li>
+            <li><g>Màrtainn</g>
+              <en>Martin</en>, gen. <g>Mhàrtainn</g></li>
+            <li><g>Mìcheal</g>
+              <en>Michael</en>, gen. <g>Mhìcheil</g></li>
+            <li><g>Murchadh</g>
+              <en>Murdo</en>, gen. <g>Mhurchaidh</g></li>
+            <li><g>Niall</g>
+              <en>Neil</en>, gen. <g>Nèill</g></li>
+            <li><g>Pàdraig</g>
+              <en>Peter</en>, gen. <g>Phàdraig</g>, also <g>Pàdruig</g> in nominative</li>
+            <li><g>Peadar</g>
+              <en>Peter</en>, gen. <g>Pheadair</g></li>
+            <li><g>Pòl</g>
+              <en>Paul</en>, gen. <g>Phòil</g></li>
+            <li><g>Raghnall</g>
+              <en>Ronald</en>, gen. <g>Raghnaill</g></li>
+            <li><g>Raibeart</g>
+              <en>Robert</en>, gen. <g>Raibeirt</g></li>
+            <li><g>Ruairidh</g>
+              <en>Derek, Roderick</en>, also <g>Ruaraidh</g></li>
+            <li><g>Seòras</g>
+              <en>George</en>, gen. <g>Sheòrais</g></li>
+            <li><g>Seumas</g>
+              <en>James</en>, gen. <g>Sheumais</g></li>
+            <li><g>Sìm</g>
+              <en>Simon</en>, gen. <g>Shìm</g></li>
+            <li><g>Somhairle</g>
+              <en>Sorley</en>, gen. <g>Shomhairle</g></li>
+            <li><g>Tòmas</g>
+              <en>Thomas</en>, gen. <g>Thòmais</g></li>
+            <li><g>Tormod</g>
+              <en>Norman</en>, gen. <g>Thormoid</g></li>
+            <li><g>Uilleam</g>
+              <en>William</en>, gen. <g>Uilleim</g></li>
+            <li><g>Ùisdean</g>
+              <en>Hugh</en>, gen. <g>Ùisdein</g></li>
+          </ul></p>
+      </section>
+    </section>
+    <section id="diminutives">
+      <h>diminutives</h>
+      <p>Some anthroponymic proper nouns are diminutive variants of other more formal versions.</p>
+      <p>Feminine – <ul>
+          <li><g>Cairistìona</g>
+            <en>Christine</en> ⇒ <g>Ciorstaidh</g>
+            <en>Kirsty</en>; <g>Curstag</g>, gen. <g>Curstaig</g></li>
+          <li><g>Caitrìona</g>
+            <en>Catherine</en> ⇒ <g>Ceitidh</g>
+            <en>Katy</en>; <g>Ceit</g>
+            <en>Kate</en></li>
+          <li><g>Mairead</g>
+            <en>Margaret</en> ⇒ <g>Peigi</g>
+            <en>Peggy</en></li>
+          <li><g>Mòr</g>
+            <en>Sarah, Marion</en> ⇒ <g>Mòrag</g>, gen. <g>Mòraig</g></li>
+          <li><g>Seònaid</g>
+            <en>Janet</en> ⇒ <g>Seonag</g>, gen. <g>Seonaig</g></li>
+        </ul>
+      </p>
+      <p>Masculine – <ul>
+          <li><g>Alastair</g>
+            <en>Alexander</en> ⇒ <g>Sandaidh</g>
+            <en>Sandy</en>, gen. <g>Shandaidh</g>; <g>Ailig</g>
+            <en>Alec</en></li>
+          <li><g>Dòmhnall</g>
+            <en>Donald</en> ⇒ <g>Donaidh</g>
+            <en>Donny</en>, gen. <g>Dhonaidh</g>; <g>Dòmhnallan</g>, gen. <g>Dhòmhnallain</g></li>
+          <li><g>Iain</g>
+            <en>John</en> ⇒ <g>Seonaidh</g>
+            <en>Jonnie</en>, gen. <g>Sheonaidh</g>; <g>Iagan</g>, gen. <g>Iagain</g></li>
+          <li><g>Seumas</g>
+            <en>James</en> ⇒ <g>Seumaidh</g>
+            <en>Jimmy</en>, gen. <g>Sheumaidh</g></li>
+          <li><g>Uilleam</g>
+            <en>William</en> ⇒ <g>Uilleagan</g>
+            <en>Willy</en>, gen. <g>Uilleagain</g></li>
+        </ul>
+      </p>
+    </section>
+    <!--
+    <section>
+      <h>compounds</h>
+      <p><ed>Compounds? GilleEasbaig? Gillebrìde? Are these name-descriptions?</ed></p>
+    </section>
+    -->
+  </section>
+
+  <section id="forms">
+    <h>forms</h>
+    <p>Like all proper nouns, anthroponymic proper nouns have - <ul>
+        <li>gender – every anthroponymic proper noun is either feminine or masculine – <ul>
+            <li><g>Ealasaid</g>
+              <en>Elizabeth</en> and <g>Raonaid</g>
+              <en>Rachel</en> are feminine anthroponymic proper nouns</li>
+            <li><g>Iain</g>
+              <en>John</en> and <g>Dòmhnall</g>
+              <en>Donald</en> are masculine anthroponymic proper nouns</li>
+          </ul>
+        </li>
+        <li>case – every anthroponymic proper noun is either nominative or dative or genitive – <ul>
+            <li>The genitive and dative forms of the feminine proper noun <g>Mairead</g>
+              <en>Margaret</en> are both <g>Maireid</g>.</li>
+            <li>The genitive form of the masculine proper noun <g>Seòras</g>
+              <en>George</en> is <g>Sheòrais</g>; the nominative and dative forms are just
+                <g>Seòras</g>.</li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p>As with other proper nouns, the dative and genitive forms of a feminine anthroponymic proper
+      noun are created by slenderising the corresponding nominative form (<g>Mairead</g> ⇒
+          <g>Maire<emph>id</emph></g><!--<ed>Never Maireide?</ed>-->), and the genitive form of a masculine anthroponymic proper
+      noun is created by both slenderising and leniting the corresponding nominative form
+        (<g>Tormod</g>
+      <en>Norman</en> ⇒ <g>Thormo<emph>id</emph></g>).</p>
+  </section>
+
+  <section>
+    <h>dependencies</h>
+    <section id="modifiers">
+      <h>modifiers</h>
+      <p>Like other proper nouns, an anthroponymic proper noun can have one or more (post-)modifiers
+        – <ul>
+          <li>adjectives – <g>Iain <emph>bochd</emph></g>
+            <en>poor John</en>, <g>Mairead <emph>bhàn</emph>
+              <emph>bhòidheach</emph></g>
+            <en>pretty fair Margaret</en></li>
+          <li>prepositions – <g>Dòmhnall <emph>à</emph> Lunnainn</g>
+            <en>Donald from London</en></li>
+          <li>relative clauses – <g>Tòmas <emph>a bha</emph> anns an sgoil còmhla rium</g>
+            <en>Thomas who was at school with me</en>, <g>Raonaid nach ith feòil</g>
+            <en>Rachel who doesn’t eat meat</en></li>
+        </ul>
+      </p>
+      <!--
+      <p><ed>Can a genitive common noun be used to modify an anthroponymic proper noun?</ed></p>
+      <p><ed>Add recap of rules for leniting and slenderising adjectives?</ed></p> -->
+      <section>
+        <h>nicknames</h>
+        <p>Adjective modifiers are frequently used in nicknames – <ul>
+            <li><g>Mairead Bhàn</g>
+              <en>Fair Margaret</en>
+              <ul>
+                <li>dative – le <g>Maireid Bhàin</g> (alt. le Mairead Bhàn)</li>
+                <li>genitive – taigh <g>Maireid Bhàin</g></li>
+              </ul></li>
+            <li><g>Seumas Mòr</g>
+              <en>Big James</en><ul>
+                <li>dative – le <g>Seumas Mòr</g></li>
+                <li>genitive – taigh <g>Sheumais Mhòir</g></li>
+              </ul></li>
+          </ul>
+        </p>
+        <p>Examples from modern usage – <xl id="mod-adj--other">
+            <li>
+              <gd>’Se an aon duine a bha coltach ris anns a’ bhaile <m>Tormod Beag</m> a bhiodh a’
+                fuireach anns an tigh fad na tìde ’s a bhiodh ag òl gun sgur.</gd>
+              <tr>The only man who was like him in the town was Little Norman who stayed at home all
+                the time and drank non-stop.</tr>
+              <ref text="198">td. 4</ref>
+            </li>
+            <li>
+              <gd>Làrna-mhàireach thachair Cairstìona rium ’s i dol a thadhal air bean <m>Mhurchaidh
+                  Mhóir</m>.</gd>
+              <tr>The next day I bumped into Christine as she was going to visit Big Murdo’s
+                wife.</tr>
+              <ref text="198">td. 7</ref>
+            </li>
+          </xl>
+        </p>
+      </section>
+      <section>
+        <h>non-patronymic surnames</h>
+        <p>‘Non-patronymic’ surnames are a special kind of adjective post-modifier of an
+          anthroponymic proper noun, with the same patterns of lenition and slenderisation – <ul>
+            <li><g>Mairead Chaimbeul</g>
+              <en>Margaret Campbell</en>
+              <ul>
+                <li>dative – le <g>Maireid Chaimbeil</g></li>
+                <li>genitive – taigh <g>Maireid Chaimbeul</g></li> <!-- taigh Maireid Caimbeile??-->
+              </ul></li>
+            <li><g>Tormod Dòmhnallach</g>
+              <en>Norman Donaldson</en>
+              <ul>
+                <li>dative – le <g>Tormod Dòmhnallach</g></li>
+                <li>genitive – taigh <g>Thormoid Dhòmhnallaich</g></li>
+              </ul></li>
+          </ul>
+        </p>
+        <p>cf. <g>Camshron</g>
+          <en>Cameron</en>, <g>Friseal</g>
+          <en>Fraser</en>.</p>
+        <!-- <p>Include examples from Cox?</p> -->
+      </section>
+    </section>
+
+    <section id="specifier">
+      <h>specifier</h>
+      <p>Like other proper nouns, an anthroponymic proper noun can have a (post-)specifier – <ul>
+          <li>genitive proper noun – <ul>
+              <li><g>Mairead <emph>Sheumais</emph></g>
+                <en>James’ Mary; Mary the wife/daughter of James</en>
+                <ul>
+                  <li>dative – le <g>Maireid Sheumais</g></li>
+                  <li>genitive – taigh <g>Maireid<!--(e?)--> Sheumais</g>
+                    <!-- <ed>Is this acceptable?</ed> --></li>
+                </ul></li>
+              <li><g>Dòmhnall Chanaidh</g>
+                <en>Donald of Canna</en>
+                <ul>
+                  <li>dative – le <g>Dòmhnall Chanaidh</g></li>
+                  <li>genitive – taigh <g>Dhòmhaill Chanaidh</g>
+                    <!-- <ed>Is this acceptable?</ed> --></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>pre-specified common noun –<ul>
+              <li><g>Dòmhnall a’ <emph>Mhinisteir</emph></g>
+                <en>the Minister’s Donald; Donald the son of the Minister</en>
+                <ul>
+                  <li>dative – le <g>Dòmhnall a’ Mhinisteir</g></li>
+                  <li>genitive – taigh <g>Dhòmhnaill a’ Mhinisteir</g>
+                    <!-- <ed>Is this acceptable?</ed> --></li>
+                </ul></li>
+              <li><g>Seòras a’ <emph>Ghearasdain</emph></g>
+                <en>George of Fort William</en>
+                <ul>
+                  <li>dative – le <g>Seòras a’ Ghearasdain</g></li>
+                  <li>genitive – taigh <g>Sheòrais a’ Ghearasdain</g>
+                    <!-- <ed>Is this acceptable?</ed> --></li>
+                </ul></li>
+            </ul>
+          </li>
+          <li>post-specified common noun – <ul>
+              <li><g>Seonag <emph>Ministeir</emph> na h-Eaglaise</g>
+                <en>Janie the wife/daughter of the Church Minister</en>
+                <!-- <ed>Is this grammatical?</ed> -->
+                <ul>
+                  <li>dative – le <g>Seonaig Ministeir na h-Eaglaise</g></li>
+                  <li>genitive – taigh <g>Seonaig Ministeir na h-Eaglaise</g>
+                    <!-- <ed>Is this acceptable?</ed> --></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+
+
+      <p>The specifier can refer to a close relative (parent or spouse) by name or by profession, or
+        a place of residence or origin.</p>
+      <p>Other examples –<ul>
+          <li><g>Sìleas na Ceapaich</g>
+            <en>Cicely of Keppoch</en>
+            <ul>
+              <li>dative – le <g>Sìleis na Ceapaich</g></li>
+              <li>genitive – taigh <g>Sìleis<!--(e?)--> na Ceapaich</g>
+                <!-- <ed>Is this acceptable?</ed> --></li>
+            </ul>
+          </li>
+          <li><g>Màiri Mhòr nan Òran</g>
+            <en>lit. Big Mary of the Songs</en>
+            <ul>
+              <li>dative – le <g>Màiri Mhòr nan Òran</g></li>
+              <li>genitive – taigh <g>Màiri Mhòir nan Òran</g>
+                <!-- <ed>Is this acceptable?</ed> --></li>
+            </ul>
+          </li>
+        </ul></p>
+
+      <section>
+        <h>chained patronymics</h>
+        <p>Specified anthroponymic proper nouns can be ‘chained’ to form embedded patronymics – <ul>
+            <li><g>Iain Dhòmhnaill Sheumais Dhonnchaidh</g>
+              <en>John of Donald of James of Duncan</en></li>
+          </ul>
+        </p>
+        <p>Unlike with common nouns, a proper noun which is the (post-)specifier of another noun is
+          genitive, even if it has a specifier itself, cf. <bad>Iain Dòmhnall Seumas
+            Dhonnchaidh</bad>.</p>
+      </section>
+    </section>
+
+    <section id="apposition">
+      <h>apposition</h>
+      <!--
+      <p>Like other proper nouns, an anthroponymic proper noun can stand in apposition to a
+        specified common noun, with the two nouns agreeing for case – <ul>
+          <li><g>Dòmhnall an sagart</g>
+            <en>Donald the priest</en>
+            <ed>Is this grammatical?</ed>
+            <ul>
+              <li>dative – le <g>Dòmhnall an t-sagart</g></li>
+              <li>genitive – taigh <g>Dhòmhnaill an t-sagairt</g></li>
+            </ul>
+          </li>
+          <li><g>Mairead bean a’ Mhinisteir</g>
+            <en>Margaret the minister’s wife</en>
+            <ul>
+              <li>dative – le <g>Maireid mnaoi a’ Mhinisteir</g></li>
+              <li>genitive – taigh <g>Maireid mnatha a’ Mhinisteir</g></li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    -->
+
+      <section>
+        <h>patronymics and patronymic surnames</h>
+        <p>Using apposition, a second kind of patronymic can be formed – <ul>
+            <li><g>Mairead nighean Thormoid</g>
+              <en>Margaret, daughter of Norman</en>
+              <ul>
+                <li>dative – le <g>Mairead nighean Thormoid</g></li> <!--le Maireid nighinn Thormoid-->
+                <li>genitive – taigh <g>Maireid (n)ighne Thormoid</g></li>
+              </ul>
+            </li>
+            <li><g>Iain mac Dhòmhnaill mhic Sheumais mhic Dhonnchaidh</g>
+              <en>John, son of Donald, son of James, son of Duncan</en>
+              <!--<ed>Why mhic and not mic?</ed>-->
+              <ul>
+                <li>dative – le <g>Iain mac Dhòmhnaill mhic Sheumais mhic Dhonnchaidh</g></li>
+                <li>genitive – taigh <g>Iain m[h]ic Dhòmhnaill mhic Sheumais mhic
+                  Dhonnchaidh</g></li>
+              </ul>
+            </li>
+          </ul>
+        </p>
+        <p>Apposition also forms the basis for ‘patronymic’ surnames – <ul>
+            <li><g>Mairead NicNèill</g>
+              <en>Margaret MacNeil</en>
+              <ul>
+                <li>dative – le <g>Maireid NicNèill</g></li>
+                <li>genitive – taigh <g>Maireid NicNèill</g></li>
+              </ul>
+            </li>
+            <li><g>Seumas MacDhòmhnaill</g>
+              <en>James MacDonald</en>
+              <ul>
+                <li>dative – le <g>Seumas MacDhòmhnaill</g></li>
+                <li>genitive – taigh <g>Sheumais MhicDhòmhnaill</g></li>
+              </ul>
+            </li>
+          </ul>
+        </p>
+      </section>
+
+      <section>
+        <h>double-barrelled given names</h>
+        <p>Apposition is the basis for ‘double-barrelled’ given names – <ul>
+            <li><g>Sìleas Mairead</g>
+              <en>Julia Margaret</en>
+              <ul>
+                <li>dative – le <g>Sìleis Maireid</g></li>
+                <li>genitive – taigh <g>Sìleis Maireid</g></li>
+              </ul>
+            </li>
+            <li><g>Dòmhnall Seumas</g>
+              <en>Donald James</en>
+              <ul>
+                <li>dative – le <g>Dòmhnall Seumas</g></li>
+                <li>genitive – taigh <g>Dhòmhnaill Sheumais</g></li>
+              </ul>
+            </li>
+          </ul>
+        </p>
+        <p>Examples from modern usage – <xl id="double-barrel-other">
+            <li>
+              <gd>“Tha feadhainn ag ràdh gu bheil <m>Tormod Iain</m> a’ bualadh a mhnatha.”</gd>
+              <tr>“People are saying that Norman John hits his wife.”</tr>
+              <ref text="198">td.6.</ref>
+            </li>
+          </xl>
+        </p>
+      </section>
+
+      <section>
+        <h>titles</h>
+        <p>Apposition is the basis for titles and honorifics – <ul>
+            <li><g>An t-Ollamh Dòmhnall (MacDhòmhnaill)</g>
+              <en>Doctor/Professor Donald (MacDonald)</en>
+              <ul>
+                <li>dative – leis <g>an Ollamh Dòmhnall (MacDhòmhnaill)</g></li>
+                <li>genitive – taigh <g>an Ollaimh Dòmhnall (MacDhòmhnaill)</g></li>
+              </ul>
+            </li>
+          </ul>
+        </p>
+        <p>Basic examples from Cox (2017: 129) – <g>A’ Bhanrigh Bhioctòria</g>
+          <en>Queen Victoria</en>, <g>An (Dàrna) Rìgh Seumas</g>
+          <en>King James (the Second)</en>, <g>A’ Bhana-phrionnsa Anna</g>
+          <en>Princess Anne</en>, <g>Am Prionnsa Teàrlach</g>
+          <en>Prince Charles</en>, <g>A’ Mhaighdean Eilidh Ghreumach</g>
+          <en>Miss Helen Graham</en>. <g>A’ Bhean-uasal Oighrig NicDhòmhnaill</g>
+          <en>Lady Euphemia MacDonald</en>, <g>An t-Urramach Ailean Friseal</g>
+          <en>Reverend Alan Fraser</en>.</p>
+        <p>Examples from Cox (2017: 129) with no anthroponymic proper noun – <g>An Sagart
+            MacLeòid</g>
+          <en>Priest? MacLeod</en>, <g>Am Ministear NicAsgail</g>
+          <en>Minister? MacAskill</en>, <g>A’ Bhean-phòsta NicDhonnchaidh</g>
+          <en>Mrs Donaldson</en>, <g>An t-Athair MacFhionghain</g>
+          <en>Father MacKinnon</en>.</p>
+
+
+        <!--
+        <p>Non-canonical examples in Cox (2017: 129), where there is no agreement in case – <ul>
+            <li><g>leabhar an Deadhain Seumas MacGrìogair</g>
+              <en>Dean James MacGregor’s book</en>
+              <ed>leabhar an deadhain Sheumais MhicGrìogair ?</ed></li>
+            <li><g>ciad mhac a’ Phrionnsa Teàrlach</g>
+              <en>Prince Charles’ first son</en>
+              <ed>ciad mhac a’ Phrionnsa Theàrlaich ?</ed></li>
+            <li><g>eaglais an Urramaich MacCoinnich</g>
+              <en>Reverend MacKenzie’s church</en>
+              <ed>eaglais an Urramaich MhicCoinnich ?</ed></li>
+          </ul>
+        </p>
+        <p>Non-canonical examples from Calder (1923: 139) – <ul>
+            <li><g>Mac Rìgh Seumas, Tearlach Stiubhart</g>
+              <en>Charles Stuart, son of King James</en>
+              <ed>Mac an Rìgh Sheumais ?</ed> (also: p. 104)</li>
+            <li><g>Do theaghlach rìgh Fionghall</g>
+              <en>to the family of King Fingal</en>
+              <ed>do theaghlach an Rìgh Fhionghaill ?</ed></li>
+            <li><g>Sin as onoir Shir Seumas</g>
+              <en>That is the honour of Sir James</en>
+              <ed>onoir Shir Sheumais ?</ed>.</li>
+            <li><g>ri linn ban-righ Màiri</g>
+              <en>in Queen Mary’s reign</en>
+              <ed>linn na Banrigh Màiri ?</ed>.</li>
+          </ul>
+        </p>
+        -->
+      </section>
+    </section>
+  </section>
+  
+
+  <!--
+      <section>
+        <h>exceptions</h>
+        <p>When the common noun in an apposition is simple, and the anthroponymic proper noun is
+          modified by no more than one adjective, then the definite article is generally
+          dropped.</p>
+        <p>Gillies (1902: 159, 166-9) – <ul>
+            <li><g>Dughall taillear</g>
+              <en>Dugald (the) tailor</en>, cf. <bad>Dughall an taillear</bad></li>
+            <li><g>Eobhan ban ciobair</g>
+              <en>fair Evan the shepherd</en>, cf. <bad>Eobhan ban an ciobair</bad></li>
+          </ul>
+        </p>
+        <p>Calder (1923: 138-9) – <ul>
+            <li><m>Eobhan cìobair</m>
+              <en>Ewen the shepherd</en>.</li>
+            <li><m>Ioseph saor</m>
+              <en>John the Carpenter</en>.</li>
+            <li><m>(beannachd) Chaluim ghobha</m>
+              <en>Smith Malcom’s blessing</en>.</li>
+            <li><m>Domhnull ruadh tàillear</m>
+              <en>Red Donald the tailor</en>.</li>
+            <li><m>miann Dhomhnuill amadain</m>
+              <en>Fool Donald’s fancy</en>.</li>
+          </ul>
+        </p>
+
+        <p>But – <ul>
+            <li><g>Mairead bheag dhubh a’ bhanarach</g></li>
+            <li><g>Dòmhnall MacLeòid am breabadair</g>
+              <en>Donald MacLeod the weaver</en> – <bad>Dòmhnall MacLeòid breabadair</bad></li>
+            <li>
+              <g>Alasdair am fear lagha</g>
+              <en>Alexander the lawyer</en> – <bad>Alasdair fear lagha</bad></li>
+          </ul>
+        </p>
+        <p>Gillies (1902: 159, 166-9) – <ul>
+            <li><i>Alasdair an ceard-umha</i>
+              <en>Alexander the copper-smith</en>, <bad>Alasdair ceard-umha</bad>,</li>
+            <li><i>Iain Caimbeul am maor</i>
+              <en>John Campbell the sheriff-officer</en>, <bad>Iain Caimbeul maor</bad></li>
+            <li><i>Mòrag bheag bhoidheach a’ bhanarach</i>
+              <en>pretty little Sarah the milkmaid</en>, <bad>Mòrag bheag bhoidheach
+              bhanarach</bad>.</li>
+          </ul>
+        </p>
+      </section>
+    </section>
+  </section>
+
+  <section id="notes">
+    <h>notes</h>
+
+
+
+
+
+
+
+
+    <p>Calder (1923: 138) – <ul>
+        <li><m>Mac dé</m>
+          <en>a son of a god</en> versus <m>Mac Dhé</m>
+          <en>the Son of God</en> – <i>dia</i> (genitive <i>dè</i>) is a (masculine) common noun,
+          which has been ‘namified’ into the masculine anthroponymic proper noun <i>Dia</i>
+          (genitive <i>Dhè</i>).</li>
+        <li><m>Mac Dhòmhnuill</m>
+          <en>the son of Donald</en> versus <m>Mac Dòmhnuill</m>
+          <en>a son of a Donald</en> – <i>Dòmhnall</i> (genitive <i>Dhòmhnaill</i>) is a masculine
+          anthroponymic proper noun which has been ‘de-namified’ into the masculine common noun
+            <i>Dòmhnall</i> (genitive <i>Dòmhnaill</i>), meaning <en>a man called Donald</en>.</li>
+      </ul>
+    </p>
+    <p>Gillies (1902: 159, 166–9): <ol>
+        <li><m>Alasdair an ceard-umha</m>
+          <en>Alexander the copper-smith</en> – the definite article is necessary because of the
+          compound noun, cf. <bad>Alasdair ceard-umha</bad>, <i>Dughall taillear</i>
+          <en>Dugald (the) tailor</en>, <bad>Dughall an taillear</bad>, <i>Ceit ’bhanarach</i>
+          <en>Kate the milkmaid</en>, <bad>Ceit a’ bhanarach</bad>.</li>
+        <li><m>Iain Caimbeul am maor</m>
+          <en>John Campbell the sheriff-officer</en> – the definite article is necessary because of
+          the surname, cf. <bad>Iain Caimbeul maor</bad>, <i>Iain maor</i>
+          <en>John the sheriff-officer</en>, <bad>Iain am maor</bad>. The stated genitive form is
+            <i>(tigh) Iain Chaimbeil am maor</i>, rather than <bad>(tigh) Iain Chaimbeil a’
+            mhaoir</bad>. </li>
+        <li><m>Mòrag bheag bhoidheach a’ bhanarach</m>
+          <en>pretty little Sarah the milkmaid</en> – the definite article is necessary because of
+          the second adjective, cf. <bad>Mòrag bheag bhoidheach bhanarach</bad>, <i>Eobhan ban
+            ciobair</i>
+          <en>fair Evan the shepherd</en>, <bad>Eobhan ban an ciobair</bad>.</li>
+        <li><m>Domhnall Camshron am maighstir-sgoil</m>
+          <en>Donald Cameron the schoolmaster</en> has the genitive <i>(tigh) Dhomhnaill Chamshroin
+            am maighstir-sgoil</i>, rather than <bad>(tigh) Dhomhnaill Chamshroin a’
+            mhaighstir-sgoil</bad>.</li>
+        <li><m>(mac) Ioseiph an saor</m>
+          <en>(the son) of Joseph-the-carpenter</en> (never <en>the carpenter son of Joseph</en>) is
+          the genitive of <i>Ioseaph an saor</i>, rather than <bad>(mac) Ioseiph an
+          t-saoir</bad>.</li>
+        <li><m>(thuit e le laimh) Oscair an laoch cruadalach</m>
+          <en>(he fell by the hand) of Oscar the bold hero</en> is the genitive of <i>Oscar an laoch
+            cruadalach</i>, rather than <bad>(thuit e le laimh) Oscair an laoich
+          chruadalaich</bad>.</li>
+        <li><m>(do) a bhràithribh uile mic an righ</m>
+          <en>(to) all his brothers the sons of the king</en> is the dative of <i>a bhràithrean uile
+            mic an righ</i>, rather than presumably <bad>(do) a bhràithribh uile macaibh an
+            righ</bad>.</li>
+      </ol>
+    </p>
+    <p>Gillies follows Stewart (1876) in noting that patronymics and Biblical Gaelic appear to be
+      more conservative (arguably hypercorrect) in case usage – <ol>
+        <li><m>Donnchadh mac Chailein mhic Dhomhnuill</m>
+          <en>Duncan the son of Colin the son of Donald</en>, rather than <bad>Donnchadh mac
+            Chailein m(h)ac Dhomhnuill</bad>.</li>
+        <li><m>do mhacaibh Bharsaili a’ Ghileadaich</m>
+          <en>unto the sons of Barzillai the Gileadite (1 Kings 2:7)</en>, rather than <bad>do
+            mhacaibh Bharsaili an Gileadach</bad>.</li>
+        <li><m>righ-chathair Dhaibhidh (a) athar</m>
+          <en>the throne of his father David (1 Kings 2:12)</en>, rather than <bad>righ-chathair
+            Dhaibhidh (a) athair</bad>.</li>
+        <li><m>do thaobh Bheniamin am brathar</m>
+          <en>for their brother Benjamin (Judges 21:6)</en>, rather than <bad>do thaobh Bheniamin am
+            brathair</bad>.</li>
+        <li><m>ag gabhail nan clar cloiche, eadhon chlar a’ cho-cheangail</m>
+          <en>to receive the tablets of stone, even the tablets of the covenant (Deuteronymy
+            9:9)</en>, rather than <bad>ag gabhail nan clar cloiche, eadhon claran a’
+            cho-cheangal</bad>.</li>
+      </ol>
+    </p>
+    <p>Calder (1923: 138-9) – <ol>
+        <li><m>Alasdair, an ceard-umha</m>
+          <en>Alexander the coppersmith</en>.</li>
+        <li><m>Ailean, am muillear-luaidh</m>
+          <en>Allan the fulling-miller</en>.</li>
+        <li><m>Alasdair Tàillear, an clachair</m>
+          <en>Alexander Taylor the mason</en>.</li>
+        <li><m>Iain Caimbeul am maor</m>
+          <en>John Campbell the Officer</en>.</li>
+        <li><m>Eachainn glas òg, an tuathanach</m>
+          <en>Young wan Hector, the farmer</en>.</li>
+        <li><m>Mòrag bheag chiar, a’ bhanarach</m>
+          <en>Little swarthy Sally, the Dairymaid</en>.</li>
+        <li><m>Each Iain Chaimbeil, am maor</m>
+          <en>the horse of John Campbell the Officer</en>.</li>
+        <li><m>Tigh Sheumais, a mhac</m>
+          <en>the house of James, his son</en>.</li>
+        <li><m>air deas làimh Dhé an t-athair</m>
+          <en>on the right hand of God the father</en> cf. the hypercorrect <bad>air deas làimh Dhé
+            an athar</bad>.</li>
+        <li><m>da bhràithribh uile, mic an rìgh</m>
+          <en>to all his brothers, the King’s sons (1 Kings 1 9)</en></li>
+        <li><m>ri Sarai, a bhean</m>
+          <en>to Sarah, his wife (Genesis 12 11)</en>.</li>
+      </ol>
+    </p>
+
+    <p>Calder (1923: 104) – use of definite article with anthroponymic proper nouns to imply repute: <ul>
+        <li><m>Cho làidir ris a’ Gharbh Mac Stàirn</m>
+          <en>as g as the famous Garve the son of Starn</en></li>
+        <li><m>Leam is aithghearr a’ chéilidh / Rinneas mar ris an t-Seumas</m>
+          <en>Short methought was the interview / I had with the famous James</en></li>
+        <li><m>Sliochd an Alasdair Gharaich</m>
+          <en>The seed of the famous Alasdair Carrach</en></li>
+      </ul>
+    </p>
+
+  </section>
+  -->
+
+  <section id="lenition">
+    <h>lenition</h>
+    <section>
+      <h>masculine</h>
+      <p>A masculine anthroponymic proper noun which is the (genitive) (post-)specifier of another
+        noun is generally lenited – <ul>
+          <li><g>taigh Dhòmhnaill</g>
+            <en>Donald’s house</en><!--, cf. <bad>taigh Dòmhna(i)ll</bad>--></li>
+          <li><g>cù Mhurchaidh</g> – <en>Murdo’s dog</en><!--, cf. <bad>cù Murcha(i)dh</bad>--></li>
+        </ul>
+      </p>
+      <p>However, in traditional (especially formal) usage, lenition may be ‘blocked’ if adjacent
+        consonants are both dental or even both velar – <ul>
+          <li><g>Cla<emph>nn D</emph>òmhnaill</g>
+            <en>Clan Donald</en></li>
+          <li><g>Cla<emph>nn D</emph>onnchaidh</g>
+            <en>Clan Duncan</en></li>
+          <li><g>ma<emph>c C</emph>aluim</g>
+            <en>Calum’s son</en></li>
+        </ul>
+      </p>
+      <p>In addition, lenition is optional with English-derived masculine anthroponymic proper nouns
+        – <ul>
+          <li><g>màthair B[h]ob</g>
+            <en>Bob’s mother</en></li>
+          <li><g>taigh M[h]urdo</g>
+            <en>Murdo’s house</en></li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>feminine</h>
+      <p>A feminine anthroponymic proper noun which is the (genitive) (post-)specifier of another
+        noun is traditionally not lenited – <ul>
+          <li><g>taigh Màiri</g>
+            <en>Mary’s house</en></li>
+          <li><g>cù Flòraidh</g> – <en>Flora’s dog</en></li>
+        </ul>
+      </p>
+      <p>However, it is common nowadays in some dialects (eg. Skye) to see/hear feminine anthroponymic proper nouns lenited in
+        these contexts – <ul>
+          <li><g>taigh Mhàiri</g></li>
+          <li><g>cù Fhlòraidh</g></li>
+        </ul>
+      </p>
+      <p>This goes also for those borrowed from English – <ul>
+          <li><g>each P[h]eigi</g>
+            <en>Peggy’s horse</en></li>
+          <li><g>gillean B[h]essie</g>
+            <en>Bessie’s boys</en></li>
+        </ul>
+      </p>
+    </section>
+  </section>
+
+</module>

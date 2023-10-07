@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+    <h>croit</h>
+    <p><b>croit</b>
+        <en>croft</en> is a (feminine) <a href="?xx=nouns/toponymic_common_nouns">toponymic common
+            noun</a>. It is a <a href="?xx=nouns/simple_common_nouns">simple</a> noun, with genitive
+        singular <b>croite</b> and plural <b>croitean</b>.</p>
+    <module id="croitear">
+        <h>croitear</h>
+        <p><b>croitear</b>
+            <en>crofter</en> is a (masculine) <a href="?xx=nouns/occupational_common_nouns"
+                >occupational common noun</a>, derived from <b>croit</b> by means of the agentive
+            suffix <a href="?gd=_ar">-(e)ar</a>. The genitive singular form is <b>croiteir</b>, and
+            the plural is <b>croitearan</b>.</p>
+        <p>Examples from modern usage – <xl id="xs">
+                <li>
+                    <gd>’S e Tòmas an aon <m>chroitear</m> as aithne dhomh a dh’èirich gu inbhe
+                        taidhcùn. Rinn e sin tro dhìcheall, obair chruaidh agus tàlant malairt a bha
+                        neo-ghnàthach. An-diugh tha iomadh companaidh na ainm air feadh na
+                        Gàidhealtachd. [...]</gd>
+                    <tr>Thomas is the only crofter I know who has risen to the status of a tycoon.
+                        He did that through duty, hard work and a talent for business that was
+                        unusual. Today there are many companies in his name all over the Highlands.
+                        [...]</tr>
+                    <ref text="2">td. 5</ref>
+                </li>
+            </xl>
+        </p>
+        <module id="croitearachd">
+            <h>croitearachd</h>
+            <p><b>croitearachd</b>
+                <en>crofting, croftership</en> is a (feminine) <a href="?xx=nouns/common_nouns"
+                    >common noun</a> describing an occupational activity, derived from
+                    <b>croitear</b> by means of the abstracting suffix <a href="?gd=_achd"
+                    >-(e)achd</a>.</p>
+            <p>cf. <b>Coimisean na Croitearachd</b>
+                <en>The Crofting Commission</en>, known as <b>Coimisean nan Croitearan</b> until
+                2012.</p>
+        </module>
+    </module>
+</module>

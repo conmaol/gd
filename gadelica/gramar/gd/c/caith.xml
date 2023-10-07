@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>caith</h>
+    <p><b>caith</b>
+        <en>spend, consume, use up</en> is a verb.</p>
+    <p>Examples from Gairm – <xl id="caith">
+            <li>
+                <gd>Bha beagan airgid aige ’s mar sin <m>chaith e a bheatha a’ sgrìobhadh</m>, gun
+                    feum aige air obair eile a dhèanamh.</gd>
+                <tr>He had a little money and therefore he devoted his life to writing, without the
+                    need to do other work.</tr>
+                <ref text="400-41">td. 103</ref>
+            </li>
+        </xl>
+    </p>
+
+</module>

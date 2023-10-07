@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>name-descriptions</h>
+  <p>Name-descriptions are <a href="?xx=nouns/names">names</a> which are not (single) <a
+      href="?xx=nouns/nouns">nouns</a>. They consist of a specified <a href="?xx=nouns/common_nouns"
+      >common noun</a> phrase which identifies and refers to a particular entity – a specific
+    person, place, group <etc/>. Examples of name-descriptions are <g>Bean Alasdair</g>
+    <en>Alexander’s Wife</en>, <g>Am Ploc</g>
+    <en>Plockton</en>, <g>Gàidhlig na h-Èireann</g>
+    <en>Irish Gaelic</en>.</p>
+  <p>Name-descriptions contrast with <a href="?xx=nouns/proper_nouns">proper nouns</a> (names which
+    are also nouns – <g>Mairead</g>
+    <fem/>
+    <en>Margaret</en>, <g>Glaschu</g>
+    <masc/>
+    <en>Glasgow</en>, <g>Gairm</g>
+    <fem/> [literary periodical]). In addition, most specified common noun phrases (‘definite
+    descriptions’) are not names, <eg/> <g>am balach beag</g> <en>the little boy</en>, <g>cù a’ mhinisteir</g> <en>the minister’s dog</en>.</p>
+
+  <section id="forms">
+    <h>forms</h>
+    <p>Name-descriptions can be classified into two grammatical types, based on the position of the
+      specifier – <ul>
+        <li>pre-specified name-descriptions – the common noun element is specified by a <a
+            href="?xx=nouns/determiners">determiner</a> – <ul>
+            <li><g><emph>Am</emph> Moireach</g>
+              <en>The Duke of Atholl; lit. The Murray</en>
+              <ul>
+                <li>dative – leis <g>a’ Mhoireach</g></li>
+                <li>genitive – taigh <g>a’ Mhoirich</g></li>
+              </ul>
+            </li>
+            <li><g><emph>An</emph> Gearasdan</g>
+              <en>Fort William; lit. The Garrison</en>
+              <ul>
+                <li>dative – anns <g>a’ Ghearasdan</g></li>
+                <li>genitive – meadhan <g>a’ Ghearasdain</g></li>
+              </ul>
+            </li>
+            <li><g><emph>An</emph> Seann Tiomnadh</g>
+              <en>The Old Testament</en>
+              <ul>
+                <li>dative – anns <g>an t-Seann Tiomnadh</g></li>
+                <li>genitive – leabhraichean <g>an t-Seann Tiomnaidh</g></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>post-specified name-descriptions – the common noun element is specified by a following
+          genitive word or phrase – <ul>
+            <li><g>Fear <emph>Chìosmuil</emph></g>
+              <en>MacNeil of Barra; lit. The Man of Kisimul</en>
+              <ul>
+                <li>dative – le <g>Fear Chìosmuil</g></li>
+                <li>genitive – taigh <g>Fear Chìosmuil</g>
+                  <!-- <ed>taigh Fear Chìosmuil ?</ed> --></li>
+              </ul>
+            </li>
+            <li><g>Baile Ùr <emph>an t-Slèibhe</emph></g>
+              <en>Newtonmore; lit. The New Town of the Hillside</en>
+              <ul>
+                <li>dative – ann am <g>Baile Ùr an t-Slèibhe</g></li>
+                <li>genitive – meadhan <g>Baile Ùr an t-Slèibhe</g>
+                  <!-- <ed>Bhaile ?</ed> -->
+                </li>
+              </ul>
+            </li>
+            <li><g>Òran <emph>na Cloiche</emph></g>
+              <en>The Song of the Stone</en>
+              <ul>
+                <li>dative – ann an <g>Òran na Cloiche</g></li>
+                <li>genitive – fonn <g>Òran na Cloiche</g></li>
+              </ul>
+            </li>
+          </ul></li>
+      </ul>
+    </p>
+    <p>Unlike proper nouns, name-descriptions can be grammatically plural – <ul>
+        <li><g>Na Crìochan</g>
+          <en>The Borders</en>
+          <ul>
+            <li>dative – anns <g>na Crìochan</g></li>
+            <li>genitive – comhairle <g>nan Crìochan</g></li>
+          </ul>
+        </li>
+        <li><g>Crìochan na h-Alba</g>
+          <en>The Scottish Borders</en>
+          <ul>
+            <li>dative – ann an <g>Crìochan na h-Alba</g></li>
+            <li>genitive – comhairle <g>C[h]rìochan na h-Alba</g>
+              <!-- <ed>lenition here??</ed>--></li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p>Note that, in pre-specified name-descriptions, the definite article is
+        <emph>capitalised</emph> in some contexts but not in others, depending on the
+      grammatical/communicative context and the semantic class of the name.
+      <!-- <ed>examples?</ed> --></p>
+    <p>Note also that nouns and adjectives within name-descriptions are lenited and slenderised as
+      normal in common noun phrases (including the double genitive rule
+      <!-- <ed>Is this true?</ed>-->), as is declension of the definite article.</p>
+  </section>
+
+  <section id="senses">
+    <h>senses</h>
+    <p>Like all names, name-descriptions can also be classified into a number of semantic types,
+      depending on the kind of entity named – <ul>
+        <li><a href="?xx=nouns/anthroponymic_name_descriptions">Anthroponymic name-descriptions</a>
+          name individual persons (including personified entities) – <g>An Coirneal</g>
+          <en>The Colonel</en>, <g>Fear Chanaigh</g>
+          <en>The Man of Canna [John Lorne Campbell]</en>.</li>
+        <li><a href="?xx=nouns/toponymic_name_descriptions">Toponymic name-descriptions</a> name
+          places (geographical and cosmological entities) – <g>Am Ploc</g>
+          <en>Plockton</en>, <g>Baile Ùr an t-Slèibhe</g>
+          <en>Newtonmore</en>, <g>A’ Mhaidneag</g>
+          <en>The Morning Star [Venus]</en>.</li>
+        <li><a href="?xx=nouns/ergonymic_name-descriptions">Ergonymic name-descriptions</a> name
+          groups, teams, organisations, companies <etc/> – <g>An Comunn Gàidhealach</g>
+          <en>The Highland Association</en>, <g>Comhairle nan Leabhraichean</g>
+          <en>The Gaelic Books Council</en>.</li>
+        <li><a href="?xx=nouns/chrematonyms">Chrematonymic</a> name-descriptions name songs, poems,
+          stories and other creative works – <g>Am Bìoball</g>
+          <en>The Bible</en>, <g>Òran a’ Phrionnsa</g>
+          <en>The Song of the Prince</en>, <g>Faclair na Gàidhlig</g>
+          <en>The [Historical] Dictionary of Scottish Gaelic</en>.</li>
+        <li><a href="?xx=nouns/glottonyms">Glottonymic</a> name-descriptions name languages and
+          dialects – <g>A’ Ghrèigis</g>
+          <en>Greek</en>, <g>Gàidhlig na h-Èireann</g>
+          <en>Irish Gaelic</en>.</li>
+        <li><a href="?xx=nouns/chrononyms">Chrononymic</a> name-descriptions name events and
+          historical eras – <g>An Cogadh Mòr</g>
+          <en>The Great War</en>, <g>Linn an Umha</g>
+          <en>The Bronze Age</en>.</li>
+      </ul>
+    </p>
+    <p>Note that a few pre-specified name-descriptions are notable in that the nouns involved appear
+      to be more proper than common, in particular names of countries (<eg/>
+      <g>A’ Ghreug</g>
+      <en>Greece</en>) and languages (<eg/>
+      <g>A’ Ghreugais</g>
+      <en>Greek</en>). For convenience, we can call these ‘uncommon’ nouns – syntactically common
+      but semantically proper. <!--<ed>Think about Na Hearadh here.</ed>--></p>
+  </section>
+
+  <section id="lenition">
+    <h>lenition</h>
+    <p>The head (ie. initial) noun in a (post-specified) name-description <g>which is itself</g> the
+      (genitive) (post-)specifier of another noun is generally not lenited in Scottish Gaelic – <ul>
+        <li>anthroponymic – <g>taigh <emph>F</emph>ear Chìosmuil</g>
+          <en>MacNeil of Barra’s house</en></li>
+        <li>toponymic – <g>mullach <emph>B</emph>einn Nibheis</g>
+          <en>the summit of Ben Nevis</en></li>
+        <li>ergonymic – <g>ceannard <emph>B</emph>òrd na Gàidhlig</g>
+          <en>the chairman of Bòrd na Gàidhlig</en></li>
+        <li>chrematonymic – <g>Ionad <emph>F</emph>aclair na Gàidhlig</g>
+          <en>The Centre for Faclair na Gàidhlig</en></li>
+        <li>glottonymic – <g>faclair <emph>G</emph>àidhlig na h-Alba</g>
+          <en>dictionary of Scottish Gaelic</en></li>
+        <li>chrononymic – <g>deireadh <emph>C</emph>ogadh a’ Chamais</g>
+          <en>the end of the Gulf War</en></li>
+      </ul>
+    </p>
+    <p>However, when a toponymic name-description denotes a town or city, it is often lenited – <ul>
+        <li><g>muinntir <emph>Dh</emph>ùn Èideann</g>
+          <en>the people of Edinburgh</en></li>
+      </ul>
+    </p>
+  </section>
+
+</module>

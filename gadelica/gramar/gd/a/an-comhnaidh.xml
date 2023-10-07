@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h lang="en">an-còmhnaidh</h>
+  <h lang="gd">an-còmhnaidh</h>
+  <p><b>an-còmhnaidh</b>
+    <en>always</en> is a <a href="?xx=adverbs/frequency_adverbials">frequency adverb</a>.</p>
+  <p lang="en">cf. <a href="?gd=daonnan">daonnan</a></p>
+  <p lang="en">Corpus examples – <xl id="xs">
+      <li>
+        <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os cionn
+          obair a’ Chomuinn. [...] Bhiodh a leòr aige ri dhèanamh an toiseach ag ath-nuadhachadh
+          dreach a’ Chomuinn. Tha móran ri dhèanamh ris a’ Mhòd mus beir e air linn an telebhisean,
+          no eadhon air linn an réidio: bu mhath gun cuirte luchd-sgrìobhaidh is luchd-ciùil an sàs
+          ann a bhith a’ cruthachadh ás ùr, an àite bhith <m>an còmhnaidh</m> a’ cur seòrsa de
+          dhreach ùr air seann rudan [...]</gd>
+        <tr>The Highland Society is talking about choosing a new General who will oversee the
+          Society’s work. [...] He would have enough to do initially reforming the Society. There is
+          much to do at the Mod before it catches up with <ed>??</ed> the era of television, or even
+          with the era of radio: writers and musicians should be involved in creating afresh,
+          instead of <u>always</u> putting a sort of new form on old things [...]</tr>
+        <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+      </li>
+    </xl>
+  </p>
+  <!--
+    <ul>
+      <li>
+        <gd>Nuair a bha e a’ fuireachd ann an Alba bhiodh e <m>an-còmhnaidh</m> a’ sgrìobhadh litrichean don phàipear-naidheachd.</gd>
+        <tr>When he was living in Scotland, he would always be writing letters to the newspaper.</tr>
+        <ref text="501">td. 11</ref>
+      </li>
+    </ul>
+    -->
+  <p lang="gd">...</p>
+</module>

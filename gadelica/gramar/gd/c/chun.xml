@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h lang="en">chun</h>
+    <h lang="gd">chun</h>
+    <p lang="en">cf. <a href="?gd=gu-preposition">gu</a></p>
+    <p lang="gd">...</p>
+    <p lang="en">Alternative <b>thun</b></p>
+    <p lang="gd">...</p>
+    <p lang="en">egs <xl id="egs">
+            <li>
+                <gd>Chaidh e <m>chun a’ bhaile</m>.</gd>
+                <tr>He went to(wards) the town.</tr>
+                <ref text="605">td. 220</ref>
+            </li>
+            <li>
+                <gd>Cha do thachair e <m>chun a seo</m>.</gd>
+                <tr>It hasn’t happened up till now / so far / until now.</tr>
+                <ref text="605">td. 220</ref>
+                <note>Temporal cf. gu (ruige) seo</note>
+            </li>
+        </xl>
+    </p>
+    <p lang="gd">...</p>
+
+</module>

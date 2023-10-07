@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>cruaidh</h>
+    <p><b>cruaidh</b>
+        <en>hard</en> is an adjective.</p>
+    <p>Examples from modern usage – <xl id="xs">
+            <li>
+                <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. Rinn
+                    e sin tro dhìcheall, <m>obair chruaidh</m> agus tàlant malairt a bha
+                    neo-ghnàthach. An-diugh tha iomadh companaidh na ainm air feadh na
+                    Gàidhealtachd. [...]</gd>
+                <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. He
+                    did that through duty, hard work and a talent for business that was unusual.
+                    Today there are many companies in his name all over the Highlands. [...]</tr>
+                <ref text="2">td. 5</ref>
+            </li>
+        </xl>
+    </p>
+</module>

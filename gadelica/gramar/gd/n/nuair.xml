@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+  <h lang="en">nuair</h>
+  <h lang="gd">nuair</h>
+  <p lang="en"><b>nuair (a)</b>
+    <en>when, at the time when</en> is a subordinating conjunction, introducing a temporal
+    adverbial. It is derived from the feminine common noun <a href="?gd=uair">uair</a>
+    <en>time, hour</en>.</p>
+  <p lang="gd">...</p>
+  <p lang="en">In older texts it is often found spelled as <b>’nuair</b>, <b>’n uair</b> or <b>an
+      uair</b>.</p>
+  <p lang="gd">...</p>
+  <p lang="en">cf. relative particle <a href="?gd=a^relative">a</a>.</p>
+  <p lang="gd">...</p>
+  <p lang="en">Examples of usage – <xl id="exss">
+      <li>
+        <gd>Bha grunnan de ar luchd-leughaidh an dùil, <m>nuair a</m> nochd an àireamh mu dheireadh
+          de Ghairm, gu robh sin a’ strì ri buidheann shònraichte, no duine sònraichte, a chur do ’n
+          Phàrlamaid, agus bha wèireichean an telefon gu math teth, uair no dhà, an déidh dhuinn
+          tighinn o ’n chlò. Thog iad ceàrr sinn. [...]</gd>
+        <tr>Some of our readers were expecting [?], <u>when</u> the last issue of Gairm appeared,
+          that that was striving for a particular group [party?], or a particular person, to send to
+          the Parliament, and the telephone wires were pretty hot, for an hour or two [once or
+          twice?], after we came from the printers. They misunderstood us. [...]</tr>
+        <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
+      </li>
+      <li>
+        <gd>Rugadh am feallsanach Soren Kierkegaard ann sa’ bhliadhna 1813, an Copenhagen far na
+          bhàsaich e <m>nuair a</m> bha e dà fhichead, ’s a dhà.</gd>
+        <tr>The philosopher Soren Kierkegaard was born in 1813, in Copenhagen where he died
+            <u>when</u> he was 42.</tr>
+        <ref text="400-41">td. 103</ref>
+        <note>Past perfective (bhàsaich e) + nuair a + imperfective (bha e).</note>
+      </li>
+      <li>
+        <gd>’Se duine crotach a bh’ ann de Khierkegaard [...]. <m>Nuair a</m> bha
+          pàipearan-naidheachd Chopenhagen a’ sàs ann, bha iad a’ tilgeil sin air.</gd>
+        <tr>Kierkegaard was a hunchback [...]. <u>When</u> the Copenhagen newspapers engaged with
+          him, they threw that at him.</tr>
+        <ref text="400-41">td. 103</ref>
+        <note>Past imperfective (habitual? –bha iad a’ sàs) + nuair a + imperfective (habitual –bha
+          iad a’ tilgeil).</note>
+      </li>
+      <li>
+        <gd>Bha e dol a phòsadh nighean do ’m b’ ainm Regina [...]; rinn e cùmhnant rithe. Ach
+          chaidh a’ chùmhnant a bhristeadh <m>nuair a</m> dhrùidh e air nach robh math dha pòsadh a
+          chaoidh.</gd>
+        <tr>He was going to marry a girl called Regina [...]; he got engaged to her. But the
+          engagement was broken off <u>when</u> he realised that he should never marry.</tr>
+        <ref text="400-41">td. 103</ref>
+        <note>Past perfective (chaidh a bhristeadh) + nuair a + perfective (dhrùidh e air).</note>
+      </li>
+      <li>
+        <gd>’S bha iad ’nan suidhe an sin ag òl uisge-beatha fad na h-oidhch’, na ceathrar aca. An
+          dràsda ’s a rithist shealladh Iain a-mach air an uinneig ris a’ mhuir ’s na h-eileanan.
+          [...] Chaidil e airson greiseag ’s <m>nuair a dhùisg e anns a’ mhadainn</m> bha a bheul
+          salach le blas an uisge-bheatha. Choisich e mach ás a’ bhàta a-measg nam faoileagan, ga[n]
+          sguabadh air falbh le a làmhan, agus lean e air suas an aon rathad a bh’ ann gus an
+          ruigeadh e an tigh. [...]</gd>
+        <tr>And they were sat there drinking whisky all night, the four of them. Now and again John
+          would look out the window at the sea and the islands. [...] He slept for a bit and when he
+          woke up in the morning his mouth was dirty with the taste of the whisky. He walked out of
+          the boat among the gulls, brushing them away with his hands, and he continued up the only
+          road that there was until he reached the house. [...]</tr>
+        <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+        <note>masculine</note>
+      </li>
+    </xl>
+  </p>
+  <p>Other examples from modern usage – <xl id="other">
+    <li>
+      <gd>’S e Tòmas an aon chroitear as aithne dhomh a dh’èirich gu inbhe taidhcùn. [...]
+        Bha seachdnar de theaghlach aige, ceathrar mhac agus triùir nighean, agus bha a
+        h-uile fear is tè anns a’ mhalairt ach Rob. B’ e Rob a b’ òige agus lean e an
+        sgoil. <m>Nuair a ràinig e an t-oilthigh</m> bha càch airson gun ionnsaicheadh e
+        cunntasachd, a bhiodh feumail anns a’ mhalairt, ach ’s ann a bha ùidh-san ann an
+        ealain. Dh’fhàg e an t-oilthigh agus chaidh e do sgoil ealain. [...]</gd>
+      <tr>Thomas is the only crofter I know who has risen to the status of a tycoon. [...]
+        He had a family of seven, four sons and three daughters, and every man and woman
+        was in the business except Rob. Rob was the youngest and he stayed on at school.
+        When he reached the university the others wanted him to learn accountancy, which
+        would be useful in the business, but his interest was in art. He left the
+        university and went to an art school. [...]</tr>
+      <ref text="2">td. 5</ref>
+    </li>
+  </xl>
+  </p>
+  <p lang="gd">...</p>
+  <p lang="en">Biblical examples – <xl id="bible">
+      <li>
+        <gd>[...] A nis dh’éirich righ ùr air an Eiphit, do nach b’aithne Ioseph. Agus thubhairt e
+          r’a shluagh, Feuch, tha sluagh chloinn Israeil ni’s lìonmhoire agus ni’s cumhachdaiche na
+          sinne. Thigibh, buineamaid gu seòlta : an t-eagal gu’m fàs iad lìonmhor, agus gu’n tachair
+          e, <m>’nuair a dh’éireas cogadh</m>, gu’n gabh iadsan mar an ceudna le ’r naimhdibh-ne,
+          agus gu’n cog iad ’nar n-aghaidh, agus gu’n d’théid iad a mach as an tìr. [...] Agus
+          labhair righ na h-Eiphit re mnaibh-glùine nan Eabhruidheach [...] Agus thubhairt e,
+            <m>’Nuair a ni sibh gnìomh mnà-glùine do na mnaibh Eabhruidheach, agus a chi sibh iad
+            air na stòlaibh</m>; ma’s mac a bhios ann, ’an sin marbhaidh sibh e, ach ma’s nighean a
+          bhios ann, bithidh si beo. </gd>
+        <tr>[...] Now there arose up a new king over Egypt, which knew not Joseph. And he said unto
+          his people, Behold, the people of the children of Israel are more and mightier than we:
+          Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when
+          there falleth out any war, they join also unto our enemies, and fight against us, and so
+          get them up out of the land. [...] And the king of Egypt spake to the Hebrew midwives
+          [...] And he said, When ye do the office of a midwife to the Hebrew women, and see them
+          upon the stools; if it be a son, then ye shall kill him: but if it be a daughter, then she
+          shall live. [...]</tr>
+        <ref text="160">Ecsodus I.8–16</ref>
+      </li>
+    </xl>
+  </p>
+  <p lang="gd">...</p>
+</module>

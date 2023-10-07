@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>rathad</h>
+    <p><g>rathad</g>
+        <en>road</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="rathad-older-pedag">
+                            <li>
+                                <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air
+                                    falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa nan
+                                    litrichean leis an litir seo, Iain?” “Théid,” ars Iain,
+                                    “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi i is gus an
+                                    cuir mi seòladh oirre. Ceannaich fhéin stamp agus cuir oirre i.”
+                                    Tha Iain a’ ruith sìos <m>an rathad</m> leis an litir ’na làimh. </gd>
+                                <tr>My mother is writing a letter to my father who is away. My
+                                    mother said, “Will you go to the postbox with this letter,
+                                    John?” “Yes, I will,” said John, “I will leave now.” “Wait until
+                                    I seal it and put an address on it. Buy a stamp and put it on
+                                    it.” John is running down the road with the letter in his
+                                    hand.</tr>
+                                <ref text="621">td. 5</ref>
+                            </li>
+                            <li>
+                                <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna
+                                    anns a’ chàr. Chaidh iad sìos taobh an locha is stad iad aig
+                                    àite bòidheach gorm. Chuir iad an càr a stigh gu taobh <m>an
+                                        rathaid</m> is thug iad brat a mach as a’ chàr air son
+                                    suidhe air. [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. They put the car into the side of
+                                    the road and they took a blanket out of the car for sitting on.
+                                    [...]</tr>
+                                <ref text="621">td. 6</ref>
+                            </li>
+                        </xl></li>
+                </ul></p>
+        </section>
+    </section>
+
+
+    <section>
+        <h>uses</h>
+        <section id="comp">
+            <h>complement</h>
+            <p><g>rathad</g> can be used as the complement of certain pseudo-prepositions – <ul>
+                    <li><g><a href="?gd=sìos">sìos</a> an rathad</g>
+                        <en>down the road</en></li>
+                </ul>
+            </p>
+        </section>
+        <section id="spec">
+            <h>specifier</h>
+            <p><g><a href="?gd=taobh">taobh</a> an rathaid</g> <en>the side of the road</en>. </p>
+        </section>
+    </section>
+
+</module>

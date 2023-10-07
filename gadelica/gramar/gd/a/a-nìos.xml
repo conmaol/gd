@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>a-nìos</h>
+    <p><g>a-nìos</g>
+        <en>[to] up here</en> is is a proximal adverb of motion along a <a href="?q=motion"
+            >trajectory</a> (contrasting with both the distal <a href="?gd=suas"
+                ><g>suas</g></a>
+        <en>[to] up there</en> and the proximal <a href="?gd=a-nuas"><g>a-nuas</g></a>
+        <en>[to] down here</en>).</p>
+    
+</module>
+

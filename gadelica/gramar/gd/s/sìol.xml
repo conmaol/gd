@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module id="top">
+    <h lang="en">sìol</h>
+    <h lang="gd">sìol</h>
+    
+    
+    
+    <module id="lionmhor">
+        <h lang="en">sìolmhor</h>
+        <h lang="gd">sìolmhor</h>
+        <p lang="en">Derived adjective cf. <a href="?gd=_mhor">-mhor</a></p>
+        <p lang="gd">...</p>
+        <p lang="en">Biblical examples – <xl id="bible">
+            <li>
+                <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig do’n Eiphit; thàinig
+                    gach duine agus a theaghlach maille re Iacob: Reuben, Simeon, Lebhi, agus Iudah,
+                    [...] Agus na h-anman uile a thàinig a mach a leasraidh Iacoib, bu deich agus
+                    tri fichead anam iad; oir bha Ioseph ’san Eiphit a cheana. Agus fhuair Ioseph
+                    bàs, agus a bhràithrean uile, agus an ginealach sin uile. Agus bha clann Israeil
+                    <m>sìolmhar</m>, agus dh’fhàs iad gu mòr, agus rinneadh lìonmhor iad, agus chinn
+                    iad ro-chumhachdach; agus lìonadh an tìr leo. [...]</gd>
+                <tr>Now these are the names of the children of Israel, which came into Egypt; every
+                    man and his household came with Jacob. Reuben, Simeon, Levi, and Judah, [...]
+                    And all the souls that came out of the loins of Jacob were seventy souls: for
+                    Joseph was in Egypt already. And Joseph died, and all his brethren, and all that
+                    generation. And the children of Israel were fruitful, and increased abundantly,
+                    and multiplied, and waxed exceeding mighty; and the land was filled with
+                    them. [...] [KJV]</tr>
+                <ref text="160">Ecsodus I.1–7</ref>
+            </li>
+        </xl></p>
+        <p lang="gd">...</p>
+    </module>
+</module>
+
+

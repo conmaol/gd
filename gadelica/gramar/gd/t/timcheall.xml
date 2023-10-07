@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>timcheall</h>
+    <p><g>timcheall</g>
+        <en>around</en> is an adverb.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complements</h>
+            <module status="bronze" id="rach">
+                <h>rach timcheall</h>
+                <p><g><a href="?gd=rach">rach</a> timcheall</g>
+                    <en>go around</en> – <ul>
+                        <li>pedagogical examples – <xl id="comps-rach-pedag">
+                                <li>
+                                    <gd>An deach sibh tarsainn air an abhainn no seachad air Càrn
+                                        Sheumais? Chaidh, le chèile, agus <m>timcheall air an
+                                            t-Sìdhean</m> agus ri taobh na mara air an rathad
+                                        dhachaigh.</gd>
+                                    <tr>Did you go across the river or past Càrn Sheumais? Yes we
+                                        did, both of them, and round the Sìdhean and beside the sea
+                                        on the way home.</tr>
+                                    <ref text="609">td. 99</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </module>
+        </section>
+    </section>
+</module>

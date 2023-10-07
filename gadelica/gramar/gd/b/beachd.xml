@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>beachd</h>
+    <p><g>beachd</g>
+        <en>opinion, idea, view, attitude; intention</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
+    
+    <section>
+        <h>uses</h>
+        <section>
+            <h>stem</h>
+            <p><a href="?gd=bun-bheachd"><g>bun-bheachd</g></a>
+                <masc/>
+                <en>concept</en></p>
+        </section>
+    </section>
+    
+</module>
+

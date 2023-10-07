@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>os</h>
+    <p><g>os</g>
+        <en>above, over</en> is an archaic preposition.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>complement</h>
+            <p><a href="?gd=os_cionn"><g>os cionn</g></a>
+                <en>above, beyond, in charge of, over, overhead</en></p>
+            <p><a href="?gd=os_làimh"><g>os làimh</g></a>
+                <en>m</en></p>
+            <p><a href="?gd=os_ìosal"><g>os ìosal</g></a>
+                <en>m</en></p>
+        </section>
+    </section>
+
+    <section>
+        <h>etymology</h>
+        <p><g>os</g> derives from the Ola Gaelic preposition <ax href="https://dil.ie/34047"><g>ós</g></ax>
+                (<g>úas</g>) <en>over, above</en>.</p>
+    </section>
+
+
+</module>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze" id="top">
+  <h lang="en">fiù</h>
+  <h lang="gd">fiù</h>
+  <p lang="en"><b>fiù</b>
+    <en>worth</en> is a masculine common, abstract noun, with the following main uses – <ul>
+      <li>in the prepositional phrase <b>gun fhiù</b>
+        <en>worthless, trashy, trivial</en></li>
+      <li>the construction <b>chan fhiù ...</b>
+        <en>not be worth ...</en></li>
+      <li>the focusing construction <b>fiù (agus)</b>
+        <en>even</en></li>
+    </ul>
+  </p>
+  <p lang="gd">...</p>
+  <module id="gun_fhiu">
+    <h lang="en">gun fhiù</h>
+    <h lang="gd">gun fhiù</h>
+    <p lang="en">The prepositional phrase <b>gun fhiù</b>
+      <en>worthless, trashy, trivial</en> is generally used as a noun modifier – <xl id="gun_fhiu_ex">
+        <li>
+          <gd>A dh’aindeoin cràbhaidh is dealais chithear roinn de’n mhór-shluagh a gluasad mar nach robh buaidh a’ chreidimh Chriosdail ach <m>rud gun fhiù</m>.</gd>
+          <tr>[...] as if the influence of the Christian faith is only a trivial thing.</tr>
+          <ref text="401-12"/>
+        </li>
+        <li>
+          <gd>Faodaidh e bhith gu bheil an stuth a bheir tearmuinn bho’n lasair a’ fàgail an aodaich beagan nas cruaidhe anns an làimh, gu h-àraidh roimh a nighe, agus gu bheil e gu tric nas daoire,
+            is nach faodar stuth todhair a chur air, ach gu dé tha sin ach <m>nithean gun fhiù</m> an taca ri beatha caileig?</gd>
+          <tr>[...] But what are those but trivial things compared with a girl’s life?</tr>
+          <ref text="400-32">td. 347</ref>
+        </li>
+        <li>
+          <gd>’Se a’ chiad riatanas an ceòl a thoirt a follais; chan eil mathas idir a bhith deasbad air <m>ceistean beaga gun fhiù</m>. </gd>
+          <tr>The first requirement is to bring the music into the open; there is no good at all in debating small, trivial problems.</tr>
+          <ref text="400-133">td. 93</ref>
+        </li>
+        <li>
+          <gd>sgrìobhaidhean gun fhiù</gd>
+          <tr>worthless writings</tr>
+          <ref text="605">td. 190</ref>
+        </li>
+      </xl>
+    </p>
+    <p lang="gd">...</p>
+  </module>
+  <module id="chan_fhiu">
+    <h lang="en">chan fhiù e</h>
+    <h lang="gd">chan fhiù e</h>
+    <p lang="en">Examples of the construction <b>chan fhiù ...</b> (past <b>cha b’ fhiù ...</b>) <en>not be worth</en> – <xl id="chan_fhiu_ex">
+        <li>
+          <gd>Chan fhiù e deich sgillinn.</gd>
+          <tr>It’s not worth 10p.</tr>
+          <ref text="605">td. 190</ref>
+        </li>
+        <li>
+          <gd>Chan fhiù i a màthair.</gd>
+          <tr>She’s not worth (ie. the equal of) her mother (ie. the woman her mother was).</tr>
+          <ref text="605">td. 190</ref>
+        </li>
+        <li>
+          <gd>Chan fhiù e dad.</gd>
+          <tr>It’s not worth anything.</tr>
+          <ref text="601">td. 306</ref>
+        </li>
+      </xl>
+    </p>
+    <p lang="gd">...</p>
+  </module>
+  <module id="fiu_agus">
+    <h lang="en"><i>fiù (agus)</i> as a focusing construction – <en>even</en></h>
+    <h lang="gd">...</h>
+
+    <p lang="en">As the subject of <b>bi</b> with negative scope – <b>na bi fiù agus ...</b> – <ul>
+        <li>basic examples – <xl id="na_bi_fiu_agus">
+            <li>
+              <gd>Cha robh fiù is pìos arain air fhàgail.</gd>
+              <tr>There wasn’t even / as much as a piece of bread left.</tr>
+              <ref text="605">td. 190</ref>
+            </li>
+            <li>
+              <gd>Cha robh fiù ’s seithear ann.</gd>
+              <tr>There wasn’t even a chair.</tr>
+              <ref text="603">td. 59</ref>
+            </li>
+          </xl></li>
+        <li>the <b>agus</b> is sometimes dropped – <xl id="na_bi_fiu">
+            <li>
+              <gd>Co-dhiùbh, chunnaic mi esan – an t-aonaran – pìos air falbh ’s e ’na shuidhe leis fhèin. Cha robh e dèanamh càil ach a’ suidhe. <m>Cha robh fiù slat aige</m>.</gd>
+              <tr>Anyway, I saw him – the loner – a small distance away sitting on his own. He was doing nothing but sit there. He didn’t even have a [fishing] rod.</tr>
+              <ref text="198">td. 4</ref>
+            </li>
+            <li>
+              <gd><m>Cha robh fiù fiamh a’ ghàire air aghaidh mhòir, bhrògaich an Urramaich</m>. Cha robh e cleachdte ri còmhradh faoin.</gd>
+              <tr>There was not even the hint of a smile on the Reverend’s big, sturdy face. He was not accustomed to flippant conversation.</tr>
+              <ref text="2">td. 6</ref>
+            </li>
+          </xl>
+        </li>
+        <li><b>gun fiù (agus) ...</b>
+          <en>without even ...</en> – <xl id="gun_fiu_agus">
+            <li>
+              <gd>“A bheil guth air Fionnghal?” “Tha,” ars ise <m>gun fiù faileas imcheiste</m>, agus phut i gu sùgrach air falbh mi. “Innisidh mi dhut mun deidhinn uaireigin.”</gd>
+              <tr>“Is there mention of Flora?” “Yes,” she said without even a shadow of doubt, and she pushed me away playfully. “I’ll tell you about them sometime.”</tr>
+              <ref text="2">td. 39</ref>
+            </li>
+          </xl>
+        </li>
+      </ul>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">As the subject or object of other verbs with negative scope – <ul lang="en">
+        <li>basic examples – <ulx id="sbj_obj">
+            <lix>
+              <gd>“Nach eil e glè iongantach <m>nach tàing fiù litir-taing bho Theàrlach gu Fionnghal</m>. Bha e beò fada an dèidh dhaibh dealachadh.”</gd>
+              <tr>“Isn’t it amazing that not even a letter of thanks came from Charles to Flora. He was alive long after they went their separate ways.”</tr>
+              <ref text="2">td. 39</ref>
+            </lix>
+            <lix>
+              <gd>Chan fheum e fiù ’s deoch.</gd>
+              <tr>It doesn’t even need a drink.</tr>
+              <ref text="601">td. 306</ref>
+              <note>It does not need a <u>drink</u>.</note>
+            </lix>
+          </ulx>
+        </li>
+        <li>preposed examples – <ulx id="preposed">
+            <lix>
+              <gd>Cha do chòrd am boireannach ud rium idir. <m>Fiù teine cha robh i toirt dhomh air an oidhche</m>, ’s aig an tigh bhithinn a’ faighinn botal teth ’na mo leabaidh.</gd>
+              <tr>I didn’t like that woman at all. She didn’t even give me a fire at night, and at home I would get a hot water bottle in my bed.</tr>
+              <ref text="198">td. 65</ref>
+            </lix>
+          </ulx>
+        </li>
+        <li>introducing an embedded question – <ulx id="fiu_question">
+            <lix>
+              <gd>Chan eil fhios agam fiù dè an t-ainm a th’ort.</gd>
+              <tr>I don’t even know what your name is.</tr>
+              <ref text="601">td. 306</ref>
+            </lix>
+          </ulx>
+        </li>
+      </ul>
+    </p>
+    <p lang="en"><strong>(na) ... fiù agus aon ...</strong>
+      <en>(not) even a single ...</en> –</p>
+    <ul lang="en">
+      <li>negative scope – <ulx id="na_fiu_agus_aon">
+          <lix>
+            <gd>Cha robh fiù ’s aon chuileag ri fhaicinn.</gd>
+            <tr>There wasn’t a single fly to be seen.</tr>
+            <ref text="601">td. 306</ref>
+          </lix>
+          <lix>
+            <gd>... ach <u>fiù ’s aon daoine</u> cha do nochd e fhèin ...</gd>
+            <tr>... but not even one person showed himself ...</tr>
+            <ref text="601">td. 306</ref>
+          </lix>
+        </ulx></li>
+      <li>positive scope – <ulx id="fiu_agus_aon">
+          <lix>
+            <gd>Tha an t-ùghdar a’ cuimhneachadh dhuinn gu robh litreachadh a’ Phrionnsa Teàrlaich glè chearbach, agus fhuair e beachd bho eachdraiche a’ dearbhadh <m>cho luachmhor ’s a bhiodh fiù aon
+                litir bhon Phrionnsa gu Fionnghal</m>.</gd>
+            <tr>The author reminds us that Prince Charles’ spelling was very clumsy, and he got an opinion from a historian attesting how valuable even one letter from the Prince to Flora would
+              be.</tr>
+            <ref text="2">td. 38</ref>
+          </lix>
+        </ulx>
+      </li>
+    </ul>
+    <p lang="en">As the final element in a list <strong>... agus fiù (’s) ...</strong>
+      <en>and even ...</en> –</p>
+    <ul lang="en">
+      <li>basic examples – <ulx id="list-basic">
+          <lix>
+            <gd>Fhuair iad soithichean <m>agus fiù ’s àirneis-taighe</m>.</gd>
+            <tr>They got dishes and even furniture.</tr>
+            <ref text="601">td. 306</ref>
+          </lix>
+        </ulx>
+      </li>
+      <li>dropping the first <strong>agus</strong> – <ulx id="list-no-agus">
+          <lix>
+            <gd>Tha Oifig a’ Phuist air céis post-adhair Gàidhlig a chur a-mach mu thràth agus tha iad a’ bruidhinn air ainm Gàidhlig a chur air na carbaidean ùra aca – co-dhiù air a’ Ghàidhealtachd.
+              Tha fiù’s rudan mar seo feumail ach faodaidh iad a bhith ’nam mealladh cuideachd. Tha móran de’n t-seòrsa seo a dh’fhaodar a dheanamh fhathast – mar stampaichean, postairean, <m>fiù’s
+                òrduighean-puist</m>.</gd>
+            <tr>The Post Office has already sent out Gaelic airmail envelopes and they are talking about a Gaelic name to put on their new vans – at least in the Highlands. Even things like this are
+              useful but they can be deceptive as well. Many things of this kind can be done yet – like stamps, posters, even postal orders.</tr>
+            <ref text="32">td. 17</ref>
+          </lix>
+          <lix>
+            <gd>Dheanadh e diofar mór do mheas dhaoine air a’ Ghàidhlig nam biodh i air a cleachdadh air tafaidean-malairt leithid postairean, sanasan, cùnntasan, clàir-bùtha, <m>fiù’s rudan mar
+                seic-leabhraichean</m>.</gd>
+            <tr>It would make a big difference to people’s respect for Gaelic if it were used on commercial [things?] like posters, adverts, accounts, sign boards, even things like cheque books.</tr>
+            <ref text="32">td. 22</ref>
+          </lix>
+        </ulx></li>
+      <li>with a definite noun the second <strong>agus</strong> is usually dropped – <ulx id="list-definite">
+          <lix>
+            <gd>Bha a h-uile càil luachmhor a bha am broinn an taigh air a ghoid: dà thelebhisean, bhidio, dà rèidio, reacòrdair, seudan, camanan goilf <m>agus fiù an cleoc mòr a bha anns an
+              talla</m>.</gd>
+            <tr>Everything valuable that had been inside the house had been stolen: two televisions, a video recorder, two radios, a tape recorder, jewellery, gold clubs and even the big clock that
+              had been in the hall.</tr>
+            <ref text="2">td. 14</ref>
+          </lix>
+        </ulx></li>
+      <li>with negative scope <en>nor even</en> – <ulx id="list-negative">
+          <lix>
+            <gd>Nuair a dhùisg mi bha mi anns an leabaidh agus cha robh sgeul oirrese. <m>Cha</m> robh sgeul air mo sheacaid a bharrachd, <m>no</m> mo cheas <m>’s fiù an t-uaireadair a bha air caol mo
+                dhùirn</m>.</gd>
+            <tr>When I awoke I was in the bed and there was no sign of her. There was no sign of my jacket either, nor my case nor even the watch that had been on my wrist.</tr>
+            <ref text="2">td. 48</ref>
+          </lix>
+        </ulx></li>
+    </ul>
+    <p lang="en"><strong>fiù</strong> as an adverb –</p>
+    <ul lang="en">
+      <li>progressive – <ulx id="progressive">
+          <lix>
+            <gd>Theab mi an dorus fhosgladh ’s a dhol a-steach air a’ ghuth thàmh do’n bhothan. <m>Cha robh mi fiù a’ cluinntinn duine a’ tarraing anail</m>.</gd>
+            <tr>I nearly opened the door and quietly entered the house. I couldn’t even hear anyone drawing breath.</tr>
+            <ref text="198">td. 22</ref>
+          </lix>
+          <lix>
+            <gd>Is dé a bha an t-aonaran a’ smaoineachadh ’s an ceòl ud a’ dol air adhart glé fhaisg air a bhothan? An robh e slaodadh plaidichean mun cuairt a chinn gus am bódhradh iad an ceòl no an
+              do ràinig e rìoghachd cho fad air falbh bho’n cheòl ud ’s <m>nach robh e fiù a’ dèanamh dragh dha</m>.</gd>
+            <tr>And what was the loner thinking with that music going on so near to the hut? Was he pulling blankets around his head to dampen the sound or had he reached a kingdom so far away from
+              that music that it wasn’t even bothering him.</tr>
+            <ref text="198">td 57</ref>
+          </lix>
+        </ulx></li>
+      <li>infinitival – <ulx id="infinitival">
+          <lix>
+            <gd>Bha e duilich dhomh <m>fiù gal</m> an latha bha mi aig a h-uaigh.</gd>
+            <tr>It was hard for me to even cry the day I was at her grave.</tr>
+            <ref text="198">td. 18</ref>
+          </lix>
+          <lix>
+            <gd>Dè as urrainn dhomh a dhèanamh an seo? Chan e dotair a th’ annam, chan aithne dhomh taigh a thogail, chan aithne dhomh <m>fiù talamh àiteachadh</m>.</gd>
+            <tr>What can I do here? I’m not a doctor, I don’t know how to build a house, I don’t even know how to cultivate land.</tr>
+            <ref text="501">td. 20</ref>
+          </lix>
+        </ulx></li>
+    </ul>
+    <p lang="en">More complicated examples – <ulx id="fiu_nach">
+        <lix>
+          <gd>Bha fhios a’m nach robh càil a mhath dhomh cuideachadh iarraidh air Dougie. No air Murchadh Mór. No air Cairstìona. Chaidh mi troimh gach ainm a bh’anns a’ bhaile ’s cha do smaoinich mi
+            air duine a chuidicheadh mi. <m>Cha robh fiù nach do smaoinich mi</m> air athair Seonag. Smaoinich mi air Coinneach Iain cuideachd. </gd>
+          <tr>I went through every name that was in the village and couldn’t think of anyone who would help me. I even thought of Jean’s father.</tr>
+          <ref text="198">td. 72</ref>
+        </lix>
+        <lix>
+          <gd> Nuair a chunnaic mi a dhealbh air an teilidh, ’s ann ri aghaidh an duine a mharbh mi a bha mi coimhead. Abair gun chlisg mi. Chuir mi fios gu mo bhràthair, a bha na àrd-oifigear sa
+            phrìosan aig an àm, agus lorg e gur e leth-aon a bha san fhear-poileataics. <m>Fiù nach robh an aon tatù air a ghàirdean</m> agus bhiodh e tric an Glaschu a’ cèilidh air a bhràthair agus
+            a’ cleachdadh Fiat a bhràthar.</gd>
+          <tr>He even had the same tattoo on his arm [...]</tr>
+          <ref text="2"/>
+        </lix>
+        <lix>
+          <gd>Cha do rinn iad <m>fiù agus sùil</m> a thoirt oirnn.</gd>
+          <tr>They didn’t even / so much as look at us.</tr>
+          <ref text="605">td. 191</ref>
+          <note>They didn’t give us an <u>eye</u>.</note>
+        </lix>
+        <lix>
+          <gd>Tha Oifig a’ Phuist air céis post-adhair Gàidhlig a chur a-mach mu thràth agus tha iad a’ bruidhinn air ainm Gàidhlig a chur air na carbaidean ùra aca – co-dhiù air a’ Ghàidhealtachd.
+            Tha <m>fiù’s rudan mar seo</m> feumail ach faodaidh iad a bhith ’nam mealladh cuideachd. Tha móran de’n t-seòrsa seo a dh’fhaodar a dheanamh fhathast – mar stampaichean, postairean, fiù’s
+            òrduighean-puist.</gd>
+          <tr>The Post Office has already sent out Gaelic airmail envelopes and they are talking about a Gaelic name to put on their new vans – at least in the Highlands. Even things like this are
+            useful but they can be deceptive as well. Many things of this kind can be done yet – like stamps, posters, even postal orders.</tr>
+          <ref text="32">td. 17</ref>
+          <note>English translation? subject of bi but positive polarity.</note>
+        </lix>
+        <lix>
+          <gd>An diugh chan eil duine nas toilichte na tha a’ mhór-chuid de’n luchd-teagaisg a bhith cur na Gàidhlig an céill còmhla ris a’ chloinn, gu h-àraid nuair a chì iad gu bheil luchd-stiùiridh
+            an fhoghluim leotha, agus gu bheil iad ri fairbheanadh gu <m>bheil fiù’s Dun Eideann</m> ri cur sùim anns na tha iad a’ deanamh troimh an dà chànan.</gd>
+          <tr>Today nobody is happier than the majority of teachers [...], especially when they see that the directors of education are with them, and that they are [...] that even Edinburgh is to
+            give attention to what they are doing through the two languages.</tr>
+          <ref text="32">td. 33</ref>
+        </lix>
+      </ulx>
+    </p>
+
+
+
+    <p lang="en">cf. eadhon</p>
+  </module>
+
+</module>

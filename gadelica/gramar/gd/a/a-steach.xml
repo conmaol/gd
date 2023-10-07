@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>a-steach</h>
+    <p><g>a-steach</g>
+        <en>[to] inside</en> is an illative adverb of motion along a <a href="?q=motion"
+            >trajectory</a> (contrasting with both the inessive <a href="?gd=a-staigh"
+                ><g>a-staigh</g></a>
+        <en>[at] inside</en> and the elative <a href="?gd=a-mach"><g>a-mach</g></a>
+        <en>[to] outside</en>).</p>
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>complement</h>
+            <p>Some examples – <ul>
+                    <li><g>a-steach <a href="?gd=do^preposition">do</a></g>
+                        <en>into</en> – <ul>
+                            <li>older pedagogical examples – <xl id="comp-older-pedag">
+                                    <li>
+                                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha
+                                            air falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa
+                                            nan litrichean leis an litir seo, Iain?” “Théid,” ars
+                                            Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi
+                                            i is gus an cuir mi seòladh oirre. Ceannaich fhéin stamp
+                                            agus cuir oirre i.” Tha Iain a’ ruith sìos an rathad
+                                            leis an litir ’na làimh. Théid e <m>a steach do oifig a’
+                                                phuist</m>, ceannaichidh e stamp is cuiridh e sud
+                                            air an litir. [...]</gd>
+                                        <tr>My mother is writing a letter to my father who is away.
+                                            My mother said, “Will you go to the postbox with this
+                                            letter, John?” “Yes, I will,” said John, “I will leave
+                                            now.” “Wait until I seal it and put an address on it.
+                                            Buy a stamp and put it on it.” John is running down the
+                                            road with the letter in his hand. He will go into the
+                                            post office, he will buy a stamp and put that on the
+                                            letter. [...]</tr>
+                                        <ref text="621">td. 5</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <p><g>a-steach</g> can serve as complement to certain verbs.</p>
+            <module status="bronze" id="rach_a-steach">
+                <h>rach a-steach</h>
+                <p><g><a href="?gd=rach">rach</a> a-steach</g> – <en>go inside, enter</en> – <ul>
+                        <li>pedagogical examples – <xl id="uses-rach-pedag">
+                                <li>
+                                    <gd>Chaidh e a-steach don togalach às an robh an t-seinn a’
+                                        tighinn.</gd>
+                                    <tr>He entered the building from which the singing was
+                                        coming.</tr>
+                                    <ref text="601">td. 49</ref>
+                                </li>
+                            </xl></li>
+                        <li>older pedagogical examples – <xl id="uses-rach-older-pedag">
+                                <li>
+                                    <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air
+                                        falbh. Thubhairt mo mhàthair, “An téid thu do bhocsa nan
+                                        litrichean leis an litir seo, Iain?” “Théid,” ars Iain,
+                                        “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi i is gus
+                                        an cuir mi seòladh oirre. Ceannaich fhéin stamp agus cuir
+                                        oirre i.” Tha Iain a’ ruith sìos an rathad leis an litir ’na
+                                        làimh. <m>Théid e a steach do oifig a’ phuist</m>,
+                                        ceannaichidh e stamp is cuiridh e sud air an litir.
+                                        [...]</gd>
+                                    <tr>My mother is writing a letter to my father who is away. My
+                                        mother said, “Will you go to the postbox with this letter,
+                                        John?” “Yes, I will,” said John, “I will leave now.” “Wait
+                                        until I seal it and put an address on it. Buy a stamp and
+                                        put it on it.” John is running down the road with the letter
+                                        in his hand. He will go into the post office, he will buy a
+                                        stamp and put that on the letter. [...]</tr>
+                                    <ref text="621">td. 5</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </module>
+            <module status="bronze" id="thig_a-steach">
+                <h>thig a-steach</h>
+                <p><g><a href="?gd=thig">thig</a> a-steach</g> – <en>come inside, enter</en> – <ul>
+                        <li>pedagogical examples – <xl id="uses-thig-pedag">
+                                <li>
+                                    <gd>Tha Anna a’ tighinn a-steach. | Thàinig iad a-steach.
+                                        Thig(ibh) a-steach.</gd>
+                                    <tr>Ann is coming in. | They came in. Come in.</tr>
+                                    <ref text="609">td. 31, 196</ref>
+                                </li>
+                                <li>
+                                    <gd>Nach tig thu a-steach?</gd>
+                                    <tr>Won’t you come in?</tr>
+                                    <ref text="601">td. 578</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+                <p>Note the dialectal alternative <g>thig <a href="?gd=a-staigh">a-staigh</a></g> – <ul>
+                        <li>pedagogical examples – <xl id="uses-thig-a-staigh-pedag">
+                                <li>
+                                    <gd>Thig a-staigh. Tha e fuar an-diugh. | Tha i a-muigh an sin
+                                        a’ bruidhinn ach cha tàinig i a-staigh fhathast. | Is e
+                                        Seumas a thàinig a-staigh. | Chì thu amannan nan
+                                        trèanaichean air a’ bhòrd-shanais ach cluinnidh tu
+                                        caismeachd mus tig an trèan a-staigh dhan an stèisean.</gd>
+                                    <tr>Come in. It’s cold today. | She is out there talking but she
+                                        hasn’t come in yet. | It is James that came in. | You will
+                                        see the train times on the notice board but you will hear an
+                                        announcement before the train comes into the station.</tr>
+                                    <ref text="609">td. 34, 50, 134</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </module>
+        </section>
+    </section>
+
+</module>

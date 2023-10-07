@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>an·siud</h>
+    <p><g>an·siud</g>
+        <en>over there, at that place over there</en> is a demonstrative adverb, derived from the
+        distal demonstrative pronoun <a href="?gd=siud"><g>siud</g></a>
+        <en>that (one) over there</en>.</p>
+    <p><g>an·siud</g> contrasts with <a href="?gd=an-seo"><g>an·seo</g></a>
+        <en>here</en> (proximal to the speaker) and <a href="?gd=an-sin"><g>an·sin</g></a>
+        <en>there</en> (proximal to the hearer). </p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>predicate</h>
+            <p>Pedagogical examples – <xl id="pred-pedag">
+                    <li>
+                        <gd>Tha Raghnall an siud. | Tha an t-aran an siud.</gd>
+                        <tr>Ronald is yonder. | The bread is yonder.</tr>
+                        <ref text="609">td. 1, 195</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>adverbial</h>
+            <p>Pedagogical examples – <xl id="adv-pedag">
+                    <li>
+                        <gd>Tha taigh aig Seumas an siud.</gd>
+                        <tr>James has a house over there.</tr>
+                        <ref text="609">td. 7</ref>
+                        <note>locative adverbial?</note>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+</module>

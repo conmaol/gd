@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+    <h>Na Manaich Liatha</h>
+    <p><g>Na <a href="?gd=manach_liath">Manaich Liatha</a></g>
+        <en>The Greyfriars</en> is an <a href="?xx=nouns/ergonymic_name-descriptions">ergonymic
+            name-description</a>.</p>
+    <section>
+        <h>uses</h>
+        <section>
+            <h>specifier</h>
+            <p><a href="?gd=Eaglais_nam_Manach_Liatha"><g>Eaglais nam Manach Liatha</g></a>
+                <en>Greyfriars Kirk</en></p>
+        </section>
+    </section>
+
+
+</module>
