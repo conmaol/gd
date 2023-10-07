@@ -25,7 +25,7 @@ class module {
               return;
           }
           else {
-              $file = 'data/gd/' . $gd[0] . '/' . $gd . '.xml'; // individual Gaelic term modules
+              $file = '../gadelica/gramar/gd/' . $gd[0] . '/' . $gd . '.xml'; // individual Gaelic term modules
               $uri = '?gd=' . $gd;
           }
       }
