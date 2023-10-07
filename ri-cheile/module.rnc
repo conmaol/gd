@@ -1,0 +1,48 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = Module
+
+Module = element module { 
+  attribute status { "bronze"|"silver"|"gold" } ,
+  attribute id { xsd:ID }? , # Is module expandable and linkable
+  element h { TextContent+ } ,
+  (element p { TextContent+ } | Module | Section)*
+}
+
+Section = element section { 
+  attribute id { xsd:ID }? , # Is section expandable and linkable
+  element h { TextContent+ } ,
+  (element p { TextContent+ } | Module | Section)*
+}
+
+# TEXT
+TextContent = (
+     text
+  |  element g { TextContent+ } # Gaelic term (bold, indexed)
+  |  element m { TextContent+ } # highlight
+  |  element emph { TextContent+ }
+  |  element a { attribute href { xsd:anyURI } , TextContent+ }
+  |  element ax { attribute href { xsd:anyURI } , TextContent+ } # external link
+  |  element en { TextContent+ }
+  |  element bad { text } # ungrammatical example
+  |  element ed { TextContent+ } # editorial note (in red)
+  |  element note { TextContent+ }
+  |  element ol { element li { TextContent+ }+ }
+  |  element ul { attribute id { xsd:ID }?, element li { TextContent+ }+ }
+  |  element xl { attribute id { xsd:ID }, element li { Example }+ }
+  |  element masc {empty} 
+  |  element fem {empty} 
+  |  element adj {empty} 
+  |  element vb {empty} 
+  |  element etc {empty} 
+  |  element eg {empty} 
+  |  element slen {empty} 
+)
+
+Example = ( 
+  element gd { TextContent+ }, 
+  element tr { TextContent+ }?, 
+  element ref { attribute text { text }, TextContent+ }, 
+  element note { TextContent+ }?
+  )
+
