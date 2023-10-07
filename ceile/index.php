@@ -2,7 +2,7 @@
 
 namespace controllers;
 
-require_once "../includes/htmlHeader.php";
+require_once '../includes/htmlHeader.php';
 require_once '../includes/include.php';
 
 echo <<<HTML
