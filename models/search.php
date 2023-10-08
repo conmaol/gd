@@ -212,7 +212,7 @@ SQL;
         $sql = <<<SQL
 SELECT e.id, e.hw, e.pos, f.form, f.morph
 FROM entry e
-JOIN forms f ON e.id = f.`lexeme_id`
+JOIN form f ON e.id = f.entryid
 WHERE f.form = :gd
 SQL;
         $results = $this->_db->fetch($sql, array(":gd" => $this->_search));

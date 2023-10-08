@@ -28,7 +28,7 @@ class entry {
             $html .= '<p>';
             $fs = $this->_model->getForms();
 	  foreach ($fs as $nextForm) {
-	      $html .= '<em class="text-muted" title="' . models\entry::getPosInfo($nextForm[1])[2] . '">' . models\entry::getPosInfo($nextForm[1])[0] . '</em> ' . $nextForm[0];
+	      $html .= '<em class="text-muted" title="' . models\entry::getPosInfo($nextForm[1])[1] . '">' . models\entry::getPosInfo($nextForm[1])[0] . '</em> ' . $nextForm[0];
 	      if ($nextForm!=end($fs)) { $html .= ', '; }
 	  }
 	  $html .= '</p>';

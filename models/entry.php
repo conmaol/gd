@@ -55,7 +55,7 @@ SQL;
         }
         $sql = <<<SQL
 SELECT r.partid, e.hw, e.pos
-FROM relations r
+FROM relation r
 INNER JOIN entry e ON r.partid = e.id
 WHERE r.wholeid = :id
 SQL;
@@ -65,7 +65,7 @@ SQL;
         }
         $sql = <<<SQL
 SELECT r.wholeid, e.hw, e.pos
-FROM relations r
+FROM relation r
 INNER JOIN entry e ON r.wholeid = e.id
 WHERE r.partid = :id
 ORDER BY LENGTH(e.hw)
@@ -76,13 +76,14 @@ SQL;
         }
         $sql = <<<SQL
 SELECT form, morph, id
-FROM forms
-WHERE `lexeme_id` = :id AND morph != ''
+FROM form
+WHERE entryid = :id AND morph != ''
 SQL;
         $results = $this->_db->fetch($sql, array(":id" => $id));
         foreach ($results as $nextResult) {
             $this->_forms[] = [$nextResult["form"], $nextResult["morph"], $nextResult["id"]];
-        }        
+        }     
+
 
     }
 
@@ -127,10 +128,10 @@ SQL;
   public static function getPosInfo($pos) {
     switch ($pos) {
       case "m":
-        return ['masc.', 'masculine noun', 'masculine noun'];
+        return ['masc.', 'masculine noun'];
         break;
       case "f":
-        return ['fem.', 'feminine noun', 'feminine noun'];
+        return ['fem.', 'feminine noun'];
         break;
       case "ff":
         return ['boir.', 'ainm boireann', 'feminine proper noun'];
@@ -142,20 +143,27 @@ SQL;
         return ['ainm.', 'ainmear (fireann/boireann)', 'noun (masculine/feminine)'];
         break;
       case "v":
-        return ['vb.', 'verb', 'verb'];
+        return ['vb.', 'verb'];
         break;
       case "a":
-        return ['adj.', 'adjective', 'adjective'];
+        return ['adj.', 'adjective'];
         break;
       case "p":
         return ['roi.', 'roimhear', 'preposition'];
         break;
       case "pl":
-        return ['plur.', 'plural', 'plural'];
+        return ['plur.', 'plural'];
         break;
       case "gen":
-        return ['gen.', 'genitive', 'genitive'];
+        return ['gen.', 'genitive'];
         break;
+      case "femgen":
+        return ['gen.fem.', 'genitive feminine'];
+        break;
+      case "slen":
+        return ['slen.', 'slenderised'];
+        break;
+        
       case "comp":
         return ['coim.', 'coimeasach', 'comparative'];
         break;
@@ -163,16 +171,16 @@ SQL;
         return ['ainm.', 'ainmear gnìomaireach', 'verbal noun'];
         break;
       case "pres":
-        return ['pres.', 'present tense', 'present tense'];
+        return ['pres.', 'present tense'];
         break;
       case "past":
-        return ['pst.', 'past tense', 'past tense'];
+        return ['pst.', 'past tense'];
         break;
       case "fut":
-        return ['fut.', 'future tense', 'future tense'];
+        return ['fut.', 'future tense'];
         break;
       case "cond":
-        return ['cond.', 'conditional tense', 'conditional tense'];
+        return ['cond.', 'conditional tense'];
         break;
       default:
         return [$pos, $pos, $pos];
