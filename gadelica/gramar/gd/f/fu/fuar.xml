@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>fuar</h>
+    <p><g>fuar</g>
+        <en>cold</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+    
+    
+</module>
+
+

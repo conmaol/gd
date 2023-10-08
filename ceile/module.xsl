@@ -37,7 +37,7 @@
     <section>
       <hr/>
       <h4>
-        <xsl:if test="name(.)='section'">
+        <xsl:if test="name(.) = 'section'">
           <xsl:attribute name="class">
             <xsl:text>text-muted text-uppercase</xsl:text>
           </xsl:attribute>
@@ -64,7 +64,7 @@
           <xsl:apply-templates
             select="p[preceding-sibling::module or preceding-sibling::section] | module | section"/>
         </section>
-        
+
         <!--
         <section class="ms-5">
           <xsl:apply-templates select="p | module | section"/>
@@ -110,19 +110,13 @@
     </ul>
   </xsl:template>
 
-  <xsl:template match="xl">
-    <a data-bs-toggle="collapse" href="{concat('#',@id)}">[ex +/-]</a>
-    <ul style="list-style-type: none;" class="collapse" id="{@id}">
-      <xsl:apply-templates/>
-    </ul>
-  </xsl:template>
 
-  <xsl:template match="xl/li">
-    <li>
-      <xsl:text>– </xsl:text>
-      <xsl:apply-templates/>
-    </li>
-  </xsl:template>
+
+
+
+
+
+
 
   <xsl:template match="li">
     <li>
@@ -135,7 +129,7 @@
 
 
 
-<!-- text content -->
+  <!-- text content -->
 
   <xsl:template match="a">
     <a href="{@href}">
@@ -234,25 +228,51 @@
 
   <!-- corpus examples -->
 
-  <xsl:template match="gd">
+  <xsl:template match="xl[@id]">
+    <a data-bs-toggle="collapse" href="{concat('#',@id)}">[ex +/-]</a>
+    <ul style="list-style-type: none;" class="collapse" id="{@id}">
+      <xsl:apply-templates/>
+    </ul>
+  </xsl:template>
+
+  <xsl:template match="xl">
+    <ul>
+      <xsl:apply-templates/>
+    </ul>
+  </xsl:template>
+
+  <xsl:template match="xl/li">
+    <li>
+      <xsl:apply-templates/>
+    </li>
+  </xsl:template>
+
+  <xsl:template match="xl[not(@id)]/li/gd">
+    <xsl:apply-templates/>
+  </xsl:template>
+
+  <xsl:template match="xl[@id]/li/gd">
     <small>
       <xsl:apply-templates/>
     </small>
   </xsl:template>
 
-  <xsl:template match="tr">
-    <a href="#" style="text-decoration: none;" data-bs-toggle="tooltip" data-bs-placement="bottom"
+  <xsl:template match="xl/li/tr">
+    <a href="#" data-bs-toggle="tooltip" data-bs-placement="bottom"
       data-bs-html="true">
       <xsl:attribute name="data-bs-title">
         <xsl:apply-templates/>
       </xsl:attribute>
-      <xsl:text>🏴󠁧󠁢󠁥󠁮󠁧󠁿</xsl:text>
+      [?]
     </a>
   </xsl:template>
 
-  <xsl:template match="ref">
-    <a href="#" style="text-decoration: none;" data-bs-toggle="tooltip"
-      data-bs-placement="bottom" data-bs-html="true">
+  <xsl:template match="xl[not(@id)]/li/ref">
+  </xsl:template>
+
+  <xsl:template match="xl[@id]/li/ref">
+    <a href="#" style="text-decoration: none;" data-bs-toggle="tooltip" data-bs-placement="bottom"
+      data-bs-html="true">
       <xsl:attribute name="data-bs-title">
         <xsl:call-template name="biblio"/>
         <xsl:apply-templates/>

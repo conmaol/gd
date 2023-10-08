@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>beag</h>
     <p><g>beag</g>
-        <en>small, little</en> is an adjective.</p>
+        <en>small, little</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
 
-    <p lang="en">Examples from Gairm – <xl id="xs">
+    <section>
+        <h>uses</h>
+        <section id="uses-predicate">
+            <h>predicate</h>
+            <p><g>beag</g> can be used as the predicate of the verb <a href="?gd=bi"
+                ><g>bi</g></a>.</p>
+            <p>Examples with a human subject – <xl>
+                    <li>
+                        <gd>Tha Màiri beag.</gd>
+                        <tr>Mary is small.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with an animal subject – <xl>
+                    <li>
+                        <gd>Tha an cat beag.</gd>
+                        <tr>The cat is small.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+<!--
+    <section>
+        <h>gauff</h>
+        <p>Examples from Gairm – <xl id="xs">
             <li>
                 <gd>Ma rannsaicheas sinn air ais fada gu leòir chì sinn nach robh sgoilean
                     anns an Oban gus an ochdamh linn deug. Bha <m>an sgoil bheag</m> a b’ fhaisge air anns
@@ -21,13 +49,14 @@
                     Ghàidhlig no do fhoghlum agus do litreachas na Gàidhlig. Cuin a chualas
                     ball-Pàrlamaid a’ togail a ghuth a dh’ iarraidh leasachaidh do staid Gàidhlig
                     ann an Albainn?</gd>
-                <tr>The Parliament has given <u>very little assistance</u> ever to the Gaelic
+                <tr>The Parliament has given very little assistance ever to the Gaelic
                     language or to Gaelic education and literature. When has a member of Parliament
                     been heard raising his voice to demand improvement for the state of Gaelic in
                     Scotland?</tr>
                 <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
             </li>
         </xl>
-    </p>
-    <p lang="gd">...</p>
+    </p></section>
+-->
+
 </module>

@@ -36,7 +36,7 @@ class module {
               return;
           }
           else {
-              $file = 'data/xx/' . $xx . '.xml'; // individual subject modules
+              $file = '../gadelica/gramar/xx/' . $xx . '.xml'; // individual subject modules
               $uri = '?xx=' . $xx;
           }
       }

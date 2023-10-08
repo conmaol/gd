@@ -160,6 +160,9 @@ SQL;
       case "femgen":
         return ['gen.fem.', 'genitive feminine'];
         break;
+      case "genpl":
+        return ['gen.plur.', 'genitive plural'];
+        break;
       case "slen":
         return ['slen.', 'slenderised'];
         break;

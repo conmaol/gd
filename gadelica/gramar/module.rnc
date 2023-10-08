@@ -28,7 +28,7 @@ TextContent = (
   |  element note { TextContent+ }
   |  element ol { element li { TextContent+ }+ }
   |  element ul { attribute id { xsd:ID }?, element li { TextContent+ }+ }
-  |  element xl { attribute id { xsd:ID }, element li { Example }+ }
+  |  element xl { attribute id { xsd:ID }?, element li { Example }+ }
   |  element masc {empty} 
   |  element fem {empty} 
   |  element adj {empty} 

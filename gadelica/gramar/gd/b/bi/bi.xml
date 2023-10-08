@@ -426,25 +426,25 @@
         <gd>Tha an cù dubh.</gd>
         <tr>The dog is black.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, an, cù, dubh</note>
+        <note>bi, an, cù</note>
       </li>
       <li>
         <gd>Tha an cat bàn.</gd>
         <tr>The cat is white.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, an, cat, bàn</note>
+        <note>bi, an, cat</note>
       </li>
       <li>
         <gd>Tha an cù mòr.</gd>
         <tr>The dog is big.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, an, cù, mòr</note>
+        <note>bi, an, cù</note>
       </li>
       <li>
         <gd>Tha an cat beag.</gd>
         <tr>The cat is small.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, an, cat, beag</note>
+        <note>bi, an, cat</note>
       </li>
       <li>
         <gd>Tha an cù aig an dorus.</gd>
@@ -462,13 +462,13 @@
         <gd>Tha an dorus mór.</gd>
         <tr>The door is big.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, an, doras, mór</note>
+        <note>bi, an, doras</note>
       </li>
       <li>
         <gd>Tha an teine mór.</gd>
         <tr>The fire is big.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, an, teine, mór</note>
+        <note>bi, an, teine</note>
       </li>
       <li>
         <gd>Tha teas anns an teine.</gd>
@@ -480,13 +480,13 @@
         <gd>Tha Màiri beag.</gd>
         <tr>Mary is small.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, Màiri, beag</note>
+        <note>bi, Màiri</note>
       </li>
       <li>
         <gd>Tha Calum mór.</gd>
         <tr>Malcolm is big.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, Calum, mór</note>
+        <note>bi, Calum</note>
       </li>
       <li>
         <gd>Tha Màiri ag obair.</gd>

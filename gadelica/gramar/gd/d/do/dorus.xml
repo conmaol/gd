@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
-    <h>doras</h>
-    <p><g>doras</g>
+<module>
+    <h>dorus</h>
+    <p><g>dorus</g>
         <en>door</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
-
 
     <section id="forms">
         <h>forms</h>

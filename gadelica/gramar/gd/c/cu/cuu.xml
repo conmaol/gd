@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>cù</h>
     <p><g>cù</g>
         <en>dog</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
