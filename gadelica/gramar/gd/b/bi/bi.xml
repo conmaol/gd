@@ -456,7 +456,7 @@
         <gd>Tha an cat aig an teine.</gd>
         <tr>The cat is by the fire.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, an, cat, aig, teine</note>
+        <note>bi, an, cat, aig</note>
       </li>
       <li>
         <gd>Tha an dorus mór.</gd>
@@ -468,13 +468,13 @@
         <gd>Tha an teine mór.</gd>
         <tr>The fire is big.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, an, teine</note>
+        <note>bi, an</note>
       </li>
       <li>
         <gd>Tha teas anns an teine.</gd>
         <tr>There is heat in the fire.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, teas, an-prep, an, teine</note>
+        <note>bi, an-prep, an</note>
       </li>
       <li>
         <gd>Tha Màiri beag.</gd>
