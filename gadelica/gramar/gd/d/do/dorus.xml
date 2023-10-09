@@ -7,9 +7,9 @@
 
     <section id="forms">
         <h>forms</h>
-        <p>The principal parts of <g>doras</g> are – <ul>
-                <li><m>doras</m> – nominative/dative singular</li>
-                <li><m>dorais</m> – genitive singular</li>
+        <p>The principal parts of <g>dorus</g> are – <ul>
+                <li><m>dorus</m> – nominative/dative singular</li>
+                <li><m>doruis</m> – genitive singular</li>
                 <li><m>dorsan</m> – plural</li>
             </ul>
         </p>
@@ -18,26 +18,26 @@
             <p><ul>
                     <li>indefinite <ul>
                             <li>singular <ul>
-                                    <li>nominative – <m>doras</m></li>
-                                    <li>dative – (aig) <m>doras</m></li>
-                                    <li>genitive – (bun) <m>dorais</m></li>
+                                    <li>nominative – <m>dorus</m></li>
+                                    <li>dative – aig <m>dorus</m></li>
+                                    <li>genitive – bun <m>doruis</m></li>
                                 </ul></li>
                             <li>plural <ul>
                                     <li>nominative – <m>dorsan</m></li>
-                                    <li>dative – (aig) <m>dorsan</m></li>
-                                    <li>genitive – (bunan) <m>dhorsan</m></li>
+                                    <li>dative – aig <m>dorsan</m></li>
+                                    <li>genitive – bunan <m>dhorsan</m></li>
                                 </ul></li>
                         </ul></li>
                     <li>definite <ul>
                             <li>singular <ul>
-                                    <li>nominative – <m>an doras</m></li>
-                                    <li>dative – (aig) <m>an doras</m></li>
-                                    <li>genitive – (bun) <m>an dorais</m></li>
+                                    <li>nominative – <m>an dorus</m></li>
+                                    <li>dative – aig <m>an dorus</m></li>
+                                    <li>genitive – bun <m>an doruis</m></li>
                                 </ul></li>
                             <li>plural <ul>
                                     <li>nominative – <m>na dorsan</m></li>
-                                    <li>dative – (aig) <m>na dorsan</m></li>
-                                    <li>genitive – (bunan) <m>nan dorsan</m></li>
+                                    <li>dative – aig <m>na dorsan</m></li>
+                                    <li>genitive – bunan <m>nan dorsan</m></li>
                                 </ul></li>
                         </ul></li>
                 </ul></p>
@@ -47,26 +47,26 @@
             <p><ul>
                     <li>singular <ul>
                             <li>indefinite <ul>
-                                    <li>nominative – <m>doras</m></li>
-                                    <li>dative – (aig) <m>doras</m></li>
-                                    <li>genitive – (bun) <m>dorais</m></li>
+                                    <li>nominative – <m>dorus</m></li>
+                                    <li>dative – aig <m>dorus</m></li>
+                                    <li>genitive – bun <m>doruis</m></li>
                                 </ul></li>
                             <li>definite <ul>
-                                    <li>nominative – <m>an doras</m></li>
-                                    <li>dative – (aig) <m>an doras</m></li>
-                                    <li>genitive – (bun) <m>an dorais</m></li>
+                                    <li>nominative – <m>an dorus</m></li>
+                                    <li>dative – aig <m>an dorus</m></li>
+                                    <li>genitive – bun <m>an doruis</m></li>
                                 </ul></li>
                         </ul></li>
                     <li>plural <ul>
                             <li>indefinite <ul>
-                                    <li>nominative – <m>dorais</m></li>
-                                    <li>dative – (aig) <m>doras</m></li>
-                                    <li>genitive – (bunan) <m>dhorsan</m></li>
+                                    <li>nominative – <m>doruis</m></li>
+                                    <li>dative – aig <m>dorsan</m></li>
+                                    <li>genitive – bunan <m>dhorsan</m></li>
                                 </ul></li>
                             <li>definite <ul>
                                     <li>nominative – <m>na dorsan</m></li>
-                                    <li>dative – (aig) <m>na dorsan</m></li>
-                                    <li>genitive – (bunan) <m>nan dorsan</m></li>
+                                    <li>dative – aig <m>na dorsan</m></li>
+                                    <li>genitive – bunan <m>nan dorsan</m></li>
                                 </ul></li>
                         </ul></li>
                 </ul></p>
@@ -76,43 +76,59 @@
             <p><ul>
                     <li>nominative <ul>
                             <li>indefinite <ul>
-                                    <li>singular – <m>doras</m></li>
+                                    <li>singular – <m>dorus</m></li>
                                     <li>plural – <m>dorsan</m></li>
                                 </ul></li>
                             <li>definite <ul>
-                                    <li>singular – <m>an doras</m></li>
+                                    <li>singular – <m>an dorus</m></li>
                                     <li>plural – <m>na dorsan</m></li>
                                 </ul></li>
                         </ul></li>
                     <li>dative <ul>
                             <li>indefinite <ul>
-                                    <li>singular – (aig) <m>doras</m></li>
-                                    <li>plural – (aig) <m>dorsan</m></li>
+                                    <li>singular – aig <m>dorus</m></li>
+                                    <li>plural – aig <m>dorsan</m></li>
                                 </ul></li>
                             <li>definite <ul>
-                                    <li>singular – (aig) <m>an doras</m></li>
-                                    <li>plural – (aig) <m>na dorsan</m></li>
+                                    <li>singular – aig <m>an dorus</m></li>
+                                    <li>plural – aig <m>na dorsan</m></li>
                                 </ul></li>
                         </ul></li>
                     <li>genitive <ul>
                             <li>indefinite <ul>
-                                    <li>singular – (bun) <m>dorais</m></li>
-                                    <li>plural – (bunan) <m>dhorsan</m></li>
+                                    <li>singular – bun <m>doruis</m></li>
+                                    <li>plural – bunan <m>dhorsan</m></li>
                                 </ul></li>
                             <li>definite <ul>
-                                    <li>singular – (bun) <m>an dorais</m></li>
-                                    <li>plural – (bunan) <m>nan dorsan</m></li>
+                                    <li>singular – bun <m>an doruis</m></li>
+                                    <li>plural – bunan <m>nan dorsan</m></li>
                                 </ul></li>
                         </ul></li>
                 </ul></p>
+        </section>
+        <section>
+            <h>notes</h>
+            <p>Note that in post-1970s Neo-Gaelic, the forms <g>dorus</g> and <g>doruis</g> have
+                been standardised to <g>doras</g> and <g>dorais</g> respectively.</p>
         </section>
     </section>
 
     <section>
         <h>dependents</h>
-        <section>
+        <section id="deps-spr">
             <h>specifier</h>
-            <p>Some examples – <xl id="deps-spr-xs">
+            <p><g>dorus</g> can occur with a specifier.</p>
+            <p>Examples with the definite article – <xl>
+                    <li>
+                        <gd>Tha an dorus mór.</gd>
+                        <tr>The door is big.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an cù aig an dorus.</gd>
+                        <tr>The dog is at the door.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
                     <li>
                         <gd>Chunnaic mi cù aig an dorus.</gd>
                         <tr>I saw a dog at the door.</tr>
@@ -125,14 +141,32 @@
 
     <section>
         <h>uses</h>
-        <section>
+        <section id="uses-sbj">
+            <h>subject</h>
+            <p><g>dorus</g> can be used as the subject of a verb.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
+                    <li>
+                        <gd>Tha an dorus mór.</gd>
+                        <tr>The door is big.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="uses-comp">
             <h>complement</h>
-            <p>Some examples – <xl id="uses-comp-xs">
+            <p><g>dorus</g> can be used as the complement of a preposition.</p>
+            <p>Some examples with <g><a href="?gd=aig">aig</a> dorus</g>
+                <en>at a door</en> – <xl>
+                    <li>
+                        <gd>Tha an cù aig an dorus.</gd>
+                        <tr>The dog is at the door.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
                     <li>
                         <gd>Chunnaic mi cù aig an dorus.</gd>
                         <tr>I saw a dog at the door.</tr>
                         <ref text="617">td. 6</ref>
-                        <note>preposition</note>
                     </li>
                 </xl>
             </p>

@@ -3,7 +3,140 @@
     <h>achadh</h>
     <p><g>achadh</g>
         <en>field</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
-    
-</module>
+        noun</a>.</p>
 
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>achadh</g> are – <ul>
+                <li><m>achadh</m> – nominative/dative singular, genitive plural</li>
+                <li><m>achaidh</m> – genitive singular, nominative/dative plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>achadh</m></li>
+                                    <li>dative – ann an <m>achadh</m></li>
+                                    <li>genitive – meadhan <m>achaidh</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>achaidhean</m></li>
+                                    <li>dative – ann an <m>achaidhean</m></li>
+                                    <li>genitive – meadhanan <m>achadh</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an t-achadh</m></li>
+                                    <li>dative – anns <m>an achadh</m></li>
+                                    <li>genitive – meadhan <m>an achaidh</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na h-achaidhean</m></li>
+                                    <li>dative – leis <m>na h-achaidhean</m></li>
+                                    <li>genitive – meadhanan <m>nan achadh</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>achadh</m></li>
+                                    <li>dative – ann an <m>achadh</m></li>
+                                    <li>genitive – meadhan <m>achaidh</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an t-achadh</m></li>
+                                    <li>dative – anns <m>an achadh</m></li>
+                                    <li>genitive – meadhan <m>an achaidh</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>achaidhean</m></li>
+                                    <li>dative – ann an <m>achaidhean</m></li>
+                                    <li>genitive – meadhanan <m>achadh</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na h-achaidhean</m></li>
+                                    <li>dative – leis <m>na h-achaidhean</m></li>
+                                    <li>genitive – meadhanan <m>nan achadh</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>achadh</m></li>
+                                    <li>plural – <m>achaidhean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an t-achadh</m></li>
+                                    <li>plural – <m>na h-achaidhean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – ann an <m>achadh</m></li>
+                                    <li>plural – ann an <m>achaidhean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – anns <m>an achadh</m></li>
+                                    <li>plural – anns <m>na h-achaidhean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – meadhan <m>achaidh</m></li>
+                                    <li>plural – meadhanan <m>achadh</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – meadhan <m>an achaidh</m></li>
+                                    <li>plural – meadhanan <m>nan achadh</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section id="deps-spr">
+            <h>specifier</h>
+            <p><g>achadh</g> can occur with a specifier.</p>
+            <p>Examples with the definite article – <xl>
+                    <li>
+                        <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+                        <tr>Mary is working.</tr>
+                        <ref text="617">td. 6–7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-comp">
+            <h>complement</h>
+            <p><g>achadh</g> can be used as the complement of a preposition.</p>
+            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> achadh</g> <en>in a field</en> – <xl>
+                    <li>
+                        <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+                        <tr>Mary and Calum are working in the field today.</tr>
+                        <ref text="617">td. 6–7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+</module>

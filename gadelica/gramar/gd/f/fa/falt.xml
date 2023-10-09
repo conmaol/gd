@@ -3,8 +3,108 @@
     <h>falt</h>
     <p><g>falt</g>
         <en>hair</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        noun</a>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>falt</g> are – <ul>
+                <li><m>falt</m> – nominative/dative singular, genitive plural</li>
+                <li><m>fuilt</m> – genitive singular, nominative/dative plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>falt</m></li>
+                                    <li>dative – le <m>falt</m></li>
+                                    <li>genitive – dath <m>fuilt</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>fuilt</m></li>
+                                    <li>dative – le <m>fuilt</m></li>
+                                    <li>genitive – dathan <m>fhalt</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>am falt</m></li>
+                                    <li>dative – leis <m>an fhalt</m></li>
+                                    <li>genitive – dath <m>an fhuilt</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na fuilt</m></li>
+                                    <li>dative – leis <m>na fuilt</m></li>
+                                    <li>genitive – dathan <m>nam falt</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>falt</m></li>
+                                    <li>dative – le <m>falt</m></li>
+                                    <li>genitive – dath <m>fuilt</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>am falt</m></li>
+                                    <li>dative – leis <m>an fhalt</m></li>
+                                    <li>genitive – earball <m>a’ chait</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>fuilt</m></li>
+                                    <li>dative – le <m>fuilt</m></li>
+                                    <li>genitive – dathan <m>fhalt</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na fuilt</m></li>
+                                    <li>dative – leis <m>na fuilt</m></li>
+                                    <li>genitive – dathan <m>nam falt</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>falt</m></li>
+                                    <li>plural – <m>fuilt</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>am falt</m></li>
+                                    <li>plural – <m>na fuilt</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – le <m>falt</m></li>
+                                    <li>plural – le <m>fuilt</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – leis <m>an fhalt</m></li>
+                                    <li>plural – leis <m>na fuilt</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – dath <m>fuilt</m></li>
+                                    <li>plural – dathan <m>fhalt</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – dath <m>an fhuilt</m></li>
+                                    <li>plural – dathan <m>nam falt</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
     
 </module>
-
-

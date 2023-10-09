@@ -19,25 +19,25 @@
                     <li>indefinite <ul>
                             <li>singular <ul>
                                     <li>nominative – <m>cù</m></li>
-                                    <li>dative – (le) <m>cù</m></li>
-                                    <li>genitive – (earball) <m>coin</m></li>
+                                    <li>dative – le <m>cù</m></li>
+                                    <li>genitive – earball <m>coin</m></li>
                                 </ul></li>
                             <li>plural <ul>
                                     <li>nominative – <m>coin</m></li>
-                                    <li>dative – (le) <m>coin</m></li>
-                                    <li>genitive – (earbaill) <m>chon</m></li>
+                                    <li>dative – le <m>coin</m></li>
+                                    <li>genitive – earbaill <m>chon</m></li>
                                 </ul></li>
                         </ul></li>
                     <li>definite <ul>
                             <li>singular <ul>
                                     <li>nominative – <m>an cù</m></li>
-                                    <li>dative – (leis) <m>a’ chù</m></li>
-                                    <li>genitive – (earball) <m>a’ choin</m></li>
+                                    <li>dative – leis <m>a’ chù</m></li>
+                                    <li>genitive – earball <m>a’ choin</m></li>
                                 </ul></li>
                             <li>plural <ul>
                                     <li>nominative – <m>na coin</m></li>
-                                    <li>dative – (leis) <m>na coin</m></li>
-                                    <li>genitive – (earbaill) <m>nan con</m></li>
+                                    <li>dative – leis <m>na coin</m></li>
+                                    <li>genitive – earbaill <m>nan con</m></li>
                                 </ul></li>
                         </ul></li>
                 </ul></p>
@@ -48,25 +48,25 @@
                     <li>singular <ul>
                             <li>indefinite <ul>
                                     <li>nominative – <m>cù</m></li>
-                                    <li>dative – (le) <m>cù</m></li>
-                                    <li>genitive – (earball) <m>coin</m></li>
+                                    <li>dative – le <m>cù</m></li>
+                                    <li>genitive – earball <m>coin</m></li>
                                 </ul></li>
                             <li>definite <ul>
                                     <li>nominative – <m>an cù</m></li>
-                                    <li>dative – (leis) <m>a’ chù</m></li>
-                                    <li>genitive – (earball) <m>a’ choin</m></li>
+                                    <li>dative – leis <m>a’ chù</m></li>
+                                    <li>genitive – earball <m>a’ choin</m></li>
                                 </ul></li>
                         </ul></li>
                     <li>plural <ul>
                             <li>indefinite <ul>
                                     <li>nominative – <m>coin</m></li>
-                                    <li>dative – (le) <m>coin</m></li>
-                                    <li>genitive – (earbaill) <m>chon</m></li>
+                                    <li>dative – le <m>coin</m></li>
+                                    <li>genitive – earbaill <m>chon</m></li>
                                 </ul></li>
                             <li>definite <ul>
                                     <li>nominative – <m>na coin</m></li>
-                                    <li>dative – (leis) <m>na coin</m></li>
-                                    <li>genitive – (earbaill) <m>nan con</m></li>
+                                    <li>dative – leis <m>na coin</m></li>
+                                    <li>genitive – earbaill <m>nan con</m></li>
                                 </ul></li>
                         </ul></li>
                 </ul></p>
@@ -86,22 +86,22 @@
                         </ul></li>
                     <li>dative <ul>
                             <li>indefinite <ul>
-                                    <li>singular – (le) <m>cù</m></li>
-                                    <li>plural – (le) <m>coin</m></li>
+                                    <li>singular – le <m>cù</m></li>
+                                    <li>plural – le <m>coin</m></li>
                                 </ul></li>
                             <li>definite <ul>
-                                    <li>singular – (leis) <m>a’ chù</m></li>
-                                    <li>plural – (leis) <m>na coin</m></li>
+                                    <li>singular – leis <m>a’ chù</m></li>
+                                    <li>plural – leis <m>na coin</m></li>
                                 </ul></li>
                         </ul></li>
                     <li>genitive <ul>
                             <li>indefinite <ul>
-                                    <li>singular – (earball) <m>coin</m></li>
-                                    <li>plural – (earbaill) <m>chon</m></li>
+                                    <li>singular – earball <m>coin</m></li>
+                                    <li>plural – earbaill <m>chon</m></li>
                                 </ul></li>
                             <li>definite <ul>
-                                    <li>singular – (earball) <m>a’ choin</m></li>
-                                    <li>plural – (earbaill) <m>nan con</m></li>
+                                    <li>singular – earball <m>a’ choin</m></li>
+                                    <li>plural – earbaill <m>nan con</m></li>
                                 </ul></li>
                         </ul></li>
                 </ul></p>
@@ -110,9 +110,10 @@
 
     <section>
         <h>dependents</h>
-        <section>
+        <section id="deps-bare">
             <h>bare</h>
-            <p>Some examples – <xl id="deps-bare-xs">
+            <p><g>cù</g> can occur on its own, without any dependents.</p>
+            <p>Some examples – <xl>
                     <li>
                         <gd>Chunnaic mi cù aig an dorus.</gd>
                         <tr>I saw a dog at the door.</tr>
@@ -121,13 +122,59 @@
                 </xl>
             </p>
         </section>
+        <section id="deps-spr">
+            <h>specifier</h>
+            <p><g>cù</g> can occur with a specifier.</p>
+            <p>Examples with the definite article – <xl>
+                    <li>
+                        <gd>Tha an cù dubh.</gd>
+                        <tr>The dog is black.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an cù mòr.</gd>
+                        <tr>The dog is big.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an cù aig an dorus.</gd>
+                        <tr>The dog is at the door.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+
     </section>
 
     <section>
         <h>uses</h>
-        <section>
+        <section id="uses-sbj">
+            <h>subject</h>
+            <p><g>cù</g> can be used as the subject of a verb.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
+                    <li>
+                        <gd>Tha an cù dubh.</gd>
+                        <tr>The dog is black.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an cù mòr.</gd>
+                        <tr>The dog is big.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an cù aig an dorus.</gd>
+                        <tr>The dog is at the door.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="uses-obj">
             <h>object</h>
-            <p>Some examples – <xl id="uses-obj-xs">
+            <p><g>cù</g> can be used as the object of a transitive verb.</p>
+            <p>Some examples – <xl>
                     <li>
                         <gd>Chunnaic mi cù aig an dorus.</gd>
                         <tr>I saw a dog at the door.</tr>
@@ -137,6 +184,5 @@
             </p>
         </section>
     </section>
-
 
 </module>

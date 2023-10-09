@@ -223,7 +223,15 @@
   </xsl:template>
 
   <xsl:template match="slen">
-    <em>slend.</em>
+    <em>slen.</em>
+  </xsl:template>
+  
+  <xsl:template match="gen">
+    <em>gen.</em>
+  </xsl:template>
+
+  <xsl:template match="pl">
+    <em>plur.</em>
   </xsl:template>
 
   <!-- corpus examples -->

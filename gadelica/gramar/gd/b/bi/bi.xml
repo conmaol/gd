@@ -426,31 +426,31 @@
         <gd>Tha an cù dubh.</gd>
         <tr>The dog is black.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, an, cù</note>
+        <note>bi, an</note>
       </li>
       <li>
         <gd>Tha an cat bàn.</gd>
         <tr>The cat is white.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, an, cat</note>
+        <note>bi, an</note>
       </li>
       <li>
         <gd>Tha an cù mòr.</gd>
         <tr>The dog is big.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, an, cù</note>
+        <note>bi, an</note>
       </li>
       <li>
         <gd>Tha an cat beag.</gd>
         <tr>The cat is small.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, an, cat</note>
+        <note>bi, an</note>
       </li>
       <li>
         <gd>Tha an cù aig an dorus.</gd>
         <tr>The dog is at the door.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, an, cù, aig, doras</note>
+        <note>bi, an, aig</note>
       </li>
       <li>
         <gd>Tha an cat aig an teine.</gd>
@@ -462,7 +462,7 @@
         <gd>Tha an dorus mór.</gd>
         <tr>The door is big.</tr>
         <ref text="617">td. 6</ref>
-        <note>bi, an, doras</note>
+        <note>bi, an</note>
       </li>
       <li>
         <gd>Tha an teine mór.</gd>

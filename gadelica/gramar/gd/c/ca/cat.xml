@@ -3,7 +3,160 @@
     <h>cat</h>
     <p><g>cat</g>
         <en>cat</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
-    
-</module>
+        noun</a>.</p>
 
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>cat</g> are – <ul>
+            <li><m>cat</m> – nominative/dative singular, genitive plural</li>
+            <li><m>cait</m> – genitive singular, nominative/dative plural</li>
+        </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                <li>indefinite <ul>
+                    <li>singular <ul>
+                        <li>nominative – <m>cat</m></li>
+                        <li>dative – le <m>cat</m></li>
+                        <li>genitive – earball <m>cait</m></li>
+                    </ul></li>
+                    <li>plural <ul>
+                        <li>nominative – <m>cait</m></li>
+                        <li>dative – le <m>cait</m></li>
+                        <li>genitive – earbaill <m>chat</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>definite <ul>
+                    <li>singular <ul>
+                        <li>nominative – <m>an cat</m></li>
+                        <li>dative – leis <m>a’ chat</m></li>
+                        <li>genitive – earball <m>a’ chait</m></li>
+                    </ul></li>
+                    <li>plural <ul>
+                        <li>nominative – <m>na cait</m></li>
+                        <li>dative – leis <m>na cait</m></li>
+                        <li>genitive – earbaill <m>nan cat</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                <li>singular <ul>
+                    <li>indefinite <ul>
+                        <li>nominative – <m>cat</m></li>
+                        <li>dative – le <m>cat</m></li>
+                        <li>genitive – earball <m>cait</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>nominative – <m>an cat</m></li>
+                        <li>dative – leis <m>a’ chat</m></li>
+                        <li>genitive – earball <m>a’ chait</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>plural <ul>
+                    <li>indefinite <ul>
+                        <li>nominative – <m>cait</m></li>
+                        <li>dative – le <m>cait</m></li>
+                        <li>genitive – earbaill <m>chat</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>nominative – <m>na cait</m></li>
+                        <li>dative – leis <m>na cait</m></li>
+                        <li>genitive – earbaill <m>nan cat</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                <li>nominative <ul>
+                    <li>indefinite <ul>
+                        <li>singular – <m>cat</m></li>
+                        <li>plural – <m>cait</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – <m>an cat</m></li>
+                        <li>plural – <m>na cait</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>dative <ul>
+                    <li>indefinite <ul>
+                        <li>singular – le <m>cat</m></li>
+                        <li>plural – le <m>cait</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – leis <m>a’ chat</m></li>
+                        <li>plural – leis <m>na cait</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>genitive <ul>
+                    <li>indefinite <ul>
+                        <li>singular – earball <m>cait</m></li>
+                        <li>plural – earbaill <m>chat</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – earball <m>a’ chait</m></li>
+                        <li>plural – earbaill <m>nan cat</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section id="deps-spr">
+            <h>specifier</h>
+            <p><g>cat</g> can occur with a specifier.</p>
+            <p>Examples with the definite article – <xl>
+                    <li>
+                        <gd>Tha an cat bàn.</gd>
+                        <tr>The cat is white.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an cat beag.</gd>
+                        <tr>The cat is small.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an cat aig an teine.</gd>
+                        <tr>The cat is by the fire.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-sbj">
+            <h>subject</h>
+            <p><g>cat</g> can be used as the subject of a verb.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
+                    <li>
+                        <gd>Tha an cat bàn.</gd>
+                        <tr>The cat is white.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an cat beag.</gd>
+                        <tr>The cat is small.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an cat aig an teine.</gd>
+                        <tr>The cat is by the fire.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+</module>

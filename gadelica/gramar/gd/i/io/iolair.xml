@@ -5,5 +5,109 @@
         <en>eagle</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
     
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>iolair</g> are – <ul>
+            <li><m>iolair</m> – nominative/dative singular</li>
+            <li><m>iolaire</m> – genitive singular</li>
+            <li><m>iolairean</m> – plural</li>
+        </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                <li>indefinite <ul>
+                    <li>singular <ul>
+                        <li>nominative – <m>iolair</m></li>
+                        <li>dative – le <m>iolair</m></li>
+                        <li>genitive – earball <m>iolaire</m></li>
+                    </ul></li>
+                    <li>plural <ul>
+                        <li>nominative – <m>iolairean</m></li>
+                        <li>dative – le <m>iolairean</m></li>
+                        <li>genitive – earbaill <m>iolairean</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>definite <ul>
+                    <li>singular <ul>
+                        <li>nominative – <m>an iolair</m></li>
+                        <li>dative – leis <m>an iolair</m></li>
+                        <li>genitive – earball <m>na h-iolaire</m></li>
+                    </ul></li>
+                    <li>plural <ul>
+                        <li>nominative – <m>na h-iolairean</m></li>
+                        <li>dative – leis <m>na h-iolairean</m></li>
+                        <li>genitive – earbaill <m>nan iolairean</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                <li>singular <ul>
+                    <li>indefinite <ul>
+                        <li>nominative – <m>iolair</m></li>
+                        <li>dative – le <m>iolair</m></li>
+                        <li>genitive – earball <m>iolaire</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>nominative – <m>an iolair</m></li>
+                        <li>dative – leis <m>an iolair</m></li>
+                        <li>genitive – earball <m>na h-iolaire</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>plural <ul>
+                    <li>indefinite <ul>
+                        <li>nominative – <m>iolairean</m></li>
+                        <li>dative – le <m>iolairean</m></li>
+                        <li>genitive – earbaill <m>iolairean</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>nominative – <m>na h-iolairean</m></li>
+                        <li>dative – leis <m>na iolairean</m></li>
+                        <li>genitive – earbaill <m>nan iolairean</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                <li>nominative <ul>
+                    <li>indefinite <ul>
+                        <li>singular – <m>iolair</m></li>
+                        <li>plural – <m>iolairean</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – <m>an iolair</m></li>
+                        <li>plural – <m>na h-iolairean</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>dative <ul>
+                    <li>indefinite <ul>
+                        <li>singular – le <m>iolair</m></li>
+                        <li>plural – le <m>iolairean</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – leis <m>an iolair</m></li>
+                        <li>plural – leis <m>na h-iolairean</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>genitive <ul>
+                    <li>indefinite <ul>
+                        <li>singular – earball <m>iolaire</m></li>
+                        <li>plural – earbaill <m>iolairean</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – earball <m>na h-iolaire</m></li>
+                        <li>plural – earbaill <m>nan iolairean</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+    </section>
+    
+    
 </module>
 

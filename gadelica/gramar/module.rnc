@@ -36,6 +36,8 @@ TextContent = (
   |  element etc {empty} 
   |  element eg {empty} 
   |  element slen {empty} 
+  |  element gen {empty}
+  |  element pl {empty}
 )
 
 Example = ( 

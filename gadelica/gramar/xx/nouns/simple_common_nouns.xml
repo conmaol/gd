@@ -1,14 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
   <h>simple common nouns</h>
   <p>Simple common nouns are <a href="?xx=nouns/common_nouns">common nouns</a> that are not formed
     from other words.</p>
   <p>List of simple common nouns (with idiosyncracies noted) – <ul>
-      <li><a href="?gd=aba"><g>aba</g></a>
+      <!--<li><a href="?gd=aba"><g>aba</g></a>
         <masc/>
         <en>abbot</en> pl. <g>abachan</g></li>
       <li><m>abhainn</m> fem. <en>river</en> gen. <b>aibhne</b> pl. <b>aibhnichean</b></li>
       <li><m>adhbhar</m> masc. <en>reason</en> pl. <b>adhbharan</b> (†<b>adhbhairean</b>)</li>
+      -->
+      <li><a href="?gd=achadh"><g>achadh</g></a> <masc/> <en>field</en> <pl/> <g>achaidhean</g></li>
+      
+      <!--
       <li><m>airgead</m> masc. <en>silver</en></li>
       <li><a href="?gd=aithne">aithne</a>
         <i>fem.</i>
@@ -64,9 +68,9 @@
       <li><m>cànan</m> masc. <en>language</en></li>
       <li><a href="?gd=càr"><g>càr</g></a>
         <masc/>
-        <en>car</en></li>
-      <li><m>cat</m> masc. <en>cat</en></li>
-      <li><a href="?gd=cathair"><g>cathair</g></a>
+        <en>car</en></li>-->
+      <li><a href="?gd=cat"><g>cat</g></a> <masc/> <en>cat</en></li>
+      <!--<li><a href="?gd=cathair"><g>cathair</g></a>
         <fem/>
         <en>chair</en></li>
       <li><m>ceòl</m> masc. <en>music</en> gen. <b>ciùil</b></li>
@@ -83,16 +87,18 @@
         <en>end, boundary</en></li>
       <li><a href="?gd=croit">croit</a>
         <i>fem.</i>
-        <en>croft</en></li>
-      <li><a href="?gd=cù"><g>cù</g></a> masc. <en>dog</en> gen. <g>coin</g> pl. <g>coin</g></li>
-      <li><m>dealbh</m> fem. <en>picture</en> gen. <b>deilbhe</b>, <b>dealbha</b></li>
+        <en>croft</en></li>-->
+      <li><a href="?gd=cuu"><g>cù</g></a> masc. <en>dog</en> <gen/> <g>coin</g> <pl/> <g>coin</g></li>
+      <!--<li><m>dealbh</m> fem. <en>picture</en> gen. <b>deilbhe</b>, <b>dealbha</b></li>
       <li><m>deoch</m> fem. <en>drink</en> gen. <b>dighe</b>, <b>dibhe</b></li>
       <li><a href="?gd=dìcheall">dìcheall</a>
         <masc/>
         <en>diligence, effort, application</en></li>
-      <li><a href="?gd=doras"><g>doras</g></a>
+        -->
+      <li><a href="?gd=dorus"><g>dorus</g></a>
         <masc/>
-        <en>door</en> pl. <g>dorsan</g></li>
+        <en>door</en> <pl/> <g>dorsan</g></li>
+    <!--
       <li><m>duine</m> masc. <en>man</en> pl. <b>daoine</b></li>
       <li><m>dùn</m> masc. <en>fort</en></li>
       <li><m>each</m> masc. <en>horse</en></li>
@@ -105,7 +111,11 @@
       <li><a href="?gd=easbaig"><g>easbaig</g></a>
         <masc/>
         <en>bishop</en></li>
-      <li><m>falt</m> masc. <en>hair</en> gen. <b>fuilt</b> pl. <b>fuiltean</b></li>
+        -->
+        
+      <li><a href="?gd=falt"><g>falt</g></a> <masc/> <en>hair</en> <gen/> <g>fuilt</g> <pl/> <g>fuiltean</g></li>
+    
+    <!--
       <li><m>fear</m> masc. <en>man</en> gen. <b>fir</b> pl. <b>fir</b></li>
       <li><m>fiadh</m> masc. <en>deer</en></li>
       <li><m>fios</m> masc. <en>knowledge</en> gen. <b>fiosa</b> pl. <b>fiosan</b></li>
@@ -113,6 +123,9 @@
       <li><m>gaol</m> masc. <en>love</en></li>
       <li><m>gille</m> masc. <en>boy</en></li>
       <li><m>geansaidh</m> masc. <en>jumper</en></li>
+      -->
+      <li><a href="?gd=iolair"><g>iolair</g></a> <fem/> <en>eagle</en></li>
+      <!--
       <li><a href="?gd=làmh"><g>làmh</g></a>
         <fem/>
         <en>hand</en></li>
@@ -171,6 +184,10 @@
         <en>base, foundation</en></li>
       <li><m>sùil</m> fem. <en>eye</en> gen. <b>sùla</b> gen. pl. <b>sùl</b></li>
       <li><m>taigh</m> masc. <en>house</en> gen. <b>taighe</b></li>
+      -->
+      <li><a href="?gd=teas"><g>teas</g></a> <masc/> <en>heat</en> <gen/> <g>teas</g></li>
+    <li><a href="?gd=teine"><g>teine</g></a> <masc/> <en>fire</en> <pl/> <g>teintean</g></li>
+      <!--
       <li><a href="?gd=tì"><g>tì</g></a>
         <fem/>
         <en>tea</en></li>
@@ -179,7 +196,7 @@
         <en>side</en></li>
       <li><m>toll</m> masc. <en>hole</en> gen. <b>tuill</b> pl. <b>tuill</b></li>
       <li><m>tonn</m> masc. <en>wave</en> gen. <b>tuinn</b> pl. <b>tuinn</b></li>
-      <li><a href="?gd=uair">uair</a> fem. <en>time, hour</en> gen. <b>uarach</b></li>
+      <li><a href="?gd=uair">uair</a> fem. <en>time, hour</en> gen. <b>uarach</b></li>-->
     </ul>
   </p>
 </module>
