@@ -1,28 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>ag</h>
     <p><g>ag</g> is a special form of the adessive preposition <a href="?gd=aig"><g>aig</g></a>,
-        used before verbal nouns in the <a href="?q=verbal_aspect">progressive</a>
-        construction.</p>
+        used before verbal nouns in the progressive construction.</p>
 
-    <li>
-        <gd>Tha Màiri ag obair.</gd>
-        <tr>Mary is working.</tr>
-        <ref text="617">td. 6</ref>
-        <note>ag, obair</note>
-    </li>
-    <li>
-        <gd>Tha Calum ag obair.</gd>
-        <tr>Malcolm is working.</tr>
-        <ref text="617">td. 6</ref>
-        <note>ag, obair</note>
-    </li>
-    <li>
-        <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
-        <tr>Mary is working.</tr>
-        <ref text="617">td. 6–7</ref>
-        <note>agus, ag, obair, an-diugh</note>
-    </li>
+    <section>
+        <h>dependents</h>
+        <section id="deps-comp">
+            <h>complement</h>
+            <p>The progressive particle <g>ag</g> takes a verbal noun as its complement – <xl>
+                    <li>
+                        <gd>Tha Màiri ag <m>obair</m>.</gd>
+                        <tr>Mary is working.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Màiri agus Calum ag <m>obair</m> anns an achadh an diugh.</gd>
+                        <tr>Mary is working.</tr>
+                        <ref text="617">td. 6–7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-pred">
+            <h>predicate</h>
+            <p>The progressive particle <g>ag</g> can function as the predicate of <a href="?gd=bi"
+                        ><g>bi</g></a>
+                <en>be</en> – <xl>
+                    <li>
+                        <gd>Tha Màiri <m>ag</m> obair.</gd>
+                        <tr>Mary is working.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Màiri agus Calum <m>ag</m> obair anns an achadh an diugh.</gd>
+                        <tr>Mary is working.</tr>
+                        <ref text="617">td. 6–7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
 
 
     <!--
@@ -30,7 +54,8 @@
     <h>forms</h>
 </section>
     -->
-    <section id="forms">
+
+    <!--<section id="forms">
         <h>forms</h>
         <p>When the verbal noun starts with a vowel, the preposition takes the (deslenderised) form
                 <g>ag</g>; otherwise, it takes the reduced form <g>a’</g> – <ul>
@@ -50,7 +75,7 @@
                     <en>(in the process of) hitting</en>.</li>
                 <li><g>ag</g> is used before <g>ràdh</g> (the verbal noun of <a href="?gd=abair"
                             ><g>abair</g></a>
-                    <en>say</en>) ie. <m>ag ràdh</m><!-- and not <bad>a’ ràdh</bad>-->.</li>
+                    <en>say</en>) ie. <m>ag ràdh</m><!-\- and not <bad>a’ ràdh</bad>-\->.</li>
             </ol>
         </p>
     </section>
@@ -297,6 +322,6 @@
                     </li>
                 </xl></p>
         </section>
-    </section>
+    </section>-->
 
 </module>
