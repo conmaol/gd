@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
   <h>an</h>
   <p><g>an</g>
     <en>in(side), within</en> is the (non-leniting) inessive <a href="?xx=prepositions/prepositions"
       >preposition</a>.</p>
-  <p>The inessive preposition should not be confused with other uses of the particle <a
-      href="?gd=an"><g>an</g></a>.</p>
-  <section>
+  <!--<p>The inessive preposition should not be confused with other uses of the particle <a
+      href="?gd=an"><g>an</g></a>.</p>-->
+  <section id="forms">
     <h>forms</h>
     <section id="indefinite">
       <h>indefinite</h>
@@ -126,13 +126,24 @@
     <section id="deps-comp">
       <h>complement</h>
       <p>Like all (true) prepositions, <g>an</g> governs a noun complement in the dative case.</p>
-      <p>These complements can belong to a number of different semantic classes.</p>
+      <p>Examples with inanimate objects (material location) – <xl>
+          <li>
+            <gd>Tha teas anns an teine.</gd>
+            <tr>There is heat in the fire.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+          <li>
+            <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+            <tr>Mary is working.</tr>
+            <ref text="617">td. 6–7</ref>
+          </li>
+        </xl>
+      </p>
+
+      <!-- <p>These complements can belong to a number of different semantic classes.</p>
       <section id="deps-comp-human">
         <h>humans</h>
       </section>
-
-
-
       <p>Some examples – <ul>
           <li><g>ann am <a href="?gd=bogsa">bogsa</a></g>
             <en>in a box</en></li>
@@ -141,9 +152,9 @@
           <li><g>ann an <a href="?gd=làmh">làimh</a></g>
             <en>in someone’s hand</en></li>
         </ul>
-      </p>
+      </p>-->
 
-      <module id="countries">
+      <!--<module id="countries">
         <h>with names of countries</h>
         <h lang="gd">...</h>
         <p>Biblical examples – <xl id="basic-exs">
@@ -162,8 +173,8 @@
         </p>
 
       </module>
-
-      <module id="towns">
+-->
+      <!--<module id="towns">
         <h>with names of towns and cities</h>
         <p>Examples from Gairm – <xl id="gairm">
             <li>
@@ -178,23 +189,42 @@
             </li>
           </xl>
         </p>
-      </module>
+      </module>-->
     </section>
   </section>
 
   <section>
     <h>uses</h>
-    <section id="uses-comp">
+
+    <section id="uses-pred">
+      <h>predicate</h>
+      <p>One common use of the preposition <g>an</g> is to introduce the predicate of the verb <a
+          href="?gd=bi"><g>bi</g></a> – <xl> 
+            <li>
+              <gd>Tha teas anns an teine.</gd>
+              <tr>There is heat in the fire.</tr>
+              <ref text="617">td. 6</ref>
+            </li>
+          </xl>
+      </p>
+
+    </section>
+
+
+    <!--<section id="uses-comp">
       <h>complement</h>
       <p><g>an</g> can be used to introduce the complement of certain verbs – <ul>
           <li><g><a href="?gd=tilg">tilg</a> ann an</g>
             <en>throw something into something</en></li>
         </ul>
       </p>
-    </section>
+    </section>-->
+
+
     <section id="uses-mod">
       <h>modifier</h>
-      <p><g>an</g> can be used to introduce a modifier of a noun – <ul>
+
+      <!--<p><g>an</g> can be used to introduce a modifier of a noun – <ul>
           <li>older pedagogical examples – <xl id="an-older-pedag">
               <li>
                 <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh. Thubhairt mo
@@ -211,8 +241,15 @@
             </xl>
           </li>
         </ul>
-      </p>
-      <p>Or a modifier of a verb – <ul>
+      </p>-->
+      <p><g>an</g> can be used to introduce a modifier of a verb (or verbal noun) – <xl>
+          <li>
+            <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+            <tr>Mary and Malcolm are working in the field today.</tr>
+            <ref text="617">td. 6–7</ref>
+          </li>
+        </xl>
+        <!--<ul>
           <li>older pedagogical examples – <xl id="an-verb-older-pedag">
               <li>
                 <gd>Bha an latha brèagha blàth is <m>thug</m> an athair leis Iain agus Anna <m>anns
@@ -223,7 +260,7 @@
               </li>
             </xl>
           </li>
-        </ul>
+        </ul>-->
       </p>
 
     </section>

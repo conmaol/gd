@@ -11,19 +11,19 @@
   <hr/>
   -->
   <p>The non-leniting prepositions are – <ul>
-      <li><a href="?gd=a^preposition"><g>à</g></a>
+      <li><!--<a href="?gd=a^preposition">--><g>à</g><!--</a>-->
         <en>out of</en> (elative)</li>
       <li><a href="?gd=aig"><g>aig</g></a>
         <en>at</en> (adessive)</li>
-      <li><a href="?gd=air"><g>air</g></a>
+      <li><!--<a href="?gd=air">--><g>air</g><!--</a>-->
         <en>on</en> (superessive)</li>
       <li><a href="?gd=an^preposition"><g>an</g></a>
         <en>in</en> (inessive)</li>
-      <li><a href="?gd=gu^preposition"><g>gu</g></a>
+      <li><!--<a href="?gd=gu^preposition">--><g>gu</g><!--</a>-->
         <en>to</en> (allative)</li>
-      <li><a href="?gd=le"><g>le</g></a>
+      <li><!--<a href="?gd=le">--><g>le</g><!--</a>-->
         <en>with</en> (instrumental)</li>
-      <li><a href="?gd=ri"><g>ri</g></a>
+      <li><!--<a href="?gd=ri">--><g>ri</g><!--</a>-->
         <en>at</en></li>
     </ul>
   </p>
@@ -37,17 +37,17 @@
 
 
   <p>The leniting prepositions are – <ul>
-      <li><a href="?gd=bho"><g>bho</g></a>
+      <li><!--<a href="?gd=bho">--><g>bho</g><!--</a>-->
         <en>from</en> (ablative)</li>
-      <li><a href="?gd=de"><g>de</g></a> [<g>a</g>] <en>of</en> (partitive)</li>
-      <li><a href="?gd=do^preposition"><g>do</g></a> [<g>a</g>] <en>into</en> (illative)</li>
-      <li><a href="?gd=fo"><g>fo</g></a>
+      <li><!--<a href="?gd=de">--><g>de</g><!--</a>--> <en>of</en> (partitive)</li>
+      <li><!--<a href="?gd=do^preposition">--><g>do</g><!--</a>--> <en>into</en> (illative)</li>
+      <li><!--<a href="?gd=fo">--><g>fo</g><!--</a>-->
         <en>under</en> (subessive)</li>
-      <li><a href="?gd=mu"><g>mu</g></a>
+      <li><!--<a href="?gd=mu">--><g>mu</g><!--</a>-->
         <en>about</en></li>
-      <li><a href="?gd=ro"><g>ro</g></a>
+      <li><!--<a href="?gd=ro">--><g>ro</g><!--</a>-->
         <en>before</en> (antessive)</li>
-      <li><a href="?gd=tro"><g>tro</g></a>
+      <li><!--<a href="?gd=tro">--><g>tro</g><!--</a>-->
         <en>through</en> (perlative)</li>
     </ul>
   </p>
@@ -62,6 +62,8 @@
   <hr/>
   -->
 
+
+<!--
   <section id="relatives">
     <h>relative clauses</h>
     <section>
@@ -132,5 +134,6 @@
       </p>
     </section>
   </section>
+  -->
 
 </module>
