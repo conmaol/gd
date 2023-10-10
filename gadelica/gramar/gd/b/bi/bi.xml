@@ -299,7 +299,148 @@
 
   <section>
     <h>dependents</h>
-    <section id="sbj">
+    <section id="deps-pred">
+      <h>subject + predicate</h>
+      <p><g>bi</g> is used in subject-predicate constructions.</p>
+      <section id="deps-pred-adj">
+        <h>predicative adjectives</h>
+        <p>The predicate of <g>bi</g> can be an (uninflected) adjective.</p>
+        <p>Examples with common noun subjects – <ul>
+            <li>animals –<xl>
+                <li>
+                  <gd>Tha an cù <m>dubh</m> ach tha an cat <m>bàn</m>.</gd>
+                  <tr>The dog is black but the cat is white.</tr>
+                  <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                  <gd>Tha an cù <m>mòr</m> ach tha an cat <m>beag</m>.</gd>
+                  <tr>The dog is big but the cat is small.</tr>
+                  <ref text="617">td. 6</ref>
+                </li>
+              </xl></li>
+            <li>inanimate – <xl>
+                <li>
+                  <gd>Tha an dorus <m>mór</m> agus tha an teine <m>mór</m>.</gd>
+                  <tr>The door is big and the fire is big.</tr>
+                  <ref text="617">td. 6</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <p>Examples with proper noun subjects – <xl>
+            <li>
+              <gd>Tha Màiri <m>beag</m> ach tha Calum <m>mór</m>.</gd>
+              <tr>Mary is small but Malcolm is small.</tr>
+              <ref text="617">td. 6</ref>
+            </li>
+          </xl>
+        </p>
+        <!--<p>Some examples with a definite article pre-specifier – <ul>
+          <li>older pedagogical examples – <xl id="adj-older-pedag">
+            <li>
+              <gd><m>Bha</m> an latha <m>brèagha blàth</m> is thug an athair leis Iain agus Anna
+                anns a’ chàr. [...]</gd>
+              <tr>The day was lovely and warm and their father took John and Ann in the car.
+                [...]</tr>
+              <ref text="621">td. 6</ref>
+            </li>
+          </xl></li>
+        </ul>
+        </p>-->
+      </section>
+      <section id="deps-pred-prep">
+        <h>predicative prepositions</h>
+        <p>The predicate of <g>bi</g> can be a (locative) preposition.</p>
+        <p>Examples with common noun subjects – <ul>
+            <li>animals –<xl>
+                <li>
+                  <gd>Tha an cù <m>aig an dorus</m> agus tha an cat <m>aig an teine</m>.</gd>
+                  <tr>The dog is at the door and the cat is by the fire.</tr>
+                  <ref text="617">td. 6</ref>
+                </li>
+              </xl>
+            </li>
+            <li>inanimate/abstract – <xl>
+                <li>
+                  <gd>Tha teas <m>anns an teine</m>.</gd>
+                  <tr>There is heat in the fire.</tr>
+                  <ref text="617">td. 6</ref>
+                </li>
+              </xl></li>
+          </ul></p>
+        <!--<p>Older pedagogical examples – <xl id="loc-older-pedag">
+            <li>
+              <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu <m>m’athair a tha air falbh</m>.</gd>
+              <tr>My mother is writing a letter to my father who is away.</tr>
+              <ref text="621">td. 5</ref>
+            </li>
+            <li>
+              <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’ chàr.
+                Chuir iad an càr a stigh gu taobh an rathaid is thug iad brat a mach as a’ chàr air
+                son suidhe air. <m>Tha bascaid làn de bhiadh aca</m> is tha iad a’ dol a ghabhail an
+                tea air a’ chnocan ghorm. Is toigh leis a’ chloinn biadh a ghabhail a muigh ri latha
+                brèagha. Thèid iad dhachaidh feasgar an uair a tha a’ ghrian a’ dol fodha.</gd>
+              <tr>The day was lovely and warm and their father took John and Ann in the car. They
+                put the car into the side of the road and they took a blanket out of the car for
+                sitting on. They have a basket full of food and they are going to have their tea on
+                the little green hill. The children like eating al fresco on a nice day. They will
+                go home in the evening when the sun is going down.</tr>
+              <ref text="621">td. 6</ref>
+            </li>
+          </xl>
+        </p>-->
+        <section>
+          <h>progressive aspect</h>
+          <p>The predicate of <g>bi</g> can be the progressive particle <a href="?gd=ag"><g>ag</g></a>, followed by a verbal noun.</p>
+          <p>Some examples – <xl>
+              <li>
+                <gd>Tha Màiri agus Calum <m>ag obair</m> anns an achadh an diugh.</gd>
+                <tr>Mary and Malcolm are working in the field today.</tr>
+                <ref text="617">td. 6–7</ref>
+              </li>
+            </xl></p>
+
+
+          <!--<p>Older pedagogical examples – <xl id="prog-older-pedag">
+            <li>
+              <gd><m>Tha mo mhàthair a’ sgrìobhadh</m> litreach gu m’athair a tha air falbh.
+                Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an litir seo,
+                Iain?” “Théid,” ars Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi i is gus
+                an cuir mi seòladh oirre. Ceannaich fhéin stamp agus cuir oirre i.” <m>Tha Iain a’
+                  ruith</m> sìos an rathad leis an litir ’na làimh. Théid e a steach do oifig a’
+                phuist, ceannaichidh e stamp is cuiridh e sud air an litir. Tilgidh e an litir ann
+                am bocsa nan litrichean. </gd>
+              <tr>My mother is writing a letter to my father who is away. My mother said, “Will you
+                go to the postbox with this letter, John?” “Yes, I will,” said John, “I will leave
+                now.” “Wait until I seal it and put an address on it. Buy a stamp and put it on it.”
+                John is running down the road with the letter in his hand. He will go into the post
+                office, he will buy a stamp and put that on the letter. He will toss the letter into
+                the postbox.</tr>
+              <ref text="621">td. 5–6</ref>
+            </li>
+            <li>
+              <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’ chàr.
+                Chuir iad an càr a stigh gu taobh an rathaid is thug iad brat a mach as a’ chàr air
+                son suidhe air. Tha bascaid làn de bhiadh aca is <m>tha iad a’ dol</m> a ghabhail an
+                tea air a’ chnocan ghorm. Is toigh leis a’ chloinn biadh a ghabhail a muigh ri latha
+                brèagha. Thèid iad dhachaidh feasgar an uair a <m>tha a’ ghrian a’ dol</m>
+                fodha.</gd>
+              <tr>The day was lovely and warm and their father took John and Ann in the car. They
+                put the car into the side of the road and they took a blanket out of the car for
+                sitting on. They have a basket full of food and they are going to have their tea on
+                the little green hill. The children like eating al fresco on a nice day. They will
+                go home in the evening when the sun is going down.</tr>
+              <ref text="621">td. 6</ref>
+            </li>
+          </xl>
+          </p>-->
+        </section>
+      </section>
+    </section>
+
+
+    <!--<section id="sbj">
       <h>subject</h>
       <p>Older pedagogical examples – <xl id="sbj-older-pedag">
           <li>
@@ -334,186 +475,9 @@
           </li>
         </xl>
       </p>
-    </section>
-    <section id="pred">
-      <h>predicate</h>
-      <section>
-        <h>locatives</h>
-        <p>Older pedagogical examples – <xl id="loc-older-pedag">
-            <li>
-              <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu <m>m’athair a tha air falbh</m>.</gd>
-              <tr>My mother is writing a letter to my father who is away.</tr>
-              <ref text="621">td. 5</ref>
-            </li>
-            <li>
-              <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’ chàr.
-                Chuir iad an càr a stigh gu taobh an rathaid is thug iad brat a mach as a’ chàr air
-                son suidhe air. <m>Tha bascaid làn de bhiadh aca</m> is tha iad a’ dol a ghabhail an
-                tea air a’ chnocan ghorm. Is toigh leis a’ chloinn biadh a ghabhail a muigh ri latha
-                brèagha. Thèid iad dhachaidh feasgar an uair a tha a’ ghrian a’ dol fodha.</gd>
-              <tr>The day was lovely and warm and their father took John and Ann in the car. They
-                put the car into the side of the road and they took a blanket out of the car for
-                sitting on. They have a basket full of food and they are going to have their tea on
-                the little green hill. The children like eating al fresco on a nice day. They will
-                go home in the evening when the sun is going down.</tr>
-              <ref text="621">td. 6</ref>
-            </li>
-          </xl>
-        </p>
-      </section>
-      <section>
-        <h>progressive aspect</h>
-        <p>Older pedagogical examples – <xl id="prog-older-pedag">
-            <li>
-              <gd><m>Tha mo mhàthair a’ sgrìobhadh</m> litreach gu m’athair a tha air falbh.
-                Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an litir seo,
-                Iain?” “Théid,” ars Iain, “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi i is gus
-                an cuir mi seòladh oirre. Ceannaich fhéin stamp agus cuir oirre i.” <m>Tha Iain a’
-                  ruith</m> sìos an rathad leis an litir ’na làimh. Théid e a steach do oifig a’
-                phuist, ceannaichidh e stamp is cuiridh e sud air an litir. Tilgidh e an litir ann
-                am bocsa nan litrichean. </gd>
-              <tr>My mother is writing a letter to my father who is away. My mother said, “Will you
-                go to the postbox with this letter, John?” “Yes, I will,” said John, “I will leave
-                now.” “Wait until I seal it and put an address on it. Buy a stamp and put it on it.”
-                John is running down the road with the letter in his hand. He will go into the post
-                office, he will buy a stamp and put that on the letter. He will toss the letter into
-                the postbox.</tr>
-              <ref text="621">td. 5–6</ref>
-            </li>
-            <li>
-              <gd>Bha an latha brèagha blàth is thug an athair leis Iain agus Anna anns a’ chàr.
-                Chuir iad an càr a stigh gu taobh an rathaid is thug iad brat a mach as a’ chàr air
-                son suidhe air. Tha bascaid làn de bhiadh aca is <m>tha iad a’ dol</m> a ghabhail an
-                tea air a’ chnocan ghorm. Is toigh leis a’ chloinn biadh a ghabhail a muigh ri latha
-                brèagha. Thèid iad dhachaidh feasgar an uair a <m>tha a’ ghrian a’ dol</m>
-                fodha.</gd>
-              <tr>The day was lovely and warm and their father took John and Ann in the car. They
-                put the car into the side of the road and they took a blanket out of the car for
-                sitting on. They have a basket full of food and they are going to have their tea on
-                the little green hill. The children like eating al fresco on a nice day. They will
-                go home in the evening when the sun is going down.</tr>
-              <ref text="621">td. 6</ref>
-            </li>
-          </xl>
-        </p>
-      </section>
-      <section>
-        <h>predicative adjectives</h>
-        <p>Some examples with a definite article pre-specifier – <ul>
-            <li>older pedagogical examples – <xl id="adj-older-pedag">
-                <li>
-                  <gd><m>Bha</m> an latha <m>brèagha blàth</m> is thug an athair leis Iain agus Anna
-                    anns a’ chàr. [...]</gd>
-                  <tr>The day was lovely and warm and their father took John and Ann in the car.
-                    [...]</tr>
-                  <ref text="621">td. 6</ref>
-                </li>
-              </xl></li>
-          </ul>
-        </p>
-      </section>
-
-    </section>
-
+    </section>-->
   </section>
 
-
-<section>
-  <h>examples</h>
-  <p>
-    <xl id="xs">
-      <li>
-        <gd>Tha an cù dubh.</gd>
-        <tr>The dog is black.</tr>
-        <ref text="617">td. 6</ref>
-        <note>bi, an</note>
-      </li>
-      <li>
-        <gd>Tha an cat bàn.</gd>
-        <tr>The cat is white.</tr>
-        <ref text="617">td. 6</ref>
-        <note>bi, an</note>
-      </li>
-      <li>
-        <gd>Tha an cù mòr.</gd>
-        <tr>The dog is big.</tr>
-        <ref text="617">td. 6</ref>
-        <note>bi, an</note>
-      </li>
-      <li>
-        <gd>Tha an cat beag.</gd>
-        <tr>The cat is small.</tr>
-        <ref text="617">td. 6</ref>
-        <note>bi, an</note>
-      </li>
-      <li>
-        <gd>Tha an cù aig an dorus.</gd>
-        <tr>The dog is at the door.</tr>
-        <ref text="617">td. 6</ref>
-        <note>bi, an, aig</note>
-      </li>
-      <li>
-        <gd>Tha an cat aig an teine.</gd>
-        <tr>The cat is by the fire.</tr>
-        <ref text="617">td. 6</ref>
-        <note>bi, an, cat, aig</note>
-      </li>
-      <li>
-        <gd>Tha an dorus mór.</gd>
-        <tr>The door is big.</tr>
-        <ref text="617">td. 6</ref>
-        <note>bi, an</note>
-      </li>
-      <li>
-        <gd>Tha an teine mór.</gd>
-        <tr>The fire is big.</tr>
-        <ref text="617">td. 6</ref>
-        <note>bi, an</note>
-      </li>
-      <li>
-        <gd>Tha teas anns an teine.</gd>
-        <tr>There is heat in the fire.</tr>
-        <ref text="617">td. 6</ref>
-        <note>bi, an-prep, an</note>
-      </li>
-      <li>
-        <gd>Tha Màiri beag.</gd>
-        <tr>Mary is small.</tr>
-        <ref text="617">td. 6</ref>
-        <note>bi, Màiri</note>
-      </li>
-      <li>
-        <gd>Tha Calum mór.</gd>
-        <tr>Malcolm is big.</tr>
-        <ref text="617">td. 6</ref>
-        <note>bi, Calum</note>
-      </li>
-      <li>
-        <gd>Tha Màiri ag obair.</gd>
-        <tr>Mary is working.</tr>
-        <ref text="617">td. 6</ref>
-        <note>bi, Màiri, ag, obair</note>
-      </li>
-      <li>
-        <gd>Tha Calum ag obair.</gd>
-        <tr>Malcolm is working.</tr>
-        <ref text="617">td. 6</ref>
-        <note>bi, Calum, ag, obair</note>
-      </li>
-      <li>
-        <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
-        <tr>Mary is working.</tr>
-        <ref text="617">td. 6–7</ref>
-        <note>bi, Màiri, agus, Calum, ag, obair, an^prep, an, an-diugh</note>
-      </li>
-      
-      
-    </xl>
-    
-  </p>
-  
-</section>
-  
 
   <!--
  

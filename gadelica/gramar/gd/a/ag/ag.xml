@@ -5,6 +5,26 @@
         used before verbal nouns in the <a href="?q=verbal_aspect">progressive</a>
         construction.</p>
 
+    <li>
+        <gd>Tha Màiri ag obair.</gd>
+        <tr>Mary is working.</tr>
+        <ref text="617">td. 6</ref>
+        <note>ag, obair</note>
+    </li>
+    <li>
+        <gd>Tha Calum ag obair.</gd>
+        <tr>Malcolm is working.</tr>
+        <ref text="617">td. 6</ref>
+        <note>ag, obair</note>
+    </li>
+    <li>
+        <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+        <tr>Mary is working.</tr>
+        <ref text="617">td. 6–7</ref>
+        <note>agus, ag, obair, an-diugh</note>
+    </li>
+
+
     <!--
 <section id="forms">
     <h>forms</h>
