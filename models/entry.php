@@ -134,10 +134,10 @@ SQL;
         return ['fem.', 'feminine noun'];
         break;
       case "ff":
-        return ['boir.', 'ainm boireann', 'feminine proper noun'];
+        return ['fem.', 'feminine proper noun'];
         break;
       case "mm":
-        return ['fir.', 'ainm fireann', 'masculine proper noun'];
+        return ['masc.', 'masculine proper noun'];
         break;
       case "n":
         return ['ainm.', 'ainmear (fireann/boireann)', 'noun (masculine/feminine)'];
@@ -147,6 +147,9 @@ SQL;
         break;
       case "a":
         return ['adj.', 'adjective'];
+        break;
+      case "adv":
+        return ['adv.', 'adverb'];
         break;
       case "p":
         return ['roi.', 'roimhear', 'preposition'];
@@ -166,7 +169,6 @@ SQL;
       case "slen":
         return ['slen.', 'slenderised'];
         break;
-        
       case "comp":
         return ['coim.', 'coimeasach', 'comparative'];
         break;

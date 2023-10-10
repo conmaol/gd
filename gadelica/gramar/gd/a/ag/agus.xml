@@ -1,10 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
   <h>agus</h>
   <p><g>agus</g>
     <en>and</en> is a conjunction.</p>
 
+  <section>
+    <h>dependents</h>
+    <section id="deps-verbs">
+      <h>independent verb forms</h>
+      <p><g>agus</g> can conjoin independent verb forms – <xl>
+          <li>
+            <gd><m>Tha</m> an cù aig an dorus agus <m>tha</m> an cat aig an teine.</gd>
+            <tr>The dog is at the door and the cat is by the fire.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+          <li>
+            <gd><m>Tha</m> an dorus mór agus <m>tha</m> an teine mór.</gd>
+            <tr>The door is big and the fire is big.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="deps-proper">
+      <h>proper nouns</h>
+      <p><g>agus</g> can conjoin proper nouns – <xl>
+          <li>
+            <gd>Tha <m>Màiri agus Calum</m> ag obair anns an achadh an diugh.</gd>
+            <tr>Mary and Malcolm are working in the field today.</tr>
+            <ref text="617">td. 6–7</ref>
+          </li>
+        </xl></p>
+    </section>
+  </section>
 
+  <section>
+    <h>uses</h>
+    <section id="uses-root">
+      <h>root</h>
+      <p>When conjoining independent verb forms, <g>agus</g> constitutes the root of a sentence – <xl>
+          <li>
+            <gd>Tha an cù aig an dorus <m>agus</m> tha an cat aig an teine.</gd>
+            <tr>The dog is at the door and the cat is by the fire.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+          <li>
+            <gd>Tha an dorus mór <m>agus</m> tha an teine mór.</gd>
+            <tr>The door is big and the fire is big.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+        </xl></p>
+    </section>
+    <section id="uses-sbj">
+      <h>subject</h>
+      <p>When conjoining two nouns, <g>agus</g> can function as the subject of a verb – <xl>
+          <li>
+            <gd>Tha <m>Màiri agus Calum</m> ag obair anns an achadh an diugh.</gd>
+            <tr>Mary and Malcolm are working in the field today.</tr>
+            <ref text="617">td. 6–7</ref>
+          </li>
+        </xl></p>
+    </section>
+  </section>
+
+  <!--
   <section>
     <h>dependents</h>
     <section>
@@ -175,5 +234,7 @@
       </section>
     </section>
   </section>
+-->
+
 
 </module>

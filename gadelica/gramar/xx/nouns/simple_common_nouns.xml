@@ -10,8 +10,12 @@
       <li><m>abhainn</m> fem. <en>river</en> gen. <b>aibhne</b> pl. <b>aibhnichean</b></li>
       <li><m>adhbhar</m> masc. <en>reason</en> pl. <b>adhbharan</b> (†<b>adhbhairean</b>)</li>
       -->
-      <li><a href="?gd=achadh"><g>achadh</g></a> <masc/> <en>field</en> <pl/> <g>achaidhean</g></li>
-      
+      <li><a href="?gd=achadh"><g>achadh</g></a>
+        <masc/>
+        <en>field</en>
+        <pl/>
+        <g>achaidhean</g></li>
+
       <!--
       <li><m>airgead</m> masc. <en>silver</en></li>
       <li><a href="?gd=aithne">aithne</a>
@@ -69,7 +73,9 @@
       <li><a href="?gd=càr"><g>càr</g></a>
         <masc/>
         <en>car</en></li>-->
-      <li><a href="?gd=cat"><g>cat</g></a> <masc/> <en>cat</en></li>
+      <li><a href="?gd=cat"><g>cat</g></a>
+        <masc/>
+        <en>cat</en></li>
       <!--<li><a href="?gd=cathair"><g>cathair</g></a>
         <fem/>
         <en>chair</en></li>
@@ -88,7 +94,11 @@
       <li><a href="?gd=croit">croit</a>
         <i>fem.</i>
         <en>croft</en></li>-->
-      <li><a href="?gd=cuu"><g>cù</g></a> masc. <en>dog</en> <gen/> <g>coin</g> <pl/> <g>coin</g></li>
+      <li><a href="?gd=cuu"><g>cù</g></a> masc. <en>dog</en>
+        <gen/>
+        <g>coin</g>
+        <pl/>
+        <g>coin</g></li>
       <!--<li><m>dealbh</m> fem. <en>picture</en> gen. <b>deilbhe</b>, <b>dealbha</b></li>
       <li><m>deoch</m> fem. <en>drink</en> gen. <b>dighe</b>, <b>dibhe</b></li>
       <li><a href="?gd=dìcheall">dìcheall</a>
@@ -97,8 +107,10 @@
         -->
       <li><a href="?gd=dorus"><g>dorus</g></a>
         <masc/>
-        <en>door</en> <pl/> <g>dorsan</g></li>
-    <!--
+        <en>door</en>
+        <pl/>
+        <g>dorsan</g></li>
+      <!--
       <li><m>duine</m> masc. <en>man</en> pl. <b>daoine</b></li>
       <li><m>dùn</m> masc. <en>fort</en></li>
       <li><m>each</m> masc. <en>horse</en></li>
@@ -112,10 +124,16 @@
         <masc/>
         <en>bishop</en></li>
         -->
-        
-      <li><a href="?gd=falt"><g>falt</g></a> <masc/> <en>hair</en> <gen/> <g>fuilt</g> <pl/> <g>fuiltean</g></li>
-    
-    <!--
+
+      <li><a href="?gd=falt"><g>falt</g></a>
+        <masc/>
+        <en>hair</en>
+        <gen/>
+        <g>fuilt</g>
+        <pl/>
+        <g>fuiltean</g></li>
+
+      <!--
       <li><m>fear</m> masc. <en>man</en> gen. <b>fir</b> pl. <b>fir</b></li>
       <li><m>fiadh</m> masc. <en>deer</en></li>
       <li><m>fios</m> masc. <en>knowledge</en> gen. <b>fiosa</b> pl. <b>fiosan</b></li>
@@ -124,7 +142,9 @@
       <li><m>gille</m> masc. <en>boy</en></li>
       <li><m>geansaidh</m> masc. <en>jumper</en></li>
       -->
-      <li><a href="?gd=iolair"><g>iolair</g></a> <fem/> <en>eagle</en></li>
+      <li><a href="?gd=iolair"><g>iolair</g></a>
+        <fem/>
+        <en>eagle</en></li>
       <!--
       <li><a href="?gd=làmh"><g>làmh</g></a>
         <fem/>
@@ -151,6 +171,15 @@
       <li><a href="?gd=màthair"><g>màthair</g></a>
         <fem/>
         <en>mother</en> gen. <g>màthar</g> pl. <g>màthraichean</g></li>
+      -->
+      <li><a href="?gd=obair"><g>obair</g></a>
+        <fem/>
+        <en>work</en>
+        <gen/>
+        <g>obrach</g>
+        <pl/>
+        <g>obraichean</g></li>
+      <!--
       <li><a href="?gd=oifig"><g>oifig</g></a>
         <fem/>
         <en>office</en></li>
@@ -185,8 +214,16 @@
       <li><m>sùil</m> fem. <en>eye</en> gen. <b>sùla</b> gen. pl. <b>sùl</b></li>
       <li><m>taigh</m> masc. <en>house</en> gen. <b>taighe</b></li>
       -->
-      <li><a href="?gd=teas"><g>teas</g></a> <masc/> <en>heat</en> <gen/> <g>teas</g></li>
-    <li><a href="?gd=teine"><g>teine</g></a> <masc/> <en>fire</en> <pl/> <g>teintean</g></li>
+      <li><a href="?gd=teas"><g>teas</g></a>
+        <masc/>
+        <en>heat</en>
+        <gen/>
+        <g>teas</g></li>
+      <li><a href="?gd=teine"><g>teine</g></a>
+        <masc/>
+        <en>fire</en>
+        <pl/>
+        <g>teintean</g></li>
       <!--
       <li><a href="?gd=tì"><g>tì</g></a>
         <fem/>

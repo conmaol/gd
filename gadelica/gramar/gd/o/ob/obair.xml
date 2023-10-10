@@ -1,30 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>obair</h>
     <p><g>obair</g>
-        <en>work</en> is a feminine <a href="?xx=nouns/common_nouns">common noun</a>.</p>
+        <en>work</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
 
-    <li>
-        <gd>Tha Màiri ag obair.</gd>
-        <tr>Mary is working.</tr>
-        <ref text="617">td. 6</ref>
-        <note>ag, obair</note>
-    </li>
-    <li>
-        <gd>Tha Calum ag obair.</gd>
-        <tr>Malcolm is working.</tr>
-        <ref text="617">td. 6</ref>
-        <note>ag, obair</note>
-    </li>
-    <li>
-        <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
-        <tr>Mary is working.</tr>
-        <ref text="617">td. 6–7</ref>
-        <note>agus, ag, obair, an-diugh</note>
-    </li>
-    
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>obair</g> are – <ul>
+                <li><m>obair</m> – nominative/dative singular</li>
+                <li><m>obrach</m> – genitive singular</li>
+                <li><m>obraichean</m> – plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>obair</m></li>
+                                    <li>dative – ann an <m>obair</m></li>
+                                    <li>genitive – taobh <m>obrach</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>obraichean</m></li>
+                                    <li>dative – ann an <m>obraichean</m></li>
+                                    <li>genitive – taobh <m>obraichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an obair</m></li>
+                                    <li>dative – anns <m>an obair</m></li>
+                                    <li>genitive – taobh <m>na h-obrach</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na h-obraichean</m></li>
+                                    <li>dative – anns <m>na h-obraichean</m></li>
+                                    <li>genitive – taobh <m>nan obraichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>obair</m></li>
+                                    <li>dative – ann an <m>obair</m></li>
+                                    <li>genitive – taobh <m>obrach</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an obair</m></li>
+                                    <li>dative – anns <m>an obair</m></li>
+                                    <li>genitive – taobh <m>na h-obrach</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>obraichean</m></li>
+                                    <li>dative – ann an <m>obraichean</m></li>
+                                    <li>genitive – taobh <m>obraichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na h-obraichean</m></li>
+                                    <li>dative – anns <m>na h-obraichean</m></li>
+                                    <li>genitive – taobh <m>nan obraichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>obair</m></li>
+                                    <li>plural – <m>obraichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an obair</m></li>
+                                    <li>plural – <m>na h-obraichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – ann an <m>obair</m></li>
+                                    <li>plural – ann an <m>obraichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – anns <m>an obair</m></li>
+                                    <li>plural – anns <m>na h-obraichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – taobh <m>obrach</m></li>
+                                    <li>plural – taobh <m>obraichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – taobh <m>na h-obrach</m></li>
+                                    <li>plural – taobh <m>nan obraichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section>
+            <h>notes</h>
+            <p>Note the following – <ul>
+                    <li>An alternative form of the genitive singular is <g>oibre</g>.</li>
+                    <li>An alternative form of the plural is <g>oibrichean</g>.</li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section id="deps-bare">
+            <h>bare</h>
+            <p><g>obair</g> can occur without any dependents – <xl>
+                    <li>
+                        <gd>Tha Màiri ag <m>obair</m> agus tha Calum ag <m>obair</m>.</gd>
+                        <tr>Mary is working and Malcolm is working.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Màiri agus Calum <m>ag obair</m> anns an achadh an diugh.</gd>
+                        <tr>Mary and Malcolm are working in the field today.</tr>
+                        <ref text="617">td. 6–7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="deps-mods">
+            <h>modifiers</h>
+            <p><g>obair</g> can occur with the usual verb modifiers.</p>
+            <p>Examples with locative modifiers – <xl>
+                    <li>
+                        <gd>Tha Màiri agus Calum ag obair <m>anns an achadh</m> an diugh.</gd>
+                        <tr>Mary and Malcolm are working in the field today.</tr>
+                        <ref text="617">td. 6–7</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with temporal modifiers – <xl>
+                    <li>
+                        <gd>Tha Màiri agus Calum ag obair anns an achadh <m>an diugh</m>.</gd>
+                        <tr>Mary and Malcolm are working in the field today.</tr>
+                        <ref text="617">td. 6–7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
 
 
+    <section>
+        <h>uses</h>
+        <section id="uses-comp">
+            <h>complement</h>
+            <p>Some examples as complement of the progressive particle <a href="?gd=ag"
+                    ><g>ag</g></a> – <xl>
+                    <li>
+                        <gd>Tha Màiri <m>ag obair</m> agus tha Calum <m>ag obair</m>.</gd>
+                        <tr>Mary is working and Malcolm is working.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Màiri agus Calum <m>ag obair</m> anns an achadh an diugh.</gd>
+                        <tr>Mary and Malcolm are working in the field today.</tr>
+                        <ref text="617">td. 6–7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <!--
     <section>
         <h>dependents</h>
         <section>
@@ -72,6 +226,9 @@
                 <en>workshop</en></p>
         </section>
     </section>
+-->
+
+
 
 
 </module>

@@ -2,59 +2,47 @@
 <module>
     <h>Calum</h>
     <p><g>Calum</g>
-        <en>Malcolm</en> is a feminine <a href="?xx=nouns/anthroponymic_proper_nouns">anthroponymic
+        <en>Malcolm</en> is a masculine <a href="?xx=nouns/anthroponymic_proper_nouns">anthroponymic
             proper noun</a>.</p>
-    
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>Calum</g> are – <ul>
+                <li><m>Calum</m> – nominative/dative (singular)</li>
+                <li><m>Chaluim</m> – genitive (singular)</li>
+                <li><m>A Chaluim!</m> – vocative</li>
+            </ul>
+        </p>
+    </section>
+
     <section>
         <h>uses</h>
-        <section>
-            <h>object</h>
-            <p>Older pedagogical examples – <xl id="obj-older-pedag">
-                <li>
-                    <gd>Bha an latha brèagha blàth is <m>thug</m> an athair leis Iain agus
-                        <m>Anna</m> anns a’ chàr.</gd>
-                    <tr>The day was lovely and warm and their father took John and Ann in the
-                        car.</tr>
-                    <ref text="621">td. 6</ref>
-                    <note>part of conjoined object</note>
-                </li>
-            </xl>
+        <section id="uses-sbj">
+            <h>subject</h>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+                <en>be</en> – <xl>
+                    <li>
+                        <gd>Tha <m>Calum</m> mór.</gd>
+                        <tr>Malcolm is big.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>Calum</m> ag obair.</gd>
+                        <tr>Malcolm is working.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>In a conjoined subject with <a href="?gd=agus"><g>agus</g></a>
+                <en>and</en> – <xl>
+                    <li>
+                        <gd>Tha Màiri agus <m>Calum</m> ag obair anns an achadh an diugh.</gd>
+                        <tr>Mary and Malcolm are working in the field today.</tr>
+                        <ref text="617">td. 6–7</ref>
+                    </li>
+                </xl>
             </p>
         </section>
     </section>
-    
-    
-    <p> <xl><li>
-        <gd>Tha Màiri beag.</gd>
-        <tr>Mary is small.</tr>
-        <ref text="617">td. 6</ref>
-        <note>bi, Màiri</note>
-    </li>
-        <li>
-            <gd>Tha Calum mór.</gd>
-            <tr>Malcolm is big.</tr>
-            <ref text="617">td. 6</ref>
-            <note>bi, Calum</note>
-        </li>
-        <li>
-            <gd>Tha Màiri ag obair.</gd>
-            <tr>Mary is working.</tr>
-            <ref text="617">td. 6</ref>
-            <note>bi, Màiri, ag, obair</note>
-        </li>
-        <li>
-            <gd>Tha Calum ag obair.</gd>
-            <tr>Malcolm is working.</tr>
-            <ref text="617">td. 6</ref>
-            <note>bi, Calum, ag, obair</note>
-        </li>
-        <li>
-            <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
-            <tr>Mary is working.</tr>
-            <ref text="617">td. 6–7</ref>
-            <note>bi, Màiri, agus, Calum, ag, obair, an^prep, an, an-diugh</note>
-        </li></xl></p>
-    
-    
-</module>
 
+</module>

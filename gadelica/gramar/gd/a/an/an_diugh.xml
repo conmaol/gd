@@ -1,19 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
-    <h lang="en">an-diugh</h>
-    <h lang="gd">an-diugh</h>
-    <p><b>an-diugh</b> <en>today</en> is an adverb.</p>
-    
-    
-    <li>
-        <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
-        <tr>Mary is working.</tr>
-        <ref text="617">td. 6–7</ref>
-        <note>agus, ag, obair, an-diugh</note>
-    </li>
-    
-    
-    <p lang="en">Examples from Gairm – <xl id="gairm">
+<module>
+    <h>an diugh</h>
+    <p><g>an diugh</g>
+        <en>today</en> is an adverb.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>Note that <g>an diugh</g> is usually spelled with a hyphen, as <g>an-diugh</g>, in
+            post-1970s writing.</p>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-mod">
+            <h>modifier</h>
+            <p>Examples modifying a progressive verbal noun – <xl>
+                    <li>
+                        <gd>Tha Màiri agus Calum ag obair anns an achadh <m>an diugh</m>.</gd>
+                        <tr>Mary and Malcolm are working in the field today.</tr>
+                        <ref text="617">td. 6–7</ref>
+                    </li>
+                </xl></p>
+        </section>
+    </section>
+
+
+
+
+    <!--
+    <p>Examples from Gairm – <xl id="gairm">
             <li>
                 <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan fhalbh aon
                     choigreach le mo leanabh. Cha teid i gu aon dannsa, tha sin cinnteach. Tha. Tha.
@@ -47,5 +62,6 @@
             </li>
         </xl>
     </p>
-    <p lang="gd">...</p>
+    -->
+
 </module>
