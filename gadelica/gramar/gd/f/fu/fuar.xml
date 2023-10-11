@@ -3,8 +3,30 @@
     <h>fuar</h>
     <p><g>fuar</g>
         <en>cold</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
-    
-    
+
+    <section>
+        <h>uses</h>
+        <section id="uses-predicate">
+            <h>predicate</h>
+            <p><g>trang</g> can be used as the predicate of the verb <a href="?gd=bi"
+                ><g>bi</g></a>.</p>
+            <p>Examples with a human subject – <xl>
+                    <li>
+                        <gd>Tha iad <m>fuar</m> ag obair anns an achadh an diugh.</gd>
+                        <tr>They are cold working in the field today.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with an impersonal subject pronoun – <xl>
+                    <li>
+                        <gd>Tha e <m>fuar</m> an diugh.</gd>
+                        <tr>It is cold today.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
 </module>
-
-

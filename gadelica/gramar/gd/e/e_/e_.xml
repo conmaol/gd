@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
   <h>e</h>
   <p><g>e</g>
     <en>he, him, it</en> is the masculine singular <a href="?xx=nouns/personal_pronouns">personal
       pronoun</a>.</p>
 
+
   <section>
     <h>uses</h>
     <section id="sbj">
       <h>subject</h>
-      <p><g>e</g> can be used as the subject of a verb – <ul>
+      <p><g>e</g> can be used as the subject of a verb.</p>
+      <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+        <en>be</en> – <xl>
+          <li>
+            <gd>Tha Calum sgìth – tha <m>e</m> ag obair gu trang anns an achadh.</gd>
+            <tr>Malcolm is tired – he is working busily in the field.</tr>
+            <ref text="617">td. 7</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Impersonal (pleonastic) examples – <xl>
+          <li>
+            <gd>Tha <m>e</m> fuar an diugh.</gd>
+            <tr>It is cold today.</tr>
+            <ref text="617">td. 7</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
+
+
+  <!--<ul>
           <li>older pedagogical examples – <xl id="sbj-older-pedag">
               <li>
                 <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh. Thubhairt mo
@@ -41,12 +64,9 @@
               </li>
             </xl>
           </li>
-        </ul>
-      </p>
-    </section>
-  </section>
+        </ul>-->
 
-  <section id="misc">
+  <!--<section id="misc">
     <h>misc</h>
     <p lang="en">Examples of usage – <xl id="exs">
         <li>
@@ -76,5 +96,5 @@
 
       </xl>
     </p>
-  </section>
+  </section>-->
 </module>

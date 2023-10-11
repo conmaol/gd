@@ -334,8 +334,55 @@
               <tr>Mary is small but Malcolm is small.</tr>
               <ref text="617">td. 6</ref>
             </li>
+            <li>
+              <gd>Tha Màiri agus Calum <m>trang</m> an diugh.</gd>
+              <tr>Mary and Malcolm are busy today.</tr>
+              <ref text="617">td. 7</ref>
+            </li>
           </xl>
         </p>
+        <p>Examples with personal pronoun subjects – <xl>
+            <li>
+              <gd>Tha sinn <m>trang</m>.</gd>
+              <tr>We are busy.</tr>
+              <ref text="617">td. 7</ref>
+            </li>
+            <li>
+              <gd>Tha Màiri sgìth. Tha i <m>sgìth</m> ag obair anns an achadh.</gd>
+              <tr>Mary is tired. She is tired working in the field.</tr>
+              <ref text="617">td. 7</ref>
+            </li>
+            <li>
+              <gd>Tha iad <m>fuar</m> ag obair anns an achadh an diugh.</gd>
+              <tr>They are cold working in the field today.</tr>
+              <ref text="617">td. 7</ref>
+            </li>
+          </xl>
+        </p>
+        <p>Examples with impersonal (pleonastic) pronoun subjects – <xl>
+            <li>
+              <gd>Tha e <m>fuar</m> an diugh.</gd>
+              <tr>It is cold today.</tr>
+              <ref text="617">td. 7</ref>
+            </li>
+          </xl>
+        </p>
+        <p>Further examples with multiple predicates – <xl>
+            <li>
+              <gd>Tha sibh <m>trang</m>
+                <m>ag obair</m> anns an achadh agus tha sibh sgìth.</gd>
+              <tr>You are busy working in the field and you are tired.</tr>
+              <ref text="617">td. 7</ref>
+            </li>
+            <li>
+              <gd>Tha iad <m>fuar</m>
+                <m>ag obair</m> anns an achadh an diugh.</gd>
+              <tr>They are cold working in the field today.</tr>
+              <ref text="617">td. 7</ref>
+            </li>
+          </xl>
+        </p>
+
         <!--<p>Some examples with a definite article pre-specifier – <ul>
           <li>older pedagogical examples – <xl id="adj-older-pedag">
             <li>
@@ -392,12 +439,18 @@
         </p>-->
         <section>
           <h>progressive aspect</h>
-          <p>The predicate of <g>bi</g> can be the progressive particle <a href="?gd=ag"><g>ag</g></a>, followed by a verbal noun.</p>
+          <p>The predicate of <g>bi</g> can be the progressive particle <a href="?gd=ag"
+              ><g>ag</g></a>, followed by a verbal noun.</p>
           <p>Some examples – <xl>
               <li>
                 <gd>Tha Màiri agus Calum <m>ag obair</m> anns an achadh an diugh.</gd>
                 <tr>Mary and Malcolm are working in the field today.</tr>
                 <ref text="617">td. 6–7</ref>
+              </li>
+              <li>
+                <gd>Tha iad fuar ag obair anns an achadh an diugh.</gd>
+                <tr>They are cold working in the field today.</tr>
+                <ref text="617">td. 7</ref>
               </li>
             </xl></p>
 
@@ -438,7 +491,18 @@
         </section>
       </section>
     </section>
-
+    <section id="deps-mods">
+      <h>modifiers</h>
+      <p><g>bi</g> can occur with one or more modifiers.</p>
+      <p>Examples with temporal modifiers – <xl>
+          <li>
+            <gd>Tha iad fuar ag obair anns an achadh <m>an diugh</m>.</gd>
+            <tr>They are tired working in the field today.</tr>
+            <ref text="617">td. 7</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
 
     <!--<section id="sbj">
       <h>subject</h>
@@ -753,4 +817,19 @@
     </li>
   </ulx>
 -->
+
+  <p><xl>
+      
+      
+    <li>
+      <gd>Tha Calum sgìth: tha e ag obair gu trang anns an achadh.</gd>
+      <ref text="617">td. 7</ref>
+      <note>gu</note>
+    </li>
+    
+
+
+
+    </xl></p>
+
 </module>

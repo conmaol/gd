@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>thu</h>
     <p><g>thu</g>
         <en>you, thou</en> is the second person singular <a href="?xx=nouns/personal_pronouns"
@@ -7,6 +7,27 @@
 
 
     <section>
+        <h>uses</h>
+        <section id="uses-sbj">
+            <h>subject</h>
+            <p><g>thu</g> can be used as the subject of a verb.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+                <en>be</en> – <xl>
+                    <li>
+                        <gd>Tha <m>thu</m> trang.</gd>
+                        <tr>You are busy.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+
+
+
+    <!--<section>
         <h>uses</h>
         <section>
             <h>subject</h>
@@ -41,6 +62,6 @@
                 </xl>
             </p>
         </section>
-    </section>
+    </section>-->
 
 </module>

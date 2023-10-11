@@ -114,7 +114,7 @@
             <p><g>achadh</g> can occur with a specifier.</p>
             <p>Examples with the definite article – <xl>
                     <li>
-                        <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+                        <gd>Tha Màiri agus Calum ag obair anns <m>an achadh</m> an diugh.</gd>
                         <tr>Mary is working.</tr>
                         <ref text="617">td. 6–7</ref>
                     </li>
@@ -128,11 +128,12 @@
         <section id="uses-comp">
             <h>complement</h>
             <p><g>achadh</g> can be used as the complement of a preposition.</p>
-            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> achadh</g> <en>in a field</en> – <xl>
+            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> achadh</g>
+                <en>in a field</en> – <xl>
                     <li>
-                        <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
-                        <tr>Mary and Calum are working in the field today.</tr>
-                        <ref text="617">td. 6–7</ref>
+                        <gd>Tha iad fuar ag obair <m>anns an achadh</m> an diugh.</gd>
+                        <tr>They are tired working in the field today.</tr>
+                        <ref text="617">td. 7</ref>
                     </li>
                 </xl>
             </p>

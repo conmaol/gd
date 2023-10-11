@@ -12,7 +12,7 @@
                 ><g>bi</g></a>.</p>
             <p>Examples with a human subject – <xl>
                     <li>
-                        <gd>Tha Màiri beag.</gd>
+                        <gd>Tha Màiri <m>beag</m>.</gd>
                         <tr>Mary is small.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
@@ -20,7 +20,7 @@
             </p>
             <p>Examples with an animal subject – <xl>
                     <li>
-                        <gd>Tha an cat beag.</gd>
+                        <gd>Tha an cat <m>beag</m>.</gd>
                         <tr>The cat is small.</tr>
                         <ref text="617">td. 6</ref>
                     </li>

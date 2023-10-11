@@ -3,8 +3,45 @@
     <h>trang</h>
     <p><g>trang</g>
         <en>busy</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
-    
+
+    <section>
+        <h>uses</h>
+        <section id="uses-predicate">
+            <h>predicate</h>
+            <p><g>trang</g> can be used as the predicate of the verb <a href="?gd=bi"
+                ><g>bi</g></a>.</p>
+            <p>Examples with a human subject – <xl>
+                    <li>
+                        <gd>Tha Màiri agus Calum <m>trang</m> an diugh – tha iad ag obair anns an
+                            achadh.</gd>
+                        <tr>Mary and Malcolm are busy today: they are working in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha mi <m>trang</m>.</gd>
+                        <tr>I am busy.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha sibh <m>trang</m> ag obair anns an achadh agus tha sibh sgìth.</gd>
+                        <tr>You are busy working in the field and you are tired.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="uses-comp">
+            <h>complement</h>
+            <p><g>trang</g> can be used as the complement of the adverbialising particle <a
+                    href="?gd=gu"><g>gu</g></a>.</p>
+            <p><xl>
+                    <li>
+                        <gd>Tha Calum sgìth – tha e ag obair <m>gu trang</m> anns an achadh.</gd>
+                        <tr>Malcolm is tired – he is working busily in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl></p>
+        </section>
+    </section>
+
 </module>
-
-
-

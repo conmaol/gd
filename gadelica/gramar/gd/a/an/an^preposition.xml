@@ -128,13 +128,13 @@
       <p>Like all (true) prepositions, <g>an</g> governs a noun complement in the dative case.</p>
       <p>Examples with inanimate objects (material location) – <xl>
           <li>
-            <gd>Tha teas anns an teine.</gd>
+            <gd>Tha teas <m>anns an teine</m>.</gd>
             <tr>There is heat in the fire.</tr>
             <ref text="617">td. 6</ref>
           </li>
           <li>
-            <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
-            <tr>Mary is working.</tr>
+            <gd>Tha Màiri agus Calum ag obair <m>anns an achadh</m> an diugh.</gd>
+            <tr>Mary and Malcolm are working in the field today.</tr>
             <ref text="617">td. 6–7</ref>
           </li>
         </xl>
@@ -199,13 +199,13 @@
     <section id="uses-pred">
       <h>predicate</h>
       <p>One common use of the preposition <g>an</g> is to introduce the predicate of the verb <a
-          href="?gd=bi"><g>bi</g></a> – <xl> 
-            <li>
-              <gd>Tha teas anns an teine.</gd>
-              <tr>There is heat in the fire.</tr>
-              <ref text="617">td. 6</ref>
-            </li>
-          </xl>
+          href="?gd=bi"><g>bi</g></a> – <xl>
+          <li>
+            <gd>Tha teas <m>anns an teine</m>.</gd>
+            <tr>There is heat in the fire.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+        </xl>
       </p>
 
     </section>
@@ -244,9 +244,9 @@
       </p>-->
       <p><g>an</g> can be used to introduce a modifier of a verb (or verbal noun) – <xl>
           <li>
-            <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
-            <tr>Mary and Malcolm are working in the field today.</tr>
-            <ref text="617">td. 6–7</ref>
+            <gd>Tha Màiri agus Calum trang an diugh – tha iad ag obair <m>anns an achadh</m>.</gd>
+            <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
+            <ref text="617">td. 7</ref>
           </li>
         </xl>
         <!--<ul>

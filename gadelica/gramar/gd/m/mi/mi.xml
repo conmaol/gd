@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>mi</h>
     <p><g>mi</g>
         <en>I, me</en> is the first person singular <a href="?xx=nouns/personal_pronouns">personal
@@ -7,9 +7,29 @@
 
     <section>
         <h>uses</h>
-        <section>
+        <section id="uses-sbj">
             <h>subject</h>
-            <p>Older pedagogical examples – <xl id="sbj-older-pedag">
+            <p><g>mi</g> can be used as the subject of a verb.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+                <en>be</en> – <xl>
+                    <li>
+                        <gd>Tha <m>mi</m> trang.</gd>
+                        <tr>I am busy.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with other verbs – <xl>
+                    <li>
+                        <gd>Chunnaic <m>mi</m> cù aig an dorus.</gd>
+                        <tr>I saw a dog at the door.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+
+
+            <!--<p>Older pedagogical examples – <xl id="sbj-older-pedag">
                     <li>
                         <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
                             Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an
@@ -33,13 +53,9 @@
                         <ref text="621">td. 5</ref>
                         <note>dùin <a href="?gd=litir">litir</a></note>
                     </li>
-                    <li>
-                        <gd>Chunnaic mi cù aig an dorus.</gd>
-                        <tr>I saw a dog at the door.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
+                    
                 </xl>
-            </p>
+            </p>-->
         </section>
     </section>
 </module>

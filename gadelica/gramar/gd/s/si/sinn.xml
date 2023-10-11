@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>sinn</h>
-    <p><b>sinn</b>
+    <p><g>sinn</g>
         <en>we, us</en> is the first person plural <a href="?xx=nouns/personal_pronouns">personal
             pronoun</a>.</p>
-    <p>Examples from Gairm – <xl id="gairm">
+    
+    
+    <section>
+        <h>uses</h>
+        <section id="uses-sbj">
+            <h>subject</h>
+            <p><g>sinn</g> can be used as the subject of a verb.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+                <en>be</en> – <xl>
+                    <li>
+                        <gd>Tha <m>sinn</m> trang.</gd>
+                        <tr>We are busy.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+    
+    
+    
+    
+    <!--<p>Examples from Gairm – <xl id="gairm">
             <li>
                 <gd>Ma rannsaicheas <m>sinn</m> air ais fada gu leòir chì <m>sinn</m> nach robh
                     sgoilean anns an Oban gus an ochdamh linn deug. Bha an sgoil bheag a b’ fhaisge
@@ -17,6 +39,6 @@
                 <ref text="400-20">td. 363</ref>
             </li>
         </xl>
-    </p>
+    </p>-->
 
 </module>

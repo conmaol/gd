@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module id="top">
-    <h lang="en">personal pronouns</h>
-    <h lang="gd">ainmearan</h>
-    <p lang="en">Personal pronouns are <a href="?xx=nouns/pronouns">pronouns</a> – <ul>
-        <li><a href="?gd=mi">mi</a></li>
-        <li><a href="?gd=thu">thu</a></li>
-        <li><a href="?gd=i">i</a></li>
-        <li><a href="?gd=e">e</a></li>
-        <li><a href="?gd=sinn">sinn</a></li>
-        <li><a href="?gd=sibh">sibh</a></li>
-        <li><a href="?gd=iad">iad</a></li>
-    </ul>
+<module>
+    <h>personal pronouns</h>
+    <p>Personal pronouns are <a href="?xx=nouns/pronouns">pronouns</a> – <ul>
+            <li><a href="?gd=mi">mi</a></li>
+            <li><a href="?gd=thu">thu</a></li>
+            <li><a href="?gd=i_">i</a></li>
+            <li><a href="?gd=e_">e</a></li>
+            <li><a href="?gd=sinn">sinn</a></li>
+            <li><a href="?gd=sibh">sibh</a></li>
+            <li><a href="?gd=iad">iad</a></li>
+        </ul>
     </p>
-    <p lang="gd">...</p>
 </module>
-

@@ -2,7 +2,7 @@
 <module>
     <h>an diugh</h>
     <p><g>an diugh</g>
-        <en>today</en> is an adverb.</p>
+        <en>today</en> is an <a href="?xx=prepositions/adverbs">adverb</a>.</p>
 
     <section id="forms">
         <h>forms</h>
@@ -14,15 +14,45 @@
         <h>uses</h>
         <section id="uses-mod">
             <h>modifier</h>
-            <p>Examples modifying a progressive verbal noun – <xl>
-                    <li>
-                        <gd>Tha Màiri agus Calum ag obair anns an achadh <m>an diugh</m>.</gd>
-                        <tr>Mary and Malcolm are working in the field today.</tr>
-                        <ref text="617">td. 6–7</ref>
+            <p>Examples modifying <a href="?gd=bi"><g>bi</g></a> – <ul>
+                    <li>predicative adjectives – <xl>
+                            <li>
+                                <gd>Tha e fuar <m>an diugh</m>.</gd>
+                                <tr>It is cold today.</tr>
+                                <ref text="617">td. 7</ref>
+                            </li>
+                            <li>
+                                <gd>Tha Màiri agus Calum trang <m>an diugh</m> – tha iad ag obair
+                                    anns an achadh.</gd>
+                                <tr>Mary and Malcolm are busy today – they are working in the
+                                    field.</tr>
+                                <ref text="617">td. 7</ref>
+                            </li>
+                        </xl>
                     </li>
-                </xl></p>
+                    <li>progressive – <xl>
+                            <li>
+                                <gd>Tha Màiri agus Calum ag obair anns an achadh <m>an
+                                    diugh</m>.</gd>
+                                <tr>Mary and Malcolm are working in the field today.</tr>
+                                <ref text="617">td. 6–7</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li>mixed – <xl>
+                            <li>
+                                <gd>Tha iad fuar ag obair anns an achadh <m>an diugh</m>.</gd>
+                                <tr>They are tired working in the field today.</tr>
+                                <ref text="617">td. 7</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
         </section>
     </section>
+
+
 
 
 

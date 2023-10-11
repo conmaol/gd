@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>iad</h>
-    <p lang="en"><g>iad</g>
+    <p><g>iad</g>
         <en>they, them</en> is the third person plural singular <a
             href="?xx=nouns/personal_pronouns">personal pronoun</a>.</p>
 
     <section>
+        <h>uses</h>
+        <section id="uses-sbj">
+            <h>subject</h>
+            <p><g>iad</g> can be used as the subject of a verb.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+                <en>be</en> – <xl>
+                    <li>
+                        <gd>Tha <m>iad</m> fuar ag obair anns an achadh an diugh.</gd>
+                        <tr>They are cold working in the field today.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Màiri agus Calum trang an diugh – tha <m>iad</m> ag obair anns an
+                            achadh.</gd>
+                        <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+
+
+
+    <!--<section>
         <h>uses</h>
         <section>
             <h>subject</h>
@@ -60,6 +87,6 @@
                 </ul>
             </p>
         </section>
-    </section>
+    </section>-->
 
 </module>

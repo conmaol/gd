@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>sibh</h>
+    <p><g>sibh</g>
+        <en>you</en> is the second person plural <a href="?xx=nouns/personal_pronouns">personal
+            pronoun</a>.</p>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-sbj">
+            <h>subject</h>
+            <p><g>sibh</g> can be used as the subject of a verb.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+                <en>be</en> – <xl>
+                    <li>
+                        <gd>Tha <m>sibh</m> trang ag obair anns an achadh agus tha <m>sibh</m>
+                            sgìth.</gd>
+                        <tr>You are busy working in the field and you are tired.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+
+
+</module>

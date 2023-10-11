@@ -126,11 +126,6 @@
                         <tr>Mary is working and Malcolm is working.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
-                    <li>
-                        <gd>Tha Màiri agus Calum <m>ag obair</m> anns an achadh an diugh.</gd>
-                        <tr>Mary and Malcolm are working in the field today.</tr>
-                        <ref text="617">td. 6–7</ref>
-                    </li>
                 </xl>
             </p>
         </section>
@@ -145,11 +140,10 @@
                     </li>
                 </xl>
             </p>
-            <p>Examples with temporal modifiers – <xl>
+            <p>Examples with manner modifiers –<xl>
                     <li>
-                        <gd>Tha Màiri agus Calum ag obair anns an achadh <m>an diugh</m>.</gd>
-                        <tr>Mary and Malcolm are working in the field today.</tr>
-                        <ref text="617">td. 6–7</ref>
+                        <gd>Tha Calum sgìth: tha e ag obair <m>gu trang</m> anns an achadh.</gd>
+                        <ref text="617">td. 7</ref>
                     </li>
                 </xl>
             </p>
@@ -172,6 +166,16 @@
                         <gd>Tha Màiri agus Calum <m>ag obair</m> anns an achadh an diugh.</gd>
                         <tr>Mary and Malcolm are working in the field today.</tr>
                         <ref text="617">td. 6–7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Màiri sgìth. Tha i <m>sgìth ag obair</m> anns an achadh.</gd>
+                        <tr>Mary is tired.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha sibh <m>trang ag obair</m> anns an achadh agus tha sibh sgìth.</gd>
+                        <tr>You are busy working in the field and you are tired.</tr>
+                        <ref text="617">td. 7</ref>
                     </li>
                 </xl>
             </p>

@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>i</h>
     <p><g>i</g>
         <en>she, her</en> is the feminine singular <a href="?xx=nouns/personal_pronouns">personal
             pronoun</a>.</p>
-    
+
     <section>
         <h>uses</h>
         <section>
             <h>subject</h>
-            <p>Examples from Gairm – <xl id="sbj-gairm">
+            <p><g>i</g> can be used as the subject of a verb.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+                <en>be</en> – <xl>
+                    <li>
+                        <gd>Tha Màiri sgìth. Tha <m>i</m> sgìth ag obair anns an achadh.</gd>
+                        <tr>Mary is tired.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+
+
+            <!--<p>Examples from Gairm – <xl id="sbj-gairm">
                 <li>
                     <gd>[...] Dh’fhàs a guth na bu làidir. “Tha aon rud cinnteach, chan fhalbh aon
                         choigreach le mo leanabh. Cha <m>teid i</m> gu aon dannsa, tha sin cinnteach. Tha. Tha.
@@ -36,11 +48,10 @@
                     <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
                 </li>
             </xl>
-            </p>
-            <p lang="gd">...</p>
+            </p>-->
         </section>
-        
-        <section>
+
+        <!--<section>
             <h>object</h>
             <p>Older pedagogical examples – <xl id="obj-older-pedag">
                 <li>
@@ -57,12 +68,11 @@
                 </li>
             </xl>
             </p>
-        </section>
-        
-        
-    </section>
-    
-    
-    
-</module>
+        </section>-->
 
+
+    </section>
+
+
+
+</module>
