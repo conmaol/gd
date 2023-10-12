@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>gu</h>
+    <p><g>gu</g>
+        <en>-ly</en> is the adverbialising particle, creating <a href="?xx=prepositions/adverbs"
+            >adverb</a>-like expressions of manner out of <a href="?xx=adjectives/adjectives">adjectives</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>complement</h>
+            <p><g>gu</g> takes an adjective as its complement, deriving an adverbial of manner.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Tha Calum sgìth – tha e ag obair <m>gu trang</m> anns an achadh.</gd>
+                        <tr>Malcolm is tired – he is working busily in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+</module>

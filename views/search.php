@@ -27,7 +27,7 @@ class search {
         </div>
 HTML;
         if ($search=='') { // default homepage
-			echo '</form><hr/><p>Blah.</p></div>';
+			echo '</form><hr/>' . '<p><a href="ceile/index.php?xx=index">grammar index</a></p>' . '</div>';
         }
         else {
             $entriesEN = $this->_model->getEntriesEN();
@@ -102,4 +102,6 @@ HTML;
 		    }
 		}
 	}
+	
+	
 }

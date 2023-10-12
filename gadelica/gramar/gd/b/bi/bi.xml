@@ -2,15 +2,17 @@
 <module>
   <h>bi</h>
   <p><g>bi</g>
-    <en>be</en> is the predicative verb.</p>
+    <en>be</en> is the predicative <a href="?xx=verbs/simple_verbs">simple verb</a>.</p>
   <section id="forms">
     <h>forms</h>
     <p>The principal parts of <g>bi</g> are – <ul>
-        <li><m>tha</m> / <m>(bh)eil</m> – present independent/dependent <en>is, are, am</en></li>
-        <li><m>bidh</m> / <m>bi</m> – future independent/dependent <en>will be</en></li>
-        <li><m>bha</m> / <m>robh</m> – past independent/dependent <en>was, were</en></li>
-        <li><m>bhiodh</m> – conditional independent <en>would be</en></li>
-        <li><m>bith</m> – verbal noun <en>being</en></li>
+        <li><m>tha</m> / <m>(bh)eil</m> – present independent/dependent – <en>is, are, am</en></li>
+        <li><m>bidh</m> / <m>bi</m> – future independent/dependent – <en>will be</en></li>
+        <li><m>bha</m> / <m>robh</m> – past independent/dependent – <en>was, were</en></li>
+        <li><m>bhiodh</m> / <m>biodh</m> – conditional independent/dependent – <en>would
+          be</en></li>
+        <li><m>bith</m>
+          <fem/> – verbal noun – <en>being</en></li>
       </ul>
     </p>
     <section id="forms-tense">
@@ -256,7 +258,6 @@
           </li>
         </ul></p>
     </section>
-    <!--
     <section id="forms-imperative">
       <h>imperative</h>
       <p>
@@ -266,124 +267,226 @@
               <li>second person singular – <m>bi</m>!</li>
               <li>first person plural – <m>biomaid</m>!</li>
               <li>second person plural – <m>bithibh</m>!</li>
-              <li>third person – <m>rachadh</m>!</li>
+              <li>third person – <m>bitheadh</m>!</li>
               <li>passive – <m>rach(t)ar</m>!</li>
             </ul>
           </li>
           <li>dependent <ul id="forms-imperative-dependent">
-              <li>first person singular – na <m>racham</m>!</li>
+              <li>first person singular – na <m>bitheam</m>!</li>
               <li>second person singular – na <m>bi</m>!</li>
-              <li>first person plural – na <m>rachamaid</m>!</li>
+              <li>first person plural – na <m>biomaid</m>!</li>
               <li>second person plural – na <m>bithibh</m>!</li>
-              <li>third person – na <m>rachadh</m>!</li>
-              <li>passive – na <m>rach(t)ar</m>!</li>
+              <li>third person – na <m>bitheadh</m>!</li>
+              <!--<li>passive – na <m>rach(t)ar</m>!</li>-->
             </ul>
           </li>
         </ul>
       </p>
     </section>
-    <section>
+    <section id="forms-notes">
       <h>notes</h>
-      <p><ol>
-          <li>The conditional stem varies according to dialect – <g>deigh–</g>, <g>geobh-</g>,
-              <g>rach-</g>, <g>reigh-</g>, <g>reagh-</g>, <g>deidh-</g>.</li>
-          <li>The future dependent forms in <g>tèid-</g> are pronounced as if they were spelled
-              <g>dèid-</g>. </li>
-          <li>There is an archaic alternative to past dependent <g>deach</g> ie.
-            <g>deachaidh</g>.</li>
-        </ol>
+      <p><ul>
+          <li>Note the following emphatic variants – <ul>
+              <li><g>bidh</g> ⇒ <m>bithidh</m></li>
+              <li>a <g>bhios</g> ⇒ a <m>bhitheas</m></li>
+              <li><g>b[h]iodh</g> ⇒ <m>b[h]itheadh</m></li>
+              <li><g>b[h]iomaid</g> ⇒ <m>b[h]itheamaid</m></li>
+            </ul>
+          </li>
+          <li>Note the following passive dialectal alternatives – <ul>
+              <li><g>thathar</g> ⇒ <m>thatar</m>, <m>thathas</m></li>
+              <li><g>b[h]eilear</g> ⇒ <m>b[h]eileas</m></li>
+              <li><g>bhathar</g> ⇒ <m>bhatar</m>, <m>bhathas</m></li>
+              <li><g>robhar</g> ⇒ <m>robhas</m></li>
+              <li><g>b[h]ithear</g> ⇒ <m>b[h]itear</m>, <m>b[h]itheas</m>, <m>b[h]iteas</m></li>
+              <li><g>b[h]ite</g> ⇒ <m>b[h]iteadh</m></li>
+            </ul>
+          </li>
+        </ul>
       </p>
     </section>
-    -->
   </section>
 
   <section>
     <h>dependents</h>
     <section id="deps-pred">
       <h>subject + predicate</h>
-      <p><g>bi</g> is used in subject-predicate constructions.</p>
-      <section id="deps-pred-adj">
-        <h>predicative adjectives</h>
-        <p>The predicate of <g>bi</g> can be an (uninflected) adjective.</p>
-        <p>Examples with common noun subjects – <ul>
-            <li>animals –<xl>
+      <p><g>bi</g> is used in subject-predicate constructions – <xl>
+          <li>
+            <gd><m>Tha</m> an cù dubh.</gd>
+            <tr>The dog is black.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+          <li>
+            <gd><m>Tha</m> an cat aig an teine.</gd>
+            <tr>The cat is by the fire.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+          <li>
+            <gd><m>Tha</m> Màiri ag obair.</gd>
+            <tr>Mary is working.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+        </xl>
+      </p>
+      <section id="deps-pred-sbj">
+        <h>subject</h>
+        <p>The subject of <g>bi</g> can be a <a href="?xx=nouns/nouns">noun</a> or a <a
+            href="?xx=nouns/pronouns">pronoun</a>.</p>
+        <p>Some examples – <ul>
+            <li>proper nouns – <xl>
                 <li>
-                  <gd>Tha an cù <m>dubh</m> ach tha an cat <m>bàn</m>.</gd>
-                  <tr>The dog is black but the cat is white.</tr>
-                  <ref text="617">td. 6</ref>
+                  <gd>Tha <m>Màiri</m> sgìth.</gd>
+                  <tr>Mary is tired.</tr>
+                  <ref text="617">td. 7</ref>
                 </li>
                 <li>
-                  <gd>Tha an cù <m>mòr</m> ach tha an cat <m>beag</m>.</gd>
-                  <tr>The dog is big but the cat is small.</tr>
-                  <ref text="617">td. 6</ref>
+                  <gd>Tha <m>Calum</m> ag obair.</gd>
+                  <tr>Malcolm is working.</tr>
+                  <ref text="617">td. 7</ref>
                 </li>
-              </xl></li>
-            <li>inanimate – <xl>
+              </xl>
+            </li>
+            <li>common nouns – <ul>
+                <li>animate –<xl>
+                    <li>
+                      <gd>Tha an <m>cat</m> bàn.</gd>
+                      <tr>The cat is white.</tr>
+                      <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                      <gd>Tha an <m>cù</m> aig an dorus.</gd>
+                      <tr>The dog is at the door.</tr>
+                      <ref text="617">td. 6</ref>
+                    </li>
+                  </xl></li>
+                <li>inanimate/abstract – <xl>
+                    <li>
+                      <gd>Tha an <m>dorus</m> mór.</gd>
+                      <tr>The door is big.</tr>
+                      <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                      <gd>Tha <m>teas</m> anns an teine.</gd>
+                      <tr>There is heat in the fire.</tr>
+                      <ref text="617">td. 6</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>personal pronouns – <xl>
                 <li>
-                  <gd>Tha an dorus <m>mór</m> agus tha an teine <m>mór</m>.</gd>
-                  <tr>The door is big and the fire is big.</tr>
-                  <ref text="617">td. 6</ref>
+                  <gd>Tha <m>sinn</m> trang.</gd>
+                  <tr>We are busy.</tr>
+                  <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                  <gd>Tha <m>e</m> fuar an diugh.</gd>
+                  <tr>It is cold today.</tr>
+                  <ref text="617">td. 7</ref>
+                </li>
+              </xl>
+            </li>
+            <li>examples with <a href="?gd=agus"><g>agus</g></a>
+              <en>and</en> – <xl>
+                <li>
+                  <gd>Tha <m>Màiri agus Calum</m> ag obair.</gd>
+                  <tr>Mary and Malcolm are working.</tr>
+                  <ref text="617">td. 7</ref>
                 </li>
               </xl>
             </li>
           </ul>
         </p>
-        <p>Examples with proper noun subjects – <xl>
+      </section>
+      <section id="deps-pred-pred">
+        <h>predicate</h>
+        <p>The predicate of <g>bi</g> can be an <a href="?xx=adjectives/adjectives">adjective</a> or
+          a (static) <a href="?xx=prepositions/prepositions">preposition</a> – <xl>
             <li>
-              <gd>Tha Màiri <m>beag</m> ach tha Calum <m>mór</m>.</gd>
-              <tr>Mary is small but Malcolm is small.</tr>
+              <gd>Tha Calum <m>sgìth</m>.</gd>
+              <tr>Malcolm is tired.</tr>
+              <ref text="617">td. 7</ref>
+            </li>
+            <li>
+              <gd>Tha an cù <m>aig</m> an dorus.</gd>
+              <tr>The dog is at the door.</tr>
               <ref text="617">td. 6</ref>
             </li>
-            <li>
-              <gd>Tha Màiri agus Calum <m>trang</m> an diugh.</gd>
-              <tr>Mary and Malcolm are busy today.</tr>
-              <ref text="617">td. 7</ref>
-            </li>
           </xl>
         </p>
-        <p>Examples with personal pronoun subjects – <xl>
-            <li>
-              <gd>Tha sinn <m>trang</m>.</gd>
-              <tr>We are busy.</tr>
-              <ref text="617">td. 7</ref>
-            </li>
-            <li>
-              <gd>Tha Màiri sgìth. Tha i <m>sgìth</m> ag obair anns an achadh.</gd>
-              <tr>Mary is tired. She is tired working in the field.</tr>
-              <ref text="617">td. 7</ref>
-            </li>
-            <li>
-              <gd>Tha iad <m>fuar</m> ag obair anns an achadh an diugh.</gd>
-              <tr>They are cold working in the field today.</tr>
-              <ref text="617">td. 7</ref>
-            </li>
-          </xl>
-        </p>
-        <p>Examples with impersonal (pleonastic) pronoun subjects – <xl>
-            <li>
-              <gd>Tha e <m>fuar</m> an diugh.</gd>
-              <tr>It is cold today.</tr>
-              <ref text="617">td. 7</ref>
-            </li>
-          </xl>
-        </p>
-        <p>Further examples with multiple predicates – <xl>
-            <li>
-              <gd>Tha sibh <m>trang</m>
-                <m>ag obair</m> anns an achadh agus tha sibh sgìth.</gd>
-              <tr>You are busy working in the field and you are tired.</tr>
-              <ref text="617">td. 7</ref>
-            </li>
-            <li>
-              <gd>Tha iad <m>fuar</m>
-                <m>ag obair</m> anns an achadh an diugh.</gd>
-              <tr>They are cold working in the field today.</tr>
-              <ref text="617">td. 7</ref>
-            </li>
-          </xl>
-        </p>
+        <section id="deps-pred-pred-adj">
+          <h>adjectives</h>
+          <p>The predicate of <g>bi</g> can be an (uninflected) adjective.</p>
+          <p>Examples with different kinds of subject – <ul>
+              <li>common nouns – <ul>
+                  <li>animate –<xl>
+                      <li>
+                        <gd>Tha an cù <m>dubh</m> ach tha an cat <m>bàn</m>.</gd>
+                        <tr>The dog is black but the cat is white.</tr>
+                        <ref text="617">td. 6</ref>
+                      </li>
+                      <li>
+                        <gd>Tha an cù <m>mòr</m> ach tha an cat <m>beag</m>.</gd>
+                        <tr>The dog is big but the cat is small.</tr>
+                        <ref text="617">td. 6</ref>
+                      </li>
+                    </xl></li>
+                  <li>inanimate – <xl>
+                      <li>
+                        <gd>Tha an dorus <m>mór</m> agus tha an teine <m>mór</m>.</gd>
+                        <tr>The door is big and the fire is big.</tr>
+                        <ref text="617">td. 6</ref>
+                      </li>
+                    </xl>
+                  </li>
+                </ul>
+              </li>
+              <li>proper nouns – <xl>
+                  <li>
+                    <gd>Tha Màiri <m>beag</m> ach tha Calum <m>mór</m>.</gd>
+                    <tr>Mary is small but Malcolm is small.</tr>
+                    <ref text="617">td. 6</ref>
+                  </li>
+                  <li>
+                    <gd>Tha Màiri agus Calum <m>trang</m> an diugh.</gd>
+                    <tr>Mary and Malcolm are busy today.</tr>
+                    <ref text="617">td. 7</ref>
+                  </li>
+                </xl>
+              </li>
+              <li>personal pronouns – <xl>
+                  <li>
+                    <gd>Tha sinn <m>trang</m>.</gd>
+                    <tr>We are busy.</tr>
+                    <ref text="617">td. 7</ref>
+                  </li>
+                  <li>
+                    <gd>Tha iad <m>fuar</m> ag obair anns an achadh an diugh.</gd>
+                    <tr>They are cold working in the field today.</tr>
+                    <ref text="617">td. 7</ref>
+                  </li>
+                </xl>
+              </li>
+              <li>non-referential, ‘dummy’ pronouns – <xl>
+                  <li>
+                    <gd>Tha e <m>fuar</m> an diugh.</gd>
+                    <tr>It is cold today.</tr>
+                    <ref text="617">td. 7</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
+          </p>
 
-        <!--<p>Some examples with a definite article pre-specifier – <ul>
+
+
+
+
+
+
+          <!--<p>Some examples with a definite article pre-specifier – <ul>
           <li>older pedagogical examples – <xl id="adj-older-pedag">
             <li>
               <gd><m>Bha</m> an latha <m>brèagha blàth</m> is thug an athair leis Iain agus Anna
@@ -395,28 +498,33 @@
           </xl></li>
         </ul>
         </p>-->
-      </section>
-      <section id="deps-pred-prep">
-        <h>predicative prepositions</h>
-        <p>The predicate of <g>bi</g> can be a (locative) preposition.</p>
-        <p>Examples with common noun subjects – <ul>
-            <li>animals –<xl>
-                <li>
-                  <gd>Tha an cù <m>aig an dorus</m> agus tha an cat <m>aig an teine</m>.</gd>
-                  <tr>The dog is at the door and the cat is by the fire.</tr>
-                  <ref text="617">td. 6</ref>
-                </li>
-              </xl>
-            </li>
-            <li>inanimate/abstract – <xl>
-                <li>
-                  <gd>Tha teas <m>anns an teine</m>.</gd>
-                  <tr>There is heat in the fire.</tr>
-                  <ref text="617">td. 6</ref>
-                </li>
-              </xl></li>
-          </ul></p>
-        <!--<p>Older pedagogical examples – <xl id="loc-older-pedag">
+        </section>
+        <section id="deps-pred-pred-prep">
+          <h>prepositions</h>
+          <p>The predicate of <g>bi</g> can be a (static) preposition.</p>
+          <p>Examples with different kinds of subject – <ul>
+              <li>common nouns – <ul>
+                  <li>animate –<xl>
+                      <li>
+                        <gd>Tha an cù <m>aig an dorus</m> agus tha an cat <m>aig an teine</m>.</gd>
+                        <tr>The dog is at the door and the cat is by the fire.</tr>
+                        <ref text="617">td. 6</ref>
+                      </li>
+                    </xl>
+                  </li>
+                  <li>inanimate/abstract – <xl>
+                      <li>
+                        <gd>Tha teas <m>anns an teine</m>.</gd>
+                        <tr>There is heat in the fire.</tr>
+                        <ref text="617">td. 6</ref>
+                      </li>
+                    </xl></li>
+                </ul>
+              </li>
+            </ul>
+          </p>
+
+          <!--<p>Older pedagogical examples – <xl id="loc-older-pedag">
             <li>
               <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu <m>m’athair a tha air falbh</m>.</gd>
               <tr>My mother is writing a letter to my father who is away.</tr>
@@ -437,25 +545,20 @@
             </li>
           </xl>
         </p>-->
-        <section>
-          <h>progressive aspect</h>
-          <p>The predicate of <g>bi</g> can be the progressive particle <a href="?gd=ag"
-              ><g>ag</g></a>, followed by a verbal noun.</p>
-          <p>Some examples – <xl>
-              <li>
-                <gd>Tha Màiri agus Calum <m>ag obair</m> anns an achadh an diugh.</gd>
-                <tr>Mary and Malcolm are working in the field today.</tr>
-                <ref text="617">td. 6–7</ref>
-              </li>
-              <li>
-                <gd>Tha iad fuar ag obair anns an achadh an diugh.</gd>
-                <tr>They are cold working in the field today.</tr>
-                <ref text="617">td. 7</ref>
-              </li>
-            </xl></p>
+          <section>
+            <h>progressive aspect</h>
+            <p>More specifically, the predicate of <g>bi</g> can be the progressive particle <a
+                href="?gd=ag"><g>ag</g></a>, followed by a verbal noun.</p>
+            <p>Some examples – <xl>
+                <li>
+                  <gd>Tha Màiri agus Calum <m>ag obair</m> anns an achadh an diugh.</gd>
+                  <tr>Mary and Malcolm are working in the field today.</tr>
+                  <ref text="617">td. 6–7</ref>
+                </li>
+              </xl></p>
 
 
-          <!--<p>Older pedagogical examples – <xl id="prog-older-pedag">
+            <!--<p>Older pedagogical examples – <xl id="prog-older-pedag">
             <li>
               <gd><m>Tha mo mhàthair a’ sgrìobhadh</m> litreach gu m’athair a tha air falbh.
                 Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an litir seo,
@@ -488,7 +591,31 @@
             </li>
           </xl>
           </p>-->
+          </section>
         </section>
+        <section id="deps-pred-pred-poly">
+          <h>multiple predicates</h>
+          <p><g>bi</g> can take more than one predicate, without needing an explicit conjunction <a
+              href="?gd=agus"><g>agus</g></a>
+            <en>and</en> – <xl>
+              <li>
+                <gd>Tha iad <m>fuar</m>
+                  <m>ag obair</m> anns an achadh an diugh.</gd>
+                <tr>They are cold working in the field today.</tr>
+                <ref text="617">td. 7</ref>
+              </li>
+            </xl>
+          </p>
+          <p>But see also – <xl>
+              <li>
+                <gd>Tha Màiri agus Calum <m>fliuch agus fuar</m>.</gd>
+                <tr>Mary and Malcolm are wet and cold.</tr>
+                <ref text="617">td. 7 [226]</ref>
+              </li>
+            </xl>
+          </p>
+        </section>
+
       </section>
     </section>
     <section id="deps-mods">
@@ -817,19 +944,5 @@
     </li>
   </ulx>
 -->
-
-  <p><xl>
-      
-      
-    <li>
-      <gd>Tha Calum sgìth: tha e ag obair gu trang anns an achadh.</gd>
-      <ref text="617">td. 7</ref>
-      <note>gu</note>
-    </li>
-    
-
-
-
-    </xl></p>
 
 </module>

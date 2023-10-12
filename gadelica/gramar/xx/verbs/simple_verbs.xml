@@ -1,19 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
     <h>simple verbs</h>
-    <p>Simple verbs are <a href="?xx=verbs/verbs">verbs</a> that are not formed from other
+    <p>Simple verbs are <a href="?xx=verbs/verbs">verbs</a> that are not formed out of other
         words.</p>
-    <p>List of irregular verbs – <ul>
-            <li><a href="?gd=rach"><g>rach</g></a>
+    <p>Simple verbs contrast with <!--<a href="?xx=verbs/derived_verbs">-->derived verbs<!--</a>-->
+        and <!--<a href="?xx=verbs/compound_verbs">-->compound verbs<!--</a>--> which
+            <emph>are</emph> formed out of other words.</p>
+    
+    <section id="irregular">
+        <h>irregular verbs</h>
+        <p>List of irregular verbs – <ul>
+            <li><a href="?gd=bi"><g>bi</g></a>
+                <en>be</en></li>
+            <li><a href="?gd=faic"><g>faic</g></a>
+                <en>see</en></li>
+            <!--<li><a href="?gd=rach"><g>rach</g></a>
                 <en>go</en></li>
             <li><a href="?gd=thig"><g>thig</g></a>
                 <en>come</en></li>
             <li><a href="?gd=thoir"><g>thoir</g></a>
-                <en>give, take, bring</en></li>
+                <en>give, take, bring</en></li>-->
         </ul>
-    </p>
+    </p></section>
 
-    <p>List of simple regular verbs (along with idiosyncratic <a href="?xx=nouns/verbal_nouns"
+    <!--<p>List of simple regular verbs (along with idiosyncratic <a href="?xx=nouns/verbal_nouns"
             >verbal nouns</a>) –<ul>
             <li><m>aidich</m></li>
             <li><a href="?gd=ceannaich"><g>ceannaich</g></a>
@@ -59,5 +69,5 @@
             <li><a href="?gd=tionail">tionail</a>
                 <en>come/bring together, gather</en></li>
         </ul>
-    </p>
+    </p>-->
 </module>

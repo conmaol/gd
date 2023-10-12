@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
   <h>faic</h>
   <p><g>faic</g>
-    <en>see</en> is an irregular verb.</p>
+    <en>see</en> is an irregular <a href="?xx=verbs/simple_verbs">simple verb</a>.</p>
   <section id="forms">
     <h>forms</h>
     <p>The principal parts of <g>faic</g> are – <ul>
-        <li><m>chì</m> – future independent ie. <en>will see</en></li>
-        <li><m>chunnaic</m> – past independent ie. <en>saw</en></li>
-        <li><m>faicinn</m> – verbal noun ie. <en>seeing</en></li>
+        <li><m>chì</m> – future independent – <en>will see</en></li>
+        <li><m>chunnaic</m> – past independent – <en>saw</en></li>
+        <li><m>faicinn</m> <fem/> – verbal noun – <en>seeing</en></li>
       </ul>
     </p>
-    <section>
+    <section id="forms-tense">
       <h>tense</h>
       <p><ul>
           <li>past <ul id="past">
@@ -76,7 +76,7 @@
           </li>
         </ul></p>
     </section>
-    <section>
+    <section id="forms-status">
       <h>status</h>
       <p><ul>
           <li>independent <ul id="independent">
@@ -152,7 +152,7 @@
         </ul>
       </p>
     </section>
-    <section>
+    <section id="forms-voice">
       <h>voice</h>
       <p>
         <ul>
@@ -217,12 +217,11 @@
         </ul>
       </p>
     </section>
-    <section>
+    <section id="forms-imperative">
       <h>imperative</h>
       <p>
         <ul>
-          <li>independent
-            <ul id="forms-imp-indep">
+          <li>independent <ul id="forms-imp-indep">
               <li>first person singular – <m>faiceam</m>!</li>
               <li>second person singular – <m>faic</m>!</li>
               <li>first person plural – <m>faiceamaid</m>!</li>
@@ -231,8 +230,7 @@
               <li>passive – <m>faic(t)ear</m>!</li>
             </ul>
           </li>
-          <li>dependent
-            <ul id="forms-imp-dep">
+          <li>dependent <ul id="forms-imp-dep">
               <li>first person singular – na <m>faiceam</m>!</li>
               <li>second person singular – na <m>faic</m>!</li>
               <li>first person plural – na <m>faiceamaid</m>!</li>
@@ -244,37 +242,45 @@
         </ul></p>
     </section>
   </section>
-  
-  <!--
-  
+
   <section>
     <h>dependents</h>
     <section id="subject">
       <h>subject</h>
-      <p>Some examples – <xl id="deps-sbj-xs">
+      <p>Some examples – <xl>
           <li>
-            <gd>Chunnaic mi cù aig an dorus.</gd>
+            <gd>Chunnaic <m>mi</m> cù aig an dorus.</gd>
             <tr>I saw a dog at the door.</tr>
             <ref text="617">td. 6</ref>
-            <note>human subject</note>
           </li>
         </xl>
       </p>
     </section>
     <section id="object">
       <h>object</h>
-      <p>Some examples – <xl id="deps-obj-xs">
+      <p>Some examples – <xl>
           <li>
-            <gd>Chunnaic mi cù aig an dorus.</gd>
+            <gd>Chunnaic mi <m>cù</m> aig an dorus.</gd>
             <tr>I saw a dog at the door.</tr>
             <ref text="617">td. 6</ref>
-            <note>animate object</note>
           </li>
         </xl>
       </p>
-      -->
+    </section>
+    <section id="complement">
+      <h>complement</h>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Chunnaic mi cù <m>aig an dorus</m>.</gd>
+            <tr>I saw a dog at the door.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
 
-      <!--
+  <!--
       <p>faic always takes an object.</p>
       <p><ul>
           <li><b><m>Chunna mi an taigh</m> agus leum mi a-mach a’ smaoineachadh gum biodh fòn
@@ -332,19 +338,9 @@
 -->
   <!--
     </section>
-    <section id="complement">
-      <h>complement</h>
-      <p>Some examples – <xl id="deps-comp-loc-xs">
-          <li>
-            <gd>Chunnaic mi cù aig an dorus.</gd>
-            <tr>I saw a dog at the door.</tr>
-            <ref text="617">td. 6</ref>
-            <note>object locative complement</note>
-          </li>
-        </xl>
-      </p>
+    
       -->
-      <!--
+  <!--
       <p><ul>
           <li><b>Bha mi eadar Peairt agus Baile Chloichridh nuair a <m>chunnaic mi an duine am
                 meadhan an rathaid</m>.</b><br/>

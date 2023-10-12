@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
   <h>adjectives</h>
-  <p>Adjectives are words which typically describe attributes and properties of <a
-      href="?xx=nouns/nouns">nouns</a> – <ul>
+  <p>Adjectives are words which typically describe attributes, properties and qualities of things described by <a
+      href="?xx=nouns/nouns">nouns</a>.</p>
+    <p> For example –
+    <ul>
       <li><m>mór</m>
         <en>big, large</en></li>
       <li><m>dubh</m>

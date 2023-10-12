@@ -112,12 +112,12 @@
       <p>Like all (true) prepositions, <g>aig</g> governs a noun complement in the dative case.</p>
       <p>Examples with inanimate objects (material location) – <xl>
           <li>
-            <gd>Tha an cù aig an dorus.</gd>
+            <gd>Tha an cù <m>aig an dorus</m>.</gd>
             <tr>The dog is at the door.</tr>
             <ref text="617">td. 6</ref>
           </li>
           <li>
-            <gd>Tha an cat aig an teine.</gd>
+            <gd>Tha an cat <m>aig an teine</m>.</gd>
             <tr>The cat is by the fire.</tr>
             <ref text="617">td. 6</ref>
           </li>
@@ -505,22 +505,21 @@
     <section id="uses-pred">
       <h>predicate</h>
       <p>One common use of the preposition <g>aig</g> is to introduce the predicate of the verb <a
-        href="?gd=bi"><g>bi</g></a> – 
-      <xl>
-        <li>
-          <gd>Tha an cù aig an dorus.</gd>
-          <tr>The dog is at the door.</tr>
-          <ref text="617">td. 6</ref>
-        </li>
-        <li>
-          <gd>Tha an cat aig an teine.</gd>
-          <tr>The cat is by the fire.</tr>
-          <ref text="617">td. 6</ref>
-        </li>
-      </xl>
+          href="?gd=bi"><g>bi</g></a> – <xl>
+          <li>
+            <gd>Tha an cù <m>aig</m> an dorus.</gd>
+            <tr>The dog is at the door.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+          <li>
+            <gd>Tha an cat <m>aig</m> an teine.</gd>
+            <tr>The cat is by the fire.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+        </xl>
       </p>
-      
-      
+
+
       <!--
       <p>One common use of the preposition <g>aig</g> is to introduce the predicate of the verb <a
           href="?gd=bi"><g>bi</g></a> – <ul>
@@ -586,8 +585,8 @@
             </li>
           </ul></p>
       -->
-      </section>
-      <!--<section id="uses-pred-possession">
+    </section>
+    <!--<section id="uses-pred-possession">
         <h>possession</h>
         <p>Predicative <g>aig</g> can be used to state the possessor of an entity – <ul>
             <li>Cò aige a tha am bàta seo? <en>Whose is this boat?</en>
@@ -806,7 +805,7 @@
           </ul>
         </p>
       </section>-->
-      <!--<section id="uses-pred-temporal">
+    <!--<section id="uses-pred-temporal">
         <h>temporal</h>
         <p>Predicative <g>aig</g> can be used to state the location of an event in clock time – <ul>
             <li>Cùine a bhios a’ choinneamh? / Dè an uair a bhios a’ choinneamh? <en>When / at what
@@ -866,9 +865,9 @@
           </ul>
         </p>
       </section>-->
-    </section>
-    
-    <!--<section id="uses-comp">
+  </section>
+
+  <!--<section id="uses-comp">
       <h>complement</h>
       <p>The <g>aig</g> prepositional pronouns are occasionally found used as the complement of a
         quantity noun, with a partitive meaning, as an alternative to the more usual <a
@@ -902,7 +901,7 @@
         </xl>
       </p>
     </section>-->
-    <!--<section id="uses-modifier">
+  <!--<section id="uses-modifier">
       <h>modifier</h>
       <p>Another common use of the preposition <g>aig</g> is to introduce a modifier of a verb or
         noun – <ul>

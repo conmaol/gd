@@ -1,34 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze" id="top">
-  <h lang="en">verbs</h>
-  <h lang="gd">gnìomhairean</h>
-  <p lang="en">Verbs are words which typically describe situations – events, states, activities
-      <i>&amp;c.</i></p>
-  <p lang="gd">Is e faclan a bheir cunntas gu cumanta air <u>suidheachaidhean</u> a tha ann an
-    gnìomhairean – tachartasan, staidean, dèanadasan <i>&amp;c.</i></p>
-  <p lang="en">For example – <m>ith</m>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <h>verbs</h>
+  <p>Verbs are words which describe ‘situations’ – states, events, actions, processes, activities.</p>
+  <p>Every verb describes a situation, but not every word describing a situation is a verb (cf. verbal nouns, <a href="?xx=prepositions/adverbs">adverbs</a>).</p>
+  <!--<p>For example – <m>ith</m>
     <en>eat</en>, <m>fàg</m>
-    <en>leave</en>, ...</p>
-  <p lang="gd">...</p>
-  <module id="derivation">
-    <h lang="en">derivation</h>
-    <h lang="gd">...</h>
-    <p lang="en">Verbs are divided into three groups, depending on how they are formed – <ul>
-        <li><a href="?xx=verbs/derived_verbs">Derived verbs</a> are formed from adjectives or nouns,
-          usually by addition of a suffix eg. <m>gealaich</m>
+    <en>leave</en>, ...</p>-->
+  
+  <section id="derivation">
+    <h>derivation</h>
+    <p>Verbs are divided into three groups, depending on how they are formed – <ul>
+        <li><!--<a href="?xx=verbs/derived_verbs">-->Derived verbs<!--</a>--> are formed out of adjectives or nouns,
+          usually by addition of a suffix – <m>gealaich</m>
           <en>whiten</en>, <m>cuimhnich</m>
-          <en>remember</en>.</li>
-        <li><a href="?xx=verbs/compound_verbs">Compound verbs</a> are formed from other verbs,
-          usually by addition of a prefix eg. <m>ath-sgrìobh</m>
+          <en>remember</en>, ...</li>
+        <li><!--<a href="?xx=verbs/compound_verbs">-->Compound verbs<!--</a>--> are formed out of other verbs,
+          usually by addition of a prefix – <m>ath-sgrìobh</m>
           <en>rewrite</en>, <m>craobh-sgaoil</m>
-          <en>broadcast</en>.</li>
-        <li><a href="?xx=verbs/simple_verbs">Simple verbs</a> are not formed from other words eg.
+          <en>broadcast</en>, ...</li>
+        <li><a href="?xx=verbs/simple_verbs">Simple verbs</a> are not formed out of other words –
             <m>cuir</m>
           <en>put</en>, <m>fosgail</m>
-          <en>open</en>.</li>
+          <en>open</en>, ...</li>
       </ul>
     </p>
-    <p lang="gd">...</p>
+    
     <!--<p lang="gd">Tha trì seòrsachan gnìomhair ann, a rèir ciamar a tha iad air an cruthachadh – <ul>
       <li>Tha <a href="?xx=verbs/derived_verbs">gnìomhairean bunaichte</a> air an cruthachadh à buadhairean no ainmearan, gu cumanta le iar-leasachan eg. <m>gealaich</m>, <m>cuimhnich</m>.</li>
       <li> Tha <a href="?xx=verbs/compound_verbs">gnìomhairean fillte</a> air an cruthachadh à gnìomhairean eile, gu cumanta le ro-leasachan eg. <m>ath-sgrìobh</m>
@@ -39,19 +35,18 @@
         <en>open</en>.</li>
     </ul>
   </p>-->
-  </module>
-  <module id="forms">
-    <h lang="en">forms</h>
-    <h lang="gd">...</h>
-    <p lang="en">Verbs have <u>mood</u> – every verb form is either <b>indicative</b> or
+  </section>
+  
+  <!--<module id="forms">
+    <h>forms</h>
+    
+    <p>Verbs have <emph>mood</emph> – every verb form is either <b>indicative</b> or
         <b>imperative</b>.</p>
-    <p lang="gd">Tha <u>modh</u> aig gnìomhairean – tha gach gnìomhair <b>taisbeanach</b> no
-        <b>àithneach</b>.</p>
 
     <module id="indicative">
-      <h lang="en">indicative</h>
-      <h lang="gd">...</h>
-      <p lang="en">Indicative verbs are conjugated for <u>tense</u>, <u>status</u> and <u>voice</u>
+      <h>indicative</h>
+      
+      <p>Indicative verbs are conjugated for <u>tense</u>, <u>status</u> and <u>voice</u>
         - <ul>
           <li>Every indicative verb form is either <b>past</b>, <b>future</b>, <b>conditional</b> or
               <b>present</b>.</li>
@@ -60,8 +55,8 @@
           <li>Every indicative verb form is either <b>active</b> or <b>passive</b>.</li>
         </ul>
       </p>
-      <p lang="gd">...</p>
-      <!--<p lang="gd">Tha <u>tràth</u>, <u>inbhe</u> agus <u>guth</u> aig gnìomhairean taisbeanach <ul>
+      
+      <!-\-<p lang="gd">Tha <u>tràth</u>, <u>inbhe</u> agus <u>guth</u> aig gnìomhairean taisbeanach <ul>
         <li>Every indicative verb form is either <b>past</b>, <b>future</b>, <b>conditional</b> or <b>present</b>.
           </li>
         <li>Every indicative verb form is either <b>independent</b>, <b>dependent</b>, or <b>relative</b>.
@@ -69,62 +64,62 @@
         <li>Every indicative verb form is either <b>active</b> or <b>passive</b>.
           </li>
       </ul>
-    </p>-->
+    </p>-\->
       <module id="past_indicative">
-        <h lang="en">past</h>
-        <h lang="gd">...</h>
-        <p lang="en">The <u>past stem</u> of a verb is formed by <u>leniting</u> the verbal root,
+        <h>past</h>
+        
+        <p>The <u>past stem</u> of a verb is formed by <u>leniting</u> the verbal root,
           eg. <b>cuir</b> → <m>chuir</m>. If the resulting form starts with a vowel, then it is
           prefixed with <b>dh’</b>, e.g. <b>ith</b> → <m>dh’ith</m>, <b>fosgail</b> →
             <m>dh’fhosgail</m>.</p>
-        <p lang="gd">...</p>
-        <p lang="en">The <u>past independent active</u> and <u>past relative active</u> forms of a
+        
+        <p>The <u>past independent active</u> and <u>past relative active</u> forms of a
           verb are identical to the past stem, eg. <b>cuir</b> → (a) <m>chuir</m>.</p>
-        <p lang="gd">...</p>
-        <p lang="en">The <u>past independent passive</u> and <u>past relative passive</u> forms of a
+        
+        <p>The <u>past independent passive</u> and <u>past relative passive</u> forms of a
           verb are created by adding the suffix <b>-(e)adh</b> to the past stem, eg. <b>cuir</b> →
             <m>chuireadh</m>, <b>ith</b> → <m>dh’itheadh</m>. Roots ending in <b>-ail</b>,
             <b>-air</b>, <b>-in(n)</b> are subject to syncope eg. <b>fosgail</b> →
             <m>dh’fhosgladh</m>.</p>
-        <p lang="gd">...</p>
-        <p lang="en">The <u>past dependent</u> forms of a verb are created by prefixing the particle
+        
+        <p>The <u>past dependent</u> forms of a verb are created by prefixing the particle
             <b>do</b> to the corresponding past independent form, eg. <b>cuir</b> → cha/an/nach
             <m>do chuir</m> (active), cha/an/nach <m>do chuireadh</m> (passive); <b>ith</b> →
           cha/an/nach <m>do dh’ith</m> (active), cha/an/nach <m>do dh’itheadh</m> (passive).</p>
-        <p lang="gd">...</p>
-        <p lang="en"><note>In older writings, dependent forms in <b>do dh’</b> are often simply
+        
+        <p><note>In older writings, dependent forms in <b>do dh’</b> are often simply
               <b>d’</b> eg. <b>d’òl(adh)</b> instead of <b>do dh’òl(adh)</b>; <b>d’fhosgail</b>,
               <b>d’fhosgladh</b> instead of <b>do dh’fhosgail</b>, <b>do
           dh’fhosgladh</b>.</note></p>
-        <p lang="gd">...</p>
+        
       </module>
       <module id="future_indicative">
-        <h lang="en">future</h>
-        <h lang="gd">...</h>
-        <p lang="en">The <u>future independent active</u> form of a verb is created by adding the
+        <h>future</h>
+        
+        <p>The <u>future independent active</u> form of a verb is created by adding the
           suffix <b>-(a)idh</b> to the verbal root, eg. <b>cuir</b> → <m>cuiridh</m>. Roots ending
           in <b>-ail</b>, <b>-air</b>, <b>-in(n)</b> are subject to syncope eg. <b>fosgail</b> →
             <m>fosglaidh</m>.</p>
-        <p lang="gd">...</p>
-        <p lang="en">The <u>future relative active</u> form is created by adding the suffix
+        
+        <p>The <u>future relative active</u> form is created by adding the suffix
             <b>-(e)as</b> to the (lenited) verbal root, eg. <b>cuir</b> → a <m>chuireas</m>. Again,
           roots ending in <b>-ail</b>, <b>-air</b>, <b>-in(n)</b> are subject to syncope eg.
             <b>fosgail</b> → a dh’<m>fhosglas</m>.</p>
-        <p lang="gd">...</p>
-        <p lang="en">The <u>future dependent active</u> form of a verb is identical to the verbal
+        
+        <p>The <u>future dependent active</u> form of a verb is identical to the verbal
           root, eg. <b>cuir</b> → cha <m>chuir</m>, an/nach <m>cuir</m>.</p>
-        <p lang="gd">...</p>
-        <p lang="en">The <u>future passive</u> forms are created by adding the suffix <b>-(e)ar</b>
+        
+        <p>The <u>future passive</u> forms are created by adding the suffix <b>-(e)ar</b>
           to the verbal root, eg. <b>cuir</b> → <m>cuirear</m> (independent), a <m>chuirear</m>
           (relative), cha <m>chuirear</m>, an/nach <m>cuirear</m> (dependent). Again, roots ending
           in <b>-ail</b>, <b>-air</b>, <b>-in(n)</b> are subject to syncope eg. <b>fosgail</b> →
             <m>fosglar</m>.</p>
-        <p lang="gd">...</p>
+        
       </module>
       <module id="conditional_indicative">
-        <h lang="en">conditional</h>
-        <h lang="gd">...</h>
-        <p lang="en">The <u>conditional dependent active</u> forms of a verb are created by adding
+        <h>conditional</h>
+        
+        <p>The <u>conditional dependent active</u> forms of a verb are created by adding
           one of the conditional suffixes to the verbal root – <ul>
             <li><b>-(a)inn</b> (first-person singular) eg. <b>cuir</b> → cha <m>chuirinn</m>,
               an/nach <m>cuirinn</m>.</li>
@@ -134,13 +129,13 @@
                 <m>cuireadh</m>.</li>
           </ul> Note that roots ending in <b>-ail</b>, <b>-air</b>, <b>-in(n)</b> are subject to
           syncope eg. <b>fosgail</b> → <m>fosglainn</m>, <m>fosglamaid</m>, <m>fosgladh</m>.</p>
-        <p lang="gd">...</p>
-        <p lang="en">The <u>conditional dependent passive</u> form of a verb is created by adding
+        
+        <p>The <u>conditional dependent passive</u> form of a verb is created by adding
           the suffix <b>-te</b> to the verbal root eg. <b>cuir</b> → cha <m>chuirte</m>, an/nach
             <m>cuirte</m>. The same suffix is used even if the verb ends in a <u>broad</u> consonant
           eg. <b>òl</b> → chan/an/nach <m>òlte</m>.</p>
-        <p lang="gd">...</p>
-        <p lang="en">The <u>conditional independent and relative</u> forms of a verbs are created by
+        
+        <p>The <u>conditional independent and relative</u> forms of a verbs are created by
           leniting the corresponding conditional dependent form eg. <b>cuir</b> → (a)
             <m>chuirinn</m> (first-person singular), (a) <m>chuireamaid</m> (first-person plural),
           (a) <m>chuireadh</m> (other active), (a) <m>chuirte</m> (passive). If the resulting form
@@ -148,20 +143,20 @@
             <m>dh’ithinn</m>, (a) <m>dh’itheamaid</m>, (a) <m>dh’itheadh</m>, (a) <m>dh’ithte</m>;
             <b>fosgail</b> → (a) <m>dh’fhosglainn</m>, (a) <m>dh’fhosglamaid</m>, (a)
             <m>dh’fhosgladh</m>, (a) <m>dh’fhosgailte</m>.</p>
-        <p lang="gd">...</p>
-        <p lang="en"><note>In older writings, conditional passive forms in <b>-teadh</b> are often
+        
+        <p><note>In older writings, conditional passive forms in <b>-teadh</b> are often
             found eg. <b>c(h)uirteadh</b>, <b>(dh’)òlteadh</b>. With verbal roots ending in a broad
             consonant, the spelling was sometimes altered to preserve the slender-to-slender
             spelling rule eg. <b>òl</b> → chan/an/nach <b>òilte(adh)</b>. Alternatively, the broad
             suffix <b>-tadh</b> was sometimes used eg. <b>òl</b> → chan/an/nach
             <b>òltadh</b>.</note></p>
-        <p lang="gd">...</p>
+        
       </module>
     </module>
     <module id="imperative">
-      <h lang="en">imperative</h>
-      <h lang="gd">...</h>
-      <p lang="en">Imperative verbs are conjugated for <u>voice</u>, <u>person</u> and <u>number</u>
+      <h>imperative</h>
+      
+      <p>Imperative verbs are conjugated for <u>voice</u>, <u>person</u> and <u>number</u>
         – <ul>
           <li>Every imperative verb is either <b>active</b> or <b>passive</b>.</li>
           <li>Every active imperative verb is either <b>first-person</b>, <b>second-person</b> or
@@ -170,8 +165,8 @@
               <b>plural</b>.</li>
         </ul>
       </p>
-      <p lang="gd">...</p>
-      <!--<p lang="gd">Tha <u>guth</u>, <u>pearsa</u> agus <u>àireamh</u> aig gnìomhairean àithneach – <ul>
+      
+      <!-\-<p lang="gd">Tha <u>guth</u>, <u>pearsa</u> agus <u>àireamh</u> aig gnìomhairean àithneach – <ul>
         <li>Every imperative verb is either <b>active</b> or <b>passive</b>.
           </li>
         <li>Every active imperative verb is either <b>first-person</b>, <b>second-person</b> or <b>third-person</b>.
@@ -179,8 +174,8 @@
         <li>Every first- or second- person active imperative verb is either <b>singular</b> or <b>plural</b>
           .</li>
       </ul>
-    </p>-->
-      <p lang="en">The active imperative forms are conjugated as follows – <ul>
+    </p>-\->
+      <p>The active imperative forms are conjugated as follows – <ul>
           <li>The <u>first-person singular active</u> imperative form is created by adding the
             suffix <b>-(e)am</b> to the verbal root eg. <b>cuir</b> → <m>cuiream</m>.</li>
           <li>The <u>first-person plural active</u> imperative form is created by adding the suffix
@@ -194,19 +189,19 @@
         </ul> Roots ending in <b>-ail</b>, <b>-air</b>, <b>-in(n)</b> are shortened with each of
         these suffixes eg. <b>fosgail</b> → <m>fosglam</m>, <m>fosglamaid</m>, <m>fosglaibh</m>,
           <m>fosgladh</m>.</p>
-      <p lang="gd">...</p>
-      <p lang="en">The <u>passive</u> imperative form is created by adding the suffix <b>-tear</b>
+      
+      <p>The <u>passive</u> imperative form is created by adding the suffix <b>-tear</b>
         to the verbal root eg. <b>cuir</b> → <m>cuirtear</m>, <b>fosgail</b> →
         <m>fosgailtear</m>.</p>
-      <p lang="gd">...</p>
+      
     </module>
     <module id="examples">
-      <h lang="en">examples</h>
-      <h lang="gd">...</h>
+      <h>examples</h>
+      
       <module id="aidich">
-        <h lang="en">aidich</h>
+        <h>aidich</h>
         <h lang="gd">aidich</h>
-        <p lang="en"><ul>
+        <p><ul>
             <li>past <ul id="aidich-past">
                 <li>active <ul>
                     <li>independent – <m>dh’aidich</m></li>
@@ -420,12 +415,12 @@
             <hr/>
             <li>verbal noun – <m>aideachadh</m></li>
           </ul></p>
-        <p lang="gd">...</p>
+        
       </module>
       <module id="bac">
-        <h lang="en">bac</h>
+        <h>bac</h>
         <h lang="gd">bac</h>
-        <p lang="en"><ul>
+        <p><ul>
             <li>past <ul id="bac-past">
                 <li>active <ul>
                     <li>independent – <m>bhac</m></li>
@@ -639,12 +634,12 @@
             <hr/>
             <li>verbal noun – <m>bacadh</m></li>
           </ul></p>
-        <p lang="gd">...</p>
+        
       </module>
       <module id="cuir">
-        <h lang="en">cuir</h>
+        <h>cuir</h>
         <h lang="gd">cuir</h>
-        <p lang="en"><ul>
+        <p><ul>
             <li>past <ul id="cuir-past">
                 <li>active <ul>
                     <li>independent – <m>chuir</m></li>
@@ -865,9 +860,9 @@
         <p lang="gd">..</p>
       </module>
       <module id="diult">
-        <h lang="en">diùlt <en>refuse, reject</en></h>
+        <h>diùlt <en>refuse, reject</en></h>
         <h lang="gd">diùlt</h>
-        <p lang="en"><ul>
+        <p><ul>
             <li>past <ul id="diult-past">
                 <li>active <ul>
                     <li>independent – <m>dhiùlt</m></li>
@@ -1087,12 +1082,12 @@
             <hr/>
             <li>verbal noun – <m>diùltadh</m></li>
           </ul></p>
-        <p lang="gd">...</p>
+        
       </module>
       <module id="eigh">
-        <h lang="en">èigh <en>shout, call</en></h>
+        <h>èigh <en>shout, call</en></h>
         <h lang="gd">èigh</h>
-        <p lang="en"><ul>
+        <p><ul>
             <li>past <ul id="eigh-past">
                 <li>active <ul>
                     <li>independent – <m>dh’èigh</m></li>
@@ -1309,9 +1304,9 @@
         <p lang="gd">..</p>
       </module>
       <module id="fosgail">
-        <h lang="en">fosgail</h>
+        <h>fosgail</h>
         <h lang="gd">fosgail</h>
-        <p lang="en"><ul>
+        <p><ul>
             <li>past <ul id="fosgail-past">
                 <li>active <ul>
                     <li>independent – <m>dh’fhosgail</m></li>
@@ -1531,12 +1526,12 @@
             <hr/>
             <li>verbal noun – <m>fosgladh</m></li>
           </ul></p>
-        <p lang="gd">...</p>
+        
       </module>
       <module id="freagair">
-        <h lang="en">freagair</h>
+        <h>freagair</h>
         <h lang="gd">freagair</h>
-        <p lang="en"><ul>
+        <p><ul>
             <li>past <ul id="freagair-past">
                 <li>active <ul>
                     <li>independent – <m>fhreagair</m></li>
@@ -1756,12 +1751,12 @@
             <hr/>
             <li>verbal noun – <m>freagairt</m></li>
           </ul></p>
-        <p lang="gd">...</p>
+        
       </module>
       <module id="seachain">
-        <h lang="en">seachain</h>
+        <h>seachain</h>
         <h lang="gd">seachain</h>
-        <p lang="en"><ul>
+        <p><ul>
             <li>past <ul id="seachain-past">
                 <li>active <ul>
                     <li>independent – <m>sheachain</m></li>
@@ -1981,13 +1976,13 @@
             <hr/>
             <li>verbal noun – <m>seachnadh</m></li>
           </ul></p>
-        <p lang="gd">...</p>
+        
       </module>
     </module>
     <module id="irregular">
-      <h lang="en">irregular verbs</h>
-      <h lang="gd">...</h>
-      <p lang="en"><ul>
+      <h>irregular verbs</h>
+      
+      <p><ul>
           <li><a href="?gd=abair">abair</a> – <i>their</i>, <i>thuirt</i>, <i>ràdh</i> –
               <en>say</en></li>
           <li><a href="?gd=beir">beir</a> – <i>rug</i>, <i>breith</i> – <en>bear</en></li>
@@ -2007,20 +2002,20 @@
               take, bring</en></li>
         </ul>
       </p>
-      <p lang="gd">...</p>
-      <p lang="en">Also – <a href="?gd=bi">bi</a>
+      
+      <p>Also – <a href="?gd=bi">bi</a>
         <en>be</en>.</p>
-      <p lang="gd">...</p>
+      
     </module>
-  </module>
+  </module>-->
   <!--<p>cf. <a href="?xx=verbs/modal_verbs">modal verbs</a></p>-->
-  <module id="relations">
-    <h lang="en">relations</h>
-    <h lang="gd">...</h>
+  <!--<module id="relations">
+    <h>relations</h>
+    
     <module id="subjects">
-      <h lang="en">subjects</h>
-      <h lang="gd">...</h>
-      <p lang="en">Most verb forms have exactly one core nominal dependent, or <u>subject</u> eg. <ul>
+      <h>subjects</h>
+      
+      <p>Most verb forms have exactly one core nominal dependent, or <u>subject</u> eg. <ul>
           <li><m>tha <u>iad</u> sgìth</m>
             <en>they are tired</en> – the personal pronoun <b>iad</b>
             <en>they</en> is the subject of the verb <b>tha</b>
@@ -2032,16 +2027,16 @@
             <boxlink ref="#subjects"/></li>
         </ul>
       </p>
-      <p lang="gd">...</p>
-      <p lang="en"><ed>Imperative and passives??</ed></p>
-      <p lang="gd">...</p>
-      <p lang="en">The subject of a verb can be either – <ul>
+      
+      <p><ed>Imperative and passives??</ed></p>
+      
+      <p>The subject of a verb can be either – <ul>
           <li>a common or proper noun</li>
           <li>a personal or demonstrative pronoun.</li>
         </ul>
       </p>
-      <p lang="gd">...</p>
-      <p lang="en">The following verb forms <u>never</u> have an explicit subject, because they are
+      
+      <p>The following verb forms <u>never</u> have an explicit subject, because they are
         assumed to have an implicit, built-in subject – <ul>
           <li><u>first-person conditional</u> (active) verb forms like <b>èighinn</b>
             <en>I would put</en>, <b>(cha) èigheamaid</b>
@@ -2054,15 +2049,15 @@
             <en>you put!</en></li>
         </ul>
       </p>
-      <p lang="gd">...</p>
-      <p lang="en">In addition, an active verb form may lack an explicit subject when it occurs as
+      
+      <p>In addition, an active verb form may lack an explicit subject when it occurs as
         the answer to a yes/no question.</p>
-      <p lang="gd">...</p>
+      
     </module>
     <module id="objects">
-      <h lang="en">objects</h>
-      <h lang="gd">...</h>
-      <p lang="en">Verb forms can also have a secondary nominal dependent, or <u>object</u> eg. <ul>
+      <h>objects</h>
+      
+      <p>Verb forms can also have a secondary nominal dependent, or <u>object</u> eg. <ul>
           <li><m>chì mi a-màireach <u>sibh</u></m>
             <en>I will see you tomorrow</en> – the personal pronoun <b>sibh</b>
             <en>you</en> is the object of the verb <b>chì</b>
@@ -2071,22 +2066,22 @@
             <en>Mary wrote me a letter</en> – the common noun <b>litir</b>
             <en>letter</en> is the object of the verb <b>sgrìobh</b>
             <en>wrote</en>
-            <!--<boxlink ref="#objects"/>--></li>
+            <!-\-<boxlink ref="#objects"/>-\-></li>
         </ul>
       </p>
-      <p lang="gd">...</p>
-      <p lang="en">Verbs can also have a secondary nominal dependent, or <u>object</u>, which again
+      
+      <p>Verbs can also have a secondary nominal dependent, or <u>object</u>, which again
         can be either – <ul>
           <li>a common or proper noun (phrase) in the nominative case</li>
           <li>a personal or demonstrative pronoun.</li>
         </ul>
       </p>
-      <p lang="gd">...</p>
+      
     </module>
     <module id="complements">
-      <h lang="en">complements</h>
-      <h lang="gd">...</h>
-      <p lang="en">In addition to subjects and objects, verbs can also have one or more non-nominal
+      <h>complements</h>
+      
+      <p>In addition to subjects and objects, verbs can also have one or more non-nominal
           <u>complements</u> eg. <ul>
           <li><m>thug Ealasaid ubhal <u>dhan</u> bhodach</m>
             <en>Elizabeth gave the old man an apple</en> – the preposition <b>dhan</b>
@@ -2101,11 +2096,11 @@
             <b>leughadh</b>
             <en>reading</en> is a complement of the verb <b>feumaidh</b>
             <en>must</en>
-            <!--<boxlink ref="#complements"/>--></li>
+            <!-\-<boxlink ref="#complements"/>-\-></li>
         </ul>
       </p>
-      <p lang="gd">...</p>
-      <p lang="en">In addition to subjects and objects, verbs can also have one or more non-nominal
+      
+      <p>In addition to subjects and objects, verbs can also have one or more non-nominal
           <u>complements</u>, which can be either – <ul>
           <li>a preposition (phrase)</li>
           <li>a clause introduced by one of the verbal particles <b>gun</b>, <b>an</b> or
@@ -2113,12 +2108,12 @@
           <li>an <a href="?xx=verbs/infinitivals">infinitival</a> (phrase).</li>
         </ul>
       </p>
-      <p lang="gd">...</p>
+      
     </module>
     <module id="modifiers">
-      <h lang="en">modifiers</h>
-      <h lang="gd">...</h>
-      <p lang="en">Finally, verbs may have one or more adverbial <u>modifiers</u> eg. <ul>
+      <h>modifiers</h>
+      
+      <p>Finally, verbs may have one or more adverbial <u>modifiers</u> eg. <ul>
           <li><m>chaidh iad dhan bhaile <u>an-dè</u></m>
             <en>they went to the town yesterday</en> – the adverb <b>an-dè</b>
             <en>yesterday</en> is a (temporal) modifier of the verb <b>chaidh</b>
@@ -2133,13 +2128,13 @@
             <en>I would leave</en></li>
         </ul>
       </p>
-      <p lang="gd">...</p>
+      
     </module>
-  </module>
-  <module id="uses">
-    <h lang="en">uses</h>
-    <h lang="gd">...</h>
-    <p lang="en">The main uses of <u>independent</u> verbs are – <ul>
+  </module>-->
+  <!--<module id="uses">
+    <h>uses</h>
+    
+    <p>The main uses of <u>independent</u> verbs are – <ul>
         <li>To introduce a <u>positive declarative sentence</u> eg. <m><u>Thèid</u> sinn dhan
             bhùth.</m>
           <en>We will go into the shop.</en></li>
@@ -2152,11 +2147,11 @@
         <li>To introduce the complement of the subordinating conjunction <b>oir</b>
           <en>because</en> eg. <m>tha i toilichte oir <u>cheannaich</u> i càr ùr</m>
           <en>she is happy because she has bought a new car</en></li>
-        <!-- discourse particles eg. ge-tà ?? -->
+        <!-\- discourse particles eg. ge-tà ?? -\->
       </ul>
     </p>
-    <p lang="gd">...</p>
-    <p lang="en">The main uses of <u>relative</u> verbs are – <ul>
+    
+    <p>The main uses of <u>relative</u> verbs are – <ul>
         <li>To introduce the complement of the relative particles <b>a</b>
           <en>who, which</en> and <b>na</b>
           <en>that which</en> eg. <m>an leabhar a <u>sgrìobhas</u> mi</m>
@@ -2167,8 +2162,8 @@
           <en>if I am tired I will stay at home</en></li>
       </ul>
     </p>
-    <p lang="gd">...</p>
-    <p lang="en">The main uses of <u>dependent</u> verbs are – <ul>
+    
+    <p>The main uses of <u>dependent</u> verbs are – <ul>
         <li>To introduce the complement of the negative, interrogative and subordinating particles
             <b>cha</b>, <b>an</b>, <b>nach</b> and <b>gun</b> eg. <m>cha <u>robh</u> e beàrtach</m>
           <en>he was not rich</en>, <m>thuirt i gun <u>do sgrìobhadh</u> leabhar</m>
@@ -2178,18 +2173,18 @@
           <en>if you went to Glasgow I could see you</en></li>
       </ul>
     </p>
-    <p lang="gd">...</p>
-  </module>
-  <module id="senses">
-    <h lang="en">senses</h>
-    <h lang="gd">...</h>
-    <p lang="en">Like any word or phrase, every verb form is associated with one or more potential
+    
+  </module>-->
+  <!--<module id="senses">
+    <h>senses</h>
+    
+    <p>Like any word or phrase, every verb form is associated with one or more potential
         <u>senses</u>.</p>
-    <p lang="gd">...</p>
+    
     <module id="perfective">
-      <h lang="en">perfective vs. imperfective</h>
+      <h>perfective vs. imperfective</h>
       <h lang="gd"/>
-      <p lang="en">When a verb form is associated with a <u>bounded</u> sense, it is being used as a
+      <p>When a verb form is associated with a <u>bounded</u> sense, it is being used as a
           <b>perfective</b> verb. Perfective verb senses are viewed from the outside, as unitary,
         whole events, generally in the past, eg. <ul>
           <li><m>bhrùchd/chlisg Màiri</m>
@@ -2201,7 +2196,7 @@
         </ul>
       </p>
       <p lang="gd"/>
-      <p lang="en">Perfective verb senses are not compatible with bounding adverbials like 
+      <p>Perfective verb senses are not compatible with bounding adverbials like 
         <b>fad na h-oidhche</b> <en>all night long</en> or <b>gu briseadh an latha</b> <en>until daybreak</en>.
       <ul>
         <li>Chaidh Màiri dhan leabaidh. Bhrùchd i fad na h-oidhche. Dh’èirich i aig briseadh an latha.</li>
@@ -2211,22 +2206,22 @@
       </ul>
       </p>
       <p lang="gd"></p>
-      <p lang="en">Perfective verb senses can be used in narrative foreground.
+      <p>Perfective verb senses can be used in narrative foreground.
         <ul>
           <li>Thig Seumas a-steach. Chlisg Màiri. Shuidh i sìos.</li>
           <li>Chaidh Raonaid don ionad-spòrs. Shnàmh i, ghabh i fras, agus chaidh i dhachaigh.</li>
         </ul>
       </p>
       <p lang="gd"></p>
-      <p lang="en">When a verb form is associated with a <u>non-bounded</u> sense, it is being used
+      <p>When a verb form is associated with a <u>non-bounded</u> sense, it is being used
         as an imperfective verb.</p>
       <p lang="gd"/>
-      <p lang="en">Is bi the only imperfective verb??</p>
-      <p lang="gd">...</p>
+      <p>Is bi the only imperfective verb??</p>
+      
     </module>
     <module id="telic">
-      <h lang="en">telic vs. atelic</h>
+      <h>telic vs. atelic</h>
       <h lang="gd"/>
     </module>
-  </module>
+  </module>-->
 </module>
