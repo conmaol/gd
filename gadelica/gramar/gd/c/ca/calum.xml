@@ -16,6 +16,24 @@
     </section>
 
     <section>
+        <h>dependents</h>
+        <section id="deps-mods">
+            <h>modifiers</h>
+            <p>Like all proper nouns, <g>Calum</g> can be modified by an attributive <a
+                    href="?xx=adjectives/adjective">adjective</a>.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Tha <m>Calum mór</m> agus Màiri bheag ag obair gu trang anns an achadh
+                            an diugh.</gd>
+                        <tr>Big Malcolm and little Mary are working busily in the field today.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
@@ -36,13 +54,34 @@
             <p>In a conjoined subject with <a href="?gd=agus"><g>agus</g></a>
                 <en>and</en> – <xl>
                     <li>
-                        <gd>Tha <m>Màiri agus Calum</m> trang an diugh – tha iad ag obair anns an achadh.</gd>
+                        <gd>Tha <m>Màiri agus Calum</m> trang an diugh – tha iad ag obair anns an
+                            achadh.</gd>
                         <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
                         <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>Calum mór agus Màiri bheag</m> ag obair gu trang anns an achadh
+                            an diugh.</gd>
+                        <tr>Big Malcolm and little Mary are working busily in the field today.</tr>
+                        <ref text="617">td. 9</ref>
                     </li>
                 </xl>
             </p>
         </section>
+        <section id="uses-comp">
+            <h>complement</h>
+            <p><g>Calum</g> can be used as the complement of a preposition.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Tha falt dubh <m>air Calum</m> ach tha falt bàn air Màiri.</gd>
+                        <tr>Calum has black hair but Mary has fair hair.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+
+
     </section>
 
 </module>

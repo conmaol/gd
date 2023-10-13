@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
-    <h>definite article</h>
-    <p>The definite article is a <a href="?xx=nouns/determiners">determiner</a>.</p>
+  <h>definite article</h>
+  <p>The definite article is a <a href="?xx=nouns/determiners">determiner</a>.</p>
 
-    <!--
+  <!--
     <section>
         <h>dependents</h>
         <section id="deps-mods">
@@ -23,73 +23,75 @@
         </section>
     </section>-->
 
-    <section>
-        <h>uses</h>
-        <section id="uses-spr">
-            <h>specifier</h>
-            <p>Like all determiners, the definite article functions as the pre-specifier of a <a
-                    href="?xx=nouns/common_nouns">common noun</a>.</p>
-            <p>Some examples involving animals – <ul>
-                    <li>as subject of <a href="?gd=bi"><g>bi</g></a> – <xl>
-                            <li>
-                                <gd>Tha <m>an cù</m> dubh ach tha <m>an cat</m> bàn.</gd>
-                                <tr>The dog is black but the cat is white.</tr>
-                                <ref text="617">td. 6</ref>
-                            </li>
-                            <li>
-                                <gd>Tha <m>an cù</m> mòr ach tha <m>an cat</m> beag.</gd>
-                                <tr>The dog is big but the cat is small.</tr>
-                                <ref text="617">td. 6</ref>
-                            </li>
-                            <li>
-                                <gd>Tha <m>an cù</m> aig an dorus agus tha <m>an cat</m> aig an
-                                    teine.</gd>
-                                <tr>The dog is at the door and the cat is by the fire.</tr>
-                                <ref text="617">td. 6</ref>
-                            </li>
-                        </xl></li>
-                </ul>
-            </p>
-            <p>Some examples involving inanimate things – <ul>
-                    <li>as subject of <a href="?gd=bi"><g>bi</g></a> – <xl>
-                            <li>
-                                <gd>Tha <m>an dorus</m> mór agus tha <m>an teine</m> mór.</gd>
-                                <tr>The door is big and the fire is big.</tr>
-                                <ref text="617">td. 6</ref>
-                            </li>
-                        </xl></li>
-                    <li>as complement of a preposition – <xl>
-                            <li>
-                                <gd>Tha an cù <m>aig an dorus</m> agus tha an cat <m>aig an
-                                        teine</m>.</gd>
-                                <tr>The dog is at the door and the cat is by the fire.</tr>
-                                <ref text="617">td. 6</ref>
-                            </li>
-                            <li>
-                                <gd>Tha teas <m>anns an teine</m>.</gd>
-                                <tr>There is heat in the fire.</tr>
-                                <ref text="617">td. 6</ref>
-                            </li>
-                            <li>
-                                <gd>Chunnaic mi cù <m>aig an dorus</m>.</gd>
-                                <tr>I saw a dog at the door.</tr>
-                                <ref text="617">td. 6</ref>
-                            </li>
-                            <li>
-                                <gd>Tha Màiri agus Calum ag obair <m>anns an achadh</m> an
-                                    diugh.</gd>
-                                <tr>Mary and Malcolm are working in the field today.</tr>
-                                <ref text="617">td. 6–7</ref>
-                            </li>
-                        </xl>
-                    </li>
-                </ul>
-            </p>
+  <section>
+    <h>uses</h>
+    <section id="uses-spr">
+      <h>specifier</h>
+      <p>Like all determiners, the definite article functions as the pre-specifier of a <a
+          href="?xx=nouns/common_nouns">common noun</a>.</p>
+      <p>Some examples involving animals – <ul>
+          <li>as subject of <a href="?gd=bi"><g>bi</g></a> – <xl>
+              <li>
+                <gd>Tha <m>an cù</m> dubh ach tha <m>an cat</m> bàn.</gd>
+                <tr>The dog is black but the cat is white.</tr>
+                <ref text="617">td. 6</ref>
+              </li>
+              <li>
+                <gd>Tha <m>an cù</m> mòr ach tha <m>an cat</m> beag.</gd>
+                <tr>The dog is big but the cat is small.</tr>
+                <ref text="617">td. 6</ref>
+              </li>
+              <li>
+                <gd>Tha <m>an cù</m> aig an dorus agus tha <m>an cat</m> aig an teine.</gd>
+                <tr>The dog is at the door and the cat is by the fire.</tr>
+                <ref text="617">td. 6</ref>
+              </li>
+              <li>
+                <gd>Tha <m>an cat</m> beag bàn aig an teine.</gd>
+                <tr>The little white cat is by the fire.</tr>
+                <ref text="617">td. 9</ref>
+              </li>
+            </xl></li>
+        </ul>
+      </p>
+      <p>Some examples involving inanimate things – <ul>
+          <li>as subject of <a href="?gd=bi"><g>bi</g></a> – <xl>
+              <li>
+                <gd>Tha <m>an dorus</m> mór agus tha <m>an teine</m> mór.</gd>
+                <tr>The door is big and the fire is big.</tr>
+                <ref text="617">td. 6</ref>
+              </li>
+            </xl></li>
+          <li>as complement of a preposition – <xl>
+              <li>
+                <gd>Tha an cù <m>aig an dorus</m> agus tha an cat <m>aig an teine</m>.</gd>
+                <tr>The dog is at the door and the cat is by the fire.</tr>
+                <ref text="617">td. 6</ref>
+              </li>
+              <li>
+                <gd>Tha teas <m>anns an teine</m>.</gd>
+                <tr>There is heat in the fire.</tr>
+                <ref text="617">td. 6</ref>
+              </li>
+              <li>
+                <gd>Chunnaic mi cù <m>aig an dorus</m>.</gd>
+                <tr>I saw a dog at the door.</tr>
+                <ref text="617">td. 6</ref>
+              </li>
+              <li>
+                <gd>Tha Màiri agus Calum ag obair <m>anns an achadh</m> an diugh.</gd>
+                <tr>Mary and Malcolm are working in the field today.</tr>
+                <ref text="617">td. 6–7</ref>
+              </li>
+            </xl>
+          </li>
+        </ul>
+      </p>
 
 
 
 
-            <!--
+      <!--
             <p>Older pedagogical examples – <xl id="spec-older-pedag">
                     <li>
                         <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
@@ -132,11 +134,11 @@
                 
                 </xl>
             </p>-->
-        </section>
     </section>
+  </section>
 
 
-    <!--<module>
+  <!--<module>
   <title xml:lang="en"><mark>the</mark> – definite article</title>
   <!-\-  <title xml:lang="gd">an t-alt cinnteach</title>-\->
   <p xml:lang="en">There are four <u>basic</u> forms of the definite article in Gaelic –</p>

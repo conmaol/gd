@@ -37,6 +37,26 @@
             </p>
 
         </section>
+
+        <section id="uses-mod">
+            <h>modifier</h>
+            <p><g>bàn</g> can be used to modify a <a href="?xx=nouns/common_nouns">common
+                noun</a>.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Tha an <m>cat beag bàn</m> aig an teine.</gd>
+                        <tr>The little white cat is by the fire.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                    <li>
+                        <gd>Tha falt dubh air Calum ach tha <m>falt bàn</m> air Màiri.</gd>
+                        <tr>Calum has black hair but Mary has fair hair.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+
     </section>
 
 

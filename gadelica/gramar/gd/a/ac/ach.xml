@@ -19,11 +19,16 @@
             <tr>The dog is big but the cat is small.</tr>
             <ref text="617">td. 6</ref>
           </li>
-        <li>
-          <gd><m>Tha</m> Màiri beag ach <m>tha</m> Calum mór.</gd>
-          <tr>Mary is small but Malcolm is big.</tr>
-          <ref text="617">td. 6</ref>
-        </li>
+          <li>
+            <gd><m>Tha</m> Màiri beag ach <m>tha</m> Calum mór.</gd>
+            <tr>Mary is small but Malcolm is big.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+          <li>
+            <gd><m>Tha</m> falt dubh air Calum ach <m>tha</m> falt bàn air Màiri.</gd>
+            <tr>Calum has black hair but Mary has fair hair.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
         </xl></p>
     </section>
   </section>
@@ -43,11 +48,16 @@
             <tr>The dog is big but the cat is small.</tr>
             <ref text="617">td. 6</ref>
           </li>
-        <li>
-          <gd>Tha Màiri beag <m>ach</m> tha Calum mór.</gd>
-          <tr>Mary is small but Malcolm is big.</tr>
-          <ref text="617">td. 6</ref>
-        </li>
+          <li>
+            <gd>Tha Màiri beag <m>ach</m> tha Calum mór.</gd>
+            <tr>Mary is small but Malcolm is big.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+          <li>
+            <gd>Tha falt dubh air Calum <m>ach</m> tha falt bàn <m>air Màiri</m>.</gd>
+            <tr>Calum has black hair but Mary has fair hair.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
         </xl></p>
     </section>
   </section>

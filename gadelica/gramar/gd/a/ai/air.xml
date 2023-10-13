@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
   <!-- G12W 1–6 done -->
   <h>air</h>
   <p><g>air</g>
     <en>on, upon</en> is the (non-leniting) superessive <a href="?xx=prepositions/prepositions"
       >preposition</a>.</p>
-  <section>
+  <section id="forms">
     <h>forms</h>
     <section id="indefinite">
       <h>indefinite</h>
@@ -98,6 +98,23 @@
       </p>
     </section>
   </section>
+
+  <section>
+    <h>dependents</h>
+    <section id="complement">
+      <h>complement</h>
+      <p>Like all (true) prepositions, <g>air</g> governs a noun complement in the dative case.</p>
+      <p>Examples with human complements – <xl>
+          <li>
+            <gd>Tha falt dubh <m>air Calum</m> ach tha falt bàn <m>air Màiri</m>.</gd>
+            <tr>Calum has black hair but Mary has fair hair.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
+
 
   <!--<section>
     <h>dependents</h>
@@ -366,7 +383,27 @@
       </section>
     </section>
   </section>-->
+
   <section>
+    <h>uses</h>
+    <section id="uses-pred">
+      <h>predicate</h>
+      <p>One common use of the preposition <g>air</g> is to introduce the predicate of the verb <a
+        href="?gd=bi"><g>bi</g></a> – <xl>
+          <li>
+            <gd>Tha falt dubh <m>air</m> Calum ach tha falt bàn <m>air</m> Màiri.</gd>
+            <tr>Calum has black hair but Mary has fair hair.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
+
+
+
+
+  <!--<section>
     <h>uses</h>
     <section id="uses-pred">
       <h>predicate</h>
@@ -741,7 +778,7 @@
     </section>
 
 
-<!--
+    <!-\-
     <section id="uses-comp">
       <h>complement</h>
       <p><g>air</g> can introduce the complement of a verb – <ul>
@@ -864,8 +901,8 @@
         </ul>
       </p>
     </section>
-    -->
-  </section>
+    -\->
+  </section>-->
 
   <section id="etymology">
     <h>etymology</h>
@@ -882,7 +919,7 @@
     </p>
   </section>
 
-<!--
+  <!--
   <section>
     <h>examples</h>
     <p>

@@ -27,6 +27,12 @@
                         <tr>Little Mary is fair-haired.</tr>
                         <ref text="617">td. 9</ref>
                     </li>
+                    <li>
+                        <gd>Tha Calum mór agus <m>Màiri bheag</m> ag obair gu trang anns an achadh
+                            an diugh.</gd>
+                        <tr>Big Malcolm and little Mary are working busily in the field today.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
                 </xl>
             </p>
         </section>
@@ -62,7 +68,25 @@
                         <tr>Mary and Malcolm are working in the field today.</tr>
                         <ref text="617">td. 6–7</ref>
                     </li>
+                    <li>
+                        <gd>Tha <m>Calum mór agus Màiri bheag</m> ag obair gu trang anns an achadh
+                            an diugh.</gd>
+                        <tr>Big Malcolm and little Mary are working busily in the field today.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
                 </xl>
+            </p>
+        </section>
+        <section id="uses-comp">
+            <h>complement</h>
+            <p><g>Màiri</g> can be used as the complement of a preposition.</p>
+            <p>Some examples – <xl>
+                <li>
+                    <gd>Tha falt dubh air Calum ach tha falt bàn <m>air Màiri</m>.</gd>
+                    <tr>Calum has black hair but Mary has fair hair.</tr>
+                    <ref text="617">td. 9</ref>
+                </li>
+            </xl>
             </p>
         </section>
     </section>
