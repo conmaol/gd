@@ -16,6 +16,23 @@
     </section>
 
     <section>
+        <h>dependents</h>
+        <section id="deps-mods">
+            <h>modifiers</h>
+            <p>Like all proper nouns, <g>Màiri</g> can be modified by an attributive <a href="?xx=adjectives/adjective">adjective</a>.</p>
+            <p>Some examples –
+                <xl>
+                    <li>
+                        <gd>Tha <m>Màiri bheag</m> bàn.</gd>
+                        <tr>Little Mary is fair-haired.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
@@ -30,6 +47,11 @@
                         <gd>Tha <m>Màiri</m> ag obair.</gd>
                         <tr>Mary is working.</tr>
                         <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>Màiri</m> beag bàn.</gd>
+                        <tr>Mary is small and fair-haired.</tr>
+                        <ref text="617">td. 8</ref>
                     </li>
                 </xl>
             </p>

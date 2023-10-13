@@ -19,6 +19,19 @@
                 </xl>
             </p>
         </section>
+        <section id="uses-mod">
+            <h>modifier</h>
+            <p><g>dubh</g> can be used to modify a <a href="?xx=nouns/common_nouns">common noun</a> –
+            <xl>
+                <li>
+                    <gd>Tha an <m>cù dubh</m> aig an dorus.</gd>
+                    <tr>The black dog is at the door.</tr>
+                    <ref text="617">td. 9</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+        
     </section>
 
 </module>

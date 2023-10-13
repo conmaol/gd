@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
   <h>nouns</h>
-  <p>Nouns are words which typically describe or identify tangible <emph>material</emph> entities –
-    people, animals, artifacts, substances, places <etc/>.</p>
+  <p>Nouns are words which typically describe or identify tangible material entities – people,
+    animals, artifacts, substances, places, ...</p>
+  <p>Every word which introduces a tangible material entity is a noun, though not every noun
+    introduces a tangible material entity (cf. abstract nouns).</p>
   <p>Nouns are divided into two groups, depending on the way in which they relate to the entities
     they describe or identify – <ol>
       <li><a href="?xx=nouns/proper_nouns">Proper nouns</a> are <a href="?xx=nouns/names">names</a>
@@ -24,14 +26,16 @@
     </ol>
   </p>
 
-<!--
+
+
+  <!--
   <section>
     <h>derivation</h>
     <p><ed>to come</ed></p>
   </section>
   -->
 
-  <section id="forms">
+  <!--<section id="forms">
     <h>forms</h>
     <p>Nouns have <emph>number</emph> – every noun form is either <emph>singular</emph> or
         <emph>plural</emph> – <ul>
@@ -49,7 +53,7 @@
       <en>books</en>, <g>balach</g>
       <en>boy</en> ~ <g>balaich</g>
       <en>boys</en>. </p>
-    <!--<p><ed>Add note on legacy dual number here?</ed></p>-->
+    <!-\-<p><ed>Add note on legacy dual number here?</ed></p>-\->
     <p>Singular nouns have <emph>gender</emph> – every singular noun form (including those
       describing inanimate entities) is either <emph>feminine</emph> or <emph>masculine</emph> – <ul>
         <li><g>Nirribhidh</g>
@@ -61,7 +65,7 @@
           <en>town</en> and <g>airgead</g>
           <en>silver, money</en> are all masculine singular noun forms.</li>
       </ul> Note that the gender of inanimate nouns is unpredictable from their meaning.</p>
-    <!--<p><ed>Add note on (historical) neuter gender here?</ed></p>-->
+    <!-\-<p><ed>Add note on (historical) neuter gender here?</ed></p>-\->
     <p>Nouns have <emph>case</emph> – every noun form is either <emph>nominative</emph> or
         <emph>dative</emph> or <emph>genitive</emph> – <ul>
         <li>The genitive form of the masculine singular proper noun <g>Seòras</g>
@@ -73,16 +77,17 @@
           <en>dogs</en> is <g>con</g>, and the dative is just <g>coin</g>.</li>
       </ul>
     </p>
-    <!--<p><ed>Add note on vocative ‘case’ here? And (historical) accusatives?</ed></p>-->
-    <p><!--<a href="?xx=nouns/pronouns">-->Pronouns<!--</a>--> are noun-like words which refer to specific
-      entities identifiable from (linguistic or extralinguistic) context – <!--<a href="?gd=sinn"
-          >--><g>sinn</g><!--</a>-->
-      <en>we, us</en>, <!--<a href="?gd=i">--><g>ise</g><!--</a>-->
-      <en>she, her</en>, <!--<a href="?gd=seo">--><g>seo</g><!--</a>-->
+    <!-\-<p><ed>Add note on vocative ‘case’ here? And (historical) accusatives?</ed></p>-\->
+    <p><!-\-<a href="?xx=nouns/pronouns">-\->Pronouns<!-\-</a>-\-> are noun-like words which refer to
+      specific entities identifiable from (linguistic or extralinguistic) context –
+        <!-\-<a href="?gd=sinn"
+          >-\-><g>sinn</g><!-\-</a>-\->
+      <en>we, us</en>, <!-\-<a href="?gd=i">-\-><g>ise</g><!-\-</a>-\->
+      <en>she, her</en>, <!-\-<a href="?gd=seo">-\-><g>seo</g><!-\-</a>-\->
       <en>this (thing)</en>.</p>
-  </section>
+  </section>-->
 
-  <section>
+  <!--<section>
     <h>dependents</h>
     <section id="modifiers">
       <h>modifiers</h>
@@ -92,7 +97,8 @@
             <en>a white house</en>, <g>Màiri <emph>Bhàn</emph>
               <emph>Niseach</emph></g>
             <en>Fair-haired Mary from Ness</en></li>
-          <li>a genitive <a href="?xx=nouns/common_nouns">common noun</a> – <g>cù <emph>taighe</emph></g>
+          <li>a genitive <a href="?xx=nouns/common_nouns">common noun</a> – <g>cù
+                <emph>taighe</emph></g>
             <en>a house dog</en>, <g>taigh <emph>chon</emph></g>
             <en>a kennel (lit. dogs’ house)</en></li>
           <li>a <a href="?xx=prepositions/prepositions">preposition</a> (phrase) – <g>caileag
@@ -119,7 +125,7 @@
                   <en>a small English sheep</en></li>
                 <li><g>Mòrag <emph>chr</emph>idhe</g>
                   <en>beloved Sarah</en>
-                  <!--<ed>okay?</ed>--></li>
+                  <!-\-<ed>okay?</ed>-\-></li>
               </ul></li>
             <li>modifiers of <emph>dative feminine</emph> (singular) nouns – <ul>
                 <li>le <g>caileig <emph>mh</emph>òir <emph>sh</emph>ona</g>
@@ -149,7 +155,7 @@
                   ghil]</li>
                 <li>claidheamh <g>Ghriogail <emph>chr</emph>idhe</g>
                   <en>beloved Gregor’s sword</en>
-                  <!--<ed>okay?</ed>--></li>
+                  <!-\-<ed>okay?</ed>-\-></li>
               </ul>
             </li>
             <li>modifiers of <emph>slenderised (non-genitive) plural</emph> (common) nouns – <ul>
@@ -159,7 +165,7 @@
                   <en>(on) white snowmen</en> [alt. (air) bodaich-shneachda gheala]</li>
                 <li>(aig) <g>caoraich <emph>bh</emph>eaga <emph>Sh</emph>asannach</g>
                   <en>(at) small English sheep</en>
-                  <!--<ed>grammatical?</ed>--></li>
+                  <!-\-<ed>grammatical?</ed>-\-></li>
               </ul>
             </li>
             <li>modifiers of <emph>all</emph> (singular common) nouns <emph>pre-specified by the
@@ -168,7 +174,8 @@
                 <li>leis a’ <g>bhalach <emph>mh</emph>òr <emph>ch</emph>rosta</g>
                   <en>with the naughty big boy</en></li>
                 <li>aig a’ <g>bhodach <emph>shn</emph>eachda <emph>gh</emph>eal</g>
-                  <en>at the white snowman</en> [<emph>alt.</emph> aig a’ bhodach-shneachda gheal]</li>
+                  <en>at the white snowman</en> [<emph>alt.</emph> aig a’ bhodach-shneachda
+                  gheal]</li>
                 <li><emph>but</emph> – <bad>anns an taigh thasgaidh dhùthchail</bad></li>
               </ul>
             </li>
@@ -187,14 +194,14 @@
                   <en>(the) large kennels’ roofs</en></li>
               </ul>
             </li>
-            <li>modifiers of (common) nouns pre-numerated by <!--<a href="?gd=dà">--><g>dà</g><!--</a>-->
+            <li>modifiers of (common) nouns pre-numerated by <!-\-<a href="?gd=dà">-\-><g>dà</g><!-\-</a>-\->
               <en>two</en> are <emph>always</emph> lenited – <ul>
                 <li>(an) <g>dà bhalach <emph>mh</emph>òr <emph>ch</emph>rosta</g>
                   <en>(the) two naughty big boys</en></li>
                 <li>guthan (an) <g>dà chaileige <emph>mh</emph>òire <emph>sh</emph>ona</g>
                   <en>(the) two big happy girls’ voices</en> [<emph>alt.</emph> guthan dà chaileig
-                  mhòir shona] <!--<ed>??</ed>--></li>
-                <!--<li><ed>need more examples here?</ed></li>-->
+                  mhòir shona] <!-\-<ed>??</ed>-\-></li>
+                <!-\-<li><ed>need more examples here?</ed></li>-\->
               </ul>
             </li>
           </ul>
@@ -213,8 +220,8 @@
                   <en>a rural museum</en> [<emph>alt.</emph> taigh-tasgaidh dùthchail]</li>
                 <li><g>bodach <emph>sn</emph>eachda <emph>ge</emph>al</g>
                   <en>a white snowman</en> [<emph>alt.</emph> bodach-sneachda geal]</li>
-              <li><g>Griogal <emph>cr</emph>idhe</g>
-                <en>beloved Gregor</en></li>
+                <li><g>Griogal <emph>cr</emph>idhe</g>
+                  <en>beloved Gregor</en></li>
               </ul>
             </li>
             <li>modifiers of <emph>dative masculine</emph> (singular) nouns <emph>not pre-specified
@@ -224,11 +231,12 @@
                 <li>air <g>Seumas <emph>B</emph>eag <emph>b</emph>ochd</g>
                   <en>on poor Little James</en></li>
                 <li>ann an <g>taigh <emph>t</emph>asgaidh <emph>d</emph>ùthchail</g>
-                  <en>in a rural museum</en> [<emph>alt.</emph> ann an taigh-tasgaidh dùthchail]</li>
+                  <en>in a rural museum</en> [<emph>alt.</emph> ann an taigh-tasgaidh
+                  dùthchail]</li>
                 <li>aig <g>bodach <emph>sn</emph>eachda <emph>ge</emph>al</g>
                   <en>at a white snowman</en> [<emph>alt.</emph> aig bodach-sneachda geal]</li>
-                  <li>do <g>Ghriogal <emph>cr</emph>idhe</g>
-                    <en>to beloved Gregor</en></li>
+                <li>do <g>Ghriogal <emph>cr</emph>idhe</g>
+                  <en>to beloved Gregor</en></li>
               </ul>
             </li>
             <li>modifiers of <emph>unlenited dative masculine</emph> (singular) (common) nouns
@@ -242,38 +250,42 @@
                   shona]</li>
                 <li>ad <g>Màiri <emph>B</emph>àine <emph>b</emph>òidh[i]che</g>
                   <en>beautiful Fair-haired Mary’s hat</en> [<emph>alt.</emph> ad Màiri Bhàin
-                  bhòidhich] <!--<ed>not sure here</ed>--></li>
+                  bhòidhich] <!-\-<ed>not sure here</ed>-\-></li>
                 <li>coltas <g>cloiche <emph>m</emph>uillinn <emph>d</emph>uibhe</g>
                   <en>a black millstone’s appearance</en> [<emph>alt.</emph> coltas cloich-mhuillinn
                   dhuibh]</li>
                 <li>màthair <g>caorach <emph>b</emph>ige <emph>S</emph>asannaiche</g>
                   <en>a small English sheep’s mother</en> [<emph>alt.</emph> màthair caorach bhig
-                  Shasannaich] <!--<ed>not sure here</ed>--></li>
-              <li>cù <g>Mòraig <emph>cr</emph>idhe</g>
-                <en>beloved Sarah’s dog</en>
-                <!--<ed>okay?</ed>--></li>
+                  Shasannaich] <!-\-<ed>not sure here</ed>-\-></li>
+                <li>cù <g>Mòraig <emph>cr</emph>idhe</g>
+                  <en>beloved Sarah’s dog</en>
+                  <!-\-<ed>okay?</ed>-\-></li>
               </ul></li>
             <li>modifiers of <emph>non-slenderised plural</emph> (common) nouns (incl. all genitive
               plurals) – <ul>
                 <li>(ann an) <g>taighean <emph>t</emph>asgaidh <emph>d</emph>ùthchail</g>
-                  <en>(in) rural museums</en> [<emph>alt.</emph> (ann an) taighean-tasgaidh dùthchail]</li>
+                  <en>(in) rural museums</en> [<emph>alt.</emph> (ann an) taighean-tasgaidh
+                  dùthchail]</li>
                 <li>(le) <g>caileagan <emph>m</emph>òra <emph>s</emph>ona</g>
                   <en>(with) happy big girls</en></li>
                 <li>(air) <g>clachan <emph>m</emph>uillinn <emph>d</emph>ubha</g>
-                  <en>(on) black millstones</en> [<emph>alt.</emph> (air) clachan-muillinn dubha]</li>
+                  <en>(on) black millstones</en> [<emph>alt.</emph> (air) clachan-muillinn
+                  dubha]</li>
                 <li>dorsan <g>t[h]aighean <emph>t</emph>asgaidh <emph>d</emph>ùthchail</g>
-                  <en>rural museum’s doors</en> [<emph>alt.</emph> dorsan t[h]aighean-tasgaidh dùthchail]
-                  <!--<ed>lenition with indefinite specifiers?</ed>--></li>
+                  <en>rural museum’s doors</en> [<emph>alt.</emph> dorsan t[h]aighean-tasgaidh
+                  dùthchail] <!-\-<ed>lenition with indefinite specifiers?</ed>-\-></li>
                 <li>guthan <g>c[h]aileag[an] <emph>m</emph>òra <emph>s</emph>ona</g>
                   <en>happy big girls’ voices</en></li>
                 <li>coltas <g>c[h]lach[an] <emph>m</emph>uillinn <emph>d</emph>ubha</g>
-                  <en>black millstones’ appearance</en> [<emph>alt.</emph> coltas c[h]lachan-muillinn dubha]</li>
+                  <en>black millstones’ appearance</en> [<emph>alt.</emph> coltas
+                  c[h]lachan-muillinn dubha]</li>
                 <li>màthraichean <g>c[h]aorach <emph>b</emph>eaga <emph>S</emph>asannach</g>
                   <en>small English sheep’s mothers</en></li>
                 <li>cinn <g>b[h]alach <emph>m</emph>òra <emph>c</emph>rosta</g>
                   <en>naughty big boys’ heads</en></li>
                 <li>currain <g>b[h]odach <emph>sn</emph>eachda <emph>ge</emph>ala</g>
-                  <en>white snowmen’s carrots</en> [<emph>alt.</emph> currain b[h]odach-sneachda geala]</li>
+                  <en>white snowmen’s carrots</en> [<emph>alt.</emph> currain b[h]odach-sneachda
+                  geala]</li>
               </ul>
             </li>
           </ul>
@@ -284,8 +296,8 @@
     <section id="specifier">
       <h>specifier</h>
       <p>A noun can have a <emph>specifier</emph>, which is either – <ol>
-          <li>a <!--<a href="?xx=nouns/determiners">-->determiner<!--</a>--> as <emph>pre</emph>-specifier –
-                <g><emph>an</emph> taigh</g>
+          <li>a <!-\-<a href="?xx=nouns/determiners">-\->determiner<!-\-</a>-\-> as
+            <emph>pre</emph>-specifier – <g><emph>an</emph> taigh</g>
             <en>the house</en>, <g><emph>ar</emph> cù</g>
             <en>our dog</en></li>
           <li>a (usually genitive) noun as <emph>post</emph>-specifier – <g>taigh a’
@@ -301,12 +313,13 @@
       <h>apposition</h>
       <p>Two nouns can stand in <emph>apposition</emph> (under certain conditions), agreeing for
         case (and number) – <g><emph>Dòmhnall</emph> an <emph>sagart</emph> Èireannach</g>
-        <en>Donald the Irish priest</en>, <g><emph>Glaschu</emph> – <emph>baile</emph> mòr nan Gàidheal</g>
+        <en>Donald the Irish priest</en>, <g><emph>Glaschu</emph> – <emph>baile</emph> mòr nan
+          Gàidheal</g>
         <en>Glasgow, the city of the Gaels</en>.</p>
     </section>
-  </section>
+  </section>-->
 
-  <section>
+  <!--<section>
     <h>uses</h>
     <section id="nominative">
       <h>nominative</h>
@@ -317,7 +330,7 @@
             <en>she saw James</en>.</li>
         </ul>
       </p>
-      <!--<p><ed>(Pseudo-)Prepositions taking nominative?</ed></p>-->
+      <!-\-<p><ed>(Pseudo-)Prepositions taking nominative?</ed></p>-\->
     </section>
 
     <section id="dative">
@@ -334,19 +347,20 @@
     <section id="genitive">
       <h>genitive</h>
       <p>The main uses of <emph>genitive</emph> noun forms are – <ul>
-          <li>to introduce the <emph>specifier</emph> of another noun – <g>taigh <emph>Sheumais</emph></g>
+          <li>to introduce the <emph>specifier</emph> of another noun – <g>taigh
+                <emph>Sheumais</emph></g>
             <en>James’ house</en></li>
           <li>to introduce a common noun which <emph>modifies</emph> a preceding common noun –
               <g>taigh <emph>chon</emph></g>
             <en>kennel</en>.</li>
         </ul>
       </p>
-      <!--<p><ed>(Pseudo-)Prepositions taking nominative? Prepositional compounds? Verbal
-        nouns?</ed></p>-->
+      <!-\-<p><ed>(Pseudo-)Prepositions taking nominative? Prepositional compounds? Verbal
+        nouns?</ed></p>-\->
     </section>
-  </section>
+  </section>-->
 
-  <section>
+  <!--<section>
     <h>senses</h>
     <section id="concrete">
       <h>concrete / abstract</h>
@@ -366,8 +380,8 @@
             <en>Latin</en> are being used as abstract nouns here.</li>
         </ul>
       </p>
-      <!--<p><ed>Still need clarification on whether ‘Laideann’ or ‘Laidinn’ is better in
-          nominative.</ed></p>-->
+      <!-\-<p><ed>Still need clarification on whether ‘Laideann’ or ‘Laidinn’ is better in
+          nominative.</ed></p>-\->
       <p>Most nouns are generally either predominantly concrete or predominantly abstract. However
         some can be either depending on context – <ul>
           <li><g>Tha Dòmhnall a’ sgrìobhadh <emph>leabhair</emph></g>
@@ -415,5 +429,5 @@
         </ul>
       </p>
     </section>
-  </section>
+  </section>-->
 </module>

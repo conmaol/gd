@@ -19,7 +19,26 @@
                                     href="?gd=Calum"><g>Calum</g></a></li>
                         </ul>
                     </li>
-                    <li><a href="?xx=nouns/pronouns">pronouns</a></li>
+                    <li><a href="?xx=nouns/common_nouns">common nouns</a>
+                        <ul>
+                            <li><a href="?xx=nouns/simple_common_nouns">simple common nouns</a> – <a
+                                    href="?gd=achadh"><g>achadh</g></a>, <a href="?gd=cat"
+                                        ><g>cat</g></a>, <a href="?gd=cuu"><g>cù</g></a>, <a
+                                    href="?gd=dorus"><g>dorus</g></a>, <a href="?gd=falt"
+                                        ><g>falt</g></a>, <a href="?gd=iolair"><g>iolair</g></a>, <a
+                                    href="?gd=obair"><g>obair</g></a>, <a href="?gd=teas"
+                                        ><g>teas</g></a>, <a href="?gd=teine"><g>teine</g></a></li>
+                        </ul>
+                    </li>
+                    <li><a href="?xx=nouns/pronouns">pronouns</a>
+                        <ul>
+                            <li>personal pronouns – mi, thu, sinn, sibh, i, e, iad</li>
+                        </ul>
+                    </li>
+                    <li>determiners <ul>
+                            <li>definite article</li>
+                        </ul>
+                    </li>
                 </ul>
             </li>
             <li><a href="?xx=adjectives/adjectives">adjectives</a>
@@ -41,10 +60,9 @@
                 ><g>ach</g></a></li>
         </ul>
     </p>
-    <p>The following semantic topics are discussed here –
-    <ul>
-        <li>names</li>
-    </ul>
+    <p>The following semantic topics are discussed here – <ul>
+            <li>names</li>
+        </ul>
     </p>
 
 

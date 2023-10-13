@@ -355,9 +355,9 @@
                       <ref text="617">td. 6</ref>
                     </li>
                     <li>
-                      <gd>Tha an <m>cù</m> aig an dorus.</gd>
-                      <tr>The dog is at the door.</tr>
-                      <ref text="617">td. 6</ref>
+                      <gd>Tha an <m>cù</m> dubh aig an dorus.</gd>
+                      <tr>The black dog is at the door.</tr>
+                      <ref text="617">td. 9</ref>
                     </li>
                   </xl></li>
                 <li>inanimate/abstract – <xl>
@@ -598,6 +598,12 @@
           <p><g>bi</g> can take more than one predicate, without needing an explicit conjunction <a
               href="?gd=agus"><g>agus</g></a>
             <en>and</en> – <xl>
+              <li>
+                <gd>Tha Màiri <m>beag</m>
+                  <m>bàn</m>.</gd>
+                <tr>Mary is small and fair-haired.</tr>
+                <ref text="617">td. 8</ref>
+              </li>
               <li>
                 <gd>Tha iad <m>fuar</m>
                   <m>ag obair</m> anns an achadh an diugh.</gd>

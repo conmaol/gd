@@ -1,20 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
   <h>anthroponymic proper nouns</h>
   <p>Anthroponymic proper nouns are <a href="?xx=nouns/proper_nouns">proper nouns</a> which are also
       <a href="?xx=nouns/anthroponyms">anthroponyms</a> – nouns which identify individual persons
-    (and other personified entities like toys, boats, pets). Examples of anthroponymic proper nouns
-    are <g>Mairead</g>
+    (and other personified entities like toys, boats, pets).</p>
+
+  <p>Examples of anthroponymic proper nouns are <a href="?gd=Maairi"><g>Màiri</g></a>
     <fem/>
-    <en>Margaret</en>, <g>Seumas</g>
+    <en>Mary</en>, <a href="?gd=Calum"><g>Calum</g></a>
     <masc/>
-    <en>James</en>.</p>
-  <p>Anthroponymic proper nouns contrast with <a href="?xx=nouns/anthroponymic_name_descriptions"
+    <en>Malcolm</en>.</p>
+  <!--<p>Anthroponymic proper nouns contrast with <a href="?xx=nouns/anthroponymic_name_descriptions"
       >anthroponymic name-descriptions</a> like <g>An Caiptean</g>
     <en>The Captain</en> or <g>Bean Alasdair</g>
-    <en>Alexander’s Wife</en>.</p>
+    <en>Alexander’s Wife</en>.</p>-->
 
-  <section id="derivation">
+  <!--<section id="derivation">
     <h>derivation</h>
     <section>
       <h>simple</h>
@@ -163,15 +164,15 @@
         </ul>
       </p>
     </section>
-    <!--
+    <!-\-
     <section>
       <h>compounds</h>
       <p><ed>Compounds? GilleEasbaig? Gillebrìde? Are these name-descriptions?</ed></p>
     </section>
-    -->
-  </section>
+    -\->
+  </section>-->
 
-  <section id="forms">
+  <!--<section id="forms">
     <h>forms</h>
     <p>Like all proper nouns, anthroponymic proper nouns have - <ul>
         <li>gender – every anthroponymic proper noun is either feminine or masculine – <ul>
@@ -195,13 +196,13 @@
     </p>
     <p>As with other proper nouns, the dative and genitive forms of a feminine anthroponymic proper
       noun are created by slenderising the corresponding nominative form (<g>Mairead</g> ⇒
-          <g>Maire<emph>id</emph></g><!--<ed>Never Maireide?</ed>-->), and the genitive form of a masculine anthroponymic proper
+          <g>Maire<emph>id</emph></g><!-\-<ed>Never Maireide?</ed>-\->), and the genitive form of a masculine anthroponymic proper
       noun is created by both slenderising and leniting the corresponding nominative form
         (<g>Tormod</g>
       <en>Norman</en> ⇒ <g>Thormo<emph>id</emph></g>).</p>
-  </section>
+  </section>-->
 
-  <section>
+  <!--<section>
     <h>dependencies</h>
     <section id="modifiers">
       <h>modifiers</h>
@@ -218,9 +219,9 @@
             <en>Rachel who doesn’t eat meat</en></li>
         </ul>
       </p>
-      <!--
+      <!-\-
       <p><ed>Can a genitive common noun be used to modify an anthroponymic proper noun?</ed></p>
-      <p><ed>Add recap of rules for leniting and slenderising adjectives?</ed></p> -->
+      <p><ed>Add recap of rules for leniting and slenderising adjectives?</ed></p> -\->
       <section>
         <h>nicknames</h>
         <p>Adjective modifiers are frequently used in nicknames – <ul>
@@ -237,7 +238,7 @@
               </ul></li>
           </ul>
         </p>
-        <p>Examples from modern usage – <xl id="mod-adj--other">
+        <p>Examples from modern usage – <xl id="mod-adj-\-other">
             <li>
               <gd>’Se an aon duine a bha coltach ris anns a’ bhaile <m>Tormod Beag</m> a bhiodh a’
                 fuireach anns an tigh fad na tìde ’s a bhiodh ag òl gun sgur.</gd>
@@ -263,7 +264,7 @@
               <en>Margaret Campbell</en>
               <ul>
                 <li>dative – le <g>Maireid Chaimbeil</g></li>
-                <li>genitive – taigh <g>Maireid Chaimbeul</g></li> <!-- taigh Maireid Caimbeile??-->
+                <li>genitive – taigh <g>Maireid Chaimbeul</g></li> <!-\- taigh Maireid Caimbeile??-\->
               </ul></li>
             <li><g>Tormod Dòmhnallach</g>
               <en>Norman Donaldson</en>
@@ -276,7 +277,7 @@
         <p>cf. <g>Camshron</g>
           <en>Cameron</en>, <g>Friseal</g>
           <en>Fraser</en>.</p>
-        <!-- <p>Include examples from Cox?</p> -->
+        <!-\- <p>Include examples from Cox?</p> -\->
       </section>
     </section>
 
@@ -288,15 +289,15 @@
                 <en>James’ Mary; Mary the wife/daughter of James</en>
                 <ul>
                   <li>dative – le <g>Maireid Sheumais</g></li>
-                  <li>genitive – taigh <g>Maireid<!--(e?)--> Sheumais</g>
-                    <!-- <ed>Is this acceptable?</ed> --></li>
+                  <li>genitive – taigh <g>Maireid<!-\-(e?)-\-> Sheumais</g>
+                    <!-\- <ed>Is this acceptable?</ed> -\-></li>
                 </ul></li>
               <li><g>Dòmhnall Chanaidh</g>
                 <en>Donald of Canna</en>
                 <ul>
                   <li>dative – le <g>Dòmhnall Chanaidh</g></li>
                   <li>genitive – taigh <g>Dhòmhaill Chanaidh</g>
-                    <!-- <ed>Is this acceptable?</ed> --></li>
+                    <!-\- <ed>Is this acceptable?</ed> -\-></li>
                 </ul>
               </li>
             </ul>
@@ -307,25 +308,25 @@
                 <ul>
                   <li>dative – le <g>Dòmhnall a’ Mhinisteir</g></li>
                   <li>genitive – taigh <g>Dhòmhnaill a’ Mhinisteir</g>
-                    <!-- <ed>Is this acceptable?</ed> --></li>
+                    <!-\- <ed>Is this acceptable?</ed> -\-></li>
                 </ul></li>
               <li><g>Seòras a’ <emph>Ghearasdain</emph></g>
                 <en>George of Fort William</en>
                 <ul>
                   <li>dative – le <g>Seòras a’ Ghearasdain</g></li>
                   <li>genitive – taigh <g>Sheòrais a’ Ghearasdain</g>
-                    <!-- <ed>Is this acceptable?</ed> --></li>
+                    <!-\- <ed>Is this acceptable?</ed> -\-></li>
                 </ul></li>
             </ul>
           </li>
           <li>post-specified common noun – <ul>
               <li><g>Seonag <emph>Ministeir</emph> na h-Eaglaise</g>
                 <en>Janie the wife/daughter of the Church Minister</en>
-                <!-- <ed>Is this grammatical?</ed> -->
+                <!-\- <ed>Is this grammatical?</ed> -\->
                 <ul>
                   <li>dative – le <g>Seonaig Ministeir na h-Eaglaise</g></li>
                   <li>genitive – taigh <g>Seonaig Ministeir na h-Eaglaise</g>
-                    <!-- <ed>Is this acceptable?</ed> --></li>
+                    <!-\- <ed>Is this acceptable?</ed> -\-></li>
                 </ul>
               </li>
             </ul>
@@ -341,8 +342,8 @@
             <en>Cicely of Keppoch</en>
             <ul>
               <li>dative – le <g>Sìleis na Ceapaich</g></li>
-              <li>genitive – taigh <g>Sìleis<!--(e?)--> na Ceapaich</g>
-                <!-- <ed>Is this acceptable?</ed> --></li>
+              <li>genitive – taigh <g>Sìleis<!-\-(e?)-\-> na Ceapaich</g>
+                <!-\- <ed>Is this acceptable?</ed> -\-></li>
             </ul>
           </li>
           <li><g>Màiri Mhòr nan Òran</g>
@@ -350,7 +351,7 @@
             <ul>
               <li>dative – le <g>Màiri Mhòr nan Òran</g></li>
               <li>genitive – taigh <g>Màiri Mhòir nan Òran</g>
-                <!-- <ed>Is this acceptable?</ed> --></li>
+                <!-\- <ed>Is this acceptable?</ed> -\-></li>
             </ul>
           </li>
         </ul></p>
@@ -370,7 +371,7 @@
 
     <section id="apposition">
       <h>apposition</h>
-      <!--
+      <!-\-
       <p>Like other proper nouns, an anthroponymic proper noun can stand in apposition to a
         specified common noun, with the two nouns agreeing for case – <ul>
           <li><g>Dòmhnall an sagart</g>
@@ -390,7 +391,7 @@
           </li>
         </ul>
       </p>
-    -->
+    -\->
 
       <section>
         <h>patronymics and patronymic surnames</h>
@@ -398,13 +399,13 @@
             <li><g>Mairead nighean Thormoid</g>
               <en>Margaret, daughter of Norman</en>
               <ul>
-                <li>dative – le <g>Mairead nighean Thormoid</g></li> <!--le Maireid nighinn Thormoid-->
+                <li>dative – le <g>Mairead nighean Thormoid</g></li> <!-\-le Maireid nighinn Thormoid-\->
                 <li>genitive – taigh <g>Maireid (n)ighne Thormoid</g></li>
               </ul>
             </li>
             <li><g>Iain mac Dhòmhnaill mhic Sheumais mhic Dhonnchaidh</g>
               <en>John, son of Donald, son of James, son of Duncan</en>
-              <!--<ed>Why mhic and not mic?</ed>-->
+              <!-\-<ed>Why mhic and not mic?</ed>-\->
               <ul>
                 <li>dative – le <g>Iain mac Dhòmhnaill mhic Sheumais mhic Dhonnchaidh</g></li>
                 <li>genitive – taigh <g>Iain m[h]ic Dhòmhnaill mhic Sheumais mhic
@@ -489,7 +490,7 @@
           <en>Father MacKinnon</en>.</p>
 
 
-        <!--
+        <!-\-
         <p>Non-canonical examples in Cox (2017: 129), where there is no agreement in case – <ul>
             <li><g>leabhar an Deadhain Seumas MacGrìogair</g>
               <en>Dean James MacGregor’s book</en>
@@ -517,11 +518,11 @@
               <ed>linn na Banrigh Màiri ?</ed>.</li>
           </ul>
         </p>
-        -->
+        -\->
       </section>
     </section>
-  </section>
-  
+  </section>-->
+
 
   <!--
       <section>
@@ -691,15 +692,15 @@
   </section>
   -->
 
-  <section id="lenition">
+  <!--<section id="lenition">
     <h>lenition</h>
     <section>
       <h>masculine</h>
       <p>A masculine anthroponymic proper noun which is the (genitive) (post-)specifier of another
         noun is generally lenited – <ul>
           <li><g>taigh Dhòmhnaill</g>
-            <en>Donald’s house</en><!--, cf. <bad>taigh Dòmhna(i)ll</bad>--></li>
-          <li><g>cù Mhurchaidh</g> – <en>Murdo’s dog</en><!--, cf. <bad>cù Murcha(i)dh</bad>--></li>
+            <en>Donald’s house</en><!-\-, cf. <bad>taigh Dòmhna(i)ll</bad>-\-></li>
+          <li><g>cù Mhurchaidh</g> – <en>Murdo’s dog</en><!-\-, cf. <bad>cù Murcha(i)dh</bad>-\-></li>
         </ul>
       </p>
       <p>However, in traditional (especially formal) usage, lenition may be ‘blocked’ if adjacent
@@ -744,6 +745,6 @@
         </ul>
       </p>
     </section>
-  </section>
+  </section>-->
 
 </module>

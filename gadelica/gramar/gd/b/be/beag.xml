@@ -2,7 +2,8 @@
 <module>
     <h>beag</h>
     <p><g>beag</g>
-        <en>small, little</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+        <en>small, little</en> is a <a href="?xx=adjectives/simple_adjectives">simple
+        adjective</a>.</p>
 
     <section>
         <h>uses</h>
@@ -26,10 +27,32 @@
                     </li>
                 </xl>
             </p>
+            <p>Examples with more than one predicate – <xl>
+                    <li>
+                        <gd>Tha Màiri <m>beag bàn</m>.</gd>
+                        <tr>Mary is small and fair-haired.</tr>
+                        <ref text="617">td. 8</ref>
+                    </li>
+                </xl>
+            </p>
         </section>
+        <section id="uses-mod">
+            <h>modifier</h>
+            <p><g>beag</g> can be used to modify a <a href="?xx=nouns/proper_nouns">proper
+                noun</a>.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Tha <m>Màiri bheag</m> bàn.</gd>
+                        <tr>Little Mary is fair-haired.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+
     </section>
 
-<!--
+    <!--
     <section>
         <h>gauff</h>
         <p>Examples from Gairm – <xl id="xs">

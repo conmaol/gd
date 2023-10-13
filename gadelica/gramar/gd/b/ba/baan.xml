@@ -2,7 +2,8 @@
 <module>
     <h>bàn</h>
     <p><g>bàn</g>
-        <en>white, pale, light, fair</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+        <en>white, pale, light, fair</en> is a <a href="?xx=adjectives/simple_adjectives">simple
+            adjective</a>.</p>
 
     <section>
         <h>uses</h>
@@ -10,14 +11,31 @@
             <h>predicate</h>
             <p><g>bàn</g> can be used as the predicate of the verb <a href="?gd=bi"
                 ><g>bi</g></a>.</p>
+            <p>Examples with a human subject – <xl>
+                    <li>
+                        <gd>Tha Màiri bheag <m>bàn</m>.</gd>
+                        <tr>Little Mary is fair-haired.</tr>
+                        <ref text="617">td. 8</ref>
+                    </li>
+                </xl>
+            </p>
             <p>Examples with an animal subject – <xl>
                     <li>
-                        <gd>Tha an cat bàn.</gd>
+                        <gd>Tha an cat <m>bàn</m>.</gd>
                         <tr>The cat is white.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
                 </xl>
             </p>
+            <p>Examples with more than one predicate – <xl>
+                    <li>
+                        <gd>Tha Màiri <m>beag bàn</m>.</gd>
+                        <tr>Mary is small and fair-haired.</tr>
+                        <ref text="617">td. 8</ref>
+                    </li>
+                </xl>
+            </p>
+
         </section>
     </section>
 

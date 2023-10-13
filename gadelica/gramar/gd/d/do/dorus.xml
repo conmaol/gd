@@ -120,17 +120,17 @@
             <p><g>dorus</g> can occur with a specifier.</p>
             <p>Examples with the definite article – <xl>
                     <li>
-                        <gd>Tha an dorus mór.</gd>
+                        <gd>Tha <m>an dorus</m> mór.</gd>
                         <tr>The door is big.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
                     <li>
-                        <gd>Tha an cù aig an dorus.</gd>
+                        <gd>Tha an cù aig <m>an dorus</m>.</gd>
                         <tr>The dog is at the door.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
                     <li>
-                        <gd>Chunnaic mi cù aig an dorus.</gd>
+                        <gd>Chunnaic mi cù aig <m>an dorus</m>.</gd>
                         <tr>I saw a dog at the door.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
@@ -146,7 +146,7 @@
             <p><g>dorus</g> can be used as the subject of a verb.</p>
             <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
                     <li>
-                        <gd>Tha an dorus mór.</gd>
+                        <gd>Tha an <m>dorus</m> mór.</gd>
                         <tr>The door is big.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
@@ -159,12 +159,12 @@
             <p>Some examples with <g><a href="?gd=aig">aig</a> dorus</g>
                 <en>at a door</en> – <xl>
                     <li>
-                        <gd>Tha an cù aig an dorus.</gd>
-                        <tr>The dog is at the door.</tr>
-                        <ref text="617">td. 6</ref>
+                        <gd>Tha an cù dubh <m>aig an dorus</m>.</gd>
+                        <tr>The black dog is at the door.</tr>
+                        <ref text="617">td. 9</ref>
                     </li>
                     <li>
-                        <gd>Chunnaic mi cù aig an dorus.</gd>
+                        <gd>Chunnaic mi cù <m>aig an dorus</m>.</gd>
                         <tr>I saw a dog at the door.</tr>
                         <ref text="617">td. 6</ref>
                     </li>

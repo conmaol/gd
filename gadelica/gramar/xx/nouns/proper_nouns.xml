@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
   <h>proper nouns</h>
   <p>Proper nouns are <a href="?xx=nouns/nouns">nouns</a> which are also <a href="?xx=nouns/names"
       >names</a>, identifying and referring to particular, definite entities – a specific person,
-    object, place, group, etc. Examples of proper nouns are – <ul>
+    object, place, group, etc.</p>
+
+  <!--<p>Examples of proper nouns are – <ul>
       <li><g>Raonaid</g>
         <fem/>
         <en>Rachel</en></li>
@@ -36,8 +38,8 @@
           <li><g>Òran na Cloiche</g>
             <en>The Song of the Stone</en></li>
         </ul></li>
-    </ul></p>
-  <section>
+    </ul></p>-->
+  <!--<section>
     <h>derivation</h>
     <section id="derivation-simple">
       <h>simple proper nouns</h>
@@ -75,18 +77,18 @@
             <en>calling, crowing</en></li>
         </ul>
       </p>
-      <!--
+      <!-\-
       <p>
         <ed>Is <g>GilleEasbaig</g>
           <masc/> ‘Archibald, Gillespie’ a derived proper noun or is it a compound?
             <g>GilleBrìde</g>? Is this a name-description rather than a proper noun? cf. vocative
               <g>’IlleB<u>h</u>rìde</g></ed>
       </p>
-      -->
+      -\->
     </section>
-  </section>
+  </section>-->
 
-  <section id="forms">
+  <!--<section id="forms">
     <h>forms</h>
     <section id="forms-gender">
       <h>gender and case</h>
@@ -112,9 +114,9 @@
           </li>
         </ul>
       </p>
-      <!--
+      <!-\-
     <p><ed>Vocative is not strictly speaking a ‘case’ (at least not for all linguists) and hence
-        will be discussed in the module for the vocative particle itself.</ed></p> -->
+        will be discussed in the module for the vocative particle itself.</ed></p> -\->
     </section>
     <section id="forms-declension">
       <h>declension</h>
@@ -122,27 +124,27 @@
           <li>The dative and genitive forms of a feminine proper noun are generally created by
             slenderising the corresponding nominative form (if possible) – <g>Mairead</g> ⇒
               <g>Maireid</g>, <g>Laideann</g> ⇒ <g>Laidinn</g>.
-            <!--<ed>Is there never addition of -e in
-            the genitive? What about feminine toponymic proper nouns? Peairt? </ed> --></li>
+            <!-\-<ed>Is there never addition of -e in
+            the genitive? What about feminine toponymic proper nouns? Peairt? </ed> -\-></li>
           <li>The dative form of a masculine proper noun is identical to the corresponding
             nominative.</li>
           <li>The genitive form of a masculine proper noun is generally created by both slenderising
             and leniting the corresponding nominative form (if possible) – <g>Seumas</g> ⇒
               <g>Sheumais</g>, <g>Bòd</g> ⇒ <g>Bhòid</g>.
-            <!-- <ed>Does lenition happen with masculine
+            <!-\- <ed>Does lenition happen with masculine
             proper nouns which are not anthroponyms or toponyms? I can’t think of any
-          examples!</ed> --></li>
+          examples!</ed> -\-></li>
         </ul>
       </p>
       <p>Since they refer to single, specific entities, all proper nouns have singular number. There
         are no plural (forms of) proper nouns.</p>
-      <!-- <p><ed>Some things to consider – How are ‘improper nouns’ and acronyms declined? Is an
+      <!-\- <p><ed>Some things to consider – How are ‘improper nouns’ and acronyms declined? Is an
           improper noun like ‘Bannan’ itself grammatically plural in any meaningful way or is it
-          treated as a single noun? What about ergonymic acronyms like CNAG or BnaG?</ed></p> -->
+          treated as a single noun? What about ergonymic acronyms like CNAG or BnaG?</ed></p> -\->
     </section>
-  </section>
+  </section>-->
 
-  <section>
+  <!--<section>
     <h>dependents</h>
     <section id="modifiers">
       <h>modifiers</h>
@@ -154,49 +156,49 @@
             <en>New England</en></li>
           <li>preposition (phrases) – <g>Dòmhnall <emph>à</emph> Lunnainn</g>
             <en>Donald from London</en>
-            <!-- <ed>toponym example?</ed> --></li>
+            <!-\- <ed>toponym example?</ed> -\-></li>
           <li>relative clauses – <g>Iain <emph>a bha</emph> anns an sgoil còmhla rium</g>
             <en>John who was at school with me</en>, <g>Lunnainn, <emph>nach eil</emph> ann an
               Alba</g>
             <en>London, which is not in Scotland</en></li>
         </ul> Note that capitalisation of an adjective modifying a proper noun depends on whether it
         is assumed to be an intrinsic part of the name.</p>
-      <!--<p><ed>Can a genitive common noun be used to modify a proper noun? Griogal cridhe?</ed></p>
+      <!-\-<p><ed>Can a genitive common noun be used to modify a proper noun? Griogal cridhe?</ed></p>
       <p><ed>Add recap of rules for leniting and slenderising adjectives?</ed></p>
       <p><ed>Note nicknames like <g>Seann Tormod</g> or <g>Seann Ealasaid</g>. Is ‘seann’ better
           described as a (pre-)modifier or a prefix here? Maybe these are better thought of as
-          compound proper nouns in parallel with compound nouns?</ed></p> -->
+          compound proper nouns in parallel with compound nouns?</ed></p> -\->
     </section>
     <section id="specifier">
       <h>specifier</h>
       <p>Like all nouns, a proper noun can have a (post-)specifier – <ul>
           <li>genitive proper noun – <g>Màiri <emph>Sheumais</emph></g>
             <en>James’ Mary</en>
-            <!-- <ed>toponym example? Scalpaigh na Hearadh? Is Na Hearadh a proper
-              noun? [ROM and DM say yes.]</ed> --></li>
+            <!-\- <ed>toponym example? Scalpaigh na Hearadh? Is Na Hearadh a proper
+              noun? [ROM and DM say yes.]</ed> -\-></li>
           <li>pre-specified common noun – <g>Dòmhnall a’ <emph>Mhinisteir</emph></g>
             <en>The Minister’s (son) Donald; Donald, the son of the Minister</en>, <g>Seumas a’
                 <emph>Ghlinne</emph></g>
             <en>James of the Glen</en></li>
-          <!-- <li>post-specified common noun – <ed><g>Dòmhnall <emph>Ministeir</emph> (Ministear) na
+          <!-\- <li>post-specified common noun – <ed><g>Dòmhnall <emph>Ministeir</emph> (Ministear) na
                 h-Eaglais(e)</g> ‘Donald (son) of the Minister of the Church’ ??</ed>
-          </li>-->
+          </li>-\->
         </ul>
       </p>
-      <!-- <p><ed>Toponym examples?</ed></p> -->
-      <!-- <p>Note that, unlike common nouns, a proper noun cannot have a (<a
+      <!-\- <p><ed>Toponym examples?</ed></p> -\->
+      <!-\- <p>Note that, unlike common nouns, a proper noun cannot have a (<a
           href="?xx=nouns/determiners">determiner</a>) pre-specifier, cf. <bad>mo Mhàiri</bad> ~
           <bad>a’ Mhàiri agamsa</bad> ~ <g>Màiri agamsa</g>
-        <en>my Mary</en>.</p>-->
+        <en>my Mary</en>.</p>-\->
       <p>In addition, a few <a href="?xx=nouns/toponymic_proper_nouns">toponymic proper nouns</a>
         usually switch to being a kind of <a href="?xx=nouns/name_descriptions">name-description</a>
         (‘uncommon nouns’) in the genitive and hence take the article – <g>Alba</g> ⇒ <g>Eaglais
             <emph>na h-Alba(nn)</emph></g>
         <en>The Church of Scotland</en>, <g>Èirinn</g>
         <en>Ireland</en> ⇒ <g>Gàidhlig <emph>na h-Èireann</emph></g>
-        <en>Irish Gaelic</en>. <!-- <ed>Eòrpa?</ed>--></p>
+        <en>Irish Gaelic</en>. <!-\- <ed>Eòrpa?</ed>-\-></p>
     </section>
-    <!--
+    <!-\-
     <section id="apposition"> come back to after reading Lamb’s treatment – he says no case agreement
       <h>apposition</h>
       <p>A proper noun can stand in apposition to a specified common noun, agreeing for case – <ul>
@@ -219,19 +221,19 @@
         </ul>
       </p>
     </section>
-  -->
-  </section>
-  <section id="uses">
-    <h>uses</h>
-    <p>Like other names, proper nouns belong to different semantic classes, depending on the kind of
-      entity they identify – <ul>
-        <li><a href="?xx=nouns/anthroponymic_proper_nouns">Anthroponymic proper nouns</a> name
-          individual persons (including personified entities) – <g>Mairead</g>
-          <fem/>
-          <en>Margaret</en>, <g>Seumas</g>
-          <masc/>
-          <en>James</en>.</li>
-        <li><a href="?xx=nouns/toponymic_proper_nouns">Toponymic proper nouns</a> name places
+  -\->
+  </section>-->
+  <!--<section id="uses">
+    <h>uses</h>-->
+  <p>Like other names, proper nouns belong to different semantic classes, depending on the kind of
+    entity they identify – <ul>
+      <li><a href="?xx=nouns/anthroponymic_proper_nouns">Anthroponymic proper nouns</a> name
+        individual persons (including personified entities) – <g>Mairead</g>
+        <fem/>
+        <en>Margaret</en>, <g>Seumas</g>
+        <masc/>
+        <en>James</en>.</li>
+      <!-- <li><a href="?xx=nouns/toponymic_proper_nouns">Toponymic proper nouns</a> name places
           (geographical and cosmological entities) – <g>Leòdhas</g>
           <masc/>
           <en>Lewis</en>, <g>Sasainn</g>
@@ -252,10 +254,10 @@
           <fem/>
           <en>Latin</en>, <g>Albais</g>
           <fem/>
-          <en>Scots</en>.</li>
-      </ul>
-    </p>
-    <!--
+          <en>Scots</en>.</li>-->
+    </ul>
+  </p>
+  <!--
     <p>Anthroponymic, toponymic and ergonymic proper nouns are generally concrete, associated with a
       material sense. Chrematonymic and glottonymic proper nouns are usually abstract, associated
       with a non-material sense (an information object, a language <etc/>). Almost by definition, a
@@ -264,9 +266,9 @@
         Are these actually proper nouns?</ed>).</p>
     <p><ed>More explication needed here.</ed></p>
     -->
-  </section>
+  <!--</section>-->
 
-  <section id="lenition">
+  <!--<section id="lenition">
     <h>lenition</h>
     <p>Proper nouns which are the (genitive) (post-)specifier of another noun are systematically
       lenited, or not, depending on the nature of the entity referred to – <ul>
@@ -288,7 +290,7 @@
         </li>
       </ul>
     </p>
-  </section>
+  </section>-->
 
 
 </module>
