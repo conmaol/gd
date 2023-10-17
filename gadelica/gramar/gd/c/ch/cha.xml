@@ -1,9 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module id="top">
-    <h lang="en">cha</h>
-    <h lang="gd">cha</h>
+<module>
+    <h>cha</h>
 
-    <module id="cleft">
+    <p><g>cha</g> is the negative declarative verb particle.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>complement</h>
+            <p>The complement of <g>cha</g> is a dependent verb form.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Chan <m>eil</m> e fuar an diugh.</gd>
+                        <tr>It is not cold today.</tr>
+                        <ref text="617">td. 11</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-root">
+            <h>root</h>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd><m>Chan</m> eil e fuar an diugh.</gd>
+                        <tr>It is not cold today.</tr>
+                        <ref text="617">td. 11</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+
+
+    <!--<module id="cleft">
         <h lang="en">cleft clauses</h>
         <h lang="gd">...</h>
         <p lang="en">Examples from Gairm – <xl id="cleft-gairm">
@@ -26,6 +61,6 @@
             </xl>
         </p>
         <p lang="gd">...</p>
-    </module>
+    </module>-->
 
 </module>

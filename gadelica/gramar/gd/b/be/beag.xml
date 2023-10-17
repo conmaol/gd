@@ -52,6 +52,11 @@
                         <tr>Big Malcolm and little Mary are working busily in the field today.</tr>
                         <ref text="617">td. 9</ref>
                     </li>
+                    <li>
+                        <gd>Tha <m>Màiri bheag</m> sgìth.</gd>
+                        <tr>Little Mary is tired.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
                 </xl>
             </p>
             <p><g>beag</g> can be used to modify a <a href="?xx=nouns/common_nouns">common
@@ -62,7 +67,12 @@
                         <tr>The little white cat is by the fire.</tr>
                         <ref text="617">td. 9</ref>
                     </li>
-                </xl>
+                <li>
+                    <gd>Càit a bheil an <m>gille beag</m> an diugh?</gd>
+                    <tr>Where is the little boy today?</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+            </xl>
             </p>
         </section>
 

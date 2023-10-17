@@ -21,13 +21,37 @@
                         <tr>Mary and Malcolm are wet and cold.</tr>
                         <ref text="617">td. 7 [226]</ref>
                     </li>
+                    <li>
+                        <gd>Tha mi <m>fuar</m> agus tha mi sgìth.</gd>
+                        <tr>I am cold and I am tired.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Màiri bheag <m>fuar</m>.</gd>
+                        <tr>Little Mary is cold.</tr>
+                        <ref text="617">td. 9 [226]</ref>
+                    </li>
                 </xl>
             </p>
+            <p>Examples with an abstract subject – <xl>
+                    <li>
+                        <gd>A bheil an latha <m>fuar</m>?</gd>
+                        <tr>Is the day cold?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
+            </p>
+
             <p>Examples with a non-referential, ‘dummy’ subject pronoun – <xl>
                     <li>
                         <gd>Tha e <m>fuar</m> an diugh.</gd>
                         <tr>It is cold today.</tr>
                         <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Chan eil e <m>fuar</m> an diugh.</gd>
+                        <tr>It is not cold today.</tr>
+                        <ref text="617">td. 11</ref>
                     </li>
                 </xl>
             </p>

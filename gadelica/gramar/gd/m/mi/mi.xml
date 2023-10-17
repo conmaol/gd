@@ -13,9 +13,14 @@
             <p>Examples with <a href="?gd=bi"><g>bi</g></a>
                 <en>be</en> – <xl>
                     <li>
-                        <gd>Tha <m>mi</m> trang.</gd>
-                        <tr>I am busy.</tr>
-                        <ref text="617">td. 7</ref>
+                        <gd>Tha <m>mi</m> trang an diugh.</gd>
+                        <tr>I am busy today.</tr>
+                        <ref text="617">td. 9 [226]</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>mi</m> fuar agus tha <m>mi</m> sgìth.</gd>
+                        <tr>I am cold and I am tired.</tr>
+                        <ref text="617">td. 9</ref>
                     </li>
                 </xl>
             </p>

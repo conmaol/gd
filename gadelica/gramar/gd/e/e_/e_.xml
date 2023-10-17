@@ -26,6 +26,11 @@
             <tr>It is cold today.</tr>
             <ref text="617">td. 7</ref>
           </li>
+          <li>
+            <gd>Chan eil <m>e</m> fuar an diugh.</gd>
+            <tr>It is not cold today.</tr>
+            <ref text="617">td. 11</ref>
+          </li>
         </xl>
       </p>
     </section>

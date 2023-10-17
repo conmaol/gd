@@ -327,6 +327,16 @@
             <tr>Mary is working.</tr>
             <ref text="617">td. 6</ref>
           </li>
+          <li>
+            <gd>A <m>bheil</m> an cù aig an dorus?</gd>
+            <tr>Is the dog at the door?</tr>
+            <ref text="617">td. 11</ref>
+          </li>
+          <li>
+            <gd>Nach <m>eil</m> Calum anns an achadh?</gd>
+            <tr>Isn’t Malcolm in the field?</tr>
+            <ref text="617">td. 11</ref>
+          </li>
         </xl>
       </p>
       <section id="deps-pred-sbj">
@@ -344,6 +354,17 @@
                   <gd>Tha <m>Calum</m> ag obair.</gd>
                   <tr>Malcolm is working.</tr>
                   <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                  <gd>Tha <m>Màiri bhàn</m> anns an achadh an diugh agus tha i ag obair gu
+                    trang.</gd>
+                  <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
+                  <ref text="617">td. 9</ref>
+                </li>
+                <li>
+                  <gd>Nach eil <m>Calum</m> anns an achadh?</gd>
+                  <tr>Isn’t Malcolm in the field?</tr>
+                  <ref text="617">td. 11</ref>
                 </li>
               </xl>
             </li>
@@ -390,6 +411,22 @@
                   <gd>Tha <m>e</m> fuar an diugh.</gd>
                   <tr>It is cold today.</tr>
                   <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                  <gd>Tha Màiri bhàn anns an achadh an diugh agus tha <m>i</m> ag obair gu
+                    trang.</gd>
+                  <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
+                  <ref text="617">td. 9</ref>
+                </li>
+                <li>
+                  <gd>A bheil <m>thu</m> sgìth?</gd>
+                  <tr>Are you tired?</tr>
+                  <ref text="617">td. 11</ref>
+                </li>
+                <li>
+                  <gd>Chan eil <m>e</m> fuar an diugh.</gd>
+                  <tr>It is not cold today.</tr>
+                  <ref text="617">td. 11</ref>
                 </li>
               </xl>
             </li>
@@ -459,6 +496,11 @@
                     <tr>Mary and Malcolm are busy today.</tr>
                     <ref text="617">td. 7</ref>
                   </li>
+                  <li>
+                    <gd>Tha Màiri bheag <m>sgìth</m>.</gd>
+                    <tr>Little Mary is tired.</tr>
+                    <ref text="617">td. 9</ref>
+                  </li>
                 </xl>
               </li>
               <li>personal pronouns – <xl>
@@ -472,6 +514,21 @@
                     <tr>They are cold working in the field today.</tr>
                     <ref text="617">td. 7</ref>
                   </li>
+                  <li>
+                    <gd>Tha mi <m>fuar</m> agus tha mi <m>sgìth</m>.</gd>
+                    <tr>I am cold and I am tired.</tr>
+                    <ref text="617">td. 9</ref>
+                  </li>
+                  <li>
+                    <gd>Tha <m>iad</m> fuar anns an achadh an diugh.</gd>
+                    <tr>They are cold in the field today.</tr>
+                    <ref text="617">td. 9</ref>
+                  </li>
+                  <li>
+                    <gd>A bheil <m>thu</m> sgìth?</gd>
+                    <tr>Are you tired?</tr>
+                    <ref text="617">td. 11</ref>
+                  </li>
                 </xl>
               </li>
               <li>non-referential, ‘dummy’ pronouns – <xl>
@@ -479,6 +536,11 @@
                     <gd>Tha e <m>fuar</m> an diugh.</gd>
                     <tr>It is cold today.</tr>
                     <ref text="617">td. 7</ref>
+                  </li>
+                  <li>
+                    <gd>Chan eil e <m>fuar</m> an diugh.</gd>
+                    <tr>It is not cold today.</tr>
+                    <ref text="617">td. 11</ref>
                   </li>
                 </xl>
               </li>
@@ -509,11 +571,35 @@
           <p>The predicate of <g>bi</g> can be a (static) preposition.</p>
           <p>Examples with different kinds of subject – <ul>
               <li>common nouns – <ul>
-                  <li>animate –<xl>
+                  <li>human – <xl>
+                      <li>
+                        <gd>Tha Màiri bhàn <m>anns an achadh</m> an diugh agus tha i ag obair gu
+                          trang.</gd>
+                        <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
+                        <ref text="617">td. 9</ref>
+                      </li>
+                      <li>
+                        <gd>Tha sibh <m>aig an teine</m>.</gd>
+                        <tr>You are at the fire.</tr>
+                        <ref text="617">td. 9 [226]</ref>
+                      </li>
+                      <li>
+                        <gd>Nach eil Calum <m>anns an achadh</m>?</gd>
+                        <tr>Isn’t Malcolm in the field?</tr>
+                        <ref text="617">td. 11</ref>
+                      </li>
+                    </xl>
+                  </li>
+                  <li>other animate –<xl>
                       <li>
                         <gd>Tha an cù <m>aig an dorus</m> agus tha an cat <m>aig an teine</m>.</gd>
                         <tr>The dog is at the door and the cat is by the fire.</tr>
                         <ref text="617">td. 6</ref>
+                      </li>
+                      <li>
+                        <gd>A bheil an cù <m>aig an dorus</m>?</gd>
+                        <tr>Is the dog at the door?</tr>
+                        <ref text="617">td. 11</ref>
                       </li>
                     </xl>
                   </li>
@@ -523,11 +609,11 @@
                         <tr>There is heat in the fire.</tr>
                         <ref text="617">td. 6</ref>
                       </li>
-                    <li>
-                      <gd>Tha falt dubh <m>air Calum</m> ach tha falt bàn <m>air Màiri</m>.</gd>
-                      <tr>Calum has black hair but Mary has fair hair.</tr>
-                      <ref text="617">td. 9</ref>
-                    </li>
+                      <li>
+                        <gd>Tha falt dubh <m>air Calum</m> ach tha falt bàn <m>air Màiri</m>.</gd>
+                        <tr>Calum has black hair but Mary has fair hair.</tr>
+                        <ref text="617">td. 9</ref>
+                      </li>
                     </xl></li>
                 </ul>
               </li>
@@ -564,6 +650,12 @@
                   <gd>Tha Màiri agus Calum <m>ag obair</m> anns an achadh an diugh.</gd>
                   <tr>Mary and Malcolm are working in the field today.</tr>
                   <ref text="617">td. 6–7</ref>
+                </li>
+                <li>
+                  <gd>Tha Màiri bhàn anns an achadh an diugh agus tha i <m>ag obair</m> gu
+                    trang.</gd>
+                  <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
+                  <ref text="617">td. 9</ref>
                 </li>
               </xl></p>
 
@@ -620,6 +712,12 @@
                 <tr>They are cold working in the field today.</tr>
                 <ref text="617">td. 7</ref>
               </li>
+              <li>
+                <gd>Tha sinn <m>trang</m>
+                  <m>ag obair</m>.</gd>
+                <tr>We ae busy working.</tr>
+                <ref text="617">td. 9</ref>
+              </li>
             </xl>
           </p>
           <p>But see also – <xl>
@@ -642,6 +740,29 @@
             <gd>Tha iad fuar ag obair anns an achadh <m>an diugh</m>.</gd>
             <tr>They are tired working in the field today.</tr>
             <ref text="617">td. 7</ref>
+          </li>
+          <li>
+            <gd>Tha Màiri bhàn anns an achadh <m>an diugh</m> agus tha i ag obair gu trang.</gd>
+            <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
+          <li>
+            <gd>Chan eil e fuar <m>an diugh</m>.</gd>
+            <tr>It is not cold today.</tr>
+            <ref text="617">td. 11</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Examples with locative modifiers – <xl>
+          <li>
+            <gd>Tha iad fuar <m>anns an achadh</m> an diugh.</gd>
+            <tr>They are cold in the field today.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
+          <li>
+            <gd>Tha sinn trang <m>anns an achadh</m>.</gd>
+            <tr>We are busy in the field.</tr>
+            <ref text="617">td. 9 [226]</ref>
           </li>
         </xl>
       </p>

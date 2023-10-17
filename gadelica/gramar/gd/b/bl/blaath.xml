@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>blàth</h>
     <p><g>blàth</g>
         <en>warm</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
-    
+
     <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>
+                <xl>
+                    <li>
+                        <gd>Tha an seomar <m>glé bhlàth</m>.</gd>
+                        <tr>The room is very warm.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>predicate</h>
+
+            <p><g>blàth</g> can be used as the predicate of the verb <a href="?gd=bi"
+                ><g>bi</g></a>.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>A bheil an seòmar seo <m>blàth</m>?</gd>
+                        <tr>Is this room warm?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>Chan eil an seòmar seo <m>blàth</m>.</gd>
+                        <tr>This room is not warm.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+    <!--<section>
         <h>uses</h>
         <section>
             <h>modifier</h>
@@ -27,8 +68,7 @@
             </ul>
             </p>
         </section>
-    </section>
-    
-    
-</module>
+    </section>-->
 
+
+</module>

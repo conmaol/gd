@@ -40,8 +40,19 @@
 
         <section id="uses-mod">
             <h>modifier</h>
-            <p><g>bàn</g> can be used to modify a <a href="?xx=nouns/common_nouns">common
+            <p><g>bàn</g> can be used to modify a <a href="?xx=nouns/proper_nouns">proper
                 noun</a>.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Tha <m>Màiri bhàn</m> anns an achadh an diugh agus tha i ag obair gu
+                            trang.</gd>
+                        <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                </xl>
+            </p>
+            <p><g>bàn</g> can also be used to modify a <a href="?xx=nouns/common_nouns">common
+                    noun</a>.</p>
             <p>Some examples – <xl>
                     <li>
                         <gd>Tha an <m>cat beag bàn</m> aig an teine.</gd>
@@ -52,6 +63,16 @@
                         <gd>Tha falt dubh air Calum ach tha <m>falt bàn</m> air Màiri.</gd>
                         <tr>Calum has black hair but Mary has fair hair.</tr>
                         <ref text="617">td. 9</ref>
+                    </li>
+                    <li>
+                        <gd>A bheil <m>falt bàn</m> air Seumas?</gd>
+                        <tr>Does James have fair hair?</tr>
+                        <ref text="617">td. 13–14</ref>
+                    </li>
+                    <li>
+                        <gd>Càit a bheil an <m>cat bàn</m> an diugh?</gd>
+                        <tr>Where is the white cat today?</tr>
+                        <ref text="617">td. 14</ref>
                     </li>
                 </xl>
             </p>

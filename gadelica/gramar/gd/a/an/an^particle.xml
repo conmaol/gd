@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
-  <h lang="en">an – verb particle</h>
-  <h lang="gd">an</h>
-  <p><b>an</b> is the positive interrogative verb particle.</p>
-  <p>cf. other uses of the particle <a href="?gd=an">an</a>.</p>
+<module>
+  <h>an</h>
+  <p><g>an</g> is the positive interrogative verb particle.</p>
+  <!--<p>cf. other uses of the particle <a href="?gd=an">an</a>.</p>-->
   <!--
   <p lang="en">Dialectal variant: <b>na</b> = <b>an do</b> – <xl id="exss">
       <li>
@@ -19,11 +18,24 @@
 
   <section>
     <h>dependents</h>
-
     <section>
       <h>complement</h>
+      <p>The complement of <g>an</g> is a dependent verb form.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd><m>A bheil</m> an cù aig an dorus?</gd>
+            <tr>Is the dog at the door?</tr>
+            <ref text="617">td. 11</ref>
+          </li>
+          <li>
+            <gd><m>A bheil</m> thu sgìth?</gd>
+            <tr>Are you tired?</tr>
+            <ref text="617">td. 11</ref>
+          </li>
+        </xl>
+      </p>
 
-      <p>Older pedagogical examples – <xl id="comp-older-pedag">
+      <!--<p>Older pedagogical examples – <xl id="comp-older-pedag">
           <li>
             <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh. Thubhairt mo
               mhàthair, “<m>An téid</m> thu do bhocsa nan litrichean leis an litir seo, Iain?”
@@ -38,14 +50,31 @@
             <note>polite request</note>
           </li>
         </xl>
-      </p>
+      </p>-->
     </section>
 
   </section>
 
   <section>
     <h>uses</h>
-    <section>
+    <section id="uses-root">
+      <h>root</h>
+      <p>Some examples – <xl>
+          <li>
+            <gd><m>A</m> bheil an cù aig an dorus?</gd>
+            <tr>Is the dog at the door?</tr>
+            <ref text="617">td. 11</ref>
+          </li>
+          <li>
+            <gd><m>A</m> bheil thu sgìth?</gd>
+            <tr>Are you tired?</tr>
+            <ref text="617">td. 11</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+
+    <!--<section>
       <h>complement</h>
       <module>
         <h>gus an</h>
@@ -69,11 +98,11 @@
       </module>
 
 
-    </section>
+    </section>-->
   </section>
 
 
-  <section id="relative">
+  <!--<section id="relative">
     <h lang="en">relative clauses</h>
     <h lang="gd">...</h>
     <p lang="en">Examples from Gairm – <xl id="gairm-xs">
@@ -117,9 +146,9 @@
       </xl>
     </p>
     <p lang="gd">...</p>
-  </section>
+  </section>-->
 
-  <section id="cleft">
+  <!--<section id="cleft">
     <h lang="en">cleft clauses</h>
     <h lang="gd">...</h>
     <p lang="en">Examples from Gairm – <xl id="cleft-gairm">
@@ -140,7 +169,7 @@
       </xl>
     </p>
     <p lang="gd">...</p>
-  </section>
+  </section>-->
 
 
 </module>

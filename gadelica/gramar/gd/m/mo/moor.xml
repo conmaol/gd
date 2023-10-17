@@ -37,6 +37,11 @@
             <tr>The fire is big.</tr>
             <ref text="617">td. 6</ref>
           </li>
+          <li>
+            <gd>A bheil an sgoil <m>mór</m>?</gd>
+            <tr>Is the school big?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
         </xl>
       </p>
     </section>
@@ -51,6 +56,16 @@
             <tr>Big Malcolm and little Mary are working busily in the field today.</tr>
             <ref text="617">td. 9</ref>
           </li>
+        </xl>
+      </p>
+      <p>As well as modifying a <a href="?xx=nouns/common_nouns">common noun</a>.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>A bheil <m>ceann mór</m> air Seumas?</gd>
+            <tr>Does James have a big head?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+
         </xl>
       </p>
     </section>

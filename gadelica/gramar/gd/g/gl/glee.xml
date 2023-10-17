@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>glé</h>
+    <p><g>glé</g>
+        <en>very</en> is a particle which intensifies a following <a
+            href="?xx=adjectives/adjectives">adjective</a>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>Note that <g>glé</g> is usually spelled with a grave accent, as <g>glè</g>, in post-1970s
+            Neo-Gaelic.</p>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>specifier</h>
+            <p><g>glé</g> is always used as the pre-specifier to a (gradeable) <a
+                    href="?xx=adjectives/adjectives">adjective</a>, which it lenites.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Tha an cù <m>glé luath</m>.</gd>
+                        <tr>The dog is very swift.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an seòmar <m>glé bhlàth</m>.</gd>
+                        <tr>The room is very warm.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>Tha mi <m>glé sgìth</m>.</gd>
+                        <tr>I am very tired.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Seumas <m>glé mhór</m>.</gd>
+                        <tr>James is very big.</tr>
+                        <ref text="617">td. 14 [227]</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+</module>

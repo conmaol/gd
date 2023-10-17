@@ -1,20 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module id="top">
-    <h lang="en">determiners</h>
-    <h lang="gd">ainmearan</h>
-    <p lang="en">Determiners are words which can be used as the pre-specifier of a <a
-            href="?xx=nouns/common_nouns">common noun</a> – <ul>
-            <li>the <a href="?xx=nouns/definite_article">definite article</a> – <b>an</b>
-                (<b>am</b>), <b>a’</b>, <b>na</b>, <b>nan</b> (<b>nam</b>)</li>
-            <li>the <a href="?xx=nouns/possessive_determiners">possessive determiners</a> –
-                    <b>mo</b>, <b>do</b>, <b>a</b>, <b>ar</b>, <b>bhur</b> (<b>ur</b>), <b>an</b>
-                    (<b>am</b>)</li>
-            <li><a href="?gd=gach">gach</a>
-                <en>each, every, all</en></li>
-        </ul> There are no demonstrative determiners in Gaelic, corresponding to
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>determiners</h>
+    <p>There are two main classes of determiner – <ul>
+            <li>forms of the <a href="?xx=nouns/definite_article">definite article</a> – <g>an</g>,
+                    <g>am</g>, <g>a’</g>, <g>na</g>, <g>nan</g>, <g>nam</g></li>
+            <li>the possessive determiners – <g>mo</g>, <g>do</g>, <g>a</g>, <g>ar</g>, <g>bhur</g>,
+                    <g>an</g>/<g>am</g></li>
+            <!--<li><a href="?gd=gach">gach</a>
+                <en>each, every, all</en></li>-->
+        </ul>
+    </p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>specifier</h>
+            <p>A determiner is used as the pre-specifier of a <a href="?xx=nouns/common_nouns"
+                    >common noun</a>.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>A bheil <m>an cù</m> aig <m>an dorus</m>?</gd>
+                        <tr>Is the dog at the door?</tr>
+                        <ref text="617">td. 11</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+    <!--<p>There are no demonstrative determiners in Gaelic, corresponding to
                 <en><u>this/that</u> (cat)</en>, <en><u>these/those</u> (cats)</en>. Rather, the
         definite article is used with a following <a href="?xx=nouns/demonstrative_pronouns"
             >demonstrative pronoun</a> – <b>an cat seo/sin/siud</b>, <b>na cait
-        seo/sin/siud</b>.</p>
-    <p lang="gd">...</p>
+        seo/sin/siud</b>.</p>-->
 </module>

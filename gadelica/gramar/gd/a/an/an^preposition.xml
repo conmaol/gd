@@ -137,6 +137,11 @@
             <tr>Mary and Malcolm are working in the field today.</tr>
             <ref text="617">td. 6–7</ref>
           </li>
+          <li>
+            <gd>Nach eil Calum <m>anns an achadh</m>?</gd>
+            <tr>Isn’t Malcolm in the field?</tr>
+            <ref text="617">td. 11</ref>
+          </li>
         </xl>
       </p>
 
@@ -205,6 +210,16 @@
             <tr>There is heat in the fire.</tr>
             <ref text="617">td. 6</ref>
           </li>
+          <li>
+            <gd>Tha Màiri bhàn <m>anns</m> an achadh an diugh agus tha i ag obair gu trang.</gd>
+            <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
+          <li>
+            <gd>Nach eil Calum <m>anns</m> an achadh?</gd>
+            <tr>Isn’t Malcolm in the field?</tr>
+            <ref text="617">td. 11</ref>
+          </li>
         </xl>
       </p>
     </section>
@@ -246,6 +261,16 @@
             <gd>Tha Màiri agus Calum trang an diugh – tha iad ag obair <m>anns</m> an achadh.</gd>
             <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
             <ref text="617">td. 7</ref>
+          </li>
+          <li>
+            <gd>Tha iad fuar <m>anns</m> an achadh an diugh.</gd>
+            <tr>They are cold in the field today.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
+          <li>
+            <gd>Tha sinn trang <m>anns</m> an achadh.</gd>
+            <tr>We are busy in the field.</tr>
+            <ref text="617">td. 9 [226]</ref>
           </li>
         </xl>
         <!--<ul>

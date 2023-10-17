@@ -18,6 +18,16 @@
                         <tr>You are busy.</tr>
                         <ref text="617">td. 7</ref>
                     </li>
+                    <li>
+                        <gd>Tha <m>thu</m> ag obair.</gd>
+                        <tr>You are working.</tr>
+                        <ref text="617">td. 9 [226]</ref>
+                    </li>
+                    <li>
+                        <gd>A bheil <m>thu</m> sgìth?</gd>
+                        <tr>Are you tired?</tr>
+                        <ref text="617">td. 11</ref>
+                    </li>
                 </xl>
             </p>
         </section>

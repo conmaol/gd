@@ -8,7 +8,8 @@
     <p>The principal parts of <g>faic</g> are – <ul>
         <li><m>chì</m> – future independent – <en>will see</en></li>
         <li><m>chunnaic</m> – past independent – <en>saw</en></li>
-        <li><m>faicinn</m> <fem/> – verbal noun – <en>seeing</en></li>
+        <li><m>faicinn</m>
+          <fem/> – verbal noun – <en>seeing</en></li>
       </ul>
     </p>
     <section id="forms-tense">
@@ -245,7 +246,7 @@
 
   <section>
     <h>dependents</h>
-    <section id="subject">
+    <section id="deps-sbj">
       <h>subject</h>
       <p>Some examples – <xl>
           <li>
@@ -253,10 +254,15 @@
             <tr>I saw a dog at the door.</tr>
             <ref text="617">td. 6</ref>
           </li>
+          <li>
+            <gd>Chunnaic <m>sinn</m> iolair mhór an diugh.</gd>
+            <tr>We saw a big eagle today.</tr>
+            <ref text="617">td. 9 [226]</ref>
+          </li>
         </xl>
       </p>
     </section>
-    <section id="object">
+    <section id="deps-obj">
       <h>object</h>
       <p>Some examples – <xl>
           <li>
@@ -264,16 +270,32 @@
             <tr>I saw a dog at the door.</tr>
             <ref text="617">td. 6</ref>
           </li>
+          <li>
+            <gd>Chunnaic sinn <m>iolair mhór</m> an diugh.</gd>
+            <tr>We saw a big eagle today.</tr>
+            <ref text="617">td. 9 [226]</ref>
+          </li>
         </xl>
       </p>
     </section>
-    <section id="complement">
+    <section id="deps-comp">
       <h>complement</h>
       <p>Some examples – <xl>
           <li>
             <gd>Chunnaic mi cù <m>aig an dorus</m>.</gd>
             <tr>I saw a dog at the door.</tr>
             <ref text="617">td. 6</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="deps-mods">
+      <h>modifiers</h>
+      <p>Some examples with temporal modifiers – <xl>
+          <li>
+            <gd>Chunnaic sinn iolair mhór <m>an diugh</m>.</gd>
+            <tr>We saw a big eagle today.</tr>
+            <ref text="617">td. 9 [226]</ref>
           </li>
         </xl>
       </p>

@@ -5,10 +5,26 @@
         <en>tired</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
 
     <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>
+                <xl>
+                    <li>
+                        <gd>Tha mi <m>glé sgìth</m>.</gd>
+                        <tr>I am very tired.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
         <h>uses</h>
         <section id="uses-predicate">
             <h>predicate</h>
-            <p><g>trang</g> can be used as the predicate of the verb <a href="?gd=bi"
+            <p><g>sgìth</g> can be used as the predicate of the verb <a href="?gd=bi"
                 ><g>bi</g></a>.</p>
             <p>Examples with a human subject – <xl>
                     <li>
@@ -20,6 +36,26 @@
                         <gd>Tha sibh trang ag obair anns an achadh agus tha sibh <m>sgìth</m>.</gd>
                         <tr>You are busy working in the field and you are tired.</tr>
                         <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Màiri bheag <m>sgìth</m>.</gd>
+                        <tr>Little Mary is tired.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                    <li>
+                        <gd>Tha mi fuar agus tha mi <m>sgìth</m>.</gd>
+                        <tr>I am cold and I am tired.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                    <li>
+                        <gd>A bheil thu sgìth?</gd>
+                        <tr>Are you tired?</tr>
+                        <ref text="617">td. 11</ref>
+                    </li>
+                    <li>
+                        <gd>Nach eil thu sgìth?</gd>
+                        <tr>Aren’t you tired?</tr>
+                        <ref text="617">td. 14</ref>
                     </li>
                 </xl>
             </p>

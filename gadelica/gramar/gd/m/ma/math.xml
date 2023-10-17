@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module id="top">
-    <h lang="en">math</h>
-    <h lang="gd">math</h>
-    <p lang="en">cf. <a href="?gd=tomhas">tomhas math</a>
+<module>
+    <h>math</h>
+    <p><g>math</g>
+        <en>good</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+    
+    <section>
+        <h>uses</h>
+        <section id="uses-mod">
+            <h>modifier</h>
+            <p><g>math</g> can be used to modify a <a href="?xx=nouns/common_nouns">common noun</a>.</p>
+            <p>Some examples – <xl>
+                <li>
+                    <gd>Tha <m>latha math</m> ann an diugh.</gd>
+                    <tr>It is a nice day today.</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+    </section>
+    
+    
+   <!-- <p lang="en">cf. <a href="?gd=tomhas">tomhas math</a>
         <en>a good measure</en></p>
     <p lang="gd">...</p>
     <module id="is_math">
@@ -99,5 +118,5 @@
             </xl>
         </p>
         <p lang="gd">...</p>
-    </module>
+    </module>-->
 </module>

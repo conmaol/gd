@@ -19,9 +19,9 @@
         <h>dependents</h>
         <section id="deps-mods">
             <h>modifiers</h>
-            <p>Like all proper nouns, <g>Màiri</g> can be modified by an attributive <a href="?xx=adjectives/adjective">adjective</a>.</p>
-            <p>Some examples –
-                <xl>
+            <p>Like all proper nouns, <g>Màiri</g> can be modified by an attributive <a
+                    href="?xx=adjectives/adjective">adjective</a>.</p>
+            <p>Some examples – <xl>
                     <li>
                         <gd>Tha <m>Màiri bheag</m> bàn.</gd>
                         <tr>Little Mary is fair-haired.</tr>
@@ -31,6 +31,17 @@
                         <gd>Tha Calum mór agus <m>Màiri bheag</m> ag obair gu trang anns an achadh
                             an diugh.</gd>
                         <tr>Big Malcolm and little Mary are working busily in the field today.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>Màiri bheag</m> sgìth.</gd>
+                        <tr>Little Mary is tired.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>Màiri bhàn</m> anns an achadh an diugh agus tha i ag obair gu
+                            trang.</gd>
+                        <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
                         <ref text="617">td. 9</ref>
                     </li>
                 </xl>
@@ -59,6 +70,12 @@
                         <tr>Mary is small and fair-haired.</tr>
                         <ref text="617">td. 8</ref>
                     </li>
+                    <li>
+                        <gd>Tha <m>Màiri</m> bhàn anns an achadh an diugh agus tha i ag obair gu
+                            trang.</gd>
+                        <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
                 </xl>
             </p>
             <p>In a conjoined subject with <a href="?gd=agus"><g>agus</g></a>
@@ -81,12 +98,12 @@
             <h>complement</h>
             <p><g>Màiri</g> can be used as the complement of a preposition.</p>
             <p>Some examples – <xl>
-                <li>
-                    <gd>Tha falt dubh air Calum ach tha falt bàn <m>air Màiri</m>.</gd>
-                    <tr>Calum has black hair but Mary has fair hair.</tr>
-                    <ref text="617">td. 9</ref>
-                </li>
-            </xl>
+                    <li>
+                        <gd>Tha falt dubh air Calum ach tha falt bàn <m>air Màiri</m>.</gd>
+                        <tr>Calum has black hair but Mary has fair hair.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                </xl>
             </p>
         </section>
     </section>

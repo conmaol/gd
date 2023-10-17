@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>àrd</h>
-    <p><b>àrd</b>
-        <en>high, tall</en> is an adjective.</p>
-
+    <p><g>àrd</g>
+        <en>high, tall</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+    
+    
+   
+<!--
     <module id="prefix">
         <h>àrd-</h>
         <p>cf. <a href="?gd=easbaig">easbaig</a>
@@ -12,5 +15,5 @@
             <masc/>
             <en>archbishop</en>.</p>
     </module>
-
+-->
 </module>

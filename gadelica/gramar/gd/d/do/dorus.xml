@@ -134,6 +134,11 @@
                         <tr>I saw a dog at the door.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
+                    <li>
+                        <gd>A bheil an cù aig <m>an dorus</m>?</gd>
+                        <tr>Is the dog at the door?</tr>
+                        <ref text="617">td. 11</ref>
+                    </li>
                 </xl>
             </p>
         </section>
@@ -167,6 +172,11 @@
                         <gd>Chunnaic mi cù <m>aig an dorus</m>.</gd>
                         <tr>I saw a dog at the door.</tr>
                         <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>A bheil an cù <m>aig an dorus</m>?</gd>
+                        <tr>Is the dog at the door?</tr>
+                        <ref text="617">td. 11</ref>
                     </li>
                 </xl>
             </p>

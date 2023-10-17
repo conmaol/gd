@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>teth</h>
+    <p><g>teth</g>
+        <en>hot</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+    
+    
+</module>
+

@@ -2,12 +2,13 @@
 <module>
     <h>index</h>
 
-
     <p>The following grammatical topics are discussed here – <ul>
             <li><a href="?xx=verbs/verbs">verbs</a>
                 <ul>
                     <li><a href="?xx=verbs/simple_verbs">simple verbs</a> – <a href="?gd=bi"
                                 ><g>bi</g></a>, <a href="?gd=faic"><g>faic</g></a></li>
+                    <li>verb particles – <a href="?gd=an^particle"><g>an</g></a>, <a href="?gd=cha"
+                                ><g>cha</g></a>, <a href="?gd=nach"><g>nach</g></a></li>
                 </ul>
             </li>
             <li><a href="?xx=nouns/nouns">nouns</a>
@@ -32,29 +33,46 @@
                     </li>
                     <li><a href="?xx=nouns/pronouns">pronouns</a>
                         <ul>
-                            <li>personal pronouns – mi, thu, sinn, sibh, i, e, iad</li>
+                            <li><a href="?xx=nouns/personal_pronouns">personal pronouns</a> – <a
+                                    href="?gd=mi"><g>mi</g></a>, <a href="?gd=thu"><g>thu</g></a>,
+                                    <a href="?gd=sinn"><g>sinn</g></a>, <a href="?gd=sibh"
+                                        ><g>sibh</g></a>, <a href="?gd=i_"><g>i</g></a>, <a
+                                    href="?gd=e_"><g>e</g></a>, <a href="?gd=iad"
+                                ><g>iad</g></a></li>
                         </ul>
                     </li>
-                    <li>determiners <ul>
-                            <li>definite article</li>
+                    <li><a href="?xx=nouns/determiners">determiners</a>
+                        <ul>
+                            <li><a href="?xx=nouns/definite_article">definite article</a></li>
                         </ul>
                     </li>
                 </ul>
             </li>
             <li><a href="?xx=adjectives/adjectives">adjectives</a>
                 <ul>
-                    <li><a href="?xx=adjectives/simple_adjectives">simple adjectives</a> – <a
-                            href="?gd=baan"><g>bàn</g></a>, <a href="?gd=beag"><g>beag</g></a>, <a
+                    <li><a href="?xx=adjectives/simple_adjectives">simple adjectives</a> – 
+                        <a href="?gd=aard"><g>àrd</g></a>,
+                        <a
+                            href="?gd=baan"><g>bàn</g></a>, <a href="?gd=beag"><g>beag</g></a>, 
+                        <a href="?gd=blaath"><g>blàth</g></a>,
+                        <a
                             href="?gd=dubh"><g>dubh</g></a>, <a href="?gd=fliuch"><g>fliuch</g></a>,
-                            <a href="?gd=fuar"><g>fuar</g></a>, <a href="?gd=moor"><g>mór</g></a>,
-                            <a href="?gd=sgiith"><g>sgìth</g></a>, <a href="?gd=trang"
+                            <a href="?gd=fuar"><g>fuar</g></a>, 
+                        <a href="?gd=geal"><g>geal</g></a>,
+                        <a href="?gd=glas"><g>glas</g></a>, <a href="?gd=luath"><g>luath</g></a>,
+                        <a href="?gd=math"><g>math</g></a>,
+                        <a href="?gd=moor"><g>mór</g></a>,
+                        <a href="?gd=salach"><g>salach</g></a>,
+                            <a href="?gd=sgiith"><g>sgìth</g></a>, 
+                        <a href="?gd=teth"><g>teth</g></a>,
+                        <a href="?gd=trang"
                             ><g>trang</g></a></li>
+                    <li>intensifiers – <a href="?gd=glee"><g>glé</g></a></li>
                 </ul>
             </li>
             <li><a href="?xx=prepositions/prepositions">prepositions</a> – <a href="?gd=aig"
-                ><g>aig</g></a> (<a href="?gd=ag"><g>ag</g></a>), <a
-                    href="?gd=air"><g>air</g></a>, <a
-                    href="?gd=an^preposition"><g>an</g></a></li>
+                        ><g>aig</g></a> (<a href="?gd=ag"><g>ag</g></a>), <a href="?gd=air"
+                        ><g>air</g></a>, <a href="?gd=an^preposition"><g>an</g></a></li>
             <li><a href="?xx=prepositions/adverbs">adverbs</a> – <a href="?gd=gu"><g>gu</g></a>, <a
                     href="?gd=an_diugh"><g>an diugh</g></a></li>
             <li>conjunctions – <a href="?gd=agus"><g>agus</g></a>, <a href="?gd=ach"

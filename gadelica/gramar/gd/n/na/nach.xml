@@ -1,9 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module id="top">
-    <h lang="en">nach</h>
-    <h lang="gd">nach</h>
+<module>
+    <h>nach</h>
+    <p><g>nach</g> is the negative interrogative verb particle.</p>
 
-    <module id="cleft">
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>complement</h>
+            <p>The complement of <g>nach</g> is a dependent verb form.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Nach <m>eil</m> Calum anns an achadh?</gd>
+                        <tr>Isn’t Malcolm in the field?</tr>
+                        <ref text="617">td. 11</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-root">
+            <h>root</h>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd><m>Nach</m> eil Calum anns an achadh?</gd>
+                        <tr>Isn’t Malcolm in the field?</tr>
+                        <ref text="617">td. 11</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+
+
+
+
+
+
+
+    <!-- <module id="cleft">
         <h lang="en">cleft clauses</h>
         <h lang="gd">...</h>
         <p lang="en">Examples from Gairm – <xl id="cleft-gairm">
@@ -25,9 +64,9 @@
             </xl>
         </p>
         <p lang="gd">...</p>
-    </module>
+    </module>-->
 
-    <module id="relative">
+    <!--<module id="relative">
         <h lang="en">relative clauses</h>
         <h lang="gd">...</h>
         <p lang="en">Examples from Gairm – <xl id="relative-gairm">
@@ -69,6 +108,6 @@
             </xl>
         </p>
         <p lang="gd">...</p>
-    </module>
+    </module>-->
 
 </module>

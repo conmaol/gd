@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>luath</h>
+    <p><g>luath</g>
+        <en>swift, fast</en> is a <a href="?xx=adjectives/simple_adjectives">simple
+        adjective</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>
+                <xl>
+                    <li>
+                        <gd>Tha an cù <m>glé luath</m>.</gd>
+                        <tr>The dog is very fast.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>predicate</h>
+            <p><g>luath</g> can be used as the predicate of the verb <a href="?gd=bi"
+                ><g>bi</g></a>.</p>
+            <p>Examples with an animate subject – <xl>
+                    <li>
+                        <gd>A bheil an cù <m>luath</m>?</gd>
+                        <tr>Is the dog fast?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
+            </p>
+
+        </section>
+    </section>
+
+</module>
