@@ -5,7 +5,6 @@
         <en>Mary</en> is a feminine <a href="?xx=nouns/anthroponymic_proper_nouns">anthroponymic
             proper noun</a>.</p>
 
-
     <section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>Màiri</g> are – <ul>
@@ -19,29 +18,17 @@
         <h>dependents</h>
         <section id="deps-mods">
             <h>modifiers</h>
-            <p>Like all proper nouns, <g>Màiri</g> can be modified by an attributive <a
+            <p>Like other (proper) nouns, <g>Màiri</g> can be (post-)modified by an (attributive) <a
                     href="?xx=adjectives/adjective">adjective</a>.</p>
             <p>Some examples – <xl>
-                    <li>
-                        <gd>Tha <m>Màiri bheag</m> bàn.</gd>
-                        <tr>Little Mary is fair-haired.</tr>
-                        <ref text="617">td. 9</ref>
-                    </li>
-                    <li>
-                        <gd>Tha Calum mór agus <m>Màiri bheag</m> ag obair gu trang anns an achadh
-                            an diugh.</gd>
-                        <tr>Big Malcolm and little Mary are working busily in the field today.</tr>
-                        <ref text="617">td. 9</ref>
-                    </li>
                     <li>
                         <gd>Tha <m>Màiri bheag</m> sgìth.</gd>
                         <tr>Little Mary is tired.</tr>
                         <ref text="617">td. 9</ref>
                     </li>
                     <li>
-                        <gd>Tha <m>Màiri bhàn</m> anns an achadh an diugh agus tha i ag obair gu
-                            trang.</gd>
-                        <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
+                        <gd>Tha <m>Màiri bhàn</m> anns an achadh an diugh.</gd>
+                        <tr>Fair-headed Mary is in the field today.</tr>
                         <ref text="617">td. 9</ref>
                     </li>
                 </xl>
@@ -53,13 +40,10 @@
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
+            <p>Like other (proper) nouns, <g>Màiri</g> can be used as the subject of a <a
+                    href="?xx=verbs/verbs">verb</a>.</p>
             <p>Examples with <a href="?gd=bi"><g>bi</g></a>
                 <en>be</en> – <xl>
-                    <li>
-                        <gd>Tha <m>Màiri</m> beag.</gd>
-                        <tr>Mary is small.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
                     <li>
                         <gd>Tha <m>Màiri</m> ag obair.</gd>
                         <tr>Mary is working.</tr>
@@ -71,14 +55,22 @@
                         <ref text="617">td. 8</ref>
                     </li>
                     <li>
-                        <gd>Tha <m>Màiri</m> bhàn anns an achadh an diugh agus tha i ag obair gu
-                            trang.</gd>
-                        <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
+                        <gd>Tha <m>Màiri bhàn</m> anns an achadh an diugh.</gd>
+                        <tr>Fair-headed Mary is in the field today.</tr>
                         <ref text="617">td. 9</ref>
                     </li>
                 </xl>
             </p>
-            <p>In a conjoined subject with <a href="?gd=agus"><g>agus</g></a>
+            <p>Examples with demonstrative pronouns used as copular verbs – <xl>
+                    <li>
+                        <gd>Seo <m>Màiri</m>.</gd>
+                        <tr>This is Mary.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl>
+            </p>
+            <p><g>Màiri</g> can also be used as part of a conjoined subject linked by <a
+                    href="?gd=agus"><g>agus</g></a>
                 <en>and</en> – <xl>
                     <li>
                         <gd>Tha <m>Màiri agus Calum</m> ag obair anns an achadh an diugh.</gd>
@@ -86,22 +78,22 @@
                         <ref text="617">td. 6–7</ref>
                     </li>
                     <li>
-                        <gd>Tha <m>Calum mór agus Màiri bheag</m> ag obair gu trang anns an achadh
-                            an diugh.</gd>
-                        <tr>Big Malcolm and little Mary are working busily in the field today.</tr>
-                        <ref text="617">td. 9</ref>
+                        <gd>Nach eil <m>Calum agus Màiri</m> anns an sgoil an diugh?</gd>
+                        <tr>Aren’t Malcolm and Mary in the school today?</tr>
+                        <ref text="617">td. 15 [228]</ref>
                     </li>
                 </xl>
             </p>
         </section>
         <section id="uses-comp">
             <h>complement</h>
-            <p><g>Màiri</g> can be used as the complement of a preposition.</p>
+            <p>Like other (proper) nouns, <g>Màiri</g> can be used as the complement of a <a
+                    href="?xx=prepositions/prepositions">preposition</a>.</p>
             <p>Some examples – <xl>
                     <li>
-                        <gd>Tha falt dubh air Calum ach tha falt bàn <m>air Màiri</m>.</gd>
-                        <tr>Calum has black hair but Mary has fair hair.</tr>
-                        <ref text="617">td. 9</ref>
+                        <gd>Tha falt bàn <m>air Màiri</m>.</gd>
+                        <tr>Mary has fair hair.</tr>
+                        <ref text="617">td. 9 [adapted]</ref>
                     </li>
                 </xl>
             </p>

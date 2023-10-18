@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>sgoil</h>
     <p><g>sgoil</g>
-        <en>school</en> is a feminion common noun.</p>
-    <p>Examples from Gairm – <xl id="gairm">
+        <en>school</en> is a feminine <a href="?xx=nouns/common_nouns">common noun</a>.</p>
+    
+    
+    <!--<p>Examples from Gairm – <xl id="gairm">
             <li>
                 <gd>Ma rannsaicheas sinn air ais fada gu leòir chì sinn nach robh <m>sgoilean</m>
                     anns an Oban gus an ochdamh linn deug. Bha <m>an sgoil bheag a b’ fhaisge
@@ -38,5 +40,5 @@
                 <ref text="2">td. 5</ref>
             </li>
         </xl>
-    </p>
+    </p>-->
 </module>

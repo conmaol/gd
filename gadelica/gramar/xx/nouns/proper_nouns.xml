@@ -5,6 +5,130 @@
       >names</a>, identifying and referring to particular, definite entities – a specific person,
     object, place, group, etc.</p>
 
+  <p>As names, proper nouns belong to different semantic classes, depending on the kind of
+    entity they identify – <ul>
+      <li><a href="?xx=nouns/anthroponymic_proper_nouns">Anthroponymic proper nouns</a> name
+        individual persons (including personified entities) – <g>Mairead</g>
+        <fem/>
+        <en>Margaret</en>, <g>Seumas</g>
+        <masc/>
+        <en>James</en>.</li>
+      <!-- <li><a href="?xx=nouns/toponymic_proper_nouns">Toponymic proper nouns</a> name places
+          (geographical and cosmological entities) – <g>Leòdhas</g>
+          <masc/>
+          <en>Lewis</en>, <g>Sasainn</g>
+          <fem/>
+          <en>England</en>, <g>Bheunas</g>
+          <masc/>
+          <en>Venus</en>.</li>
+        <li><a href="?xx=nouns/ergonyms">Ergonymic</a> proper nouns name groups, teams,
+          organisations, companies <etc/> (social entities) – <g>Misneachd</g>
+          <en>[name of pressure group]</en>, <g>CNAG</g>
+          <en>[acronymic name of government agency]</en>.</li>
+        <li><a href="?xx=nouns/chrematonyms">Chrematonymic</a> proper nouns name songs, poems,
+          stories and other creative works – <g>Gairm</g>
+          <en>[name of literary periodical]</en>, <g>Bannan</g>
+          <en>[name of television drama serial]</en></li>
+        <li><a href="?xx=nouns/glottonyms">Glottonymic</a> proper nouns name languages and dialects
+          – <g>Laideann</g>
+          <fem/>
+          <en>Latin</en>, <g>Albais</g>
+          <fem/>
+          <en>Scots</en>.</li>-->
+    </ul>
+  </p>
+
+  <section>
+    <h>dependents</h>
+    <section id="deps-mods">
+      <h>modifiers</h>
+      <p>Like other nouns, proper nouns can be (post-)modified by an (attributive) <a
+          href="?xx=adjectives/adjective">adjective</a>.</p>
+      <p>Some masculine examples – <xl>
+          <li>
+            <gd>Tha <m>Calum mór</m> ag obair gu trang anns an achadh an diugh.</gd>
+            <tr>Big Malcolm is working busily in the field today.</tr>
+            <ref text="617">td. 9 [adapted]</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Some feminine examples – <xl>
+          <li>
+            <gd>Tha <m>Màiri bheag</m> sgìth.</gd>
+            <tr>Little Mary is tired.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section id="uses-sbj">
+      <h>subject</h>
+      <p>Like other nouns, proper nouns can be used as the subject of a <a
+          href="?xx=verbs/verbs">verb</a>.</p>
+      <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+        <en>be</en> – <xl>
+          <li>
+            <gd>A bheil <m>Seònaid</m> anns an sgoil an diugh?</gd>
+            <tr>Is Janet in the school today?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Dé tha <m>Seumas</m> a’ dèanamh an diugh?</gd>
+            <tr>What is James doing today?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Examples with demonstrative pronouns used as copular verbs – <xl>
+          <li>
+            <gd>Seo <m>Màiri</m>.</gd>
+            <tr>This is Mary.</tr>
+            <ref text="617">td. 15</ref>
+          </li>
+          <li>
+            <gd>Seo <m>Calum</m>.</gd>
+            <tr>This is Malcolm.</tr>
+            <ref text="617">td. 15</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Examples involving conjoined subjects linked by <a href="?gd=agus"><g>agus</g></a>
+        <en>and</en> – <xl>
+          <li>
+            <gd>Nach eil <m>Calum agus Màiri</m> anns an sgoil an diugh?</gd>
+            <tr>Aren’t Malcolm and Mary in the school today?</tr>
+            <ref text="617">td. 15 [228]</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="uses-comp">
+      <h>complement</h>
+      <p>Like other nouns, proper nouns can be used as the complement of a <a
+          href="?xx=prepositions/prepositions">preposition</a>.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>A bheil ceann mór <m>air Seumas</m>?</gd>
+            <tr>Does James have a big head?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Tha an cat anns an taigh còmhla <m>ri Seònaid</m>.</gd>
+            <tr>The cat is in the house with Janet.</tr>
+            <ref text="617">td. 14 [adapted]</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
+
+
+
+
   <!--<p>Examples of proper nouns are – <ul>
       <li><g>Raonaid</g>
         <fem/>
@@ -225,38 +349,7 @@
   </section>-->
   <!--<section id="uses">
     <h>uses</h>-->
-  <p>Like other names, proper nouns belong to different semantic classes, depending on the kind of
-    entity they identify – <ul>
-      <li><a href="?xx=nouns/anthroponymic_proper_nouns">Anthroponymic proper nouns</a> name
-        individual persons (including personified entities) – <g>Mairead</g>
-        <fem/>
-        <en>Margaret</en>, <g>Seumas</g>
-        <masc/>
-        <en>James</en>.</li>
-      <!-- <li><a href="?xx=nouns/toponymic_proper_nouns">Toponymic proper nouns</a> name places
-          (geographical and cosmological entities) – <g>Leòdhas</g>
-          <masc/>
-          <en>Lewis</en>, <g>Sasainn</g>
-          <fem/>
-          <en>England</en>, <g>Bheunas</g>
-          <masc/>
-          <en>Venus</en>.</li>
-        <li><a href="?xx=nouns/ergonyms">Ergonymic</a> proper nouns name groups, teams,
-          organisations, companies <etc/> (social entities) – <g>Misneachd</g>
-          <en>[name of pressure group]</en>, <g>CNAG</g>
-          <en>[acronymic name of government agency]</en>.</li>
-        <li><a href="?xx=nouns/chrematonyms">Chrematonymic</a> proper nouns name songs, poems,
-          stories and other creative works – <g>Gairm</g>
-          <en>[name of literary periodical]</en>, <g>Bannan</g>
-          <en>[name of television drama serial]</en></li>
-        <li><a href="?xx=nouns/glottonyms">Glottonymic</a> proper nouns name languages and dialects
-          – <g>Laideann</g>
-          <fem/>
-          <en>Latin</en>, <g>Albais</g>
-          <fem/>
-          <en>Scots</en>.</li>-->
-    </ul>
-  </p>
+  
   <!--
     <p>Anthroponymic, toponymic and ergonymic proper nouns are generally concrete, associated with a
       material sense. Chrematonymic and glottonymic proper nouns are usually abstract, associated

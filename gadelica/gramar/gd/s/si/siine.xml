@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
-    <h>Calum</h>
-    <p><g>Calum</g>
-        <en>Malcolm</en> is a masculine <a href="?xx=nouns/anthroponymic_proper_nouns">anthroponymic
+    <h>Sìne</h>
+    <p><g>Sìne</g>
+        <en>Janet</en> is a feminine <a href="?xx=nouns/anthroponymic_proper_nouns">anthroponymic
             proper noun</a>.</p>
-
+    
     <section id="forms">
         <h>forms</h>
-        <p>The principal parts of <g>Calum</g> are – <ul>
-                <li><m>Calum</m> – nominative/dative (singular)</li>
-                <li><m>Chaluim</m> – genitive (singular)</li>
-                <li><m>A Chaluim!</m> – vocative</li>
-            </ul>
+        <p>The principal parts of <g>Sìne</g> are – <ul>
+            <li><m>Sìne</m> – nominative/dative/genitive (singular)</li>
+            <li><m>A Shìne!</m> – vocative</li>
+        </ul>
         </p>
     </section>
-
-    <section>
+    
+    
+    <!--<section>
         <h>dependents</h>
         <section id="deps-mods">
             <h>modifiers</h>
             <p>Like other (proper) nouns, <g>Calum</g> can be (post-)modified by an (attributive) <a
-                    href="?xx=adjectives/adjective">adjective</a>.</p>
+                href="?xx=adjectives/adjective">adjective</a>.</p>
             <p>Some examples – <xl>
-                    <li>
-                        <gd>Tha <m>Calum mór</m> ag obair gu trang anns an achadh an diugh.</gd>
-                        <tr>Big Malcolm is working busily in the field today.</tr>
-                        <ref text="617">td. 9 [adapted]</ref>
-                    </li>
-                </xl>
+                <li>
+                    <gd>Tha <m>Calum mór</m> ag obair gu trang anns an achadh an diugh.</gd>
+                    <tr>Big Malcolm is working busily in the field today.</tr>
+                    <ref text="617">td. 9 [adapted]</ref>
+                </li>
+            </xl>
             </p>
         </section>
-    </section>
-
+    </section>-->
+    
     <section>
         <h>uses</h>
-        <section id="uses-sbj">
+        <!--<section id="uses-sbj">
             <h>subject</h>
             <p>Like other (proper) nouns, <g>Calum</g> can be used as the subject of a <a
-                    href="?xx=verbs/verbs">verb</a>.</p>
+                href="?xx=verbs/verbs">verb</a>.</p>
             <p>Examples with <a href="?gd=bi"><g>bi</g></a>
                 <en>be</en> – <xl>
                     <li>
@@ -58,15 +58,15 @@
                 </xl>
             </p>
             <p>Examples with demonstrative pronouns used as copular verbs – <xl>
-                    <li>
-                        <gd>Seo <m>Calum</m>.</gd>
-                        <tr>This is Malcolm.</tr>
-                        <ref text="617">td. 15</ref>
-                    </li>
-                </xl>
+                <li>
+                    <gd>Seo <m>Calum</m>.</gd>
+                    <tr>This is Malcolm.</tr>
+                    <ref text="617">td. 15</ref>
+                </li>
+            </xl>
             </p>
             <p><g>Calum</g> can also be used as part of a conjoined subject linked by <a
-                    href="?gd=agus"><g>agus</g></a>
+                href="?gd=agus"><g>agus</g></a>
                 <en>and</en> – <xl>
                     <li>
                         <gd>Tha <m>Màiri agus Calum</m> trang an diugh.</gd>
@@ -80,25 +80,28 @@
                     </li>
                 </xl>
             </p>
-        </section>
-        <section id="uses-comp">
+        </section>-->
+        <!--<section id="uses-comp">
             <h>complement</h>
             <p>Like other (proper) nouns, <g>Calum</g> can be used as the complement of a <a
-                    href="?xx=prepositions/prepositions">preposition</a>.</p>
+                href="?xx=prepositions/prepositions">preposition</a>.</p>
             <p>Some examples – <xl>
-                    <li>
-                        <gd>Tha falt dubh <m>air Calum</m>.</gd>
-                        <tr>Calum has black hair.</tr>
-                        <ref text="617">td. 9</ref>
-                    </li>
-                    <li>
-                        <gd>Tha an cù còmhla <m>ri Calum</m> anns an achadh an diugh.</gd>
-                        <tr>The dog is with Malcolm in the field today.</tr>
-                        <ref text="617">td. 15</ref>
-                    </li>
-                </xl>
+                <li>
+                    <gd>Tha falt dubh <m>air Calum</m>.</gd>
+                    <tr>Calum has black hair.</tr>
+                    <ref text="617">td. 9</ref>
+                </li>
+                <li>
+                    <gd>Tha an cù còmhla <m>ri Calum</m> anns an achadh an diugh.</gd>
+                    <tr>The dog is with Malcolm in the field today.</tr>
+                    <ref text="617">td. 15</ref>
+                </li>
+            </xl>
             </p>
-        </section>
+        </section>-->
     </section>
-
+    
+    
+    
 </module>
+

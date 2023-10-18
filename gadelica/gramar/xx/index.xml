@@ -16,8 +16,10 @@
                     <li><a href="?xx=nouns/proper_nouns">proper nouns</a>
                         <ul>
                             <li><a href="?xx=nouns/anthroponymic_proper_nouns">anthroponymic proper
-                                    nouns</a> – <a href="?gd=Maairi"><g>Màiri</g></a>, <a
-                                    href="?gd=Calum"><g>Calum</g></a></li>
+                                    nouns</a> – <a href="?gd=calum"><g>Calum</g></a>, <a
+                                    href="?gd=maairi"><g>Màiri</g></a>, <a href="?gd=seoonaid"
+                                        ><g>Seònaid</g></a>, <a href="?gd=seumas"><g>Seumas</g></a>,
+                                    <a href="?gd=siine"><g>Sìne</g></a></li>
                         </ul>
                     </li>
                     <li><a href="?xx=nouns/common_nouns">common nouns</a>
@@ -50,24 +52,17 @@
             </li>
             <li><a href="?xx=adjectives/adjectives">adjectives</a>
                 <ul>
-                    <li><a href="?xx=adjectives/simple_adjectives">simple adjectives</a> – 
-                        <a href="?gd=aard"><g>àrd</g></a>,
-                        <a
-                            href="?gd=baan"><g>bàn</g></a>, <a href="?gd=beag"><g>beag</g></a>, 
-                        <a href="?gd=blaath"><g>blàth</g></a>,
-                        <a href="?gd=breeagha"><g>brèagha</g></a>,
-                        <a
-                            href="?gd=dubh"><g>dubh</g></a>, <a href="?gd=fliuch"><g>fliuch</g></a>,
-                            <a href="?gd=fuar"><g>fuar</g></a>, 
-                        <a href="?gd=geal"><g>geal</g></a>,
-                        <a href="?gd=glas"><g>glas</g></a>, <a href="?gd=luath"><g>luath</g></a>,
-                        <a href="?gd=math"><g>math</g></a>,
-                        <a href="?gd=moor"><g>mór</g></a>,
-                        <a href="?gd=salach"><g>salach</g></a>,
-                            <a href="?gd=sgiith"><g>sgìth</g></a>, 
-                        <a href="?gd=teth"><g>teth</g></a>,
-                        <a href="?gd=trang"
-                            ><g>trang</g></a></li>
+                    <li><a href="?xx=adjectives/simple_adjectives">simple adjectives</a> – <a
+                            href="?gd=aard"><g>àrd</g></a>, <a href="?gd=baan"><g>bàn</g></a>, <a
+                            href="?gd=beag"><g>beag</g></a>, <a href="?gd=blaath"><g>blàth</g></a>,
+                            <a href="?gd=breeagha"><g>brèagha</g></a>, <a href="?gd=dubh"
+                                ><g>dubh</g></a>, <a href="?gd=fliuch"><g>fliuch</g></a>, <a
+                            href="?gd=fuar"><g>fuar</g></a>, <a href="?gd=geal"><g>geal</g></a>, <a
+                            href="?gd=glas"><g>glas</g></a>, <a href="?gd=luath"><g>luath</g></a>,
+                            <a href="?gd=math"><g>math</g></a>, <a href="?gd=moor"><g>mór</g></a>,
+                            <a href="?gd=salach"><g>salach</g></a>, <a href="?gd=sgiith"
+                                ><g>sgìth</g></a>, <a href="?gd=teth"><g>teth</g></a>, <a
+                            href="?gd=trang"><g>trang</g></a></li>
                     <li>intensifiers – <a href="?gd=glee"><g>glé</g></a></li>
                 </ul>
             </li>
@@ -81,7 +76,11 @@
         </ul>
     </p>
     <p>The following semantic topics are discussed here – <ul>
-            <li>names</li>
+            <li><a href="?xx=nouns/names">names</a>
+            <ul>
+                <li><a href="?xx=nouns/anthroponyms">anthroponyms</a></li>
+            </ul>
+            </li>
         </ul>
     </p>
 
