@@ -4,26 +4,38 @@
     <p><g>fliuch</g>
         <en>wet</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
 
+    <!--<section>
+        <h>dependents</h>
+        <section id="deps-spr">
+            <h>specifier</h>
+            <p>Like other (gradable) adjectives, <g>fliuch</g> can occur with an intensifying
+                pre-specifier like <a href="?gd=glee"><g>glé</g></a>
+                <en>very</en>.</p>
+            <p>Some examples – <xl> </xl>
+            </p>
+        </section>
+    </section>-->
+
     <section>
         <h>uses</h>
         <section id="uses-predicate">
             <h>predicate</h>
-            <p><g>trang</g> can be used as the predicate of the verb <a href="?gd=bi"
-                ><g>bi</g></a>.</p>
-            <p>Examples with a human subject – <xl>
+            <p>Like other adjectives, <g>fliuch</g> can be used (uninflected) as the predicate of
+                the verb <a href="?gd=bi"><g>bi</g></a>.</p>
+            <p>Some examples –<xl>
                     <li>
                         <gd>Tha Màiri agus Calum <m>fliuch</m> agus fuar.</gd>
                         <tr>Mary and Malcolm are wet and cold.</tr>
                         <ref text="617">td. 7 [226]</ref>
                     </li>
-                <li>
-                    <gd>A bheil sibh <m>fliuch</m>?</gd>
-                    <tr>Are you wet?</tr>
-                    <ref text="617">td. 14</ref>
-                </li>
-            </xl>
+                    <li>
+                        <gd>A bheil sibh <m>fliuch</m>?</gd>
+                        <tr>Are you wet?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
             </p>
-            <p>Examples with a non-referential, ‘dummy’ subject pronoun – <xl>
+            <p>Examples with a non-referential subject pronoun – <xl>
                     <li>
                         <gd>Tha e <m>fliuch</m> an diugh.</gd>
                         <tr>It is wet today.</tr>
@@ -32,6 +44,21 @@
                 </xl>
             </p>
         </section>
+        <!-- <section id="uses-mod">
+            <h>modifier</h>
+            <p>Like other adjectives, <g>fliuch</g> can be used as a modifier of a <a
+                href="?xx=nouns/nouns">noun</a></p>
+            <p>Examples with masculine nouns – <xl>
+            </xl>
+            </p>
+        </section>-->
+        <!--<section id="uses-comp">
+            <h>complement</h>
+            <p>Like many other adjectives, <g>fliuch</g> can be used as the complement of the
+                adverbialising particle <a href="?gd=gu"><g>gu</g></a>.</p>
+            <p>Some examples – <xl> </xl>
+            </p>
+        </section>-->
     </section>
 
 

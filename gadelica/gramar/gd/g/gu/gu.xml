@@ -2,15 +2,37 @@
 <module>
     <h>gu</h>
     <p><g>gu</g>
-        <en>-ly</en> is the adverbialising particle, creating <a href="?xx=prepositions/adverbs"
-            >adverb</a>-like expressions of manner out of <a href="?xx=adjectives/adjectives">adjectives</a>.</p>
+        <en>-ly</en> is the adverbialising particle, which creates <a
+            href="?xx=prepositions/adverbs">adverb</a>-like expressions of manner out of <a
+            href="?xx=adjectives/adjectives">adjectives</a>.</p>
 
     <section>
         <h>dependents</h>
-        <section>
+        <section id="deps-comp">
             <h>complement</h>
-            <p><g>gu</g> takes an adjective as its complement, deriving an adverbial of manner.</p>
+            <p><g>gu</g> takes an <a href="?xx=adjectives/adjectives">adjective</a> as its
+                complement, deriving an adverbial of manner.</p>
             <p>Some examples – <xl>
+                    <li>
+                        <gd>Tha Calum sgìth – tha e ag obair <m>gu trang</m> anns an achadh.</gd>
+                        <tr>Malcolm is tired – he is working busily in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Ciamar a tha sibh? Tha mi <m>gu math</m>, tapadh leibh.</gd>
+                        <tr>How are you? I am well, thank you.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-mod">
+            <h>modifier</h>
+            <p>Some examples as modifier of a verbal noun – <xl>
                     <li>
                         <gd>Tha Calum sgìth – tha e ag obair <m>gu trang</m> anns an achadh.</gd>
                         <tr>Malcolm is tired – he is working busily in the field.</tr>
@@ -19,6 +41,19 @@
                 </xl>
             </p>
         </section>
+        <section id="uses-pred">
+            <h>predicate</h>
+            <p>Some examples as predicate of <a href="?gd=bi"><g>bi</g></a> <en>be</en> – <xl>
+                    <li>
+                        <gd>Ciamar a tha sibh? Tha mi <m>gu math</m>, tapadh leibh.</gd>
+                        <tr>How are you? I am well, thank you.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl>
+            </p>
+
+        </section>
+
     </section>
 
 </module>

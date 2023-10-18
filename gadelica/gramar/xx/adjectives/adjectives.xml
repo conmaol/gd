@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
   <h>adjectives</h>
-  <p>Adjectives are words which typically describe attributes, properties and qualities of things described by <a
-      href="?xx=nouns/nouns">nouns</a>.</p>
-    <p> For example –
+  <p>Adjectives are words which encode attributes, properties and qualities of those entities which
+    are described by <a href="?xx=nouns/nouns">nouns</a>.</p>
+  <!--<p> For example –
     <ul>
       <li><m>mór</m>
         <en>big, large</en></li>
@@ -13,7 +13,7 @@
         <en>tired</en></li>
       <li><m>trang</m>
         <en>busy</en></li>
-    </ul></p>
+    </ul></p>-->
 
   <!--
   <p>Pedagogical examples – <xl id="pedag">
@@ -31,10 +31,136 @@
   </p>
   -->
 
+  <section>
+    <h>dependents</h>
+    <section id="deps-spr">
+      <h>specifier</h>
+      <p>An adjective can have a pre-specifier – an intensifying word like <a href="?gd=glee"
+            ><g>glé</g></a>
+        <en>very</en>.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Tha an cù <m>glé luath</m>.</gd>
+            <tr>The dog is very fast.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Tha an seomar <m>glé bhlàth</m>.</gd>
+            <tr>The room is very warm.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl>
+      </p>
+      <!-- gradable adjectives only? -->
+    </section>
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section id="uses-pred">
+      <h>predicate</h>
+      <p>An (uninflected) adjective can be used as the predicate of the verb <a href="?gd=bi"
+            ><g>bi</g></a>.</p>
+      <p>Some examples with feminine subjects – <xl>
+          <li>
+            <gd>Tha Màiri <m>trang</m>.</gd>
+            <tr>Mary is busy.</tr>
+            <ref text="617">td. 7 [adapted]</ref>
+          </li>
+          <li>
+            <gd>Chan eil a’ chaileag <m>beag</m>.</gd>
+            <tr>The girl is not small.</tr>
+            <ref text="617">td. 15 [adapted]</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Some examples with masculine subjects – <xl>
+          <li>
+            <gd>Tha Calum <m>sgìth</m>.</gd>
+            <tr>Malcolm is tired.</tr>
+            <ref text="617">td. 7</ref>
+          </li>
+          <li>
+            <gd>A bheil an cù <m>dubh</m>?</gd>
+            <tr>Is the dog black?</tr>
+            <ref text="617">td. 13</ref>
+          </li>
+        </xl>
+      </p>
+      <!--<p>Some examples with plural subjects – <xl> </xl>
+      </p>-->
+      <p>Note that more than one adjective can appear alongside each other as predicates – <xl>
+          <li>
+            <gd>Tha Màiri <m>beag bàn</m>.</gd>
+            <tr>Mary is small and fair-haired.</tr>
+            <ref text="617">td. 8</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="uses-mod">
+      <h>modifier</h>
+      <p>An adjective can be used as a (post-)modifier of a <a href="?xx=nouns/nouns">noun</a>.</p>
+      <p>Some examples with masculine nouns – <xl>
+          <li>
+            <gd>Tha <m>Calum mór</m> ag obair gu trang.</gd>
+            <tr>Big Malcolm is working busily.</tr>
+            <ref text="617">td. 9 [adapted]</ref>
+          </li>
+          <li>
+            <gd>A bheil <m>falt dubh</m> air Seumas?</gd>
+            <tr>Does James have black hair?</tr>
+            <ref text="617">td. 14 [adapted]</ref>
+          </li>
+        </xl>
+      </p>
+      <p>When the modified noun is feminine, the adjective is lenited.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Tha <m>Màiri bhàn</m> anns an achadh an diugh.</gd>
+            <tr>Fair-headed Mary is in the field today.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
+          <li>
+            <gd>Chan eil a’ <m>chaileag bheag</m> anns an sgoil.</gd>
+            <tr>The little girl is not in the school.</tr>
+            <ref text="617">td 14 [228]</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Note that more than one adjective can appear alongside each other as modifiers – <xl>
+          <li>
+            <gd>Tha an <m>cat beag bàn</m> aig an teine.</gd>
+            <tr>The little white cat is by the fire.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
+          <li>
+            <gd>Tha <m>latha brèagha blàth</m> ann.</gd>
+            <tr>It is a beautiful warm day.</tr>
+            <ref text="617">td. 14 [228] [sc. briagha]</ref>
+          </li>
+        </xl></p>
+    </section>
+    <section id="uses-comp">
+      <h>complement</h>
+      <p>An adjective can be used as the complement of the adverbialising particle <a href="?gd=gu"
+            ><g>gu</g></a>.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Tha Calum ag obair <m>gu trang</m> anns an achadh.</gd>
+            <tr>Malcolm is working busily in the field.</tr>
+            <ref text="617">td. 7 [adapted]</ref>
+          </li>
+        </xl></p>
+    </section>
+  </section>
+
   <section id="derivation">
     <h>derivation</h>
-    <p>Adjectives can be divided into three groups, depending on how they are formed – <ul>
-        <li><!--<a href="?xx=adjectives/derived_adjectives">-->Derived adjectives<!--</a>--> are
+    <p>List of <a href="?xx=adjectives/simple_adjectives">simple adjectives</a>.</p>
+
+    <!--<p>Adjectives can be divided into three groups, depending on how they are formed – <ul>
+        <li><!-\-<a href="?xx=adjectives/derived_adjectives">-\->Derived adjectives<!-\-</a>-\-> are
           formed from other adjectives, nouns or verbs – <g>ciall</g>
           <fem/>
           <en>sense</en> ⇒ <m>ciallach</m>
@@ -47,7 +173,7 @@
           <en>break</en> ⇒ <m>briste</m>
           <adj/>
           <en>broken</en>.</li>
-        <li><!--<a href="?xx=adjectives/compound_adjectives">-->Compound adjectives<!--</a>--> are
+        <li><!-\-<a href="?xx=adjectives/compound_adjectives">-\->Compound adjectives<!-\-</a>-\-> are
           formed from other adjectives, typically by addition of a <emph>prefix</emph> –
             <g>cneasta</g>
           <adj/>
@@ -60,8 +186,12 @@
           <en>pale, fair</en>, <m>fliuch</m>
           <en>wet</en>.</li>
       </ul>
-    </p>
+    </p>-->
   </section>
+
+
+
+
 
   <!--<section id="forms">
     <h>forms</h>

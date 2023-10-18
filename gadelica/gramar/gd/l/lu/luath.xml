@@ -7,9 +7,12 @@
 
     <section>
         <h>dependents</h>
-        <section>
+        <section id="deps-spr">
             <h>specifier</h>
-            <p>
+            <p>Like other (gradable) adjectives, <g>luath</g> can occur with an intensifying pre-specifier
+                like <a href="?gd=glee"><g>glé</g></a>
+                <en>very</en>.</p>
+            <p>Some examples –
                 <xl>
                     <li>
                         <gd>Tha an cù <m>glé luath</m>.</gd>
@@ -21,14 +24,13 @@
         </section>
     </section>
 
-
     <section>
         <h>uses</h>
-        <section>
+        <section id="uses-pred">
             <h>predicate</h>
-            <p><g>luath</g> can be used as the predicate of the verb <a href="?gd=bi"
+            <p>Like other adjectives, <g>luath</g> can be used (uninflected) as the predicate of the verb <a href="?gd=bi"
                 ><g>bi</g></a>.</p>
-            <p>Examples with an animate subject – <xl>
+            <p>Some examples – <xl>
                     <li>
                         <gd>A bheil an cù <m>luath</m>?</gd>
                         <tr>Is the dog fast?</tr>
@@ -36,8 +38,23 @@
                     </li>
                 </xl>
             </p>
-
         </section>
+        <!--<section id="uses-mod">
+            <h>modifier</h>
+            <p>Like other adjectives, <g>luath</g> can be used to modify a <a href="?xx=nouns/nouns"
+                >noun</a>.</p>
+            <p>Some examples with masculine nouns – <xl>
+            </xl>
+            </p>
+        </section>-->
+        <!--<section id="uses-comp">
+            <h>complement</h>
+            <p>Like many other adjectives, <g>luath</g> can be used as the complement of the
+                adverbialising particle <a href="?gd=gu"><g>gu</g></a>.</p>
+            <p>Some examples – <xl> </xl>
+            </p>
+        </section>-->
+        
     </section>
 
 </module>

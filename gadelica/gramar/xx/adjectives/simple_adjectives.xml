@@ -13,11 +13,11 @@
             <li><a href="?gd=beag"><g>beag</g></a>
                 <en>small, little</en> – <slen/>
                 <g>big(e)</g></li>
-            <li><g>binn</g>
-                <en>melodious</en></li>
+            <!-- <li><g>binn</g>
+                <en>melodious</en></li>-->
             <li><a href="?gd=blaath"><g>blàth</g></a>
                 <en>warm</en></li>
-            <li><g>bochd</g>
+            <!--<li><g>bochd</g>
                 <en>poor</en> – <slen/> bochd(a)</li>
             <li><g>bog</g>
                 <en>soft</en> – <slen/> buig(e)</li>
@@ -46,50 +46,51 @@
             <li><g>donn</g>
                 <en>brown</en> – <slen/> duinn(e)</li>
             <li><g>dorch</g>
-                <en>dark</en></li>
+                <en>dark</en></li>-->
             <li><a href="?gd=dubh"><g>dubh</g></a>
                 <en>black</en></li>
-            <li><g>fial</g>
-                <en>generous</en> – <slen/> fèil(e)</li>
+            <!--<li><g>fial</g>
+                <en>generous</en> – <slen/> fèil(e)</li>-->
             <li><a href="?gd=fliuch"><g>fliuch</g></a>
                 <en>wet</en> – <slen/>
                 <g>flich(e)</g></li>
             <li><a href="?gd=fuar"><g>fuar</g></a>
                 <en>cold</en> – <slen/>
                 <g>fuair(e)</g></li>
-            <li><g>gann</g>
-                <en>scarce</en> – <slen/> goinn(e)</li>
+            <!--<li><g>gann</g>
+                <en>scarce</en> – <slen/> goinn(e)</li>-->
             <li><a href="?gd=geal"><g>geal</g></a>
-                <en>white</en> – <slen/> gil(e)</li>
-            <li><g>geur</g>
+                <en>white</en> – <slen/>
+                <g>gil(e)</g></li>
+            <!--<li><g>geur</g>
                 <en>sharp</en> – <slen/> gèir(e)</li>
             <li><g>glan</g>
-                <en>clean</en> – <slen/> gloin(e)</li>
+                <en>clean</en> – <slen/> gloin(e)</li>-->
             <li><a href="?gd=glas"><g>glas</g></a>
                 <en>grey</en></li>
-            <li><g>glic</g>
+            <!--<li><g>glic</g>
                 <en>wise</en></li>
-            <li><!--<a href="?gd=gorm">--><g>gorm</g><!--</a>-->
+            <li><!-\-<a href="?gd=gorm">-\-><g>gorm</g><!-\-</a>-\->
                 <en>blue, green</en> – <slen/> guirm(e)</li>
-            <li><!--<a href="?gd=làn">--><g>làn</g><!--</a>-->
+            <li><!-\-<a href="?gd=làn">-\-><g>làn</g><!-\-</a>-\->
                 <en>full</en></li>
             <li><g>lom</g>
                 <en>naked</en> – <slen/> luim(e)</li>
             <li><g>liath</g>
-                <en>hoary</en> – <slen/> lèith(e)</li>
+                <en>hoary</en> – <slen/> lèith(e)</li>-->
             <li><a href="?gd=luath"><g>luath</g></a>
                 <en>swift, fast</en></li>
-            <li><g>mall</g>
-                <en>slow</en> – <slen/> moill(e)</li>
+            <!--<li><g>mall</g>
+                <en>slow</en> – <slen/> moill(e)</li>-->
             <li><a href="?gd=math"><g>math</g></a>
-                <en>good</en> – <emph>alt.</emph> maith</li>
-            <li><g>mion</g>
+                <en>good</en></li>
+            <!--<li><g>mion</g>
                 <en>minute</en> – <slen/> min(e)</li>
             <li><g>moch</g>
-                <en>early</en> – <slen/> muich(e)</li>
+                <en>early</en> – <slen/> muich(e)</li>-->
             <li><a href="?gd=moor"><g>mór</g></a>
                 <en>big, large, great</en></li>
-            <li><g>òg</g>
+            <!--<li><g>òg</g>
                 <en>young</en></li>
             <li><g>olc</g>
                 <en>bad</en> – <slen/> uilc(e)</li>
@@ -98,31 +99,29 @@
             <li><g>saor</g>
                 <en>free, cheap</en></li>
             <li><g>searbh</g>
-                <en>bitter</en> – <slen/> seirbh(e)</li>
+                <en>bitter</en> – <slen/> seirbh(e)</li>-->
             <li><a href="?gd=sgiith"><g>sgìth</g></a>
-                <en>tired</en> – <slen/>
-                <g>sgìth(e)</g></li>
-            <li><g>slàn</g>
+                <en>tired</en></li>
+            <!--<li><g>slàn</g>
                 <en>healthy</en></li>
             <li><g>teann</g>
                 <en>tight</en> – <slen/> teinn(e)</li>
             <li><g>tearc</g>
-                <en>scarce</en> – <slen/> teirc(e)</li>
+                <en>scarce</en> – <slen/> teirc(e)</li>-->
             <li><a href="?gd=teth"><g>teth</g></a>
                 <en>hot</en></li>
-            <li><g>tinn</g>
+            <!-- <li><g>tinn</g>
                 <en>sick</en></li>
             <li><g>tiugh</g>
                 <en>thick</en> – <slen/> tigh(e)</li>
             <li><g>treun</g>
-                <en>heroic</en> – <slen/> trèin(e)</li>
+                <en>heroic</en> – <slen/> trèin(e)</li>-->
             <li><a href="?gd=trang"><g>trang</g></a>
-                <en>busy</en> – <slen/>
-                <g>traing(e)</g></li>
-            <li><g>trom</g>
+                <en>busy</en></li>
+            <!--<li><g>trom</g>
                 <en>heavy</en> – <slen/> truim(e)</li>
             <li><g>ùr</g>
-                <en>new</en></li>
+                <en>new</en></li>-->
         </ul>
     </p>
     <!--</section>-->
@@ -130,8 +129,9 @@
     <!-- <section id="poly">
         <h>polysyllabic</h> -->
     <p>List of polysyllabic simple adjectives – <ul>
-            <!--<li><a href="?gd=brèagha"><g>brèagha</g></a>
-                    <en>fine, beautiful, lovely</en></li>
+            <li><a href="?gd=breeagha"><g>brèagha</g></a>
+                <en>fine, beautiful, lovely</en></li>
+            <!--
                 <li><g>fada</g>
                     <en>long</en>
                     <slen/>

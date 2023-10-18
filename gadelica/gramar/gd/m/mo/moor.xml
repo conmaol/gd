@@ -6,34 +6,63 @@
     adjective</a>.</p>
 
   <section>
+    <h>dependents</h>
+    <section id="deps-spr">
+      <h>specifier</h>
+      <p>Like other (gradable) adjectives, <g>mór</g> can occur with an intensifying pre-specifier
+        like <a href="?gd=glee"><g>glé</g></a>
+        <en>very</en>.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Tha Seumas <m>glé mhór</m>.</gd>
+            <tr>James is very big.</tr>
+            <ref text="617">td. 14 [227]</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
+
+  <section>
     <h>uses</h>
     <section id="uses-predicate">
       <h>predicate</h>
-      <p><g>mór</g> can be used as the predicate of the verb <a href="?gd=bi"><g>bi</g></a>.</p>
+      <p>Like other adjectives, <g>mór</g> can be used (uninflected) as the predicate of the verb <a
+          href="?gd=bi"><g>bi</g></a>.</p>
       <p>Examples with a human subject – <xl>
           <li>
-            <gd>Tha Calum mór.</gd>
-            <tr>Malcolm is big.</tr>
-            <ref text="617">td. 6</ref>
+            <gd>A bheil Seumas <m>mór</m>?</gd>
+            <tr>Is James big?</tr>
+            <ref text="617">td. 14 [227]</ref>
+          </li>
+          <li>
+            <gd>Tha an gille <m>mór</m>.</gd>
+            <tr>The boy is big.</tr>
+            <ref text="617">td. 15</ref>
           </li>
         </xl>
       </p>
       <p>Examples with an animal subject – <xl>
           <li>
-            <gd>Tha an cù mòr.</gd>
+            <gd>Tha an cù <m>mòr</m>.</gd>
             <tr>The dog is big.</tr>
             <ref text="617">td. 6</ref>
+          </li>
+          <li>
+            <gd>A bheil an cat <m>mór</m>?</gd>
+            <tr>Is the cat big?</tr>
+            <ref text="617">td. 15</ref>
           </li>
         </xl>
       </p>
       <p>Examples with inanimate subjects – <xl>
           <li>
-            <gd>Tha an dorus mór.</gd>
+            <gd>Tha an dorus <m>mór</m>.</gd>
             <tr>The door is big.</tr>
             <ref text="617">td. 6</ref>
           </li>
           <li>
-            <gd>Tha an teine mór.</gd>
+            <gd>Tha an teine <m>mór</m>.</gd>
             <tr>The fire is big.</tr>
             <ref text="617">td. 6</ref>
           </li>
@@ -48,27 +77,30 @@
 
     <section id="uses-mod">
       <h>modifier</h>
-      <p><g>mór</g> can be used to modify a <a href="?xx=nouns/proper_nouns">proper noun</a>.</p>
-      <p>Some examples – <xl>
+      <p>Like other adjectives, <g>mór</g> can be used as a (post-)modifier of a <a
+          href="?xx=nouns/nouns">noun</a>.</p>
+      <p>Some examples with masculine nouns – <xl>
           <li>
-            <gd>Tha <m>Calum mór</m> agus Màiri bheag ag obair gu trang anns an achadh an
+            <gd>Tha <m>Calum mór</m> ag obair gu trang anns an achadh an
               diugh.</gd>
-            <tr>Big Malcolm and little Mary are working busily in the field today.</tr>
-            <ref text="617">td. 9</ref>
+            <tr>Big Malcolm is working busily in the field today.</tr>
+            <ref text="617">td. 9 [adapted]</ref>
           </li>
-        </xl>
-      </p>
-      <p>As well as modifying a <a href="?xx=nouns/common_nouns">common noun</a>.</p>
-      <p>Some examples – <xl>
           <li>
             <gd>A bheil <m>ceann mór</m> air Seumas?</gd>
             <tr>Does James have a big head?</tr>
             <ref text="617">td. 14</ref>
           </li>
-
         </xl>
       </p>
     </section>
+    <!--<section id="uses-comp">
+            <h>complement</h>
+            <p>Like many other adjectives, <g>mór</g> can be used as the complement of the
+                adverbialising particle <a href="?gd=gu"><g>gu</g></a>.</p>
+            <p>Some examples – <xl> </xl>
+            </p>
+        </section>-->
 
   </section>
 

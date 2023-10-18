@@ -6,8 +6,11 @@
 
     <section>
         <h>dependents</h>
-        <section>
+        <section id="deps-spr">
             <h>specifier</h>
+            <p>Like other (gradable) adjectives, <g>sgìth</g> can occur with an intensifying
+                pre-specifier like <a href="?gd=glee"><g>glé</g></a>
+                <en>very</en>.</p>
             <p>
                 <xl>
                     <li>
@@ -24,23 +27,13 @@
         <h>uses</h>
         <section id="uses-predicate">
             <h>predicate</h>
-            <p><g>sgìth</g> can be used as the predicate of the verb <a href="?gd=bi"
-                ><g>bi</g></a>.</p>
-            <p>Examples with a human subject – <xl>
+            <p>Like other adjectives, <g>sgìth</g> can be used (uninflected) as the predicate of the
+                verb <a href="?gd=bi"><g>bi</g></a>.</p>
+            <p>Some examples – <xl>
                     <li>
                         <gd>Tha Màiri <m>sgìth</m>. Tha i <m>sgìth</m> ag obair anns an achadh.</gd>
                         <tr>Mary is tired. She is tired working in the field.</tr>
                         <ref text="617">td. 7</ref>
-                    </li>
-                    <li>
-                        <gd>Tha sibh trang ag obair anns an achadh agus tha sibh <m>sgìth</m>.</gd>
-                        <tr>You are busy working in the field and you are tired.</tr>
-                        <ref text="617">td. 7</ref>
-                    </li>
-                    <li>
-                        <gd>Tha Màiri bheag <m>sgìth</m>.</gd>
-                        <tr>Little Mary is tired.</tr>
-                        <ref text="617">td. 9</ref>
                     </li>
                     <li>
                         <gd>Tha mi fuar agus tha mi <m>sgìth</m>.</gd>
@@ -48,18 +41,29 @@
                         <ref text="617">td. 9</ref>
                     </li>
                     <li>
-                        <gd>A bheil thu sgìth?</gd>
-                        <tr>Are you tired?</tr>
-                        <ref text="617">td. 11</ref>
-                    </li>
-                    <li>
-                        <gd>Nach eil thu sgìth?</gd>
+                        <gd>Nach eil thu <m>sgìth</m>?</gd>
                         <tr>Aren’t you tired?</tr>
                         <ref text="617">td. 14</ref>
                     </li>
                 </xl>
             </p>
         </section>
+        <!--<section id="uses-mod">
+            <h>modifier</h>
+            <p>Like other adjectives, <g>sgìth</g> can be used as a (post-)modifier of a <a
+                href="?xx=nouns/nouns">noun</a>.</p>
+            <p>Some examples with masculine nouns – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        <!--<section id="uses-comp">
+            <h>complement</h>
+            <p>Like many other adjectives, <g>sgìth</g> can be used as the complement of the
+                adverbialising particle <a href="?gd=gu"><g>gu</g></a>.</p>
+            <p>Some examples – <xl> </xl>
+            </p>
+        </section>-->
     </section>
 
 </module>
