@@ -2,7 +2,113 @@
 <module>
     <h>taigh</h>
     <p><g>taigh</g>
-        <en>house</en> is a masculine <a href="?xx=nouns/common_nouns">common noun</a>.</p>
+        <en>house</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
+    
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>taigh</g> are – <ul>
+            <li><m>taigh</m> – nominative/dative singular</li>
+            <li><m>taighe</m> – genitive singular</li>
+            <li><m>taighean</m> – nominative/dative/genitive plural</li>
+        </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                <li>indefinite <ul>
+                    <li>singular <ul>
+                        <li>nominative – <m>taigh</m></li>
+                        <li>dative – ann an <m>taigh</m></li>
+                        <li>genitive – dorus <m>taighe</m></li>
+                    </ul></li>
+                    <li>plural <ul>
+                        <li>nominative – <m>taighean</m></li>
+                        <li>dative – ann an <m>taighean</m></li>
+                        <li>genitive – dorsan <m>thaighean</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>definite <ul>
+                    <li>singular <ul>
+                        <li>nominative – <m>an taigh</m></li>
+                        <li>dative – anns <m>an taigh</m></li>
+                        <li>genitive – dorus <m>an taighe</m></li>
+                    </ul></li>
+                    <li>plural <ul>
+                        <li>nominative – <m>na taighean</m></li>
+                        <li>dative – anns <m>na taighean</m></li>
+                        <li>genitive – dorsan <m>nan taighean</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                <li>singular <ul>
+                    <li>indefinite <ul>
+                        <li>nominative – <m>taigh</m></li>
+                        <li>dative – ann an <m>taigh</m></li>
+                        <li>genitive – dorus <m>taighe</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>nominative – <m>an taigh</m></li>
+                        <li>dative – anns <m>an taigh</m></li>
+                        <li>genitive – dorus <m>an taighe</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>plural <ul>
+                    <li>indefinite <ul>
+                        <li>nominative – <m>taighean</m></li>
+                        <li>dative – ann an <m>taighean</m></li>
+                        <li>genitive – dorsan <m>thaighean</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>nominative – <m>na taighean</m></li>
+                        <li>dative – anns <m>na taighean</m></li>
+                        <li>genitive – dorsan <m>nan taighean</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                <li>nominative <ul>
+                    <li>indefinite <ul>
+                        <li>singular – <m>taigh</m></li>
+                        <li>plural – <m>taighean</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – <m>an taigh</m></li>
+                        <li>plural – <m>na taighean</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>dative <ul>
+                    <li>indefinite <ul>
+                        <li>singular – ann an <m>taigh</m></li>
+                        <li>plural – ann an <m>taighean</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – anns <m>an taigh</m></li>
+                        <li>plural – anns <m>na taighean</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>genitive <ul>
+                    <li>indefinite <ul>
+                        <li>singular – dorus <m>taighe</m></li>
+                        <li>plural – dorsan <m>thaighean</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – dorus <m>an taighe</m></li>
+                        <li>plural – dorsan <m>nan taighean</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+    </section>
+    
+    
+    
     
 </module>
 

@@ -132,6 +132,11 @@
                         <tr>The cat is by the fire.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
+                    <li>
+                        <gd>Càit a bheil <m>an cat</m>?</gd>
+                        <tr>Where is the cat?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
                 </xl>
             </p>
         </section>
@@ -144,6 +149,11 @@
                         <gd>Tha an <m>cat beag bàn</m> aig an teine.</gd>
                         <tr>The little white cat is by the fire.</tr>
                         <ref text="617">td. 9</ref>
+                    </li>
+                    <li>
+                        <gd>Càit a bheil an <m>cat bàn</m> an diugh?</gd>
+                        <tr>Where is the white cat today?</tr>
+                        <ref text="617">td. 14</ref>
                     </li>
                 </xl>
             </p>
@@ -166,6 +176,24 @@
                         <gd>Tha an <m>cat</m> aig an teine.</gd>
                         <tr>The cat is by the fire.</tr>
                         <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>A bheil an <m>cat</m> a’ cluich còmhla ri Seònaid air an làr?</gd>
+                        <tr>Is the cat playing with Janet on the floor?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>A bheil an <m>cat</m> mór?</gd>
+                        <tr>Is the cat big?</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with demonstrative pronouns used as copular verbs – <xl>
+                    <li>
+                        <gd>Seo an <m>cat</m>.</gd>
+                        <tr>This is the cat.</tr>
+                        <ref text="617">td. 15</ref>
                     </li>
                 </xl>
             </p>

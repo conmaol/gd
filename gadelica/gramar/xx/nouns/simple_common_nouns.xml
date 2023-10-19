@@ -149,6 +149,12 @@
       <li><a href="?gd=làmh"><g>làmh</g></a>
         <fem/>
         <en>hand</en></li>
+        -->
+    <li><a href="?gd=laar"><g>làr</g></a>
+      <masc/>
+      <en>floor</en></li>
+        
+        <!--
       <li><a href="?gd=latha"><g>latha</g></a>
         <masc/>
         <en>day</en> pl. <g>làithean</g> (†<g>lathachan</g>)</li>
@@ -203,6 +209,9 @@
         <en>priest</en> pl. <b>sagartan</b></li>
       <li><m>sgian</m> fem. <en>knife</en> gen. <b>sgèine</b>, <b>sgine</b> dat.
         <b>sgithinn</b></li>
+        -->
+    <li><a href="?gd=sgoil"><g>sgoil</g></a> <fem/> <en>school</en> <pl/> <g>sgoiltean</g></li>
+        <!--
       <li><m>sràid</m> fem. <en>street</en></li>
       <li><m>sròn</m> fem. <en>nose</en> pl. <b>sròintean</b></li>
       <li><a href="?gd=stampa"><g>stampa</g></a>
@@ -212,8 +221,8 @@
         <fem/>
         <en>base, foundation</en></li>
       <li><m>sùil</m> fem. <en>eye</en> gen. <b>sùla</b> gen. pl. <b>sùl</b></li>
-      <li><m>taigh</m> masc. <en>house</en> gen. <b>taighe</b></li>
       -->
+      <li><a href="?gd=taigh"><g>taigh</g></a> <masc/> <en>house</en> <gen/> <g>taighe</g></li>
       <li><a href="?gd=teas"><g>teas</g></a>
         <masc/>
         <en>heat</en>

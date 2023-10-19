@@ -186,7 +186,7 @@
             </xl>
             </p>
         </section>-->
-        
+
         <section id="uses-comp">
             <h>complement</h>
             <!--<p>Like other nouns, <g>achadh</g> can be used as the complement of a <a
@@ -212,6 +212,11 @@
                         <gd>Tha sibh <m>trang ag obair</m> anns an achadh agus tha sibh sgìth.</gd>
                         <tr>You are busy working in the field and you are tired.</tr>
                         <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>A bheil sibh ag obair?</gd>
+                        <tr>Are you working?</tr>
+                        <ref text="617">td. 13</ref>
                     </li>
                 </xl>
             </p>

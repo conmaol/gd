@@ -150,6 +150,11 @@
                         <tr>The black dog is at the door.</tr>
                         <ref text="617">td. 9</ref>
                     </li>
+                    <li>
+                        <gd>A bheil an <m>cù dubh</m> anns an achadh còmhla ris an duine?</gd>
+                        <tr>Is the black dog in the field with the man?</tr>
+                        <ref text="617">td. 14 [227]</ref>
+                    </li>
                 </xl>
             </p>
         </section>
@@ -171,6 +176,24 @@
                         <gd>A bheil an <m>cù</m> aig an dorus?</gd>
                         <tr>Is the dog at the door?</tr>
                         <ref text="617">td. 11</ref>
+                    </li>
+                    <li>
+                        <gd>A bheil an <m>cù</m> luath?</gd>
+                        <tr>Is the dog swift?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>Chan eil an <m>cù</m> dubh anns an achadh an diugh.</gd>
+                        <tr>The black dog is not in the field today.</tr>
+                        <ref text="617">td. 14 [227]</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with demonstrative pronouns used as copular verbs – <xl>
+                    <li>
+                        <gd>Seo an <m>cù</m>.</gd>
+                        <tr>This is the dog.</tr>
+                        <ref text="617">td. 15</ref>
                     </li>
                 </xl>
             </p>
@@ -197,7 +220,7 @@
                 </xl>
             </p>
         </section>-->
-        
+
     </section>
 
 </module>
