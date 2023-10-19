@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>duine</h>
+    <p><g>duine</g>
+        <en>duine</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>duine</g> are – <ul>
+                <li><m>duine</m> – nominative/dative/genitive singular</li>
+                <li><m>daoine</m> – nominative/dative/genitive plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>duine</m></li>
+                                    <li>dative – le <m>duine</m></li>
+                                    <li>genitive – ceann <m>duine</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>daoine</m></li>
+                                    <li>dative – le <m>daoine</m></li>
+                                    <li>genitive – cinn <m>dhaoine</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an duine</m></li>
+                                    <li>dative – leis <m>an duine</m></li>
+                                    <li>genitive – ceann <m>an duine</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na daoine</m></li>
+                                    <li>dative – leis <m>na daoine</m></li>
+                                    <li>genitive – cinn <m>nan daoine</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>duine</m></li>
+                                    <li>dative – le <m>duine</m></li>
+                                    <li>genitive – ceann <m>duine</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an duine</m></li>
+                                    <li>dative – leis <m>an duine</m></li>
+                                    <li>genitive – ceann <m>an duine</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>daoine</m></li>
+                                    <li>dative – le <m>daoine</m></li>
+                                    <li>genitive – cinn <m>dhaoine</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na daoine</m></li>
+                                    <li>dative – leis <m>na daoine</m></li>
+                                    <li>genitive – cinn <m>nan daoine</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>duine</m></li>
+                                    <li>plural – <m>daoine</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an duine</m></li>
+                                    <li>plural – <m>na daoine</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – le <m>duine</m></li>
+                                    <li>plural – le <m>daoine</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – leis <m>an duine</m></li>
+                                    <li>plural – leis <m>na daoine</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – ceann <m>duine</m></li>
+                                    <li>plural – cinn <m>dhaoine</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – ceann <m>an duine</m></li>
+                                    <li>plural – cinn <m>nan daoine</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <!--<section id="deps-bare">
+            <h>bare</h>
+            <p>Like other nouns, <g>còta</g> can occur on its own, without any dependents.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        <section id="deps-spr">
+            <h>specifier</h>
+            <p>Like other common nouns, <g>duine</g> can occur with a <a
+                    href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
+            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+                    <li>
+                        <gd>A bheil còta air <m>an duine</m>?</gd>
+                        <tr>Does the man have a coat on?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>A bheil <m>an duine</m> ag obair anns an achadh?</gd>
+                        <tr>Is the man working in the field?</tr>
+                        <ref text="617">td. 14 [227]</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <!--<section id="deps-mods">
+            <h>modifiers</h>
+            <p>Like other nouns, <g>achadh</g> can occur with an (attributive) <a href="?xx=adjectives/adjectives"
+                >adjective</a> (post-)modifier.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-sbj">
+            <h>subject</h>
+            <p>Like other nouns, <g>duine</g> can be used as the subject of a <a
+                    href="?xx=verbs/verbs">verb</a>.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
+                    <li>
+                        <gd>A bheil an <m>duine</m> ag obair anns an achadh?</gd>
+                        <tr>Is the man working in the field?</tr>
+                        <ref text="617">td. 14 [227]</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <!--<section id="uses-obj">
+            <h>object</h>
+            <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        <section id="uses-comp">
+            <h>complement</h>
+            <p>Like other nouns, <g>duine</g> can be used as the complement of a <a
+                    href="?xx=prepositions/prepositions">preposition</a>.</p>
+            <p>Examples with <g><a href="?gd=an^preposition">air</a> duine</g>
+                <en>on a man</en> – <xl>
+                    <li>
+                        <gd>A bheil còta <m>air an duine</m>?</gd>
+                        <tr>Does the man have a coat on?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with <g><a href="?gd=an^preposition">ri</a> duine</g> – <xl>
+                    <li>
+                        <gd>A bheil an cù dubh anns an achadh còmhla <m>ris an duine</m>?</gd>
+                        <tr>Is the black dog in the field along with the man?</tr>
+                        <ref text="617">td. 14 [227]</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+
+    <!--<p>Examples from modern usage – <xl id="other">
+            <li>
+                <gd>Bha <m>a h-uile duine a dh’aithnicheadh e</m> a’ smaoineachadh gu robh beatha
+                    shòlasach aig Ailig Smart. [...]</gd>
+                <tr>Everybody who got to know him thought that Alec Smart had a good life.
+                    [...]</tr>
+                <ref text="2">td. 103</ref>
+            </li>
+        </xl>
+    </p>
+    <p lang="en">Biblical examples – <xl id="bible">
+            <li>
+                <gd>A Nis is iad so ainmeanna chloinn Israeil, a thàinig do’n Eiphit; thàinig
+                        <m>gach duine</m> agus a theaghlach maille re Iacob: Reuben, Simeon, Lebhi,
+                    agus Iudah, [...] Agus na h-anman uile a thàinig a mach a leasraidh Iacoib, bu
+                    deich agus tri fichead anam iad; oir bha Ioseph ’san Eiphit a cheana. [...]</gd>
+                <tr>Now these are the names of the children of Israel, which came into Egypt; every
+                    man and his household came with Jacob. Reuben, Simeon, Levi, and Judah, [...]
+                    And all the souls that came out of the loins of Jacob were seventy souls: for
+                    Joseph was in Egypt already. [...] [KJV]</tr>
+                <ref text="160">Ecsodus I.1–5</ref>
+            </li>
+        </xl></p>-->
+</module>

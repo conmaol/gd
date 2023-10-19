@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>gual</h>
+    <p><g>gual</g>
+        <en>coal</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
+    
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>sgoil</g> are – <ul>
+            <li><m>sgoil</m> – nominative/dative singular</li>
+            <li><m>sgoile</m> – genitive singular</li>
+            <li><m>sgoiltean</m> – nominative/dative/genitive plural</li>
+        </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                <li>indefinite <ul>
+                    <li>singular <ul>
+                        <li>nominative – <m>sgoil</m></li>
+                        <li>dative – ann an <m>sgoil</m></li>
+                        <li>genitive – dorus <m>sgoile</m></li>
+                    </ul></li>
+                    <li>plural <ul>
+                        <li>nominative – <m>sgoiltean</m></li>
+                        <li>dative – ann an <m>sgoiltean</m></li>
+                        <li>genitive – dorsan <m>sgoiltean</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>definite <ul>
+                    <li>singular <ul>
+                        <li>nominative – <m>an sgoil</m></li>
+                        <li>dative – anns <m>an sgoil</m></li>
+                        <li>genitive – dorus <m>na sgoile</m></li>
+                    </ul></li>
+                    <li>plural <ul>
+                        <li>nominative – <m>na sgoiltean</m></li>
+                        <li>dative – anns <m>na sgoiltean</m></li>
+                        <li>genitive – dorsan <m>nan sgoiltean</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                <li>singular <ul>
+                    <li>indefinite <ul>
+                        <li>nominative – <m>sgoil</m></li>
+                        <li>dative – ann an <m>sgoil</m></li>
+                        <li>genitive – dorus <m>sgoile</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>nominative – <m>an sgoil</m></li>
+                        <li>dative – anns <m>an sgoil</m></li>
+                        <li>genitive – dorus <m>na sgoile</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>plural <ul>
+                    <li>indefinite <ul>
+                        <li>nominative – <m>sgoiltean</m></li>
+                        <li>dative – ann an <m>sgoiltean</m></li>
+                        <li>genitive – dorsan <m>sgoiltean</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>nominative – <m>na sgoiltean</m></li>
+                        <li>dative – anns <m>na sgoiltean</m></li>
+                        <li>genitive – dorsan <m>nan sgoiltean</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                <li>nominative <ul>
+                    <li>indefinite <ul>
+                        <li>singular – <m>sgoil</m></li>
+                        <li>plural – <m>sgoiltean</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – <m>an sgoil</m></li>
+                        <li>plural – <m>na sgoiltean</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>dative <ul>
+                    <li>indefinite <ul>
+                        <li>singular – ann an <m>sgoil</m></li>
+                        <li>plural – ann an <m>sgoiltean</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – anns <m>an sgoil</m></li>
+                        <li>plural – anns <m>na sgoiltean</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>genitive <ul>
+                    <li>indefinite <ul>
+                        <li>singular – dorus <m>sgoile</m></li>
+                        <li>plural – dorsan <m>sgoiltean</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – dorus <m>na sgoile</m></li>
+                        <li>plural – dorsan <m>nan sgoiltean</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+    </section>
+    
+</module>
+
