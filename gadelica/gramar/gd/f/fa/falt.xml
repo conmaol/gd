@@ -109,9 +109,27 @@
 
     <section>
         <h>dependents</h>
+        <!--<section id="deps-bare">
+            <h>bare</h>
+            <p>Like other nouns, <g>falt</g> can occur on its own, without any dependents.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        <!-- <section id="deps-spr">
+            <h>specifier</h>
+            <p>Like other common nouns, <g>falt</g> can occur with a <a
+                href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
+            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
         <section id="deps-mods">
             <h>modifiers</h>
-            <p><g>falt</g> can take an attributive <a href="?xx=adjectives/adjectives">adjective</a> modifier.</p>
+            <p>Like other nouns, <g>falt</g> can occur with an (attributive) <a
+                    href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
             <p>Some examples – <xl>
                     <li>
                         <gd>Tha <m>falt dubh</m> air Calum ach tha <m>falt bàn</m> air Màiri.</gd>
@@ -127,7 +145,8 @@
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
-            <p><g>falt</g> can act as the subject of a <a href="?xx=verbs/verbs">verb</a>.</p>
+            <p>Like other nouns, <g>falt</g> can be used as the subject of a <a
+                    href="?xx=verbs/verbs">verb</a>.</p>
             <p>Some examples with <a href="?gd=bi"><g>bi</g></a>
                 <en>be</en> – <xl>
                     <li>
@@ -138,6 +157,25 @@
                 </xl>
             </p>
         </section>
+        <!--<section id="uses-obj">
+            <h>object</h>
+            <p>Like other nouns, <g>falt</g> can be used as the object of a transitive verb.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        <!--<section id="uses-comp">
+            <h>complement</h>
+            <p>Like other nouns, <g>falt</g> can be used as the complement of a <a
+                href="?xx=prepositions/prepositions">preposition</a>.</p>
+            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> achadh</g>
+                <en>in a field</en> – <xl>
+                   
+                </xl>
+            </p>
+        </section>-->
+        
     </section>
 
 

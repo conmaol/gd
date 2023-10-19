@@ -106,7 +106,7 @@
                         </ul></li>
                 </ul></p>
         </section>
-        <section>
+        <section id="forms-notes">
             <h>notes</h>
             <p>Note that in post-1970s Neo-Gaelic, the forms <g>dorus</g> and <g>doruis</g> have
                 been standardised to <g>doras</g> and <g>dorais</g> respectively.</p>
@@ -115,23 +115,22 @@
 
     <section>
         <h>dependents</h>
+        <!--<section id="deps-bare">
+            <h>bare</h>
+            <p>Like other nouns, <g>dorus</g> can occur on its own, without any dependents.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
         <section id="deps-spr">
             <h>specifier</h>
-            <p><g>dorus</g> can occur with a specifier.</p>
-            <p>Examples with the definite article – <xl>
+            <p>Like other common nouns, <g>dorus</g> can occur with a <a
+                    href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
+            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
                     <li>
                         <gd>Tha <m>an dorus</m> mór.</gd>
                         <tr>The door is big.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                    <li>
-                        <gd>Tha an cù aig <m>an dorus</m>.</gd>
-                        <tr>The dog is at the door.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                    <li>
-                        <gd>Chunnaic mi cù aig <m>an dorus</m>.</gd>
-                        <tr>I saw a dog at the door.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
                     <li>
@@ -142,13 +141,23 @@
                 </xl>
             </p>
         </section>
+        <!--<section id="deps-mods">
+            <h>modifiers</h>
+            <p>Like other nouns, <g>dorus</g> can occur with an (attributive) <a href="?xx=adjectives/adjectives"
+                >adjective</a> (post-)modifier.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
     </section>
 
     <section>
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
-            <p><g>dorus</g> can be used as the subject of a verb.</p>
+            <p>Like other nouns, <g>dorus</g> can be used as the subject of a <a
+                    href="?xx=verbs/verbs">verb</a>.</p>
             <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
                     <li>
                         <gd>Tha an <m>dorus</m> mór.</gd>
@@ -158,16 +167,20 @@
                 </xl>
             </p>
         </section>
+        <!--<section id="uses-obj">
+            <h>object</h>
+            <p>Like other nouns, <g>dorus</g> can be used as the object of a transitive verb.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
         <section id="uses-comp">
             <h>complement</h>
-            <p><g>dorus</g> can be used as the complement of a preposition.</p>
+            <p>Like other nouns, <g>dorus</g> can be used as the complement of a <a
+                    href="?xx=prepositions/prepositions">preposition</a>.</p>
             <p>Some examples with <g><a href="?gd=aig">aig</a> dorus</g>
                 <en>at a door</en> – <xl>
-                    <li>
-                        <gd>Tha an cù dubh <m>aig an dorus</m>.</gd>
-                        <tr>The black dog is at the door.</tr>
-                        <ref text="617">td. 9</ref>
-                    </li>
                     <li>
                         <gd>Chunnaic mi cù <m>aig an dorus</m>.</gd>
                         <tr>I saw a dog at the door.</tr>

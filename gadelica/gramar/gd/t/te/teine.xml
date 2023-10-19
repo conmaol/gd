@@ -18,24 +18,24 @@
                     <li>indefinite <ul>
                             <li>singular <ul>
                                     <li>nominative – <m>teine</m></li>
-                                    <li>dative – le <m>teine</m></li>
+                                    <li>dative – ann an <m>teine</m></li>
                                     <li>genitive – taobh <m>teine</m></li>
                                 </ul></li>
                             <li>plural <ul>
                                     <li>nominative – <m>teintean</m></li>
-                                    <li>dative – le <m>teintean</m></li>
+                                    <li>dative – ann an <m>teintean</m></li>
                                     <li>genitive – taobh <m>theintean</m></li>
                                 </ul></li>
                         </ul></li>
                     <li>definite <ul>
                             <li>singular <ul>
                                     <li>nominative – <m>an teine</m></li>
-                                    <li>dative – leis <m>an teine</m></li>
+                                    <li>dative – anns <m>an teine</m></li>
                                     <li>genitive – taobh <m>an teine</m></li>
                                 </ul></li>
                             <li>plural <ul>
                                     <li>nominative – <m>na teintean</m></li>
-                                    <li>dative – leis <m>na teintean</m></li>
+                                    <li>dative – anns <m>na teintean</m></li>
                                     <li>genitive – taobh <m>nan teintean</m></li>
                                 </ul></li>
                         </ul></li>
@@ -47,24 +47,24 @@
                     <li>singular <ul>
                             <li>indefinite <ul>
                                     <li>nominative – <m>teine</m></li>
-                                    <li>dative – le <m>teine</m></li>
+                                    <li>dative – ann an <m>teine</m></li>
                                     <li>genitive – taobh <m>teine</m></li>
                                 </ul></li>
                             <li>definite <ul>
                                     <li>nominative – <m>an teine</m></li>
-                                    <li>dative – leis <m>an teine</m></li>
+                                    <li>dative – anns <m>an teine</m></li>
                                     <li>genitive – taobh <m>an teine</m></li>
                                 </ul></li>
                         </ul></li>
                     <li>plural <ul>
                             <li>indefinite <ul>
                                     <li>nominative – <m>teintean</m></li>
-                                    <li>dative – le <m>teintean</m></li>
+                                    <li>dative – ann an <m>teintean</m></li>
                                     <li>genitive – taobh <m>theintean</m></li>
                                 </ul></li>
                             <li>definite <ul>
                                     <li>nominative – <m>na teintean</m></li>
-                                    <li>dative – leis <m>na teintean</m></li>
+                                    <li>dative – anns <m>na teintean</m></li>
                                     <li>genitive – taobh <m>nan teintean</m></li>
                                 </ul></li>
                         </ul></li>
@@ -85,12 +85,12 @@
                         </ul></li>
                     <li>dative <ul>
                             <li>indefinite <ul>
-                                    <li>singular – le <m>teine</m></li>
-                                    <li>plural – le <m>teintean</m></li>
+                                    <li>singular – ann an <m>teine</m></li>
+                                    <li>plural – ann an <m>teintean</m></li>
                                 </ul></li>
                             <li>definite <ul>
-                                    <li>singular – leis <m>an teine</m></li>
-                                    <li>plural – leis <m>na teintean</m></li>
+                                    <li>singular – anns <m>an teine</m></li>
+                                    <li>plural – anns <m>na teintean</m></li>
                                 </ul></li>
                         </ul></li>
                     <li>genitive <ul>
@@ -109,47 +109,70 @@
 
     <section>
         <h>dependents</h>
+        <!--<section id="deps-bare">
+            <h>bare</h>
+            <p>Like other nouns, <g>achadh</g> can occur on its own, without any dependents.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
         <section id="deps-spr">
             <h>specifier</h>
-            <p><g>teine</g> can occur with a specifier.</p>
-            <p>Examples with the definite article – <xl>
+            <p>Like other common nouns, <g>teine</g> can occur with a <a
+                    href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
+            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
                     <li>
-                        <gd>Tha an teine mór.</gd>
+                        <gd>Tha <m>an teine</m> mór.</gd>
                         <tr>The fire is big.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
                     <li>
-                        <gd>Tha teas anns an teine.</gd>
-                        <tr>There is heat in the fire.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                    <li>
-                        <gd>Tha an cat aig an teine.</gd>
+                        <gd>Tha an cat aig <m>an teine</m>.</gd>
                         <tr>The cat is by the fire.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
                 </xl>
             </p>
         </section>
+        <!--<section id="deps-mods">
+            <h>modifiers</h>
+            <p>Like other nouns, <g>achadh</g> can occur with an (attributive) <a href="?xx=adjectives/adjectives"
+                >adjective</a> (post-)modifier.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
     </section>
 
     <section>
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
-            <p><g>teine</g> can be used as the subject of a verb.</p>
+            <p>Like other nouns, <g>teine</g> can be used as the subject of a <a
+                    href="?xx=verbs/verbs">verb</a>.</p>
             <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
                     <li>
-                        <gd>Tha <m>an teine</m> mór.</gd>
+                        <gd>Tha an <m>teine</m> mór.</gd>
                         <tr>The fire is big.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
                 </xl>
             </p>
         </section>
+        <!--<section id="uses-obj">
+            <h>object</h>
+            <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
         <section id="uses-comp">
             <h>complement</h>
-            <p><g>teine</g> can be used as the complement of a preposition.</p>
+            <p>Like other nouns, <g>teine</g> can be used as the complement of a <a
+                    href="?xx=prepositions/prepositions">preposition</a>.</p>
             <p>Examples with <g><a href="?gd=aig">aig</a> teine</g>
                 <en>at a fire</en> – <xl>
                     <li>

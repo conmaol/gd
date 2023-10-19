@@ -106,7 +106,7 @@
                         </ul></li>
                 </ul></p>
         </section>
-        <section>
+        <section id="forms-notes">
             <h>notes</h>
             <p>Note the following – <ul>
                     <li>An alternative form of the genitive singular is <g>oibre</g>.</li>
@@ -120,7 +120,7 @@
         <h>dependents</h>
         <section id="deps-bare">
             <h>bare</h>
-            <p><g>obair</g> can occur without any dependents – <xl>
+            <p>Like other nouns, <g>obair</g> can occur on its own without any dependents – <xl>
                     <li>
                         <gd>Tha Màiri ag <m>obair</m> agus tha Calum ag <m>obair</m>.</gd>
                         <tr>Mary is working and Malcolm is working.</tr>
@@ -129,6 +129,23 @@
                 </xl>
             </p>
         </section>
+        <!--<section id="deps-spr">
+            <h>specifier</h>
+            <p>Like other common nouns, <g>achadh</g> can occur with a <a
+                href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
+            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+            </xl>
+            </p>
+        </section>-->
+        <!--<section id="deps-mods">
+            <h>modifiers</h>
+            <p>Like other nouns, <g>achadh</g> can occur with an (attributive) <a href="?xx=adjectives/adjectives"
+                >adjective</a> (post-)modifier.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
         <section id="deps-mods">
             <h>modifiers</h>
             <p><g>obair</g> can occur with the usual verb modifiers.</p>
@@ -150,11 +167,30 @@
         </section>
     </section>
 
-
     <section>
         <h>uses</h>
+        <!--<section id="uses-sbj">
+            <h>subject</h>
+            <p>Like other nouns, <g>achadh</g> can be used as the subject of a <a
+                href="?xx=verbs/verbs">verb</a>.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        <!--<section id="uses-obj">
+            <h>object</h>
+            <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        
         <section id="uses-comp">
             <h>complement</h>
+            <!--<p>Like other nouns, <g>achadh</g> can be used as the complement of a <a
+                href="?xx=prepositions/prepositions">preposition</a>.</p>-->
             <p>Some examples as complement of the progressive particle <a href="?gd=ag"
                     ><g>ag</g></a> – <xl>
                     <li>

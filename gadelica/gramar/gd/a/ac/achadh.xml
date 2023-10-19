@@ -10,6 +10,7 @@
         <p>The principal parts of <g>achadh</g> are – <ul>
                 <li><m>achadh</m> – nominative/dative singular, genitive plural</li>
                 <li><m>achaidh</m> – genitive singular, nominative/dative plural</li>
+                <li><m>achaidhean</m> – nominative/dative plural</li>
             </ul>
         </p>
         <section id="definiteness">
@@ -35,7 +36,7 @@
                                 </ul></li>
                             <li>plural <ul>
                                     <li>nominative – <m>na h-achaidhean</m></li>
-                                    <li>dative – leis <m>na h-achaidhean</m></li>
+                                    <li>dative – anns <m>na h-achaidhean</m></li>
                                     <li>genitive – meadhanan <m>nan achadh</m></li>
                                 </ul></li>
                         </ul></li>
@@ -64,7 +65,7 @@
                                 </ul></li>
                             <li>definite <ul>
                                     <li>nominative – <m>na h-achaidhean</m></li>
-                                    <li>dative – leis <m>na h-achaidhean</m></li>
+                                    <li>dative – anns <m>na h-achaidhean</m></li>
                                     <li>genitive – meadhanan <m>nan achadh</m></li>
                                 </ul></li>
                         </ul></li>
@@ -109,10 +110,19 @@
 
     <section>
         <h>dependents</h>
+        <!--<section id="deps-bare">
+            <h>bare</h>
+            <p>Like other nouns, <g>achadh</g> can occur on its own, without any dependents.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
         <section id="deps-spr">
             <h>specifier</h>
-            <p><g>achadh</g> can occur with a specifier.</p>
-            <p>Examples with the definite article – <xl>
+            <p>Like other common nouns, <g>achadh</g> can occur with a <a
+                    href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
+            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
                     <li>
                         <gd>Tha Màiri agus Calum ag obair anns <m>an achadh</m> an diugh.</gd>
                         <tr>Mary is working.</tr>
@@ -126,25 +136,46 @@
                 </xl>
             </p>
         </section>
+        <!--<section id="deps-mods">
+            <h>modifiers</h>
+            <p>Like other nouns, <g>achadh</g> can occur with an (attributive) <a href="?xx=adjectives/adjectives"
+                >adjective</a> (post-)modifier.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
     </section>
 
     <section>
         <h>uses</h>
+        <!--<section id="uses-sbj">
+            <h>subject</h>
+            <p>Like other nouns, <g>achadh</g> can be used as the subject of a <a
+                href="?xx=verbs/verbs">verb</a>.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        <!--<section id="uses-obj">
+            <h>object</h>
+            <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
         <section id="uses-comp">
             <h>complement</h>
-            <p><g>achadh</g> can be used as the complement of a preposition.</p>
+            <p>Like other nouns, <g>achadh</g> can be used as the complement of a <a
+                    href="?xx=prepositions/prepositions">preposition</a>.</p>
             <p>Examples with <g><a href="?gd=an^preposition">ann an</a> achadh</g>
                 <en>in a field</en> – <xl>
                     <li>
                         <gd>Tha iad fuar ag obair <m>anns an achadh</m> an diugh.</gd>
                         <tr>They are tired working in the field today.</tr>
                         <ref text="617">td. 7</ref>
-                    </li>
-                    <li>
-                        <gd>Tha Màiri bhàn <m>anns an achadh</m> an diugh agus tha i ag obair gu
-                            trang.</gd>
-                        <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
-                        <ref text="617">td. 9</ref>
                     </li>
                     <li>
                         <gd>Nach eil Calum <m>anns an achadh</m>?</gd>

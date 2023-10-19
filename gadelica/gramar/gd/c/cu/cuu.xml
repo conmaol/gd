@@ -112,10 +112,10 @@
         <h>dependents</h>
         <section id="deps-bare">
             <h>bare</h>
-            <p><g>cù</g> can occur on its own, without any dependents.</p>
+            <p>Like other nouns, <g>cù</g> can occur on its own, without any dependents.</p>
             <p>Some examples – <xl>
                     <li>
-                        <gd>Chunnaic mi cù aig an dorus.</gd>
+                        <gd>Chunnaic mi <m>cù</m> aig an dorus.</gd>
                         <tr>I saw a dog at the door.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
@@ -124,20 +124,16 @@
         </section>
         <section id="deps-spr">
             <h>specifier</h>
-            <p><g>cù</g> can occur with a specifier.</p>
-            <p>Examples with the definite article – <xl>
+            <p>Like other common nouns, <g>cù</g> can occur with a <a href="?xx=nouns/determiners"
+                    >determiner</a> as pre-specifier.</p>
+            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
                     <li>
-                        <gd>Tha an cù dubh.</gd>
+                        <gd>Tha <m>an cù</m> dubh.</gd>
                         <tr>The dog is black.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
                     <li>
-                        <gd>Tha an cù mòr.</gd>
-                        <tr>The dog is big.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                    <li>
-                        <gd>Tha an cù aig an dorus.</gd>
+                        <gd>Tha <m>an cù</m> aig an dorus.</gd>
                         <tr>The dog is at the door.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
@@ -146,8 +142,8 @@
         </section>
         <section id="deps-mods">
             <h>modifiers</h>
-            <p><g>cù</g> can occur with an attributive <a href="?xx=adjectives/adjectives"
-                    >adjective</a> modifier.</p>
+            <p>Like other nouns, <g>cù</g> can occur with an (attributive) <a
+                    href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
             <p>Some examples – <xl>
                     <li>
                         <gd>Tha an <m>cù dubh</m> aig an dorus.</gd>
@@ -157,28 +153,18 @@
                 </xl>
             </p>
         </section>
-
     </section>
 
     <section>
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
-            <p><g>cù</g> can be used as the subject of a verb.</p>
+            <p>Like other nouns, <g>cù</g> can be used as the subject of a <a href="?xx=verbs/verbs"
+                    >verb</a>.</p>
             <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
                     <li>
-                        <gd>Tha an cù dubh.</gd>
-                        <tr>The dog is black.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                    <li>
-                        <gd>Tha an cù mòr.</gd>
+                        <gd>Tha an <m>cù</m> mòr.</gd>
                         <tr>The dog is big.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                    <li>
-                        <gd>Tha an cù aig an dorus.</gd>
-                        <tr>The dog is at the door.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
                     <li>
@@ -191,16 +177,27 @@
         </section>
         <section id="uses-obj">
             <h>object</h>
-            <p><g>cù</g> can be used as the object of a transitive verb.</p>
+            <p>Like other nouns, <g>cù</g> can be used as the object of a transitive verb.</p>
             <p>Some examples – <xl>
                     <li>
-                        <gd>Chunnaic mi cù aig an dorus.</gd>
+                        <gd>Chunnaic mi <m>cù</m> aig an dorus.</gd>
                         <tr>I saw a dog at the door.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
                 </xl>
             </p>
         </section>
+        <!--<section id="uses-comp">
+            <h>complement</h>
+            <p>Like other nouns, <g>cù</g> can be used as the complement of a <a
+                href="?xx=prepositions/prepositions">preposition</a>.</p>
+            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> achadh</g>
+                <en>in a field</en> – <xl>
+                    
+                </xl>
+            </p>
+        </section>-->
+        
     </section>
 
 </module>
