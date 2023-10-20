@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>caileag</h>
+    <p><g>caileag</g>
+        <en>girl</en> is a feminine <a href="?xx=nouns/common_nouns">common noun</a>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>caileag</g> are – <ul>
+                <li><m>caileag</m> – nominative singular, genitive plural</li>
+                <li><m>caileig</m> – dative singular</li>
+                <li><m>caileige</m> – genitive singular</li>
+                <li><m>caileagan</m> – nominative/dative plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>caileag</m></li>
+                                    <li>dative – le <m>caileig</m></li>
+                                    <li>genitive – ceann <m>caileige</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>caileagan</m></li>
+                                    <li>dative – le <m>caileagan</m></li>
+                                    <li>genitive – cinn <m>chaileag</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>a’ chaileag</m></li>
+                                    <li>dative – leis <m>a’ chaileig</m></li>
+                                    <li>genitive – ceann <m>na caileige</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na caileagan</m></li>
+                                    <li>dative – leis <m>na caileagan</m></li>
+                                    <li>genitive – cinn <m>nan caileag</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>caileag</m></li>
+                                    <li>dative – le <m>caileig</m></li>
+                                    <li>genitive – ceann <m>caileige</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>a’ chaileag</m></li>
+                                    <li>dative – leis <m>a’ chaileig</m></li>
+                                    <li>genitive – ceann <m>na caileige</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>caileagan</m></li>
+                                    <li>dative – le <m>caileagan</m></li>
+                                    <li>genitive – cinn <m>chaileag</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na caileagan</m></li>
+                                    <li>dative – leis <m>na caileagan</m></li>
+                                    <li>genitive – cinn <m>nan caileag</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>caileag</m></li>
+                                    <li>plural – <m>caileagan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>a’ chaileag</m></li>
+                                    <li>plural – <m>na caileagan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – le <m>caileig</m></li>
+                                    <li>plural – le <m>caileagan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – leis <m>a’ chaileig</m></li>
+                                    <li>plural – leis <m>na caileagan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – ceann <m>caileige</m></li>
+                                    <li>plural – cinn <m>chaileag</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – ceann <m>na caileige</m></li>
+                                    <li>plural – cinn <m>nan caileag</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+
+    <section>
+        <h>dependents</h>
+        <!--<section id="deps-bare">
+            <h>bare</h>
+            <p>Like other nouns, <g>còta</g> can occur on its own, without any dependents.</p>
+            <p>Some examples – <xl>
+                <li>
+                    <gd>A bheil <m>còta</m> air an duine?</gd>
+                    <tr>Does the man have a coat on?</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+            </xl>
+            </p>
+        </section>-->
+        <section id="deps-spr">
+            <h>specifier</h>
+            <p>Like other common nouns, <g>caileag</g> can occur with a <a
+                    href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
+            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+                    <li>
+                        <gd>Chan eil <m>a’ chaileag</m> bheag anns an sgoil.</gd>
+                        <tr>The little girl is not in the school.</tr>
+                        <ref text="617">td. 15 [228]</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="deps-mods">
+            <h>modifiers</h>
+            <p>Like other nouns, <g>caileag</g> can occur with an (attributive) <a
+                    href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Chan eil a’ <m>chaileag bheag</m> anns an sgoil.</gd>
+                        <tr>The little girl is not in the school.</tr>
+                        <ref text="617">td. 15 [228]</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-sbj">
+            <h>subject</h>
+            <p>Like other nouns, <g>caileag</g> can be used as the subject of a <a
+                    href="?xx=verbs/verbs">verb</a>.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
+                    <li>
+                        <gd>Chan eil a’ <m>chaileag</m> bheag anns an sgoil.</gd>
+                        <tr>The little girl is not in the school.</tr>
+                        <ref text="617">td. 15 [228]</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <!--<section id="uses-obj">
+            <h>object</h>
+            <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        <!--<section id="uses-comp">
+            <h>complement</h>
+            <p>Like other nouns, <g>sgoil</g> can be used as the complement of a <a
+                href="?xx=prepositions/prepositions">preposition</a>.</p>
+            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> sgoil</g>
+                <en>in a school</en> – <xl>
+                    
+                </xl>
+            </p>
+        </section>-->
+    </section>
+
+
+</module>

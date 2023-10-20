@@ -2,8 +2,7 @@
 <module>
   <h>common nouns</h>
   <p>Common nouns are <a href="?xx=nouns/nouns">nouns</a> which describe a class of entity and may
-    be used to identify specific instances of that class.
-   <!-- <ul>
+    be used to identify specific instances of that class. <!-- <ul>
       <li><m>bean</m>
         <fem/>
         <en>woman</en></li>
@@ -38,11 +37,131 @@
             <m>aithris</m> [fem.] <en>report, recital</en>, <m>beul</m> [masc.] <en>mouth</en> →
             <m>beul-aithris</m> [fem.] <en>folklore</en>.</li>
         <li><a href="?xx=nouns/simple_common_nouns">Simple common nouns</a> are not formed from
-          other words eg. <m>taigh</m> <masc/> <en>house</en>, <m>deoch</m> <fem/> <en>drink</en>,
-            <m>cù</m> <masc/> <en>dog</en>.</li>
+          other words eg. <m>taigh</m>
+          <masc/>
+          <en>house</en>, <m>deoch</m>
+          <fem/>
+          <en>drink</en>, <m>cù</m>
+          <masc/>
+          <en>dog</en>.</li>
       </ol>
     </p>
   </section>
+
+  <section>
+    <h>dependents</h>
+    <section id="deps-bare">
+      <h>bare</h>
+      <p>Like other nouns, a common can occur on its own, without any dependents.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>A bheil <m>còta</m> air an duine?</gd>
+            <tr>Does the man have a coat on?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Tha <m>teas</m> anns an teine.</gd>
+            <tr>There is heat in the fire.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="deps-spr">
+      <h>specifier</h>
+      <p>A common noun can occur with a <a href="?xx=nouns/determiners">determiner</a> as
+        pre-specifier.</p>
+      <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+          <li>
+            <gd>Chan eil <m>a’ chaileag</m> bheag anns <m>an sgoil</m>.</gd>
+            <tr>The little girl is not in the school.</tr>
+            <ref text="617">td. 15 [228]</ref>
+          </li>
+          <li>
+            <gd>A bheil <m>an t-uisge</m> ann?</gd>
+            <tr>Is it raining?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="deps-mods">
+      <h>modifiers</h>
+      <p>Like other nouns, a common noun can occur with an (attributive) <a
+          href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Tha an <m>cù dubh</m> aig an dorus.</gd>
+            <tr>The black dog is at the door.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
+          <li>
+            <gd>Tha <m>latha brèagha blàth</m> ann.</gd>
+            <tr>It is a beautiful warm day.</tr>
+            <ref text="617">td. 14 [228] [adapted spelling]</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section id="uses-sbj">
+      <h>subject</h>
+      <p>Like other nouns, a common noun can be used as the subject of a <a href="?xx=verbs/verbs"
+          >verb</a>.</p>
+      <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
+          <li>
+            <gd>Tha <m>gual</m> air an teine.</gd>
+            <tr>There is coal on the fire.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>A bheil <m>ceann</m> mór air Seumas?</gd>
+            <tr>Does James have a big head?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="uses-obj">
+      <h>object</h>
+      <p>Like other nouns, a common noun can be used as the object of a transitive verb.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Chunnaic sinn <m>iolair</m> mhór an diugh.</gd>
+            <tr>We saw a big eagle today.</tr>
+            <ref text="617">td. 9 [226]</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="uses-comp">
+      <h>complement</h>
+      <p>Like other nouns, a common noun can be used as the complement of a <a
+          href="?xx=prepositions/prepositions">preposition</a>.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>A bheil Seònaid <m>anns an sgoil</m> an diugh?</gd>
+            <tr>Is Janet in the school today?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Tha gual <m>air an teine</m>.</gd>
+            <tr>There is coal on the fire.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
+
+
+
+
+
+
 
   <!--<section id="forms">
     <h>forms</h>

@@ -40,6 +40,13 @@
 
   <section>
     <h>dependents</h>
+    <section id="deps-bare">
+      <h>bare</h>
+      <p>Like other nouns, a proper noun can occur on its own, without any dependents.</p>
+      <p>Some examples – <xl>
+      </xl>
+      </p>
+    </section>
     <section id="deps-mods">
       <h>modifiers</h>
       <p>Like other nouns, proper nouns can be (post-)modified by an (attributive) <a

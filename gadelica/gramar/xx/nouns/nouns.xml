@@ -27,6 +27,148 @@
   </p>
 
 
+  <section>
+    <h>dependents</h>
+    <section id="deps-bare">
+      <h>bare</h>
+      <p>A noun can occur on its own, without any dependents.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Tha falt bàn air <m>Màiri</m>.</gd>
+            <tr>Mary has fair hair.</tr>
+            <ref text="617">td. 9 [adapted]</ref>
+          </li>
+          <li>
+            <gd>A bheil <m>còta</m> air an duine?</gd>
+            <tr>Does the man have a coat on?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="deps-mods">
+      <h>modifiers</h>
+      <p>A noun can be (post-)modified by an (attributive) <a href="?xx=adjectives/adjective"
+          >adjective</a>.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Tha <m>Calum mór</m> ag obair gu trang anns an achadh an diugh.</gd>
+            <tr>Big Malcolm is working busily in the field today.</tr>
+            <ref text="617">td. 9 [adapted]</ref>
+          </li>
+          <li>
+            <gd>Chunnaic sinn <m>iolair mhór</m> an diugh.</gd>
+            <tr>We saw a big eagle today.</tr>
+            <ref text="617">td. 9 [226]</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section id="uses-sbj">
+      <h>subject</h>
+      <p>A noun can be used as the subject of a <a
+        href="?xx=verbs/verbs">verb</a>.</p>
+      <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+        <en>be</en> – <xl>
+          <li>
+            <gd>A bheil <m>Seònaid</m> anns an sgoil an diugh?</gd>
+            <tr>Is Janet in the school today?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Dé tha <m>Seumas</m> a’ dèanamh an diugh?</gd>
+            <tr>What is James doing today?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Tha <m>gual</m> air an teine.</gd>
+            <tr>There is coal on the fire.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>A bheil <m>ceann</m> mór air Seumas?</gd>
+            <tr>Does James have a big head?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Examples with demonstrative pronouns used as copular verbs – <xl>
+        <li>
+          <gd>Seo <m>Màiri</m>.</gd>
+          <tr>This is Mary.</tr>
+          <ref text="617">td. 15</ref>
+        </li>
+        <li>
+          <gd>Seo <m>Calum</m>.</gd>
+          <tr>This is Malcolm.</tr>
+          <ref text="617">td. 15</ref>
+        </li>
+        <li>
+          <gd>Seo an <m>gille</m>.</gd>
+          <tr>This is the boy.</tr>
+          <ref text="617">td. 15</ref>
+        </li>
+      </xl>
+      </p>
+      <p>Examples involving conjoined subjects linked by <a href="?gd=agus"><g>agus</g></a>
+        <en>and</en> – <xl>
+          <li>
+            <gd>Nach eil <m>Calum agus Màiri</m> anns an sgoil an diugh?</gd>
+            <tr>Aren’t Malcolm and Mary in the school today?</tr>
+            <ref text="617">td. 15 [228]</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    
+    <section id="uses-obj">
+      <h>object</h>
+      <p>A noun can be used as the object of a transitive verb.</p>
+      <p>Some examples – <xl>
+        <li>
+          <gd>Chunnaic sinn <m>iolair mhór</m> an diugh.</gd>
+          <tr>We saw a big eagle today.</tr>
+          <ref text="617">td. 9 [226]</ref>
+        </li>
+      </xl>
+      </p>
+    </section>
+    
+    <section id="uses-comp">
+      <h>complement</h>
+      <p>A noun can be used as the complement of a <a
+        href="?xx=prepositions/prepositions">preposition</a>.</p>
+      <p>Some examples – <xl>
+        <li>
+          <gd>A bheil ceann mór <m>air Seumas</m>?</gd>
+          <tr>Does James have a big head?</tr>
+          <ref text="617">td. 14</ref>
+        </li>
+        <li>
+          <gd>Tha an cat anns an taigh còmhla <m>ri Seònaid</m>.</gd>
+          <tr>The cat is in the house with Janet.</tr>
+          <ref text="617">td. 14 [adapted]</ref>
+        </li>
+        <li>
+          <gd>A bheil Seònaid <m>anns an sgoil</m> an diugh?</gd>
+          <tr>Is Janet in the school today?</tr>
+          <ref text="617">td. 14</ref>
+        </li>
+        <li>
+          <gd>Tha gual <m>air an teine</m>.</gd>
+          <tr>There is coal on the fire.</tr>
+          <ref text="617">td. 14</ref>
+        </li>
+      </xl>
+      </p>
+    </section>
+  </section>
+
+
 
   <!--
   <section>

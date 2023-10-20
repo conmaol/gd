@@ -20,6 +20,13 @@
 
   <section>
     <h>dependents</h>
+    <section id="deps-bare">
+      <h>bare</h>
+      <p>Like other (proper) nouns, an anthroponymic proper noun can occur on its own, without any dependents.</p>
+      <p>Some examples – <xl>
+      </xl>
+      </p>
+    </section>
     <section id="deps-mods">
       <h>modifiers</h>
       <p>Like other (proper) nouns, anthroponymic proper nouns can be (post-)modified by an
