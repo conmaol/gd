@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>ciamar</h>
+    <p><g>ciamar</g>
+        <en>how</en> is a question word (interrogative adverb).</p>
+
+    <p>
+        <xl>
+            <li>
+                <gd><m>Ciamar</m> a tha sibh? Tha mi gu math, tapadh leibh.</gd>
+                <ref text="617">td. 17</ref>
+            </li>
+        </xl>
+    </p>
+
+
+</module>

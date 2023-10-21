@@ -15,10 +15,26 @@
         </p>
     </section>
 
-
-    <!--<section>
+    <section>
         <h>dependents</h>
-        <section id="deps-mods">
+        <section id="deps-bare">
+            <h>bare</h>
+            <p>Like other nouns, <g>Seumas</g> can occur on its own, without any dependents.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>A bheil ceann mór air <m>Seumas</m>?</gd>
+                        <tr>Does James have a big head?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>Seumas</m> trang an diugh.</gd>
+                        <tr>James is busy today.</tr>
+                        <ref text="617">td. 9 [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <!--<section id="deps-mods">
             <h>modifiers</h>
             <p>Like other (proper) nouns, <g>Calum</g> can be (post-)modified by an (attributive) <a
                 href="?xx=adjectives/adjective">adjective</a>.</p>
@@ -30,22 +46,17 @@
                 </li>
             </xl>
             </p>
-        </section>
-    </section>-->
+        </section>-->
+    </section>
 
     <section>
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
-            <p>Like other (proper) nouns, <g>Seumas</g> can be used as the subject of a <a
+            <p>Like other nouns, <g>Seumas</g> can be used as the subject of a <a
                     href="?xx=verbs/verbs">verb</a>.</p>
             <p>Examples with <a href="?gd=bi"><g>bi</g></a>
                 <en>be</en> – <xl>
-                    <li>
-                        <gd>Dé tha <m>Seumas</m> a’ dèanamh an diugh?</gd>
-                        <tr>What is James doing today?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
                     <li>
                         <gd>Nach eil <m>Seumas</m> ag obair an diugh?</gd>
                         <tr>Isn’t James working today?</tr>
@@ -82,9 +93,21 @@
                 </xl>
             </p>-->
         </section>
+        <!--<section id="uses-obj">
+      <h>object</h>
+      <p>A noun can be used as the object of a transitive verb.</p>
+      <p>Some examples – <xl>
+        <li>
+          <gd>Chunnaic sinn <m>iolair mhór</m> an diugh.</gd>
+          <tr>We saw a big eagle today.</tr>
+          <ref text="617">td. 9 [226]</ref>
+        </li>
+      </xl>
+      </p>
+    </section>-->
         <section id="uses-comp">
             <h>complement</h>
-            <p>Like other (proper) nouns, <g>Seumas</g> can be used as the complement of a <a
+            <p>Like other nouns, <g>Seumas</g> can be used as the complement of a <a
                     href="?xx=prepositions/prepositions">preposition</a>.</p>
             <p>Some examples – <xl>
                     <li>
@@ -93,16 +116,11 @@
                         <ref text="617">td. 13–14</ref>
                     </li>
                     <li>
-                        <gd>A bheil ceann mór <m>air Seumas</m>?</gd>
-                        <tr>Does James have a big head?</tr>
-                        <ref text="617">td. 14</ref>
+                        <gd>Chan eil Seònaid anns an achadh còmhla <m>ri Seumas</m>.</gd>
+                        <tr>Janet is not in the field with James.</tr>
+                        <ref text="617"/>
                     </li>
-                <li>
-                    <gd>Chan eil Seònaid anns an achadh còmhla <m>ri Seumas</m>.</gd>
-                    <tr>Janet is not in the field with James.</tr>
-                    <ref text="617"></ref>
-                </li>
-            </xl>
+                </xl>
             </p>
         </section>
     </section>

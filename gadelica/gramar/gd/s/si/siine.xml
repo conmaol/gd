@@ -17,6 +17,24 @@
     
     <!--<section>
         <h>dependents</h>
+         <section id="deps-bare">
+      <h>bare</h>
+      <p>Like other (proper) nouns, an anthroponymic proper noun can occur on its own, without any
+        dependents.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Tha falt bàn air <m>Màiri</m>.</gd>
+            <tr>Mary has fair hair.</tr>
+            <ref text="617">td. 9 [adapted]</ref>
+          </li>
+          <li>
+            <gd>Tha <m>Seumas</m> trang an diugh.</gd>
+            <tr>James is busy today.</tr>
+            <ref text="617">td. 9 [adapted]</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
         <section id="deps-mods">
             <h>modifiers</h>
             <p>Like other (proper) nouns, <g>Calum</g> can be (post-)modified by an (attributive) <a
@@ -81,6 +99,18 @@
                 </xl>
             </p>
         </section>-->
+        <!--<section id="uses-obj">
+      <h>object</h>
+      <p>A noun can be used as the object of a transitive verb.</p>
+      <p>Some examples – <xl>
+        <li>
+          <gd>Chunnaic sinn <m>iolair mhór</m> an diugh.</gd>
+          <tr>We saw a big eagle today.</tr>
+          <ref text="617">td. 9 [226]</ref>
+        </li>
+      </xl>
+      </p>
+    </section>-->
         <!--<section id="uses-comp">
             <h>complement</h>
             <p>Like other (proper) nouns, <g>Calum</g> can be used as the complement of a <a

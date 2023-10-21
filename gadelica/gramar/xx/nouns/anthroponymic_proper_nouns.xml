@@ -3,43 +3,50 @@
   <h>anthroponymic proper nouns</h>
   <p>Anthroponymic proper nouns are <a href="?xx=nouns/proper_nouns">proper nouns</a> which are also
       <a href="?xx=nouns/anthroponyms">anthroponyms</a> – nouns which identify individual persons
-    (and other personified entities like toys, boats, pets).</p>
+    (and other personified entities like toys, boats, or pets).</p>
 
-  <p>Feminine anthroponymic proper nouns – <a href="?gd=maairi"><g>Màiri</g></a>
+  <p>Some examples of anthroponymic proper nouns are – <a href="?gd=calum"><g>Calum</g></a>
+    <masc/>
+    <en>Malcolm</en>, <a href="?gd=maairi"><g>Màiri</g></a>
     <fem/>
     <en>Mary</en>, <a href="?gd=seoonaid"><g>Seònaid</g></a>
     <fem/>
-    <en>Janet</en>, <a href="?gd=siine"><g>Sìne</g></a>
+    <en>Janet</en>, <a href="?gd=seumas"><g>Seumas</g></a>
+    <masc/>
+    <en>James</en>, <a href="?gd=siine"><g>Sìne</g></a>
     <fem/>
     <en>Jean</en>.</p>
-  <p>Masculine anthroponymic proper nouns – <a href="?gd=calum"><g>Calum</g></a>
-    <masc/>
-    <en>Malcolm</en>, <a href="?gd=seumas"><g>Seumas</g></a>
-    <masc/>
-    <en>James</en>.</p>
 
   <section>
     <h>dependents</h>
     <section id="deps-bare">
       <h>bare</h>
-      <p>Like other (proper) nouns, an anthroponymic proper noun can occur on its own, without any dependents.</p>
+      <p>Like other (proper) nouns, an anthroponymic proper noun can occur on its own, without any
+        dependents.</p>
       <p>Some examples – <xl>
-      </xl>
-      </p>
-    </section>
-    <section id="deps-mods">
-      <h>modifiers</h>
-      <p>Like other (proper) nouns, anthroponymic proper nouns can be (post-)modified by an
-        (attributive) <a href="?xx=adjectives/adjective">adjective</a>.</p>
-      <p>Some masculine examples – <xl>
           <li>
-            <gd>Tha <m>Calum mór</m> ag obair gu trang anns an achadh an diugh.</gd>
-            <tr>Big Malcolm is working busily in the field today.</tr>
+            <gd>Tha falt bàn air <m>Màiri</m>.</gd>
+            <tr>Mary has fair hair.</tr>
+            <ref text="617">td. 9 [adapted]</ref>
+          </li>
+          <li>
+            <gd>Tha <m>Seumas</m> trang an diugh.</gd>
+            <tr>James is busy today.</tr>
             <ref text="617">td. 9 [adapted]</ref>
           </li>
         </xl>
       </p>
-      <p>Some feminine examples – <xl>
+    </section>
+    <section id="deps-mods">
+      <h>modifiers</h>
+      <p>Like other (proper) nouns, an anthroponymic proper noun can be (post-)modified by an
+        (attributive) <a href="?xx=adjectives/adjective">adjective</a>.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Tha <m>Calum mór</m> ag obair anns an achadh.</gd>
+            <tr>Big Malcolm is working in the field.</tr>
+            <ref text="617">td. 9 [adapted]</ref>
+          </li>
           <li>
             <gd>Tha <m>Màiri bheag</m> sgìth.</gd>
             <tr>Little Mary is tired.</tr>
@@ -54,10 +61,9 @@
     <h>uses</h>
     <section id="uses-sbj">
       <h>subject</h>
-      <p>Like other (proper) nouns, anthroponymic proper nouns can be used as the subject of a <a
+      <p>Like other (proper) nouns, an anthroponymic proper noun can be used as the subject of a <a
           href="?xx=verbs/verbs">verb</a>.</p>
-      <p>Examples with <a href="?gd=bi"><g>bi</g></a>
-        <en>be</en> – <xl>
+      <p>Some examples – <xl>
           <li>
             <gd>A bheil <m>Seònaid</m> anns an sgoil an diugh?</gd>
             <tr>Is Janet in the school today?</tr>
@@ -70,33 +76,25 @@
           </li>
         </xl>
       </p>
-      <p>Examples with demonstrative pronouns used as copular verbs – <xl>
-          <li>
-            <gd>Seo <m>Màiri</m>.</gd>
-            <tr>This is Mary.</tr>
-            <ref text="617">td. 15</ref>
-          </li>
-          <li>
-            <gd>Seo <m>Calum</m>.</gd>
-            <tr>This is Malcolm.</tr>
-            <ref text="617">td. 15</ref>
-          </li>
-        </xl>
-      </p>
-      <p>Examples involving conjoined subjects linked by <a href="?gd=agus"><g>agus</g></a>
-        <en>and</en> – <xl>
-          <li>
-            <gd>Nach eil <m>Calum agus Màiri</m> anns an sgoil an diugh?</gd>
-            <tr>Aren’t Malcolm and Mary in the school today?</tr>
-            <ref text="617">td. 15 [228]</ref>
-          </li>
-        </xl>
-      </p>
     </section>
+
+    <!--<section id="uses-obj">
+      <h>object</h>
+      <p>A noun can be used as the object of a transitive verb.</p>
+      <p>Some examples – <xl>
+        <li>
+          <gd>Chunnaic sinn <m>iolair mhór</m> an diugh.</gd>
+          <tr>We saw a big eagle today.</tr>
+          <ref text="617">td. 9 [226]</ref>
+        </li>
+      </xl>
+      </p>
+    </section>-->
+
     <section id="uses-comp">
       <h>complement</h>
-      <p>Like other (proper) nouns, anthroponymic proper nouns can be used as the complement of a <a
-          href="?xx=prepositions/prepositions">preposition</a>.</p>
+      <p>Like other (proper) nouns, an anthroponymic proper noun can be used as the complement of a
+          <a href="?xx=prepositions/prepositions">preposition</a>.</p>
       <p>Some examples – <xl>
           <li>
             <gd>A bheil ceann mór <m>air Seumas</m>?</gd>

@@ -15,8 +15,26 @@
     </section>
 
 
-    <!--<section>
+    <section>
         <h>dependents</h>
+        <section id="deps-bare">
+            <h>bare</h>
+            <p>Like other nouns, <g>Seònaid</g> can occur on its own, without any dependents.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Tha falt dubh air <m>Seònaid</m>.</gd>
+                        <tr>Janet has black hair.</tr>
+                        <ref text="617">td. 9 [adapted]</ref>
+                    </li>
+                    <li>
+                        <gd>Dé tha <m>Seònaid</m> a’ dèanamh anns an taigh?</gd>
+                        <tr>What is Janet doing in the house?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <!--
         <section id="deps-mods">
             <h>modifiers</h>
             <p>Like other (proper) nouns, <g>Calum</g> can be (post-)modified by an (attributive) <a
@@ -29,25 +47,20 @@
                 </li>
             </xl>
             </p>
-        </section>
-    </section>-->
+        </section>-->
+    </section>
 
     <section>
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
-            <p>Like other (proper) nouns, <g>Seònaid</g> can be used as the subject of a <a
+            <p>Like other nouns, <g>Seònaid</g> can be used as the subject of a <a
                     href="?xx=verbs/verbs">verb</a>.</p>
             <p>Examples with <a href="?gd=bi"><g>bi</g></a>
                 <en>be</en> – <xl>
                     <li>
                         <gd>A bheil <m>Seònaid</m> anns an sgoil an diugh?</gd>
                         <tr>Is Janet in the school today?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>Dé tha <m>Seònaid</m> a’ dèanamh anns an taigh?</gd>
-                        <tr>What is Janet doing in the house?</tr>
                         <ref text="617">td. 14</ref>
                     </li>
                     <li>
@@ -81,9 +94,21 @@
                 </xl>
             </p>-->
         </section>
+        <!--<section id="uses-obj">
+      <h>object</h>
+      <p>A noun can be used as the object of a transitive verb.</p>
+      <p>Some examples – <xl>
+        <li>
+          <gd>Chunnaic sinn <m>iolair mhór</m> an diugh.</gd>
+          <tr>We saw a big eagle today.</tr>
+          <ref text="617">td. 9 [226]</ref>
+        </li>
+      </xl>
+      </p>
+    </section>-->
         <section id="uses-comp">
             <h>complement</h>
-            <p>Like other (proper) nouns, <g>Seònaid</g> can be used as the complement of a <a
+            <p>Like other nouns, <g>Seònaid</g> can be used as the complement of a <a
                     href="?xx=prepositions/prepositions">preposition</a>.</p>
             <p>Some examples – <xl>
                     <li>

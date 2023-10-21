@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>càite</h>
+    <p><g>càit</g>
+        <en>where</en> is a question word (interrogative adverb).</p>
+
+    <p>
+        <xl>
+            <li>
+                <gd><m>Càit</m> a bheil an gille beag an diugh? Tha e anns an sgoil.</gd>
+                <tr>Where is the little boy today? He is in the school.</tr>
+                <ref text="617">td. 14</ref>
+            </li>
+            <li>
+                <gd>A bheil Seònaid anns an sgoil an diugh? Chan eil. <m>Càit</m> a bheil i? Tha i
+                    anns an taigh.</gd>
+                <tr>Is Janet in the school today? No, she isn’t. Where is she? She is in the
+                    house.</tr>
+                <ref text="617">td. 14</ref>
+            </li>
+            <li>
+                <gd><m>Càit</m> a bheil an cat bàn an diugh? Tha e anns an taigh còmhla ri
+                    Seònaid.</gd>
+                <tr>Where is the white cat today? It is in the house along with Janet.</tr>
+                <ref text="617">td. 14</ref>
+            </li>
+            <li>
+                <gd><m>Càit</m> a bheil an cat? Tha e aig an teine.</gd>
+                <tr>Where is the cat? It is by the fire.</tr>
+                <ref text="617">td. 14</ref>
+            </li>
+            <li>
+                <gd>A bheil an cù aig an teine? Chan eil. <m>Càit</m> a bheil e? Tha e anns an
+                    achadh an diugh.</gd>
+                <tr>Is the dog by the fire. No, it isn’t. Where is it? It is in the field
+                    today.</tr>
+                <ref text="617">td. 14</ref>
+            </li>
+            <li>
+                <gd><m>Càit</m> a bheil an gual? Air an teine.</gd>
+                <tr>Where is the coal? On the fire.</tr>
+                <ref text="617">td. 15 [227]</ref>
+            </li>
+            <li>
+                <gd><m>Càit</m> a bheil Seumas ag obair? Tha e trang ag obair anns an achadh.</gd>
+                <tr>Where is James working? He is busy working in the field.</tr>
+                <ref text="617">td. 15 [227–8]</ref>
+            </li>
+            <li>
+                <gd><m>Càit</m> a bheil a’ chaileag? Tha i anns an taigh.</gd>
+                <tr>Where is the girl? She is in the house.</tr>
+                <ref text="617">td. 15</ref>
+            </li>
+            <li>
+                <gd><m>Càit</m> a bheil i a’ cluich? Tha i a’ cluich air an làr.</gd>
+                <tr>Where is she playing? She is playing on the floor.</tr>
+                <ref text="617">td. 15</ref>
+            </li>
+        </xl>
+    </p>
+
+
+    <section>
+        <h>dependents</h>
+        <p><g>Càite an <a href="?gd=rach">deach/tèid/rachadh</a> ... ?</g>
+            <en>Where did/will/would ... go?</en> – <ul>
+                <li>pedagogical examples – <xl id="comps-caite-pedag">
+                        <li>
+                            <gd><m>Càit</m> a bheil thu a’ dol? Tha mi a’ dol a-null thairis a
+                                Pharas. | <m>Càite</m> am bi sinn a’ dol a-nochd?</gd>
+                            <tr>Where are you going? I am going abroad to Paris. | Where will we be
+                                going tonight?</tr>
+                            <ref text="609">td. 66, 116</ref>
+                        </li>
+                    </xl>
+                </li>
+            </ul>
+        </p>
+    </section>
+
+</module>

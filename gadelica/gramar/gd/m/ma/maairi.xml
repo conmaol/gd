@@ -16,9 +16,27 @@
 
     <section>
         <h>dependents</h>
+        <section id="deps-bare">
+            <h>bare</h>
+            <p>Like other nouns, an anthroponymic proper noun can occur on its own, without any
+                dependents.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Tha falt bàn air <m>Màiri</m>.</gd>
+                        <tr>Mary has fair hair.</tr>
+                        <ref text="617">td. 9 [adapted]</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>Màiri</m> sgìth an diugh.</gd>
+                        <tr>Mary is tired today.</tr>
+                        <ref text="617">td. 9 [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
         <section id="deps-mods">
             <h>modifiers</h>
-            <p>Like other (proper) nouns, <g>Màiri</g> can be (post-)modified by an (attributive) <a
+            <p>Like other nouns, <g>Màiri</g> can be (post-)modified by an (attributive) <a
                     href="?xx=adjectives/adjective">adjective</a>.</p>
             <p>Some examples – <xl>
                     <li>
@@ -40,7 +58,7 @@
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
-            <p>Like other (proper) nouns, <g>Màiri</g> can be used as the subject of a <a
+            <p>Like other nouns, <g>Màiri</g> can be used as the subject of a <a
                     href="?xx=verbs/verbs">verb</a>.</p>
             <p>Examples with <a href="?gd=bi"><g>bi</g></a>
                 <en>be</en> – <xl>
@@ -53,11 +71,6 @@
                         <gd>Tha <m>Màiri</m> beag bàn.</gd>
                         <tr>Mary is small and fair-haired.</tr>
                         <ref text="617">td. 8</ref>
-                    </li>
-                    <li>
-                        <gd>Tha <m>Màiri bhàn</m> anns an achadh an diugh.</gd>
-                        <tr>Fair-headed Mary is in the field today.</tr>
-                        <ref text="617">td. 9</ref>
                     </li>
                 </xl>
             </p>
@@ -85,9 +98,21 @@
                 </xl>
             </p>
         </section>
+        <!--<section id="uses-obj">
+      <h>object</h>
+      <p>A noun can be used as the object of a transitive verb.</p>
+      <p>Some examples – <xl>
+        <li>
+          <gd>Chunnaic sinn <m>iolair mhór</m> an diugh.</gd>
+          <tr>We saw a big eagle today.</tr>
+          <ref text="617">td. 9 [226]</ref>
+        </li>
+      </xl>
+      </p>
+    </section>-->
         <section id="uses-comp">
             <h>complement</h>
-            <p>Like other (proper) nouns, <g>Màiri</g> can be used as the complement of a <a
+            <p>Like other nouns, <g>Màiri</g> can be used as the complement of a <a
                     href="?xx=prepositions/prepositions">preposition</a>.</p>
             <p>Some examples – <xl>
                     <li>

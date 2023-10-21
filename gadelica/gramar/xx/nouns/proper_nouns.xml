@@ -3,16 +3,122 @@
   <h>proper nouns</h>
   <p>Proper nouns are <a href="?xx=nouns/nouns">nouns</a> which are also <a href="?xx=nouns/names"
       >names</a>, identifying and referring to particular, definite entities – a specific person,
-    object, place, group, etc.</p>
+    object, place, group, and so on.</p>
+  <p>Some examples of proper nouns are – <m>Seònaid</m>
+    <fem/>
+    <en>Janet</en>, <m>Calum</m>
+    <masc/>
+    <en>Malcolm</en>.</p>
+  <p>Proper nouns contrast with <a href="?xx=nouns/common_nouns">common nouns</a> – nouns which
+    describe classes of entity (and hence are not names), like <g>cù</g>
+    <masc/>
+    <en>dog</en>, or <g>sgoil</g>
+    <fem/>
+    <en>school</en>.</p>
 
-  <p>As names, proper nouns belong to different semantic classes, depending on the kind of
-    entity they identify – <ul>
-      <li><a href="?xx=nouns/anthroponymic_proper_nouns">Anthroponymic proper nouns</a> name
-        individual persons (including personified entities) – <g>Mairead</g>
-        <fem/>
-        <en>Margaret</en>, <g>Seumas</g>
-        <masc/>
-        <en>James</en>.</li>
+  <section>
+    <h>dependents</h>
+    <section id="deps-bare">
+      <h>bare</h>
+      <p>Like other nouns, a proper noun can occur on its own, without any dependents.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Tha falt bàn air <m>Màiri</m>.</gd>
+            <tr>Mary has fair hair.</tr>
+            <ref text="617">td. 9 [adapted]</ref>
+          </li>
+          <li>
+            <gd>Tha <m>Seumas</m> trang an diugh.</gd>
+            <tr>James is busy today.</tr>
+            <ref text="617">td. 9 [adapted]</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="deps-mods">
+      <h>modifiers</h>
+      <p>Like other nouns, a proper noun can be (post-)modified by an (attributive) <a
+          href="?xx=adjectives/adjective">adjective</a>.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Tha <m>Calum mór</m> ag obair anns an achadh.</gd>
+            <tr>Big Malcolm is working in the field.</tr>
+            <ref text="617">td. 9 [adapted]</ref>
+          </li>
+          <li>
+            <gd>Tha <m>Màiri bheag</m> sgìth.</gd>
+            <tr>Little Mary is tired.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section id="uses-sbj">
+      <h>subject</h>
+      <p>Like other nouns, a proper noun can be used as the subject of a <a href="?xx=verbs/verbs"
+          >verb</a>.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>A bheil <m>Seònaid</m> anns an sgoil an diugh?</gd>
+            <tr>Is Janet in the school today?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Dé tha <m>Seumas</m> a’ dèanamh an diugh?</gd>
+            <tr>What is James doing today?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+
+    <!--<section id="uses-obj">
+      <h>object</h>
+      <p>A noun can be used as the object of a transitive verb.</p>
+      <p>Some examples – <xl>
+        <li>
+          <gd>Chunnaic sinn <m>iolair mhór</m> an diugh.</gd>
+          <tr>We saw a big eagle today.</tr>
+          <ref text="617">td. 9 [226]</ref>
+        </li>
+      </xl>
+      </p>
+    </section>-->
+
+    <section id="uses-comp">
+      <h>complement</h>
+      <p>Like other nouns, a proper noun can be used as the complement of a <a
+          href="?xx=prepositions/prepositions">preposition</a>.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>A bheil ceann mór <m>air Seumas</m>?</gd>
+            <tr>Does James have a big head?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Tha an cat anns an taigh còmhla <m>ri Seònaid</m>.</gd>
+            <tr>The cat is in the house with Janet.</tr>
+            <ref text="617">td. 14 [adapted]</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
+
+  <section id="semantics">
+    <h>semantics</h>
+    <p><!--As names, proper nouns belong to different semantic classes, depending on the kind of entity
+      they identify – <ul>
+        <li>--><a href="?xx=nouns/anthroponymic_proper_nouns">Anthroponymic proper nouns</a>
+      name individual persons (including personified entities) – <g>Màiri</g>
+      <fem/>
+      <en>Mary</en>, <g>Seumas</g>
+      <masc/>
+      <en>James</en>.<!--</li>-->
       <!-- <li><a href="?xx=nouns/toponymic_proper_nouns">Toponymic proper nouns</a> name places
           (geographical and cosmological entities) – <g>Leòdhas</g>
           <masc/>
@@ -34,106 +140,10 @@
           <fem/>
           <en>Latin</en>, <g>Albais</g>
           <fem/>
-          <en>Scots</en>.</li>-->
-    </ul>
-  </p>
-
-  <section>
-    <h>dependents</h>
-    <section id="deps-bare">
-      <h>bare</h>
-      <p>Like other nouns, a proper noun can occur on its own, without any dependents.</p>
-      <p>Some examples – <xl>
-      </xl>
-      </p>
-    </section>
-    <section id="deps-mods">
-      <h>modifiers</h>
-      <p>Like other nouns, proper nouns can be (post-)modified by an (attributive) <a
-          href="?xx=adjectives/adjective">adjective</a>.</p>
-      <p>Some masculine examples – <xl>
-          <li>
-            <gd>Tha <m>Calum mór</m> ag obair gu trang anns an achadh an diugh.</gd>
-            <tr>Big Malcolm is working busily in the field today.</tr>
-            <ref text="617">td. 9 [adapted]</ref>
-          </li>
-        </xl>
-      </p>
-      <p>Some feminine examples – <xl>
-          <li>
-            <gd>Tha <m>Màiri bheag</m> sgìth.</gd>
-            <tr>Little Mary is tired.</tr>
-            <ref text="617">td. 9</ref>
-          </li>
-        </xl>
-      </p>
-    </section>
+          <en>Scots</en>.</li>
+      </ul>-->
+    </p>
   </section>
-
-  <section>
-    <h>uses</h>
-    <section id="uses-sbj">
-      <h>subject</h>
-      <p>Like other nouns, proper nouns can be used as the subject of a <a
-          href="?xx=verbs/verbs">verb</a>.</p>
-      <p>Examples with <a href="?gd=bi"><g>bi</g></a>
-        <en>be</en> – <xl>
-          <li>
-            <gd>A bheil <m>Seònaid</m> anns an sgoil an diugh?</gd>
-            <tr>Is Janet in the school today?</tr>
-            <ref text="617">td. 14</ref>
-          </li>
-          <li>
-            <gd>Dé tha <m>Seumas</m> a’ dèanamh an diugh?</gd>
-            <tr>What is James doing today?</tr>
-            <ref text="617">td. 14</ref>
-          </li>
-        </xl>
-      </p>
-      <p>Examples with demonstrative pronouns used as copular verbs – <xl>
-          <li>
-            <gd>Seo <m>Màiri</m>.</gd>
-            <tr>This is Mary.</tr>
-            <ref text="617">td. 15</ref>
-          </li>
-          <li>
-            <gd>Seo <m>Calum</m>.</gd>
-            <tr>This is Malcolm.</tr>
-            <ref text="617">td. 15</ref>
-          </li>
-        </xl>
-      </p>
-      <p>Examples involving conjoined subjects linked by <a href="?gd=agus"><g>agus</g></a>
-        <en>and</en> – <xl>
-          <li>
-            <gd>Nach eil <m>Calum agus Màiri</m> anns an sgoil an diugh?</gd>
-            <tr>Aren’t Malcolm and Mary in the school today?</tr>
-            <ref text="617">td. 15 [228]</ref>
-          </li>
-        </xl>
-      </p>
-    </section>
-    <section id="uses-comp">
-      <h>complement</h>
-      <p>Like other nouns, proper nouns can be used as the complement of a <a
-          href="?xx=prepositions/prepositions">preposition</a>.</p>
-      <p>Some examples – <xl>
-          <li>
-            <gd>A bheil ceann mór <m>air Seumas</m>?</gd>
-            <tr>Does James have a big head?</tr>
-            <ref text="617">td. 14</ref>
-          </li>
-          <li>
-            <gd>Tha an cat anns an taigh còmhla <m>ri Seònaid</m>.</gd>
-            <tr>The cat is in the house with Janet.</tr>
-            <ref text="617">td. 14 [adapted]</ref>
-          </li>
-        </xl>
-      </p>
-    </section>
-  </section>
-
-
 
 
   <!--<p>Examples of proper nouns are – <ul>
@@ -356,7 +366,7 @@
   </section>-->
   <!--<section id="uses">
     <h>uses</h>-->
-  
+
   <!--
     <p>Anthroponymic, toponymic and ergonymic proper nouns are generally concrete, associated with a
       material sense. Chrematonymic and glottonymic proper nouns are usually abstract, associated
