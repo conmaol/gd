@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze" id="top">
-  <h lang="en">derived common nouns</h>
-  <h lang="gd">ainmearan gnàthach bunaichte</h>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <h>derived common nouns</h>
   <p>Derived common nouns are <a href="?xx=nouns/common_nouns">common nouns</a> which have been
-    derived from other nouns, adjectives or verbs, typically by addition of a suffix eg. <ul>
+    derived from other nouns, adjectives or verbs, typically by addition of a suffix. <!--eg. <ul>
       <li><m>ceart</m> adj. <en>correct</en> ⇒ <m>ceartas</m> masc. <en>justice</en></li>
       <li><m>seall</m> vb. <en>look</en> ⇒ <m>sealladh</m> masc. <en>view</en></li>
-    </ul>
+    </ul>-->
   </p>
-  <p>An important subclass of derived common nouns are the <a href="?xx=nouns/verbal_nouns">verbal
-      nouns</a>.</p>
+  
+ <!-- <p>An important subclass of derived common nouns are the <a href="?xx=nouns/verbal_nouns">verbal
+      nouns</a>.</p>-->
   <p>Noun-deriving suffixes – <ul>
-      <li><a href="?gd=_ach">-(e)ach</a></li>
-      <li><a href="?gd=_achd">-(e)achd</a></li>
-      <li><a href="?gd=_ag">-(e)ag</a></li>
-      <li><a href="?gd=_aire">-aire</a></li>
+      <!--<li><a href="?gd=_ach">-(e)ach</a></li>
+      <li><a href="?gd=_achd">-(e)achd</a></li>-->
+      <li><a href="?gd=_ag"><g>-(e)ag</g></a> <fem/></li>
+      <!--<li><a href="?gd=_aire">-aire</a></li>
       <li><a href="?gd=_an">-(e)an</a></li>
       <li><a href="?gd=_as">-(e)as</a></li>
       <li><a href="?gd=_e">-e</a></li>
       <li><a href="?gd=_ead">-ead</a></li>
       <li><a href="?gd=_iche">-(a)iche</a></li>
-      <li><a href="?gd=_inn">-(a)inn</a></li>
+      <li><a href="?gd=_inn">-(a)inn</a></li>-->
     </ul>
   </p>
-  <p>cf. <a href="?gd=tionail">tionail</a>
+ <!-- <p>cf. <a href="?gd=tionail">tionail</a>
     <vb/>
     <en>come/bring together, gather</en> ⇒ <a href="?gd=tional">tional</a>
     <masc/>
@@ -31,7 +31,7 @@
     <masc/>
     <en>abbot</en> ⇒ <a href="?gd=abaid">abaid</a>
     <fem/>
-    <en>abbey</en>.</p>
+    <en>abbey</en>.</p>-->
   <!--
   <p><xref id="612" p="151"/> also lists –</p>
   <ul>

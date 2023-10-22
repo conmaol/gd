@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
   <h>-(e)ag</h>
-  <p><g>-(e)ag</g> is a suffix used to create feminine <a href="?xx=nouns/derived_common_nouns"
+  <p><g>-(e)ag</g> is a diminutive suffix used to create feminine <a href="?xx=nouns/derived_common_nouns"
       >derived common nouns</a> from adjectives and from other nouns.</p>
-  <section id="adj">
+  
+  <p>Some examples – <a href="?gd=caileag"><g>caileag</g></a> <en>girl</en></p>
+  
+  <!--<section id="adj">
     <h>de-adjectival</h>
     <p>Examples derived from adjectives – <ul>
         <li><g>sleamhainn</g>
@@ -41,5 +44,5 @@
           <en>farm servant</en></li>
       </ul>
     </p>
-  </section>
+  </section>-->
 </module>

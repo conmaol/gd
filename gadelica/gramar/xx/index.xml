@@ -40,6 +40,9 @@
                                     href="?gd=teine"><g>teine</g></a>, <a href="?gd=uisge"
                                         ><g>uisge</g></a>
                             </li>
+                            <li><a href="?xx=nouns/derived_common_nouns">derived common nouns</a> –
+                                    <a href="?gd=_ag"><g>-(e)ag</g></a> – <a href="?gd=caileag"
+                                        ><g>caileag</g></a></li>
                         </ul>
                     </li>
                     <li><a href="?xx=nouns/pronouns">pronouns</a>
@@ -79,7 +82,7 @@
                         ><g>aig</g></a> (<a href="?gd=ag"><g>ag</g></a>), <a href="?gd=air"
                         ><g>air</g></a>, <a href="?gd=an^preposition"><g>an</g></a></li>
             <li><a href="?xx=prepositions/adverbs">adverbs</a> – <a href="?gd=gu"><g>gu</g></a>, <a
-                    href="?gd=an_diugh"><g>an diugh</g></a></li>
+                    href="?gd=an_diugh"><g>an diugh</g></a>, <a href="?gd=coomhla"><g>còmhla</g></a></li>
             <li>conjunctions – <a href="?gd=agus"><g>agus</g></a>, <a href="?gd=ach"
                 ><g>ach</g></a></li>
             <li>question words – <a href="?gd=caait"><g>càit</g></a>
@@ -93,6 +96,47 @@
             <li><a href="?xx=nouns/names">names</a>
                 <ul>
                     <li><a href="?xx=nouns/anthroponyms">anthroponyms</a></li>
+                </ul>
+            </li>
+            <li>entities <ul>
+                    <li>material entities – <ul>
+                            <li>things – <ul>
+                                    <li>animate – <ul>
+                                            <li>people – <a href="?gd=caileag"><g>caileag</g></a>,
+                                                  <a href="?gd=duine"><g>duine</g></a>, <a
+                                                  href="?gd=gille"><g>gille</g></a>
+                                            </li>
+                                            <li>animals – <a href="?gd=cat"><g>cat</g></a>, <a
+                                                  href="?gd=cuu"><g>cù</g></a>, <a href="?gd=iolair"
+                                                  ><g>iolair</g></a></li>
+                                            <li>parts – <a href="?gd=ceann"><g>ceann</g></a></li>
+                                        </ul>
+                                    </li>
+                                    <li>artifacts – <ul>
+                                            <li>buildings – <a href="?gd=sgoil"><g>sgoil</g></a>, <a
+                                                  href="?gd=taigh"><g>taigh</g></a>
+                                                <ul>
+                                                  <li>parts of buildings – <a href="?gd=dorus"
+                                                  ><g>dorus</g></a>, <a href="?gd=laar"
+                                                  ><g>làr</g></a>, <a href="?gd=seoomar"
+                                                  ><g>seòmar</g></a>, <a href="?gd=teine"
+                                                  ><g>teine</g></a></li>
+                                                </ul>
+                                            </li>
+                                            <li>clothing – <a href="?gd=coota"><g>còta</g></a></li>
+                                        </ul>
+                                    </li>
+                                    <li>other – <a href="?gd=achadh"><g>achadh</g></a></li>
+                                </ul>
+                            </li>
+                            <li>substances – <a href="?gd=falt"><g>falt</g></a>, <a href="?gd=gual"
+                                        ><g>gual</g></a>, <a href="?gd=uisge"><g>uisge</g></a></li>
+                        </ul>
+                    </li>
+                    <li>non-material – <a href="?gd=latha"><g>latha</g></a>, <a href="?gd=teas"
+                                ><g>teas</g></a></li>
+                    <li>activities – <a href="?gd=obair"><g>obair</g></a>, <a href="?gd=cluich"
+                                ><g>cluich</g></a></li>
                 </ul>
             </li>
         </ul>

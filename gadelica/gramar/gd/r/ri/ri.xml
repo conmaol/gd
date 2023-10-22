@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
   <h>ri</h>
   <p><g>ri</g>
     <en>at, to, against</en> is a (non-leniting) <a href="?xx=prepositions/prepositions"

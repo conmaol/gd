@@ -20,33 +20,7 @@
 
   <!--<p>cf. <a href="?xx=nouns/generic_quantity_nouns">generic quantity nouns</a>.</p>-->
 
-  <section id="derivation">
-    <h>derivation</h>
-    <p>Commons nouns can be divided into three groups, depending on how they are formed – <ol>
-        <li><!--<a href="?xx=nouns/derived_common_nouns">-->Derived common nouns<!--</a>--> are
-          formed from other nouns, adjectives or verbs, typically by addition of a suffix eg.
-            <m>bàrd</m> [masc.] <en>poet</en> → <m>bàrd<emph>achd</emph></m> [fem.] <en>poetry</en>,
-            <m>Leòdhas</m> [masc.] <en>Lewis</en> → <m>Leòdhas<emph>ach</emph></m> [masc.] <en>man
-            from Lewis</en>, <m>ceart</m> [adj.] <en>correct</en> → <m>ceart<emph>as</emph></m>
-          [masc.] <en>justice</en>, <m>seall</m> [vb.] <en>look</en> → <m>seall<emph>adh</emph></m>
-          [masc.] <en>view</en>.</li>
-        <li><!--<a href="?xx=nouns/compound_common_nouns">-->Compound common nouns<!--</a>--> are
-          formed from other common nouns, typically by addition of a <emph>prefix</emph> eg.
-            <m>mùtaire</m> [masc.] <en>person engaged in an illegal activity</en>, <m>cùl</m>
-          [masc.] <en>back, behind</en> → <m>cùl-mhùtaire</m> [masc.] <en>smuggler</en>;
-            <m>aithris</m> [fem.] <en>report, recital</en>, <m>beul</m> [masc.] <en>mouth</en> →
-            <m>beul-aithris</m> [fem.] <en>folklore</en>.</li>
-        <li><a href="?xx=nouns/simple_common_nouns">Simple common nouns</a> are not formed from
-          other words eg. <m>taigh</m>
-          <masc/>
-          <en>house</en>, <m>deoch</m>
-          <fem/>
-          <en>drink</en>, <m>cù</m>
-          <masc/>
-          <en>dog</en>.</li>
-      </ol>
-    </p>
-  </section>
+  
 
   <section>
     <h>dependents</h>
@@ -158,7 +132,33 @@
   </section>
 
 
-
+  <section id="derivation">
+    <h>derivation</h>
+    <p>Commons nouns can be divided into three groups, depending on how they are formed – <ol>
+      <li><a href="?xx=nouns/derived_common_nouns">Derived common nouns</a> are formed from other
+        nouns, adjectives or verbs, typically by addition of a suffix – <m>caileag</m>
+        <fem/>
+        <en>girl</en>. <!--eg.
+            <m>bàrd</m> [masc.] <en>poet</en> → <m>bàrd<emph>achd</emph></m> [fem.] <en>poetry</en>,
+            <m>Leòdhas</m> [masc.] <en>Lewis</en> → <m>Leòdhas<emph>ach</emph></m> [masc.] <en>man
+            from Lewis</en>, <m>ceart</m> [adj.] <en>correct</en> → <m>ceart<emph>as</emph></m>
+          [masc.] <en>justice</en>, <m>seall</m> [vb.] <en>look</en> → <m>seall<emph>adh</emph></m>
+          [masc.] <en>view</en>.--></li>
+      <li><!--<a href="?xx=nouns/compound_common_nouns">-->Compound common nouns<!--</a>--> are
+        formed from other common nouns, typically by addition of a prefix. <!--eg.
+            <m>mùtaire</m> [masc.] <en>person engaged in an illegal activity</en>, <m>cùl</m>
+          [masc.] <en>back, behind</en> → <m>cùl-mhùtaire</m> [masc.] <en>smuggler</en>;
+            <m>aithris</m> [fem.] <en>report, recital</en>, <m>beul</m> [masc.] <en>mouth</en> →
+            <m>beul-aithris</m> [fem.] <en>folklore</en>.--></li>
+      <li><a href="?xx=nouns/simple_common_nouns">Simple common nouns</a> are not formed from
+        other words – <m>sgoil</m>
+        <fem/>
+        <en>school</en>, <m>cù</m>
+        <masc/>
+        <en>dog</en>.</li>
+    </ol>
+    </p>
+  </section>
 
 
 

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>còmhla</h>
+    <p><g>còmhla</g>
+        <en>together</en> is an <a href="?xx=prepositions/adverbs">adverb</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>complement</h>
+            <module id="coomhla_ri">
+                <h>còmhla ri ...</h>
+                <p><g>còmhla</g> can occur with the preposition <a href="?gd=ri"><g>ri</g></a> as
+                    its complement – <g>còmhla ri ...</g>
+                    <en>along/together with</en>.</p>
+                <p>Some examples with proper nouns – <xl>
+                        <li>
+                            <gd>A bheil an cat a’ cluich <m>còmhla ri Seònaid</m> air an làr?</gd>
+                            <tr>Is the cat playing along with Janet on the floor?</tr>
+                            <ref text="617">td. 14</ref>
+                        </li>
+                        <li>
+                            <gd>Tha an cù <m>còmhla ri Calum</m> anns an achadh an diugh.</gd>
+                            <tr>The dog is along with Calum in the field today.</tr>
+                            <ref text="617">td. 15</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-pred">
+            <h>predicate</h>
+            <p><g>còmhla</g> can be used as the predicate of <a href="?gd=bi"><g>bi</g></a>
+                <en>be</en>.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Tha an cù <m>còmhla</m> ri Calum anns an achadh an diugh.</gd>
+                        <tr>The dog is along with Calum in the field today.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl></p>
+            <p>Some examples with multiple predicates – <xl>
+                    <li>
+                        <gd>Tha an cat anns an taigh <m>còmhla</m> ri Seònaid.</gd>
+                        <tr>The cat is in the house along with Janet.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>Chan eil Seònaid anns an achadh <m>còmhla</m> ri Seumas.</gd>
+                        <tr>Janet is not in the field slong with James.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="uses-mod">
+            <h>modifier</h>
+            <p><g>còmhla</g> can be used as a (comitative) modifier of a verb.</p>
+            <p>Some examples –
+                <xl>
+                    <li>
+                        <gd>A bheil an cat a’ cluich <m>còmhla</m> ri Seònaid air an làr?</gd>
+                        <tr>Is the cat playing along with Janet on the floor?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+    <!--<p>Examples from Gairm – <xl id="gairm">
+            <li>
+                <gd>Bha i ceud bliadhna a dh’ aois is esan dhà air fhichead. Cha robh e ach mìos no
+                    dhà a-mach ás an oilthigh. Bha a nighean a’ fuireachd <m>còmhla rithe</m>. Bha
+                    ise ceithir fichead. Shaoil e gu robh a’ chailleach ann an dòigh na bu
+                    shunndaiche na a nighean. [...]</gd>
+                <tr>She was a hundred years old and him twenty two. He was just a month or two out
+                    of the university. Her daughter was living with her. She was eighty. He thought
+                    that the old woman was in a way livelier than her daughter. [...]</tr>
+                <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                <note>complement</note>
+            </li>
+        </xl>
+    </p>-->
+</module>
