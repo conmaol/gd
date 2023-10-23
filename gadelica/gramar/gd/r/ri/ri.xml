@@ -99,6 +99,35 @@
     </section>
   </section>
 
+  <section>
+    <h>dependents</h>
+    <section id="deps-comp">
+      <h>complement</h>
+      <p>Some examples with proper nouns – <xl>
+          <li>
+            <gd>A bheil an cat a’ cluich còmhla <m>ri Seònaid</m> air an làr?</gd>
+            <tr>Is the cat playing along with Janet on the floor?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Tha an cù còmhla <m>ri Calum</m> anns an achadh an diugh.</gd>
+            <tr>The dog is along with Calum in the field today.</tr>
+            <ref text="617">td. 15</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section id="uses-comp">
+      <h>complement</h>
+      <p><a href="?gd=coomhla"><g>còmhla ri ...</g></a>
+        <en>together/along with</en></p>
+    </section>
+  </section>
+
   <!--
   <p>ri + verbal noun</p>
   <p>passive –</p>
@@ -222,7 +251,7 @@
   <p>ri taobh beside, ri linn in the time of, </p>
   <hr/>
   -->
-  
+
   <!--
   <module id="compounds">
     <h>compound prepositions</h>

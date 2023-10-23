@@ -142,6 +142,46 @@
             <tr>Isn’t Malcolm in the field?</tr>
             <ref text="617">td. 11</ref>
           </li>
+          <li>
+            <gd>Tha an gille beag <m>anns an sgoil</m>.</gd>
+            <tr>The little boy is in the school.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>A bheil Seònaid <m>anns an sgoil</m> an diugh?</gd>
+            <tr>Is Janet in the school today?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Tha Seònaid <m>anns an taigh</m>.</gd>
+            <tr>Janet is in the house.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Tha an cat bàn <m>anns an taigh</m> còmhla ri Seònaid.</gd>
+            <tr>The white cat is in the house along with Janet.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Dè tha Seònaid a’ dèanamh anns an taigh?</gd>
+            <tr>What is Janet doing in the house?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Tha a’ chaileag anns an taigh.</gd>
+            <tr>The girl is in the house.</tr>
+            <ref text="617">td. 15</ref>
+          </li>
+          <li>
+            <gd>Tha an cù dubh anns an taigh.</gd>
+            <tr>The black dog is in the house.</tr>
+            <ref text="617">td. [227]</ref>
+          </li>
+          <li>
+            <gd>A bheil an gille beag anns an sgoil?</gd>
+            <tr>Is the little boy in the school?</tr>
+            <ref text="617">td. [227]</ref>
+          </li>
         </xl>
       </p>
 
@@ -222,6 +262,35 @@
           </li>
         </xl>
       </p>
+      <p>mmm <xl>
+          <li>
+            <gd>A bheil an t-uisge <m>ann</m>?</gd>
+            <tr>Is it raining?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Tha an t-uisge ann.</gd>
+            <tr>It is raining.</tr>
+            <ref text="617">td. 12</ref>
+          </li>
+          <li>
+            <gd>Tha latha math <m>ann</m> an diugh.</gd>
+            <tr>It is a nice day today.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Chan eil uisge ann.</gd>
+            <tr>It is not raining.</tr>
+            <ref text="617">td. [228]</ref>
+          </li>
+          <li>
+            <gd>Tha latha brèagha blàth ann.</gd>
+            <tr>It is a beautiful warm day.</tr>
+            <ref text="617">td. [228]</ref>
+          </li>
+        </xl>
+      </p>
+
     </section>
 
 
