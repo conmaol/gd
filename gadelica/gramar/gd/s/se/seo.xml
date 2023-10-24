@@ -1,14 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>seo</h>
     <p><g>seo</g>
         <en>this (one)</en> is a <a href="?xx=nouns/demonstrative_pronouns">demonstrative
             pronoun</a>, identifying an entity based on its spatial location proximal to the
         speaker.</p>
-    <p><g>seo</g> contrasts with <a href="?gd=sin"><g>sin</g></a>
+
+    <!--<p><g>seo</g> contrasts with <a href="?gd=sin"><g>sin</g></a>
         <en>that (one)</en> (proximal to the hearer) and <a href="?gd=siud"><g>siud</g></a>
-        <en>that (one) over there</en> (proximal to neither speaker nor hearer). </p>
+        <en>that (one) over there</en> (proximal to neither speaker nor hearer). </p>-->
+
     <section>
+        <h>dependents</h>
+        <section id="deps-bare">
+            <h>bare</h>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>A bheil an cù <m>seo</m> luath?</gd>
+                        <tr>Is this dog swift?</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>seo</m> fuar.</gd>
+                        <tr>This is cold.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>seo</m> teth.</gd>
+                        <tr>This is hot.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>seo</m> math.</gd>
+                        <tr>This is good.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>seo</m> dubh ach tha sin geal.</gd>
+                        <tr>This (one) is black but this (one) is white.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="deps-sbj">
+            <h>subject</h>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd><m>Seo an gille</m> agus <m>seo a’ chaileag</m>.</gd>
+                        <tr>This is the boy and this is the girl.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Seo an gille.</gd>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Seo an cat.</gd>
+                        <tr>This is the cat.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Seo an cù.</gd>
+                        <tr>This is the dog.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Seo Màiri.</gd>
+                        <tr>This is Mary.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Seo Calum.</gd>
+                        <tr>This is Calum.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-sbj">
+            <h>subject</h>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Tha <m>seo</m> fuar.</gd>
+                        <tr>This is cold.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>seo</m> teth.</gd>
+                        <tr>This is hot.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>seo</m> math.</gd>
+                        <tr>This is good.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>seo</m> dubh ach tha sin geal.</gd>
+                        <tr>This (one) is black but this (one) is white.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="uses-mod">
+            <h>modifier</h>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>A bheil an cù <m>seo</m> luath?</gd>
+                        <tr>Is this dog swift?</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="uses-root">
+            <h>root</h>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Seo an gille.</gd>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Seo an cat.</gd>
+                        <tr>This is the cat.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Seo an cù.</gd>
+                        <tr>This is the dog.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Seo Màiri.</gd>
+                        <tr>This is Mary.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Seo Calum.</gd>
+                        <tr>This is Calum.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd><m>Seo an gille</m> agus <m>seo a’ chaileag</m>.</gd>
+                        <tr>This is the boy and this is the girl.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+
+    <!--<section>
         <h>uses</h>
         <section id="subject">
             <h>subject</h>
@@ -170,6 +320,6 @@
                     <g>seo</g>.</p>
             </module>
         </section>
-    </section>
+    </section>-->
 
 </module>

@@ -104,11 +104,29 @@
     <section id="complement">
       <h>complement</h>
       <p>Like all (true) prepositions, <g>air</g> governs a noun complement in the dative case.</p>
-      <p>Examples with human complements – <xl>
+      <p>Examples with inanimate objects (material location) – <xl>
           <li>
-            <gd>Tha falt dubh <m>air Calum</m> ach tha falt bàn <m>air Màiri</m>.</gd>
-            <tr>Calum has black hair but Mary has fair hair.</tr>
-            <ref text="617">td. 9</ref>
+            <gd>Tha Seònaid a’ cluich <m>air an làr</m>.</gd>
+            <tr>Janet is playing on the floor.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Dé tha <m>air an teine</m>? Tha gual air an teine.</gd>
+            <tr>What is one the fire? There is coal on the fire.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Examples with humans – <xl>
+          <li>
+            <gd>Tha falt bàn <m>air Seumas</m>.</gd>
+            <tr>James has fair hair.</tr>
+            <ref text="617">td. 14 [adapted]</ref>
+          </li>
+          <li>
+            <gd>A bheil còta <m>air an duine</m>?</gd>
+            <tr>Does the man have a coat on?</tr>
+            <ref text="617">td. 14</ref>
           </li>
         </xl>
       </p>
@@ -149,7 +167,6 @@
                   <ref text="609">td. 66</ref>
                   <note>deps|complement|human|patient, uses|predicate|affliction|idiom</note>
                 </li>
-
                 <li>
                   <gd>Tha còta snog oirre. Tha peitean air Iain. Tha brògan àrda orra. Tha ad
                     air.</gd>
@@ -389,11 +406,49 @@
     <section id="uses-pred">
       <h>predicate</h>
       <p>One common use of the preposition <g>air</g> is to introduce the predicate of the verb <a
-        href="?gd=bi"><g>bi</g></a> – <xl>
+          href="?gd=bi"><g>bi</g></a>
+        <en>be</en>.</p>
+      <p>Some examples involving material location – <xl>
+          <li>
+            <gd>Dé tha <m>air</m> an teine? Tha gual air an teine.</gd>
+            <tr>What is one the fire? There is coal on the fire.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Some examples involving possession – <xl>
           <li>
             <gd>Tha falt dubh <m>air</m> Calum ach tha falt bàn <m>air</m> Màiri.</gd>
             <tr>Calum has black hair but Mary has fair hair.</tr>
             <ref text="617">td. 9</ref>
+          </li>
+          <li>
+            <gd>A bheil còta <m>air</m> an duine?</gd>
+            <tr>Does the man have a coat on?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>A bheil ceann mór <m>air</m> Seumas?</gd>
+            <tr>Does James have a big head?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+
+    <section id="uses-mod">
+      <h>modifier</h>
+      <p><g>an</g> can be used to introduce a locative modifier of a verb (or verbal noun).</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Tha Seònaid a’ cluich <m>air</m> an làr.</gd>
+            <tr>Janet is playing on the floor.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Có tha a’ cluich <m>air</m> an làr?</gd>
+            <tr>Who is playing on the floor?</tr>
+            <ref text="617">td. 15</ref>
           </li>
         </xl>
       </p>

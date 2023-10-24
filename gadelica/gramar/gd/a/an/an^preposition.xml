@@ -133,19 +133,9 @@
             <ref text="617">td. 6</ref>
           </li>
           <li>
-            <gd>Tha Màiri agus Calum ag obair <m>anns an achadh</m> an diugh.</gd>
-            <tr>Mary and Malcolm are working in the field today.</tr>
-            <ref text="617">td. 6–7</ref>
-          </li>
-          <li>
             <gd>Nach eil Calum <m>anns an achadh</m>?</gd>
             <tr>Isn’t Malcolm in the field?</tr>
             <ref text="617">td. 11</ref>
-          </li>
-          <li>
-            <gd>Tha an gille beag <m>anns an sgoil</m>.</gd>
-            <tr>The little boy is in the school.</tr>
-            <ref text="617">td. 14</ref>
           </li>
           <li>
             <gd>A bheil Seònaid <m>anns an sgoil</m> an diugh?</gd>
@@ -153,34 +143,9 @@
             <ref text="617">td. 14</ref>
           </li>
           <li>
-            <gd>Tha Seònaid <m>anns an taigh</m>.</gd>
-            <tr>Janet is in the house.</tr>
-            <ref text="617">td. 14</ref>
-          </li>
-          <li>
-            <gd>Tha an cat bàn <m>anns an taigh</m> còmhla ri Seònaid.</gd>
-            <tr>The white cat is in the house along with Janet.</tr>
-            <ref text="617">td. 14</ref>
-          </li>
-          <li>
-            <gd>Dè tha Seònaid a’ dèanamh anns an taigh?</gd>
+            <gd>Dè tha Seònaid a’ dèanamh <m>anns an taigh</m>?</gd>
             <tr>What is Janet doing in the house?</tr>
             <ref text="617">td. 14</ref>
-          </li>
-          <li>
-            <gd>Tha a’ chaileag anns an taigh.</gd>
-            <tr>The girl is in the house.</tr>
-            <ref text="617">td. 15</ref>
-          </li>
-          <li>
-            <gd>Tha an cù dubh anns an taigh.</gd>
-            <tr>The black dog is in the house.</tr>
-            <ref text="617">td. [227]</ref>
-          </li>
-          <li>
-            <gd>A bheil an gille beag anns an sgoil?</gd>
-            <tr>Is the little boy in the school?</tr>
-            <ref text="617">td. [227]</ref>
           </li>
         </xl>
       </p>
@@ -244,53 +209,71 @@
     <section id="uses-pred">
       <h>predicate</h>
       <p>One common use of the preposition <g>an</g> is to introduce the predicate of the verb <a
-          href="?gd=bi"><g>bi</g></a> – <xl>
-          <li>
-            <gd>Tha teas <m>anns</m> an teine.</gd>
-            <tr>There is heat in the fire.</tr>
-            <ref text="617">td. 6</ref>
-          </li>
-          <li>
-            <gd>Tha Màiri bhàn <m>anns</m> an achadh an diugh agus tha i ag obair gu trang.</gd>
-            <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
-            <ref text="617">td. 9</ref>
-          </li>
+          href="?gd=bi"><g>bi</g></a></p>
+      <p>Some examples with people and animals – <xl>
           <li>
             <gd>Nach eil Calum <m>anns</m> an achadh?</gd>
             <tr>Isn’t Malcolm in the field?</tr>
             <ref text="617">td. 11</ref>
           </li>
-        </xl>
-      </p>
-      <p>mmm <xl>
           <li>
-            <gd>A bheil an t-uisge <m>ann</m>?</gd>
-            <tr>Is it raining?</tr>
+            <gd>Tha an cat bàn <m>anns</m> an taigh còmhla ri Seònaid.</gd>
+            <tr>The white cat is in the house along with Janet.</tr>
             <ref text="617">td. 14</ref>
           </li>
           <li>
-            <gd>Tha an t-uisge ann.</gd>
-            <tr>It is raining.</tr>
-            <ref text="617">td. 12</ref>
-          </li>
-          <li>
-            <gd>Tha latha math <m>ann</m> an diugh.</gd>
-            <tr>It is a nice day today.</tr>
-            <ref text="617">td. 14</ref>
-          </li>
-          <li>
-            <gd>Chan eil uisge ann.</gd>
-            <tr>It is not raining.</tr>
-            <ref text="617">td. [228]</ref>
-          </li>
-          <li>
-            <gd>Tha latha brèagha blàth ann.</gd>
-            <tr>It is a beautiful warm day.</tr>
-            <ref text="617">td. [228]</ref>
+            <gd>A bheil an gille beag <m>anns</m> an sgoil?</gd>
+            <tr>Is the little boy in the school?</tr>
+            <ref text="617">td. [227]</ref>
           </li>
         </xl>
       </p>
-
+      <p>Some examples with abstract nouns – <xl>
+          <li>
+            <gd>Tha teas <m>anns</m> an teine.</gd>
+            <tr>There is heat in the fire.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+        </xl>
+      </p>
+      <section id="uses-pred-weather">
+        <h>weather</h>
+        <p>The masculine third person singular prepositional pronoun <g>ann</g>
+          <en>in him/it</en> is used in expressions describing weather conditions.</p>
+        <p>Some examples with <a href="?gd=uisge"><g>uisge</g></a>
+          <en>water, rain</en> –<xl>
+            <li>
+              <gd>A bheil an t-uisge <m>ann</m>?</gd>
+              <tr>Is it raining?</tr>
+              <ref text="617">td. 14</ref>
+            </li>
+            <li>
+              <gd>Tha an t-uisge <m>ann</m>.</gd>
+              <tr>It is raining.</tr>
+              <ref text="617">td. 12</ref>
+            </li>
+            <li>
+              <gd>Chan eil uisge <m>ann</m>.</gd>
+              <tr>It is not raining.</tr>
+              <ref text="617">td. [228]</ref>
+            </li>
+          </xl>
+        </p>
+        <p>Examples with <a href="?gd=latha"><g>latha</g></a>
+          <en>day</en> – <xl>
+            <li>
+              <gd>Tha latha math <m>ann</m> an diugh.</gd>
+              <tr>It is a nice day today.</tr>
+              <ref text="617">td. 14</ref>
+            </li>
+            <li>
+              <gd>Tha latha brèagha blàth <m>ann</m>.</gd>
+              <tr>It is a beautiful warm day.</tr>
+              <ref text="617">td. [228]</ref>
+            </li>
+          </xl>
+        </p>
+      </section>
     </section>
 
 
@@ -325,12 +308,22 @@
           </li>
         </ul>
       </p>-->
-      <p><g>an</g> can be used to introduce a modifier of a verb (or verbal noun) – <xl>
+      <p><g>an</g> can be used to introduce a locative modifier of a verb (or verbal noun).</p>
+      <p>Some examples – <xl>
           <li>
-            <gd>Tha Màiri agus Calum trang an diugh – tha iad ag obair <m>anns</m> an achadh.</gd>
-            <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
-            <ref text="617">td. 7</ref>
+            <gd>Tha Màiri agus Calum ag obair <m>anns</m> an achadh an diugh.</gd>
+            <tr>Mary and Malcolm are working in the field today.</tr>
+            <ref text="617">td. 6–7</ref>
           </li>
+          <li>
+            <gd>Dè tha Seònaid a’ dèanamh <m>anns</m> an taigh?</gd>
+            <tr>What is Janet doing in the house?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Some examples modifying <a href="?gd=bi"><g>bi</g></a>
+        <en>be</en> – <xl>
           <li>
             <gd>Tha iad fuar <m>anns</m> an achadh an diugh.</gd>
             <tr>They are cold in the field today.</tr>

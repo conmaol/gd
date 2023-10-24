@@ -1,11 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>sin</h>
     <p><g>sin</g>
         <en>that (one)</en> is a <a href="?xx=nouns/demonstrative_pronouns">demonstrative
             pronoun</a>, identifying an entity based on its spatial location proximal to the
         hearer.</p>
-    <p><g>sin</g> contrasts with <a href="?gd=seo"><g>seo</g></a>
+
+    <section>
+        <h>dependents</h>
+        <section id="deps-bare">
+            <h>bare</h>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Chan eil <m>sin</m> math.</gd>
+                        <tr>That is not good.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Tha seo dubh ach tha <m>sin</m> geal.</gd>
+                        <tr>This (one) is black but this (one) is white.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <!--<section id="deps-sbj">
+            <h>subject</h>
+            <p>Some examples – <xl> </xl>
+            </p>
+        </section>-->
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-sbj">
+            <h>subject</h>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Chan eil <m>sin</m> math.</gd>
+                        <tr>That is not good.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Tha seo dubh ach tha <m>sin</m> geal.</gd>
+                        <tr>This (one) is black but this (one) is white.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <!--<section id="uses-mod">
+            <h>modifier</h>
+            <p>Some examples – <xl>
+                    
+                </xl>
+            </p>
+        </section>-->
+        <!--<section id="uses-root">
+            <h>root</h>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Seo an gille.</gd>
+                        <ref text="617">td. 15</ref>
+                    </li>
+
+                </xl>
+            </p>
+        </section>-->
+    </section>
+
+
+
+    <!--<p><g>sin</g> contrasts with <a href="?gd=seo"><g>seo</g></a>
         <en>this (one)</en> (proximal to the speaker) and <a href="?gd=siud"><g>siud</g></a>
         <en>that (one) over there</en> (proximal to neither speaker nor hearer). </p>
     <section>
@@ -177,5 +243,5 @@
                 </p>
             </module>
         </section>
-    </section>
+    </section>-->
 </module>

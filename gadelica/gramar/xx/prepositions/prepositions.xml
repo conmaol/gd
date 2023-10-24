@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
   <h>prepositions</h>
 
   <!--
@@ -39,8 +39,10 @@
   <p>The leniting prepositions are – <ul>
       <li><!--<a href="?gd=bho">--><g>bho</g><!--</a>-->
         <en>from</en> (ablative)</li>
-      <li><!--<a href="?gd=de">--><g>de</g><!--</a>--> <en>of</en> (partitive)</li>
-      <li><!--<a href="?gd=do^preposition">--><g>do</g><!--</a>--> <en>into</en> (illative)</li>
+      <li><!--<a href="?gd=de">--><g>de</g><!--</a>-->
+        <en>of</en> (partitive)</li>
+      <li><!--<a href="?gd=do^preposition">--><g>do</g><!--</a>-->
+        <en>into</en> (illative)</li>
       <li><!--<a href="?gd=fo">--><g>fo</g><!--</a>-->
         <en>under</en> (subessive)</li>
       <li><!--<a href="?gd=mu">--><g>mu</g><!--</a>-->
@@ -51,6 +53,108 @@
         <en>through</en> (perlative)</li>
     </ul>
   </p>
+
+
+  <section>
+    <h>dependents</h>
+    <section id="complement">
+      <h>complement</h>
+      <p>Prepositions govern a noun complement in the dative case.</p>
+      <p>Examples with inanimate objects (material location) – <xl>
+          <li>
+            <gd>Tha an cù <m>aig an dorus</m>.</gd>
+            <tr>The dog is at the door.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+          <li>
+            <gd>Tha Seònaid a’ cluich <m>air an làr</m>.</gd>
+            <tr>Janet is playing on the floor.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>Nach eil Calum <m>anns an achadh</m>?</gd>
+            <tr>Isn’t Malcolm in the field?</tr>
+            <ref text="617">td. 11</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Examples with humans and animals – <xl>
+          <li>
+            <gd>Tha falt bàn <m>air Seumas</m>.</gd>
+            <tr>James has fair hair.</tr>
+            <ref text="617">td. 14 [adapted]</ref>
+          </li>
+          <li>
+            <gd>Tha an cù còmhla <m>ri Calum</m> anns an achadh an diugh.</gd>
+            <tr>The dog is along with Calum in the field today.</tr>
+            <ref text="617">td. 15</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section id="uses-pred">
+      <h>predicate</h>
+      <p>One common use of a preposition is to introduce the predicate of the verb <a href="?gd=bi"
+            ><g>bi</g></a>
+        <en>be</en>.</p>
+      <p>Some examples involving material location – <xl>
+          <li>
+            <gd>Tha an cat beag bàn <m>aig</m> an teine.</gd>
+            <tr>The little white cat is by the fire.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
+          <li>
+            <gd>Tha gual <m>air</m> an teine.</gd>
+            <tr>There is coal on the fire.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>A bheil Seònaid <m>anns</m> an sgoil an diugh?</gd>
+            <tr>Is Janet in the school today?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+
+    <section id="uses-comp">
+      <h>complement</h>
+      <p>A preposition can be used as the complement of an adverb.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Tha an cù còmhla <m>ri</m> Calum anns an achadh an diugh.</gd>
+            <tr>The dog is with Calum in the field today.</tr>
+            <ref text="617">td. 15</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+
+    <section id="uses-mod">
+      <h>modifier</h>
+      <p>A preposition can be used to introduce a locative modifier of a verb (or verbal noun).</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Có tha a’ cluich <m>air</m> an làr?</gd>
+            <tr>Who is playing on the floor?</tr>
+            <ref text="617">td. 15</ref>
+          </li>
+          <li>
+            <gd>Tha Màiri agus Calum ag obair <m>anns</m> an achadh.</gd>
+            <tr>Mary and Malcolm are working in the field.</tr>
+            <ref text="617">td. 6–7 [adapted]</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+
+  </section>
+
+
 
   <!--
   <p>These prepositions all have a special form in <strong>-n</strong> which is used before the
@@ -63,7 +167,7 @@
   -->
 
 
-<!--
+  <!--
   <section id="relatives">
     <h>relative clauses</h>
     <section>

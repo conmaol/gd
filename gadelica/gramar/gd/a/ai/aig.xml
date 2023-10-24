@@ -122,16 +122,6 @@
             <ref text="617">td. 6</ref>
           </li>
           <li>
-            <gd>Tha sibh <m>aig an teine</m>.</gd>
-            <tr>You are at the fire.</tr>
-            <ref text="617">td. 9 [226]</ref>
-          </li>
-          <li>
-            <gd>Tha an gille <m>aig an dorus</m>.</gd>
-            <tr>The boy is at the door.</tr>
-            <ref text="617">td. 15</ref>
-          </li>
-          <li>
             <gd>Tha Seònaid <m>aig an taigh</m>.</gd>
             <tr>Janet is at the house.</tr>
             <ref text="617">td. 14 [227]</ref>
@@ -520,16 +510,13 @@
     <section id="uses-pred">
       <h>predicate</h>
       <p>One common use of the preposition <g>aig</g> is to introduce the predicate of the verb <a
-          href="?gd=bi"><g>bi</g></a> – <xl>
+          href="?gd=bi"><g>bi</g></a>
+        <en>be</en>.</p>
+      <p>Some examples with humans and animals – <xl>
           <li>
             <gd>Tha an cù dubh <m>aig</m> an dorus.</gd>
             <tr>The black dog is at the door.</tr>
             <ref text="617">td. 9</ref>
-          </li>
-          <li>
-            <gd>A bheil an cù <m>aig</m> an dorus?</gd>
-            <tr>Is the dog at the door?</tr>
-            <ref text="617">td. 11</ref>
           </li>
           <li>
             <gd>Tha an cat beag bàn <m>aig</m> an teine.</gd>
@@ -537,13 +524,12 @@
             <ref text="617">td. 9</ref>
           </li>
           <li>
-            <gd>Tha sibh <m>aig</m> an teine.</gd>
-            <tr>You are at the fire.</tr>
-            <ref text="617">td. 9 [226]</ref>
+            <gd>Tha an gille <m>aig</m> an dorus.</gd>
+            <tr>The boy is at the door.</tr>
+            <ref text="617">td. 15</ref>
           </li>
         </xl>
       </p>
-
 
       <!--
       <p>One common use of the preposition <g>aig</g> is to introduce the predicate of the verb <a
