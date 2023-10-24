@@ -6,7 +6,7 @@
             <li><a href="?xx=verbs/verbs">verbs</a>
                 <ul>
                     <li><a href="?xx=verbs/simple_verbs">simple verbs</a> – <a href="?gd=bi"
-                                ><g>bi</g></a>, <a href="?gd=faic"><g>faic</g></a></li>
+                        ><g>bi</g></a>, <a href="?gd=deean"><g>dèan</g></a>, <a href="?gd=faic"><g>faic</g></a></li>
                     <li>verb particles – <a href="?gd=an^particle"><g>an</g></a>, <a href="?gd=cha"
                                 ><g>cha</g></a>, <a href="?gd=nach"><g>nach</g></a></li>
                 </ul>
@@ -79,11 +79,12 @@
                                 ><g>sgìth</g></a>, <a href="?gd=teth"><g>teth</g></a>, <a
                             href="?gd=trang"><g>trang</g></a></li>
                     <li>intensifiers – <a href="?gd=glee"><g>glé</g></a></li>
+                    <li>pseudo-adjectives – <a href="?gd=dearbh"><g>dearbh</g></a></li>
                 </ul>
             </li>
             <li><a href="?xx=prepositions/prepositions">prepositions</a> – <a href="?gd=aig"
                         ><g>aig</g></a> (<a href="?gd=ag"><g>ag</g></a>), <a href="?gd=air"
-                        ><g>air</g></a>, <a href="?gd=an^preposition"><g>an</g></a></li>
+                            ><g>air</g></a>, <a href="?gd=an^preposition"><g>an</g></a>, <a href="?gd=le"><g>le</g></a></li>
             <li><a href="?xx=prepositions/adverbs">adverbs</a> – <a href="?gd=gu"><g>gu</g></a>, <a
                     href="?gd=an_diugh"><g>an diugh</g></a>, <a href="?gd=coomhla"
                 ><g>còmhla</g></a></li>
@@ -94,6 +95,7 @@
                 <en>how</en>, <a href="?gd=coo"><g>có</g></a>
                 <en>who, what</en>, <a href="?gd=dee"><g>dé</g></a>
                 <en>what</en></li>
+            <li>other – <a href="?gd=tapadh"><g>tapadh</g></a></li>
         </ul>
     </p>
     <p>The following semantic topics are discussed here – <ul>

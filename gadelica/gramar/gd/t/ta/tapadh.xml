@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>tapadh</h>
+
+    <p>Examples with <a href="?gd=le"><g>le</g></a> <en>with</en> – <xl>
+            <li>
+                <gd>Ciamar a tha sibh? Tha mi gu math, <m>tapadh leibh</m>.</gd>
+                <tr>How are you? I am well, thank you.</tr>
+                <ref text="617">td. 15</ref>
+            </li>
+        </xl>
+    </p>
+
+
+</module>

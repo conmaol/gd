@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>dearbh</h>
+    <p><g>dearbh</g>
+        <en>...</en> is a pseudo-adjective.</p>
+
+
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>bare</h>
+            <p>
+                <xl>
+                    <li>
+                        <gd>A bheil an cù luath? Tha, gu <m>dearbh</m>. Tha an cù glé luath.</gd>
+                        <tr>Is the dog swift? Yes, indeed. The dog is very swift.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <p>cf. <a href="?gd=gu"><g>gu</g></a> – <xl>
+                    <li>
+                        <gd>A bheil an cù luath? Tha, <m>gu dearbh</m>. Tha an cù glé luath.</gd>
+                        <tr>Is the dog swift? Yes, indeed. The dog is very swift.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+</module>

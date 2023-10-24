@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>le</h>
     <p><g>le</g>
         <en>with, by</en> is the (non-leniting) instrumental <a href="?xx=prepositions/prepositions"
@@ -102,7 +102,7 @@
         </section>
     </section>
 
-    <section>
+    <!--<section>
         <h>dependents</h>
         <section id="comp">
             <h>complement</h>
@@ -130,8 +130,18 @@
             </p>
         </section>
     </section>
-
+-->
+    
     <section>
+        <h>uses</h>
+        <section>
+            <h>predicate</h>
+            <p>cf. <a href="?gd=tapadh"><g>Tapadh leibh!</g></a> <en>Thank you!</en></p>
+        </section>
+    </section>
+    
+    
+   <!-- <section>
         <h>uses</h>
         <section id="uses-comp">
             <h>complement</h>
@@ -169,6 +179,6 @@
                 </xl>
             </p>
         </section>
-    </section>
+    </section>-->
 
 </module>

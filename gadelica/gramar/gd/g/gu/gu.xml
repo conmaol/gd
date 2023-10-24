@@ -25,6 +25,8 @@
                     </li>
                 </xl>
             </p>
+            <p>cf. <a href="?gd=dearbh"><g>gu dearbh</g></a>
+                <en>indeed, certainly</en></p>
         </section>
     </section>
 
@@ -40,10 +42,13 @@
                     </li>
                 </xl>
             </p>
+            <p>cf. <a href="?gd=dearbh"><g>gu dearbh</g></a>
+                <en>indeed, certainly</en> as root modifier</p>
         </section>
         <section id="uses-pred">
             <h>predicate</h>
-            <p>Some examples as predicate of <a href="?gd=bi"><g>bi</g></a> <en>be</en> – <xl>
+            <p>Some examples as predicate of <a href="?gd=bi"><g>bi</g></a>
+                <en>be</en> – <xl>
                     <li>
                         <gd>Ciamar a tha sibh? Tha mi <m>gu math</m>, tapadh leibh.</gd>
                         <tr>How are you? I am well, thank you.</tr>
