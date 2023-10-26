@@ -6,10 +6,11 @@
 
     <section>
         <h>dependents</h>
-        <section>
+        <section id="deps-comp">
             <h>complement</h>
             <p>The complement of <g>cha</g> is a dependent verb form.</p>
-            <p>Some examples – <xl>
+            <p>Some examples with the predicative verb <a href="?gd=bi"><g>bi</g></a>
+                <en>be</en> – <xl>
                     <li>
                         <gd>Chan <m>eil</m> e fuar an diugh.</gd>
                         <tr>It is not cold today.</tr>
@@ -24,11 +25,22 @@
         <h>uses</h>
         <section id="uses-root">
             <h>root</h>
+            <p><g>cha</g> can be used as the root of a negative direct question.</p>
             <p>Some examples – <xl>
                     <li>
                         <gd><m>Chan</m> eil e fuar an diugh.</gd>
                         <tr>It is not cold today.</tr>
                         <ref text="617">td. 11</ref>
+                    </li>
+                    <li>
+                        <gd><m>Chan</m> eil an seòmar seo blàth?</gd>
+                        <tr>This room is not warm.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd><m>Chan</m> eil Seònaid anns an achadh còmhla ri Seumas.</gd>
+                        <tr>Janet is not in the field along with James.</tr>
+                        <ref text="617">td. 14</ref>
                     </li>
                 </xl>
             </p>

@@ -31,9 +31,9 @@
       <h>proper nouns</h>
       <p><g>agus</g> can conjoin proper nouns – <xl>
           <li>
-            <gd>Tha <m>Màiri agus Calum</m> ag obair anns an achadh an diugh.</gd>
-            <tr>Mary and Malcolm are working in the field today.</tr>
-            <ref text="617">td. 6–7</ref>
+            <gd>Bha <m>Màiri agus Calum</m> ag obair anns an achadh.</gd>
+            <tr>Mary and Malcolm were working in the field.</tr>
+            <ref text="617">td. 6–7 [adapted]</ref>
           </li>
           <li>
             <gd>Tha <m>Calum mór agus Màiri bheag</m> ag obair gu trang anns an achadh an
@@ -42,6 +42,19 @@
             <ref text="617">td. 9</ref>
           </li>
         </xl></p>
+    </section>
+
+    <section id="deps-pred-adj">
+      <h>predicative adjectives</h>
+      <p><g>agus</g> can conjoin predicative adjectives.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Tha Màiri agus Calum <m>fliuch agus fuar</m>.</gd>
+            <tr>Mary and Malcolm are wet and cold.</tr>
+            <ref text="617">td. 7 [226]</ref>
+          </li>
+        </xl>
+      </p>
     </section>
   </section>
 
@@ -60,11 +73,11 @@
             <tr>You are busy working in the field and you are tired.</tr>
             <ref text="617">td. 7</ref>
           </li>
-        <li>
-          <gd>Tha mi fuar <m>agus</m> tha mi sgìth.</gd>
-          <tr>I am cold and I am tired.</tr>
-          <ref text="617">td. 9</ref>
-        </li>
+          <li>
+            <gd>Tha mi fuar <m>agus</m> tha mi sgìth.</gd>
+            <tr>I am cold and I am tired.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
         </xl></p>
     </section>
     <section id="uses-sbj">
@@ -77,6 +90,22 @@
           </li>
         </xl></p>
     </section>
+
+    <section id="uses-pred">
+      <h>predicate</h>
+      <p>When conjoining attributive adjectives, <g>agus</g> can function as the predicate of <a
+          href="?gd=bi"><g>bi</g></a>
+        <en>be</en>.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd>Tha Màiri agus Calum <m>fliuch agus fuar</m>.</gd>
+            <tr>Mary and Malcolm are wet and cold.</tr>
+            <ref text="617">td. 7 [226]</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+
   </section>
 
   <!--

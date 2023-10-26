@@ -18,17 +18,17 @@
         <h>dependents</h>
         <section id="deps-bare">
             <h>bare</h>
-            <p>Like other nouns, an anthroponymic proper noun can occur on its own, without any
+            <p>Like other (proper) nouns, <g>Màiri</g> can occur on its own, without any
                 dependents.</p>
             <p>Some examples – <xl>
                     <li>
-                        <gd>Tha falt bàn air <m>Màiri</m>.</gd>
-                        <tr>Mary has fair hair.</tr>
+                        <gd>Bha falt bàn air <m>Màiri</m>.</gd>
+                        <tr>Mary had fair hair.</tr>
                         <ref text="617">td. 9 [adapted]</ref>
                     </li>
                     <li>
-                        <gd>Tha <m>Màiri</m> sgìth an diugh.</gd>
-                        <tr>Mary is tired today.</tr>
+                        <gd>A bheil <m>Màiri</m> sgìth an diugh?</gd>
+                        <tr>Is Mary tired today?</tr>
                         <ref text="617">td. 9 [adapted]</ref>
                     </li>
                 </xl>
@@ -36,7 +36,7 @@
         </section>
         <section id="deps-mods">
             <h>modifiers</h>
-            <p>Like other nouns, <g>Màiri</g> can be (post-)modified by an (attributive) <a
+            <p>Like other (proper) nouns, <g>Màiri</g> can be (post-)modified by an (attributive) <a
                     href="?xx=adjectives/adjective">adjective</a>.</p>
             <p>Some examples – <xl>
                     <li>
@@ -45,9 +45,9 @@
                         <ref text="617">td. 9</ref>
                     </li>
                     <li>
-                        <gd>Tha <m>Màiri bhàn</m> anns an achadh an diugh.</gd>
-                        <tr>Fair-headed Mary is in the field today.</tr>
-                        <ref text="617">td. 9</ref>
+                        <gd>Cha robh <m>Màiri bhàn</m> anns an achadh an diugh.</gd>
+                        <tr>Fair-headed Mary was not in the field today.</tr>
+                        <ref text="617">td. 9 [adapted]</ref>
                     </li>
                 </xl>
             </p>
@@ -58,14 +58,14 @@
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
-            <p>Like other nouns, <g>Màiri</g> can be used as the subject of a <a
+            <p>Like other (proper) nouns, <g>Màiri</g> can be used as the subject of a <a
                     href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+            <p>Examples with the predicative verb <a href="?gd=bi"><g>bi</g></a>
                 <en>be</en> – <xl>
                     <li>
-                        <gd>Tha <m>Màiri</m> ag obair.</gd>
-                        <tr>Mary is working.</tr>
-                        <ref text="617">td. 6</ref>
+                        <gd>Nach robh <m>Màiri</m> ag obair?</gd>
+                        <tr>Wasn’t Mary working?</tr>
+                        <ref text="617">td. 6 [adapted]</ref>
                     </li>
                     <li>
                         <gd>Tha <m>Màiri</m> beag bàn.</gd>
@@ -74,7 +74,7 @@
                     </li>
                 </xl>
             </p>
-            <p>Examples with demonstrative pronouns used as copular verbs – <xl>
+            <p>Examples with <a href="?xx=nouns/demonstrative_pronouns">demonstrative pronouns</a> used as copular verbs – <xl>
                     <li>
                         <gd>Seo <m>Màiri</m>.</gd>
                         <tr>This is Mary.</tr>
@@ -86,14 +86,14 @@
                     href="?gd=agus"><g>agus</g></a>
                 <en>and</en> – <xl>
                     <li>
-                        <gd>Tha <m>Màiri agus Calum</m> ag obair anns an achadh an diugh.</gd>
-                        <tr>Mary and Malcolm are working in the field today.</tr>
+                        <gd>Bha <m>Màiri agus Calum</m> ag obair anns an achadh.</gd>
+                        <tr>Mary and Malcolm were working in the field.</tr>
                         <ref text="617">td. 6–7</ref>
                     </li>
                     <li>
-                        <gd>Nach eil <m>Calum agus Màiri</m> anns an sgoil an diugh?</gd>
-                        <tr>Aren’t Malcolm and Mary in the school today?</tr>
-                        <ref text="617">td. 15 [228]</ref>
+                        <gd>Nach eil <m>Seònaid agus Màiri</m> anns an sgoil an diugh?</gd>
+                        <tr>Aren’t Janet and Mary in the school today?</tr>
+                        <ref text="617">td. 15 [228] [adapted]</ref>
                     </li>
                 </xl>
             </p>

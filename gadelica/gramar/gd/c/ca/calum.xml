@@ -19,7 +19,7 @@
         <h>dependents</h>
         <section id="deps-bare">
             <h>bare</h>
-            <p>Like other nouns, <g>Calum</g> can occur on its own, without any dependents.</p>
+            <p>Like other (proper) nouns, <g>Calum</g> can occur on its own, without any dependents.</p>
             <p>Some examples – <xl>
                     <li>
                         <gd>Tha <m>Calum</m> ag obair.</gd>
@@ -27,16 +27,16 @@
                         <ref text="617">td. 6</ref>
                     </li>
                     <li>
-                        <gd>Tha an cù còmhla ri <m>Calum</m> anns an achadh an diugh.</gd>
-                        <tr>The dog is with Malcolm in the field today.</tr>
-                        <ref text="617">td. 15</ref>
+                        <gd>An robh an cù còmhla ri <m>Calum</m> anns an achadh an diugh?</gd>
+                        <tr>Was the dog with Malcolm in the field today?</tr>
+                        <ref text="617">td. 15 [adapted]</ref>
                     </li>
                 </xl>
             </p>
         </section>
         <section id="deps-mods">
             <h>modifiers</h>
-            <p>Like other nouns, <g>Calum</g> can be (post-)modified by an (attributive) <a
+            <p>Like other (proper) nouns, <g>Calum</g> can be (post-)modified by an (attributive) <a
                     href="?xx=adjectives/adjective">adjective</a>.</p>
             <p>Some examples – <xl>
                     <li>
@@ -53,14 +53,14 @@
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
-            <p>Like other nouns, <g>Calum</g> can be used as the subject of a <a
+            <p>Like other (proper) nouns, <g>Calum</g> can be used as the subject of a <a
                     href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+            <p>Examples with the predicative verb <a href="?gd=bi"><g>bi</g></a>
                 <en>be</en> – <xl>
                     <li>
-                        <gd>Tha <m>Calum</m> mór.</gd>
-                        <tr>Malcolm is big.</tr>
-                        <ref text="617">td. 6</ref>
+                        <gd>Bha <m>Calum</m> mór.</gd>
+                        <tr>Malcolm was big.</tr>
+                        <ref text="617">td. 6 [adapted]</ref>
                     </li>
                     <li>
                         <gd>Nach eil <m>Calum</m> anns an achadh?</gd>
@@ -69,7 +69,7 @@
                     </li>
                 </xl>
             </p>
-            <p>Examples with demonstrative pronouns used as copular verbs – <xl>
+            <p>Examples with <a href="?xx=nouns/demonstrative_pronouns">demonstrative pronouns</a> used as copular verbs – <xl>
                     <li>
                         <gd>Seo <m>Calum</m>.</gd>
                         <tr>This is Malcolm.</tr>
@@ -81,14 +81,14 @@
                     href="?gd=agus"><g>agus</g></a>
                 <en>and</en> – <xl>
                     <li>
-                        <gd>Tha <m>Màiri agus Calum</m> trang an diugh.</gd>
-                        <tr>Mary and Malcolm are busy today.</tr>
-                        <ref text="617">td. 7</ref>
+                        <gd>Bha <m>Màiri agus Calum</m> ag obair.</gd>
+                        <tr>Malcolm and Mary were working.</tr>
+                        <ref text="617">td. 16 [adapted]</ref>
                     </li>
                     <li>
-                        <gd>Nach eil <m>Calum agus Màiri</m> anns an sgoil an diugh?</gd>
-                        <tr>Aren’t Malcolm and Mary in the school today?</tr>
-                        <ref text="617">td. 15 [228]</ref>
+                        <gd>Nach eil <m>Calum agus Seumas</m> anns an sgoil an diugh?</gd>
+                        <tr>Aren’t Malcolm and James in the school today?</tr>
+                        <ref text="617">td. 15 [228] [adapted]</ref>
                     </li>
                 </xl>
             </p>
@@ -107,13 +107,13 @@
     </section>-->
         <section id="uses-comp">
             <h>complement</h>
-            <p>Like other nouns, <g>Calum</g> can be used as the complement of a <a
+            <p>Like other (proper) nouns, <g>Calum</g> can be used as the complement of a <a
                     href="?xx=prepositions/prepositions">preposition</a>.</p>
             <p>Some examples – <xl>
                     <li>
-                        <gd>Tha falt dubh <m>air Calum</m>.</gd>
-                        <tr>Calum has black hair.</tr>
-                        <ref text="617">td. 9</ref>
+                        <gd>Cha robh falt dubh <m>air Calum</m>.</gd>
+                        <tr>Calum did not have black hair.</tr>
+                        <ref text="617">td. 9 [adapted]</ref>
                     </li>
                     <li>
                         <gd>Tha an cù còmhla <m>ri Calum</m> anns an achadh an diugh.</gd>

@@ -6,24 +6,34 @@
     <p>Simple verbs contrast with <!--<a href="?xx=verbs/derived_verbs">-->derived verbs<!--</a>-->
         and <!--<a href="?xx=verbs/compound_verbs">-->compound verbs<!--</a>--> which
             <emph>are</emph> formed out of other words.</p>
-    
+
     <section id="irregular">
         <h>irregular verbs</h>
         <p>List of irregular verbs – <ul>
-            <li><a href="?gd=bi"><g>bi</g></a>
-                <en>be</en></li>
-            <li><a href="?gd=deean"><g>dèan</g></a>
-                <en>do, make</en></li>
-            <li><a href="?gd=faic"><g>faic</g></a>
-                <en>see</en></li>
-            <!--<li><a href="?gd=rach"><g>rach</g></a>
+                <li><a href="?gd=bi"><g>bi</g></a>
+                    <en>be</en></li>
+                <li><a href="?gd=deean"><g>dèan</g></a>
+                    <en>do, make</en></li>
+                <li><a href="?gd=faic"><g>faic</g></a>
+                    <en>see</en></li>
+                <!--<li><a href="?gd=rach"><g>rach</g></a>
                 <en>go</en></li>
             <li><a href="?gd=thig"><g>thig</g></a>
                 <en>come</en></li>
             <li><a href="?gd=thoir"><g>thoir</g></a>
                 <en>give, take, bring</en></li>-->
-        </ul>
-    </p></section>
+            </ul>
+        </p>
+    </section>
+
+    <section id="regular">
+        <h>regular verbs</h>
+        <p>List of regular simple verbs – <ul>
+                <li><a href="?gd=cluich"><g>cluich</g></a>
+                    <en>play</en></li>
+            </ul>
+        </p>
+    </section>
 
     <!--<p>List of simple regular verbs (along with idiosyncratic <a href="?xx=nouns/verbal_nouns"
             >verbal nouns</a>) –<ul>

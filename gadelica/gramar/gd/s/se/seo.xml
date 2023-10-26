@@ -116,6 +116,11 @@
                         <tr>Is this dog swift?</tr>
                         <ref text="617">td. 15</ref>
                     </li>
+                <li>
+                    <gd>A bheil <m>an seòmar seo</m> blàth?</gd>
+                    <tr>Is this room warm?</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
                 </xl>
             </p>
         </section>

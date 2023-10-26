@@ -1,7 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
-    <h>a – relative particle</h>
-    <p>cf. other uses of the particle <a href="?gd=a">a</a>.</p>
+<module>
+    <h>a</h>
+    <p><g>a</g>
+        <en>that, which, who(m)</en> is the relative clause particle.</p>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>complement</h>
+            <p>The complement of <g>a</g> is a relative form of a verb.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Dé [a] <m>tha</m> Seònaid a’ dèanamh anns an taigh?</gd>
+                        <tr>What is Janet doing in the house?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>Có [a] <m>tha</m> a’ cluich air an làr?</gd>
+                        <tr>Who is playing on the floor?</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Ciamar a <m>tha</m> sibh?</gd>
+                        <tr>How are you?</tr>
+                        <ref text="617">td. 17</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <module>
+                <h>dé a ...</h>
+                <p>Some examples – <xl>
+                        <li>
+                            <gd><m>Dé</m> [a] tha Seònaid a’ dèanamh anns an taigh? Tha i a’ cluich
+                                air an làr.</gd>
+                            <tr>What is Janet doing in the house? She is playing on the floor.</tr>
+                            <ref text="617">td. 14</ref>
+                        </li>
+                        <li>
+                            <gd><m>Dé</m> [a] tha air an teine? Tha gual air an teine.</gd>
+                            <tr>What is on the fire? There is coal on the fire.</tr>
+                            <ref text="617">td. 14</ref>
+                        </li>
+                        <li>
+                            <gd><m>Dé</m> [a] tha Seumas a’ dèanamh an diugh. Tha e ag obair gu
+                                trang anns an achadh.</gd>
+                            <tr>What is James doing today? He is working busily in the field.</tr>
+                            <ref text="617">td. 14</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module>
+                <h>có a ...</h>
+                <p>
+                    <xl>
+                        <li>
+                            <gd><m>Có</m> [a] tha a’ cluich air an làr? A’ chaileag.</gd>
+                            <tr>Who is playing on the floor? The girl.</tr>
+                            <ref text="617">td. 15</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module>
+                <h>ciamar a ...</h>
+                <p>
+                    <xl>
+                        <li>
+                            <gd><m>Ciamar</m> a tha sibh? Tha mi gu math, tapadh leibh.</gd>
+                            <ref text="617">td. 17</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+    <!--<p>cf. other uses of the particle <a href="?gd=a">a</a>.</p>
     <module id="subject">
         <h lang="en">subject extracting</h>
         <h lang="gd">...</h>
@@ -306,9 +398,9 @@
                 </xl>
             </p>
             <p lang="gd">...</p>
-            <!--<p lang="en">Biblical examples – <xl id="bi-prog-bible"> </xl>
+            <!-\-<p lang="en">Biblical examples – <xl id="bi-prog-bible"> </xl>
             </p>
-            <p lang="gd">...</p>-->
+            <p lang="gd">...</p>-\->
             <module id="bi-progressive-passive">
                 <h lang="en">passive</h>
                 <h lang="gd">...</h>
@@ -424,5 +516,5 @@
         <p lang="en">cf. <a href="?gd=dè">dè a ... ?</a>, <a href="?gd=cò">cò a ... ?</a>, <a
                 href="?gd=carson">carson a ... ?</a>, <a href="?gd=cuin">cuin a ... ?</a>.</p>
         <p lang="gd">...</p>
-    </module>
+    </module>-->
 </module>

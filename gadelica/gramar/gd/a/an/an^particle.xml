@@ -18,18 +18,14 @@
 
   <section>
     <h>dependents</h>
-    <section>
+    <section id="deps-comp">
       <h>complement</h>
       <p>The complement of <g>an</g> is a dependent verb form.</p>
-      <p>Some examples – <xl>
+      <p>Some examples with the predicative verb <a href="?gd=bi"><g>bi</g></a>
+        <en>be</en> – <xl>
           <li>
-            <gd><m>A bheil</m> an cù aig an dorus?</gd>
+            <gd>A <m>bheil</m> an cù aig an dorus?</gd>
             <tr>Is the dog at the door?</tr>
-            <ref text="617">td. 11</ref>
-          </li>
-          <li>
-            <gd><m>A bheil</m> thu sgìth?</gd>
-            <tr>Are you tired?</tr>
             <ref text="617">td. 11</ref>
           </li>
         </xl>
@@ -59,16 +55,36 @@
     <h>uses</h>
     <section id="uses-root">
       <h>root</h>
+      <p><g>an</g> can be used as the root of a negative direct question.</p>
       <p>Some examples – <xl>
           <li>
-            <gd><m>A</m> bheil an cù aig an dorus?</gd>
-            <tr>Is the dog at the door?</tr>
+            <gd><m>A</m> bheil an cù aig an dorus? Tha.</gd>
+            <tr>Is the dog at the door? Yes, it is.</tr>
             <ref text="617">td. 11</ref>
           </li>
           <li>
-            <gd><m>A</m> bheil thu sgìth?</gd>
-            <tr>Are you tired?</tr>
+            <gd><m>A</m> bheil thu sgìth? Chan eil.</gd>
+            <tr>Are you tired? No, I’m not.</tr>
             <ref text="617">td. 11</ref>
+          </li>
+          <li>
+            <gd><m>A</m> bheil an t-uisge ann? Tha gu dearbh.</gd>
+            <tr>Is it raining. Yes, indeed.</tr>
+            <ref text="617">td. 14 [adapted]</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="uses-comp">
+      <h>complement</h>
+      <p><g>an</g> can be used as the complement of the question word <a href="?gd=caait"
+            ><g>càit</g></a>
+        <en>where</en>.</p>
+      <p>Some examples – <xl>
+          <li>
+            <gd><m>Càit a</m> bheil an cat bàn an-diugh? Tha e anns an taigh còmhla ri Seònaid.</gd>
+            <tr>Where is the white cat today? It is in the house along with Janet.</tr>
+            <ref text="617">td. 14</ref>
           </li>
         </xl>
       </p>

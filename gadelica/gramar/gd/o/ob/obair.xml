@@ -2,8 +2,8 @@
 <module>
     <h>obair</h>
     <p><g>obair</g>
-        <en>work</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+        <en>working, work</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
 
     <section id="forms">
         <h>forms</h>
@@ -151,16 +151,17 @@
             <p><g>obair</g> can occur with the usual verb modifiers.</p>
             <p>Examples with locative modifiers – <xl>
                     <li>
-                        <gd>Tha Màiri agus Calum ag obair <m>anns an achadh</m> an diugh.</gd>
-                        <tr>Mary and Malcolm are working in the field today.</tr>
-                        <ref text="617">td. 6–7</ref>
+                        <gd>An robh Màiri agus Calum ag obair <m>anns an achadh</m>?</gd>
+                        <tr>Were Mary and Malcolm working in the field?</tr>
+                        <ref text="617">td. 6–7 [adapted]</ref>
                     </li>
                 </xl>
             </p>
             <p>Examples with manner modifiers –<xl>
                     <li>
-                        <gd>Tha Calum sgìth: tha e ag obair <m>gu trang</m> anns an achadh.</gd>
-                        <ref text="617">td. 7</ref>
+                        <gd>Tha Seumas sgìth: tha e ag obair <m>gu trang</m> anns an achadh.</gd>
+                        <tr>James is tired: he is working busily in the field.</tr>
+                        <ref text="617">td. 7 [adapted]</ref>
                     </li>
                 </xl>
             </p>
@@ -189,37 +190,40 @@
 
         <section id="uses-comp">
             <h>complement</h>
-            <!--<p>Like other nouns, <g>achadh</g> can be used as the complement of a <a
-                href="?xx=prepositions/prepositions">preposition</a>.</p>-->
-            <p>Some examples as complement of the progressive particle <a href="?gd=ag"
-                    ><g>ag</g></a> – <xl>
-                    <li>
-                        <gd>Tha Màiri <m>ag obair</m> agus tha Calum <m>ag obair</m>.</gd>
-                        <tr>Mary is working and Malcolm is working.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                    <li>
-                        <gd>Tha Màiri agus Calum <m>ag obair</m> anns an achadh an diugh.</gd>
-                        <tr>Mary and Malcolm are working in the field today.</tr>
-                        <ref text="617">td. 6–7</ref>
-                    </li>
-                    <li>
-                        <gd>Tha Màiri sgìth. Tha i <m>sgìth ag obair</m> anns an achadh.</gd>
-                        <tr>Mary is tired.</tr>
-                        <ref text="617">td. 7</ref>
-                    </li>
-                    <li>
-                        <gd>Tha sibh <m>trang ag obair</m> anns an achadh agus tha sibh sgìth.</gd>
-                        <tr>You are busy working in the field and you are tired.</tr>
-                        <ref text="617">td. 7</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil sibh ag obair?</gd>
-                        <tr>Are you working?</tr>
-                        <ref text="617">td. 13</ref>
-                    </li>
-                </xl>
-            </p>
+            <p>Like other nouns, <g>obair</g> can be used as the complement of a <a
+                    href="?xx=prepositions/prepositions">preposition</a>.</p>
+            <module id="ag_obair">
+                <h>ag obair</h>
+                <p><g>obair</g> can occur as complement of the progressive particle <a href="?gd=ag"
+                            ><g>ag</g></a> – <g>ag obair</g>
+                    <en>working, at work</en>.</p>
+                <p>Some present tense examples – <xl>
+                        <li>
+                            <gd>Tha Màiri <m>ag obair</m> agus tha Calum <m>ag obair</m>.</gd>
+                            <tr>Mary is working and Malcolm is working.</tr>
+                            <ref text="617">td. 6</ref>
+                        </li>
+                        <li>
+                            <gd>Tha Seònaid sgìth <m>ag obair</m> anns an achadh.</gd>
+                            <tr>Janet is tired working in the field.</tr>
+                            <ref text="617">td. 7 [adapted]</ref>
+                        </li>
+                        <li>
+                            <gd>A bheil sibh <m>ag obair</m>?</gd>
+                            <tr>Are you working?</tr>
+                            <ref text="617">td. 13</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>Some past tense examples – <xl>
+                        <li>
+                            <gd>Bha Màiri agus Calum <m>ag obair</m>.</gd>
+                            <tr>Mary and Malcolm were working.</tr>
+                            <ref text="617">td. 16</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
         </section>
     </section>
 

@@ -24,7 +24,8 @@
         <section id="uses-predicate">
             <h>predicate</h>
             <p>Like other adjectives, <g>trang</g> can be used (uninflected) as the predicate of the
-                verb <a href="?gd=bi"><g>bi</g></a>.</p>
+                verb <a href="?gd=bi"><g>bi</g></a>
+                <en>be</en>.</p>
             <p>Some examples – <xl>
                     <li>
                         <gd>Tha Màiri agus Calum <m>trang</m> an diugh.</gd>
@@ -32,19 +33,14 @@
                         <ref text="617">td. 7</ref>
                     </li>
                     <li>
-                        <gd>Tha sinn <m>trang</m> ag obair.</gd>
-                        <tr>We ae busy working.</tr>
-                        <ref text="617">td. 9</ref>
+                        <gd>Bha sinn <m>trang</m> ag obair.</gd>
+                        <tr>We were busy working.</tr>
+                        <ref text="617">td. 9 [adapted]</ref>
                     </li>
                     <li>
-                        <gd>A bheil sibh <m>trang</m>?</gd>
-                        <tr>Are you busy?</tr>
-                        <ref text="617">td. 14 [227]</ref>
-                    </li>
-                    <li>
-                        <gd>Chan eil sinn <m>trang</m> an diugh.</gd>
-                        <tr>We are not busy today.</tr>
-                        <ref text="617">td. 14 [227]</ref>
+                        <gd>An robh sibh <m>trang</m>? Bha.</gd>
+                        <tr>Were you busy? Yes, we were.</tr>
+                        <ref text="617">td. 14 [227] [adapted]</ref>
                     </li>
                 </xl>
             </p>
@@ -63,7 +59,8 @@
         <section id="uses-comp">
             <h>complement</h>
             <p>Like many adjectives, <g>trang</g> can be used as the complement of the
-                adverbialising particle <a href="?gd=gu"><g>gu</g></a>.</p>
+                adverbialising particle <a href="?gd=gu"><g>gu</g></a> – <g>gu trang</g>
+                <en>busily</en>.</p>
             <p><xl>
                     <li>
                         <gd>Tha Calum sgìth – tha e ag obair <m>gu trang</m> anns an achadh.</gd>

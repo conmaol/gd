@@ -3,12 +3,26 @@
   <h>definite article</h>
   <p>The definite article is a <a href="?xx=nouns/determiners">determiner</a>.</p>
 
-  <!--
-    <section>
-        <h>dependents</h>
-        <section id="deps-mods">
-            <h>modifiers</h>
-            <p>Older pedagogical examples – <xl id="mod-older-pedag">
+  <section>
+    <h>dependents</h>
+    <section id="deps-mods">
+      <h>modifiers</h>
+      <p>The definite article can take a <a href="?xx=nouns/demonstrative_pronouns">demonstrative
+          pronoun</a> as a modifier.</p>
+      <p>
+        <xl>
+          <li>
+            <gd>A bheil <m>an seòmar seo</m> blàth?</gd>
+            <tr>Is this room warm?</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+          <li>
+            <gd>A bheil an cù <m>seo</m> luath?</gd>
+            <tr>Is this dog swift?</tr>
+            <ref text="617">td. 15</ref>
+          </li>
+        </xl></p>
+      <!--<p>Older pedagogical examples – <xl id="mod-older-pedag">
                     <li>
                         <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
                             Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis
@@ -19,9 +33,9 @@
                     </li>
 
                 </xl>
-            </p>
-        </section>
-    </section>-->
+            </p>-->
+    </section>
+  </section>
 
   <section>
     <h>uses</h>
@@ -57,9 +71,46 @@
                     <tr>Is the dog at the door?</tr>
                     <ref text="617">td. 11</ref>
                   </li>
+                  <li>
+                    <gd>Tha <m>an t-uisge</m> ann.</gd>
+                    <tr>It is raining.</tr>
+                    <ref text="617">td. 12</ref>
+                  </li>
+                  <li>
+                    <gd>A bheil <m>an latha</m> fuar?</gd>
+                    <tr>Is the day cold?</tr>
+                    <ref text="617">td. 14</ref>
+                  </li>
+                  <li>
+                    <gd>Càit a bheil <m>an gille</m> beag an diugh?</gd>
+                    <tr>Where is the little boy today?</tr>
+                    <ref text="617">td. 14</ref>
+                  </li>
+                  <li>
+                    <gd>A bheil <m>an seòmar</m> seo blàth?</gd>
+                    <tr>Is this room warm?</tr>
+                    <ref text="617">td. 14</ref>
+                  </li>
+                  <li>
+                    <gd>Càit a bheil <m>an gual</m>?</gd>
+                    <tr>Where is the coal?</tr>
+                    <ref text="617">td. 15 [227]</ref>
+                  </li>
                 </xl>
               </li>
-              <li>feminine</li>
+              <li>feminine <xl>
+                  <li>
+                    <gd>A bheil <m>an sgoil</m> mór?</gd>
+                    <tr>Is the school big?</tr>
+                    <ref text="617">td. 14</ref>
+                  </li>
+                  <li>
+                    <gd>Tha <m>a’ chaileag</m> beag.</gd>
+                    <tr>The girl is small.</tr>
+                    <ref text="617">td. 15</ref>
+                  </li>
+                </xl>
+              </li>
               <li>plural</li>
             </ul>
           </li>
@@ -95,9 +146,31 @@
                     <tr>Isn’t Malcolm in the field?</tr>
                     <ref text="617">td. 11</ref>
                   </li>
+                  <li>
+                    <gd>Tha Seònaid <m>anns an taigh</m>.</gd>
+                    <tr>Janet is in the house.</tr>
+                    <ref text="617">td. 14</ref>
+                  </li>
+                  <li>
+                    <gd>Tha Seònaid a’ cluich <m>air an làr</m>.</gd>
+                    <tr>Janet is playing on the floor.</tr>
+                    <ref text="617">td. 14</ref>
+                  </li>
+                  <li>
+                    <gd>A bheil an cù dubh anns an achadh còmhla <m>ris an duine</m>?</gd>
+                    <tr>Is the black dog in the field along with the man?</tr>
+                    <ref text="617">td. 15 [227]</ref>
+                  </li>
                 </xl>
               </li>
-              <li>feminine</li>
+              <li>feminine <xl>
+                  <li>
+                    <gd>Tha an gille beag <m>anns an sgoil</m>.</gd>
+                    <tr>The little boy is in the school.</tr>
+                    <ref text="617">td. 14</ref>
+                  </li>
+                </xl>
+              </li>
               <li>plural</li>
             </ul>
           </li>

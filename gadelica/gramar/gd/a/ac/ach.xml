@@ -29,6 +29,11 @@
             <tr>Calum has black hair but Mary has fair hair.</tr>
             <ref text="617">td. 9</ref>
           </li>
+          <li>
+            <gd><m>Tha</m> an gille mór ach <m>tha</m> a’ chaileag beag.</gd>
+            <tr>The boy is big but the girl is small.</tr>
+            <ref text="617">td. 15</ref>
+          </li>
         </xl></p>
     </section>
   </section>
@@ -57,6 +62,11 @@
             <gd>Tha falt dubh air Calum <m>ach</m> tha falt bàn <m>air Màiri</m>.</gd>
             <tr>Calum has black hair but Mary has fair hair.</tr>
             <ref text="617">td. 9</ref>
+          </li>
+          <li>
+            <gd>Tha an gille mór <m>ach</m> tha a’ chaileag beag.</gd>
+            <tr>The boy is big but the girl is small.</tr>
+            <ref text="617">td. 15</ref>
           </li>
         </xl></p>
     </section>
