@@ -1241,4 +1241,142 @@
   </ulx>
 -->
 
+  <section id="etymology">
+    <h>etymology</h>
+    <section>
+      <h>Old Gaelic</h>
+      <module id="sga-atta">
+        <h>at·tá</h>
+        <p>The ‘substantive verb’ <g>at·tá</g>
+          <en>be</en> belongs to the H1 conjugation.</p>
+        <p>The conjugated present tense absolute forms are (Stifter: 133) – <ul>
+            <li><m>at·táu</m> / <m>at·tó</m>
+              <en>I am</en>, <m>at·taí</m>
+              <en>thou art</en>, <m>at·tá</m>
+              <en>[(s)he/it] is</en>, <m>at·taaṁ</m>
+              <en>we are</en>, <m>at·taiḋ</m>
+              <en>you are</en>, <m>at·taaṭ</m>
+              <en>[they] are</en></li>
+          </ul>
+        </p>
+        <p>Some examples – <ul>
+            <li>intransitive (existence) – <xl>
+                <li>
+                  <gd>at·tá in Coimmdiu</gd>
+                  <tr>There is the Lord; The Lord exists.</tr>
+                  <ref text="stifter">td. 136</ref>
+                </li>
+              </xl>
+            </li>
+            <li>with a preposition – <ul>
+                <li>physical location – <xl>
+                    <li>
+                      <gd>at·taaṁ i Finnbain indossa</gd>
+                      <tr>We are now in Vienna.</tr>
+                      <ref text="stifter">td. 136</ref>
+                    </li>
+                  </xl>
+                </li>
+                <li>condition – <xl>
+                    <li>
+                      <gd>at·tó i mo ṡuiḋiu ar bélaiḃ ríṁairi</gd>
+                      <tr>I am sat in front of the computer.</tr>
+                      <ref text="stifter">td. 136</ref>
+                    </li>
+                    <li>
+                      <gd>at·tó i ngalur</gd>
+                      <tr>I am ill.</tr>
+                      <ref text="stifter">td. 136</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul></li>
+            <li>with a predicative adjective in VSO order – <xl>
+                <li>
+                  <gd>at·taaṭ mesai Dé nephchomtetarrachti amal abis</gd>
+                  <tr>The judgments of God are incomprehensible like an abyss. [Ml. 55d11]</tr>
+                  <ref text="stifter">td. 136</ref>
+                </li>
+                <li>
+                  <gd>ro·bátar [?] ind liss dúntai</gd>
+                  <tr>The ramparts were closed. [IB 1]</tr>
+                  <ref text="stifter">td. 136</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <p>The conjugated present tense conjunct forms are (Stifter: 136) – <ul>
+            <li><m>·táu</m> / <m>·tó</m>
+              <en>I am</en>, <m>·taí</m>
+              <en>thou art</en>, <m>·tá</m>
+              <en>[(s)he/it] is</en>, <m>·taaṁ</m>
+              <en>we are</en>, <m>·taiḋ</m>
+              <en>you are</en>, <m>·taaṭ</m>
+              <en>[they] are</en></li>
+          </ul>
+        </p>
+        <p>However, these conjunct forms are only used in very limited contexts – <ul>
+            <li>after an infixed dative pronoun <eg/>
+              <g>nín·tá</g>
+              <en>there is not to us, we don’t have</en></li>
+            <li>after a preposition + relative particle <eg/>
+              <g>lasa·tá</g>
+              <en>with whom is</en></li>
+          </ul>
+        </p>
+      </module>
+      <module id="sga-fil">
+        <h>fil</h>
+        <p>
+          <ul>
+            <li><m>ním·ḟil</m>
+              <en>I am not</en>, <m>níṭ·ḟil</m>
+              <en>thou art not</en>, <m>ní·fil</m>
+              <en>he is not</en>, <m>nís·fil</m>
+              <en>she is not</en>, <m>ní·ḟil</m>
+              <en>it is not</en>, <m>nínn·fil</m>
+              <en>we are not</en>, <m>níḃ·fil</m>
+              <en>you are not</en>, <m>nís·fil</m>
+              <en>they are not</en></li>
+          </ul>
+        </p>
+        <p>
+          <ul>
+            <li><m>in·fil</m>
+              <en>is it? are they?</en></li>
+          </ul>
+        </p>
+      </module>
+
+      <module id="sga-biid">
+        <h>biiḋ</h>
+        <p><g>biiḋ</g>
+          <en>be usually</en> is a verb belonging to the H2 conjugation.</p>
+        <p>Present tense absolute (Stifter td. 133) – <ul>
+            <li>[1sg] <m>bíuu</m></li>
+            <li>[2sg] <m>bii</m></li>
+            <li>[3sg] <m>biiḋ</m></li>
+            <li>[1pl] <m>bímmi</m></li>
+            <li>[2pl] <m>?</m></li>
+            <li>[3pl] <m>biiṭ</m></li>
+          </ul>
+        </p>
+        <p>Present tense conjunct (Stifter td. 132) – <ul>
+            <li>[1sg] <m>?</m></li>
+            <li>[2sg] <m>?</m></li>
+            <li>[3sg] <m>·bí</m></li>
+            <li>[1pl] <m>·bíaṁ</m></li>
+            <li>[2pl] <m>?</m></li>
+            <li>[3pl] <m>·bíaṭ</m></li>
+          </ul>
+        </p>
+      </module>
+
+
+    </section>
+
+  </section>
+
+
 </module>

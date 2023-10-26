@@ -16,6 +16,11 @@
                         <tr>It is not cold today.</tr>
                         <ref text="617">td. 11</ref>
                     </li>
+                    <li>
+                        <gd>Cha <m>robh</m> mi anns an taigh.</gd>
+                        <tr>I was not at home.</tr>
+                        <ref text="617">td. 17</ref>
+                    </li>
                 </xl>
             </p>
         </section>
@@ -25,22 +30,17 @@
         <h>uses</h>
         <section id="uses-root">
             <h>root</h>
-            <p><g>cha</g> can be used as the root of a negative direct question.</p>
+            <p><g>cha</g> can be used as the root of a statement.</p>
             <p>Some examples – <xl>
-                    <li>
-                        <gd><m>Chan</m> eil e fuar an diugh.</gd>
-                        <tr>It is not cold today.</tr>
-                        <ref text="617">td. 11</ref>
-                    </li>
                     <li>
                         <gd><m>Chan</m> eil an seòmar seo blàth?</gd>
                         <tr>This room is not warm.</tr>
                         <ref text="617">td. 14</ref>
                     </li>
                     <li>
-                        <gd><m>Chan</m> eil Seònaid anns an achadh còmhla ri Seumas.</gd>
+                        <gd><m>Cha</m> robh Seònaid anns an achadh còmhla ri Seumas.</gd>
                         <tr>Janet is not in the field along with James.</tr>
-                        <ref text="617">td. 14</ref>
+                        <ref text="617">td. 14 [adapted]</ref>
                     </li>
                 </xl>
             </p>

@@ -15,70 +15,29 @@
         <section id="uses-mod">
             <h>modifier</h>
             <p>Examples modifying <a href="?gd=bi"><g>bi</g></a> – <ul>
-                    <li>predicative adjectives – <xl>
-                            <li>
-                                <gd>Tha e fuar <m>an diugh</m>.</gd>
-                                <tr>It is cold today.</tr>
-                                <ref text="617">td. 7</ref>
-                            </li>
-                            <li>
-                                <gd>Tha Màiri agus Calum trang <m>an diugh</m> – tha iad ag obair
-                                    anns an achadh.</gd>
-                                <tr>Mary and Malcolm are busy today – they are working in the
-                                    field.</tr>
-                                <ref text="617">td. 7</ref>
-                            </li>
+                    <li>present tense – <xl>
                             <li>
                                 <gd>Chan eil e fuar <m>an diugh</m>.</gd>
                                 <tr>It is not cold today.</tr>
                                 <ref text="617">td. 11</ref>
                             </li>
-                        </xl>
-                    </li>
-                    <li>prepositional – <xl>
                             <li>
-                                <gd>Tha Màiri bhàn anns an achadh <m>an diugh</m> agus tha i ag
-                                    obair gu trang.</gd>
-                                <tr>Fair-headed Mary is in the field today and she is working
-                                    busily.</tr>
-                                <ref text="617">td. 9</ref>
-                            </li>
-                            <li>
-                                <gd>Tha latha math ann an diugh.</gd>
-                                <tr>It is a nice day today.</tr>
-                                <ref text="617">td. 14</ref>
-                            </li>
-                            <li>
-                                <gd>A bheil Seònaid anns an sgoil an diugh?</gd>
+                                <gd>A bheil Seònaid anns an sgoil <m>an diugh</m>?</gd>
                                 <tr>Is Janet in the school today?</tr>
                                 <ref text="617">td. 14</ref>
                             </li>
-                        </xl>
-                    </li>
-                    <li>progressive – <xl>
                             <li>
-                                <gd>Tha Màiri agus Calum ag obair anns an achadh <m>an
-                                    diugh</m>.</gd>
-                                <tr>Mary and Malcolm are working in the field today.</tr>
-                                <ref text="617">td. 6–7</ref>
-                            </li>
-                            <li>
-                                <gd>Dé tha Seumas a’ dèanamh an diugh?</gd>
+                                <gd>Dé tha Seumas a’ dèanamh <m>an diugh</m>?</gd>
                                 <tr>What is James doing today?</tr>
                                 <ref text="617">td. 14</ref>
                             </li>
-                            <li>
-                                <gd>Nach eil Seumas ag obair an diugh?</gd>
-                                <tr>Isn’t James working today?</tr>
-                                <ref text="617">td. 14</ref>
-                            </li>
                         </xl>
                     </li>
-                    <li>mixed – <xl>
+                    <li>past tense – <xl>
                             <li>
-                                <gd>Tha iad fuar ag obair anns an achadh <m>an diugh</m>.</gd>
-                                <tr>They are tired working in the field today.</tr>
-                                <ref text="617">td. 7</ref>
+                                <gd>An robh sibh anns an achadh <m>an diugh</m>? Cha robh.</gd>
+                                <tr>Were you in the field today? No, I wasn’t.</tr>
+                                <ref text="617">td. 16</ref>
                             </li>
                         </xl>
                     </li>

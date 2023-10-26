@@ -8,11 +8,17 @@
         <section id="deps-comp">
             <h>complement</h>
             <p>The complement of <g>nach</g> is a dependent verb form.</p>
-            <p>Some examples with the predicative verb <a href="?gd=bi"><g>bi</g></a> <en>be</en> – <xl>
+            <p>Some examples with the predicative verb <a href="?gd=bi"><g>bi</g></a>
+                <en>be</en> – <xl>
                     <li>
                         <gd>Nach <m>eil</m> Calum anns an achadh?</gd>
                         <tr>Isn’t Malcolm in the field?</tr>
                         <ref text="617">td. 11</ref>
+                    </li>
+                    <li>
+                        <gd>Nach <m>robh</m> Màiri trang?</gd>
+                        <tr>Wasn’t Mary busy?</tr>
+                        <ref text="617">td. 17</ref>
                     </li>
                 </xl>
             </p>
@@ -23,22 +29,22 @@
         <h>uses</h>
         <section id="uses-root">
             <h>root</h>
-            <p><g>nach</g> can be used as the root of a negative direct question.</p>
+            <p><g>nach</g> can be used as the root of a direct question.</p>
             <p>Some examples – <xl>
-                    <li>
-                        <gd><m>Nach</m> eil Calum anns an achadh? Chan eil.</gd>
-                        <tr>Isn’t Malcolm in the field? No, he isn’t.</tr>
-                        <ref text="617">td. 11</ref>
-                    </li>
                     <li>
                         <gd><m>Nach</m> eil Seumas ag obair an diugh? Tha.</gd>
                         <tr>Isn’t James working today? Yes, he is.</tr>
                         <ref text="617">td. 14</ref>
                     </li>
                     <li>
-                        <gd><m>Nach</m> eil thu sgìth? Tha, tha mi glé sgìth.</gd>
-                        <tr>Aren’t you tired. Yes, I am very tired.</tr>
+                        <gd><m>Nach</m> eil thu sgìth? Chan eil.</gd>
+                        <tr>Aren’t you tired? No, I’m not.</tr>
                         <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd><m>Nach</m> robh Màiri trang? Bha.</gd>
+                        <tr>Wasn’t Mary busy? Yes, she was.</tr>
+                        <ref text="617">td. 17</ref>
                     </li>
                 </xl>
             </p>

@@ -28,6 +28,11 @@
             <tr>Is the dog at the door?</tr>
             <ref text="617">td. 11</ref>
           </li>
+          <li>
+            <gd>An <m>robh</m> Màiri trang?</gd>
+            <tr>Was Mary busy?</tr>
+            <ref text="617">td. 16</ref>
+          </li>
         </xl>
       </p>
 
@@ -55,22 +60,17 @@
     <h>uses</h>
     <section id="uses-root">
       <h>root</h>
-      <p><g>an</g> can be used as the root of a negative direct question.</p>
+      <p><g>an</g> can be used as the root of a direct question.</p>
       <p>Some examples – <xl>
-          <li>
-            <gd><m>A</m> bheil an cù aig an dorus? Tha.</gd>
-            <tr>Is the dog at the door? Yes, it is.</tr>
-            <ref text="617">td. 11</ref>
-          </li>
-          <li>
-            <gd><m>A</m> bheil thu sgìth? Chan eil.</gd>
-            <tr>Are you tired? No, I’m not.</tr>
-            <ref text="617">td. 11</ref>
-          </li>
           <li>
             <gd><m>A</m> bheil an t-uisge ann? Tha gu dearbh.</gd>
             <tr>Is it raining. Yes, indeed.</tr>
             <ref text="617">td. 14 [adapted]</ref>
+          </li>
+          <li>
+            <gd><m>An</m> robh sibh anns an achadh an diugh? Cha robh.</gd>
+            <tr>Were you in the field today? No, we weren’t.</tr>
+            <ref text="617">td. 16</ref>
           </li>
         </xl>
       </p>

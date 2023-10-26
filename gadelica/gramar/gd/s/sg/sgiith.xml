@@ -36,14 +36,14 @@
                         <ref text="617">td. 7</ref>
                     </li>
                     <li>
-                        <gd>Tha mi fuar agus tha mi <m>sgìth</m>.</gd>
-                        <tr>I am cold and I am tired.</tr>
-                        <ref text="617">td. 9</ref>
-                    </li>
-                    <li>
                         <gd>Nach eil thu <m>sgìth</m>?</gd>
                         <tr>Aren’t you tired?</tr>
                         <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>An robh thu <m>sgìth</m>? Cha robh.</gd>
+                        <tr>Were you tired? No, I wasn’t.</tr>
+                        <ref text="617">td. 16</ref>
                     </li>
                 </xl>
             </p>
