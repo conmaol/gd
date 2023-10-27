@@ -359,6 +359,11 @@
                       <tr>The black dog is at the door.</tr>
                       <ref text="617">td. 9</ref>
                     </li>
+                    <li>
+                      <gd>Tha an <m>duine</m> anns a’ bhàta.</gd>
+                      <tr>The man is in the boat.</tr>
+                      <ref text="617">td. 17</ref>
+                    </li>
                   </xl></li>
                 <li>inanimate – <xl>
                     <li>
@@ -370,6 +375,11 @@
                       <gd>Chan eil <m>falt dubh</m> air Calum.</gd>
                       <tr>Calum does not have black hair.</tr>
                       <ref text="617">td. 9 [adapted]</ref>
+                    </li>
+                    <li>
+                      <gd>Tha am <m>bàta</m> air a’ chladach.</gd>
+                      <tr>The boat is on the shore.</tr>
+                      <ref text="617">td. 17</ref>
                     </li>
                   </xl>
                 </li>
@@ -511,6 +521,11 @@
                 <gd>Bha teas <m>anns</m> an teine.</gd>
                 <tr>There was heat in the fire.</tr>
                 <ref text="617">td. 6</ref>
+              </li>
+              <li>
+                <gd>Tha am bàta <m>air</m> a’ chladach.</gd>
+                <tr>The boat is on the shore.</tr>
+                <ref text="617">td. 17</ref>
               </li>
             </xl>
           </p>
@@ -1245,6 +1260,7 @@
     <h>etymology</h>
     <section>
       <h>Old Gaelic</h>
+      <p>The Gaelic verb <g>bi</g> is the fusion of at least three different Old Gaelic verbs.</p>
       <module id="sga-atta">
         <h>at·tá</h>
         <p>The ‘substantive verb’ <g>at·tá</g>

@@ -6,7 +6,9 @@
             <li><a href="?xx=verbs/verbs">verbs</a>
                 <ul>
                     <li><a href="?xx=verbs/simple_verbs">simple verbs</a> – <a href="?gd=bi"
-                        ><g>bi</g></a>, <a href="?gd=cluich"><g>cluich</g></a>, <a href="?gd=deean"><g>dèan</g></a>, <a href="?gd=faic"><g>faic</g></a></li>
+                                ><g>bi</g></a>, <a href="?gd=cluich"><g>cluich</g></a>, <a
+                            href="?gd=deean"><g>dèan</g></a>, <a href="?gd=faic"
+                        ><g>faic</g></a></li>
                     <li>verb particles – <a href="?gd=an^particle"><g>an</g></a>, <a href="?gd=cha"
                                 ><g>cha</g></a>, <a href="?gd=nach"><g>nach</g></a></li>
                 </ul>
@@ -25,20 +27,24 @@
                     <li><a href="?xx=nouns/common_nouns">common nouns</a>
                         <ul>
                             <li><a href="?xx=nouns/simple_common_nouns">simple common nouns</a> – <a
-                                    href="?gd=achadh"><g>achadh</g></a>, <a href="?gd=cat"
-                                        ><g>cat</g></a>, <a href="?gd=ceann"><g>ceann</g></a>, <a
-                                    href="?gd=coota"><g>còta</g></a>, <a href="?gd=cuu"
-                                    ><g>cù</g></a>, <a href="?gd=dorus"><g>dorus</g></a>, <a
-                                    href="?gd=duine"><g>duine</g></a>, <a href="?gd=falt"
-                                        ><g>falt</g></a>, <a href="?gd=gille"><g>gille</g></a>, <a
+                                    href="?gd=achadh"><g>achadh</g></a>, <a href="?gd=balach"
+                                        ><g>balach</g></a>, <a
+                                            href="?gd=baata"><g>bàta</g></a>, <a href="?gd=cat"><g>cat</g></a>, <a
+                                                href="?gd=ceann"><g>ceann</g></a>, <a href="?gd=cladach"><g>cladach</g></a>, <a href="?gd=coota"
+                                        ><g>còta</g></a>, <a href="?gd=cuu"><g>cù</g></a>, <a
+                                    href="?gd=dorus"><g>dorus</g></a>, <a href="?gd=duine"
+                                        ><g>duine</g></a>, <a href="?gd=each"><g>each</g></a>, <a
+                                    href="?gd=falt"><g>falt</g></a>, <a href="?gd=fear"
+                                    ><g>fear</g></a>, <a href="?gd=gille"><g>gille</g></a>, <a
                                     href="?gd=gual"><g>gual</g></a>, <a href="?gd=iolair"
                                         ><g>iolair</g></a>, <a href="?gd=laar"><g>làr</g></a>, <a
-                                    href="?gd=latha"><g>latha</g></a>, <a href="?gd=obair"
-                                        ><g>obair</g></a>, <a href="?gd=seoomar"><g>seòmar</g></a>,
-                                    <a href="?gd=sgoil"><g>sgoil</g></a>, <a href="?gd=taigh"
-                                        ><g>taigh</g></a>, <a href="?gd=teas"><g>teas</g></a>, <a
-                                    href="?gd=teine"><g>teine</g></a>, <a href="?gd=uisge"
-                                        ><g>uisge</g></a>
+                                    href="?gd=latha"><g>latha</g></a>, <a href="?gd=maide"
+                                        ><g>maide</g></a>, <a href="?gd=obair"><g>obair</g></a>, <a
+                                    href="?gd=peann"><g>peann</g></a>, <a href="?gd=seoomar"
+                                        ><g>seòmar</g></a>, <a href="?gd=sgoil"><g>sgoil</g></a>, <a
+                                    href="?gd=taigh"><g>taigh</g></a>, <a href="?gd=teas"
+                                        ><g>teas</g></a>, <a href="?gd=teine"><g>teine</g></a>, <a
+                                    href="?gd=uisge"><g>uisge</g></a>
                             </li>
                             <li><a href="?xx=nouns/derived_common_nouns">derived common nouns</a> –
                                     <a href="?gd=_ag"><g>-(e)ag</g></a> – <a href="?gd=caileag"
@@ -68,23 +74,24 @@
             <li><a href="?xx=adjectives/adjectives">adjectives</a>
                 <ul>
                     <li><a href="?xx=adjectives/simple_adjectives">simple adjectives</a> – <a
-                            href="?gd=aard"><g>àrd</g></a>, <a href="?gd=baan"><g>bàn</g></a>, <a
-                            href="?gd=beag"><g>beag</g></a>, <a href="?gd=blaath"><g>blàth</g></a>,
-                            <a href="?gd=breeagha"><g>brèagha</g></a>, <a href="?gd=dubh"
-                                ><g>dubh</g></a>, <a href="?gd=fliuch"><g>fliuch</g></a>, <a
-                            href="?gd=fuar"><g>fuar</g></a>, <a href="?gd=geal"><g>geal</g></a>, <a
-                            href="?gd=glas"><g>glas</g></a>, <a href="?gd=luath"><g>luath</g></a>,
-                            <a href="?gd=math"><g>math</g></a>, <a href="?gd=moor"><g>mór</g></a>,
-                            <a href="?gd=salach"><g>salach</g></a>, <a href="?gd=sgiith"
-                                ><g>sgìth</g></a>, <a href="?gd=teth"><g>teth</g></a>, <a
-                            href="?gd=trang"><g>trang</g></a></li>
+                            href="?gd=aard"><g>àrd</g></a>, <a href="?gd=baan"><g>bàn</g></a>,  <a href="?gd=beag"><g>beag</g></a>, <a
+                            href="?gd=blaath"><g>blàth</g></a>, <a href="?gd=breeagha"
+                                ><g>brèagha</g></a>, <a href="?gd=dubh"><g>dubh</g></a>, <a
+                            href="?gd=fliuch"><g>fliuch</g></a>, <a href="?gd=fuar"><g>fuar</g></a>,
+                            <a href="?gd=geal"><g>geal</g></a>, <a href="?gd=glas"><g>glas</g></a>,
+                            <a href="?gd=luath"><g>luath</g></a>, <a href="?gd=math"
+                        ><g>math</g></a>, <a href="?gd=moor"><g>mór</g></a>, <a href="?gd=salach"
+                                ><g>salach</g></a>, <a href="?gd=sgiith"><g>sgìth</g></a>, <a
+                            href="?gd=teth"><g>teth</g></a>, <a href="?gd=trang"
+                        ><g>trang</g></a></li>
                     <li>intensifiers – <a href="?gd=glee"><g>glé</g></a></li>
                     <li>pseudo-adjectives – <a href="?gd=dearbh"><g>dearbh</g></a></li>
                 </ul>
             </li>
             <li><a href="?xx=prepositions/prepositions">prepositions</a> – <a href="?gd=aig"
                         ><g>aig</g></a> (<a href="?gd=ag"><g>ag</g></a>), <a href="?gd=air"
-                            ><g>air</g></a>, <a href="?gd=an^preposition"><g>an</g></a>, <a href="?gd=le"><g>le</g></a></li>
+                        ><g>air</g></a>, <a href="?gd=an^preposition"><g>an</g></a>, <a
+                    href="?gd=le"><g>le</g></a></li>
             <li><a href="?xx=prepositions/adverbs">adverbs</a> – <a href="?gd=gu"><g>gu</g></a>, <a
                     href="?gd=an_diugh"><g>an diugh</g></a>, <a href="?gd=coomhla"
                 ><g>còmhla</g></a></li>
@@ -95,7 +102,8 @@
                 <en>how</en>, <a href="?gd=coo"><g>có</g></a>
                 <en>who, what</en>, <a href="?gd=dee"><g>dé</g></a>
                 <en>what</en></li>
-            <li>other – <a href="?gd=tapadh"><g>tapadh</g></a>, <a href="?gd=a^relative"><g>a</g></a> (relative clause particle)</li>
+            <li>other – <a href="?gd=tapadh"><g>tapadh</g></a>, <a href="?gd=a^relative"
+                    ><g>a</g></a> (relative clause particle)</li>
         </ul>
     </p>
     <p>The following semantic topics are discussed here – <ul>
@@ -108,12 +116,15 @@
                     <li>material entities – <ul>
                             <li>things – <ul>
                                     <li>animate – <ul>
-                                            <li>people – <a href="?gd=caileag"><g>caileag</g></a>,
-                                                  <a href="?gd=duine"><g>duine</g></a>, <a
+                                            <li>people – <a href="?gd=balach"><g>balach</g></a>, <a
+                                                  href="?gd=caileag"><g>caileag</g></a>, <a
+                                                  href="?gd=duine"><g>duine</g></a>, <a
+                                                  href="?gd=fear"><g>fear</g></a>, <a
                                                   href="?gd=gille"><g>gille</g></a>
                                             </li>
                                             <li>animals – <a href="?gd=cat"><g>cat</g></a>, <a
-                                                  href="?gd=cuu"><g>cù</g></a>, <a href="?gd=iolair"
+                                                  href="?gd=cuu"><g>cù</g></a>, <a href="?gd=each"
+                                                  ><g>each</g></a>, <a href="?gd=iolair"
                                                   ><g>iolair</g></a></li>
                                             <li>parts – <a href="?gd=ceann"><g>ceann</g></a></li>
                                         </ul>
@@ -130,9 +141,12 @@
                                                 </ul>
                                             </li>
                                             <li>clothing – <a href="?gd=coota"><g>còta</g></a></li>
+                                            <li>other – <a href="?gd=baata"><g>bàta</g></a>, <a
+                                                  href="?gd=maide"><g>maide</g></a>, <a
+                                                  href="?gd=peann"><g>peann</g></a></li>
                                         </ul>
                                     </li>
-                                    <li>other – <a href="?gd=achadh"><g>achadh</g></a></li>
+                                <li>other – <a href="?gd=achadh"><g>achadh</g></a>, <a href="?gd=cladach"><g>cladach</g></a></li>
                                 </ul>
                             </li>
                             <li>substances – <a href="?gd=falt"><g>falt</g></a>, <a href="?gd=gual"

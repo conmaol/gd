@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>cladach</h>
+    <p><g>cladach</g>
+        <en>shore</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>cladach</g> are – <ul>
+                <li><m>cladach</m> – nominative/dative singular</li>
+                <li><m>cladaich</m> – genitive singular</li>
+                <li><m>cladaichean</m> – nominative/dative/genitive plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>cladach</m></li>
+                                    <li>dative – air <m>cladach</m></li>
+                                    <li>genitive – taobh <m>cladaich</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>cladaichean</m></li>
+                                    <li>dative – air <m>cladaichean</m></li>
+                                    <li>genitive – taobh <m>chladaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an cladach</m></li>
+                                    <li>dative – air <m>a’ chladach</m></li>
+                                    <li>genitive – taobh <m>a’ chladaich</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na cladaichean</m></li>
+                                    <li>dative – air <m>na cladaichean</m></li>
+                                    <li>genitive – taobh <m>nan cladaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>cladach</m></li>
+                                    <li>dative – air <m>cladach</m></li>
+                                    <li>genitive – taobh <m>cladaich</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an cladach</m></li>
+                                    <li>dative – air <m>a’ chladach</m></li>
+                                    <li>genitive – taobh <m>a’ chladaich</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>cladaichean</m></li>
+                                    <li>dative – air <m>cladaichean</m></li>
+                                    <li>genitive – taobh <m>chladaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na cladaichean</m></li>
+                                    <li>dative – air <m>na cladaichean</m></li>
+                                    <li>genitive – taobh <m>nan cladaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>cladach</m></li>
+                                    <li>plural – <m>cladaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an cladach</m></li>
+                                    <li>plural – <m>na cladaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – air <m>cladach</m></li>
+                                    <li>plural – air <m>cladaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – air <m>a’ chladach</m></li>
+                                    <li>plural – air <m>na cladaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – taobh <m>cladaich</m></li>
+                                    <li>plural – taobh <m>chladaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – taobh <m>a’ chladaich</m></li>
+                                    <li>plural – taobh <m>nam cladaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <!--<section id="deps-bare">
+            <h>bare</h>
+            <p>Like other nouns, <g>cladach</g> can occur on its own, without any dependents.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        <section id="deps-spr">
+            <h>specifier</h>
+            <p>Like other common nouns, <g>cladach</g> can occur with a <a
+                    href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
+            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+                    <li>
+                        <gd>Tha am bàta air <m>a’ chladach</m>.</gd>
+                        <tr>The boat is on the shore.</tr>
+                        <ref text="617">td. 17</ref>
+                    </li>
+                    <li>
+                        <gd>Bha mi aig <m>a’ chladach</m> an diugh.</gd>
+                        <tr>I was at the shore today.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <!--<section id="deps-mods">
+            <h>modifiers</h>
+            <p>Like other nouns, <g>cladach</g> can occur with an (attributive) <a
+                href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+    </section>
+
+    <section>
+        <h>uses</h>
+        <!--<section id="uses-sbj">
+            <h>subject</h>
+            <p>Like other nouns, <g>cladach</g> can be used as the subject of a <a
+                href="?xx=verbs/verbs">verb</a>.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
+               
+            </xl>
+            </p>
+            <!-\-<p>Examples with demonstrative pronouns used as copular verbs – <xl>
+                <li>
+                    <gd>Seo an <m>cladach</m>.</gd>
+                    <tr>This is the dog.</tr>
+                    <ref text="617">td. 15</ref>
+                </li>
+            </xl>
+            </p>-\->
+        </section>-->
+        <!-- <section id="uses-obj">
+            <h>object</h>
+            <p>Like other nouns, <g>cladach</g> can be used as the object of a transitive verb.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        <section id="uses-comp">
+            <h>complement</h>
+            <p>Like other nouns, <g>cladach</g> can be used as the complement of a <a
+                    href="?xx=prepositions/prepositions">preposition</a>.</p>
+            <p>Examples with <g><a href="?gd=air">air</a> cladach</g>
+                <en>on a shore</en> – <xl>
+                    <li>
+                        <gd>Tha am bàta <m>air a’ chladach</m>.</gd>
+                        <tr>The boat is on the shore.</tr>
+                        <ref text="617">td. 17</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with <g><a href="?gd=aig">aig</a> cladach</g>
+                <en>at a shore</en> – <xl>
+                    <li>
+                        <gd>Bha mi <m>aig a’ chladach</m> an diugh.</gd>
+                        <tr>I was at the shore today.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                </xl>
+            </p>
+
+        </section>
+
+    </section>
+
+</module>

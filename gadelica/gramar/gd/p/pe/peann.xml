@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>peann</h>
+    <p><g>peann</g>
+        <en>pen</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
+    
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>peann</g> are – <ul>
+            <li><m>peann</m> – nominative/dative singular, genitive plural</li>
+            <li><m>pinn</m> – genitive singular, nominative/dative plural</li>
+        </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                <li>indefinite <ul>
+                    <li>singular <ul>
+                        <li>nominative – <m>peann</m></li>
+                        <li>dative – le <m>peann</m></li>
+                        <li>genitive – taobh <m>pinn</m></li>
+                    </ul></li>
+                    <li>plural <ul>
+                        <li>nominative – <m>pinn</m></li>
+                        <li>dative – le <m>pinn</m></li>
+                        <li>genitive – taobh <m>pheann</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>definite <ul>
+                    <li>singular <ul>
+                        <li>nominative – <m>am peann</m></li>
+                        <li>dative – leis <m>a’ pheann</m></li>
+                        <li>genitive – taobh <m>a’ phinn</m></li>
+                    </ul></li>
+                    <li>plural <ul>
+                        <li>nominative – <m>na pinn</m></li>
+                        <li>dative – leis <m>na pinn</m></li>
+                        <li>genitive – taobh <m>nam peann</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                <li>singular <ul>
+                    <li>indefinite <ul>
+                        <li>nominative – <m>peann</m></li>
+                        <li>dative – le <m>peann</m></li>
+                        <li>genitive – taobh <m>pinn</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>nominative – <m>am peann</m></li>
+                        <li>dative – leis <m>a’ pheann</m></li>
+                        <li>genitive – taobh <m>a’ phinn</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>plural <ul>
+                    <li>indefinite <ul>
+                        <li>nominative – <m>pinn</m></li>
+                        <li>dative – le <m>pinn</m></li>
+                        <li>genitive – taobh <m>pheann</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>nominative – <m>na pinn</m></li>
+                        <li>dative – leis <m>na pinn</m></li>
+                        <li>genitive – taobh <m>nam peann</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                <li>nominative <ul>
+                    <li>indefinite <ul>
+                        <li>singular – <m>peann</m></li>
+                        <li>plural – <m>pinn</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – <m>am peann</m></li>
+                        <li>plural – <m>na pinn</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>dative <ul>
+                    <li>indefinite <ul>
+                        <li>singular – le <m>peann</m></li>
+                        <li>plural – le <m>pinn</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – leis <m>a’ pheann</m></li>
+                        <li>plural – leis <m>na pinn</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>genitive <ul>
+                    <li>indefinite <ul>
+                        <li>singular – taobh <m>pinn</m></li>
+                        <li>plural – taobh <m>pheann</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – taobh <m>a’ phinn</m></li>
+                        <li>plural – taobh <m>nam peann</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+    </section>
+    
+   <!-- <section>
+        <h>dependents</h>
+        <section id="deps-bare">
+            <h>bare</h>
+            <p>Like other nouns, <g>peann</g> can occur on its own, without any dependents.</p>
+            <p>Some examples – <xl>
+                <li>
+                    <gd>Chunnaic mi <m>peann</m> aig an dorus.</gd>
+                    <tr>I saw a dog at the door.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+        <section id="deps-spr">
+            <h>specifier</h>
+            <p>Like other common nouns, <g>peann</g> can occur with a <a href="?xx=nouns/determiners"
+                >determiner</a> as pre-specifier.</p>
+            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+                <li>
+                    <gd>Tha <m>am peann</m> dubh.</gd>
+                    <tr>The dog is black.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>Tha <m>am peann</m> aig an dorus.</gd>
+                    <tr>The dog is at the door.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+        <section id="deps-mods">
+            <h>modifiers</h>
+            <p>Like other nouns, <g>peann</g> can occur with an (attributive) <a
+                href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
+            <p>Some examples – <xl>
+                <li>
+                    <gd>Tha an <m>peann dubh</m> aig an dorus.</gd>
+                    <tr>The black dog is at the door.</tr>
+                    <ref text="617">td. 9</ref>
+                </li>
+                <li>
+                    <gd>A bheil an <m>peann dubh</m> anns an achadh còmhla ris an duine?</gd>
+                    <tr>Is the black dog in the field with the man?</tr>
+                    <ref text="617">td. 14 [227]</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+    </section>
+    
+    <section>
+        <h>uses</h>
+        <section id="uses-sbj">
+            <h>subject</h>
+            <p>Like other nouns, <g>peann</g> can be used as the subject of a <a href="?xx=verbs/verbs"
+                >verb</a>.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
+                <li>
+                    <gd>Tha an <m>peann</m> mòr.</gd>
+                    <tr>The dog is big.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>A bheil an <m>peann</m> aig an dorus?</gd>
+                    <tr>Is the dog at the door?</tr>
+                    <ref text="617">td. 11</ref>
+                </li>
+                <li>
+                    <gd>A bheil an <m>peann</m> luath?</gd>
+                    <tr>Is the dog swift?</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+                <li>
+                    <gd>Chan eil an <m>peann</m> dubh anns an achadh an diugh.</gd>
+                    <tr>The black dog is not in the field today.</tr>
+                    <ref text="617">td. 14 [227]</ref>
+                </li>
+            </xl>
+            </p>
+            <p>Examples with demonstrative pronouns used as copular verbs – <xl>
+                <li>
+                    <gd>Seo an <m>peann</m>.</gd>
+                    <tr>This is the dog.</tr>
+                    <ref text="617">td. 15</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+        <section id="uses-obj">
+            <h>object</h>
+            <p>Like other nouns, <g>peann</g> can be used as the object of a transitive verb.</p>
+            <p>Some examples – <xl>
+                <li>
+                    <gd>Chunnaic mi <m>peann</m> aig an dorus.</gd>
+                    <tr>I saw a dog at the door.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+        <section id="uses-comp">
+            <h>complement</h>
+            <p>Like other nouns, <g>peann</g> can be used as the complement of a <a
+                href="?xx=prepositions/prepositions">preposition</a>.</p>
+            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> achadh</g>
+                <en>in a field</en> – <xl>
+                    
+                </xl>
+            </p>
+        </section>
+        
+    </section>-->
+    
+</module>
+
+

@@ -32,13 +32,19 @@
       <li><a href="?gd=baile"><g>baile</g></a>
         <masc/>
         <en>town</en> pl. <g>bailtean</g></li>
-      <li><m>balach</m> masc. <en>boy</en></li>
+        -->
+      <li><a href="?gd=balach"><g>balach</g></a>
+        <masc/>
+        <en>boy</en></li>
+      <!--
       <li><m>balla</m> masc. <en>wall</en> pl. <b>ballachan</b></li>
       <li><m>bàrd</m> masc. <en>poet</en></li>
       <li><a href="?gd=basgaid"><g>basgaid</g></a>
         <fem/>
         <en>basket</en></li>
-      <li><m>bàta</m> masc. <en>boat</en> pl. <b>bàtaichean</b></li>
+        -->
+      <li><a href="?gd=baata"><g>bàta</g></a> <masc/> <en>boat</en> <pl/> <g>bàtaichean</g></li>
+    <!--
       <li><a href="?gd=beachd"><g>beachd</g></a>
         <masc/>
         <en>opinion, idea, view</en></li>
@@ -91,6 +97,11 @@
       <li><m>ceòl</m> masc. <en>music</en> gen. <b>ciùil</b></li>
       <li><m>ceum</m> masc. <en>step</en> gen. <b>ceuma</b> (†<b>cèim</b>), pl. <b>ceuman</b>,
           <b>ceumannan</b></li>
+          -->
+       <li><a href="?gd=cladach"><g>cladach</g></a>
+        <masc/>
+        <en>shore</en></li>
+          <!--
       <li><a href="?gd=cladh"><g>cladh</g></a>
         <masc/>
         <en>graveyard</en></li>
@@ -133,7 +144,9 @@
         <g>daoine</g></li>
       <!--
       <li><m>dùn</m> masc. <en>fort</en></li>
-      <li><m>each</m> masc. <en>horse</en></li>
+      -->
+      <li><a href="?gd=each"><g>each</g></a> <masc/> <en>horse</en></li>
+    <!--
       <li><a href="?gd=eachdraidh"><g>eachdraidh</g></a>
         <fem/>
         <en>history</en></li>
@@ -152,9 +165,9 @@
         <g>fuilt</g>
         <pl/>
         <g>fuiltean</g></li>
-
+      <li><a href="?gd=fear"><g>fear</g></a> <masc/> <en>man</en> <slen/> <g>fir</g></li>
+      
       <!--
-      <li><m>fear</m> masc. <en>man</en> gen. <b>fir</b> pl. <b>fir</b></li>
       <li><m>fiadh</m> masc. <en>deer</en></li>
       <li><m>fios</m> masc. <en>knowledge</en> gen. <b>fiosa</b> pl. <b>fiosan</b></li>
       <li><m>Gàidheal</m> masc. <en>Gael</en></li>
@@ -195,6 +208,11 @@
         <masc/>
         <en>lake</en> pl. <g>lochan</g> gen. <g>locha</g></li>
       <li><m>mac</m> masc. <en>son</en> gen. <b>mic</b> pl. <b>mic</b></li>
+      -->
+    <li><a href="?gd=maide"><g>maide</g></a>
+      <masc/>
+      <en>stick</en></li>
+      <!--
       <li><a href="?gd=manach"><g>manach</g></a>
         <masc/>
         <en>monk</en></li>
@@ -222,6 +240,13 @@
       <li><a href="?gd=paraiste"><g>paraiste</g></a>
         <fem/>
         <en>parish</en></li>
+        -->
+      <li><a href="?gd=peann"><g>peann</g></a>
+        <masc/>
+        <en>pen</en>
+        <slen/>
+        <g>pinn</g></li>
+      <!--
       <li><m>pìob</m> fem. <en>pipe</en> gen. <b>pìoba</b></li>
       <li><m>piuthar</m> fem. <en>sister</en> gen. <b>peathar</b> pl. <b>peathraichean</b></li>
       <li><a href="?gd=post"><g>post</g></a>
