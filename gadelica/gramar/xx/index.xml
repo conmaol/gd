@@ -28,18 +28,19 @@
                         <ul>
                             <li><a href="?xx=nouns/simple_common_nouns">simple common nouns</a> – <a
                                     href="?gd=achadh"><g>achadh</g></a>, <a href="?gd=balach"
-                                        ><g>balach</g></a>, <a
-                                            href="?gd=baata"><g>bàta</g></a>, <a href="?gd=cat"><g>cat</g></a>, <a
-                                                href="?gd=ceann"><g>ceann</g></a>, <a href="?gd=cladach"><g>cladach</g></a>, <a href="?gd=coota"
-                                        ><g>còta</g></a>, <a href="?gd=cuu"><g>cù</g></a>, <a
-                                    href="?gd=dorus"><g>dorus</g></a>, <a href="?gd=duine"
-                                        ><g>duine</g></a>, <a href="?gd=each"><g>each</g></a>, <a
-                                    href="?gd=falt"><g>falt</g></a>, <a href="?gd=fear"
-                                    ><g>fear</g></a>, <a href="?gd=gille"><g>gille</g></a>, <a
-                                    href="?gd=gual"><g>gual</g></a>, <a href="?gd=iolair"
-                                        ><g>iolair</g></a>, <a href="?gd=laar"><g>làr</g></a>, <a
-                                    href="?gd=latha"><g>latha</g></a>, <a href="?gd=maide"
-                                        ><g>maide</g></a>, <a href="?gd=obair"><g>obair</g></a>, <a
+                                        ><g>balach</g></a>, <a href="?gd=baata"><g>bàta</g></a>, <a
+                                    href="?gd=cat"><g>cat</g></a>, <a href="?gd=ceann"
+                                    ><g>ceann</g></a>, <a href="?gd=cladach"><g>cladach</g></a>, <a
+                                    href="?gd=coota"><g>còta</g></a>, <a href="?gd=cuu"
+                                    ><g>cù</g></a>, <a href="?gd=dorus"><g>dorus</g></a>, <a
+                                    href="?gd=duine"><g>duine</g></a>, <a href="?gd=each"
+                                        ><g>each</g></a>, <a href="?gd=falt"><g>falt</g></a>, <a
+                                    href="?gd=fear"><g>fear</g></a>, <a href="?gd=gille"
+                                        ><g>gille</g></a>, <a href="?gd=gual"><g>gual</g></a>, <a
+                                    href="?gd=iolair"><g>iolair</g></a>, <a href="?gd=laar"
+                                        ><g>làr</g></a>, <a href="?gd=latha"><g>latha</g></a>, <a
+                                    href="?gd=maide"><g>maide</g></a>, <a href="?gd=monadh"
+                                        ><g>monadh</g></a>, <a href="?gd=obair"><g>obair</g></a>, <a
                                     href="?gd=peann"><g>peann</g></a>, <a href="?gd=seoomar"
                                         ><g>seòmar</g></a>, <a href="?gd=sgoil"><g>sgoil</g></a>, <a
                                     href="?gd=taigh"><g>taigh</g></a>, <a href="?gd=teas"
@@ -74,16 +75,16 @@
             <li><a href="?xx=adjectives/adjectives">adjectives</a>
                 <ul>
                     <li><a href="?xx=adjectives/simple_adjectives">simple adjectives</a> – <a
-                            href="?gd=aard"><g>àrd</g></a>, <a href="?gd=baan"><g>bàn</g></a>,  <a href="?gd=beag"><g>beag</g></a>, <a
-                            href="?gd=blaath"><g>blàth</g></a>, <a href="?gd=breeagha"
-                                ><g>brèagha</g></a>, <a href="?gd=dubh"><g>dubh</g></a>, <a
-                            href="?gd=fliuch"><g>fliuch</g></a>, <a href="?gd=fuar"><g>fuar</g></a>,
-                            <a href="?gd=geal"><g>geal</g></a>, <a href="?gd=glas"><g>glas</g></a>,
-                            <a href="?gd=luath"><g>luath</g></a>, <a href="?gd=math"
-                        ><g>math</g></a>, <a href="?gd=moor"><g>mór</g></a>, <a href="?gd=salach"
-                                ><g>salach</g></a>, <a href="?gd=sgiith"><g>sgìth</g></a>, <a
-                            href="?gd=teth"><g>teth</g></a>, <a href="?gd=trang"
-                        ><g>trang</g></a></li>
+                            href="?gd=aard"><g>àrd</g></a>, <a href="?gd=baan"><g>bàn</g></a>, <a
+                            href="?gd=beag"><g>beag</g></a>, <a href="?gd=blaath"><g>blàth</g></a>,
+                            <a href="?gd=breeagha"><g>brèagha</g></a>, <a href="?gd=dubh"
+                                ><g>dubh</g></a>, <a href="?gd=fliuch"><g>fliuch</g></a>, <a
+                            href="?gd=fuar"><g>fuar</g></a>, <a href="?gd=geal"><g>geal</g></a>, <a
+                            href="?gd=glas"><g>glas</g></a>, <a href="?gd=luath"><g>luath</g></a>,
+                            <a href="?gd=math"><g>math</g></a>, <a href="?gd=moor"><g>mór</g></a>,
+                            <a href="?gd=salach"><g>salach</g></a>, <a href="?gd=sgiith"
+                                ><g>sgìth</g></a>, <a href="?gd=teth"><g>teth</g></a>, <a
+                            href="?gd=trang"><g>trang</g></a></li>
                     <li>intensifiers – <a href="?gd=glee"><g>glé</g></a></li>
                     <li>pseudo-adjectives – <a href="?gd=dearbh"><g>dearbh</g></a></li>
                 </ul>
@@ -146,7 +147,9 @@
                                                   href="?gd=peann"><g>peann</g></a></li>
                                         </ul>
                                     </li>
-                                <li>other – <a href="?gd=achadh"><g>achadh</g></a>, <a href="?gd=cladach"><g>cladach</g></a></li>
+                                    <li>other – <a href="?gd=achadh"><g>achadh</g></a>, <a
+                                            href="?gd=cladach"><g>cladach</g></a>, <a
+                                            href="?gd=monadh"><g>monadh</g></a>,</li>
                                 </ul>
                             </li>
                             <li>substances – <a href="?gd=falt"><g>falt</g></a>, <a href="?gd=gual"

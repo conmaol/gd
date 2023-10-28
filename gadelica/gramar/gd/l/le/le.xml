@@ -131,17 +131,47 @@
         </section>
     </section>
 -->
-    
+
     <section>
-        <h>uses</h>
-        <section>
-            <h>predicate</h>
-            <p>cf. <a href="?gd=tapadh"><g>Tapadh leibh!</g></a> <en>Thank you!</en></p>
+        <h>dependents</h>
+        <section id="deps-comp">
+            <h>complement</h>
+            <p>Like all (true) prepositions, <g>le</g> governs a noun complement in the dative
+                case.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Tha an duine anns a’ mhonadh <m>leis a’ chù</m>.</gd>
+                        <tr>The man is on the moor with the dog.</tr>
+                        <ref text="617">td. 19</ref>
+                    </li>
+                </xl>
+            </p>
         </section>
     </section>
-    
-    
-   <!-- <section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-pred">
+            <h>predicate</h>
+            <p>cf. <a href="?gd=tapadh"><g>Tapadh leibh!</g></a>
+                <en>Thank you!</en></p>
+        </section>
+        <section id="uses-mod">
+            <h>modifier</h>
+            <p><g>le</g> can be used to introduce a comitative modifier of a verb (or verbal noun).</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Tha an duine anns a’ mhonadh <m>leis</m> a’ chù.</gd>
+                        <tr>The man is on the moor with the dog.</tr>
+                        <ref text="617">td. 19</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+    <!-- <section>
         <h>uses</h>
         <section id="uses-comp">
             <h>complement</h>

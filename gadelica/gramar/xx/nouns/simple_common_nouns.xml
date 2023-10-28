@@ -43,8 +43,12 @@
         <fem/>
         <en>basket</en></li>
         -->
-      <li><a href="?gd=baata"><g>bàta</g></a> <masc/> <en>boat</en> <pl/> <g>bàtaichean</g></li>
-    <!--
+      <li><a href="?gd=baata"><g>bàta</g></a>
+        <masc/>
+        <en>boat</en>
+        <pl/>
+        <g>bàtaichean</g></li>
+      <!--
       <li><a href="?gd=beachd"><g>beachd</g></a>
         <masc/>
         <en>opinion, idea, view</en></li>
@@ -98,10 +102,10 @@
       <li><m>ceum</m> masc. <en>step</en> gen. <b>ceuma</b> (†<b>cèim</b>), pl. <b>ceuman</b>,
           <b>ceumannan</b></li>
           -->
-       <li><a href="?gd=cladach"><g>cladach</g></a>
+      <li><a href="?gd=cladach"><g>cladach</g></a>
         <masc/>
         <en>shore</en></li>
-          <!--
+      <!--
       <li><a href="?gd=cladh"><g>cladh</g></a>
         <masc/>
         <en>graveyard</en></li>
@@ -145,8 +149,10 @@
       <!--
       <li><m>dùn</m> masc. <en>fort</en></li>
       -->
-      <li><a href="?gd=each"><g>each</g></a> <masc/> <en>horse</en></li>
-    <!--
+      <li><a href="?gd=each"><g>each</g></a>
+        <masc/>
+        <en>horse</en></li>
+      <!--
       <li><a href="?gd=eachdraidh"><g>eachdraidh</g></a>
         <fem/>
         <en>history</en></li>
@@ -165,8 +171,12 @@
         <g>fuilt</g>
         <pl/>
         <g>fuiltean</g></li>
-      <li><a href="?gd=fear"><g>fear</g></a> <masc/> <en>man</en> <slen/> <g>fir</g></li>
-      
+      <li><a href="?gd=fear"><g>fear</g></a>
+        <masc/>
+        <en>man</en>
+        <slen/>
+        <g>fir</g></li>
+
       <!--
       <li><m>fiadh</m> masc. <en>deer</en></li>
       <li><m>fios</m> masc. <en>knowledge</en> gen. <b>fiosa</b> pl. <b>fiosan</b></li>
@@ -209,9 +219,9 @@
         <en>lake</en> pl. <g>lochan</g> gen. <g>locha</g></li>
       <li><m>mac</m> masc. <en>son</en> gen. <b>mic</b> pl. <b>mic</b></li>
       -->
-    <li><a href="?gd=maide"><g>maide</g></a>
-      <masc/>
-      <en>stick</en></li>
+      <li><a href="?gd=maide"><g>maide</g></a>
+        <masc/>
+        <en>stick</en></li>
       <!--
       <li><a href="?gd=manach"><g>manach</g></a>
         <masc/>
@@ -224,6 +234,11 @@
         <fem/>
         <en>mother</en> gen. <g>màthar</g> pl. <g>màthraichean</g></li>
       -->
+      <li><a href="?gd=monadh"><g>monadh</g></a>
+        <masc/>
+        <en>moor</en>
+        <pl/>
+        <g>monaidhean</g></li>
       <li><a href="?gd=obair"><g>obair</g></a>
         <fem/>
         <en>work</en>

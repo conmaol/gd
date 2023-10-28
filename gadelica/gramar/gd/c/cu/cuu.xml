@@ -137,6 +137,11 @@
                         <tr>The dog is at the door.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
+                    <li>
+                        <gd>Tha an duine anns a’ mhonadh leis <m>a’ chù</m>.</gd>
+                        <tr>The man is on the moor with the dog.</tr>
+                        <ref text="617">td. 19</ref>
+                    </li>
                 </xl>
             </p>
         </section>
@@ -210,16 +215,20 @@
                 </xl>
             </p>
         </section>
-        <!--<section id="uses-comp">
+        <section id="uses-comp">
             <h>complement</h>
             <p>Like other nouns, <g>cù</g> can be used as the complement of a <a
-                href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> achadh</g>
-                <en>in a field</en> – <xl>
-                    
+                    href="?xx=prepositions/prepositions">preposition</a>.</p>
+            <p>Examples with <g><a href="?gd=le">le</a> cù</g>
+                <en>with a dog</en> – <xl>
+                    <li>
+                        <gd>Tha an duine anns a’ mhonadh <m>leis a’ chù</m>.</gd>
+                        <tr>The man is on the moor with the dog.</tr>
+                        <ref text="617">td. 19</ref>
+                    </li>
                 </xl>
             </p>
-        </section>-->
+        </section>
 
     </section>
 
