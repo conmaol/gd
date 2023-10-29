@@ -29,10 +29,10 @@
         <masc/>
         <en>father</en> gen. <g>athar</g> pl. <g>athraichean</g></li>
       <li><m>baga</m> masc. <en>bag</en> pl. <b>bagaichean</b></li>
+      -->
       <li><a href="?gd=baile"><g>baile</g></a>
         <masc/>
-        <en>town</en> pl. <g>bailtean</g></li>
-        -->
+        <en>town</en> <pl/> <g>bailtean</g></li>
       <li><a href="?gd=balach"><g>balach</g></a>
         <masc/>
         <en>boy</en></li>
@@ -110,8 +110,8 @@
         <masc/>
         <en>graveyard</en></li>
       <li><m>cnoc</m> masc. <en>hill</en> gen. <b>cnuic</b> pl. <b>cnuic</b></li>
-      <li><m>coire</m> masc. <en>kettle</en> pl. <b>coirean</b></li>
       -->
+      <li><a href="?gd=coire"><g>coire</g></a> <masc/> <en>kettle</en></li>
       <li><a href="?gd=coota"><g>còta</g></a>
         <masc/>
         <en>coat</en></li>

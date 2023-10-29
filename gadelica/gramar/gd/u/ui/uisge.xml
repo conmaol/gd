@@ -109,18 +109,18 @@
 
     <section>
         <h>dependents</h>
-        <!--<section id="deps-bare">
+        <section id="deps-bare">
             <h>bare</h>
-            <p>Like other nouns, <g>còta</g> can occur on its own, without any dependents.</p>
+            <p>Like other nouns, <g>uisge</g> can occur on its own, without any dependents.</p>
             <p>Some examples – <xl>
-                <li>
-                    <gd>A bheil <m>còta</m> air an duine?</gd>
-                    <tr>Does the man have a coat on?</tr>
-                    <ref text="617">td. 14</ref>
-                </li>
-            </xl>
+                    <li>
+                        <gd>A bheil <m>uisge</m> anns a’ choire? Tha.</gd>
+                        <tr>Is there water in the kettle? Yes, there is.</tr>
+                        <ref text="617">td. 120</ref>
+                    </li>
+                </xl>
             </p>
-        </section>-->
+        </section>
         <section id="deps-spr">
             <h>specifier</h>
             <p>Like other common nouns, <g>uisge</g> can occur with a <a
@@ -168,9 +168,14 @@
                         <ref text="617">td. 14</ref>
                     </li>
                     <li>
-                        <gd>Chan eil uisge <m>ann</m>.</gd>
+                        <gd>Chan eil <m>uisge</m> ann.</gd>
                         <tr>It is not raining.</tr>
                         <ref text="617">td. [228]</ref>
+                    </li>
+                    <li>
+                        <gd>A bheil <m>uisge</m> anns a’ choire? Tha.</gd>
+                        <tr>Is there water in the kettle? Yes, there is.</tr>
+                        <ref text="617">td. 120</ref>
                     </li>
                 </xl>
             </p>

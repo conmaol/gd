@@ -230,22 +230,81 @@
                 <h>ech</h>
                 <p><g>ech</g>
                     <en>horse</en> is a masculine o-stem noun.</p>
-                <p>Declension (Stifter: 43) – <ul>
-                        <li>singular – N: <m>ech</m>, A: <m>ech (n-)</m>, G: <m>eich (-h-)</m>, D:
-                                <m>euch (-h-)</m></li>
-                        <li>plural – N: <m>eich (-h-)</m>, A: <m>e(u)chu (h-)</m>, G: <m>ech
-                                (n-)</m>, D: <m>echaiḃ</m></li>
-                        <li>dual – NAG: <m>dá ech (-h-)</m>, D: <m>diḃ n-echaiḃ</m></li>
-                    </ul>
-                </p>
-                <p>With definite article – <ul>
-                        <li>singular – N: <m>int ech</m>, A: <m>in n-ech (n-)</m>, G: <m>ind eich
-                                (-h-)</m>, D: <m>-(si)nd euch (-h-)</m></li>
-                        <li>plural – N: <m>ind eich (-h-)</m>, A: <m>inna h-e(u)chu (h-)</m>, G:
-                                <m>inna n-ech (n-)</m>, D: <m>-(s)naiḃ echaiḃ</m></li>
-                        <li>dual – NAG: <m>in dá ech (-h-)</m>, D: <m>-(s)naiḃ diḃ n-echaiḃ</m></li>
-                    </ul>
-                </p>
+                <section id="sga-ech-forms">
+                    <h>forms</h>
+                    <!--Stifter (2006): 43-->
+                    <p>
+                        <ul>
+                            <li>indefinite <ul>
+                                    <li>singular <ul>
+                                            <li>nominative – <m>ech</m></li>
+                                            <li>accusative – <m>ech</m> (n-)</li>
+                                            <li>genitive – <m>eich</m> (-h-)</li>
+                                            <li>dative – <m>euch</m> (-h-)</li>
+                                        </ul>
+                                    </li>
+                                    <li>dual <ul>
+                                            <li>nominative/accusative/genitive – <m>dá ech</m>
+                                                (-h-)</li>
+                                            <li>dative – <m>diḃ n-echaiḃ</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>plural – <ul>
+                                            <li>nominative – <m>eich</m> (-h-)</li>
+                                            <li>accusative – <m>e(u)chu</m> (h-)</li>
+                                            <li>genitive – <m>ech</m> (n-)</li>
+                                            <li>dative – <m>echaiḃ</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>definite <ul>
+                                    <li>singular <ul>
+                                            <li>nominative – <m>int ech</m></li>
+                                            <li>accusative – <m>in n-ech</m> (n-)</li>
+                                            <li>genitive – <m>ind eich</m> (-h-)</li>
+                                            <li>dative – <m>-(si)nd euch</m> (-h-)</li>
+                                        </ul>
+                                    </li>
+                                    <li>dual <ul>
+                                            <li>nominative/accusative/genitive – <m>in dá ech</m>
+                                                (-h-)</li>
+                                            <li>dative – <m>-(s)naiḃ diḃ n-echaiḃ</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>plural – <ul>
+                                            <li>nominative – <m>ind eich</m> (-h-)</li>
+                                            <li>accusative – <m>inna h-e(u)chu</m> (h-)</li>
+                                            <li>genitive – <m>inna n-ech</m> (n-)</li>
+                                            <li>dative – <m>-(s)naiḃ echaiḃ</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </p>
+                </section>
+                <section id="sga-ech-xs">
+                    <h>examples</h>
+                    <p>Pedagogical examples – <xl>
+                            <li>
+                                <gd>Caraiḋ in macc oac̣ <m>echu díanu</m>.</gd>
+                                <tr>The young boy loves swift horses.</tr>
+                                <ref text="stifter">td. 58</ref>
+                            </li>
+                        <li>
+                            <gd>Gerrmai fér nglas <m>donaiḃ echaiḃ díanaiḃ</m>.</gd>
+                            <tr>We cut green grass for the swift horses.</tr>
+                            <ref text="stifter">td. 58</ref>
+                        </li>
+                        <li>
+                            <gd>In·ṭechtai <m>ech mór</m>, á ṁaicc ḃic̣c̣?</gd>
+                            <tr>Dost thou possess a swift horse, small boy?</tr>
+                            <ref text="stifter">td. 58</ref>
+                        </li>
+                    </xl>
+                    </p>
+                </section>
             </module>
         </section>
     </section>

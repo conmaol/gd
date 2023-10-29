@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>coire</h>
+    <p><g>coire</g>
+        <en>kettle</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>coire</g> are – <ul>
+                <li><m>coire</m> – nominative/dative/genitive singular</li>
+                <li><m>coireachan</m> – nominative/dative/genitive plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>coire</m></li>
+                                    <li>dative – ann an <m>coire</m></li>
+                                    <li>genitive – taobh <m>coire</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>coireachan</m></li>
+                                    <li>dative – ann an <m>coireachan</m></li>
+                                    <li>genitive – taobhan <m>choireachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an coire</m></li>
+                                    <li>dative – anns <m>a’ choire</m></li>
+                                    <li>genitive – taobh <m>a’ choire</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na coireachan</m></li>
+                                    <li>dative – anns <m>na coireachan</m></li>
+                                    <li>genitive – taobhan <m>nan coireachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>coire</m></li>
+                                    <li>dative – ann an <m>coire</m></li>
+                                    <li>genitive – taobh <m>coire</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an coire</m></li>
+                                    <li>dative – anns <m>a’ choire</m></li>
+                                    <li>genitive – taobh <m>a’ choire</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>coireachan</m></li>
+                                    <li>dative – ann an <m>coireachan</m></li>
+                                    <li>genitive – taobhan <m>choireachan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na coireachan</m></li>
+                                    <li>dative – anns <m>na coireachan</m></li>
+                                    <li>genitive – taobhan <m>nan coireachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>coire</m></li>
+                                    <li>plural – <m>coireachan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an coire</m></li>
+                                    <li>plural – <m>na coireachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – ann an <m>coire</m></li>
+                                    <li>plural – ann an <m>coireachan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – anns <m>a’ choire</m></li>
+                                    <li>plural – anns <m>na coireachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – taobh <m>coire</m></li>
+                                    <li>plural – taobhan <m>choireachan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – taobh <m>a’ choire</m></li>
+                                    <li>plural – taobhan <m>nan coireachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+    
+    <section>
+        <h>dependents</h>
+        <!--<section id="deps-bare">
+            <h>bare</h>
+            <p>Like other nouns, <g>cù</g> can occur on its own, without any dependents.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        <section id="deps-spr">
+            <h>specifier</h>
+            <p>Like other common nouns, <g>coire</g> can occur with a <a href="?xx=nouns/determiners"
+                >determiner</a> as pre-specifier.</p>
+            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+                <li>
+                    <gd>A bheil uisge anns <m>a’ choire</m>? Tha.</gd>
+                    <tr>Is there water in the kettle? Yes, there is.</tr>
+                    <ref text="617">td. 120</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+        <!--<section id="deps-mods">
+            <h>modifiers</h>
+            <p>Like other nouns, <g>cù</g> can occur with an (attributive) <a
+                href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
+            <p>Some examples – <xl>
+               
+            </xl>
+            </p>
+        </section>-->
+    </section>
+    
+    <section>
+        <h>uses</h>
+        <section id="uses-sbj">
+            <h>subject</h>
+            <p>Like other nouns, <g>cù</g> can be used as the subject of a <a href="?xx=verbs/verbs"
+                >verb</a>.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
+                <li>
+                    <gd>Càit a bheil <m>an coire</m>? Tha <m>an coire</m> air a’ ghas.</gd>
+                    <tr>Where is the kettle? The kettle is on the gas.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+            </p>
+            <!--<p>Examples with demonstrative pronouns used as copular verbs – <xl>
+                
+            </xl>
+            </p>-->
+        </section>
+        <!--<section id="uses-obj">
+            <h>object</h>
+            <p>Like other nouns, <g>cù</g> can be used as the object of a transitive verb.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        <section id="uses-comp">
+            <h>complement</h>
+            <p>Like other nouns, <g>coire</g> can be used as the complement of a <a
+                href="?xx=prepositions/prepositions">preposition</a>.</p>
+            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> coire</g>
+                <en>in a kettle</en> – <xl>
+                    <li>
+                        <gd>A bheil uisge <m>anns a’ choire</m>? Tha.</gd>
+                        <tr>Is there water in the kettle? Yes, there is.</tr>
+                        <ref text="617">td. 120</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        
+    </section>
+    
+
+</module>
