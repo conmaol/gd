@@ -576,6 +576,11 @@
                   <tr>Was the girl playing on the floor?</tr>
                   <ref text="617">td. 15 [adapted]</ref>
                 </li>
+                <li>
+                  <gd>An robh Calum <m>ag iasgach</m> air an loch an dé? Bha.</gd>
+                  <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
+                  <ref text="617">td. 20</ref>
+                </li>
               </xl></p>
 
             <!--<p>Older pedagogical examples – <xl id="prog-older-pedag">
@@ -906,6 +911,11 @@
                 <tr>Were you in the field today? No, we weren’t.</tr>
                 <ref text="617">td. 16</ref>
               </li>
+              <li>
+                <gd><m>An robh</m> Calum ag iasgach air an loch an dé? Bha.</gd>
+                <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
+                <ref text="617">td. 20</ref>
+              </li>
             </xl>
           </p>
           <module id="caait_an_robh">
@@ -991,6 +1001,11 @@
               <tr>Who is playing on the floor? A’ chaileag.</tr>
               <ref text="617">td. 15</ref>
             </li>
+          <li>
+            <gd><m>Có bha</m> ag iasgach air an loch? Bha Calum.</gd>
+            <tr>Who was fishing on the lake? Calum was.</tr>
+            <ref text="617">td. 20</ref>
+          </li>
           </xl>
         </p>
       </module>

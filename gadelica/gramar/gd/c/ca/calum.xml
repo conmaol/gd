@@ -19,7 +19,8 @@
         <h>dependents</h>
         <section id="deps-bare">
             <h>bare</h>
-            <p>Like other (proper) nouns, <g>Calum</g> can occur on its own, without any dependents.</p>
+            <p>Like other (proper) nouns, <g>Calum</g> can occur on its own, without any
+                dependents.</p>
             <p>Some examples – <xl>
                     <li>
                         <gd>Tha <m>Calum</m> ag obair.</gd>
@@ -67,9 +68,15 @@
                         <tr>Isn’t Malcolm in the field?</tr>
                         <ref text="617">td. 11</ref>
                     </li>
+                    <li>
+                        <gd>Có bha ag iasgach air an loch? Bha <m>Calum</m>.</gd>
+                        <tr>Who was fishing on the lake? Calum was.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
                 </xl>
             </p>
-            <p>Examples with <a href="?xx=nouns/demonstrative_pronouns">demonstrative pronouns</a> used as copular verbs – <xl>
+            <p>Examples with <a href="?xx=nouns/demonstrative_pronouns">demonstrative pronouns</a>
+                used as copular verbs – <xl>
                     <li>
                         <gd>Seo <m>Calum</m>.</gd>
                         <tr>This is Malcolm.</tr>

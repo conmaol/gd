@@ -214,9 +214,11 @@
       <li><a href="?gd=litir"><g>litir</g></a>
         <fem/>
         <en>letter</en> pl. <b>litrichean</b></li>
+        -->
       <li><a href="?gd=loch"><g>loch</g></a>
         <masc/>
-        <en>lake</en> pl. <g>lochan</g> gen. <g>locha</g></li>
+        <en>lake</en> <pl/> <g>lochan</g> <gen/> <g>locha</g></li>
+    <!--
       <li><m>mac</m> masc. <en>son</en> gen. <b>mic</b> pl. <b>mic</b></li>
       -->
       <li><a href="?gd=maide"><g>maide</g></a>

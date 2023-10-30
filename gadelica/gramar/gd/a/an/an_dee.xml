@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>an dé</h>
+    <p><g>an dé</g>
+        <en>yesterday</en> is an <a href="?xx=prepositions/adverbs">adverb</a>.</p>
+    
+    <section id="forms">
+        <h>forms</h>
+        <p>Note that <g>an dé</g> is usually spelled with a hyphen and a grave accent, as <g>an-dè</g>, in
+            post-1970s writing.</p>
+    </section>
+    
+    <section>
+        <h>uses</h>
+        <section id="uses-mod">
+            <h>modifier</h>
+            <p>Examples modifying <a href="?gd=bi"><g>bi</g></a> – <ul>
+                <li>past tense – <xl>
+                    <li>
+                        <gd>An robh Calum ag iasgach air an loch <m>an dé</m>? Bha.</gd>
+                        <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+                </li>
+            </ul>
+            </p>
+            <!--<p>Examples modifying other verbs – <xl>
+                
+            </xl>
+            </p>-->
+        </section>
+    </section>
+    
+    
+    
+    
+    
+    
+    
+    
+</module>
+
+

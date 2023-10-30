@@ -3,7 +3,7 @@
     <h>có</h>
     <p><g>có</g>
         <en>who, what</en> is a question word (interrogative pronoun).</p>
-    
+
     <p>
         <xl>
             <li>
@@ -11,29 +11,32 @@
                 <tr>Who is playing on the floor? The girl.</tr>
                 <ref text="617">td. 15</ref>
             </li>
+            <li>
+                <gd><m>Có</m> bha ag iasgach air an loch? Bha Calum.</gd>
+                <tr>Who was fishing on the lake? Calum was.</tr>
+                <ref text="617">td. 20</ref>
+            </li>
         </xl>
     </p>
-    
-    
+
+
     <p>Examples from Gairm – <xl id="gairm">
-        <li>
-            <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no
-                do fhoghlum agus do litreachas na Gàidhlig. [...] Dé na rudan a dh’ fhaodadh
-                sinn iarraidh? [...] Chan eil an sin ach rud no dhà a dh’ fhaodamaid
-                iarraidh. Tha Comunn nan Croitearan air nì de ’n t-seòrsa so iarraidh mar tha,
-                air a’ Bh.B.C. Thug sin togail inntinn dhuinn. <m>Có a nis a chuireas fead chruaidh
-                ann an cluais Luchd an Ionmhais ann a Westminster?</m></gd>
-            <tr>[...] The Parliament has given very little assistance ever to the Gaelic
-                language or to Gaelic education and literature. [...] What are the things that
-                we could demand? [...] Those are just a couple of things that we could
-                demand. The Crofters’ Society has demanded something of this kind already, on
-                the BBC. That has given us inspiration. Who now will put a hard whistle [?] in
-                the ear of the Finance People in Westminster?</tr>
-            <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
-        </li>
-    </xl>
+            <li>
+                <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no
+                    do fhoghlum agus do litreachas na Gàidhlig. [...] Dé na rudan a dh’ fhaodadh
+                    sinn iarraidh? [...] Chan eil an sin ach rud no dhà a dh’ fhaodamaid iarraidh.
+                    Tha Comunn nan Croitearan air nì de ’n t-seòrsa so iarraidh mar tha, air a’
+                    Bh.B.C. Thug sin togail inntinn dhuinn. <m>Có a nis a chuireas fead chruaidh ann
+                        an cluais Luchd an Ionmhais ann a Westminster?</m></gd>
+                <tr>[...] The Parliament has given very little assistance ever to the Gaelic
+                    language or to Gaelic education and literature. [...] What are the things that
+                    we could demand? [...] Those are just a couple of things that we could demand.
+                    The Crofters’ Society has demanded something of this kind already, on the BBC.
+                    That has given us inspiration. Who now will put a hard whistle [?] in the ear of
+                    the Finance People in Westminster?</tr>
+                <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+            </li>
+        </xl>
     </p>
     <p>cf. relative particle <a href="?gd=a^relative">a</a>.</p>
 </module>
-
-

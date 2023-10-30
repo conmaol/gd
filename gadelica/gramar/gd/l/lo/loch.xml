@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>loch</h>
+    <p><g>loch</g>
+        <en>lake</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>loch</g> are – <ul>
+                <li><m>loch</m> – nominative/dative singular</li>
+                <li><m>locha</m> – genitive singular</li>
+                <li><m>lochan</m> – nominative/dative/genitive plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>loch</m></li>
+                                    <li>dative – ann an <m>loch</m></li>
+                                    <li>genitive – ceann <m>locha</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>lochan</m></li>
+                                    <li>dative – ann an <m>lochan</m></li>
+                                    <li>genitive – cinn <m>lochan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an loch</m></li>
+                                    <li>dative – anns <m>an loch</m></li>
+                                    <li>genitive – ceann <m>an locha</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na lochan</m></li>
+                                    <li>dative – anns <m>na lochan</m></li>
+                                    <li>genitive – cinn <m>nan lochan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>loch</m></li>
+                                    <li>dative – ann an <m>loch</m></li>
+                                    <li>genitive – ceann <m>locha</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an loch</m></li>
+                                    <li>dative – anns <m>an loch</m></li>
+                                    <li>genitive – ceann <m>an locha</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>lochan</m></li>
+                                    <li>dative – ann an <m>lochan</m></li>
+                                    <li>genitive – cinn <m>lochan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na lochan</m></li>
+                                    <li>dative – anns <m>na lochan</m></li>
+                                    <li>genitive – cinn <m>nan lochan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>loch</m></li>
+                                    <li>plural – <m>lochan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an loch</m></li>
+                                    <li>plural – <m>na lochan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – ann an <m>loch</m></li>
+                                    <li>plural – ann an <m>lochan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – anns <m>an loch</m></li>
+                                    <li>plural – anns <m>na lochan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – ceann <m>locha</m></li>
+                                    <li>plural – cinn <m>lochan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – ceann <m>an locha</m></li>
+                                    <li>plural – cinn <m>nan lochan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <!--<section id="deps-bare">
+            <h>bare</h>
+            <p>Like other nouns, <g>còta</g> can occur on its own, without any dependents.</p>
+            <p>Some examples – <xl>
+                <li>
+                    <gd>A bheil <m>còta</m> air an duine?</gd>
+                    <tr>Does the man have a coat on?</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+            </xl>
+            </p>
+        </section>-->
+        <section id="deps-spr">
+            <h>specifier</h>
+            <p>Like other common nouns, <g>loch</g> can occur with a <a href="?xx=nouns/determiners"
+                    >determiner</a> as pre-specifier.</p>
+            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+                    <li>
+                        <gd>An robh Calum ag iasgach air <m>an loch</m> an dé? Bha.</gd>
+                        <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <!--<section id="deps-mods">
+            <h>modifiers</h>
+            <p>Like other nouns, <g>latha</g> can occur with an (attributive) <a
+                href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
+            <p>Some examples – <xl>
+                <li>
+                    <gd>Tha <m>latha math</m> ann an diugh.</gd>
+                    <tr>It’s a good day today.</tr>
+                    <ref text="617">td. 12</ref>
+                </li>
+                <li>
+                    <gd>Tha <m>latha brèagha blàth</m> ann.</gd>
+                    <tr>It is a beautiful warm day.</tr>
+                    <ref text="617">td. 14 [228] [adapted spelling]</ref>
+                </li>
+            </xl>
+            </p>
+        </section>-->
+    </section>
+
+    <section>
+        <h>uses</h>
+        <!--<section id="uses-sbj">
+            <h>subject</h>
+            <p>Like other nouns, <g>latha</g> can be used as the subject of a <a
+                href="?xx=verbs/verbs">verb</a>.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        <!--<section id="uses-obj">
+            <h>object</h>
+            <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        <section id="uses-comp">
+            <h>complement</h>
+            <p>Like other nouns, <g>loch</g> can be used as the complement of a <a
+                    href="?xx=prepositions/prepositions">preposition</a>.</p>
+            <p>Examples with <g><a href="?gd=air">air</a> loch</g>
+                <en>on a lake</en> – <xl>
+                    <li>
+                        <gd>Có bha ag iasgach <m>air an loch</m>? Bha Calum.</gd>
+                        <tr>Who was fishing on the lake? Calum was.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+
+
+    <!-- <section>
+        <h>dependents</h>
+        <section id="spec">
+            <h>specifier</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="spec-older-pedag">
+                            <li>
+                                <gd>Bha an loch brèagha blàth is thug an athair leis Iain agus Anna
+                                    anns a’ chàr. Chaidh iad sìos taobh <m>an locha</m> is stad iad
+                                    aig àite bòidheach gorm. Chuir iad an càr a stigh gu taobh an
+                                    rathaid is thug iad brat a mach as a’ chàr air son suidhe air.
+                                    [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. They put the car into the side of
+                                    the road and they took a blanket out of the car for sitting on.
+                                    [...]</tr>
+                                <ref text="621">td. 6–7</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>-->
+
+    <!--<section>
+        <h>uses</h>
+        <section id="uses-spec">
+            <h>specifier</h>
+            <p>Some examples – <ul>
+                    <li>older pedagogical examples – <xl id="uses-spec-older-pedag">
+                            <li>
+                                <gd>Bha an loch brèagha blàth is thug an athair leis Iain agus Anna
+                                    anns a’ chàr. Chaidh iad sìos <m>taobh an locha</m> is stad iad
+                                    aig àite bòidheach gorm. Chuir iad an càr a stigh gu <m>taobh an
+                                        rathaid</m> is thug iad brat a mach as a’ chàr air son
+                                    suidhe air. [...]</gd>
+                                <tr>The day was lovely and warm and their father took John and Ann
+                                    in the car. They went down the side of the lake and they stopped
+                                    at a beautiful green place. They put the car into the side of
+                                    the road and they took a blanket out of the car for sitting on.
+                                    [...]</tr>
+                                <ref text="621">td. 6–7</ref>
+                                <note><a href="?gd=taobh">taobh</a>
+                                    <masc/>
+                                    <en>side</en></note>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>-->
+
+</module>
