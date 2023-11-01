@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>fuirich</h>
+    <p><g>fuirich</g>
+        <en>wait, stay, live</en> is a <a href="?xx=verbs/simple_verbs">simple verb</a>.</p>
+
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>fuirich</g> are – <ul>
+            <li><m>fuirichidh</m> – future independent – <en>will stay</en></li>
+            <li><m>dh’fhuirich</m> – past independent – <en>stayed</en></li>
+            <li><m>fuireachd</m>
+                <fem/> – verbal noun – <en>staying</en></li>
+        </ul>
+        </p>
+        <section id="forms-tense">
+            <h>tense</h>
+            <p><ul>
+                <li>past <ul id="past">
+                    <li>active <ul>
+                        <li>independent – <m>dh’fhuirich</m></li>
+                        <li>relative – a <m>dh’fhuirich</m></li>
+                        <li>dependent – cha/an/nach <m>do dh’fhuirich</m></li>
+                    </ul>
+                    </li>
+                    <li>passive <ul>
+                        <li>independent – <m>dh’fhuiricheadh</m></li>
+                        <li>relative – a <m>dh’fhuiricheadh</m></li>
+                        <li>dependent – cha/an/nach <m>do dh’fhuiricheadh</m></li>
+                    </ul>
+                    </li>
+                </ul>
+                </li>
+                <li>future <ul id="future">
+                    <li>active <ul>
+                        <li>independent – <m>fuirichidh</m></li>
+                        <li>relative – a <m>dh’fuiricheas</m></li>
+                        <li>dependent – chan/nach <m>fhuirich</m>, am <m>fuirich</m></li>
+                    </ul>
+                    </li>
+                    <li>passive <ul>
+                        <li>independent – <m>fuirichear</m></li>
+                        <li>relative – a <m>dh’fhuirichear</m></li>
+                        <li>dependent – chan/nach <m>fhuirichear</m>, am <m>fuirichear</m></li>
+                    </ul>
+                    </li>
+                </ul>
+                </li>
+                <li>conditional <ul id="conditional">
+                    <li>active <ul>
+                        <li>first person singular <ul>
+                            <li>independent – <m>dh’fhuirichinn</m></li>
+                            <li>relative – a <m>dh’fhuirichinn</m></li>
+                            <li>dependent – chan/nach <m>fhuirichinn</m>, am <m>fuirichinn</m></li>
+                        </ul>
+                        </li>
+                        <li>first person plural <ul>
+                            <li>independent – <m>dh’fhuiricheamaid</m></li>
+                            <li>relative – a <m>dh’fhuiricheamaid</m></li>
+                            <li>dependent – chan/nach <m>fhuiricheamaid</m>, am <m>fuiricheamaid</m></li>
+                        </ul>
+                        </li>
+                        <li>second/third persons <ul>
+                            <li>independent – <m>dh’fhuiricheadh</m></li>
+                            <li>relative – a <m>dh’fhuiricheadh</m></li>
+                            <li>dependent – chan/nach <m>fhuiricheadh</m>, am <m>fuiricheadh</m></li>
+                        </ul>
+                        </li>
+                    </ul>
+                    </li>
+                    <li>passive <ul>
+                        <li>independent – <m>dh’fhuirichte</m></li>
+                        <li>relative – a <m>dh’fhuirichte</m></li>
+                        <li>dependent – chan/nach <m>fhuirichte</m>, am <m>fuirichte</m></li>
+                    </ul>
+                    </li>
+                </ul>
+                </li>
+            </ul></p>
+        </section>
+        <section id="forms-status">
+            <h>status</h>
+            <p><ul>
+                <li>independent <ul id="independent">
+                    <li>past <ul>
+                        <li>active – <m>dh’fhuirich</m></li>
+                        <li>passive – <m>dh’fhuiricheadh</m></li>
+                    </ul>
+                    </li>
+                    <li>future <ul>
+                        <li>active – <m>fuirichidh</m></li>
+                        <li>passive – <m>fuirichear</m></li>
+                    </ul>
+                    </li>
+                    <li>conditional <ul>
+                        <li>active <ul>
+                            <li>first person singular – <m>dh’fhuirichinn</m></li>
+                            <li>first person plural – <m>dh’fhuiricheamaid</m></li>
+                            <li>second/third persons – <m>dh’fhuiricheadh</m></li>
+                        </ul>
+                        </li>
+                        <li>passive – <m>dh’fhuirichte</m></li>
+                    </ul>
+                    </li>
+                </ul>
+                </li>
+                <li>relative <ul id="relative">
+                    <li>past <ul>
+                        <li>active – a <m>dh’fhuirich</m></li>
+                        <li>passive – a <m>dh’fhuiricheadh</m></li>
+                    </ul>
+                    </li>
+                    <li>future <ul>
+                        <li>active – a <m>dh’fhuiricheas</m></li>
+                        <li>passive – a <m>dh’fhuirichear</m></li>
+                    </ul>
+                    </li>
+                    <li>conditional <ul>
+                        <li>active <ul>
+                            <li>first person singular – a <m>dh’fhuirichinn</m></li>
+                            <li>first person plural – a <m>dh’fhuiricheamaid</m></li>
+                            <li>second/third persons – a <m>dh’fhuiricheadh</m></li>
+                        </ul>
+                        </li>
+                        <li>passive – a <m>dh’fhuirichte</m></li>
+                    </ul>
+                    </li>
+                </ul>
+                </li>
+                <li>dependent <ul id="dependent">
+                    <li>past <ul>
+                        <li>active – cha/an/nach <m>do dh’fhuirich</m></li>
+                        <li>passive – cha/an/nach <m>do dh’fhuiricheadh</m></li>
+                    </ul>
+                    </li>
+                    <li>future <ul>
+                        <li>active – chan/nach <m>fhuirich</m>, am <m>fuirich</m></li>
+                        <li>passive – chan/nach <m>fhuirichear</m>, am <m>fuirichear</m></li>
+                    </ul>
+                    </li>
+                    <li>conditional <ul>
+                        <li>active <ul>
+                            <li>first person singular – chan/nach <m>fhuirichinn</m>, am <m>fuirichinn</m></li>
+                            <li>first person plural – chan/nach <m>fhuiricheamaid</m>, am
+                                <m>fuiricheamaid</m></li>
+                            <li>second/third persons – chan/nach <m>fhuiricheadh</m>, am <m>fuiricheadh</m></li>
+                        </ul>
+                        </li>
+                        <li>passive – chan/nach <m>fhuirichte</m>, am <m>fuirichte</m></li>
+                    </ul>
+                    </li>
+                </ul>
+                </li>
+            </ul>
+            </p>
+        </section>
+        <section id="forms-voice">
+            <h>voice</h>
+            <p>
+                <ul>
+                    <li>active <ul id="active">
+                        <li>past <ul>
+                            <li>independent – <m>dh’fhuirich</m></li>
+                            <li>relative – a <m>dh’fhuirich</m></li>
+                            <li>dependent – cha/an/nach <m>do dh’fhuirich</m></li>
+                        </ul>
+                        </li>
+                        <li>future <ul>
+                            <li>independent – <m>fuirichidh</m></li>
+                            <li>relative – a <m>dh’fhuiricheas</m></li>
+                            <li>dependent – chan/nach <m>fhuirich</m>, am <m>fuirich</m></li>
+                        </ul>
+                        </li>
+                        <li>conditional <ul>
+                            <li>independent <ul>
+                                <li>first person singular – <m>dh’fhuirichinn</m></li>
+                                <li>first person plural – <m>dh’fhuiricheamaid</m></li>
+                                <li>second/third persons – <m>dh’fhuiricheadh</m></li>
+                            </ul>
+                            </li>
+                            <li>relative <ul>
+                                <li>first person singular – a <m>dh’fhuirichinn</m></li>
+                                <li>first person plural – a <m>dh’fhuiricheamaid</m></li>
+                                <li>second/third persons – a <m>dh’fhuiricheadh</m></li>
+                            </ul>
+                            </li>
+                            <li>dependent <ul>
+                                <li>first person singular – chan/nach <m>fhuirichinn</m>, am <m>fuirichinn</m></li>
+                                <li>first person plural – chan/nach <m>fhuiricheamaid</m>, am
+                                    <m>fuiricheamaid</m></li>
+                                <li>second/third persons – chan/nach <m>fhuiricheadh</m>, am <m>fuiricheadh</m></li>
+                            </ul>
+                            </li>
+                        </ul>
+                        </li>
+                    </ul>
+                    </li>
+                    <li>passive <ul id="passive">
+                        <li>past <ul>
+                            <li>independent – <m>dh’fhuiricheadh</m></li>
+                            <li>relative – a <m>dh’fhuiricheadh</m></li>
+                            <li>dependent – cha/an/nach <m>do dh’fhuiricheadh</m></li>
+                        </ul>
+                        </li>
+                        <li>future <ul>
+                            <li>independent – <m>fuirichear</m></li>
+                            <li>relative – a <m>dh’fhuirichear</m></li>
+                            <li>dependent – chan/nach <m>fhuirichear</m>, am <m>fuirichear</m></li>
+                        </ul>
+                        </li>
+                        <li>conditional <ul>
+                            <li>independent – <m>dh’fhuirichte</m></li>
+                            <li>relative – a <m>dh’fhuirichte</m></li>
+                            <li>dependent – chan/nach <m>fhuirichte</m>, am <m>fuirichte</m></li>
+                        </ul>
+                        </li>
+                    </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section id="forms-imperative">
+            <h>imperative</h>
+            <p>
+                <ul>
+                    <li>independent <ul id="forms-imp-indep">
+                        <li>first person singular – <m>fuiricheam</m>!</li>
+                        <li>second person singular – <m>fuirich</m>!</li>
+                        <li>first person plural – <m>fuiricheamaid</m>!</li>
+                        <li>second person plural – <m>fuirichibh</m>!</li>
+                        <li>third person – <m>fuiricheadh</m>!</li>
+                        <li>passive – <m>fuirich(t)ear</m>!</li>
+                    </ul>
+                    </li>
+                    <li>dependent <ul id="forms-imp-dep">
+                        <li>first person singular – na <m>fuiricheam</m>!</li>
+                        <li>second person singular – na <m>fuirich</m>!</li>
+                        <li>first person plural – na <m>fuiricheamaid</m>!</li>
+                        <li>second person plural – na <m>fuirichibh</m>!</li>
+                        <li>third person – na <m>fuiricheadh</m>!</li>
+                        <li>passive – na <m>fuirich(t)ear</m>!</li>
+                    </ul>
+                    </li>
+                </ul></p>
+        </section>
+    </section>
+
+<section>
+    <h>examples</h>
+    <p>
+        <xl>
+            <li>
+                <gd>Càit a bheil thu a’ <m>fuireach</m>? Tha mi a’ <m>fuireach</m> anns a’ chlachan.</gd>
+                <tr>Where do you live? I live in the village.</tr>
+                <ref text="617">td. 20</ref>
+            </li>
+        </xl>
+    </p>
+</section>
+    
+
+   <!-- <section>
+        <h>dependents</h>
+        <section>
+            <h>subject</h>
+            <p>Older pedagogical examples – <xl id="sbj-older-pedag">
+                    <li>
+                        <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                            Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an
+                            litir seo, Iain?” “Théid,” ars Iain, “falbhaidh mi an dràsda”.
+                                “<m>Fuirich</m> gus an dùin mi i is gus an cuir mi seòladh oirre.
+                            Ceannaich fhéin stamp agus cuir oirre i.” [...]</gd>
+                        <tr>My mother is writing a letter to my father who is away. My mother said,
+                            “Will you go to the postbox with this letter, John?” “Yes, I will,” said
+                            John, “I will leave now.” “Wait until I seal it and put an address on
+                            it. Buy a stamp and put it on it.”[...]</tr>
+                        <ref text="621">td. 5</ref>
+                        <note>imperative</note>
+                    </li>
+                </xl>
+            </p>
+        </section>
+
+        <section>
+            <h>complements</h>
+            <module>
+                <h>fuirich gus an</h>
+                <p>cf. <a href="?gd=gus"><g>gus</g></a> <en>until</en>.</p>
+                <p>Older pedagogical examples – <xl id="gus_an-older-pedag">
+                        <li>
+                            <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
+                                Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an
+                                litir seo, Iain?” “Théid,” ars Iain, “falbhaidh mi an dràsda”.
+                                    “<m>Fuirich gus an dùin mi i is gus an cuir mi seòladh
+                                oirre.</m> Ceannaich fhéin stamp agus cuir oirre i.” [...]</gd>
+                            <tr>My mother is writing a letter to my father who is away. My mother
+                                said, “Will you go to the postbox with this letter, John?” “Yes, I
+                                will,” said John, “I will leave now.” “Wait until I seal it and put
+                                an address on it. Buy a stamp and put it on it.”[...]</tr>
+                            <ref text="621">td. 5</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+
+    </section>-->
+
+
+
+   <!-- <section>
+        <h>uses</h>
+        <module>
+            <h>fuireachd</h>
+            <module>
+                <h>a’ fuireachd</h>
+                <p>Examples from Gairm – <xl id="prog-gairm">
+                        <li>
+                            <gd>Bha i ceud bliadhna a dh’ aois is esan dhà air fhichead. Cha robh e
+                                ach mìos no dhà a-mach ás an oilthigh. <m>Bha a nighean a’ fuireachd
+                                    còmhla rithe.</m> Bha ise ceithir fichead. Shaoil e gu robh a’
+                                chailleach ann an dòigh na bu shunndaiche na a nighean. [...]</gd>
+                            <tr>She was a hundred years old and him twenty two. He was just a month
+                                or two out of the university. Her daughter was living with her. She
+                                was eighty. He thought that the old woman was in a way livelier than
+                                her daughter. [...]</tr>
+                            <ref text="400-46">td. 169, le Iain Mac a’ Ghobhainn</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </module>
+    </section>-->
+</module>

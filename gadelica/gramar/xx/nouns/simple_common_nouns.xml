@@ -32,7 +32,9 @@
       -->
       <li><a href="?gd=baile"><g>baile</g></a>
         <masc/>
-        <en>town</en> <pl/> <g>bailtean</g></li>
+        <en>town</en>
+        <pl/>
+        <g>bailtean</g></li>
       <li><a href="?gd=balach"><g>balach</g></a>
         <masc/>
         <en>boy</en></li>
@@ -102,6 +104,9 @@
       <li><m>ceum</m> masc. <en>step</en> gen. <b>ceuma</b> (†<b>cèim</b>), pl. <b>ceuman</b>,
           <b>ceumannan</b></li>
           -->
+      <li><a href="?gd=clachan"><g>clachan</g></a>
+        <masc/>
+        <en>village</en></li>
       <li><a href="?gd=cladach"><g>cladach</g></a>
         <masc/>
         <en>shore</en></li>
@@ -111,7 +116,9 @@
         <en>graveyard</en></li>
       <li><m>cnoc</m> masc. <en>hill</en> gen. <b>cnuic</b> pl. <b>cnuic</b></li>
       -->
-      <li><a href="?gd=coire"><g>coire</g></a> <masc/> <en>kettle</en></li>
+      <li><a href="?gd=coire"><g>coire</g></a>
+        <masc/>
+        <en>kettle</en></li>
       <li><a href="?gd=coota"><g>còta</g></a>
         <masc/>
         <en>coat</en></li>
@@ -217,8 +224,12 @@
         -->
       <li><a href="?gd=loch"><g>loch</g></a>
         <masc/>
-        <en>lake</en> <pl/> <g>lochan</g> <gen/> <g>locha</g></li>
-    <!--
+        <en>lake</en>
+        <pl/>
+        <g>lochan</g>
+        <gen/>
+        <g>locha</g></li>
+      <!--
       <li><m>mac</m> masc. <en>son</en> gen. <b>mic</b> pl. <b>mic</b></li>
       -->
       <li><a href="?gd=maide"><g>maide</g></a>

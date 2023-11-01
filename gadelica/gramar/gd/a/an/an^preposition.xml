@@ -167,6 +167,11 @@
             <tr>Is there water in the kettle? Yes, there is.</tr>
             <ref text="617">td. 120</ref>
           </li>
+        <li>
+          <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach <m>anns a’ chlachan</m>.</gd>
+          <tr>Where do you live? I live in the village.</tr>
+          <ref text="617">td. 20</ref>
+        </li>
         </xl>
       </p>
 
@@ -355,6 +360,11 @@
             <tr>What is Janet doing in the house?</tr>
             <ref text="617">td. 14</ref>
           </li>
+        <li>
+          <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach <m>anns</m> a’ chlachan.</gd>
+          <tr>Where do you live? I live in the village.</tr>
+          <ref text="617">td. 20</ref>
+        </li>
         </xl>
       </p>
       <p>Some examples modifying <a href="?gd=bi"><g>bi</g></a>

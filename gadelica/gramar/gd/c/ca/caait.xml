@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
-    <h>càite</h>
+    <h>càit</h>
     <p><g>càit</g>
         <en>where</en> is a question word (interrogative adverb).</p>
 
@@ -48,11 +48,16 @@
                             <ref text="617">td. 15 [227–8]</ref>
                         </li>
                         <li>
-                            <gd><m>Càit</m> a bheil i a’ cluich? Tha i a’ cluich air an làr.</gd>
+                            <gd><m>Càit a bheil</m> i a’ cluich? Tha i a’ cluich air an làr.</gd>
                             <tr>Where is she playing? She is playing on the floor.</tr>
                             <ref text="617">td. 15</ref>
                         </li>
-                    </xl>
+                    <li>
+                        <gd><m>Càit a bheil</m> thu a’ fuireach? Tha mi a’ fuireach anns a’ chlachan.</gd>
+                        <tr>Where do you live? I live in the village.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
                 </p>
             </module>
         </section>

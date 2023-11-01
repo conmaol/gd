@@ -29,7 +29,13 @@
                     </li>
                     <li>
                         <gd>Ciamar a tha sibh? Tha mi gu math, tapadh leibh.</gd>
+                        <tr>How are you? I am well, thank you.</tr>
                         <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Càit a bheil thu a’ fuireach? Tha <m>mi</m> a’ fuireach anns a’ chlachan.</gd>
+                        <tr>Where do you live? I live in the village.</tr>
+                        <ref text="617">td. 20</ref>
                     </li>
                 </xl>
             </p>
