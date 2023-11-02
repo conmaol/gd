@@ -15,7 +15,7 @@
             <p>Some examples – <xl> </xl>
             </p>
         </section>-->
-        <section>
+        <section id="deps-comp">
             <h>complement</h>
             <p><g>ceàrr</g> can take a complement, introduced by the preposition <a href="?gd=air"><g>air</g></a> <en>on</en>.</p>
             <p>Some examples –
@@ -45,50 +45,23 @@
             </xl>
             </p>
         </section>
-        <section id="uses-mod">
+        <!--<section id="uses-mod">
             <h>modifier</h>
             <p>Like other adjectives, <g>beag</g> can be used to modify a <a href="?xx=nouns/nouns"
                 >noun</a>.</p>
             <p>Some examples with masculine nouns – <xl>
-                <li>
-                    <gd>Tha an <m>cat beag</m> bàn aig an teine.</gd>
-                    <tr>The little white cat is by the fire.</tr>
-                    <ref text="617">td. 9</ref>
-                </li>
-                <li>
-                    <gd>Càit a bheil an <m>gille beag</m> an diugh?</gd>
-                    <tr>Where is the little boy today?</tr>
-                    <ref text="617">td. 14</ref>
-                </li>
+                
             </xl>
             </p>
             <p>When the modified noun is feminine, <g>beag</g> is lenited to <g>bheag</g> – <xl>
-                <li>
-                    <gd>Tha <m>Màiri bheag</m> sgìth.</gd>
-                    <tr>Little Mary is tired.</tr>
-                    <ref text="617">td. 9</ref>
-                </li>
-                <li>
-                    <gd>Chan eil a’ <m>chaileag bheag</m> anns an sgoil.</gd>
-                    <tr>The little girl is not in the school.</tr>
-                    <ref text="617">td 14 [228]</ref>
-                </li>
+                
             </xl>
             </p>
             <p>Note the difference in meaning between the following examples – <xl>
-                <li>
-                    <gd>Tha Màiri beag bàn.</gd>
-                    <tr>Mary is small and fair-haired.</tr>
-                    <ref text="617">td. 8</ref>
-                </li>
-                <li>
-                    <gd>Tha Màiri bheag bàn.</gd>
-                    <tr>Little Mary is fair-haired.</tr>
-                    <ref text="617">td. 8</ref>
-                </li>
+                
             </xl>
             </p>
-        </section>
+        </section>-->
         
         <!--<section id="uses-comp">
             <h>complement</h>

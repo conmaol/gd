@@ -116,15 +116,23 @@
       </xl>
       </p>
     </section>-->
-    <!-- <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>sgoil</g> can occur with a <a
-                href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+    <section id="deps-spr">
+      <h>specifier</h>
+      <p>Like other common nouns, <g>sgoil</g> can occur with a <a href="?xx=nouns/determiners"
+          >determiner</a> as pre-specifier.</p>
+      <!--<p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
                 
             </xl>
-            </p>
-        </section>-->
+            </p>-->
+      <p>Examples with a <a href="?xx=nouns/possessive_determiners">possessive determiner</a> – <xl>
+          <li>
+            <gd>Dé tha ceàrr air a’ ghille seo? Tha <m>a cheann</m> goirt.</gd>
+            <tr>What is wrong with this boy? His head is sore.</tr>
+            <ref text="617">td. 20</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
     <section id="deps-mods">
       <h>modifiers</h>
       <p>Like other nouns, <g>ceann</g> can occur with an (attributive) <a
@@ -152,6 +160,11 @@
             <tr>Does James have a big head?</tr>
             <ref text="617">td. 14</ref>
           </li>
+        <li>
+          <gd>Dé tha ceàrr air a’ ghille seo? Tha a <m>cheann</m> goirt.</gd>
+          <tr>What is wrong with this boy? His head is sore.</tr>
+          <ref text="617">td. 20</ref>
+        </li>
         </xl>
       </p>
     </section>

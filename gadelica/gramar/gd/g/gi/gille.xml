@@ -141,6 +141,11 @@
                         <tr>This is the boy.</tr>
                         <ref text="617">td. 15</ref>
                     </li>
+                    <li>
+                        <gd>Dé tha ceàrr air <m>a’ ghille</m> seo? Tha a cheann goirt.</gd>
+                        <tr>What is wrong with this boy? His head is sore.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
                 </xl>
             </p>
         </section>
@@ -212,16 +217,20 @@
             </xl>
             </p>
         </section>-->
-        <!--<section id="uses-comp">
+        <section id="uses-comp">
             <h>complement</h>
-            <p>Like other nouns, <g>sgoil</g> can be used as the complement of a <a
-                href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> sgoil</g>
-                <en>in a school</en> – <xl>
-                    
+            <p>Like other nouns, <g>gille</g> can be used as the complement of a <a
+                    href="?xx=prepositions/prepositions">preposition</a>.</p>
+            <p>Examples with <g><a href="?gd=air">air</a> gille</g>
+                <en>on a boy</en> – <xl>
+                    <li>
+                        <gd>Dé tha ceàrr <m>air a’ ghille seo</m>? Tha a cheann goirt.</gd>
+                        <tr>What is wrong with this boy? His head is sore.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
                 </xl>
             </p>
-        </section>-->
+        </section>
     </section>
 
 
