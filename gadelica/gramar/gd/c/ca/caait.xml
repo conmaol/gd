@@ -86,6 +86,11 @@
                         <tr>Where is Mary today? She is in the town.</tr>
                         <ref text="617">td. 20</ref>
                     </li>
+                <li>
+                    <gd><m>Càit</m> a bheil an leabhar? Tha an leabhar air a’ bhòrd.</gd>
+                    <tr>Where is the book? The book is on the table.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
                 </xl>
             </p>
         </section>

@@ -68,7 +68,9 @@
       <li><a href="?gd=bogsa"><g>bogsa</g></a>
         <masc/>
         <en>box</en></li>
-      <li><m>bòrd</m> masc. <en>table</en> gen. <b>bùird</b> pl. <b>bùird</b></li>
+        -->
+      <li><a href="?gd=boord"><g>bòrd</g></a> <masc/> <en>table</en> <slen/> <g>bùird</g></li>
+    <!--
       <li><a href="?gd=brat"><g>brat</g></a>
         <masc/>
         <en>carpet, mat</en></li>
@@ -217,7 +219,9 @@
         <g>làithean</g></li>
       <!--
       <li><m>leabaidh</m> fem. <en>bed</en> gen. <b>leapa</b> pl. <b>leapannan</b></li>
-      <li><m>leabhar</m> masc. <en>book</en> pl. <b>leabhraichean</b></li>
+      -->
+      <li><a href="?gd=leabhar"><g>leabhar</g></a> <masc/> <en>book</en> <pl/> <g>leabhraichean</g></li>
+    <!--
       <li><a href="?gd=litir"><g>litir</g></a>
         <fem/>
         <en>letter</en> pl. <b>litrichean</b></li>

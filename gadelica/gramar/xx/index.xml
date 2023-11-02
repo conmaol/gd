@@ -29,7 +29,7 @@
                             <li><a href="?xx=nouns/simple_common_nouns">simple common nouns</a> – <a
                                     href="?gd=achadh"><g>achadh</g></a>, <a href="?gd=baile"
                                         ><g>baile</g></a>, <a href="?gd=balach"><g>balach</g></a>,
-                                    <a href="?gd=baata"><g>bàta</g></a>, <a href="?gd=cat"
+                                <a href="?gd=baata"><g>bàta</g></a>, <a href="?gd=boord"><g>bòrd</g></a>, <a href="?gd=cat"
                                         ><g>cat</g></a>, <a href="?gd=ceann"><g>ceann</g></a>, <a
                                     href="?gd=clachan"><g>clachan</g></a>, <a href="?gd=cladach"
                                         ><g>cladach</g></a>, <a href="?gd=coire"><g>coire</g></a>,
@@ -40,7 +40,7 @@
                                     href="?gd=fear"><g>fear</g></a>, <a href="?gd=gille"
                                         ><g>gille</g></a>, <a href="?gd=gual"><g>gual</g></a>, <a
                                     href="?gd=iolair"><g>iolair</g></a>, <a href="?gd=laar"
-                                        ><g>làr</g></a>, <a href="?gd=latha"><g>latha</g></a>, <a
+                                        ><g>làr</g></a>, <a href="?gd=latha"><g>latha</g></a>, <a href="?gd=leabhar"><g>leabhar</g></a>, <a
                                     href="?gd=loch"><g>loch</g></a>, <a href="?gd=maide"
                                         ><g>maide</g></a>, <a href="?gd=monadh"><g>monadh</g></a>,
                                     <a href="?gd=obair"><g>obair</g></a>, <a href="?gd=peann"
@@ -146,8 +146,8 @@
                                                 </ul>
                                             </li>
                                             <li>clothing – <a href="?gd=coota"><g>còta</g></a></li>
-                                            <li>other – <a href="?gd=baata"><g>bàta</g></a>, <a
-                                                  href="?gd=coire"><g>coire</g></a>, <a
+                                        <li>other – <a href="?gd=baata"><g>bàta</g></a>, <a href="?gd=boord"><g>bòrd</g></a>, <a
+                                            href="?gd=coire"><g>coire</g></a>, <a href="?gd=leabhar"><g>leabhar</g></a>. <a
                                                   href="?gd=maide"><g>maide</g></a>, <a
                                                   href="?gd=peann"><g>peann</g></a></li>
                                         </ul>
