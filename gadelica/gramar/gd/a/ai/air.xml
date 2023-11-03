@@ -148,6 +148,11 @@
             <tr>Does the man have a coat on?</tr>
             <ref text="617">td. 14</ref>
           </li>
+          <li>
+            <gd>Dé tha ceàrr <m>air a’ ghille seo</m>? Tha a cheann goirt.</gd>
+            <tr>What is wrong with this boy? His head is sore.</tr>
+            <ref text="617">td. 20</ref>
+          </li>
         </xl>
       </p>
     </section>
@@ -464,6 +469,11 @@
           </li>
         </xl>
       </p>
+    </section>
+    <section id="uses-comp">
+      <h>complement</h>
+      <p><g>air</g> can be used to introduce the complement of certain adjectives.</p>
+      <p>cf. <g><a href="?gd=ceaarr">ceàrr</a> air ...</g> <en>wrong with</en></p>
     </section>
     <section id="uses-mod">
       <h>modifier</h>

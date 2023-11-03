@@ -488,6 +488,11 @@
                 <tr>It is cold today.</tr>
                 <ref text="617">td. 7</ref>
               </li>
+            <li>
+              <gd>Dé tha <m>ceàrr</m> air a’ ghille seo? Tha a cheann goirt.</gd>
+              <tr>What is wrong with this boy? His head is sore.</tr>
+              <ref text="617">td. 20</ref>
+            </li>
             </xl>
           </p>
           <!--<p>Some examples with a definite article pre-specifier – <ul>
@@ -883,11 +888,11 @@
                   <tr>Where is Mary today? She is in the town.</tr>
                   <ref text="617">td. 20</ref>
                 </li>
-              <li>
-                <gd><m>Càit a bheil</m> thu a’ fuireach? Tha mi a’ fuireach anns a’ chlachan.</gd>
-                <tr>Where do you live? I live in the village.</tr>
-                <ref text="617">td. 20</ref>
-              </li>
+                <li>
+                  <gd><m>Càit a bheil</m> thu a’ fuireach? Tha mi a’ fuireach anns a’ chlachan.</gd>
+                  <tr>Where do you live? I live in the village.</tr>
+                  <ref text="617">td. 20</ref>
+                </li>
               </xl>
             </p>
           </module>
@@ -993,6 +998,11 @@
               <tr>What is on the fire? There is coal on the fire.</tr>
               <ref text="617">td. 14</ref>
             </li>
+            <li>
+              <gd><m>Dé tha</m> ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
+              <tr>What is wrong with this boy? His head is sore.</tr>
+              <ref text="617">td. 20</ref>
+            </li>
           </xl>
         </p>
       </module>
@@ -1006,11 +1016,11 @@
               <tr>Who is playing on the floor? A’ chaileag.</tr>
               <ref text="617">td. 15</ref>
             </li>
-          <li>
-            <gd><m>Có bha</m> ag iasgach air an loch? Bha Calum.</gd>
-            <tr>Who was fishing on the lake? Calum was.</tr>
-            <ref text="617">td. 20</ref>
-          </li>
+            <li>
+              <gd><m>Có bha</m> ag iasgach air an loch? Bha Calum.</gd>
+              <tr>Who was fishing on the lake? Calum was.</tr>
+              <ref text="617">td. 20</ref>
+            </li>
           </xl>
         </p>
       </module>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>goirt</h>
+    <p><g>goirt</g>
+        <en>sore, painful</en> is a <a href="?xx=adjectives/simple_adjectives">simple
+        adjective</a>.</p>
+
+    <section>
+        <h>dependents</h>
+        <!--<section id="deps-spr">
+            <h>specifier</h>
+            <p>Like other (gradable) adjectives, <g>beag</g> can occur with an intensifying
+                pre-specifier like <a href="?gd=glee"><g>glé</g></a>
+                <en>very</en>.</p>
+            <p>Some examples – <xl> </xl>
+            </p>
+        </section>-->
+        <!--<section id="deps-comp">
+            <h>complement</h>
+            <p><g>ceàrr</g> can take a complement, introduced by the preposition <a href="?gd=air"><g>air</g></a> <en>on</en>.</p>
+            <p>Some examples –
+                <xl>
+                    
+                </xl>
+            </p>
+        </section>-->
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-predicate">
+            <h>predicate</h>
+            <p>Like other adjectives, <g>goirt</g> can be used (uninflected) as the predicate of the
+                verb <a href="?gd=bi"><g>bi</g></a>.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann <m>goirt</m>.</gd>
+                        <tr>What is wrong with this boy? His head is sore.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <!--<section id="uses-mod">
+            <h>modifier</h>
+            <p>Like other adjectives, <g>beag</g> can be used to modify a <a href="?xx=nouns/nouns"
+                >noun</a>.</p>
+            <p>Some examples with masculine nouns – <xl>
+                
+            </xl>
+            </p>
+            <p>When the modified noun is feminine, <g>beag</g> is lenited to <g>bheag</g> – <xl>
+                
+            </xl>
+            </p>
+            <p>Note the difference in meaning between the following examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+
+        <!--<section id="uses-comp">
+            <h>complement</h>
+            <p>Like many other adjectives, <g>beag</g> can be used as the complement of the
+                adverbialising particle <a href="?gd=gu"><g>gu</g></a>.</p>
+            <p>Some examples – <xl> </xl>
+            </p>
+        </section>-->
+
+    </section>
+
+</module>

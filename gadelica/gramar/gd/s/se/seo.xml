@@ -40,6 +40,11 @@
                         <tr>This (one) is black but this (one) is white.</tr>
                         <ref text="617">td. 15</ref>
                     </li>
+                    <li>
+                        <gd>Dé tha ceàrr air a’ ghille <m>seo</m>? Tha a cheann goirt.</gd>
+                        <tr>What is wrong with this boy? His head is sore.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
                 </xl>
             </p>
         </section>
@@ -116,11 +121,16 @@
                         <tr>Is this dog swift?</tr>
                         <ref text="617">td. 15</ref>
                     </li>
-                <li>
-                    <gd>A bheil <m>an seòmar seo</m> blàth?</gd>
-                    <tr>Is this room warm?</tr>
-                    <ref text="617">td. 14</ref>
-                </li>
+                    <li>
+                        <gd>A bheil <m>an seòmar seo</m> blàth?</gd>
+                        <tr>Is this room warm?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>Dé tha ceàrr air <m>a’ ghille seo</m>? Tha a cheann goirt.</gd>
+                        <tr>What is wrong with this boy? His head is sore.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
                 </xl>
             </p>
         </section>
