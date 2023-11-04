@@ -192,11 +192,11 @@
                     <tr>The man is on the moor with the dog.</tr>
                     <ref text="617">td. 19</ref>
                   </li>
-                <li>
-                  <gd>Tha an coire <m>air a’ ghas</m>.</gd>
-                  <tr>The kettle is on the gas.</tr>
-                  <ref text="617">td. 20</ref>
-                </li>
+                  <li>
+                    <gd>Tha an coire <m>air a’ ghas</m>.</gd>
+                    <tr>The kettle is on the gas.</tr>
+                    <ref text="617">td. 20</ref>
+                  </li>
                 </xl>
               </li>
               <li>feminine <xl>
@@ -204,6 +204,13 @@
                     <gd>Tha an gille beag <m>anns an sgoil</m>.</gd>
                     <tr>The little boy is in the school.</tr>
                     <ref text="617">td. 14</ref>
+                  </li>
+                  <li>
+                    <gd>Có bha ag iasgach an diugh? Bha Alasdair. Càit an robh Alasdair ag iasgach?
+                      Bha e ag iasgach <m>air an abhainn</m>.</gd>
+                    <tr>Who was fishing today? Alexander was. Where was Alexander fishing? He was
+                      fishing on the river.</tr>
+                    <ref text="617">td. 20</ref>
                   </li>
                 </xl>
               </li>

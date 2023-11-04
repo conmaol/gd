@@ -7,8 +7,10 @@
       <!--<li><a href="?gd=aba"><g>aba</g></a>
         <masc/>
         <en>abbot</en> pl. <g>abachan</g></li>
-      <li><m>abhainn</m> fem. <en>river</en> gen. <b>aibhne</b> pl. <b>aibhnichean</b></li>
-      <li><m>adhbhar</m> masc. <en>reason</en> pl. <b>adhbharan</b> (†<b>adhbhairean</b>)</li>
+        -->
+      <li><a href="?gd=abhainn"><g>abhainn</g></a> <fem/> <en>river</en> <gen/> <g>aibhne</g> <pl/> <g>aibhnichean</g></li>
+    <!--
+    <li><m>adhbhar</m> masc. <en>reason</en> pl. <b>adhbharan</b> (†<b>adhbhairean</b>)</li>
       -->
       <li><a href="?gd=achadh"><g>achadh</g></a>
         <masc/>

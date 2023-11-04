@@ -345,6 +345,11 @@
                   <tr>Isn’t Malcolm in the field?</tr>
                   <ref text="617">td. 11</ref>
                 </li>
+                <li>
+                  <gd>Có bha ag iasgach an diugh? Bha <m>Alasdair</m>.</gd>
+                  <tr>Who was fishing today? Alexander was.</tr>
+                  <ref text="617">td. 20</ref>
+                </li>
               </xl>
             </li>
             <li>common nouns – <ul>
@@ -688,7 +693,7 @@
           </li>
           <li>
             <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an sgoil <m>an
-              diugh</m>? Cha robh, bha e anns an taigh <m>fad an latha</m>.</gd>
+                diugh</m>? Cha robh, bha e anns an taigh <m>fad an latha</m>.</gd>
             <tr>What is wrong with this boy? His head is sore. Was he in the school today? No, he
               was in the house all day long.</tr>
             <ref text="617">td. 20</ref>
@@ -952,6 +957,13 @@
                   <tr>Where was the white cat?</tr>
                   <ref text="">made up</ref>
                 </li>
+              <li>
+                <gd>Có bha ag iasgach an diugh? Bha Alasdair. <m>Càit an robh</m> Alasdair ag iasgach?
+                  Bha e ag iasgach air an abhainn.</gd>
+                <tr>Who was fishing today? Alexander was. Where was Alexander fishing? He was fishing on
+                  the river.</tr>
+                <ref text="617">td. 20</ref>
+              </li>
               </xl>
             </p>
           </module>

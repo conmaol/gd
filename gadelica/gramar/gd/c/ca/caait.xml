@@ -52,12 +52,28 @@
                             <tr>Where is she playing? She is playing on the floor.</tr>
                             <ref text="617">td. 15</ref>
                         </li>
-                    <li>
-                        <gd><m>Càit a bheil</m> thu a’ fuireach? Tha mi a’ fuireach anns a’ chlachan.</gd>
-                        <tr>Where do you live? I live in the village.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
+                        <li>
+                            <gd><m>Càit a bheil</m> thu a’ fuireach? Tha mi a’ fuireach anns a’
+                                chlachan.</gd>
+                            <tr>Where do you live? I live in the village.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="caait_an_robh">
+                <h>càit an robh ... ?</h>
+                <p><g>càit an <a href="?gd=bi">robh</a> ... ?</g>
+                    <en>where was ... ?</en></p>
+                <p>Some basic examples – <xl>
+                        <li>
+                            <gd>Có bha ag iasgach an diugh? Bha Alasdair. <m>Càit an robh</m>
+                                Alasdair ag iasgach? Bha e ag iasgach air an abhainn.</gd>
+                            <tr>Who was fishing today? Alexander was. Where was Alexander fishing?
+                                He was fishing on the river.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                    </xl>
                 </p>
             </module>
         </section>
@@ -86,9 +102,16 @@
                         <tr>Where is Mary today? She is in the town.</tr>
                         <ref text="617">td. 20</ref>
                     </li>
+                    <li>
+                        <gd><m>Càit</m> a bheil an leabhar? Tha an leabhar air a’ bhòrd.</gd>
+                        <tr>Where is the book? The book is on the table.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
                 <li>
-                    <gd><m>Càit</m> a bheil an leabhar? Tha an leabhar air a’ bhòrd.</gd>
-                    <tr>Where is the book? The book is on the table.</tr>
+                    <gd>Có bha ag iasgach an diugh? Bha Alasdair. <m>Càit</m> an robh
+                        Alasdair ag iasgach? Bha e ag iasgach air an abhainn.</gd>
+                    <tr>Who was fishing today? Alexander was. Where was Alexander fishing?
+                        He was fishing on the river.</tr>
                     <ref text="617">td. 20</ref>
                 </li>
                 </xl>
