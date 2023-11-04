@@ -72,6 +72,7 @@
                     <li><a href="?xx=nouns/determiners">determiners</a>
                         <ul>
                             <li><a href="?xx=nouns/definite_article">definite article</a></li>
+                            <li><a href="?xx=nouns/possessive_determiners">possessive determiners</a> – <a href="?gd=a^determiner"><g>a</g></a></li>
                         </ul>
                     </li>
                 </ul>
@@ -108,7 +109,7 @@
                 <en>who, what</en>, <a href="?gd=dee"><g>dé</g></a>
                 <en>what</en></li>
             <li>other – <a href="?gd=tapadh"><g>tapadh</g></a>, <a href="?gd=a^relative"
-                    ><g>a</g></a> (relative clause particle)</li>
+                    ><g>a</g></a> (relative clause particle), <a href="?gd=fad"><g>fad</g></a></li>
         </ul>
     </p>
     <p>The following semantic topics are discussed here – <ul>

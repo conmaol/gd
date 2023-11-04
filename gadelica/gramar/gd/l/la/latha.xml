@@ -132,6 +132,13 @@
                         <tr>Is the day cold?</tr>
                         <ref text="617">td. 14</ref>
                     </li>
+                    <li>
+                        <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an
+                            sgoil an diugh? Cha robh, bha e anns an taigh fad <m>an latha</m>.</gd>
+                        <tr>What is wrong with this boy? His head is sore. Was he in the school
+                            today? No, he was in the house all day long.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
                 </xl>
             </p>
         </section>
@@ -193,6 +200,21 @@
                 </xl>
             </p>
         </section>-->
+        <section id="uses-spr">
+            <h>specifier</h>
+            <p>Like other nouns, <g>latha</g> can be used as the specifier of another noun.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an
+                            sgoil an diugh? Cha robh, bha e anns an taigh fad <m>an latha</m>.</gd>
+                        <tr>What is wrong with this boy? His head is sore. Was he in the school
+                            today? No, he was in the house all day long.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+
     </section>
 
 

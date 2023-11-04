@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
-    <h>a – possessive determiner</h>
-    <p lang="en"><b>a</b>
+<module>
+    <h>a</h>
+    <p><g>a</g>
         <en>his, her, its</en> is the third person singular <a
             href="?xx=nouns/possessive_determiners">possessive determiner</a>, related to the
         personal pronouns <a href="?gd=i">i</a>
         <en>she, her, it</en> and <a href="?gd=e">e</a>
         <en>he, him, it</en>.</p>
-    <p>cf. other uses of the particle <a href="?gd=a">a</a>.</p>
-    <module id="noun">
+    <!--<p>cf. other uses of the particle <a href="?gd=a">a</a>.</p>-->
+   
+   <section>
+       <h>uses</h>
+       <section> 
+       <h>specifier</h>
+       <p>
+        <xl>
+            <li>
+                <gd>Dé tha ceàrr air a’ ghille seo? Tha <m>a cheann</m> goirt.</gd>
+                <tr>What is wrong with this boy? His head is sore.</tr>
+                <ref text="617">td. 20</ref>
+            </li>
+        </xl>
+    </p></section></section>
+    
+    
+    <!--<module id="noun">
         <h lang="en">noun specifier</h>
         <h lang="gd">...</h>
         <module id="family">
@@ -332,6 +348,6 @@
         </module>
     </module>
 
-
+-->
 
 </module>

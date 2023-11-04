@@ -1,8 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
-  <h lang="en">fad</h>
-  <h lang="gd">fad</h>
-  <p lang="en">Corpus examples – <xl id="xs">
+<module>
+  <h>fad</h>
+
+  <section>
+    <h>dependents</h>
+    <section>
+      <h>specifier</h>
+      <p><xl>
+          <li>
+            <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an sgoil an
+              diugh? Cha robh, bha e anns an taigh fad <m>an latha</m>.</gd>
+            <tr>What is wrong with this boy? His head is sore. Was he in the school today? No, he
+              was in the house all day long.</tr>
+            <ref text="617">td. 20</ref>
+          </li>
+        </xl></p>
+    </section>
+  </section>
+
+  <section>
+    <h>uses</h>
+    <section>
+      <h>modifier</h>
+      <p><xl>
+          <li>
+            <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an sgoil an
+              diugh? Cha robh, bha e anns an taigh <m>fad</m> an latha.</gd>
+            <tr>What is wrong with this boy? His head is sore. Was he in the school today? No, he
+              was in the house all day long.</tr>
+            <ref text="617">td. 20</ref>
+          </li>
+        </xl></p>
+    </section>
+  </section>
+
+
+
+  <!--<p lang="en">Corpus examples – <xl id="xs">
       <li>
         <gd>[...] A nis, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas ùr againn. Tha sinn
           an dòchas gun téid gu math dhaibh, agus gun cuir iad spionnadh ás ùr anns <m>an dùthaich air
@@ -22,7 +56,7 @@
     </li>
     </xl>
   </p>
-  <p lang="gd">...</p>
+  <p lang="gd">...</p>-->
 </module>
 <!--
 <module>

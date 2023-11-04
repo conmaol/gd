@@ -488,11 +488,11 @@
                 <tr>It is cold today.</tr>
                 <ref text="617">td. 7</ref>
               </li>
-            <li>
-              <gd>Dé tha <m>ceàrr</m> air a’ ghille seo? Tha a cheann goirt.</gd>
-              <tr>What is wrong with this boy? His head is sore.</tr>
-              <ref text="617">td. 20</ref>
-            </li>
+              <li>
+                <gd>Dé tha <m>ceàrr</m> air a’ ghille seo? Tha a cheann goirt.</gd>
+                <tr>What is wrong with this boy? His head is sore.</tr>
+                <ref text="617">td. 20</ref>
+              </li>
             </xl>
           </p>
           <!--<p>Some examples with a definite article pre-specifier – <ul>
@@ -686,6 +686,13 @@
             <tr>It was not cold today.</tr>
             <ref text="617">td. 11 [adapted]</ref>
           </li>
+          <li>
+            <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an sgoil <m>an
+              diugh</m>? Cha robh, bha e anns an taigh <m>fad an latha</m>.</gd>
+            <tr>What is wrong with this boy? His head is sore. Was he in the school today? No, he
+              was in the house all day long.</tr>
+            <ref text="617">td. 20</ref>
+          </li>
         </xl>
       </p>
       <p>Examples with locative modifiers – <xl>
@@ -839,6 +846,13 @@
                 <gd><m>Cha robh</m> mi anns an taigh.</gd>
                 <tr>I was not at home.</tr>
                 <ref text="617">td. 17</ref>
+              </li>
+              <li>
+                <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an sgoil an
+                  diugh? <m>Cha robh</m>, bha e anns an taigh fad an latha.</gd>
+                <tr>What is wrong with this boy? His head is sore. Was he in the school today? No,
+                  he was in the house all day long.</tr>
+                <ref text="617">td. 20</ref>
               </li>
             </xl>
           </p>
