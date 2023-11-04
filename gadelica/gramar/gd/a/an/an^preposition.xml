@@ -167,11 +167,16 @@
             <tr>Is there water in the kettle? Yes, there is.</tr>
             <ref text="617">td. 120</ref>
           </li>
-        <li>
-          <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach <m>anns a’ chlachan</m>.</gd>
-          <tr>Where do you live? I live in the village.</tr>
-          <ref text="617">td. 20</ref>
-        </li>
+          <li>
+            <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach <m>anns a’ chlachan</m>.</gd>
+            <tr>Where do you live? I live in the village.</tr>
+            <ref text="617">td. 20</ref>
+          </li>
+          <li>
+            <gd>Dé tha <m>anns a’ bhocsa sin</m>? Tha uighean <m>anns a’ bhocsa</m>.</gd>
+            <tr>What is in that box? There are eggs in the box.</tr>
+            <ref text="617">td. 20</ref>
+          </li>
         </xl>
       </p>
 
@@ -261,11 +266,11 @@
             <tr>Where is Mary today? She is in the town.</tr>
             <ref text="617">td. 20</ref>
           </li>
-        <li>
-          <gd>A bheil uisge <m>anns</m> a’ choire? Tha.</gd>
-          <tr>Is there water in the kettle? Yes, there is.</tr>
-          <ref text="617">td. 120</ref>
-        </li>
+          <li>
+            <gd>A bheil uisge <m>anns</m> a’ choire? Tha.</gd>
+            <tr>Is there water in the kettle? Yes, there is.</tr>
+            <ref text="617">td. 120</ref>
+          </li>
         </xl>
       </p>
       <p>Some examples with abstract nouns – <xl>
@@ -360,11 +365,11 @@
             <tr>What is Janet doing in the house?</tr>
             <ref text="617">td. 14</ref>
           </li>
-        <li>
-          <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach <m>anns</m> a’ chlachan.</gd>
-          <tr>Where do you live? I live in the village.</tr>
-          <ref text="617">td. 20</ref>
-        </li>
+          <li>
+            <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach <m>anns</m> a’ chlachan.</gd>
+            <tr>Where do you live? I live in the village.</tr>
+            <ref text="617">td. 20</ref>
+          </li>
         </xl>
       </p>
       <p>Some examples modifying <a href="?gd=bi"><g>bi</g></a>

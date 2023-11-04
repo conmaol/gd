@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>bocsa</h>
+    <p><g>bocsa</g>
+        <en>box</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+    <section>
+        <h>forms</h>
+        <p>The principal parts of <g>bocsa</g> are – <ul>
+                <li><m>bocsa</m> – singular</li>
+                <li><m>bocsaichean</m> – plural</li>
+            </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>bocsa</m></li>
+                                    <li>dative – ann am <m>bocsa</m></li>
+                                    <li>genitive – taobh <m>bocsa</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>bocsaichean</m></li>
+                                    <li>dative – ann am <m>bocsaichean</m></li>
+                                    <li>genitive – taobh <m>bhogsaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>am bocsa</m></li>
+                                    <li>dative – anns <m>a’ bhogsa</m></li>
+                                    <li>genitive – taobh <m>a’ bhogsa</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na bocsaichean</m></li>
+                                    <li>dative – anns <m>na bocsaichean</m></li>
+                                    <li>genitive – taobh <m>nam bocsaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>bocsa</m></li>
+                                    <li>dative – ann am <m>bocsa</m></li>
+                                    <li>genitive – taobh <m>bocsa</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>am bocsa</m></li>
+                                    <li>dative – anns <m>a’ bhogsa</m></li>
+                                    <li>genitive – taobh <m>a’ bhogsa</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>bocsaichean</m></li>
+                                    <li>dative – ann am <m>bocsaichean</m></li>
+                                    <li>genitive – taobh <m>bhogsaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na bocsaichean</m></li>
+                                    <li>dative – anns <m>na bocsaichean</m></li>
+                                    <li>genitive – taobh <m>nam bocsaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>bocsa</m></li>
+                                    <li>plural – <m>bocsaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>am bocsa</m></li>
+                                    <li>plural – <m>na bocsaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – ann am <m>bocsa</m></li>
+                                    <li>plural – ann am <m>bocsaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – anns <m>a’ bhogsa</m></li>
+                                    <li>plural – anns <m>na bocsaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – taobh <m>bocsa</m></li>
+                                    <li>plural – taobh <m>bhogsaichean</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – taobh <m>a’ bhogsa</m></li>
+                                    <li>plural – taobh <m>nam bocsaichean</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
+        </section>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <!--<section id="deps-bare">
+            <h>bare</h>
+            <p>Like other nouns, <g>cladach</g> can occur on its own, without any dependents.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+        <section id="deps-spr">
+            <h>specifier</h>
+            <p>Like other common nouns, <g>bòrd</g> can occur with a <a href="?xx=nouns/determiners"
+                    >determiner</a> as pre-specifier.</p>
+            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+                    <li>
+                        <gd>Dé tha anns <m>a’ bhocsa</m> sin? Tha uighean anns <m>a’ bhocsa</m>.
+                            Càit a bheil <m>am bocsa</m>? Tha <m>am bocsa</m> air a’ bhòrd. Có chuir
+                                <m>am bocsa</m> air a’ bhòrd? Chuir Màiri.</gd>
+                        <tr>What is in that box? There are eggs in the box. Where is the box? The
+                            box is on the table. Who put the box on the table? Mary did.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <!--<section id="deps-mods">
+            <h>modifiers</h>
+            <p>Like other nouns, <g>cladach</g> can occur with an (attributive) <a
+                href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-sbj">
+            <h>subject</h>
+            <p>Like other nouns, <g>bocsa</g> can be used as the subject of a <a
+                    href="?xx=verbs/verbs">verb</a>.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
+                    <li>
+                        <gd>Càit a bheil am <m>bocsa</m>? Tha am <m>bocsa</m> air a’ bhòrd.</gd>
+                        <tr>Where is the box? The box is on the table.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+            <!--<p>Examples with demonstrative pronouns used as copular verbs – <xl>
+                <li>
+                    <gd>Seo an <m>cladach</m>.</gd>
+                    <tr>This is the dog.</tr>
+                    <ref text="617">td. 15</ref>
+                </li>
+            </xl>
+            </p>-->
+        </section>
+        <section id="uses-obj">
+            <h>object</h>
+            <p>Like other nouns, <g>bocsa</g> can be used as the object of a transitive verb.</p>
+            <p>Some examples – <xl>
+                <li>
+                    <gd>Có chuir
+                        am <m>bocsa</m> air a’ bhòrd? Chuir Màiri.</gd>
+                    <tr>Who put the box on the table? Mary did.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+        <section id="uses-comp">
+            <h>complement</h>
+            <p>Like other nouns, <g>bocsa</g> can be used as the complement of a <a
+                    href="?xx=prepositions/prepositions">preposition</a>.</p>
+            <p>Examples with <g><a href="?gd=an^preposition">ann am</a> bocsa</g>
+                <en>in a box</en> – <xl>
+                    <li>
+                        <gd>Dé tha <m>anns a’ bhocsa sin</m>? Tha uighean <m>anns a’
+                            bhocsa</m>.</gd>
+                        <tr>What is in that box? There are eggs in the box.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+
+
+    <!--<section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>The following compounds involve bocsa with a post-specifier – <ul>
+                    <li><g>bocsa nan <a href="?gd=litir">litrichean</a></g>
+                        <en>postbox</en></li>
+                </ul>
+            </p>
+        </section>
+    </section>
+
+
+    <section>
+        <h>uses</h>
+
+        <section>
+            <h>complement</h>
+            <p><g>bocsa</g> can be the complement of certain prespoitions – <ul>
+                    <li><g><a href="?gd=an^preposition">ann am</a> bocsa</g>
+                        <en>in a box</en> – <ul>
+                            <li><g><a href="?gd=tilg">tilg</a> ann am bocsa</g>
+                                <en>throw something into a box</en> – <ul>
+                                    <li>older pedagogical examples – <xl id="dep-comps-older-pedag">
+                                            <li>
+                                                <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu
+                                                  m’athair a tha air falbh. Thubhairt mo mhàthair,
+                                                  “An téid thu do bhocsa nan litrichean leis an
+                                                  litir seo, Iain?” “Théid,” ars Iain, “falbhaidh mi
+                                                  an dràsda”. “Fuirich gus an dùin mi i is gus an
+                                                  cuir mi seòladh oirre. Ceannaich fhéin stamp agus
+                                                  cuir oirre i.” Tha Iain a’ ruith sìos an rathad
+                                                  leis an litir ’na làimh. Théid e a steach do oifig
+                                                  a’ phuist, ceannaichidh e stamp is cuiridh e sud
+                                                  air an litir. <m>Tilgidh e an litir ann am bocsa
+                                                  nan litrichean.</m>
+                                                </gd>
+                                                <tr>My mother is writing a letter to my father who
+                                                  is away. My mother said, “Will you go to the
+                                                  postbox with this letter, John?” “Yes, I will,”
+                                                  said John, “I will leave now.” “Wait until I seal
+                                                  it and put an address on it. Buy a stamp and put
+                                                  it on it.” John is running down the road with the
+                                                  letter in his hand. He will go into the post
+                                                  office, he will buy a stamp and put that on the
+                                                  letter. He will toss the letter into the
+                                                  postbox.</tr>
+                                                <ref text="621">td. 5</ref>
+                                            </li>
+                                        </xl></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>-->
+
+
+</module>

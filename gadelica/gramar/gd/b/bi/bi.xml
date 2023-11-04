@@ -391,6 +391,11 @@
                       <tr>Is there water in the kettle? Yes, there is.</tr>
                       <ref text="617">td. 120</ref>
                     </li>
+                    <li>
+                      <gd>Dé tha anns a’ bhocsa sin? Tha <m>uighean</m> anns a’ bhocsa.</gd>
+                      <tr>What is in that box? There are eggs in the box.</tr>
+                      <ref text="617">td. 20</ref>
+                    </li>
                   </xl>
                 </li>
                 <li>abstract – <xl>
@@ -957,13 +962,13 @@
                   <tr>Where was the white cat?</tr>
                   <ref text="">made up</ref>
                 </li>
-              <li>
-                <gd>Có bha ag iasgach an diugh? Bha Alasdair. <m>Càit an robh</m> Alasdair ag iasgach?
-                  Bha e ag iasgach air an abhainn.</gd>
-                <tr>Who was fishing today? Alexander was. Where was Alexander fishing? He was fishing on
-                  the river.</tr>
-                <ref text="617">td. 20</ref>
-              </li>
+                <li>
+                  <gd>Có bha ag iasgach an diugh? Bha Alasdair. <m>Càit an robh</m> Alasdair ag
+                    iasgach? Bha e ag iasgach air an abhainn.</gd>
+                  <tr>Who was fishing today? Alexander was. Where was Alexander fishing? He was
+                    fishing on the river.</tr>
+                  <ref text="617">td. 20</ref>
+                </li>
               </xl>
             </p>
           </module>
@@ -1027,6 +1032,11 @@
             <li>
               <gd><m>Dé tha</m> ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
               <tr>What is wrong with this boy? His head is sore.</tr>
+              <ref text="617">td. 20</ref>
+            </li>
+            <li>
+              <gd><m>Dé tha</m> anns a’ bhocsa sin? Tha uighean anns a’ bhocsa.</gd>
+              <tr>What is in that box? There are eggs in the box.</tr>
               <ref text="617">td. 20</ref>
             </li>
           </xl>

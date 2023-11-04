@@ -21,6 +21,11 @@
                         <tr>This (one) is black but this (one) is white.</tr>
                         <ref text="617">td. 15</ref>
                     </li>
+                    <li>
+                        <gd>Dé tha anns a’ bhocsa <m>sin</m>? Tha uighean anns a’ bhocsa.</gd>
+                        <tr>What is in that box? There are eggs in the box.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
                 </xl>
             </p>
         </section>
@@ -49,13 +54,17 @@
                 </xl>
             </p>
         </section>
-        <!--<section id="uses-mod">
+        <section id="uses-mod">
             <h>modifier</h>
             <p>Some examples – <xl>
-                    
+                    <li>
+                        <gd>Dé tha anns <m>a’ bhocsa sin</m>? Tha uighean anns a’ bhocsa.</gd>
+                        <tr>What is in that box? There are eggs in the box.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
                 </xl>
             </p>
-        </section>-->
+        </section>
         <!--<section id="uses-root">
             <h>root</h>
             <p>Some examples – <xl>

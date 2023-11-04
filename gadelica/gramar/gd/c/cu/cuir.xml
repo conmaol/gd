@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>cuir</h>
     <p><g>cuir</g>
         <en>put, send</en> is a <a href="?xx=verbs/simple_verbs">simple verb</a>.</p>
@@ -255,6 +255,54 @@
 
     <section>
         <h>dependents</h>
+        <section>
+            <h>subject + object + complement</h>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>Có chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
+                        <tr>Who put the box on the table? Mary did.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>independent</h>
+            <section>
+                <h>root</h>
+                <p>Some examples – <xl>
+                        <li>
+                            <gd>Có chuir am bocsa air a’ bhòrd? <m>Chuir</m> Màiri.</gd>
+                            <tr>Who put the box on the table? Mary did.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+        </section>
+        <section>
+            <h>relative</h>
+            <module id="coo_chuir">
+                <h>có chuir ... ?</h>
+                <p>Some examples – <xl>
+                    <li>
+                        <gd><m>Có chuir</m> am bocsa air a’ bhòrd? Chuir Màiri.</gd>
+                        <tr>Who put the box on the table? Mary did.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+
+
+    <!--<section>
+        <h>dependents</h>
         <section id="sbj">
             <h>subject</h>
             <p>Some examples – <ul>
@@ -316,5 +364,5 @@
             </p>
         </section>
     </section>
-
+-->
 </module>

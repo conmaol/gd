@@ -127,6 +127,13 @@
                         <tr>Where is the book? The book is on the table.</tr>
                         <ref text="617">td. 20</ref>
                     </li>
+                <li>
+                    <gd>Càit a bheil am bocsa? Tha am bocsa air <m>a’ bhòrd</m>. Có chuir am
+                        bocsa air <m>a’ bhòrd</m>? Chuir Màiri.</gd>
+                    <tr>Where is the box? The box is on the table. Who put the box on the table?
+                        Mary did.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
                 </xl>
             </p>
         </section>
@@ -177,6 +184,13 @@
                     <li>
                         <gd>Càit a bheil an leabhar? Tha an leabhar <m>air a’ bhòrd</m>.</gd>
                         <tr>Where is the book? The book is on the table.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Càit a bheil am bocsa? Tha am bocsa <m>air a’ bhòrd</m>. Có chuir am
+                            bocsa <m>air a’ bhòrd</m>? Chuir Màiri.</gd>
+                        <tr>Where is the box? The box is on the table. Who put the box on the table?
+                            Mary did.</tr>
                         <ref text="617">td. 20</ref>
                     </li>
                 </xl>

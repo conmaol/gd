@@ -31,6 +31,11 @@
                         <tr>Is Mary tired today?</tr>
                         <ref text="617">td. 9 [adapted]</ref>
                     </li>
+                    <li>
+                        <gd>Có chuir am bocsa air a’ bhòrd? Chuir <m>Màiri</m>.</gd>
+                        <tr>Who put the box on the table? Mary did.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
                 </xl>
             </p>
         </section>
@@ -79,7 +84,16 @@
                     </li>
                 </xl>
             </p>
-            <p>Examples with <a href="?xx=nouns/demonstrative_pronouns">demonstrative pronouns</a> used as copular verbs – <xl>
+            <p>Examples with other verbs – <xl>
+                    <li>
+                        <gd>Có chuir am bocsa air a’ bhòrd? Chuir <m>Màiri</m>.</gd>
+                        <tr>Who put the box on the table? Mary did.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with <a href="?xx=nouns/demonstrative_pronouns">demonstrative pronouns</a>
+                used as copular verbs – <xl>
                     <li>
                         <gd>Seo <m>Màiri</m>.</gd>
                         <tr>This is Mary.</tr>
