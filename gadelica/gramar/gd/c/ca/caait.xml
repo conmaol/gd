@@ -38,6 +38,11 @@
                             <tr>Where is Mary today? She is in the town.</tr>
                             <ref text="617">td. 20</ref>
                         </li>
+                        <li>
+                            <gd><m>Càit a bheil</m> am bocsa? Tha am bocsa air a’ bhòrd.</gd>
+                            <tr>Where is the box? The box is on the table.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
                     </xl>
                 </p>
                 <p>Some progressive examples – <xl>
@@ -107,13 +112,18 @@
                         <tr>Where is the book? The book is on the table.</tr>
                         <ref text="617">td. 20</ref>
                     </li>
-                <li>
-                    <gd>Có bha ag iasgach an diugh? Bha Alasdair. <m>Càit</m> an robh
-                        Alasdair ag iasgach? Bha e ag iasgach air an abhainn.</gd>
-                    <tr>Who was fishing today? Alexander was. Where was Alexander fishing?
-                        He was fishing on the river.</tr>
-                    <ref text="617">td. 20</ref>
-                </li>
+                    <li>
+                        <gd>Có bha ag iasgach an diugh? Bha Alasdair. <m>Càit</m> an robh Alasdair
+                            ag iasgach? Bha e ag iasgach air an abhainn.</gd>
+                        <tr>Who was fishing today? Alexander was. Where was Alexander fishing? He
+                            was fishing on the river.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd><m>Càit</m> a bheil am bocsa? Tha am bocsa air a’ bhòrd.</gd>
+                        <tr>Where is the box? The box is on the table.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
                 </xl>
             </p>
         </section>

@@ -479,12 +479,21 @@
     </section>
     <section id="uses-comp">
       <h>complement</h>
-      <p><g>air</g> can be used to introduce the complement of certain adjectives.</p>
+      <section>
+        <h>verbs</h>
+        <p><g>air</g> can be used to introduce the complement of certain verbs.</p>
+        <p>cf. <g><a href="?gd=cuir">cuir</a> air ...</g> <en>put something on ...</en></p>
+      </section>
+      
+      <section>
+        <h>adjectives</h>
+        <p><g>air</g> can be used to introduce the complement of certain adjectives.</p>
       <p>cf. <g><a href="?gd=ceaarr">ceàrr</a> air ...</g> <en>wrong with</en></p>
+    </section>
     </section>
     <section id="uses-mod">
       <h>modifier</h>
-      <p><g>an</g> can be used to introduce a locative modifier of a verb (or verbal noun).</p>
+      <p><g>air</g> can be used to introduce a locative modifier of a verb (or verbal noun).</p>
       <p>Some examples – <xl>
           <li>
             <gd>Tha Seònaid a’ cluich <m>air</m> an làr.</gd>
@@ -502,8 +511,7 @@
             <ref text="617">td. 20</ref>
           </li>
         </xl>
-      </p>
-    </section>
+      </p></section>
   </section>
 
 
