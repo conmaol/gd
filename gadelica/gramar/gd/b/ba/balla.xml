@@ -185,7 +185,7 @@
             <h>complement</h>
             <p>Like other nouns, <g>balla</g> can be used as the complement of a <a
                     href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=an^preposition">air</a> balla</g>
+            <p>Examples with <g><a href="?gd=air">air</a> balla</g>
                 <en>on a wall</en> – <xl>
                     <li>
                         <gd>An robh an clachair ag obair <m>air a’ bhalla</m> fad an latha an dé?
@@ -200,35 +200,7 @@
 
 
 
-    <!--<section>
-        <h>dependents</h>
-        <section>
-            <h>specifier</h>
-            <!-\-<p>Examples – <xl id="deps-spr-xs">
-                    <li>
-                        <gd>Is e an t-iasgach bun-bheairteas a’ bhalla.</gd>
-                        <tr>Fishing is the basic wealth of the town.</tr>
-                        <ref text="601">td. 103</ref>
-                    </li>
-                </xl>
-            </p>-\->
-        </section>
-    </section>
-
-    <section>
-        <h>uses</h>
-        <!-\-<section>
-            <h>specifier</h>
-            <p>Examples – <xl id="uses-spr-xs">
-                    <li>
-                        <gd>Is e an t-iasgach bun-bheairteas a’ bhalla.</gd>
-                        <tr>Fishing is the basic wealth of the town.</tr>
-                        <ref text="601">td. 103</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>-\->
-    </section>-->
+    
 
 
 </module>

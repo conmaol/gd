@@ -43,11 +43,18 @@
         <en>town</en>
         <pl/>
         <g>bailtean</g></li>
+      <li><a href="?gd=bainne"><g>bainne</g></a>
+        <masc/>
+        <en>milk</en></li>
       <li><a href="?gd=balach"><g>balach</g></a>
         <masc/>
         <en>boy</en></li>
-      <li><a href="?gd=balla"><g>balla</g></a> <masc/> <en>wall</en> <pl/> <g>ballachan</g></li>
-    <!--
+      <li><a href="?gd=balla"><g>balla</g></a>
+        <masc/>
+        <en>wall</en>
+        <pl/>
+        <g>ballachan</g></li>
+      <!--
       <li><m>bàrd</m> masc. <en>poet</en></li>
       <li><a href="?gd=basgaid"><g>basgaid</g></a>
         <fem/>
@@ -82,6 +89,9 @@
         <en>table</en>
         <slen/>
         <g>bùird</g></li>
+    <li><a href="?gd=botul"><g>botul</g></a>
+      <masc/>
+      <en>botle</en></li>
       <!--
       <li><a href="?gd=brat"><g>brat</g></a>
         <masc/>
