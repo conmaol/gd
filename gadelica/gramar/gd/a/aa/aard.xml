@@ -17,16 +17,22 @@
         </section>
     </section>-->
 
-    <!--<section>
+    <section>
         <h>uses</h>
         <section id="uses-predicate">
             <h>predicate</h>
-            <p>Like other adjectives, <g>àrd</g> can be used (uninflected) as the predicate of the verb <a
-                    href="?gd=bi"><g>bi</g></a>.</p>
-            <p>Some examples – <xl> </xl>
+            <p>Like other adjectives, <g>àrd</g> can be used (uninflected) as the predicate of the
+                verb <a href="?gd=bi"><g>bi</g></a>.</p>
+            <p>Some examples – <xl>
+                    <li>
+                        <gd>A bheil am balla <m>àrd</m>? Tha.</gd>
+                        <tr>Is the wall high? Yes, it is.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
             </p>
         </section>
-        <section id="uses-mod">
+        <!--<section id="uses-mod">
             <h>modifier</h>
             <p>Like other adjectives, <g>àrd</g> can be used as a post-modifier of a <a
                     href="?xx=nouns/proper_nouns">noun</a>.</p>
@@ -39,8 +45,8 @@
                 adverbialising particle <a href="?gd=gu"><g>gu</g></a>.</p>
             <p>Some examples – <xl> </xl>
             </p>
-        </section>
-    </section>-->
+        </section>-->
+    </section>
 
 
 

@@ -204,7 +204,7 @@
                   </li>
                 </xl>
               </li>
-              <li>feminine <xl>
+              <li>feminine –<xl>
                   <li>
                     <gd>Tha an gille beag <m>anns an sgoil</m>.</gd>
                     <tr>The little boy is in the school.</tr>
@@ -220,6 +220,18 @@
                 </xl>
               </li>
               <li>plural</li>
+            </ul>
+          </li>
+          <li>genitive – <ul>
+              <li>masculine – <xl>
+                  <li>
+                    <gd>An robh an clachair ag obair air a’ bhalla fad <m>an latha</m> an dé?
+                      Bha.</gd>
+                    <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
+                    <ref text="617">td. 20</ref>
+                  </li>
+                </xl>
+              </li>
             </ul>
           </li>
         </ul>

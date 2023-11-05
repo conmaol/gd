@@ -31,13 +31,14 @@
                             <li><a href="?xx=nouns/simple_common_nouns">simple common nouns</a> – <a
                                     href="?gd=abhainn"><g>abhainn</g></a>, <a href="?gd=achadh"
                                         ><g>achadh</g></a>, <a href="?gd=baile"><g>baile</g></a>, <a
-                                    href="?gd=balach"><g>balach</g></a>, <a href="?gd=baata"
-                                        ><g>bàta</g></a>, <a href="?gd=boord"><g>bòrd</g></a>, <a
-                                    href="?gd=bocsa"><g>bocsa</g></a>, <a href="?gd=cat"
-                                    ><g>cat</g></a>, <a href="?gd=ceann"><g>ceann</g></a>, <a
-                                    href="?gd=clachan"><g>clachan</g></a>, <a href="?gd=cladach"
-                                        ><g>cladach</g></a>, <a href="?gd=coire"><g>coire</g></a>,
-                                    <a href="?gd=coota"><g>còta</g></a>, <a href="?gd=cuu"
+                                    href="?gd=balach"><g>balach</g></a>, <a href="?gd=balla"
+                                        ><g>balla</g></a>, <a href="?gd=baata"><g>bàta</g></a>, <a
+                                    href="?gd=boord"><g>bòrd</g></a>, <a href="?gd=bocsa"
+                                        ><g>bocsa</g></a>, <a href="?gd=cat"><g>cat</g></a>, <a
+                                    href="?gd=ceann"><g>ceann</g></a>, <a href="?gd=clachan"
+                                        ><g>clachan</g></a>, <a href="?gd=cladach"
+                                    ><g>cladach</g></a>, <a href="?gd=coire"><g>coire</g></a>, <a
+                                    href="?gd=coota"><g>còta</g></a>, <a href="?gd=cuu"
                                     ><g>cù</g></a>, <a href="?gd=dorus"><g>dorus</g></a>, <a
                                     href="?gd=duine"><g>duine</g></a>, <a href="?gd=each"
                                         ><g>each</g></a>, <a href="?gd=falt"><g>falt</g></a>, <a
@@ -57,8 +58,9 @@
                             </li>
                             <li><a href="?xx=nouns/derived_common_nouns">derived common nouns</a> –
                                     <a href="?gd=_ag"><g>-(e)ag</g></a> – <a href="?gd=caileag"
-                                        ><g>caileag</g></a>; <a href="?gd=iasgach"
-                                    ><g>iasgach</g></a></li>
+                                        ><g>caileag</g></a>; <a href="?gd=clachair"
+                                    ><g>clachair</g></a>, <a href="?gd=iasgach"
+                                ><g>iasgach</g></a></li>
                         </ul>
                     </li>
                     <li><a href="?xx=nouns/pronouns">pronouns</a>
@@ -131,6 +133,7 @@
                                     <li>animate – <ul>
                                             <li>people – <a href="?gd=balach"><g>balach</g></a>, <a
                                                   href="?gd=caileag"><g>caileag</g></a>, <a
+                                                  href="?gd=clachair"><g>clachair</g></a>, <a
                                                   href="?gd=duine"><g>duine</g></a>, <a
                                                   href="?gd=fear"><g>fear</g></a>, <a
                                                   href="?gd=gille"><g>gille</g></a>
@@ -146,7 +149,8 @@
                                             <li>buildings – <a href="?gd=sgoil"><g>sgoil</g></a>, <a
                                                   href="?gd=taigh"><g>taigh</g></a>
                                                 <ul>
-                                                  <li>parts of buildings – <a href="?gd=dorus"
+                                                  <li>parts of buildings – <a href="?gd=balla"
+                                                  ><g>balla</g></a>, <a href="?gd=dorus"
                                                   ><g>dorus</g></a>, <a href="?gd=laar"
                                                   ><g>làr</g></a>, <a href="?gd=seoomar"
                                                   ><g>seòmar</g></a>, <a href="?gd=teine"
