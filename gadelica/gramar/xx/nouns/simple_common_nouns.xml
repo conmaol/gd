@@ -89,9 +89,9 @@
         <en>table</en>
         <slen/>
         <g>bùird</g></li>
-    <li><a href="?gd=botul"><g>botul</g></a>
-      <masc/>
-      <en>botle</en></li>
+      <li><a href="?gd=botul"><g>botul</g></a>
+        <masc/>
+        <en>botle</en></li>
       <!--
       <li><a href="?gd=brat"><g>brat</g></a>
         <masc/>
@@ -313,6 +313,15 @@
       <li><a href="?gd=rathad"><g>rathad</g></a>
         <masc/>
         <en>road</en> pl. <b>rathaidean</b></li>
+        -->
+      <li><a href="?gd=rud"><g>rud</g></a>
+        <masc/>
+        <en>thing</en>
+        <gen/>
+        <g>rud</g>
+        <pl/>
+        <g>rudan</g></li>
+      <!--
       <li><m>rùm</m> masc. <en>room</en> pl. <b>rumannan</b></li>
       <li><m>saoghal</m> masc. <en>world</en></li>
       <li><a href="?gd=sagart"><g>sagart</g></a>
