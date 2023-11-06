@@ -135,13 +135,19 @@
             <tr>Where is the book? The book is on the table.</tr>
             <ref text="617">td. 20</ref>
           </li>
-        <li>
-          <gd>Có bha ag iasgach an diugh? Bha Alasdair. Càit an robh Alasdair ag iasgach?
-            Bha e ag iasgach <m>air an abhainn</m>.</gd>
-          <tr>Who was fishing today? Alexander was. Where was Alexander fishing? He was fishing on
-            the river.</tr>
-          <ref text="617">td. 20</ref>
-        </li>
+          <li>
+            <gd>Có bha ag iasgach an diugh? Bha Alasdair. Càit an robh Alasdair ag iasgach? Bha e ag
+              iasgach <m>air an abhainn</m>.</gd>
+            <tr>Who was fishing today? Alexander was. Where was Alexander fishing? He was fishing on
+              the river.</tr>
+            <ref text="617">td. 20</ref>
+          </li>
+          <li>
+            <gd>Tha an cnoc seo àrd. Dé tha <m>air a’ chnoc</m>? Tha taigh mór <m>air a’
+              chnoc</m>.</gd>
+            <tr>This hill is high. What is on the hill? There is a big house on the hill.</tr>
+            <ref text="617">td. 20</ref>
+          </li>
         </xl>
       </p>
       <p>Examples with humans – <xl>
@@ -482,14 +488,16 @@
       <section>
         <h>verbs</h>
         <p><g>air</g> can be used to introduce the complement of certain verbs.</p>
-        <p>cf. <g><a href="?gd=cuir">cuir</a> air ...</g> <en>put something on ...</en></p>
+        <p>cf. <g><a href="?gd=cuir">cuir</a> air ...</g>
+          <en>put something on ...</en></p>
       </section>
-      
+
       <section>
         <h>adjectives</h>
         <p><g>air</g> can be used to introduce the complement of certain adjectives.</p>
-      <p>cf. <g><a href="?gd=ceaarr">ceàrr</a> air ...</g> <en>wrong with</en></p>
-    </section>
+        <p>cf. <g><a href="?gd=ceaarr">ceàrr</a> air ...</g>
+          <en>wrong with</en></p>
+      </section>
     </section>
     <section id="uses-mod">
       <h>modifier</h>
@@ -511,7 +519,8 @@
             <ref text="617">td. 20</ref>
           </li>
         </xl>
-      </p></section>
+      </p>
+    </section>
   </section>
 
 

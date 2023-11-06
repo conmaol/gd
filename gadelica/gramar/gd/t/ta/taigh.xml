@@ -131,28 +131,36 @@
                 </xl>
             </p>
         </section>
-        <!--<section id="deps-mods">
+        <section id="deps-mods">
             <h>modifiers</h>
-            <p>Like other nouns, <g>achadh</g> can occur with an (attributive) <a href="?xx=adjectives/adjectives"
-                >adjective</a> (post-)modifier.</p>
+            <p>Like other nouns, <g>taigh</g> can occur with an (attributive) <a
+                    href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
             <p>Some examples – <xl>
-                
-            </xl>
+                    <li>
+                        <gd>Dé tha air a’ chnoc? Tha <m>taigh mór</m> air a’ chnoc.</gd>
+                        <tr>What is on the hill? There is a big house on the hill.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
             </p>
-        </section>-->
+        </section>
     </section>
 
     <section>
         <h>uses</h>
-        <!--<section id="uses-sbj">
+        <section id="uses-sbj">
             <h>subject</h>
-            <p>Like other nouns, <g>achadh</g> can be used as the subject of a <a
-                href="?xx=verbs/verbs">verb</a>.</p>
+            <p>Like other nouns, <g>taigh</g> can be used as the subject of a <a
+                    href="?xx=verbs/verbs">verb</a>.</p>
             <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                
-            </xl>
+                    <li>
+                        <gd>Dé tha air a’ chnoc? Tha <m>taigh</m> mór air a’ chnoc.</gd>
+                        <tr>What is on the hill? There is a big house on the hill.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
             </p>
-        </section>-->
+        </section>
         <!--<section id="uses-obj">
             <h>object</h>
             <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>

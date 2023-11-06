@@ -21,6 +21,11 @@
                         <ref text="617">td. 15</ref>
                     </li>
                     <li>
+                        <gd>Tha an cnoc <m>seo</m> àrd.</gd>
+                        <tr>This hill is high.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
                         <gd>Tha <m>seo</m> fuar.</gd>
                         <tr>This is cold.</tr>
                         <ref text="617">td. 15</ref>
@@ -139,6 +144,11 @@
                     <li>
                         <gd>Dé tha ceàrr air <m>a’ ghille seo</m>? Tha a cheann goirt.</gd>
                         <tr>What is wrong with this boy? His head is sore.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <m>an cnoc seo</m> àrd.</gd>
+                        <tr>This hill is high.</tr>
                         <ref text="617">td. 20</ref>
                     </li>
                 </xl>
