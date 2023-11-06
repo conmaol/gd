@@ -126,12 +126,13 @@
             </xl>
             </p>
         </section>-->
-        <section id="deps-mods">
+        <section>
             <h>modifiers</h>
             <!--<p>Like other nouns, <g>rud</g> can occur with an (attributive) <a
                 href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>-->
             <module id="rud_sam_bith">
                 <h>rud sam bith</h>
+                <p><g>rud <a href="?gd=bith">sam bith</a></g> <en>something, anything</en></p>
                 <p>Some examples – <xl>
                 <li>
                     <gd>A bheil <m>rud sam bith</m> anns a’ bhotul? Tha. Dé tha anns a’

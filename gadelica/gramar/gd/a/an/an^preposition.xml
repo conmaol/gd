@@ -177,6 +177,13 @@
             <tr>What is in that box? There are eggs in the box.</tr>
             <ref text="617">td. 20</ref>
           </li>
+          <li>
+            <gd>A bheil rud sam bith <m>anns a’ bhotul</m>? Tha. Dé tha <m>anns a’ bhotul</m>? Tha
+              bainne <m>anns a’ bhotul</m>.</gd>
+            <tr>Is there anything in the bottle? Yes, there is. What is in the bottle? There is milk
+              in the bottle.</tr>
+            <ref text="617">td. 20</ref>
+          </li>
         </xl>
       </p>
 
@@ -230,6 +237,8 @@
           </xl>
         </p>
       </module>-->
+      <p>cf. <g>... sam <a href="?gd=bith">bith</a></g>
+        <en>some, any</en></p>
     </section>
   </section>
 
@@ -270,6 +279,13 @@
             <gd>A bheil uisge <m>anns</m> a’ choire? Tha.</gd>
             <tr>Is there water in the kettle? Yes, there is.</tr>
             <ref text="617">td. 120</ref>
+          </li>
+          <li>
+            <gd>A bheil rud sam bith <m>anns a’ bhotul</m>? Tha. Dé tha <m>anns a’ bhotul</m>? Tha
+              bainne <m>anns a’ bhotul</m>.</gd>
+            <tr>Is there anything in the bottle? Yes, there is. What is in the bottle? There is milk
+              in the bottle.</tr>
+            <ref text="617">td. 20</ref>
           </li>
         </xl>
       </p>
@@ -398,7 +414,8 @@
           </li>
         </ul>-->
       </p>
-
+      <p>Noun modifier – cf. <g>... sam <a href="?gd=bith">bith</a></g>
+        <en>some, any</en></p>
     </section>
   </section>
 

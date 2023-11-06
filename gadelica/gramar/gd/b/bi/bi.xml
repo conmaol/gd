@@ -442,6 +442,11 @@
                       <tr>This (one) is hot.</tr>
                       <ref text="617">td. 15</ref>
                     </li>
+                    <li>
+                      <gd>Dé tha <m>seo</m>? Tha botul.</gd>
+                      <tr>What is this? It’s a bottle.</tr>
+                      <ref text="617">td. 20</ref>
+                    </li>
                   </xl>
                 </li>
               </ul>
@@ -822,7 +827,7 @@
         </p>
       </section>
     </section>
-    <section id="uses-dependent">
+    <section>
       <h>dependent</h>
       <p>A dependent form of <g>bi</g> can be used as the complement of one of the verb particles <a
           href="?gd=cha"><g>cha</g></a>, <a href="?gd=an^particle"><g>an</g></a> or <a
@@ -893,6 +898,11 @@
                 <gd><m>A bheil</m> an t-uisge ann? Tha gu dearbh.</gd>
                 <tr>Is it raining. Yes, indeed.</tr>
                 <ref text="617">td. 14 [adapted]</ref>
+              </li>
+              <li>
+                <gd><m>A bheil</m> rud sam bith anns a’ bhotul? Tha.</gd>
+                <tr>Is there anything in the bottle? Yes, there is.</tr>
+                <ref text="617">td. 20</ref>
               </li>
             </xl>
           </p>

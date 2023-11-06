@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>bith</h>
+    <p><g>bith</g>
+        <en>being</en> is a feminine noun.</p>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <module>
+                <h>... sam bith</h>
+                <p>cf. <g><a href="?gd=rud">rud</a> sam bith</g>
+                    <en>something, anything</en> (cf. <a href="?gd=an^preposition"><g>an</g></a> <en>in</en>).</p>
+                <p>eDIL Twitter (<ax
+                        href="https://twitter.com/eDIL_Dictionary/status/1271399267249291266"
+                        >2020-6-12</ax>) – “BITH is an early Irish word for ‘the world’. It survives
+                    in Modern Irish and Scottish Gaelic in phrases such as ‘duine ar bith’ and
+                    ‘duine sam bith’, both of which mean ‘anyone’ or, more literally, ‘a person in
+                    the world’.”</p>
+            </module>
+        </section>
+    </section>
+
+</module>

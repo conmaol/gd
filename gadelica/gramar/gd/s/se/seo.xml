@@ -45,6 +45,11 @@
                         <tr>What is wrong with this boy? His head is sore.</tr>
                         <ref text="617">td. 20</ref>
                     </li>
+                    <li>
+                        <gd>Dé tha <m>seo</m>? Tha botul.</gd>
+                        <tr>What is this? It’s a bottle.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
                 </xl>
             </p>
         </section>
@@ -109,6 +114,11 @@
                         <gd>Tha <m>seo</m> dubh ach tha sin geal.</gd>
                         <tr>This (one) is black but this (one) is white.</tr>
                         <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Dé tha <m>seo</m>? Tha botul.</gd>
+                        <tr>What is this? It’s a bottle.</tr>
+                        <ref text="617">td. 20</ref>
                     </li>
                 </xl>
             </p>
