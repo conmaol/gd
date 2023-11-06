@@ -110,14 +110,18 @@
 
     <section>
         <h>dependents</h>
-        <!--<section id="deps-bare">
+        <section id="deps-bare">
             <h>bare</h>
             <p>Like other nouns, <g>cladach</g> can occur on its own, without any dependents.</p>
             <p>Some examples – <xl>
-                
-            </xl>
+                    <li>
+                        <gd>Nach robh <m>leabhar</m> anns a’ bhocsa sin? Bha, bha Bìobull ann.</gd>
+                        <tr>Wasn’t there a book in that box? Yes, there was a Bible (in it).</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
             </p>
-        </section>-->
+        </section>
         <section id="deps-spr">
             <h>specifier</h>
             <p>Like other common nouns, <g>leabhar</g> can occur with a <a
@@ -147,14 +151,19 @@
         <section id="uses-sbj">
             <h>subject</h>
             <p>Like other nouns, <g>leabhar</g> can be used as the subject of a <a
-                href="?xx=verbs/verbs">verb</a>.</p>
+                    href="?xx=verbs/verbs">verb</a>.</p>
             <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                <li>
-                    <gd>Càit a bheil an <m>leabhar</m>? Tha an <m>leabhar</m> air a’ bhòrd.</gd>
-                    <tr>Where is the book? The book is on the table.</tr>
-                    <ref text="617">td. 20</ref>
-                </li>
-            </xl>
+                    <li>
+                        <gd>Càit a bheil an <m>leabhar</m>? Tha an <m>leabhar</m> air a’ bhòrd.</gd>
+                        <tr>Where is the book? The book is on the table.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Nach robh <m>leabhar</m> anns a’ bhocsa sin? Bha, bha Bìobull ann.</gd>
+                        <tr>Wasn’t there a book in that box? Yes, there was a Bible (in it).</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
             </p>
             <!--<p>Examples with demonstrative pronouns used as copular verbs – <xl>
                 <li>

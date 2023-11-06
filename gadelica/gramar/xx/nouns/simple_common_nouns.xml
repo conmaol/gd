@@ -78,6 +78,11 @@
       <li><a href="?gd=biadh"><g>biadh</g></a>
         <masc/>
         <en>food</en> gen. <g>bìdh</g></li>
+        -->
+      <li><a href="?gd=biiobull"><g>Bìobull</g></a>
+        <masc/>
+        <en>Bible</en></li>
+      <!--
       <li><m>bò</m> fem. <en>cow</en> gen. <b>bà</b> dat. <b>boin</b> pl. <b>bà</b></li>
       <li><m>bodach</m> masc. <en>old man</en></li>
       -->
@@ -91,7 +96,7 @@
         <g>bùird</g></li>
       <li><a href="?gd=botul"><g>botul</g></a>
         <masc/>
-        <en>botle</en></li>
+        <en>bottle</en></li>
       <!--
       <li><a href="?gd=brat"><g>brat</g></a>
         <masc/>
@@ -139,7 +144,11 @@
         <masc/>
         <en>graveyard</en></li>
         -->
-      <li><a href="?gd=cnoc"><g>cnoc</g></a> <masc/> <en>hill</en> <slen/> <g>cnuic</g></li>
+      <li><a href="?gd=cnoc"><g>cnoc</g></a>
+        <masc/>
+        <en>hill</en>
+        <slen/>
+        <g>cnuic</g></li>
       <li><a href="?gd=coire"><g>coire</g></a>
         <masc/>
         <en>kettle</en></li>
