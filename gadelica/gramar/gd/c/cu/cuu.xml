@@ -222,14 +222,23 @@
             <p>Examples with <g><a href="?gd=le">le</a> cù</g>
                 <en>with a dog</en> – <xl>
                     <li>
-                        <gd>Tha an duine anns a’ mhonadh <m>leis a’ chù</m>.</gd>
-                        <tr>The man is on the moor with the dog.</tr>
-                        <ref text="617">td. 19</ref>
+                        <gd>Tha am bodach anns a’ mhonadh <m>leis a’ chù</m>.</gd>
+                        <tr>The old man is on the moor with the dog.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with <g><a href="?gd=ri">ri</a> cù</g> – <xl>
+                    <li>
+                        <gd>Nach robh Calum agus Màiri a’ cluich còmhla <m>ris a’ chù</m>? Cha robh,
+                            bha iad anns a’ bhaile.</gd>
+                        <tr>Weren’t Malcolm and Mary playing with the dog? No, they weren’t, they
+                            were in the town.</tr>
+                        <ref text="617">td. 21 [230]</ref>
                     </li>
                 </xl>
             </p>
         </section>
-
     </section>
 
 </module>

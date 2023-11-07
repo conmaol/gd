@@ -4,109 +4,109 @@
     <p><g>clachan</g>
         <en>village</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
-    
+
     <section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>clachan</g> are – <ul>
-            <li><m>clachan</m> – nominative/dative singular, genitive plural</li>
-            <li><m>clachain</m> – genitive singular, nominative/dative plural</li>
-        </ul>
+                <li><m>clachan</m> – nominative/dative singular, genitive plural</li>
+                <li><m>clachain</m> – genitive singular, nominative/dative plural</li>
+            </ul>
         </p>
         <section id="definiteness">
             <h>definiteness</h>
             <p><ul>
-                <li>indefinite <ul>
-                    <li>singular <ul>
-                        <li>nominative – <m>clachan</m></li>
-                        <li>dative – ann an <m>clachan</m></li>
-                        <li>genitive – taobh <m>clachain</m></li>
-                    </ul></li>
-                    <li>plural <ul>
-                        <li>nominative – <m>clachain</m></li>
-                        <li>dative – ann an <m>clachain</m></li>
-                        <li>genitive – taobh <m>chlachan</m></li>
-                    </ul></li>
-                </ul></li>
-                <li>definite <ul>
-                    <li>singular <ul>
-                        <li>nominative – <m>an clachan</m></li>
-                        <li>dative – anns <m>a’ chlachan</m></li>
-                        <li>genitive – taobh <m>a’ chlachain</m></li>
-                    </ul></li>
-                    <li>plural <ul>
-                        <li>nominative – <m>na clachain</m></li>
-                        <li>dative – anns <m>na clachain</m></li>
-                        <li>genitive – taobh <m>nan clachan</m></li>
-                    </ul></li>
-                </ul></li>
-            </ul></p>
+                    <li>indefinite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>clachan</m></li>
+                                    <li>dative – ann an <m>clachan</m></li>
+                                    <li>genitive – taobh <m>clachain</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>clachain</m></li>
+                                    <li>dative – ann an <m>clachain</m></li>
+                                    <li>genitive – taobh <m>chlachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>definite <ul>
+                            <li>singular <ul>
+                                    <li>nominative – <m>an clachan</m></li>
+                                    <li>dative – anns <m>a’ chlachan</m></li>
+                                    <li>genitive – taobh <m>a’ chlachain</m></li>
+                                </ul></li>
+                            <li>plural <ul>
+                                    <li>nominative – <m>na clachain</m></li>
+                                    <li>dative – anns <m>na clachain</m></li>
+                                    <li>genitive – taobh <m>nan clachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
         </section>
         <section id="number">
             <h>number</h>
             <p><ul>
-                <li>singular <ul>
-                    <li>indefinite <ul>
-                        <li>nominative – <m>clachan</m></li>
-                        <li>dative – ann an <m>clachan</m></li>
-                        <li>genitive – taobh <m>clachain</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>nominative – <m>an clachan</m></li>
-                        <li>dative – anns <m>a’ chlachan</m></li>
-                        <li>genitive – taobh <m>a’ chlachain</m></li>
-                    </ul></li>
-                </ul></li>
-                <li>plural <ul>
-                    <li>indefinite <ul>
-                        <li>nominative – <m>clachain</m></li>
-                        <li>dative – ann an <m>clachain</m></li>
-                        <li>genitive – taobh <m>chlachan</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>nominative – <m>na clachain</m></li>
-                        <li>dative – anns <m>na clachain</m></li>
-                        <li>genitive – taobh <m>nan clachan</m></li>
-                    </ul></li>
-                </ul></li>
-            </ul></p>
+                    <li>singular <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>clachan</m></li>
+                                    <li>dative – ann an <m>clachan</m></li>
+                                    <li>genitive – taobh <m>clachain</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>an clachan</m></li>
+                                    <li>dative – anns <m>a’ chlachan</m></li>
+                                    <li>genitive – taobh <m>a’ chlachain</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>plural <ul>
+                            <li>indefinite <ul>
+                                    <li>nominative – <m>clachain</m></li>
+                                    <li>dative – ann an <m>clachain</m></li>
+                                    <li>genitive – taobh <m>chlachan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>nominative – <m>na clachain</m></li>
+                                    <li>dative – anns <m>na clachain</m></li>
+                                    <li>genitive – taobh <m>nan clachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
         </section>
         <section id="case">
             <h>case</h>
             <p><ul>
-                <li>nominative <ul>
-                    <li>indefinite <ul>
-                        <li>singular – <m>clachan</m></li>
-                        <li>plural – <m>clachain</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>singular – <m>an clachan</m></li>
-                        <li>plural – <m>na clachain</m></li>
-                    </ul></li>
-                </ul></li>
-                <li>dative <ul>
-                    <li>indefinite <ul>
-                        <li>singular – ann an <m>clachan</m></li>
-                        <li>plural – ann an <m>clachain</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>singular – anns <m>a’ chlachan</m></li>
-                        <li>plural – anns <m>na clachain</m></li>
-                    </ul></li>
-                </ul></li>
-                <li>genitive <ul>
-                    <li>indefinite <ul>
-                        <li>singular – taobh <m>clachain</m></li>
-                        <li>plural – taobh <m>chlachan</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>singular – taobh <m>a’ chlachain</m></li>
-                        <li>plural – taobh <m>nan clachan</m></li>
-                    </ul></li>
-                </ul></li>
-            </ul></p>
+                    <li>nominative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – <m>clachan</m></li>
+                                    <li>plural – <m>clachain</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – <m>an clachan</m></li>
+                                    <li>plural – <m>na clachain</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>dative <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – ann an <m>clachan</m></li>
+                                    <li>plural – ann an <m>clachain</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – anns <m>a’ chlachan</m></li>
+                                    <li>plural – anns <m>na clachain</m></li>
+                                </ul></li>
+                        </ul></li>
+                    <li>genitive <ul>
+                            <li>indefinite <ul>
+                                    <li>singular – taobh <m>clachain</m></li>
+                                    <li>plural – taobh <m>chlachan</m></li>
+                                </ul></li>
+                            <li>definite <ul>
+                                    <li>singular – taobh <m>a’ chlachain</m></li>
+                                    <li>plural – taobh <m>nan clachan</m></li>
+                                </ul></li>
+                        </ul></li>
+                </ul></p>
         </section>
     </section>
-    
+
     <section>
         <h>dependents</h>
         <!--<section id="deps-bare">
@@ -120,14 +120,25 @@
         <section id="deps-spr">
             <h>specifier</h>
             <p>Like other common nouns, <g>clachan</g> can occur with a <a
-                href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
+                    href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
             <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                <li>
-                    <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach anns <m>a’ chlachan</m>.</gd>
-                    <tr>Where do you live? I live in the village.</tr>
-                    <ref text="617">td. 20</ref>
-                </li>
-            </xl>
+                    <li>
+                        <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach anns <m>a’
+                            chlachan</m>.</gd>
+                        <tr>Where do you live? I live in the village.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Nach robh Calum a’ fuireach anns <m>a’ chlachan</m>? Bha gu dearbh.</gd>
+                        <tr>Wasn’t Calum living in the village? Yes, indeed he was.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>An robh thu a’ fuireach anns <m>a’ chlachan</m>? Cha robh.</gd>
+                        <tr>Were you living in the village? No, I wasn’t.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                </xl>
             </p>
         </section>
         <!--<section id="deps-mods">
@@ -140,7 +151,7 @@
             </p>
         </section>-->
     </section>
-    
+
     <section>
         <h>uses</h>
         <!--<section id="uses-sbj">
@@ -171,18 +182,28 @@
         <section id="uses-comp">
             <h>complement</h>
             <p>Like other nouns, <g>clachan</g> can be used as the complement of a <a
-                href="?xx=prepositions/prepositions">preposition</a>.</p>
+                    href="?xx=prepositions/prepositions">preposition</a>.</p>
             <p>Examples with <g><a href="?gd=an^preposition">ann an</a> clachan</g>
                 <en>in a village</en> – <xl>
                     <li>
-                        <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach <m>anns a’ chlachan</m>.</gd>
+                        <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach <m>anns a’
+                            chlachan</m>.</gd>
                         <tr>Where do you live? I live in the village.</tr>
                         <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Nach robh Calum a’ fuireach <m>anns a’ chlachan</m>? Bha gu dearbh.</gd>
+                        <tr>Wasn’t Calum living in the village? Yes, indeed he was.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>An robh thu a’ fuireach <m>anns a’ chlachan</m>? Cha robh.</gd>
+                        <tr>Were you living in the village? No, I wasn’t.</tr>
+                        <ref text="617">td. 21 [229]</ref>
                     </li>
                 </xl>
             </p>
         </section>
     </section>
-    
-</module>
 
+</module>

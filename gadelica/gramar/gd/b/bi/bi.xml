@@ -802,6 +802,11 @@
               <tr>Malcolm and Mary were working.</tr>
               <ref text="617">td. 16</ref>
             </li>
+            <li>
+              <gd><m>Bha</m> am bocsa air a’ bhòrd.</gd>
+              <tr>The box was on the table.</tr>
+              <ref text="617">td. 21 [229]</ref>
+            </li>
           </xl>
         </p>
       </section>
@@ -1023,11 +1028,21 @@
                 <tr>Wasn’t Mary busy? Yes, she was.</tr>
                 <ref text="617">td. 17</ref>
               </li>
-            <li>
-              <gd><m>Nach robh</m> leabhar anns a’ bhocsa sin? Bha, bha Bìobull ann.</gd>
-              <tr>Wasn’t there a book in that box? Yes, there was a Bible (in it).</tr>
-              <ref text="617">td. 20</ref>
-            </li>
+              <li>
+                <gd><m>Nach robh</m> leabhar anns a’ bhocsa sin? Bha, bha Bìobull ann.</gd>
+                <tr>Wasn’t there a book in that box? Yes, there was a Bible (in it).</tr>
+                <ref text="617">td. 20</ref>
+              </li>
+              <li>
+                <gd><m>Nach robh</m> Calum a’ fuireach anns a’ chlachan? Bha gu dearbh.</gd>
+                <tr>Wasn’t Calum living in the village? Yes, indeed he was.</tr>
+                <ref text="617">td. 20</ref>
+              </li>
+              <li>
+                <gd><m>Nach robh</m> bainne anns a’ bhotul? Bha.</gd>
+                <tr>Wasn’t there milk in the bottle? Yes, there was.</tr>
+                <ref text="617">td. 21 [229]</ref>
+              </li>
             </xl></p>
         </module>
       </section>

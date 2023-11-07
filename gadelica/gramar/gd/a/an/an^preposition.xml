@@ -184,6 +184,11 @@
               in the bottle.</tr>
             <ref text="617">td. 20</ref>
           </li>
+          <li>
+            <gd>Tha an cat <m>anns a’ phoca</m>.</gd>
+            <tr>The cat is in the sack.</tr>
+            <ref text="617">td. 21 [229]</ref>
+          </li>
         </xl>
       </p>
 
@@ -343,14 +348,27 @@
     </section>
 
 
-    <!--<section id="uses-comp">
+    <section id="uses-comp">
       <h>complement</h>
       <p><g>an</g> can be used to introduce the complement of certain verbs – <ul>
-          <li><g><a href="?gd=tilg">tilg</a> ann an</g>
-            <en>throw something into something</en></li>
+          <li><g><a href="?gd=fuirich">fuirich</a> ann an</g>
+            <en>live somewhere</en>
+            <xl>
+              <li>
+                <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach <m>anns</m> a’ chlachan.</gd>
+                <tr>Where do you live? I live in the village.</tr>
+                <ref text="617">td. 20</ref>
+              </li>
+              <li>
+                <gd>An robh thu a’ fuireach <m>anns</m> a’ chlachan? Cha robh.</gd>
+                <tr>Were you living in the village? No, I wasn’t.</tr>
+                <ref text="617">td. 21 [229]</ref>
+              </li>
+            </xl>
+          </li>
         </ul>
       </p>
-    </section>-->
+    </section>
 
 
     <section id="uses-mod">
@@ -387,9 +405,9 @@
             <ref text="617">td. 14</ref>
           </li>
           <li>
-            <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach <m>anns</m> a’ chlachan.</gd>
-            <tr>Where do you live? I live in the village.</tr>
-            <ref text="617">td. 20</ref>
+            <gd>Cha robh sinn a’ cluich <m>anns</m> an taigh.</gd>
+            <tr>We were not playing in the house.</tr>
+            <ref text="617">td. 21 [230]</ref>
           </li>
         </xl>
       </p>

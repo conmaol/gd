@@ -17,6 +17,11 @@
                         <tr>Is the dog swift? Yes, indeed. The dog is very swift.</tr>
                         <ref text="617">td. 14</ref>
                     </li>
+                    <li>
+                        <gd>Nach robh Calum a’ <m>fuireach</m> anns a’ chlachan? Bha gu dearbh.</gd>
+                        <tr>Wasn’t Calum living in the village? Yes, indeed he was.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
                 </xl>
             </p>
         </section>
@@ -31,6 +36,11 @@
                         <gd>A bheil an cù luath? Tha, <m>gu dearbh</m>. Tha an cù glé luath.</gd>
                         <tr>Is the dog swift? Yes, indeed. The dog is very swift.</tr>
                         <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>Nach robh Calum a’ fuireach anns a’ chlachan? Bha <m>gu dearbh</m>.</gd>
+                        <tr>Wasn’t Calum living in the village? Yes, indeed he was.</tr>
+                        <ref text="617">td. 20</ref>
                     </li>
                 </xl>
             </p>

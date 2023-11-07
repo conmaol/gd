@@ -133,6 +133,11 @@
                             There is milk in the bottle.</tr>
                         <ref text="617">td. 20</ref>
                     </li>
+                    <li>
+                        <gd>Nach robh bainne anns <m>a’ bhotul</m>? Bha.</gd>
+                        <tr>Wasn’t there milk in the bottle? Yes, there was.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
                 </xl>
             </p>
         </section>
@@ -153,13 +158,13 @@
             <h>subject</h>
             <p>Like other nouns, <g>botul</g> can be used as the subject of a <a
                     href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl> 
-                <li>
-                    <gd>Dé tha seo? Tha <m>botul</m>.</gd>
-                    <tr>What is that? It’s a bottle.</tr>
-                    <ref text="617">td. 20</ref>
-                </li>
-            </xl>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
+                    <li>
+                        <gd>Dé tha seo? Tha <m>botul</m>.</gd>
+                        <tr>What is that? It’s a bottle.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
             </p>
             <!--<p>Examples with demonstrative pronouns used as copular verbs – <xl>
                 <li>
@@ -188,13 +193,18 @@
             <p>Like other nouns, <g>botul</g> can be used as the complement of a <a
                     href="?xx=prepositions/prepositions">preposition</a>.</p>
             <p>Examples with <g><a href="?gd=an^preposition">ann am</a> botul</g>
-                <en>in a bottle</en> – <xl> 
+                <en>in a bottle</en> – <xl>
                     <li>
                         <gd>A bheil rud sam bith <m>anns a’ bhotul</m>? Tha. Dé tha <m>anns a’
-                            bhotul</m>? Tha bainne <m>anns a’ bhotul</m>.</gd>
+                                bhotul</m>? Tha bainne <m>anns a’ bhotul</m>.</gd>
                         <tr>Is there anything in the bottle? Yes, there is. What is in the bottle?
                             There is milk in the bottle.</tr>
                         <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Nach robh bainne <m>anns a’ bhotul</m>? Bha.</gd>
+                        <tr>Wasn’t there milk in the bottle? Yes, there was.</tr>
+                        <ref text="617">td. 21 [229]</ref>
                     </li>
                 </xl>
             </p>

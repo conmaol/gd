@@ -132,15 +132,20 @@
                 </xl>
             </p>
         </section>
-        <!--<section id="deps-mods">
+        <section id="deps-mods">
             <h>modifiers</h>
             <p>Like other nouns, <g>cnoc</g> can occur with an (attributive) <a
-                href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
+                    href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
             <p>Some examples – <xl>
-                
-            </xl>
+                    <li>
+                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ <m>chnoc
+                            àrd</m>.</gd>
+                        <tr>Where is the big house? The big house is on the tall hill.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                </xl>
             </p>
-        </section>-->
+        </section>
     </section>
 
     <section>
@@ -186,6 +191,12 @@
                         <tr>This hill is high. What is on the hill? There is a big house on the
                             hill.</tr>
                         <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Càit a bheil an taigh mór? Tha an taigh mór <m>air a’ chnoc
+                            àrd</m>.</gd>
+                        <tr>Where is the big house? The big house is on the tall hill.</tr>
+                        <ref text="617">td. 21 [229]</ref>
                     </li>
                 </xl>
             </p>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>poca</h>
+    <p><g>poca</g>
+        <en>sack, bag</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
+    
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>poca</g> are – <ul>
+            <li><m>poca</m> – nominative/dative/genitive singular</li>
+            <li><m>pocaichean</m> – nominative/dative/genitive plural</li>
+        </ul>
+        </p>
+        <section id="definiteness">
+            <h>definiteness</h>
+            <p><ul>
+                <li>indefinite <ul>
+                    <li>singular <ul>
+                        <li>nominative – <m>poca</m></li>
+                        <li>dative – le <m>poca</m></li>
+                        <li>genitive – taobh <m>poca</m></li>
+                    </ul></li>
+                    <li>plural <ul>
+                        <li>nominative – <m>pocannan</m></li>
+                        <li>dative – le <m>pocannan</m></li>
+                        <li>genitive – taobh <m>phocannan</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>definite <ul>
+                    <li>singular <ul>
+                        <li>nominative – <m>am poca</m></li>
+                        <li>dative – leis <m>a’ phoca</m></li>
+                        <li>genitive – taobh <m>a’ phoca</m></li>
+                    </ul></li>
+                    <li>plural <ul>
+                        <li>nominative – <m>na pocannan</m></li>
+                        <li>dative – leis <m>na pocannan</m></li>
+                        <li>genitive – taobh <m>nam pocannan</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+        <section id="number">
+            <h>number</h>
+            <p><ul>
+                <li>singular <ul>
+                    <li>indefinite <ul>
+                        <li>nominative – <m>poca</m></li>
+                        <li>dative – le <m>poca</m></li>
+                        <li>genitive – taobh <m>poca</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>nominative – <m>am poca</m></li>
+                        <li>dative – leis <m>a’ phoca</m></li>
+                        <li>genitive – taobh <m>a’ phoca</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>plural <ul>
+                    <li>indefinite <ul>
+                        <li>nominative – <m>pocannan</m></li>
+                        <li>dative – le <m>pocannan</m></li>
+                        <li>genitive – taobh <m>phocannan</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>nominative – <m>na pocannan</m></li>
+                        <li>dative – leis <m>na pocannan</m></li>
+                        <li>genitive – taobh <m>nam pocannan</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+        <section id="case">
+            <h>case</h>
+            <p><ul>
+                <li>nominative <ul>
+                    <li>indefinite <ul>
+                        <li>singular – <m>poca</m></li>
+                        <li>plural – <m>pocannan</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – <m>am poca</m></li>
+                        <li>plural – <m>na pocannan</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>dative <ul>
+                    <li>indefinite <ul>
+                        <li>singular – le <m>poca</m></li>
+                        <li>plural – le <m>pocannan</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – leis <m>a’ phoca</m></li>
+                        <li>plural – leis <m>na pocannan</m></li>
+                    </ul></li>
+                </ul></li>
+                <li>genitive <ul>
+                    <li>indefinite <ul>
+                        <li>singular – taobh <m>poca</m></li>
+                        <li>plural – taobh <m>phocannan</m></li>
+                    </ul></li>
+                    <li>definite <ul>
+                        <li>singular – taobh <m>a’ phoca</m></li>
+                        <li>plural – taobh <m>nam pocannan</m></li>
+                    </ul></li>
+                </ul></li>
+            </ul></p>
+        </section>
+    </section>
+    
+    <section>
+        <h>dependents</h>
+        <!--<section id="deps-bare">
+            <h>bare</h>
+            <p>Like other nouns, <g>poca</g> can occur on its own, without any dependents.</p>
+            <p>Some examples – <xl>
+                <li>
+                    <gd>Bha mi aig a’ chladach an diugh. Chunnaic mi <m>pocannan</m> air a’
+                        mhuir.</gd>
+                    <tr>I was at the shore today. I saw boats on the sea.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+            </xl>
+            </p>
+        </section>-->
+        <section id="deps-spr">
+            <h>specifier</h>
+            <p>Like other common nouns, <g>poca</g> can occur with a <a href="?xx=nouns/determiners"
+                >determiner</a> as pre-specifier.</p>
+            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+                <li>
+                    <gd>Tha an cat anns <m>a’ phoca</m>.</gd>
+                    <tr>The cat is in the sack.</tr>
+                    <ref text="617">td. 21 [229]</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+        <!--<section id="deps-mods">
+            <h>modifiers</h>
+            <p>Like other nouns, <g>poca</g> can occur with an (attributive) <a
+                href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
+            <p>Some examples – <xl>
+                
+            </xl>
+            </p>
+        </section>-->
+    </section>
+    
+    <section>
+        <h>uses</h>
+        <!--<section id="uses-sbj">
+            <h>subject</h>
+            <p>Like other nouns, <g>poca</g> can be used as the subject of a <a
+                href="?xx=verbs/verbs">verb</a>.</p>
+            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
+                
+            </xl>
+            </p>
+            <!-\-<p>Examples with demonstrative pronouns used as copular verbs – <xl>
+                <li>
+                    <gd>Seo an <m>poca</m>.</gd>
+                    <tr>This is the dog.</tr>
+                    <ref text="617">td. 15</ref>
+                </li>
+            </xl>
+            </p>-\->
+        </section>-->
+       <!-- <section id="uses-obj">
+            <h>object</h>
+            <p>Like other nouns, <g>poca</g> can be used as the object of a transitive verb.</p>
+            <p>Some examples – <xl>
+                <li>
+                    <gd>Bha mi aig a’ chladach an diugh. Chunnaic mi <m>pocannan</m> air a’
+                        mhuir.</gd>
+                    <tr>I was at the shore today. I saw boats on the sea.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+            </xl>
+            </p>
+        </section>-->
+        <section id="uses-comp">
+            <h>complement</h>
+            <p>Like other nouns, <g>poca</g> can be used as the complement of a <a
+                href="?xx=prepositions/prepositions">preposition</a>.</p>
+            <p>Examples with <g><a href="?gd=an^preposition">ann am</a> poca</g>
+                <en>in a sack</en> – <xl>
+                    <li>
+                        <gd>Tha an cat <m>anns a’ phoca</m>.</gd>
+                        <tr>The cat is in the sack.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        
+    </section>
+    
+</module>

@@ -127,6 +127,11 @@
                         <tr>Where is Mary today? She is in the town.</tr>
                         <ref text="617">td. 20</ref>
                     </li>
+                    <li>
+                        <gd>An robh Seumas anns <m>a’ bhaile</m> an diugh? Bha.</gd>
+                        <tr>Was James in the town today? Yes, he was.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
                 </xl>
             </p>
         </section>
@@ -193,6 +198,18 @@
                         <gd>Càit a bheil Màiri an diugh? Tha i <m>anns a’ bhaile</m>.</gd>
                         <tr>Where is Mary today? She is in the town.</tr>
                         <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>An robh Seumas <m>anns a’ bhaile</m> an diugh? Bha.</gd>
+                        <tr>Was James in the town today? Yes, he was.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                    <li>
+                        <gd>Nach robh Calum agus Màiri a’ cluich còmhla ris a’ chù? Cha robh, bha
+                            iad <m>anns a’ bhaile</m>.</gd>
+                        <tr>Weren’t Malcolm and Mary playing with the dog? No, they weren’t, they
+                            were in the town.</tr>
+                        <ref text="617">td. 21 [230]</ref>
                     </li>
                 </xl>
             </p>

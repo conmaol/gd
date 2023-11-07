@@ -84,8 +84,8 @@
         <en>Bible</en></li>
       <!--
       <li><m>bò</m> fem. <en>cow</en> gen. <b>bà</b> dat. <b>boin</b> pl. <b>bà</b></li>
-      <li><m>bodach</m> masc. <en>old man</en></li>
       -->
+      <li><a href="?gd=bodach"><g>bodach</g></a> <masc/> <en>old man</en></li>
       <li><a href="?gd=bocsa"><g>bocsa</g></a>
         <masc/>
         <en>box</en></li>
@@ -316,6 +316,13 @@
       <!--
       <li><m>pìob</m> fem. <en>pipe</en> gen. <b>pìoba</b></li>
       <li><m>piuthar</m> fem. <en>sister</en> gen. <b>peathar</b> pl. <b>peathraichean</b></li>
+      -->
+    <li><a href="?gd=poca"><g>poca</g></a>
+      <masc/>
+      <en>sack, bag</en>
+      <pl/>
+      <g>pocannan</g></li>
+      <!--
       <li><a href="?gd=post"><g>post</g></a>
         <masc/>
         <en>post</en></li>

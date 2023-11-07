@@ -2,50 +2,123 @@
 <module>
     <h>dé</h>
     <p><g>dé</g>
-        <en>what</en> is a question word (interrogative pronoun).</p>
-    <p>
-        <xl>
-            <li>
-                <gd><m>Dé</m> tha Seònaid a’ dèanamh anns an taigh? Tha i a’ cluich air an làr.</gd>
-                <tr>What is Janet doing in the house? She is playing on the floor.</tr>
-                <ref text="617">td. 14</ref>
-            </li>
-            <li>
-                <gd><m>Dé</m> tha air an teine? Tha gual air an teine.</gd>
-                <tr>What is on the fire? There is coal on the fire.</tr>
-                <ref text="617">td. 14</ref>
-            </li>
-            <li>
-                <gd><m>Dé</m> tha Seumas a’ dèanamh an diugh. Tha e ag obair gu trang anns an achadh.</gd>
-                <tr>What is James doing today? He is working busily in the field.</tr>
-                <ref text="617">td. 14</ref>
-            </li>
-            <li>
-                <gd><m>Dé</m> tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
-                <tr>What is wrong with this boy? His head is sore.</tr>
-                <ref text="617">td. 20</ref>
-            </li>
-            <li>
-                <gd><m>Dé</m> tha anns a’ bhocsa sin? Tha uighean anns a’ bhocsa.</gd>
-                <tr>What is in that box? There are eggs in the box.</tr>
-                <ref text="617">td. 20</ref>
-            </li>
-            <li>
-                <gd><m>Dé</m> tha seo? Tha botul.</gd>
-                <tr>What is this? It’s a bottle.</tr>
-                <ref text="617">td. 20</ref>
-            </li>
-            <li>
-                <gd><m>Dé</m> tha air a’ chnoc? Tha taigh mór air a’
-                    chnoc.</gd>
-                <tr>What is on the hill? There is a big house on the
-                    hill.</tr>
-                <ref text="617">td. 20</ref>
-            </li>
-        </xl>
-    </p>
-    
-    <p>Examples from Gairm – <xl id="gairm">
+        <en>what</en> is a question word.</p>
+    <section id="forms">
+        <h>forms</h>
+        <p>In post-1970s Neo-Gaelic orthography, the spelling has been standardised to <g>dè</g>,
+            with a grave accent.</p>
+        <p>In Lewis Gaelic, <g>dé</g> is pronounced like English ‘day’, rather than English
+            ‘jay’.</p>
+    </section>
+
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>complement</h>
+            <p>The complement of <g>dé</g> is introduced by the relative particle <a
+                    href="?gd=a^relative"><g>a</g></a>.</p>
+            <module id="dee_a_tha">
+                <h>dé a tha ...</h>
+                <p><g>dé [a] <a href="?gd=bi">tha</a> ...</g>
+                    <en>what is ...</en></p>
+                <p>Examples where <g>dé</g> stands for the subject, cf. <en> what is there ...
+                        ?</en> – <xl>
+                        <li>
+                            <gd>Dé tha air an teine? Tha gual air an teine.</gd>
+                            <tr>What is (there) on the fire? There is coal on the fire.</tr>
+                            <ref text="617">td. 14</ref>
+                        </li>
+                        <li>
+                            <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
+                            <tr>What is (there) wrong with this boy? His head is sore.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                        <li>
+                            <gd>Dé tha anns a’ bhocsa sin? Tha uighean anns a’ bhocsa.</gd>
+                            <tr>What is (there) in that box? There are eggs in the box.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>Examples where <g>dé</g> stands for something else – <xl>
+                        <li>
+                            <gd>Dé tha Seònaid a’ dèanamh anns an taigh? Tha i a’ cluich air an
+                                làr.</gd>
+                            <tr>What is Janet doing in the house? She is playing on the floor.</tr>
+                            <ref text="617">td. 14</ref>
+                        </li>
+                        <li>
+                            <gd>Dé tha seo? Tha botul.</gd>
+                            <tr>What is this? It’s a bottle.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                    </xl>
+                </p>
+                <module id="dee_a_bha">
+                    <h>dé a bha ...</h>
+                    <p>The past tense variant of <g>dé a tha ...</g> is <g>dé a bha ...</g>
+                        <en>what was ...</en>.</p>
+                    <p>Examples where <g>dé</g> stands for the subject, cf. <en> what was there ...
+                            ?</en> – <xl>
+                            <li>
+                                <gd>Dé bha anns a’ bhocsa? Bha uighean anns a’ bhocsa.</gd>
+                                <tr>What was (there) in the box? There were eggs in the box.</tr>
+                                <ref text="617">td. 21 [229]</ref>
+                            </li>
+                            <li>
+                                <gd>Dé bha air a’ chnoc? Bha taigh mór air a’ chnoc.</gd>
+                                <tr>What was (there) on the hill? There was a big house on the
+                                    hill.</tr>
+                                <ref text="617">td. 20 [adapted]</ref>
+                            </li>
+                        </xl></p>
+                    <p>Examples where <g>dé</g> stands for something else – <xl>
+                            <li>
+                                <gd>Dé bha Seumas a’ dèanamh an dé. Bha e ag obair gu trang anns an
+                                    achadh.</gd>
+                                <tr>What was James doing yesterday? He was working busily in the
+                                    field.</tr>
+                                <ref text="617">td. 14 [adapted]</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section id="uses-root">
+            <h>root</h>
+            <p><g>dé</g> can be used as the root of a direct question.</p>
+            <p>Some examples where <g>dé</g> stands for the subject – <xl>
+                    <li>
+                        <gd>Dé bha anns a’ bhocsa? Bha uighean anns a’ bhocsa.</gd>
+                        <tr>What was in the box? There were eggs in the box.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Some examples where <g>dé</g> stands for something else – <xl>
+                    <li>
+                        <gd>Dé tha Seumas a’ dèanamh an diugh. Tha e ag obair gu trang anns an
+                            achadh.</gd>
+                        <tr>What is James doing today? He is working busily in the field.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>Dé tha seo? Tha botul.</gd>
+                        <tr>What is this? It’s a bottle.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+
+    <!-- <p>Examples from Gairm – <xl id="gairm">
             <li>
                 <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no
                     do fhoghlum agus do litreachas na Gàidhlig. [...] <m>Dé na rudan a dh’ fhaodadh
@@ -80,9 +153,9 @@
                     Na bi smaoineachadh gun teid, a leanaibh. Chan eil fhios agad mu ’n deidhinn,
                     mar a th’ agamsa.” “Carson nach do bhàsaich thu o chionn leth-cheud bliadhna,”
                     dh’ éigh Màiri. Bha i smaoineachadh air na gnothaichean ud fhathast! “Greas ort
-                    leis an tea,” ars a màthair. Agus, mu dheireadh. “A’ chlann òga an diugh,
-                        chan eil fhios <m>dé na smaointean th[a] ruith orra</m>. Tha iad air bhoil,
-                    air bhoil.”</gd>
+                    leis an tea,” ars a màthair. Agus, mu dheireadh. “A’ chlann òga an diugh, chan
+                    eil fhios <m>dé na smaointean th[a] ruith orra</m>. Tha iad air bhoil, air
+                    bhoil.”</gd>
                 <tr>[...] Her voice grew louder. “One thing is certain, not one stranger will leave
                     [go out?] with my child. She will not go to a single dance, that is certain. It
                     is. It is. Do not be thinking that you will, child. You don’t know about them,
@@ -93,9 +166,6 @@
                 <ref text="400-46">td. 171, le Iain Mac a’ Ghobhainn</ref>
             </li>
         </xl>
-    </p>
-    
-    <p>cf. relative particle <a href="?gd=a^relative">a</a>.</p>
-    
-    
+    </p>-->
+
 </module>
