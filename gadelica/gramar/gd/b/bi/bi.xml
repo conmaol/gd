@@ -773,6 +773,142 @@
 
   <section>
     <h>uses</h>
+    <module id="tha">
+      <h>tha</h>
+      <p><g>tha</g>
+        <en>is, are</en> is the present tense independent form of <g>bi</g>.</p>
+      <p>Some examples as a sentential root – <xl>
+          <li>
+            <gd>Tha an cù dubh.</gd>
+            <tr>The dog is black.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+          <li>
+            <gd>Tha an gille aig an dorus.</gd>
+            <tr>The boy is at the door.</tr>
+            <ref text="617">td. 15</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Some examples as a conjunct of <a href="?gd=agus"><g>agus</g></a>
+        <en>and</en> or <a href="?gd=ach"><g>ach</g></a>
+        <en>but</en> – <xl>
+          <li>
+            <gd>Tha Màiri bhàn anns an achadh an diugh agus tha i ag obair gu trang.</gd>
+            <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
+          <li>
+            <gd>Tha an gille mór, ach tha a’ chaileag beag.</gd>
+            <tr>The boy is big, but the girl is small.</tr>
+            <ref text="617">td. 15</ref>
+          </li>
+        </xl>
+      </p>
+      <module id="bha">
+        <h>bha</h>
+        <p><g>bha</g>
+          <en>was, were</en> is the past tense equivalent of <g>tha</g>.</p>
+        <p>Some examples as a sentential root – <xl>
+            <li>
+              <gd>Bha Màiri trang.</gd>
+              <tr>Mary was busy.</tr>
+              <ref text="617">td. 16</ref>
+            </li>
+            <li>
+              <gd>Bha am bocsa air a’ bhòrd.</gd>
+              <tr>The box was on the table.</tr>
+              <ref text="617">td. 21 [229]</ref>
+            </li>
+          </xl>
+        </p>
+      </module>
+    </module>
+    <module id="bheil">
+      <h>(bh)eil</h>
+      <p><g>(bh)eil</g> is the dependent version of <g>tha</g>.</p>
+      <module id="chan_eil">
+        <h>chan eil</h>
+        <p><g>chan eil</g>
+          <en>is/are not</en> is the negative equivalent of <g>tha</g>, with the negative verb
+          particle <a href="?gd=cha"><g>cha</g></a>.</p>
+        <p>Some examples as sentential root – <xl>
+            <li>
+              <gd>Chan eil an seòmar seo blàth?</gd>
+              <tr>This room is not warm.</tr>
+              <ref text="617">td. 14</ref>
+            </li>
+            <li>
+              <gd>Chan eil Seònaid anns an achadh còmhla ri Seumas.</gd>
+              <tr>Janet is not in the field along with James.</tr>
+              <ref text="617">td. 14</ref>
+            </li>
+          </xl>
+        </p>
+        <module id="cha_robh">
+          <h>cha robh</h>
+          <p><g>cha robh</g>
+            <en>was/were not</en> is the past tense version of <g>chan eil</g>, and hence the
+            negative equivalent of <g>bha</g>.</p>
+          <p>Some examples as sentential root – <xl>
+              <li>
+                <gd>Cha robh mi anns an taigh.</gd>
+                <tr>I was not at home.</tr>
+                <ref text="617">td. 17</ref>
+              </li>
+              <li>
+                <gd>An robh an gille seo anns an sgoil an diugh? Cha robh, bha e anns an taigh fad
+                  an latha.</gd>
+                <tr>Was this boy in the school today? No, he was in the house all day long.</tr>
+                <ref text="617">td. 20 [adapted]</ref>
+              </li>
+            </xl>
+          </p>
+        </module>
+      </module>
+      <module id="a_bheil">
+        <h>a bheil</h>
+
+        <module id="an_robh">
+          <h>an robh</h>
+
+        </module>
+      </module>
+
+      <module id="nach_eil">
+        <h>nach eil</h>
+
+        <module id="nach_robh">
+          <h>nach robh</h>
+
+        </module>
+      </module>
+    </module>
+    <module id="a_tha">
+      <h>a tha</h>
+      <p><g>a tha</g>
+        <en>who/which/that is/are</en> is the relative version of <g>tha</g>, with the relative verb
+        particle <a href="?gd=a^relative"><g>a</g></a>
+        <en>who(m), which, that</en>.</p>
+      <p>Used with question words – <ul>
+          <li><g><a href="?gd=dee">dé</a> a tha ... ?</g>
+            <en>what is ... ?</en></li>
+          <li><g><a href="?gd=coo">có</a> a tha ... ?</g>
+            <en>who is ... ?</en></li>
+          <li>
+            <g><a href="?gd=ciamar">ciamar</a> a tha ... ?</g>
+            <en>how is ... ?</en></li>
+        </ul></p>
+      <module id="a_bha">
+        <h>a bha</h>
+        <p><g>a bha</g>
+          <en>who/which/that was/were</en> is the past tense variant of <g>a tha</g>.</p>
+      </module>
+    </module>
+  </section>
+
+  <section id="usesf">
+    <h>uses</h>
     <section id="uses-independent">
       <h>independent</h>
       <section>
@@ -839,7 +975,7 @@
           href="?gd=nach"><g>nach</g></a>.</p>
       <section>
         <h>negative</h>
-        <module id="chan_eil">
+        <module id="chan_eilf">
           <h>chan eil</h>
           <p><g>chan eil</g>
             <en>is not</en> is the negative form of <g>tha</g>.</p>
@@ -862,7 +998,7 @@
             </xl>
           </p>
         </module>
-        <module id="cha_robh">
+        <module id="cha_robhf">
           <h>cha robh</h>
           <p><g>cha robh</g>
             <en>was not</en> is the negative form of <g>bha</g>.</p>

@@ -2,16 +2,44 @@
 <module>
     <h>ciamar</h>
     <p><g>ciamar</g>
-        <en>how</en> is a question word (interrogative adverb).</p>
+        <en>how</en> is a question word.</p>
 
-    <p>
-        <xl>
-            <li>
-                <gd><m>Ciamar</m> a tha sibh? Tha mi gu math, tapadh leibh.</gd>
-                <ref text="617">td. 15</ref>
-            </li>
-        </xl>
-    </p>
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>complement</h>
+            <p>The complement of <g>ciamar</g> is introduced by the relative particle <a
+                    href="?gd=a^relative"><g>a</g></a>.</p>
+            <module id="ciamar_a_tha">
+                <h>ciamar a tha ... ?</h>
+                <p>Used with the predicative verb, <g>ciamar a <a href="?gd=bi">tha</a> ... ?</g>
+                    <en>who is ... ?</en></p>
+                <p>Examples where <g>ciamar</g> stands for the predicate – <xl>
+                        <li>
+                            <gd>Ciamar a tha sibh? Tha mi gu math, tapadh leibh.</gd>
+                            <tr>How are you? I am well, thank you.</tr>
+                            <ref text="617">td. 15</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
 
+    <section>
+        <h>uses</h>
+        <section id="uses-root">
+            <h>root</h>
+            <p><g>ciamar</g> can be used as the root of a direct question.</p>
+            <p>Examples where <g>ciamar</g> stands for the predicate – <xl>
+                    <li>
+                        <gd>Ciamar a tha sibh? Tha mi gu math, tapadh leibh.</gd>
+                        <tr>How are you? I am well, thank you.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
 
 </module>

@@ -2,14 +2,15 @@
 <module>
     <h>a</h>
     <p><g>a</g>
-        <en>that, which, who(m)</en> is the relative clause particle.</p>
+        <en>that, which, who(m)</en> is the relative verbal particle.</p>
 
     <section>
         <h>dependents</h>
-        <section>
+        <section id="deps-comp">
             <h>complement</h>
             <p>The complement of <g>a</g> is a relative form of a verb.</p>
-            <p>Some examples – <xl>
+            <p>Some examples with the predicative verb <a href="?gd=bi"><g>bi</g></a>
+                <en>be</en> – <xl>
                     <li>
                         <gd>Dé [a] <m>tha</m> Seònaid a’ dèanamh anns an taigh?</gd>
                         <tr>What is Janet doing in the house?</tr>
@@ -32,75 +33,23 @@
 
     <section>
         <h>uses</h>
-        <section>
+        <section id="uses-questions">
             <h>complement</h>
-            <module>
-                <h>dé a ...</h>
-                <p>Some examples – <xl>
-                        <li>
-                            <gd><m>Dé</m> [a] tha Seònaid a’ dèanamh anns an taigh? Tha i a’ cluich
-                                air an làr.</gd>
-                            <tr>What is Janet doing in the house? She is playing on the floor.</tr>
-                            <ref text="617">td. 14</ref>
-                        </li>
-                        <li>
-                            <gd><m>Dé</m> [a] tha air an teine? Tha gual air an teine.</gd>
-                            <tr>What is on the fire? There is coal on the fire.</tr>
-                            <ref text="617">td. 14</ref>
-                        </li>
-                        <li>
-                            <gd><m>Dé</m> [a] tha Seumas a’ dèanamh an diugh. Tha e ag obair gu
-                                trang anns an achadh.</gd>
-                            <tr>What is James doing today? He is working busily in the field.</tr>
-                            <ref text="617">td. 14</ref>
-                        </li>
-                        <li>
-                            <gd><m>Dé</m> [a] tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
-                            <tr>What is wrong with this boy? His head is sore.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                        <li>
-                            <gd><m>Dé</m> [a] tha anns a’ bhocsa sin? Tha uighean anns a’
-                                bhocsa.</gd>
-                            <tr>What is in that box? There are eggs in the box.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-            <module>
-                <h>có a ...</h>
-                <p>
-                    <xl>
-                        <li>
-                            <gd><m>Có</m> [a] tha a’ cluich air an làr? A’ chaileag.</gd>
-                            <tr>Who is playing on the floor? The girl.</tr>
-                            <ref text="617">td. 15</ref>
-                        </li>
-                        <li>
-                            <gd><m>Có</m> [a] bha ag iasgach air an loch? Bha Calum.</gd>
-                            <tr>Who was fishing on the lake? Calum was.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                        <li>
-                            <gd><m>Có</m> [a] chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
-                            <tr>Who put the box on the table? Mary did.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-            <module>
-                <h>ciamar a ...</h>
-                <p>
-                    <xl>
-                        <li>
-                            <gd><m>Ciamar</m> a tha sibh? Tha mi gu math, tapadh leibh.</gd>
-                            <ref text="617">td. 17</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
+            <p>The relative particle can be used as the complement of one of the following question
+                words – <ul>
+                    <li><g><a href="?gd=dee">dé</a> a ... ?</g>
+                        <en>what ... ?</en></li>
+                    <li><g><a href="?gd=coo">có</a> a ... ?</g>
+                        <en>who ... ?</en></li>
+                    <li><g><a href="?gd=ciamar">ciamar</a> a ... ?</g>
+                        <en>how ... ?</en></li>
+                    <li><g>cuin a ... ?</g>
+                        <en>when ... ?</en></li>
+                    <li><g>carson a ... ?</g>
+                        <en>why ... ?</en></li>
+                </ul>
+            </p>
+            <p>Note however that the question word <g><a href="?gd=caait">càit</a> ... ?</g> <en>where ... ?</en> governs the interrogative verbal particle <a href="?gd=an^particle"><g>an</g></a> rather than the relative particle <g>a</g>.</p>
         </section>
     </section>
 
