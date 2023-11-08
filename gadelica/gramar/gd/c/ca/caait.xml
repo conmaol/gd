@@ -6,7 +6,7 @@
 
     <section>
         <h>dependents</h>
-        <section id="uses-complement">
+        <section>
             <h>complement</h>
             <p>The complement of <g>càit</g> is introduced by the interrogative particle <a
                     href="?gd=an^particle"><g>an</g></a>.</p>
@@ -14,72 +14,76 @@
                 <h>càit a bheil ... ?</h>
                 <p><g>càit a <a href="?gd=bi">bheil</a> ... ?</g>
                     <en>where is ... ?</en></p>
-                <p>Some basic examples – <xl>
+                <p>Some examples where <g>càit</g> stands for a locative predicate – <xl>
                         <li>
-                            <gd><m>Càit a bheil</m> an gille beag an diugh? Tha e anns an
-                                sgoil.</gd>
+                            <gd>Càit a bheil an gille beag an diugh? Tha e anns an sgoil.</gd>
                             <tr>Where is the little boy today? He is in the school.</tr>
                             <ref text="617">td. 14</ref>
                         </li>
                         <li>
-                            <gd><m>Càit a bheil</m> an cat? Tha e aig an teine.</gd>
-                            <tr>Where is the cat? It is by the fire.</tr>
-                            <ref text="617">td. 14</ref>
-                        </li>
-                        <li>
-                            <gd>A bheil an cù aig an teine? Chan eil. <m>Càit a bheil</m> e? Tha e
-                                anns an achadh an diugh.</gd>
+                            <gd>A bheil an cù aig an teine? Chan eil. Càit a bheil e? Tha e anns an
+                                achadh an diugh.</gd>
                             <tr>Is the dog by the fire. No, it isn’t. Where is it? It is in the
                                 field today.</tr>
                             <ref text="617">td. 14</ref>
                         </li>
-                        <li>
-                            <gd><m>Càit a bheil</m> Màiri an diugh? Tha i anns a’ bhaile.</gd>
-                            <tr>Where is Mary today? She is in the town.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                        <li>
-                            <gd><m>Càit a bheil</m> am bocsa? Tha am bocsa air a’ bhòrd.</gd>
-                            <tr>Where is the box? The box is on the table.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
                     </xl>
                 </p>
-                <p>Some progressive examples – <xl>
+                <p>Some progressive examples where <g>càit</g> stands for a locative modifier of the
+                    verbal noun – <xl>
                         <li>
-                            <gd><m>Càit a bheil</m> Seumas ag obair? Tha e trang ag obair anns an
+                            <gd>Càit a bheil Seumas ag obair? Tha e trang ag obair anns an
                                 achadh.</gd>
                             <tr>Where is James working? He is busy working in the field.</tr>
                             <ref text="617">td. 15 [227–8]</ref>
                         </li>
                         <li>
-                            <gd><m>Càit a bheil</m> i a’ cluich? Tha i a’ cluich air an làr.</gd>
-                            <tr>Where is she playing? She is playing on the floor.</tr>
+                            <gd>Càit a bheil a’ chaileag a’ cluich? Tha i a’ cluich air an làr.</gd>
+                            <tr>Where is the girl playing? She is playing on the floor.</tr>
                             <ref text="617">td. 15</ref>
                         </li>
+                    </xl>
+                </p>
+                <p>Some progressive examples where <g>càit</g> stands for a locative complement of
+                    the verbal noun – <xl>
                         <li>
-                            <gd><m>Càit a bheil</m> thu a’ fuireach? Tha mi a’ fuireach anns a’
+                            <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach anns a’
                                 chlachan.</gd>
                             <tr>Where do you live? I live in the village.</tr>
                             <ref text="617">td. 20</ref>
                         </li>
                     </xl>
                 </p>
-            </module>
-            <module id="caait_an_robh">
-                <h>càit an robh ... ?</h>
-                <p><g>càit an <a href="?gd=bi">robh</a> ... ?</g>
-                    <en>where was ... ?</en></p>
-                <p>Some basic examples – <xl>
-                        <li>
-                            <gd>Có bha ag iasgach an diugh? Bha Alasdair. <m>Càit an robh</m>
-                                Alasdair ag iasgach? Bha e ag iasgach air an abhainn.</gd>
-                            <tr>Who was fishing today? Alexander was. Where was Alexander fishing?
-                                He was fishing on the river.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                    </xl>
-                </p>
+                <module id="caait_an_robh">
+                    <h>càit an robh ... ?</h>
+                    <p>The past tense variant of <g>càit a bheil ... ?</g> is <g>càit an robh ...
+                            ?</g>
+                        <en>where was ... ?</en>/</p>
+                    <p>Some examples where <g>càit</g> stands for a locative predicate – <xl>
+                            <li>
+                                <gd>Càit an robh Màiri an dé? Bha i anns a’ bhaile.</gd>
+                                <tr>Where was Mary yesterday? She was in the town.</tr>
+                                <ref text="617">td. 20</ref>
+                            </li>
+                            <li>
+                                <gd>Càit an robh an leabhar? Bha an leabhar air a’ bhòrd.</gd>
+                                <tr>Where was the book? The book was on the table.</tr>
+                                <ref text="617">td. 20</ref>
+                            </li>
+                        </xl>
+                    </p>
+                    <p>Some progressive examples where <g>càit</g> stands for a locative modifier of
+                        the verbal noun – <xl>
+                            <li>
+                                <gd>Có bha ag iasgach an diugh? Bha Alasdair. Càit an robh Alasdair
+                                    ag iasgach? Bha e ag iasgach air an abhainn.</gd>
+                                <tr>Who was fishing today? Alexander was. Where was Alexander
+                                    fishing? He was fishing on the river.</tr>
+                                <ref text="617">td. 20</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
             </module>
         </section>
     </section>
@@ -89,40 +93,30 @@
         <section id="uses-root">
             <h>root</h>
             <p><g>càit</g> can be used as the root of a direct question.</p>
-            <p>Some examples – <xl>
+            <p>Some examples where <g>càit</g> stands for a predicate – <xl>
                     <li>
-                        <gd><m>Càit</m> a bheil an gual? Air an teine.</gd>
-                        <tr>Where is the coal? On the fire.</tr>
-                        <ref text="617">td. 15 [227]</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil Seònaid anns an sgoil an diugh? Chan eil. <m>Càit</m> a bheil i?
-                            Tha i anns an taigh.</gd>
-                        <tr>Is Janet in the school today? No, she isn’t. Where is she? She is in the
-                            house.</tr>
+                        <gd>Càit a bheil an cat bàn an-diugh? Tha e anns an taigh còmhla ri
+                            Seònaid.</gd>
+                        <tr>Where is the white cat today? It is in the house along with Janet.</tr>
                         <ref text="617">td. 14</ref>
                     </li>
                     <li>
-                        <gd><m>Càit</m> a bheil Màiri an diugh? Tha i anns a’ bhaile.</gd>
-                        <tr>Where is Mary today? She is in the town.</tr>
-                        <ref text="617">td. 20</ref>
+                        <gd>Càit an robh an gual? Bha e air an teine.</gd>
+                        <tr>Where is the coal? On the fire.</tr>
+                        <ref text="617">td. 15 [227]</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Some examples with the progressive – <xl>
+                    <li>
+                        <gd>Càit a bheil a’ chaileag a’ cluich? Tha i a’ cluich air an làr.</gd>
+                        <tr>Where is the girl playing? She is playing on the floor.</tr>
+                        <ref text="617">td. 15</ref>
                     </li>
                     <li>
-                        <gd><m>Càit</m> a bheil an leabhar? Tha an leabhar air a’ bhòrd.</gd>
-                        <tr>Where is the book? The book is on the table.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                    <li>
-                        <gd>Có bha ag iasgach an diugh? Bha Alasdair. <m>Càit</m> an robh Alasdair
-                            ag iasgach? Bha e ag iasgach air an abhainn.</gd>
-                        <tr>Who was fishing today? Alexander was. Where was Alexander fishing? He
-                            was fishing on the river.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                    <li>
-                        <gd><m>Càit</m> a bheil am bocsa? Tha am bocsa air a’ bhòrd.</gd>
-                        <tr>Where is the box? The box is on the table.</tr>
-                        <ref text="617">td. 20</ref>
+                        <gd>Càit an robh thu a’ fuireach? Bha mi a’ fuireach anns a’ chlachan.</gd>
+                        <tr>Where do you live? I live in the village.</tr>
+                        <ref text="617">td. 20 [adapted]</ref>
                     </li>
                 </xl>
             </p>

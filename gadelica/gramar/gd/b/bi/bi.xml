@@ -790,6 +790,19 @@
           </li>
         </xl>
       </p>
+      <p>Some examples as a response to a direct question – <xl>
+          <li>
+            <gd>A bheil an cù aig an dorus? Tha.</gd>
+            <tr>Is the dog at the door? Yes, it is.</tr>
+            <ref text="617">td. 11</ref>
+          </li>
+          <li>
+            <gd>Nach eil an t-uisge ann? Tha.</gd>
+            <tr>Isn’t it raining. Yes, it is.</tr>
+            <ref text="617">td. 14 [adapted]</ref>
+          </li>
+        </xl>
+      </p>
       <p>Some examples as a conjunct of <a href="?gd=agus"><g>agus</g></a>
         <en>and</en> or <a href="?gd=ach"><g>ach</g></a>
         <en>but</en> – <xl>
@@ -822,16 +835,57 @@
             </li>
           </xl>
         </p>
+        <p>Some examples as a response to a direct question – <xl>
+            <li>
+              <gd>An robh thu sgìth? Bha.</gd>
+              <tr>Were you tired? Yes, I was.</tr>
+              <ref text="617">td. 16</ref>
+            </li>
+            <li>
+              <gd>Nach robh Calum ag iasgach air an loch an dé? Bha.</gd>
+              <tr>Wasn’t Malcolm fishing on the lake yesterday? Yes, he was.</tr>
+              <ref text="617">td. 20 [adapted]</ref>
+            </li>
+          </xl>
+        </p>
+        <p>Some examples as a conjunct of <a href="?gd=agus"><g>agus</g></a>
+          <en>and</en> or <a href="?gd=ach"><g>ach</g></a>
+          <en>but</en> – <xl>
+            <li>
+              <gd>Bha mi anns a’ mhonadh an dé. Chunnaic mi caoraich agus crodh anns a’ mhonadh. Bha
+                na caoraich shuas air cliathach na beinne <m>ach</m> bha an crodh faisg air an
+                loch.</gd>
+              <tr>I was on the moor yesterday. I saw sheep and cattle on the moor. The sheep were up
+                on the side of the mountain but the cattle were near the lake.</tr>
+              <ref text="617">td. 21</ref>
+            </li>
+          </xl>
+        </p>
+      </module>
+      <module id="bidh">
+        <h>bidh</h>
+        <p><g>bidh</g>
+          <en>will be</en> is the future tense equivalent of <g>tha</g>.</p>
+      </module>
+      <module id="bhiodh">
+        <h>bhiodh</h>
+        <p><g>bhiodh</g>
+          <en>would be</en> is the conditional tense equivalent of <g>tha</g>.</p>
       </module>
     </module>
     <module id="bheil">
       <h>(bh)eil</h>
-      <p><g>(bh)eil</g> is the dependent version of <g>tha</g>.</p>
+      <p><g>(bh)eil</g> is the dependent version of <g>tha</g>. It has the followed tensed variants
+        – <ul>
+          <li><g>robh</g> – past dependent (cf. <g>bha</g>)</li>
+          <li><g>bi</g> – future dependent (cf. <g>bidh</g>)</li>
+          <li><g>biodh</g> – conditional dependent (cf. <g>bhiodh</g>)</li>
+        </ul>
+      </p>
       <module id="chan_eil">
         <h>chan eil</h>
-        <p><g>chan eil</g>
-          <en>is/are not</en> is the negative equivalent of <g>tha</g>, with the negative verb
-          particle <a href="?gd=cha"><g>cha</g></a>.</p>
+        <p><g><a href="?gd=cha">chan</a> eil</g>
+          <en>is/are not</en> is the negative equivalent of <g>tha</g>.</p>
         <p>Some examples as sentential root – <xl>
             <li>
               <gd>Chan eil an seòmar seo blàth?</gd>
@@ -845,11 +899,24 @@
             </li>
           </xl>
         </p>
+        <p>Some examples as a response to a direct question – <xl>
+            <li>
+              <gd>A bheil sibh ag obair? Chan eil.</gd>
+              <tr>Are you working? No, I’m not.</tr>
+              <ref text="617">td. 13</ref>
+            </li>
+            <li>
+              <gd>Nach eil Calum anns an achadh? Chan eil.</gd>
+              <tr>Isn’t Malcolm in the field? No, he isn’t.</tr>
+              <ref text="617">td. 11</ref>
+            </li>
+          </xl>
+        </p>
         <module id="cha_robh">
           <h>cha robh</h>
           <p><g>cha robh</g>
-            <en>was/were not</en> is the past tense version of <g>chan eil</g>, and hence the
-            negative equivalent of <g>bha</g>.</p>
+            <en>was/were not</en> is the past tense version of <g>chan eil</g>, and the negative
+            equivalent of <g>bha</g>.</p>
           <p>Some examples as sentential root – <xl>
               <li>
                 <gd>Cha robh mi anns an taigh.</gd>
@@ -857,30 +924,139 @@
                 <ref text="617">td. 17</ref>
               </li>
               <li>
-                <gd>An robh an gille seo anns an sgoil an diugh? Cha robh, bha e anns an taigh fad
+                <gd>Cha robh Calum agus Seònaid ag obair.</gd>
+                <tr>Malcolm and Janet were not working.</tr>
+                <ref text="617">td. 16 [adapted]</ref>
+              </li>
+            </xl>
+          </p>
+          <p>Some examples as a response to a direct question – <xl>
+              <li>
+                <gd>An robh an gille seo anns an sgoil an diugh? Cha robh. Bha e anns an taigh fad
                   an latha.</gd>
                 <tr>Was this boy in the school today? No, he was in the house all day long.</tr>
                 <ref text="617">td. 20 [adapted]</ref>
               </li>
+              <li>
+                <gd>Nach robh sibh anns an achadh an diugh? Cha robh.</gd>
+                <tr>Weren’t you in the field today? No, we weren’t.</tr>
+                <ref text="617">td. 16</ref>
+              </li>
             </xl>
           </p>
+        </module>
+        <module id="cha_bhi">
+          <h>cha bhi</h>
+          <p><g>cha bhi</g>
+            <en>will not be</en> is the future tense version of <g>chan eil</g>, and the negative
+            equivalent of <g>bidh</g>.</p>
+        </module>
+        <module id="cha_bhiodh">
+          <h>cha bhiodh</h>
+          <p><g>cha bhiodh</g>
+            <en>would not be</en> is the conditioal tense version of <g>chan eil</g>, and the
+            negative equivalent of <g>bhiodh</g>.</p>
         </module>
       </module>
       <module id="a_bheil">
         <h>a bheil</h>
-
+        <p><g><a href="?gd=an^particle">a</a> bheil</g>
+          <en>is/are?</en> is the interrogative equivalent of <g>tha</g>.</p>
+        <p>Some examples as a question root – <xl>
+            <li>
+              <gd>A bheil rud sam bith anns a’ bhotul? Tha.</gd>
+              <tr>Is there anything in the bottle? Yes, there is.</tr>
+              <ref text="617">td. 20</ref>
+            </li>
+            <li>
+              <gd>A bheil sibh ag obair? Chan eil.</gd>
+              <tr>Are you working? No, I’m not.</tr>
+              <ref text="617">td. 13</ref>
+            </li>
+          </xl>
+        </p>
+        <p>Used with question words – <ul>
+            <li><g><a href="?gd=caait">càit</a> a bheil ... ?</g>
+              <en>where is/are ... ?</en></li>
+          </ul>
+        </p>
         <module id="an_robh">
           <h>an robh</h>
-
+          <p><g>an robh</g>
+            <en>was/were?</en> is the past tense version of <g>a bheil</g>, and the interrogative
+            equivalent of <g>bha</g>.</p>
+          <p>Some examples as a question root – <xl>
+              <li>
+                <gd>An robh Màiri trang? Bha.</gd>
+                <tr>Was Mary busy? Yes, she was.</tr>
+                <ref text="617">td. 16 [adapted]</ref>
+              </li>
+              <li>
+                <gd>An robh sibh anns an achadh an diugh? Cha robh.</gd>
+                <tr>Were you in the field today? No, we weren’t.</tr>
+                <ref text="617">td. 16</ref>
+              </li>
+            </xl>
+          </p>
+        </module>
+        <module id="am_bi">
+          <h>am bi</h>
+          <p><g>am bi</g>
+            <en>will be?</en> is the future tense version of <g>a bheil</g>, and the interrogative
+            equivalent of <g>bidh</g>.</p>
+        </module>
+        <module id="am_biodh">
+          <h>am biodh</h>
+          <p><g>am biodh</g>
+            <en>would be?</en> is the conditional tense version of <g>a bheil</g>, and the
+            interrogative equivalent of <g>bhiodh</g>.</p>
         </module>
       </module>
-
       <module id="nach_eil">
         <h>nach eil</h>
-
+        <p><g><a href="?gd=nach">nach</a> eil</g>
+          <en>isn’t/aren’t?</en> is the negative interrogative equivalent of <g>tha</g>.</p>
+        <p>Some examples as a question root – <xl>
+            <li>
+              <gd>Nach eil Calum anns an achadh? Chan eil.</gd>
+              <tr>Isn’t Malcolm in the field? No, he isn’t.</tr>
+              <ref text="617">td. 11</ref>
+            </li>
+            <li>
+              <gd>Nach eil thu sgìth? Tha. Tha mi glé sgìth.</gd>
+              <tr>Aren’t you tired? Yes, I am. I am very tired.</tr>
+              <ref text="617">td. 14</ref>
+            </li>
+          </xl></p>
         <module id="nach_robh">
           <h>nach robh</h>
-
+          <p><g>nach robh</g>
+            <en>wasn’t/weren’t?</en> is the past tense version of <g>nach eil</g>, and the
+            interrogative equivalent of <g>cha robh</g>.</p>
+          <p>Some examples as a question root – <xl>
+              <li>
+                <gd>Nach robh leabhar anns a’ bhocsa sin? Bha. Bha Bìobull ann.</gd>
+                <tr>Wasn’t there a book in that box? Yes, there was. There was a Bible (in it).</tr>
+                <ref text="617">td. 20</ref>
+              </li>
+              <li>
+                <gd>Nach robh Calum a’ fuireach anns a’ chlachan? Cha robh.</gd>
+                <tr>Wasn’t Calum living in the village? No, he wasn’t.</tr>
+                <ref text="617">td. 20</ref>
+              </li>
+            </xl></p>
+        </module>
+        <module id="nach_bi">
+          <h>nach bi</h>
+          <p><g>nach bi</g>
+            <en>won’t be?</en> is the future tense version of <g>nach eil</g>, and the interrogative
+            equivalent of <g>cha bhi</g>.</p>
+        </module>
+        <module id="nach_biodh">
+          <h>nach biodh</h>
+          <p><g>nach biodh</g>
+            <en>wouldn’t be?</en> is the past tense version of <g>nach eil</g>, and the
+            interrogative equivalent of <g>cha bhiodh</g>.</p>
         </module>
       </module>
     </module>
@@ -905,346 +1081,6 @@
           <en>who/which/that was/were</en> is the past tense variant of <g>a tha</g>.</p>
       </module>
     </module>
-  </section>
-
-  <section id="usesf">
-    <h>uses</h>
-    <section id="uses-independent">
-      <h>independent</h>
-      <section>
-        <h>root</h>
-        <p>An independent form of <g>bi</g> can be used as a sentential root.</p>
-        <p>Some present tense examples – <xl>
-            <li>
-              <gd><m>Tha</m> an cù dubh.</gd>
-              <tr>The dog is black.</tr>
-              <ref text="617">td. 6</ref>
-            </li>
-            <li>
-              <gd><m>Tha</m> an gille aig an dorus.</gd>
-              <tr>The boy is at the door.</tr>
-              <ref text="617">td. 15</ref>
-            </li>
-          </xl>
-        </p>
-        <p>Some past tense examples – <xl>
-            <li>
-              <gd><m>Bha</m> Màiri trang.</gd>
-              <tr>Mary was busy.</tr>
-              <ref text="617">td. 16</ref>
-            </li>
-            <li>
-              <gd><m>Bha</m> Calum agus Màiri ag obair.</gd>
-              <tr>Malcolm and Mary were working.</tr>
-              <ref text="617">td. 16</ref>
-            </li>
-            <li>
-              <gd><m>Bha</m> am bocsa air a’ bhòrd.</gd>
-              <tr>The box was on the table.</tr>
-              <ref text="617">td. 21 [229]</ref>
-            </li>
-          </xl>
-        </p>
-      </section>
-      <section>
-        <h>conjunct</h>
-        <p>An independent form of <g>bi</g> can be used as the head of a conjunct with sentential <a
-            href="?gd=agus"><g>agus</g></a>
-          <en>and</en> or <a href="?gd=ach"><g>ach</g></a>
-          <en>but</en>.</p>
-        <p>Some examples – <xl>
-            <li>
-              <gd><m>Tha</m> Màiri bhàn anns an achadh an diugh agus <m>tha</m> i ag obair gu
-                trang.</gd>
-              <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
-              <ref text="617">td. 9</ref>
-            </li>
-            <li>
-              <gd><m>Tha</m> an gille mór, ach <m>tha</m> a’ chaileag beag.</gd>
-              <tr>The boy is big, but the girl is small.</tr>
-              <ref text="617">td. 15</ref>
-            </li>
-          </xl>
-        </p>
-      </section>
-    </section>
-    <section>
-      <h>dependent</h>
-      <p>A dependent form of <g>bi</g> can be used as the complement of one of the verb particles <a
-          href="?gd=cha"><g>cha</g></a>, <a href="?gd=an^particle"><g>an</g></a> or <a
-          href="?gd=nach"><g>nach</g></a>.</p>
-      <section>
-        <h>negative</h>
-        <module id="chan_eilf">
-          <h>chan eil</h>
-          <p><g>chan eil</g>
-            <en>is not</en> is the negative form of <g>tha</g>.</p>
-          <p>Some examples – <xl>
-              <li>
-                <gd><m>Chan eil</m> e fuar an diugh.</gd>
-                <tr>It is not cold today.</tr>
-                <ref text="617">td. 11</ref>
-              </li>
-              <li>
-                <gd><m>Chan eil</m> an seòmar seo blàth?</gd>
-                <tr>This room is not warm.</tr>
-                <ref text="617">td. 14</ref>
-              </li>
-              <li>
-                <gd><m>Chan eil</m> Seònaid anns an achadh còmhla ri Seumas.</gd>
-                <tr>Janet is not in the field along with James.</tr>
-                <ref text="617">td. 14</ref>
-              </li>
-            </xl>
-          </p>
-        </module>
-        <module id="cha_robhf">
-          <h>cha robh</h>
-          <p><g>cha robh</g>
-            <en>was not</en> is the negative form of <g>bha</g>.</p>
-          <p>Some examples – <xl>
-              <li>
-                <gd><m>Cha robh</m> mi anns an taigh.</gd>
-                <tr>I was not at home.</tr>
-                <ref text="617">td. 17</ref>
-              </li>
-              <li>
-                <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an sgoil an
-                  diugh? <m>Cha robh</m>, bha e anns an taigh fad an latha.</gd>
-                <tr>What is wrong with this boy? His head is sore. Was he in the school today? No,
-                  he was in the house all day long.</tr>
-                <ref text="617">td. 20</ref>
-              </li>
-            </xl>
-          </p>
-        </module>
-      </section>
-      <section>
-        <h>interrogative</h>
-        <module id="a_bheil">
-          <h>a bheil</h>
-          <p><g>a bheil</g> is the interrogative form of <g>tha</g>.</p>
-          <p>Some examples – <xl>
-              <li>
-                <gd><m>A bheil</m> an cù aig an dorus? Tha.</gd>
-                <tr>Is the dog at the door? Yes, it is.</tr>
-                <ref text="617">td. 11</ref>
-              </li>
-              <li>
-                <gd><m>A bheil</m> sibh ag obair? Chan eil.</gd>
-                <tr>Are you working? No, I’m not.</tr>
-                <ref text="617">td. 13</ref>
-              </li>
-              <li>
-                <gd><m>A bheil</m> an t-uisge ann? Tha gu dearbh.</gd>
-                <tr>Is it raining. Yes, indeed.</tr>
-                <ref text="617">td. 14 [adapted]</ref>
-              </li>
-              <li>
-                <gd><m>A bheil</m> rud sam bith anns a’ bhotul? Tha.</gd>
-                <tr>Is there anything in the bottle? Yes, there is.</tr>
-                <ref text="617">td. 20</ref>
-              </li>
-            </xl>
-          </p>
-          <module id="caait_a_bheil">
-            <h>càit a bheil ... ?</h>
-            <p><g><a href="?gd=caait">càit</a> a bheil ... ?</g>
-              <en>where is ... ?</en></p>
-            <p>Some examples – <xl>
-                <li>
-                  <gd><m>Càit a bheil</m> an cat bàn an-diugh? Tha e anns an taigh còmhla ri
-                    Seònaid.</gd>
-                  <tr>Where is the white cat today? It is in the house along with Janet.</tr>
-                  <ref text="617">td. 14</ref>
-                </li>
-                <li>
-                  <gd><m>Càit a bheil</m> a’ chaileag a’ cluich? Tha i a’ cluich air an làr.</gd>
-                  <tr>Where is the girl playing? She is playing on the floor.</tr>
-                  <ref text="617">td. 15</ref>
-                </li>
-                <li>
-                  <gd><m>Càit a bheil</m> Màiri an diugh? Tha i anns a’ bhaile.</gd>
-                  <tr>Where is Mary today? She is in the town.</tr>
-                  <ref text="617">td. 20</ref>
-                </li>
-                <li>
-                  <gd><m>Càit a bheil</m> thu a’ fuireach? Tha mi a’ fuireach anns a’ chlachan.</gd>
-                  <tr>Where do you live? I live in the village.</tr>
-                  <ref text="617">td. 20</ref>
-                </li>
-              </xl>
-            </p>
-          </module>
-        </module>
-        <module id="an_robh">
-          <h>an robh</h>
-          <p><g>an robh</g> is the interrogative form of <g>bha</g>.</p>
-          <p>Some examples – <xl>
-              <li>
-                <gd><m>An robh</m> Màiri trang?</gd>
-                <tr>Was Mary busy?</tr>
-                <ref text="617">td. 16</ref>
-              </li>
-              <li>
-                <gd><m>An robh</m> Calum agus Seònaid ag obair?</gd>
-                <tr>Were Malcolm and Janet working?</tr>
-                <ref text="617">td. 16 [adapted]</ref>
-              </li>
-              <li>
-                <gd><m>An robh</m> thu sgìth? Bha.</gd>
-                <tr>Were you tired? Yes, I was.</tr>
-                <ref text="617">td. 16</ref>
-              </li>
-              <li>
-                <gd><m>An robh</m> sibh anns an achadh an diugh? Cha robh.</gd>
-                <tr>Were you in the field today? No, we weren’t.</tr>
-                <ref text="617">td. 16</ref>
-              </li>
-              <li>
-                <gd><m>An robh</m> Calum ag iasgach air an loch an dé? Bha.</gd>
-                <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
-                <ref text="617">td. 20</ref>
-              </li>
-            </xl>
-          </p>
-          <module id="caait_an_robh">
-            <h>càit an robh ... ?</h>
-            <p><g><a href="?gd=caait">càit</a> an robh ... ?</g>
-              <en>where was ... ?</en></p>
-            <p>Some examples – <xl>
-                <li>
-                  <gd><m>Càit an robh</m> an cat bàn?</gd>
-                  <tr>Where was the white cat?</tr>
-                  <ref text="">made up</ref>
-                </li>
-                <li>
-                  <gd>Có bha ag iasgach an diugh? Bha Alasdair. <m>Càit an robh</m> Alasdair ag
-                    iasgach? Bha e ag iasgach air an abhainn.</gd>
-                  <tr>Who was fishing today? Alexander was. Where was Alexander fishing? He was
-                    fishing on the river.</tr>
-                  <ref text="617">td. 20</ref>
-                </li>
-              </xl>
-            </p>
-          </module>
-        </module>
-      </section>
-      <section>
-        <h>negative interrogative</h>
-        <module id="nach_eil">
-          <h>nach eil</h>
-          <p><g>nach eil</g> is the negative form of <g>a bheil</g>, and the interrogative form of
-              <g>chan eil</g>.</p>
-          <p>Some examples – <xl>
-              <li>
-                <gd><m>Nach eil</m> Calum anns an achadh? Chan eil.</gd>
-                <tr>Isn’t Malcolm in the field? No, he isn’t.</tr>
-                <ref text="617">td. 11</ref>
-              </li>
-              <li>
-                <gd><m>Nach eil</m> Seumas ag obair an diugh? Tha.</gd>
-                <tr>Isn’t James working today? Yes, he is.</tr>
-                <ref text="617">td. 14</ref>
-              </li>
-              <li>
-                <gd><m>Nach eil</m> thu sgìth? Tha, tha mi glé sgìth.</gd>
-                <tr>Aren’t you tired. Yes, I am very tired.</tr>
-                <ref text="617">td. 14</ref>
-              </li>
-            </xl></p>
-        </module>
-        <module id="nach_robh">
-          <h>nach robh</h>
-          <p><g>nach robh</g> is the negative form of <g>an robh</g>, and the interrogative form of
-              <g>cha robh</g>.</p>
-          <p>Some examples – <xl>
-              <li>
-                <gd><m>Nach robh</m> Màiri trang? Bha.</gd>
-                <tr>Wasn’t Mary busy? Yes, she was.</tr>
-                <ref text="617">td. 17</ref>
-              </li>
-              <li>
-                <gd><m>Nach robh</m> leabhar anns a’ bhocsa sin? Bha, bha Bìobull ann.</gd>
-                <tr>Wasn’t there a book in that box? Yes, there was a Bible (in it).</tr>
-                <ref text="617">td. 20</ref>
-              </li>
-              <li>
-                <gd><m>Nach robh</m> Calum a’ fuireach anns a’ chlachan? Bha gu dearbh.</gd>
-                <tr>Wasn’t Calum living in the village? Yes, indeed he was.</tr>
-                <ref text="617">td. 20</ref>
-              </li>
-              <li>
-                <gd><m>Nach robh</m> bainne anns a’ bhotul? Bha.</gd>
-                <tr>Wasn’t there milk in the bottle? Yes, there was.</tr>
-                <ref text="617">td. 21 [229]</ref>
-              </li>
-            </xl></p>
-        </module>
-      </section>
-    </section>
-    <section id="uses-relative">
-      <h>relative</h>
-      <module id="dee_tha">
-        <h>dé tha ... ?</h>
-        <p><g><a href="?gd=dee">dé</a> [a] tha ... ?</g>
-          <en>what is ... ?</en></p>
-        <p>Some examples – <xl>
-            <li>
-              <gd><m>Dé tha</m> Seònaid a’ dèanamh anns an taigh? Tha i a’ cluich air an làr.</gd>
-              <tr>What is Janet doing in the house? She is playing on the floor.</tr>
-              <ref text="617">td. 14</ref>
-            </li>
-            <li>
-              <gd><m>Dé tha</m> air an teine? Tha gual air an teine.</gd>
-              <tr>What is on the fire? There is coal on the fire.</tr>
-              <ref text="617">td. 14</ref>
-            </li>
-            <li>
-              <gd><m>Dé tha</m> ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
-              <tr>What is wrong with this boy? His head is sore.</tr>
-              <ref text="617">td. 20</ref>
-            </li>
-            <li>
-              <gd><m>Dé tha</m> anns a’ bhocsa sin? Tha uighean anns a’ bhocsa.</gd>
-              <tr>What is in that box? There are eggs in the box.</tr>
-              <ref text="617">td. 20</ref>
-            </li>
-          </xl>
-        </p>
-      </module>
-      <module id="coo_tha">
-        <h>có tha ... ?</h>
-        <p><g><a href="?gd=coo">có</a> [a] tha ... ?</g>
-          <en>who is ... ?</en></p>
-        <p>Some examples – <xl>
-            <li>
-              <gd><m>Có tha</m> a’ cluich air an làr? The girl.</gd>
-              <tr>Who is playing on the floor? A’ chaileag.</tr>
-              <ref text="617">td. 15</ref>
-            </li>
-            <li>
-              <gd><m>Có bha</m> ag iasgach air an loch? Bha Calum.</gd>
-              <tr>Who was fishing on the lake? Calum was.</tr>
-              <ref text="617">td. 20</ref>
-            </li>
-          </xl>
-        </p>
-      </module>
-      <module id="ciamar_a_tha">
-        <h>ciamar a tha ... ?</h>
-        <p><g><a href="?gd=ciamar">ciamar</a> a tha ... ?</g>
-          <en>how is ... ?</en></p>
-        <p>Some examples – <xl>
-            <li>
-              <gd><m>Ciamar a tha</m> sibh? Tha mi gu math, tapadh leibh.</gd>
-              <tr>How are you? I am well, thank you.</tr>
-              <ref text="617">td. 15</ref>
-            </li>
-          </xl>
-        </p>
-      </module>
-    </section>
   </section>
 
 
