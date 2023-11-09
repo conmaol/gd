@@ -251,12 +251,14 @@
 
   <xsl:template match="xl/li">
     <li>
-      <xsl:apply-templates/>
+      <xsl:apply-templates select="gd|tr"/>
     </li>
   </xsl:template>
 
   <xsl:template match="xl[not(@id)]/li/gd">
-    <xsl:apply-templates/>
+    <span style="color: #556b2f;">
+      <xsl:apply-templates/>
+    </span>
   </xsl:template>
 
   <xsl:template match="xl[@id]/li/gd">
@@ -267,9 +269,12 @@
 
   <xsl:template match="xl/li/tr">
     <a href="#" data-bs-toggle="tooltip" data-bs-placement="bottom"
-      data-bs-html="true">
+      data-bs-html="true" style="text-decoration: none;">
       <xsl:attribute name="data-bs-title">
+        <xsl:text>“</xsl:text>
         <xsl:apply-templates/>
+        <xsl:text>”</xsl:text>
+        <xsl:apply-templates select="../note"/>
       </xsl:attribute>
       [?]
     </a>
@@ -290,13 +295,17 @@
   </xsl:template>
 
   <xsl:template match="xl/li/note">
-    <a href="#" style="text-decoration: none;" data-bs-toggle="tooltip" data-bs-placement="bottom"
+    <!--<a href="#" style="text-decoration: none;" data-bs-toggle="tooltip" data-bs-placement="bottom"
       data-bs-html="true">
-      <xsl:attribute name="data-bs-title">
+      <xsl:attribute name="data-bs-title">-->
+    <xsl:text>&lt;br/&gt;Notes – </xsl:text>
         <xsl:apply-templates/>
-      </xsl:attribute>
+      <!--</xsl:attribute>
       <xsl:text>💡</xsl:text>
-    </a>
+    </a>-->
   </xsl:template>
+  
+  
+  
 
 </xsl:stylesheet>
