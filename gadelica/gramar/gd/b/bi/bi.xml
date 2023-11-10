@@ -2,7 +2,7 @@
 <module>
   <h>bi</h>
   <p><g>bi</g>
-    <en>be</en> is the predicative <a href="?xx=verbs/simple_verbs">simple verb</a>.</p>
+    <en>be</en> is the predicative <a href="?xx=verbs/verbs">verb</a>.</p>
   <section id="forms">
     <h>forms</h>
     <p>The principal parts of <g>bi</g> are – <ul>
@@ -333,313 +333,383 @@
         </li>
       </xl>
     </p>
-    <section id="deps-pred-sbj">
+    <section id="deps-sbj">
       <h>subject</h>
       <p>The subject of <g>bi</g> can be a <a href="?xx=nouns/nouns">noun</a> or a <a
-          href="?xx=nouns/pronouns">pronoun</a>.</p>
-      <p>Some examples with <a href="?xx=nouns/proper_nouns">proper nouns</a> – <ul>
-          <li>feminine – <xl>
-              <li>
-                <gd>Bha Màiri sgìth.</gd>
-                <tr>Mary was tired.</tr>
-                <ref text="617">td. 7 [adapted]</ref>
-              </li>
-              <li>
-                <gd>A bheil Seònaid anns an sgoil an diugh? Chan eil.</gd>
-                <tr>Is Janet in the school today? No, she isn’t.</tr>
-                <ref text="617">td. 14</ref>
-              </li>
-            </xl></li>
-          <li>masculine – <xl>
-              <li>
-                <gd>Nach eil Calum anns an achadh? Tha.</gd>
-                <tr>Isn’t Malcolm in the field? Yes, he is.</tr>
-                <ref text="617">td. 11</ref>
-              </li>
-              <li>
-                <gd>Có bha ag iasgach an diugh? Bha Alasdair.</gd>
-                <tr>Who was fishing today? Alexander was.</tr>
-                <ref text="617">td. 20</ref>
-              </li>
-            </xl></li>
-        </ul>
+          href="?xx=nouns/pronouns">pronoun</a> – <xl>
+          <li>
+            <gd>Tha Seònaid trang.</gd>
+            <tr>Janet is busy.</tr>
+            <ref text="617">[lesson 1–3 adapted]</ref>
+            <note>The proper noun ‘Seònaid’ is the subject of ‘tha’.</note>
+          </li>
+          <li>
+            <gd>Nach robh na bàtaichean air a’ chladach? Bha.</gd>
+            <tr>Weren’t the boats on the shore? Yes, they were.</tr>
+            <ref text="617">td. 17 [adapted]</ref>
+            <note>The common noun ‘bàtaichean’ is the subject of ‘robh’.</note>
+          </li>
+          <li>
+            <gd>Bhiodh sinn a’ cluich anns an taigh.</gd>
+            <tr>We would be playing in the house.</tr>
+            <ref text="617">[lesson 2 adapted]</ref>
+            <note>The pronoun ‘sinn’ is the subject of ‘bhiodh’.</note>
+          </li>
+        </xl>
       </p>
-      <p>Some examples with specified (definite) <a href="?xx=nouns/common_nouns">common nouns</a> – <ul>
-          <li>animate – <ul>
-              <li>singular – <xl>
-                  <li>
-                    <gd>Tha an cù dubh aig an dorus.</gd>
-                    <tr>The black dog is at the door.</tr>
-                    <ref text="617">td. 9</ref>
-                  </li>
-                  <li>
-                    <gd>An robh am bodach anns a’ bhàta? Bha.</gd>
-                    <tr>Was the old man is in the boat? Yes, he was.</tr>
-                    <ref text="617">td. 17 [adapted]</ref>
-                  </li>
-                </xl>
-              </li>
-              <li>plural – <xl>
-                  <li>
-                    <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
-                    <tr>The sheep were up n the side of the mountain.</tr>
-                    <ref text="617">td. 21</ref>
-                  </li>
-                </xl>
-              </li>
-              <li>aggregates – <xl>
-                  <li>
-                    <gd>Bha an crodh faisg air an loch.</gd>
-                    <tr>The cattle were near the lake.</tr>
-                    <ref text="617">td. 21</ref>
-                  </li>
-                </xl>
-              </li>
-            </ul>
-          </li>
-          <li>inanimate – <ul>
-              <li>singular – <xl>
-                  <li>
-                    <gd>Bha an dorus mór.</gd>
-                    <tr>The door was big.</tr>
-                    <ref text="617">td. 6 [adapted]</ref>
-                  </li>
-                  <li>
-                    <gd>Tha am bàta air a’ chladach.</gd>
-                    <tr>The boat is on the shore.</tr>
-                    <ref text="617">td. 17</ref>
-                  </li>
-                </xl>
-              </li>
-              <li>plural –</li>
-              <li>mass – <xl>
-                  <li>
-                    <gd>Càit a bheil an gual? Tha an gual air an teine.</gd>
-                    <tr>Where is the coal? The coal is on the fire.</tr>
-                    <ref text="617">td. 15 [227] [adapted]</ref>
-                  </li>
-                </xl>
-              </li>
-            </ul>
-          </li>
-          <li>abstract – <xl>
-              <li>
-                <gd>A bheil an latha fuar? Tha.</gd>
-                <tr>Is the day cold? Yes, it is.</tr>
-                <ref text="617">td. 14</ref>
-              </li>
-            </xl>
-          </li>
-        </ul>
-      </p>
-      <p>Some examples with non-specified (indefinite) common nouns – <ul>
-          <li>animate – <ul>
-              <li>singular – <xl>
-                  <li>
-                    <gd>Cha robh duine anns a’ bhàta.</gd>
-                    <tr>There was no one in the boat.</tr>
-                    <ref text="617">td. 21</ref>
-                  </li>
-                </xl>
-              </li>
-              <li>plural –</li>
-              <li>aggregates – <xl>
-                  <li>
-                    <gd>Bha clann a’ snàmh anns a’ mhuir.</gd>
-                    <tr>There were children swimming in the sea.</tr>
-                    <ref text="617">td. 21</ref>
-                  </li>
-                </xl>
-              </li>
-            </ul>
-          </li>
-          <li>inanimate – <ul>
-              <li>singular – <xl>
-                  <li>
-                    <gd>A bheil ceann mór air Seumas? Tha.</gd>
-                    <tr>Does James have a big head? Yes, he does.</tr>
-                    <ref text="617">td. 14</ref>
-                  </li>
-                  <li>
-                    <gd>Bha bàta beag air an tràigh.</gd>
-                    <tr>There was a little boat on the beach.</tr>
-                    <ref text="617">td. 21</ref>
-                  </li>
-                </xl>
-              </li>
-              <li>plural – <xl>
-                  <li>
-                    <gd>Tha uighean anns a’ bhocsa.</gd>
-                    <tr>There are eggs in the box.</tr>
-                    <ref text="617">td. 20</ref>
-                  </li>
-                  <li>
-                    <gd>An robh bàtaichean air a’ mhuir?</gd>
-                    <tr>Were there boats on the sea?</tr>
-                    <ref text="617">td. 21 [adapted]</ref>
-                  </li>
-                </xl>
-              </li>
-              <li>mass – <xl>
-                  <li>
-                    <gd>Chan eil falt dubh air Calum.</gd>
-                    <tr>Calum does not have black hair.</tr>
-                    <ref text="617">td. 9 [adapted]</ref>
-                  </li>
-                  <li>
-                    <gd>A bheil uisge anns a’ choire? Tha.</gd>
-                    <tr>Is there water in the kettle? Yes, there is.</tr>
-                    <ref text="617">td. 120</ref>
-                  </li>
-                </xl>
-              </li>
-            </ul>
-          </li>
-          <li>abstract – <xl>
-              <li>
-                <gd>Tha teas anns an teine.</gd>
-                <tr>There is heat in the fire.</tr>
-                <ref text="617">td. 6</ref>
-              </li>
-              <li>
-                <gd>Bha latha brèagha ann.</gd>
-                <tr>It was a beautiful day.</tr>
-                <ref text="617">td. 21 [briagha in source]</ref>
-              </li>
-            </xl>
-          </li>
-        </ul>
-      </p>
-      <p>Some examples with pronouns – <ul>
-          <li>first person pronouns – <xl>
-              <li>
-                <gd>Tha mi trang an diugh.</gd>
-                <tr>I am busy today.</tr>
-                <ref text="617">td. 9 [226]</ref>
-              </li>
-              <li>
-                <gd>Cha robh sinn a’ cluich anns an taigh.</gd>
-                <tr>We were not playing in the house.</tr>
-                <ref text="617">td. 21 [230]</ref>
-              </li>
-            </xl>
-          </li>
-          <li>second person pronouns – <xl>
-              <li>
-                <gd>An robh thu sgìth? Cha robh.</gd>
-                <tr>Were you tired? No, we weren’t.</tr>
-                <ref text="617">td. 11 [adapted]</ref>
-              </li>
-              <li>
-                <gd>An robh sibh anns an achadh an diugh? Cha robh.</gd>
-                <tr>Were you in the field today? No, we weren’t.</tr>
-                <ref text="617">td. 17</ref>
-              </li>
-            </xl>
-          </li>
-          <li>referential third person pronouns – <xl>
-              <li>
-                <gd>Tha Màiri bhàn anns an achadh an diugh agus tha i ag obair gu trang.</gd>
-                <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
-                <ref text="617">td. 9</ref>
-              </li>
-              <li>
-                <gd>Càit a bheil an gille beag an diugh? Tha e anns an sgoil.</gd>
-                <tr>Where is the little boy today? He is in the school.</tr>
-                <ref text="617">td. 14</ref>
-              </li>
-              <li>
-                <gd>Nach robh Calum agus Màiri a’ cluich còmhla ris a’ chù? Cha robh, bha iad anns
-                  a’ bhaile.</gd>
-                <tr>Weren’t Malcolm and Mary playing with the dog? No, they weren’t, they were in
-                  the town.</tr>
-                <ref text="617">td. 21 [230]</ref>
-              </li>
-            </xl>
-          </li>
-          <li>non-referential third person pronouns – <xl>
-              <li>
-                <gd>Chan eil e fuar an diugh.</gd>
-                <tr>It is not cold today.</tr>
-                <ref text="617">td. 11</ref>
-              </li>
-            </xl>
-          </li>
-          <li>demonstrative pronouns – <xl>
-              <li>
-                <gd>Cha robh sin math.</gd>
-                <tr>That was not good.</tr>
-                <ref text="617">td. 15 [adapted]</ref>
-              </li>
-              <li>
-                <gd>Tha seo teth.</gd>
-                <tr>This (one) is hot.</tr>
-                <ref text="617">td. 15</ref>
-              </li>
-              <!--<li>
+      <section id="deps-sbj-proper">
+        <h>proper nouns</h>
+        <p>Some examples with <a href="?xx=nouns/proper_nouns">proper nouns</a> – <ul>
+            <li>feminine – <xl>
+                <li>
+                  <gd>Bha Màiri sgìth.</gd>
+                  <tr>Mary was tired.</tr>
+                  <ref text="617">td. 7 [adapted]</ref>
+                </li>
+                <li>
+                  <gd>A bheil Seònaid anns an sgoil an diugh? Chan eil.</gd>
+                  <tr>Is Janet in the school today? No, she isn’t.</tr>
+                  <ref text="617">td. 14</ref>
+                </li>
+              </xl></li>
+            <li>masculine – <xl>
+                <li>
+                  <gd>Nach eil Calum anns an achadh? Tha.</gd>
+                  <tr>Isn’t Malcolm in the field? Yes, he is.</tr>
+                  <ref text="617">td. 11</ref>
+                </li>
+                <li>
+                  <gd>Có bha ag iasgach an diugh? Bha Alasdair.</gd>
+                  <tr>Who was fishing today? Alexander was.</tr>
+                  <ref text="617">td. 20</ref>
+                </li>
+              </xl></li>
+            <li>conjoined with <a href="?gd=agus"><g>agus</g></a>
+              <en>and</en> – <xl>
+                <li>
+                  <gd>Tha Sìne agus Seumas ag obair.</gd>
+                  <tr>Jean and James are working.</tr>
+                  <ref text="617">td. 7</ref>
+                  <note>‘agus’ is the subject of ‘tha’; both ‘Sìne’ and ‘Seumas’ are conjuncts of
+                    ‘agus’.</note>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+      </section>
+      <section id="deps-sbj-common">
+        <h>common nouns</h>
+        <p>Some examples with specified (definite) <a href="?xx=nouns/common_nouns">common nouns</a>
+          – <ul>
+            <li>animate – <ul>
+                <li>singular – <xl>
+                    <li>
+                      <gd>Tha an cù dubh aig an dorus.</gd>
+                      <tr>The black dog is at the door.</tr>
+                      <ref text="617">td. 9</ref>
+                    </li>
+                    <li>
+                      <gd>An robh am bodach anns a’ bhàta? Bha.</gd>
+                      <tr>Was the old man is in the boat? Yes, he was.</tr>
+                      <ref text="617">td. 17 [adapted]</ref>
+                    </li>
+                  </xl>
+                </li>
+                <li>plural – <xl>
+                    <li>
+                      <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
+                      <tr>The sheep were up n the side of the mountain.</tr>
+                      <ref text="617">td. 21</ref>
+                    </li>
+                  </xl>
+                </li>
+                <li>aggregates – <xl>
+                    <li>
+                      <gd>Bha an crodh faisg air an loch.</gd>
+                      <tr>The cattle were near the lake.</tr>
+                      <ref text="617">td. 21</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>inanimate – <ul>
+                <li>singular – <xl>
+                    <li>
+                      <gd>Bha an dorus mór.</gd>
+                      <tr>The door was big.</tr>
+                      <ref text="617">td. 6 [adapted]</ref>
+                    </li>
+                    <li>
+                      <gd>Tha am bàta air a’ chladach.</gd>
+                      <tr>The boat is on the shore.</tr>
+                      <ref text="617">td. 17</ref>
+                    </li>
+                  </xl>
+                </li>
+                <li>plural –</li>
+                <li>mass – <xl>
+                    <li>
+                      <gd>Càit a bheil an gual? Tha an gual air an teine.</gd>
+                      <tr>Where is the coal? The coal is on the fire.</tr>
+                      <ref text="617">td. 15 [227] [adapted]</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>abstract – <xl>
+                <li>
+                  <gd>A bheil an latha fuar? Tha.</gd>
+                  <tr>Is the day cold? Yes, it is.</tr>
+                  <ref text="617">td. 14</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <p>Some examples with non-specified (indefinite) common nouns – <ul>
+            <li>animate – <ul>
+                <li>singular – <xl>
+                    <li>
+                      <gd>Cha robh duine anns a’ bhàta.</gd>
+                      <tr>There was no one in the boat.</tr>
+                      <ref text="617">td. 21</ref>
+                    </li>
+                  </xl>
+                </li>
+                <li>plural –</li>
+                <li>aggregates – <xl>
+                    <li>
+                      <gd>Bha clann a’ snàmh anns a’ mhuir.</gd>
+                      <tr>There were children swimming in the sea.</tr>
+                      <ref text="617">td. 21</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>inanimate – <ul>
+                <li>singular – <xl>
+                    <li>
+                      <gd>A bheil ceann mór air Seumas? Tha.</gd>
+                      <tr>Does James have a big head? Yes, he does.</tr>
+                      <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                      <gd>Bha bàta beag air an tràigh.</gd>
+                      <tr>There was a little boat on the beach.</tr>
+                      <ref text="617">td. 21</ref>
+                    </li>
+                  </xl>
+                </li>
+                <li>plural – <xl>
+                    <li>
+                      <gd>Tha uighean anns a’ bhocsa.</gd>
+                      <tr>There are eggs in the box.</tr>
+                      <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                      <gd>An robh bàtaichean air a’ mhuir?</gd>
+                      <tr>Were there boats on the sea?</tr>
+                      <ref text="617">td. 21 [adapted]</ref>
+                    </li>
+                  </xl>
+                </li>
+                <li>mass – <xl>
+                    <li>
+                      <gd>Chan eil falt dubh air Calum.</gd>
+                      <tr>Calum does not have black hair.</tr>
+                      <ref text="617">td. 9 [adapted]</ref>
+                    </li>
+                    <li>
+                      <gd>A bheil uisge anns a’ choire? Tha.</gd>
+                      <tr>Is there water in the kettle? Yes, there is.</tr>
+                      <ref text="617">td. 120</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>abstract – <xl>
+                <li>
+                  <gd>Tha teas anns an teine.</gd>
+                  <tr>There is heat in the fire.</tr>
+                  <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                  <gd>Bha latha brèagha ann.</gd>
+                  <tr>It was a beautiful day.</tr>
+                  <ref text="617">td. 21 [briagha in source]</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+      </section>
+      <section id="deps-sbj-pronouns">
+        <h>pronouns</h>
+        <p>Some examples with pronouns – <ul>
+            <li>first person pronouns – <xl>
+                <li>
+                  <gd>Tha mi trang an diugh.</gd>
+                  <tr>I am busy today.</tr>
+                  <ref text="617">td. 9 [226]</ref>
+                </li>
+                <li>
+                  <gd>Cha robh sinn a’ cluich anns an taigh.</gd>
+                  <tr>We were not playing in the house.</tr>
+                  <ref text="617">td. 21 [230]</ref>
+                </li>
+              </xl>
+            </li>
+            <li>second person pronouns – <xl>
+                <li>
+                  <gd>An robh thu sgìth? Cha robh.</gd>
+                  <tr>Were you tired? No, we weren’t.</tr>
+                  <ref text="617">td. 11 [adapted]</ref>
+                </li>
+                <li>
+                  <gd>An robh sibh anns an achadh an diugh? Cha robh.</gd>
+                  <tr>Were you in the field today? No, we weren’t.</tr>
+                  <ref text="617">td. 17</ref>
+                </li>
+              </xl>
+            </li>
+            <li>referential third person pronouns – <xl>
+                <li>
+                  <gd>Tha Màiri bhàn anns an achadh an diugh agus tha i ag obair gu trang.</gd>
+                  <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
+                  <ref text="617">td. 9</ref>
+                </li>
+                <li>
+                  <gd>Càit a bheil an gille beag an diugh? Tha e anns an sgoil.</gd>
+                  <tr>Where is the little boy today? He is in the school.</tr>
+                  <ref text="617">td. 14</ref>
+                </li>
+                <li>
+                  <gd>Nach robh Calum agus Màiri a’ cluich còmhla ris a’ chù? Cha robh, bha iad anns
+                    a’ bhaile.</gd>
+                  <tr>Weren’t Malcolm and Mary playing with the dog? No, they weren’t, they were in
+                    the town.</tr>
+                  <ref text="617">td. 21 [230]</ref>
+                </li>
+              </xl>
+            </li>
+            <li>non-referential third person pronouns – <xl>
+                <li>
+                  <gd>Chan eil e fuar an diugh.</gd>
+                  <tr>It is not cold today.</tr>
+                  <ref text="617">td. 11</ref>
+                </li>
+              </xl>
+            </li>
+            <li>demonstrative pronouns – <xl>
+                <li>
+                  <gd>Cha robh sin math.</gd>
+                  <tr>That was not good.</tr>
+                  <ref text="617">td. 15 [adapted]</ref>
+                </li>
+                <li>
+                  <gd>Tha seo teth.</gd>
+                  <tr>This (one) is hot.</tr>
+                  <ref text="617">td. 15</ref>
+                </li>
+                <!--<li>
                 <gd>Dé tha seo? Tha botul.</gd>
                 <tr>What is this? It’s a bottle.</tr>
                 <ref text="617">td. 20</ref>
               </li>-->
-            </xl>
-          </li>
-        </ul>
-      </p>
-      <p>Some examples conjoined by <a href="?gd=agus"><g>agus</g></a>
-        <en>and</en> – <xl>
-          <li>
-            <gd>Tha Màiri agus Calum ag obair.</gd>
-            <tr>Mary and Malcolm are working.</tr>
-            <ref text="617">td. 7</ref>
-          </li>
-        </xl>
-      </p>
+              </xl>
+            </li>
+          </ul>
+        </p>
+        <p>The subject can also be represented by the interrogative quasi-pronouns <g><a
+              href="?gd=?coo">có</a> (a tha)</g>
+          <en>who, what?</en> and <g><a href="?gd=dee">dé</a> (a tha)</g>
+          <en>what?</en> – <xl>
+            <li>
+              <gd>Có tha a’ cluich air an làr? Tha a’ chaileag.</gd>
+              <tr>Who is playing on the floor? The girl was.</tr>
+              <ref text="617">td. 15</ref>
+            </li>
+            <li>
+              <gd>Dé bha air a’ chnoc? Bha taigh mór air a’ chnoc.</gd>
+              <tr>What was (there) on the hill? There was a big house on the hill.</tr>
+              <ref text="617">td. 20 [adapted]</ref>
+            </li>
+          </xl>
+        </p>
+      </section>
     </section>
 
-    <section id="deps-pred-pred">
+    <section id="deps-pred">
       <h>predicate</h>
-      <p>The predicate of <g>bi</g> can be an <a href="?xx=adjectives/adjectives">adjective</a> or a
-        (static) <a href="?xx=prepositions/prepositions">preposition</a> – <xl>
+      <p>The predicate of <g>bi</g> can be an adjective or a preposition – <xl>
           <li>
-            <gd>Bha Calum <m>sgìth</m>.</gd>
+            <gd>Bha Calum sgìth.</gd>
             <tr>Malcolm was tired.</tr>
             <ref text="617">td. 7 [adapted]</ref>
+            <note>The adjective ‘sgìth’ is the predicate of ‘bha’.</note>
           </li>
           <li>
-            <gd>Nach eil an cù <m>aig</m> an dorus?</gd>
+            <gd>Nach eil an cù aig an dorus?</gd>
             <tr>Isn’t the dog is at the door?</tr>
             <ref text="617">td. 6 [adapted]</ref>
+            <note>The preposition ‘aig’ is the predicate of ‘eil’; ‘dorus’ is the complement of
+              ‘aig’.</note>
+          </li>
+          <li>
+            <gd>Cha bhi iad ag obair.</gd>
+            <tr>They won’t be working.</tr>
+            <ref text="617">[lesson 1-2 adapted]</ref>
+            <note>The pseudo-preposition (verb particle) ‘ag’ is the predicate of ‘b[h]i’; ‘obair’
+              is the complement of ‘ag’.</note>
           </li>
         </xl>
       </p>
-      <section id="deps-pred-pred-adj">
+      <section id="deps-pred-adj">
         <h>adjectives</h>
-        <p>The predicate of <g>bi</g> can be an (uninflected) adjective.</p>
+        <p>The predicate of <g>bi</g> can be an (uninflected) <a href="?xx=adjectives/adjectives"
+            >adjective</a>.</p>
         <p>Some examples – <xl>
             <li>
-              <gd>Bha an cù <m>dubh</m> ach bha an cat <m>bàn</m>.</gd>
+              <gd>Bha an cù dubh ach bha an cat bàn.</gd>
               <tr>The dog was black but the cat was white.</tr>
               <ref text="617">td. 6 [adapted]</ref>
+              <note>‘dubh’ is the predicate of the first ‘bha’; ‘bàn’ is the predicate of the
+                second.</note>
             </li>
             <li>
-              <gd>Chan eil Màiri agus Calum <m>trang</m> an diugh.</gd>
+              <gd>Chan eil Màiri agus Calum trang an diugh.</gd>
               <tr>Mary and Malcolm are not busy today.</tr>
               <ref text="617">td. 7 [adapted]</ref>
+              <note>‘trang’ is the predicate of ‘eil’.</note>
             </li>
             <li>
-              <gd>An robh <m>thu</m> sgìth?</gd>
-              <tr>Were you tired?</tr>
-              <ref text="617">td. 11 [adapted]</ref>
-            </li>
-            <li>
-              <gd>Tha e <m>fuar</m> an diugh.</gd>
-              <tr>It is cold today.</tr>
-              <ref text="617">td. 7</ref>
-            </li>
-            <li>
-              <gd>Dé tha <m>ceàrr</m> air a’ ghille seo? Tha a cheann goirt.</gd>
+              <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
               <tr>What is wrong with this boy? His head is sore.</tr>
               <ref text="617">td. 20</ref>
+              <note>‘ceàrr’ is the predicate of the first ‘tha’; ‘goirt’ is the predicate of the
+                ‘second’.</note>
+            </li>
+          </xl>
+        </p>
+        <p>Some juxtaposed examples – <xl>
+            <li>
+              <gd>Tha Màiri beag bàn.</gd>
+              <tr>Mary is small and fair-haired.</tr>
+              <ref text="617">td. 8</ref>
+            </li>
+          </xl>
+        </p>
+        <p>Some examples conjoined with <a href="?gd=agus"><g>agus</g></a>
+          <en>and</en> – <xl>
+            <li>
+              <gd>Tha Seònaid agus Alasdair fliuch agus fuar.</gd>
+              <tr>Janet and Alexander are wet and cold.</tr>
+              <ref text="617">td. 7 [226] [adapted]</ref>
             </li>
           </xl>
         </p>
@@ -656,38 +726,35 @@
         </ul>
         </p>-->
       </section>
-      <section id="deps-pred-pred-prep">
+      <section id="deps-pred-prep">
         <h>prepositions</h>
-        <p>The predicate of <g>bi</g> can be a (static) preposition.</p>
-        <p>Some examples – <xl>
+        <p>The predicate of <g>bi</g> can be a <a href="?xx=prepositions/prepositions"
+            >preposition</a>.</p>
+        <p>Some examples involving physical location – <xl>
             <li>
-              <gd>Tha sibh <m>aig</m> an teine.</gd>
-              <tr>You are at the fire.</tr>
-              <ref text="617">td. 9 [226]</ref>
-            </li>
-            <li>
-              <gd>Nach robh Calum <m>anns</m> an achadh?</gd>
-              <tr>Wasn’t Malcolm in the field?</tr>
-              <ref text="617">td. 11</ref>
-            </li>
-            <li>
-              <gd>A bheil an cù <m>aig</m> an dorus?</gd>
+              <gd>A bheil an cù aig an dorus?</gd>
               <tr>Is the dog at the door?</tr>
               <ref text="617">td. 11</ref>
             </li>
             <li>
-              <gd>Bha teas <m>anns</m> an teine.</gd>
-              <tr>There was heat in the fire.</tr>
-              <ref text="617">td. 6</ref>
+              <gd>Nach robh Calum anns an achadh?</gd>
+              <tr>Wasn’t Malcolm in the field?</tr>
+              <ref text="617">td. 11</ref>
             </li>
             <li>
-              <gd>Tha am bàta <m>air</m> a’ chladach.</gd>
+              <gd>Tha am bàta air a’ chladach.</gd>
               <tr>The boat is on the shore.</tr>
               <ref text="617">td. 17</ref>
             </li>
           </xl>
         </p>
-
+        <p>Some abstract examples – <xl>
+            <li>
+              <gd>Bha teas anns an teine.</gd>
+              <tr>There was heat in the fire.</tr>
+              <ref text="617">td. 6</ref>
+            </li>
+          </xl></p>
         <!--<p>Older pedagogical examples – <xl id="loc-older-pedag">
             <li>
               <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu <m>m’athair a tha air falbh</m>.</gd>
@@ -709,34 +776,25 @@
             </li>
           </xl>
         </p>-->
-        <section>
-          <h>progressive aspect</h>
-          <p>More specifically, the predicate of <g>bi</g> can be the progressive particle <a
-              href="?gd=ag"><g>ag</g></a>, followed by a verbal noun.</p>
-          <p>Some examples – <xl>
-              <li>
-                <gd>Tha Màiri agus Calum <m>ag obair</m> anns an achadh an diugh.</gd>
-                <tr>Mary and Malcolm are working in the field today.</tr>
-                <ref text="617">td. 6–7</ref>
-              </li>
-              <li>
-                <gd>Dé tha Seumas <m>a’ dèanamh</m> an diugh?</gd>
-                <tr>What is James doing today?</tr>
-                <ref text="617">td. 14</ref>
-              </li>
-              <li>
-                <gd>An robh a’ chaileag <m>a’ cluich</m> air an làr?</gd>
-                <tr>Was the girl playing on the floor?</tr>
-                <ref text="617">td. 15 [adapted]</ref>
-              </li>
-              <li>
-                <gd>An robh Calum <m>ag iasgach</m> air an loch an dé? Bha.</gd>
-                <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
-                <ref text="617">td. 20</ref>
-              </li>
-            </xl></p>
-
-          <!--<p>Older pedagogical examples – <xl id="prog-older-pedag">
+        <p>Some examples with the progressive particle (pseudo-preposition) <a href="?gd=ag"
+              ><g>ag</g></a> – <xl>
+            <li>
+              <gd>Tha Màiri agus Calum ag obair anns an achadh.</gd>
+              <tr>Mary and Malcolm are working in the field.</tr>
+              <ref text="617">td. 6–7 [adapted]</ref>
+            </li>
+            <li>
+              <gd>Dé tha a’ chaileag a’ dèanamh an diugh? Tha i a’ cluich air an làr.</gd>
+              <tr>What is the girl doing today? She is playing on the floor.</tr>
+              <ref text="617">td. 14 [adapted]</ref>
+            </li>
+            <li>
+              <gd>An robh Calum ag iasgach air an loch an dé? Bha.</gd>
+              <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
+              <ref text="617">td. 20</ref>
+            </li>
+          </xl></p>
+        <!--<p>Older pedagogical examples – <xl id="prog-older-pedag">
             <li>
               <gd><m>Tha mo mhàthair a’ sgrìobhadh</m> litreach gu m’athair a tha air falbh.
                 Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an litir seo,
@@ -769,51 +827,34 @@
             </li>
           </xl>
           </p>-->
-        </section>
-      </section>
-      <section id="deps-pred-adv">
-        <h>adverbs</h>
-        <p>The predicate of <g>bi</g> can be an adverb.</p>
-        <p>Some examples – <xl>
+        <p>Some examples with adverbs and interrogatives – <xl>
             <li>
-              <gd>Càit a bheil an cù? Tha e <m>còmhla</m> ri Calum.</gd>
+              <gd>Càit a bheil an cù? Tha e còmhla ri Calum.</gd>
               <tr>Where is the dog? It is with Calum.</tr>
               <ref text="617">td. 19–20</ref>
             </li>
+            <li>
+              <gd>Ciamar a tha sibh? Tha mi gu math, tapadh leibh.</gd>
+              <tr>How are you? I am well, thank you.</tr>
+              <ref text="617">td. 15</ref>
+            </li>
           </xl>
         </p>
-      </section>
-
-      <section id="deps-pred-pred-poly">
-        <h>multiple predicates</h>
-        <p><g>bi</g> can take more than one predicate, without needing an explicit conjunction <a
-            href="?gd=agus"><g>agus</g></a>
-          <en>and</en> – <xl>
+        <p>Some further examples with juxtaposed predicates – <xl>
             <li>
-              <gd>Tha Màiri <m>beag</m>
-                <m>bàn</m>.</gd>
-              <tr>Mary is small and fair-haired.</tr>
-              <ref text="617">td. 8</ref>
-            </li>
-            <li>
-              <gd>Bha iad <m>fuar</m>
-                <m>ag obair</m> anns an achadh an dé.</gd>
-              <tr>They were cold working in the field yesterday.</tr>
+              <gd>Bha iad fuar ag obair anns an achadh.</gd>
+              <tr>They were cold working in the field.</tr>
               <ref text="617">td. 7 [adapted]</ref>
             </li>
             <li>
-              <gd>Nach eil sibh <m>trang</m>
-                <m>ag obair</m>.</gd>
-              <tr>Weren’t you busy working?</tr>
+              <gd>Nach eil sibh trang ag obair. Tha.</gd>
+              <tr>Aren’t you busy working? Yes, we are.</tr>
               <ref text="617">td. 9 [adapted]</ref>
             </li>
-          </xl>
-        </p>
-        <p>But see also – <xl>
             <li>
-              <gd>Tha Màiri agus Calum <m>fliuch agus fuar</m>.</gd>
-              <tr>Mary and Malcolm are wet and cold.</tr>
-              <ref text="617">td. 7 [226]</ref>
+              <gd>Tha iad fuar anns an achadh.</gd>
+              <tr>They are cold in the field.</tr>
+              <ref text="617">td. 9 [adapted]</ref>
             </li>
           </xl>
         </p>
@@ -822,58 +863,45 @@
     <section id="deps-mods">
       <h>modifiers</h>
       <p>Like other verbs, <g>bi</g> can occur with one or more modifiers.</p>
-      <section id="deps-mod-loc">
-        <h>locative</h>
-        <p>Some examples – <xl>
-            <li>
-              <gd>Tha iad fuar <m>anns an achadh</m>.</gd>
-              <tr>They are cold in the field.</tr>
-              <ref text="617">td. 9 [adapted]</ref>
-            </li>
-          </xl>
-        </p>
-      </section>
-      <section id="deps-mod-temp">
-        <h>temporal</h>
-        <p>Examples in present tense – <xl>
-            <li>
-              <gd>Tha iad fuar ag obair anns an achadh <m>an diugh</m>.</gd>
-              <tr>They are tired working in the field today.</tr>
-              <ref text="617">td. 7 [adapted]</ref>
-            </li>
-          </xl>
-        </p>
-        <p>Examples in past tense – <xl>
-            <li>
-              <gd>Cha robh e fuar <m>an dé</m>.</gd>
-              <tr>It was not cold today.</tr>
-              <ref text="617">td. 11 [adapted]</ref>
-            </li>
-            <li>
-              <gd>An robh an gille seo anns an sgoil <m>an diugh</m>? Cha robh. Bha e anns an taigh
-                  <m>fad an latha</m>.</gd>
-              <tr>Was this boy in the school today? No, he was in the house all day long.</tr>
-              <ref text="617">td. 20 [adapted]</ref>
-            </li>
-            <!--<li>
-              <gd>An robh an clachair ag obair air a’ bhalla fad an latha <m>an dé</m>? Bha.</gd>
-              <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
-              <ref text="617">td. 20</ref>
-            </li>-->
-          </xl>
-        </p>
-      </section>
-      <section id="deps-mod-other">
-        <h>other</h>
-        <p>Examples with comitative modifiers – <xl>
-            <li>
-              <gd>Tha an duine anns a’ mhonadh <m>leis a’ chù</m>.</gd>
-              <tr>The man is on the moor with the dog.</tr>
-              <ref text="617">td. 19</ref>
-            </li>
-          </xl>
-        </p>
-      </section>
+      <p>Some examples with temporal modifiers in the present tense – <xl>
+          <li>
+            <gd>Tha iad fuar ag obair anns an achadh an diugh.</gd>
+            <tr>They are tired working in the field today.</tr>
+            <ref text="617">td. 7 [adapted]</ref>
+            <note>‘an diugh’ is a modifier of ‘tha’.</note>
+          </li>
+        </xl>
+      </p>
+      <p>Some examples with temporal modifiers in the past tense – <xl>
+          <li>
+            <gd>Cha robh e fuar an dé.</gd>
+            <tr>It was not cold today.</tr>
+            <ref text="617">td. 11 [adapted]</ref>
+          </li>
+          <li>
+            <gd>An robh an gille seo anns an sgoil an diugh? Cha robh.</gd>
+            <tr>Was this boy in the school today? No, he wasn’t.</tr>
+            <ref text="617">td. 20 [adapted]</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Some examples with durative modifiers – <xl>
+          <li>
+            <gd>Bha Màiri anns an taigh fad an latha.</gd>
+            <tr>Mary was in the house all day long.</tr>
+            <ref text="617">td. 20 [adapted]</ref>
+          </li>
+        </xl>
+      </p>
+      <p>Some examples with comitative modifiers – <xl>
+          <li>
+            <gd>Tha an duine anns a’ mhonadh leis a’ chù.</gd>
+            <tr>The man is on the moor with the dog.</tr>
+            <ref text="617">td. 19</ref>
+            <note>This may be juxtaposed predication rather than modification.</note>
+          </li>
+        </xl>
+      </p>
     </section>
 
     <!--<section id="sbj">
