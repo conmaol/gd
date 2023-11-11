@@ -1,719 +1,426 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
-  <h>bi</h>
-  <p><g>bi</g>
-    <en>be</en> is the predicative <a href="?xx=verbs/verbs">verb</a>.</p>
-  <section id="forms">
-    <h>forms</h>
-    <p>The principal parts of <g>bi</g> are – <ul>
-        <li><m>tha</m> / <m>(bh)eil</m> – present independent/dependent – <en>is, are, am</en></li>
-        <li><m>bidh</m> / <m>bi</m> – future independent/dependent – <en>will be</en></li>
-        <li><m>bha</m> / <m>robh</m> – past independent/dependent – <en>was, were</en></li>
-        <li><m>bhiodh</m> / <m>biodh</m> – conditional independent/dependent – <en>would
-          be</en></li>
-        <li><m>bith</m>
-          <fem/> – verbal noun – <en>being</en></li>
-      </ul>
+    <h>bi</h>
+    <p><g>bi</g>
+        <en>be</en> is the predicative <a href="?xx=verbs/verbs">verb</a>. Its main forms are – <ul>
+            <li>present – <g>tha</g>, <g>·</g>(<g>bh</g>)<g>eil</g></li>
+            <li>past – <g>bha</g>, <g>·robh</g></li>
+            <!--<li><g>bidh</g> – future independent active</li>
+            <li><g>bhiodh</g> – conditional independent active</li>-->
+        </ul>
     </p>
-    <section id="forms-tense">
-      <h>tense</h>
-      <p><ul>
-          <li>present <ul id="forms-tense-present">
-              <li>active <ul>
-                  <li>independent – <m>tha</m></li>
-                  <li>relative – a <m>tha</m></li>
-                  <li>dependent – chan/nach <m>eil</m>, a <m>bheil</m></li>
-                </ul>
-              </li>
-              <li>passive <ul>
-                  <li>independent – <m>thathar</m></li>
-                  <li>relative – a <m>thathar</m></li>
-                  <li>dependent – chan/nach <m>eilear</m>, a <m>bheilear</m></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>past <ul id="forms-tense-past">
-              <li>active <ul>
-                  <li>independent – <m>bha</m></li>
-                  <li>relative – a <m>bha</m></li>
-                  <li>dependent – cha/an/nach <m>robh</m></li>
-                </ul>
-              </li>
-              <li>passive <ul>
-                  <li>independent – <m>bhathar</m></li>
-                  <li>relative – a <m>bhathar</m></li>
-                  <li>dependent – cha/an/nach <m>robhar</m></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>future <ul id="forms-tense-future">
-              <li>active <ul>
-                  <li>independent – <m>bidh</m></li>
-                  <li>relative – a <m>bhios</m></li>
-                  <li>dependent – cha <m>bhi</m>, am/nach <m>bi</m></li>
-                </ul>
-              </li>
-              <li>passive <ul>
-                  <li>independent – <m>bithear</m></li>
-                  <li>relative – a <m>bhithear</m></li>
-                  <li>dependent – cha <m>bhithear</m>, am/nach <m>bithear</m></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>conditional <ul id="forms-tense-conditional">
-              <li>active <ul>
-                  <li>first person singular <ul>
-                      <li>independent – <m>bhithinn</m></li>
-                      <li>relative – a <m>bhithinn</m></li>
-                      <li>dependent – cha <m>bhithinn</m>, am/nach <m>bithinn</m></li>
-                    </ul>
-                  </li>
-                  <li>first person plural <ul>
-                      <li>independent – <m>bhiomaid</m></li>
-                      <li>relative – a <m>bhiomaid</m></li>
-                      <li>dependent – cha <m>bhiomaid</m>, am/nach <m>biomaid</m></li>
-                    </ul>
-                  </li>
-                  <li>second/third persons <ul>
-                      <li>independent – <m>bhiodh</m></li>
-                      <li>relative – a <m>bhiodh</m></li>
-                      <li>dependent – cha <m>bhiodh</m>, am/nach <m>biodh</m></li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-              <li>passive <ul>
-                  <li>independent – <m>bhite</m></li>
-                  <li>relative – a <m>bhite</m></li>
-                  <li>dependent – cha <m>bhite</m>, am/nach <m>bite</m></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-        </ul></p>
-    </section>
-    <section id="forms-status">
-      <h>status</h>
-      <p><ul>
-          <li>independent <ul id="forms-status-independent">
-              <li>present <ul>
-                  <li>active – <m>tha</m></li>
-                  <li>passive – <m>thathar</m></li>
-                </ul>
-              </li>
-              <li>past <ul>
-                  <li>active – <m>bha</m></li>
-                  <li>passive – <m>bhathar</m></li>
-                </ul>
-              </li>
-              <li>future <ul>
-                  <li>active – <m>bidh</m></li>
-                  <li>passive – <m>bithear</m></li>
-                </ul>
-              </li>
-              <li>conditional <ul>
-                  <li>active <ul>
-                      <li>first person singular – <m>bhithinn</m></li>
-                      <li>first person plural – <m>bhiomaid</m></li>
-                      <li>second/third persons – <m>bhiodh</m></li>
-                    </ul>
-                  </li>
-                  <li>passive – <m>bhite</m></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>relative <ul id="forms-status-relative">
-              <li>present <ul>
-                  <li>active – a <m>tha</m></li>
-                  <li>passive – a <m>thathar</m></li>
-                </ul>
-              </li>
-              <li>past <ul>
-                  <li>active – a <m>bha</m></li>
-                  <li>passive – a <m>bhathar</m></li>
-                </ul>
-              </li>
-              <li>future <ul>
-                  <li>active – a <m>bhios</m></li>
-                  <li>passive – a <m>bhithear</m></li>
-                </ul>
-              </li>
-              <li>conditional <ul>
-                  <li>active <ul>
-                      <li>first person singular – a <m>bhithinn</m></li>
-                      <li>first person plural – a <m>bhiomaid</m></li>
-                      <li>second/third persons – a <m>bhiodh</m></li>
-                    </ul>
-                  </li>
-                  <li>passive – a <m>bhite</m></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>dependent <ul id="forms-status-dependent">
-              <li>present <ul>
-                  <li>active – chan/nach <m>eil</m>, a <m>bheil</m></li>
-                  <li>passive – chan/nach <m>eilear</m>, a <m>bheilear</m></li>
-                </ul>
-              </li>
-              <li>past <ul>
-                  <li>active – cha/an/nach <m>robh</m></li>
-                  <li>passive – cha/an/nach <m>robhar</m></li>
-                </ul>
-              </li>
-              <li>future <ul>
-                  <li>active – cha <m>bhi</m>, am/nach <m>bi</m></li>
-                  <li>passive – cha <m>bhithear</m>, am/nach <m>bithear</m></li>
-                </ul>
-              </li>
-              <li>conditional <ul>
-                  <li>active <ul>
-                      <li>first person singular – cha <m>bhithinn</m>, am/nach <m>bithinn</m></li>
-                      <li>first person plural – cha <m>bhiomaid</m>, am/nach <m>biomaid</m></li>
-                      <li>second/third persons – cha <m>bhiodh</m>, am/nach <m>biodh</m></li>
-                    </ul>
-                  </li>
-                  <li>passive – cha <m>bhite</m>, am/nach <m>bite</m></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-        </ul></p>
-    </section>
-    <section id="forms-voice">
-      <h>voice</h>
-      <p><ul>
-          <li>active <ul id="forms-voice-active">
-              <li>present <ul>
-                  <li>independent – <m>tha</m></li>
-                  <li>relative – a <m>tha</m></li>
-                  <li>dependent – chan/nach <m>eil</m>, a <m>bheil</m></li>
-                </ul>
-              </li>
-              <li>past <ul>
-                  <li>independent – <m>bha</m></li>
-                  <li>relative – a <m>bha</m></li>
-                  <li>dependent – cha/an/nach <m>robh</m></li>
-                </ul>
-              </li>
-              <li>future <ul>
-                  <li>independent – <m>bidh</m></li>
-                  <li>relative – a <m>bhios</m></li>
-                  <li>dependent – cha <m>bhi</m>, am/nach <m>bi</m></li>
-                </ul>
-              </li>
-              <li>conditional <ul>
-                  <li>independent <ul>
-                      <li>first person singular – <m>bhithinn</m></li>
-                      <li>first person plural – <m>bhiomaid</m></li>
-                      <li>second/third persons – <m>bhiodh</m></li>
-                    </ul>
-                  </li>
-                  <li>relative <ul>
-                      <li>first person singular – a <m>bhithinn</m></li>
-                      <li>first person plural – a <m>bhiomaid</m></li>
-                      <li>second/third persons – a <m>bhiodh</m></li>
-                    </ul>
-                  </li>
-                  <li>dependent <ul>
-                      <li>first person singular – cha <m>bhithinn</m>, am/nach <m>bithinn</m></li>
-                      <li>first person plural – cha <m>bhiomaid</m>, am/nach <m>biomaid</m></li>
-                      <li>second/third persons – cha <m>bhiodh</m>, am/nach <m>biodh</m></li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>passive <ul id="forms-voice-passive">
-              <li>present <ul>
-                  <li>independent – <m>thathar</m></li>
-                  <li>relative – a <m>thathar</m></li>
-                  <li>dependent – chan/nach <m>eilear</m>, a <m>bheilear</m></li>
-                </ul>
-              </li>
-              <li>past <ul>
-                  <li>independent – <m>bhathar</m></li>
-                  <li>relative – a <m>bhathar</m></li>
-                  <li>dependent – cha/an/nach <m>robhar</m></li>
-                </ul>
-              </li>
-              <li>future <ul>
-                  <li>independent – <m>bithear</m></li>
-                  <li>relative – a <m>bhithear</m></li>
-                  <li>dependent – cha <m>bhithear</m>, am/nach <m>bithear</m></li>
-                </ul>
-              </li>
-              <li>conditional <ul>
-                  <li>independent – <m>bhite</m></li>
-                  <li>relative – a <m>bhite</m></li>
-                  <li>dependent – cha <m>bhite</m>, am/nach <m>bite</m></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-        </ul></p>
-    </section>
-    <section id="forms-imperative">
-      <h>imperative</h>
-      <p>
-        <ul>
-          <li>independent <ul id="forms-imperative-independent">
-              <li>first person singular – <m>bitheam</m>!</li>
-              <li>second person singular – <m>bi</m>!</li>
-              <li>first person plural – <m>biomaid</m>!</li>
-              <li>second person plural – <m>bithibh</m>!</li>
-              <li>third person – <m>bitheadh</m>!</li>
-              <li>passive – <m>rach(t)ar</m>!</li>
-            </ul>
-          </li>
-          <li>dependent <ul id="forms-imperative-dependent">
-              <li>first person singular – na <m>bitheam</m>!</li>
-              <li>second person singular – na <m>bi</m>!</li>
-              <li>first person plural – na <m>biomaid</m>!</li>
-              <li>second person plural – na <m>bithibh</m>!</li>
-              <li>third person – na <m>bitheadh</m>!</li>
-              <!--<li>passive – na <m>rach(t)ar</m>!</li>-->
-            </ul>
-          </li>
-        </ul>
-      </p>
-    </section>
-    <section id="forms-notes">
-      <h>notes</h>
-      <p><ul>
-          <li>Note the following emphatic variants – <ul>
-              <li><g>bidh</g> ⇒ <m>bithidh</m></li>
-              <li>a <g>bhios</g> ⇒ a <m>bhitheas</m></li>
-              <li><g>b[h]iodh</g> ⇒ <m>b[h]itheadh</m></li>
-              <li><g>b[h]iomaid</g> ⇒ <m>b[h]itheamaid</m></li>
-            </ul>
-          </li>
-          <li>Note the following passive dialectal alternatives – <ul>
-              <li><g>thathar</g> ⇒ <m>thatar</m>, <m>thathas</m></li>
-              <li><g>b[h]eilear</g> ⇒ <m>b[h]eileas</m></li>
-              <li><g>bhathar</g> ⇒ <m>bhatar</m>, <m>bhathas</m></li>
-              <li><g>robhar</g> ⇒ <m>robhas</m></li>
-              <li><g>b[h]ithear</g> ⇒ <m>b[h]itear</m>, <m>b[h]itheas</m>, <m>b[h]iteas</m></li>
-              <li><g>b[h]ite</g> ⇒ <m>b[h]iteadh</m></li>
-            </ul>
-          </li>
-        </ul>
-      </p>
-    </section>
-  </section>
 
-  <section>
-    <h>dependents</h>
-    <p>In general, <g>bi</g> takes both a subject and a predicate – <xl>
-        <li>
-          <gd>Tha an cù dubh.</gd>
-          <tr>The dog is black.</tr>
-          <ref text="617">td. 6</ref>
-          <note>‘cù’ is the subject of ‘tha’ (and ‘an’ is the specifier of ‘cù’); ‘dubh’ is the
-            predicate of ‘tha’.</note>
-        </li>
-        <li>
-          <gd>An robh an cat aig an teine? Bha.</gd>
-          <tr>Was the cat is by the fire? Yes, he was.</tr>
-          <ref text="617">td. 6 [adapted]</ref>
-          <note>‘cat’ is the subject of ‘robh’; ‘aig’ is the predicate of ‘robh’ (and ‘teine’ is the
-            complement of ‘aig’).</note>
-        </li>
-        <li>
-          <gd>Chan eil Màiri ag obair.</gd>
-          <tr>Mary is not working.</tr>
-          <ref text="617">td. 6 [adapted]</ref>
-          <note>‘Màiri’ is the subject of ‘eil’; ‘ag’ is the predicate of ‘eil’ (and ‘obair’ is the
-            complement of ‘ag’).</note>
-        </li>
-      </xl>
-    </p>
-    <section id="deps-sbj">
-      <h>subject</h>
-      <p>The subject of <g>bi</g> can be a <a href="?xx=nouns/nouns">noun</a> or a <a
-          href="?xx=nouns/pronouns">pronoun</a> – <xl>
-          <li>
-            <gd>Tha Seònaid trang.</gd>
-            <tr>Janet is busy.</tr>
-            <ref text="617">[lesson 1–3 adapted]</ref>
-            <note>The proper noun ‘Seònaid’ is the subject of ‘tha’.</note>
-          </li>
-          <li>
-            <gd>Nach robh na bàtaichean air a’ chladach? Bha.</gd>
-            <tr>Weren’t the boats on the shore? Yes, they were.</tr>
-            <ref text="617">td. 17 [adapted]</ref>
-            <note>The common noun ‘bàtaichean’ is the subject of ‘robh’.</note>
-          </li>
-          <li>
-            <gd>Bhiodh sinn a’ cluich anns an taigh.</gd>
-            <tr>We would be playing in the house.</tr>
-            <ref text="617">[lesson 2 adapted]</ref>
-            <note>The pronoun ‘sinn’ is the subject of ‘bhiodh’.</note>
-          </li>
-        </xl>
-      </p>
-      <section id="deps-sbj-proper">
-        <h>proper nouns</h>
-        <p>Some examples with <a href="?xx=nouns/proper_nouns">proper nouns</a> – <ul>
-            <li>feminine – <xl>
+    <section>
+        <h>dependents</h>
+        <p>In general, forms of <g>bi</g> take both a subject and a predicate – <xl>
                 <li>
-                  <gd>Bha Màiri sgìth.</gd>
-                  <tr>Mary was tired.</tr>
-                  <ref text="617">td. 7 [adapted]</ref>
+                    <gd>Tha an cù dubh.</gd>
+                    <tr>The dog is black.</tr>
+                    <ref text="617">td. 6</ref>
+                    <note>‘cù’ is the subject of ‘tha’ (and ‘an’ is the specifier of ‘cù’); ‘dubh’
+                        is the predicate of ‘tha’.</note>
                 </li>
                 <li>
-                  <gd>A bheil Seònaid anns an sgoil an diugh? Chan eil.</gd>
-                  <tr>Is Janet in the school today? No, she isn’t.</tr>
-                  <ref text="617">td. 14</ref>
-                </li>
-              </xl></li>
-            <li>masculine – <xl>
-                <li>
-                  <gd>Nach eil Calum anns an achadh? Tha.</gd>
-                  <tr>Isn’t Malcolm in the field? Yes, he is.</tr>
-                  <ref text="617">td. 11</ref>
+                    <gd>An robh an cat aig an teine? Bha.</gd>
+                    <tr>Was the cat is by the fire? Yes, he was.</tr>
+                    <ref text="617">td. 6 [adapted]</ref>
+                    <note>‘cat’ is the subject of ‘robh’; ‘aig’ is the predicate of ‘robh’ (and
+                        ‘teine’ is the complement of ‘aig’).</note>
                 </li>
                 <li>
-                  <gd>Có bha ag iasgach an diugh? Bha Alasdair.</gd>
-                  <tr>Who was fishing today? Alexander was.</tr>
-                  <ref text="617">td. 20</ref>
+                    <gd>Chan eil Màiri ag obair.</gd>
+                    <tr>Mary is not working.</tr>
+                    <ref text="617">td. 6 [adapted]</ref>
+                    <note>‘Màiri’ is the subject of ‘eil’; ‘ag’ is the predicate of ‘eil’ (and
+                        ‘obair’ is the complement of ‘ag’).</note>
                 </li>
-              </xl></li>
-            <li>conjoined with <a href="?gd=agus"><g>agus</g></a>
-              <en>and</en> – <xl>
-                <li>
-                  <gd>Tha Sìne agus Seumas ag obair.</gd>
-                  <tr>Jean and James are working.</tr>
-                  <ref text="617">td. 7</ref>
-                  <note>‘agus’ is the subject of ‘tha’; both ‘Sìne’ and ‘Seumas’ are conjuncts of
-                    ‘agus’.</note>
-                </li>
-              </xl>
-            </li>
-          </ul>
+            </xl>
         </p>
-      </section>
-      <section id="deps-sbj-common">
-        <h>common nouns</h>
-        <p>Some examples with specified (definite) <a href="?xx=nouns/common_nouns">common nouns</a>
-          – <ul>
-            <li>animate – <ul>
-                <li>singular – <xl>
+        <section id="deps-sbj">
+            <h>subject</h>
+            <p>The subject of <g>bi</g> can be a <a href="?xx=nouns/nouns">noun</a> or a <a
+                    href="?xx=nouns/pronouns">pronoun</a> – <xl>
                     <li>
-                      <gd>Tha an cù dubh aig an dorus.</gd>
-                      <tr>The black dog is at the door.</tr>
-                      <ref text="617">td. 9</ref>
+                        <gd>Tha Seònaid trang.</gd>
+                        <tr>Janet is busy.</tr>
+                        <ref text="617">[lesson 1–3 adapted]</ref>
+                        <note>The proper noun ‘Seònaid’ is the subject of ‘tha’.</note>
                     </li>
                     <li>
-                      <gd>An robh am bodach anns a’ bhàta? Bha.</gd>
-                      <tr>Was the old man is in the boat? Yes, he was.</tr>
-                      <ref text="617">td. 17 [adapted]</ref>
-                    </li>
-                  </xl>
-                </li>
-                <li>plural – <xl>
-                    <li>
-                      <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
-                      <tr>The sheep were up n the side of the mountain.</tr>
-                      <ref text="617">td. 21</ref>
-                    </li>
-                  </xl>
-                </li>
-                <li>aggregates – <xl>
-                    <li>
-                      <gd>Bha an crodh faisg air an loch.</gd>
-                      <tr>The cattle were near the lake.</tr>
-                      <ref text="617">td. 21</ref>
-                    </li>
-                  </xl>
-                </li>
-              </ul>
-            </li>
-            <li>inanimate – <ul>
-                <li>singular – <xl>
-                    <li>
-                      <gd>Bha an dorus mór.</gd>
-                      <tr>The door was big.</tr>
-                      <ref text="617">td. 6 [adapted]</ref>
+                        <gd>Nach robh na bàtaichean air a’ chladach? Bha.</gd>
+                        <tr>Weren’t the boats on the shore? Yes, they were.</tr>
+                        <ref text="617">td. 17 [adapted]</ref>
+                        <note>The common noun ‘bàtaichean’ is the subject of ‘robh’.</note>
                     </li>
                     <li>
-                      <gd>Tha am bàta air a’ chladach.</gd>
-                      <tr>The boat is on the shore.</tr>
-                      <ref text="617">td. 17</ref>
+                        <gd>Bhiodh sinn a’ cluich anns an taigh.</gd>
+                        <tr>We would be playing in the house.</tr>
+                        <ref text="617">[lesson 2 adapted]</ref>
+                        <note>The pronoun ‘sinn’ is the subject of ‘bhiodh’.</note>
                     </li>
-                  </xl>
-                </li>
-                <li>plural –</li>
-                <li>mass – <xl>
-                    <li>
-                      <gd>Càit a bheil an gual? Tha an gual air an teine.</gd>
-                      <tr>Where is the coal? The coal is on the fire.</tr>
-                      <ref text="617">td. 15 [227] [adapted]</ref>
-                    </li>
-                  </xl>
-                </li>
-              </ul>
-            </li>
-            <li>abstract – <xl>
-                <li>
-                  <gd>A bheil an latha fuar? Tha.</gd>
-                  <tr>Is the day cold? Yes, it is.</tr>
-                  <ref text="617">td. 14</ref>
-                </li>
-              </xl>
-            </li>
-          </ul>
-        </p>
-        <p>Some examples with non-specified (indefinite) common nouns – <ul>
-            <li>animate – <ul>
-                <li>singular – <xl>
-                    <li>
-                      <gd>Cha robh duine anns a’ bhàta.</gd>
-                      <tr>There was no one in the boat.</tr>
-                      <ref text="617">td. 21</ref>
-                    </li>
-                  </xl>
-                </li>
-                <li>plural –</li>
-                <li>aggregates – <xl>
-                    <li>
-                      <gd>Bha clann a’ snàmh anns a’ mhuir.</gd>
-                      <tr>There were children swimming in the sea.</tr>
-                      <ref text="617">td. 21</ref>
-                    </li>
-                  </xl>
-                </li>
-              </ul>
-            </li>
-            <li>inanimate – <ul>
-                <li>singular – <xl>
-                    <li>
-                      <gd>A bheil ceann mór air Seumas? Tha.</gd>
-                      <tr>Does James have a big head? Yes, he does.</tr>
-                      <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                      <gd>Bha bàta beag air an tràigh.</gd>
-                      <tr>There was a little boat on the beach.</tr>
-                      <ref text="617">td. 21</ref>
-                    </li>
-                  </xl>
-                </li>
-                <li>plural – <xl>
-                    <li>
-                      <gd>Tha uighean anns a’ bhocsa.</gd>
-                      <tr>There are eggs in the box.</tr>
-                      <ref text="617">td. 20</ref>
-                    </li>
-                    <li>
-                      <gd>An robh bàtaichean air a’ mhuir?</gd>
-                      <tr>Were there boats on the sea?</tr>
-                      <ref text="617">td. 21 [adapted]</ref>
-                    </li>
-                  </xl>
-                </li>
-                <li>mass – <xl>
-                    <li>
-                      <gd>Chan eil falt dubh air Calum.</gd>
-                      <tr>Calum does not have black hair.</tr>
-                      <ref text="617">td. 9 [adapted]</ref>
-                    </li>
-                    <li>
-                      <gd>A bheil uisge anns a’ choire? Tha.</gd>
-                      <tr>Is there water in the kettle? Yes, there is.</tr>
-                      <ref text="617">td. 120</ref>
-                    </li>
-                  </xl>
-                </li>
-              </ul>
-            </li>
-            <li>abstract – <xl>
-                <li>
-                  <gd>Tha teas anns an teine.</gd>
-                  <tr>There is heat in the fire.</tr>
-                  <ref text="617">td. 6</ref>
-                </li>
-                <li>
-                  <gd>Bha latha brèagha ann.</gd>
-                  <tr>It was a beautiful day.</tr>
-                  <ref text="617">td. 21 [briagha in source]</ref>
-                </li>
-              </xl>
-            </li>
-          </ul>
-        </p>
-      </section>
-      <section id="deps-sbj-pronouns">
-        <h>pronouns</h>
-        <p>Some examples with pronouns – <ul>
-            <li>first person pronouns – <xl>
-                <li>
-                  <gd>Tha mi trang an diugh.</gd>
-                  <tr>I am busy today.</tr>
-                  <ref text="617">td. 9 [226]</ref>
-                </li>
-                <li>
-                  <gd>Cha robh sinn a’ cluich anns an taigh.</gd>
-                  <tr>We were not playing in the house.</tr>
-                  <ref text="617">td. 21 [230]</ref>
-                </li>
-              </xl>
-            </li>
-            <li>second person pronouns – <xl>
-                <li>
-                  <gd>An robh thu sgìth? Cha robh.</gd>
-                  <tr>Were you tired? No, we weren’t.</tr>
-                  <ref text="617">td. 11 [adapted]</ref>
-                </li>
-                <li>
-                  <gd>An robh sibh anns an achadh an diugh? Cha robh.</gd>
-                  <tr>Were you in the field today? No, we weren’t.</tr>
-                  <ref text="617">td. 17</ref>
-                </li>
-              </xl>
-            </li>
-            <li>referential third person pronouns – <xl>
-                <li>
-                  <gd>Tha Màiri bhàn anns an achadh an diugh agus tha i ag obair gu trang.</gd>
-                  <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
-                  <ref text="617">td. 9</ref>
-                </li>
-                <li>
-                  <gd>Càit a bheil an gille beag an diugh? Tha e anns an sgoil.</gd>
-                  <tr>Where is the little boy today? He is in the school.</tr>
-                  <ref text="617">td. 14</ref>
-                </li>
-                <li>
-                  <gd>Nach robh Calum agus Màiri a’ cluich còmhla ris a’ chù? Cha robh, bha iad anns
-                    a’ bhaile.</gd>
-                  <tr>Weren’t Malcolm and Mary playing with the dog? No, they weren’t, they were in
-                    the town.</tr>
-                  <ref text="617">td. 21 [230]</ref>
-                </li>
-              </xl>
-            </li>
-            <li>non-referential third person pronouns – <xl>
-                <li>
-                  <gd>Chan eil e fuar an diugh.</gd>
-                  <tr>It is not cold today.</tr>
-                  <ref text="617">td. 11</ref>
-                </li>
-              </xl>
-            </li>
-            <li>demonstrative pronouns – <xl>
-                <li>
-                  <gd>Cha robh sin math.</gd>
-                  <tr>That was not good.</tr>
-                  <ref text="617">td. 15 [adapted]</ref>
-                </li>
-                <li>
-                  <gd>Tha seo teth.</gd>
-                  <tr>This (one) is hot.</tr>
-                  <ref text="617">td. 15</ref>
-                </li>
-                <!--<li>
+                </xl>
+            </p>
+            <section id="deps-sbj-proper">
+                <h>proper nouns</h>
+                <p>Some examples with <a href="?xx=nouns/proper_nouns">proper nouns</a> – <ul>
+                        <li>feminine – <xl>
+                                <li>
+                                    <gd>Bha Màiri sgìth.</gd>
+                                    <tr>Mary was tired.</tr>
+                                    <ref text="617">td. 7 [adapted]</ref>
+                                </li>
+                                <li>
+                                    <gd>A bheil Seònaid anns an sgoil an diugh? Chan eil.</gd>
+                                    <tr>Is Janet in the school today? No, she isn’t.</tr>
+                                    <ref text="617">td. 14</ref>
+                                </li>
+                            </xl></li>
+                        <li>masculine – <xl>
+                                <li>
+                                    <gd>Nach eil Calum anns an achadh? Tha.</gd>
+                                    <tr>Isn’t Malcolm in the field? Yes, he is.</tr>
+                                    <ref text="617">td. 11</ref>
+                                </li>
+                                <li>
+                                    <gd>Có bha ag iasgach an diugh? Bha Alasdair.</gd>
+                                    <tr>Who was fishing today? Alexander was.</tr>
+                                    <ref text="617">td. 20</ref>
+                                </li>
+                            </xl></li>
+                        <li>conjoined with <a href="?gd=agus"><g>agus</g></a>
+                            <en>and</en> – <xl>
+                                <li>
+                                    <gd>Tha Sìne agus Seumas ag obair.</gd>
+                                    <tr>Jean and James are working.</tr>
+                                    <ref text="617">td. 7</ref>
+                                    <note>‘agus’ is the subject of ‘tha’; both ‘Sìne’ and ‘Seumas’
+                                        are conjuncts of ‘agus’.</note>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </section>
+            <section id="deps-sbj-common">
+                <h>common nouns</h>
+                <p>Some examples with specified (definite) <a href="?xx=nouns/common_nouns">common
+                        nouns</a> – <ul>
+                        <li>animate – <ul>
+                                <li>singular – <xl>
+                                        <li>
+                                            <gd>Tha an cù dubh aig an dorus.</gd>
+                                            <tr>The black dog is at the door.</tr>
+                                            <ref text="617">td. 9</ref>
+                                        </li>
+                                        <li>
+                                            <gd>An robh am bodach anns a’ bhàta? Bha.</gd>
+                                            <tr>Was the old man is in the boat? Yes, he was.</tr>
+                                            <ref text="617">td. 17 [adapted]</ref>
+                                        </li>
+                                    </xl>
+                                </li>
+                                <li>plural – <xl>
+                                        <li>
+                                            <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
+                                            <tr>The sheep were up n the side of the mountain.</tr>
+                                            <ref text="617">td. 21</ref>
+                                        </li>
+                                    </xl>
+                                </li>
+                                <li>aggregates – <xl>
+                                        <li>
+                                            <gd>Bha an crodh faisg air an loch.</gd>
+                                            <tr>The cattle were near the lake.</tr>
+                                            <ref text="617">td. 21</ref>
+                                        </li>
+                                    </xl>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>inanimate – <ul>
+                                <li>singular – <xl>
+                                        <li>
+                                            <gd>Bha an dorus mór.</gd>
+                                            <tr>The door was big.</tr>
+                                            <ref text="617">td. 6 [adapted]</ref>
+                                        </li>
+                                        <li>
+                                            <gd>Tha am bàta air a’ chladach.</gd>
+                                            <tr>The boat is on the shore.</tr>
+                                            <ref text="617">td. 17</ref>
+                                        </li>
+                                    </xl>
+                                </li>
+                                <li>plural –</li>
+                                <li>mass – <xl>
+                                        <li>
+                                            <gd>Càit a bheil an gual? Tha an gual air an teine.</gd>
+                                            <tr>Where is the coal? The coal is on the fire.</tr>
+                                            <ref text="617">td. 15 [227] [adapted]</ref>
+                                        </li>
+                                    </xl>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>abstract – <xl>
+                                <li>
+                                    <gd>A bheil an latha fuar? Tha.</gd>
+                                    <tr>Is the day cold? Yes, it is.</tr>
+                                    <ref text="617">td. 14</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+                <p>Some examples with non-specified (indefinite) common nouns – <ul>
+                        <li>animate – <ul>
+                                <li>singular – <xl>
+                                        <li>
+                                            <gd>Cha robh duine anns a’ bhàta.</gd>
+                                            <tr>There was no one in the boat.</tr>
+                                            <ref text="617">td. 21</ref>
+                                        </li>
+                                    </xl>
+                                </li>
+                                <li>plural –</li>
+                                <li>aggregates – <xl>
+                                        <li>
+                                            <gd>Bha clann a’ snàmh anns a’ mhuir.</gd>
+                                            <tr>There were children swimming in the sea.</tr>
+                                            <ref text="617">td. 21</ref>
+                                        </li>
+                                    </xl>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>inanimate – <ul>
+                                <li>singular – <xl>
+                                        <li>
+                                            <gd>A bheil ceann mór air Seumas? Tha.</gd>
+                                            <tr>Does James have a big head? Yes, he does.</tr>
+                                            <ref text="617">td. 14</ref>
+                                        </li>
+                                        <li>
+                                            <gd>Bha bàta beag air an tràigh.</gd>
+                                            <tr>There was a little boat on the beach.</tr>
+                                            <ref text="617">td. 21</ref>
+                                        </li>
+                                    </xl>
+                                </li>
+                                <li>plural – <xl>
+                                        <li>
+                                            <gd>Tha uighean anns a’ bhocsa.</gd>
+                                            <tr>There are eggs in the box.</tr>
+                                            <ref text="617">td. 20</ref>
+                                        </li>
+                                        <li>
+                                            <gd>An robh bàtaichean air a’ mhuir?</gd>
+                                            <tr>Were there boats on the sea?</tr>
+                                            <ref text="617">td. 21 [adapted]</ref>
+                                        </li>
+                                    </xl>
+                                </li>
+                                <li>mass – <xl>
+                                        <li>
+                                            <gd>Chan eil falt dubh air Calum.</gd>
+                                            <tr>Calum does not have black hair.</tr>
+                                            <ref text="617">td. 9 [adapted]</ref>
+                                        </li>
+                                        <li>
+                                            <gd>A bheil uisge anns a’ choire? Tha.</gd>
+                                            <tr>Is there water in the kettle? Yes, there is.</tr>
+                                            <ref text="617">td. 120</ref>
+                                        </li>
+                                    </xl>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>abstract – <xl>
+                                <li>
+                                    <gd>Tha teas anns an teine.</gd>
+                                    <tr>There is heat in the fire.</tr>
+                                    <ref text="617">td. 6</ref>
+                                </li>
+                                <li>
+                                    <gd>Bha latha brèagha ann.</gd>
+                                    <tr>It was a beautiful day.</tr>
+                                    <ref text="617">td. 21 [briagha in source]</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </section>
+            <section id="deps-sbj-pronouns">
+                <h>pronouns</h>
+                <p>Some examples with pronouns – <ul>
+                        <li>first person pronouns – <xl>
+                                <li>
+                                    <gd>Tha mi trang an diugh.</gd>
+                                    <tr>I am busy today.</tr>
+                                    <ref text="617">td. 9 [226]</ref>
+                                </li>
+                                <li>
+                                    <gd>Cha robh sinn a’ cluich anns an taigh.</gd>
+                                    <tr>We were not playing in the house.</tr>
+                                    <ref text="617">td. 21 [230]</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>second person pronouns – <xl>
+                                <li>
+                                    <gd>An robh thu sgìth? Cha robh.</gd>
+                                    <tr>Were you tired? No, we weren’t.</tr>
+                                    <ref text="617">td. 11 [adapted]</ref>
+                                </li>
+                                <li>
+                                    <gd>An robh sibh anns an achadh an diugh? Cha robh.</gd>
+                                    <tr>Were you in the field today? No, we weren’t.</tr>
+                                    <ref text="617">td. 17</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>referential third person pronouns – <xl>
+                                <li>
+                                    <gd>Tha Màiri bhàn anns an achadh an diugh agus tha i ag obair
+                                        gu trang.</gd>
+                                    <tr>Fair-headed Mary is in the field today and she is working
+                                        busily.</tr>
+                                    <ref text="617">td. 9</ref>
+                                </li>
+                                <li>
+                                    <gd>Càit a bheil an gille beag an diugh? Tha e anns an
+                                        sgoil.</gd>
+                                    <tr>Where is the little boy today? He is in the school.</tr>
+                                    <ref text="617">td. 14</ref>
+                                </li>
+                                <li>
+                                    <gd>Nach robh Calum agus Màiri a’ cluich còmhla ris a’ chù? Cha
+                                        robh, bha iad anns a’ bhaile.</gd>
+                                    <tr>Weren’t Malcolm and Mary playing with the dog? No, they
+                                        weren’t, they were in the town.</tr>
+                                    <ref text="617">td. 21 [230]</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>non-referential third person pronouns – <xl>
+                                <li>
+                                    <gd>Chan eil e fuar an diugh.</gd>
+                                    <tr>It is not cold today.</tr>
+                                    <ref text="617">td. 11</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>demonstrative pronouns – <xl>
+                                <li>
+                                    <gd>Cha robh sin math.</gd>
+                                    <tr>That was not good.</tr>
+                                    <ref text="617">td. 15 [adapted]</ref>
+                                </li>
+                                <li>
+                                    <gd>Tha seo teth.</gd>
+                                    <tr>This (one) is hot.</tr>
+                                    <ref text="617">td. 15</ref>
+                                </li>
+                                <!--<li>
                 <gd>Dé tha seo? Tha botul.</gd>
                 <tr>What is this? It’s a bottle.</tr>
                 <ref text="617">td. 20</ref>
               </li>-->
-              </xl>
-            </li>
-          </ul>
-        </p>
-        <p>The subject can also be represented by the interrogative quasi-pronouns <g><a
-              href="?gd=?coo">có</a> (a tha)</g>
-          <en>who, what?</en> and <g><a href="?gd=dee">dé</a> (a tha)</g>
-          <en>what?</en> – <xl>
-            <li>
-              <gd>Có tha a’ cluich air an làr? Tha a’ chaileag.</gd>
-              <tr>Who is playing on the floor? The girl was.</tr>
-              <ref text="617">td. 15</ref>
-            </li>
-            <li>
-              <gd>Dé bha air a’ chnoc? Bha taigh mór air a’ chnoc.</gd>
-              <tr>What was (there) on the hill? There was a big house on the hill.</tr>
-              <ref text="617">td. 20 [adapted]</ref>
-            </li>
-          </xl>
-        </p>
-      </section>
-    </section>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+                <p>The subject can also be represented by the interrogative quasi-pronouns <g><a
+                            href="?gd=?coo">có</a> (a tha)</g>
+                    <en>who, what?</en> and <g><a href="?gd=dee">dé</a> (a tha)</g>
+                    <en>what?</en> – <xl>
+                        <li>
+                            <gd>Có tha a’ cluich air an làr? Tha a’ chaileag.</gd>
+                            <tr>Who is playing on the floor? The girl was.</tr>
+                            <ref text="617">td. 15</ref>
+                        </li>
+                        <li>
+                            <gd>Dé bha air a’ chnoc? Bha taigh mór air a’ chnoc.</gd>
+                            <tr>What was (there) on the hill? There was a big house on the
+                                hill.</tr>
+                            <ref text="617">td. 20 [adapted]</ref>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+        </section>
 
-    <section id="deps-pred">
-      <h>predicate</h>
-      <p>The predicate of <g>bi</g> can be an adjective or a preposition – <xl>
-          <li>
-            <gd>Bha Calum sgìth.</gd>
-            <tr>Malcolm was tired.</tr>
-            <ref text="617">td. 7 [adapted]</ref>
-            <note>The adjective ‘sgìth’ is the predicate of ‘bha’.</note>
-          </li>
-          <li>
-            <gd>Nach eil an cù aig an dorus?</gd>
-            <tr>Isn’t the dog is at the door?</tr>
-            <ref text="617">td. 6 [adapted]</ref>
-            <note>The preposition ‘aig’ is the predicate of ‘eil’; ‘dorus’ is the complement of
-              ‘aig’.</note>
-          </li>
-          <li>
-            <gd>Cha bhi iad ag obair.</gd>
-            <tr>They won’t be working.</tr>
-            <ref text="617">[lesson 1-2 adapted]</ref>
-            <note>The pseudo-preposition (verb particle) ‘ag’ is the predicate of ‘b[h]i’; ‘obair’
-              is the complement of ‘ag’.</note>
-          </li>
-        </xl>
-      </p>
-      <section id="deps-pred-adj">
-        <h>adjectives</h>
-        <p>The predicate of <g>bi</g> can be an (uninflected) <a href="?xx=adjectives/adjectives"
-            >adjective</a>.</p>
-        <p>Some examples – <xl>
-            <li>
-              <gd>Bha an cù dubh ach bha an cat bàn.</gd>
-              <tr>The dog was black but the cat was white.</tr>
-              <ref text="617">td. 6 [adapted]</ref>
-              <note>‘dubh’ is the predicate of the first ‘bha’; ‘bàn’ is the predicate of the
-                second.</note>
-            </li>
-            <li>
-              <gd>Chan eil Màiri agus Calum trang an diugh.</gd>
-              <tr>Mary and Malcolm are not busy today.</tr>
-              <ref text="617">td. 7 [adapted]</ref>
-              <note>‘trang’ is the predicate of ‘eil’.</note>
-            </li>
-            <li>
-              <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
-              <tr>What is wrong with this boy? His head is sore.</tr>
-              <ref text="617">td. 20</ref>
-              <note>‘ceàrr’ is the predicate of the first ‘tha’; ‘goirt’ is the predicate of the
-                ‘second’.</note>
-            </li>
-          </xl>
-        </p>
-        <p>Some juxtaposed examples – <xl>
-            <li>
-              <gd>Tha Màiri beag bàn.</gd>
-              <tr>Mary is small and fair-haired.</tr>
-              <ref text="617">td. 8</ref>
-            </li>
-          </xl>
-        </p>
-        <p>Some examples conjoined with <a href="?gd=agus"><g>agus</g></a>
-          <en>and</en> – <xl>
-            <li>
-              <gd>Tha Seònaid agus Alasdair fliuch agus fuar.</gd>
-              <tr>Janet and Alexander are wet and cold.</tr>
-              <ref text="617">td. 7 [226] [adapted]</ref>
-            </li>
-          </xl>
-        </p>
-        <!--<p>Some examples with a definite article pre-specifier – <ul>
+        <section id="deps-pred">
+            <h>predicate</h>
+            <p>The predicate of <g>bi</g> can be an adjective or a preposition – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth.</gd>
+                        <tr>Malcolm was tired.</tr>
+                        <ref text="617">td. 7 [adapted]</ref>
+                        <note>The adjective ‘sgìth’ is the predicate of ‘bha’.</note>
+                    </li>
+                    <li>
+                        <gd>Nach eil an cù aig an dorus?</gd>
+                        <tr>Isn’t the dog is at the door?</tr>
+                        <ref text="617">td. 6 [adapted]</ref>
+                        <note>The preposition ‘aig’ is the predicate of ‘eil’; ‘dorus’ is the
+                            complement of ‘aig’.</note>
+                    </li>
+                    <li>
+                        <gd>Cha bhi iad ag obair.</gd>
+                        <tr>They won’t be working.</tr>
+                        <ref text="617">[lesson 1-2 adapted]</ref>
+                        <note>The pseudo-preposition (verb particle) ‘ag’ is the predicate of
+                            ‘b[h]i’; ‘obair’ is the complement of ‘ag’.</note>
+                    </li>
+                </xl>
+            </p>
+            <section id="deps-pred-adj">
+                <h>adjectives</h>
+                <p>The predicate of <g>bi</g> can be an (uninflected) <a
+                        href="?xx=adjectives/adjectives">adjective</a>.</p>
+                <p>Some examples – <xl>
+                        <li>
+                            <gd>Bha an cù dubh ach bha an cat bàn.</gd>
+                            <tr>The dog was black but the cat was white.</tr>
+                            <ref text="617">td. 6 [adapted]</ref>
+                            <note>‘dubh’ is the predicate of the first ‘bha’; ‘bàn’ is the predicate
+                                of the second.</note>
+                        </li>
+                        <li>
+                            <gd>Chan eil Màiri agus Calum trang an diugh.</gd>
+                            <tr>Mary and Malcolm are not busy today.</tr>
+                            <ref text="617">td. 7 [adapted]</ref>
+                            <note>‘trang’ is the predicate of ‘eil’.</note>
+                        </li>
+                        <li>
+                            <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
+                            <tr>What is wrong with this boy? His head is sore.</tr>
+                            <ref text="617">td. 20</ref>
+                            <note>‘ceàrr’ is the predicate of the first ‘tha’; ‘goirt’ is the
+                                predicate of the ‘second’.</note>
+                        </li>
+                    </xl>
+                </p>
+                <p>Some juxtaposed examples – <xl>
+                        <li>
+                            <gd>Tha Màiri beag bàn.</gd>
+                            <tr>Mary is small and fair-haired.</tr>
+                            <ref text="617">td. 8</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>Some examples conjoined with <a href="?gd=agus"><g>agus</g></a>
+                    <en>and</en> – <xl>
+                        <li>
+                            <gd>Tha Seònaid agus Alasdair fliuch agus fuar.</gd>
+                            <tr>Janet and Alexander are wet and cold.</tr>
+                            <ref text="617">td. 7 [226] [adapted]</ref>
+                        </li>
+                    </xl>
+                </p>
+                <!--<p>Some examples with a definite article pre-specifier – <ul>
           <li>older pedagogical examples – <xl id="adj-older-pedag">
             <li>
               <gd><m>Bha</m> an latha <m>brèagha blàth</m> is thug an athair leis Iain agus Anna
@@ -725,37 +432,37 @@
           </xl></li>
         </ul>
         </p>-->
-      </section>
-      <section id="deps-pred-prep">
-        <h>prepositions</h>
-        <p>The predicate of <g>bi</g> can be a <a href="?xx=prepositions/prepositions"
-            >preposition</a>.</p>
-        <p>Some examples involving physical location – <xl>
-            <li>
-              <gd>A bheil an cù aig an dorus?</gd>
-              <tr>Is the dog at the door?</tr>
-              <ref text="617">td. 11</ref>
-            </li>
-            <li>
-              <gd>Nach robh Calum anns an achadh?</gd>
-              <tr>Wasn’t Malcolm in the field?</tr>
-              <ref text="617">td. 11</ref>
-            </li>
-            <li>
-              <gd>Tha am bàta air a’ chladach.</gd>
-              <tr>The boat is on the shore.</tr>
-              <ref text="617">td. 17</ref>
-            </li>
-          </xl>
-        </p>
-        <p>Some abstract examples – <xl>
-            <li>
-              <gd>Bha teas anns an teine.</gd>
-              <tr>There was heat in the fire.</tr>
-              <ref text="617">td. 6</ref>
-            </li>
-          </xl></p>
-        <!--<p>Older pedagogical examples – <xl id="loc-older-pedag">
+            </section>
+            <section id="deps-pred-prep">
+                <h>prepositions</h>
+                <p>The predicate of <g>bi</g> can be a <a href="?xx=prepositions/prepositions"
+                        >preposition</a>.</p>
+                <p>Some examples involving physical location – <xl>
+                        <li>
+                            <gd>A bheil an cù aig an dorus?</gd>
+                            <tr>Is the dog at the door?</tr>
+                            <ref text="617">td. 11</ref>
+                        </li>
+                        <li>
+                            <gd>Nach robh Calum anns an achadh?</gd>
+                            <tr>Wasn’t Malcolm in the field?</tr>
+                            <ref text="617">td. 11</ref>
+                        </li>
+                        <li>
+                            <gd>Tha am bàta air a’ chladach.</gd>
+                            <tr>The boat is on the shore.</tr>
+                            <ref text="617">td. 17</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>Some abstract examples – <xl>
+                        <li>
+                            <gd>Bha teas anns an teine.</gd>
+                            <tr>There was heat in the fire.</tr>
+                            <ref text="617">td. 6</ref>
+                        </li>
+                    </xl></p>
+                <!--<p>Older pedagogical examples – <xl id="loc-older-pedag">
             <li>
               <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu <m>m’athair a tha air falbh</m>.</gd>
               <tr>My mother is writing a letter to my father who is away.</tr>
@@ -776,25 +483,26 @@
             </li>
           </xl>
         </p>-->
-        <p>Some examples with the progressive particle (pseudo-preposition) <a href="?gd=ag"
-              ><g>ag</g></a> – <xl>
-            <li>
-              <gd>Tha Màiri agus Calum ag obair anns an achadh.</gd>
-              <tr>Mary and Malcolm are working in the field.</tr>
-              <ref text="617">td. 6–7 [adapted]</ref>
-            </li>
-            <li>
-              <gd>Dé tha a’ chaileag a’ dèanamh an diugh? Tha i a’ cluich air an làr.</gd>
-              <tr>What is the girl doing today? She is playing on the floor.</tr>
-              <ref text="617">td. 14 [adapted]</ref>
-            </li>
-            <li>
-              <gd>An robh Calum ag iasgach air an loch an dé? Bha.</gd>
-              <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
-              <ref text="617">td. 20</ref>
-            </li>
-          </xl></p>
-        <!--<p>Older pedagogical examples – <xl id="prog-older-pedag">
+                <p>Some examples with the progressive particle (pseudo-preposition) <a href="?gd=ag"
+                            ><g>ag</g></a> – <xl>
+                        <li>
+                            <gd>Tha Màiri agus Calum ag obair anns an achadh.</gd>
+                            <tr>Mary and Malcolm are working in the field.</tr>
+                            <ref text="617">td. 6–7 [adapted]</ref>
+                        </li>
+                        <li>
+                            <gd>Dé tha a’ chaileag a’ dèanamh an diugh? Tha i a’ cluich air an
+                                làr.</gd>
+                            <tr>What is the girl doing today? She is playing on the floor.</tr>
+                            <ref text="617">td. 14 [adapted]</ref>
+                        </li>
+                        <li>
+                            <gd>An robh Calum ag iasgach air an loch an dé? Bha.</gd>
+                            <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                    </xl></p>
+                <!--<p>Older pedagogical examples – <xl id="prog-older-pedag">
             <li>
               <gd><m>Tha mo mhàthair a’ sgrìobhadh</m> litreach gu m’athair a tha air falbh.
                 Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an litir seo,
@@ -827,84 +535,84 @@
             </li>
           </xl>
           </p>-->
-        <p>Some examples with adverbs and interrogatives – <xl>
-            <li>
-              <gd>Càit a bheil an cù? Tha e còmhla ri Calum.</gd>
-              <tr>Where is the dog? It is with Calum.</tr>
-              <ref text="617">td. 19–20</ref>
-            </li>
-            <li>
-              <gd>Ciamar a tha sibh? Tha mi gu math, tapadh leibh.</gd>
-              <tr>How are you? I am well, thank you.</tr>
-              <ref text="617">td. 15</ref>
-            </li>
-          </xl>
-        </p>
-        <p>Some further examples with juxtaposed predicates – <xl>
-            <li>
-              <gd>Bha iad fuar ag obair anns an achadh.</gd>
-              <tr>They were cold working in the field.</tr>
-              <ref text="617">td. 7 [adapted]</ref>
-            </li>
-            <li>
-              <gd>Nach eil sibh trang ag obair. Tha.</gd>
-              <tr>Aren’t you busy working? Yes, we are.</tr>
-              <ref text="617">td. 9 [adapted]</ref>
-            </li>
-            <li>
-              <gd>Tha iad fuar anns an achadh.</gd>
-              <tr>They are cold in the field.</tr>
-              <ref text="617">td. 9 [adapted]</ref>
-            </li>
-          </xl>
-        </p>
-      </section>
-    </section>
-    <section id="deps-mods">
-      <h>modifiers</h>
-      <p>Like other verbs, <g>bi</g> can occur with one or more modifiers.</p>
-      <p>Some examples with temporal modifiers in the present tense – <xl>
-          <li>
-            <gd>Tha iad fuar ag obair anns an achadh an diugh.</gd>
-            <tr>They are tired working in the field today.</tr>
-            <ref text="617">td. 7 [adapted]</ref>
-            <note>‘an diugh’ is a modifier of ‘tha’.</note>
-          </li>
-        </xl>
-      </p>
-      <p>Some examples with temporal modifiers in the past tense – <xl>
-          <li>
-            <gd>Cha robh e fuar an dé.</gd>
-            <tr>It was not cold today.</tr>
-            <ref text="617">td. 11 [adapted]</ref>
-          </li>
-          <li>
-            <gd>An robh an gille seo anns an sgoil an diugh? Cha robh.</gd>
-            <tr>Was this boy in the school today? No, he wasn’t.</tr>
-            <ref text="617">td. 20 [adapted]</ref>
-          </li>
-        </xl>
-      </p>
-      <p>Some examples with durative modifiers – <xl>
-          <li>
-            <gd>Bha Màiri anns an taigh fad an latha.</gd>
-            <tr>Mary was in the house all day long.</tr>
-            <ref text="617">td. 20 [adapted]</ref>
-          </li>
-        </xl>
-      </p>
-      <p>Some examples with comitative modifiers – <xl>
-          <li>
-            <gd>Tha an duine anns a’ mhonadh leis a’ chù.</gd>
-            <tr>The man is on the moor with the dog.</tr>
-            <ref text="617">td. 19</ref>
-            <note>This may be juxtaposed predication rather than modification.</note>
-          </li>
-        </xl>
-      </p>
-    </section>
+                <p>Some examples with adverbs and interrogatives – <xl>
+                        <li>
+                            <gd>Càit a bheil an cù? Tha e còmhla ri Calum.</gd>
+                            <tr>Where is the dog? It is with Calum.</tr>
+                            <ref text="617">td. 19–20</ref>
+                        </li>
+                        <li>
+                            <gd>Ciamar a tha sibh? Tha mi gu math, tapadh leibh.</gd>
+                            <tr>How are you? I am well, thank you.</tr>
+                            <ref text="617">td. 15</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>Some further examples with juxtaposed predicates – <xl>
+                        <li>
+                            <gd>Bha iad fuar ag obair anns an achadh.</gd>
+                            <tr>They were cold working in the field.</tr>
+                            <ref text="617">td. 7 [adapted]</ref>
+                        </li>
+                        <li>
+                            <gd>Nach eil sibh trang ag obair. Tha.</gd>
+                            <tr>Aren’t you busy working? Yes, we are.</tr>
+                            <ref text="617">td. 9 [adapted]</ref>
+                        </li>
+                        <li>
+                            <gd>Tha iad fuar anns an achadh.</gd>
+                            <tr>They are cold in the field.</tr>
+                            <ref text="617">td. 9 [adapted]</ref>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+        </section>
+        <section id="deps-mods">
+            <h>modifiers</h>
+            <p>Like other verbs, forms of <g>bi</g> can occur with one or more modifiers.</p>
+            <p>Some examples with temporal modifiers in the present tense – <xl>
+                    <li>
+                        <gd>Tha iad fuar ag obair anns an achadh an diugh.</gd>
+                        <tr>They are tired working in the field today.</tr>
+                        <ref text="617">td. 7 [adapted]</ref>
+                        <note>‘an diugh’ is a modifier of ‘tha’.</note>
+                    </li>
+                </xl>
+            </p>
+            <p>Some examples with temporal modifiers in the past tense – <xl>
+                    <li>
+                        <gd>Cha robh e fuar an dé.</gd>
+                        <tr>It was not cold today.</tr>
+                        <ref text="617">td. 11 [adapted]</ref>
+                    </li>
+                    <li>
+                        <gd>An robh an gille seo anns an sgoil an diugh? Cha robh.</gd>
+                        <tr>Was this boy in the school today? No, he wasn’t.</tr>
+                        <ref text="617">td. 20 [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Some examples with durative modifiers – <xl>
+                    <li>
+                        <gd>Bha Màiri anns an taigh fad an latha.</gd>
+                        <tr>Mary was in the house all day long.</tr>
+                        <ref text="617">td. 20 [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Some examples with comitative modifiers – <xl>
+                    <li>
+                        <gd>Tha an duine anns a’ mhonadh leis a’ chù.</gd>
+                        <tr>The man is on the moor with the dog.</tr>
+                        <ref text="617">td. 19</ref>
+                        <note>This may be juxtaposed predication rather than modification.</note>
+                    </li>
+                </xl>
+            </p>
+        </section>
 
-    <!--<section id="sbj">
+        <!--<section id="sbj">
       <h>subject</h>
       <p>Older pedagogical examples – <xl id="sbj-older-pedag">
           <li>
@@ -940,331 +648,337 @@
         </xl>
       </p>
     </section>-->
-  </section>
+    </section>
 
-  <section>
-    <h>uses</h>
-    <module id="tha">
-      <h>tha</h>
-      <p><g>tha</g>
-        <en>is, are</en> is the present tense independent form of <g>bi</g>.</p>
-      <p>Some examples as a sentential root – <xl>
-          <li>
-            <gd>Tha an cù dubh.</gd>
-            <tr>The dog is black.</tr>
-            <ref text="617">td. 6</ref>
-          </li>
-          <li>
-            <gd>Tha an gille aig an dorus.</gd>
-            <tr>The boy is at the door.</tr>
-            <ref text="617">td. 15</ref>
-          </li>
-        </xl>
-      </p>
-      <p>Some examples as a response to a direct question – <xl>
-          <li>
-            <gd>A bheil an cù aig an dorus? Tha.</gd>
-            <tr>Is the dog at the door? Yes, it is.</tr>
-            <ref text="617">td. 11</ref>
-          </li>
-          <li>
-            <gd>Nach eil an t-uisge ann? Tha.</gd>
-            <tr>Isn’t it raining. Yes, it is.</tr>
-            <ref text="617">td. 14 [adapted]</ref>
-          </li>
-        </xl>
-      </p>
-      <p>Some examples as a conjunct of <a href="?gd=agus"><g>agus</g></a>
-        <en>and</en> or <a href="?gd=ach"><g>ach</g></a>
-        <en>but</en> – <xl>
-          <li>
-            <gd>Tha Màiri bhàn anns an achadh an diugh agus tha i ag obair gu trang.</gd>
-            <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
-            <ref text="617">td. 9</ref>
-          </li>
-          <li>
-            <gd>Tha an gille mór, ach tha a’ chaileag beag.</gd>
-            <tr>The boy is big, but the girl is small.</tr>
-            <ref text="617">td. 15</ref>
-          </li>
-        </xl>
-      </p>
-      <module id="bha">
-        <h>bha</h>
-        <p><g>bha</g>
-          <en>was, were</en> is the past tense equivalent of <g>tha</g>.</p>
-        <p>Some examples as a sentential root – <xl>
-            <li>
-              <gd>Bha Màiri trang.</gd>
-              <tr>Mary was busy.</tr>
-              <ref text="617">td. 16</ref>
-            </li>
-            <li>
-              <gd>Bha am bocsa air a’ bhòrd.</gd>
-              <tr>The box was on the table.</tr>
-              <ref text="617">td. 21 [229]</ref>
-            </li>
-          </xl>
-        </p>
-        <p>Some examples as a response to a direct question – <xl>
-            <li>
-              <gd>An robh thu sgìth? Bha.</gd>
-              <tr>Were you tired? Yes, I was.</tr>
-              <ref text="617">td. 16</ref>
-            </li>
-            <li>
-              <gd>Nach robh Calum ag iasgach air an loch an dé? Bha.</gd>
-              <tr>Wasn’t Malcolm fishing on the lake yesterday? Yes, he was.</tr>
-              <ref text="617">td. 20 [adapted]</ref>
-            </li>
-          </xl>
-        </p>
-        <p>Some examples as a conjunct of <a href="?gd=agus"><g>agus</g></a>
-          <en>and</en> or <a href="?gd=ach"><g>ach</g></a>
-          <en>but</en> – <xl>
-            <li>
-              <gd>Bha mi anns a’ mhonadh an dé. Chunnaic mi caoraich agus crodh anns a’ mhonadh. Bha
-                na caoraich shuas air cliathach na beinne <m>ach</m> bha an crodh faisg air an
-                loch.</gd>
-              <tr>I was on the moor yesterday. I saw sheep and cattle on the moor. The sheep were up
-                on the side of the mountain but the cattle were near the lake.</tr>
-              <ref text="617">td. 21</ref>
-            </li>
-          </xl>
-        </p>
-      </module>
-      <module id="bidh">
-        <h>bidh</h>
-        <p><g>bidh</g>
-          <en>will be</en> is the future tense equivalent of <g>tha</g>.</p>
-      </module>
-      <module id="bhiodh">
-        <h>bhiodh</h>
-        <p><g>bhiodh</g>
-          <en>would be</en> is the conditional tense equivalent of <g>tha</g>.</p>
-      </module>
-    </module>
-    <module id="bheil">
-      <h>(bh)eil</h>
-      <p><g>(bh)eil</g> is the dependent version of <g>tha</g>. It has the followed tensed variants
-        – <ul>
-          <li><g>robh</g> – past dependent (cf. <g>bha</g>)</li>
-          <li><g>bi</g> – future dependent (cf. <g>bidh</g>)</li>
-          <li><g>biodh</g> – conditional dependent (cf. <g>bhiodh</g>)</li>
-        </ul>
-      </p>
-      <module id="chan_eil">
-        <h>chan eil</h>
-        <p><g><a href="?gd=cha">chan</a> eil</g>
-          <en>is/are not</en> is the negative equivalent of <g>tha</g>.</p>
-        <p>Some examples as sentential root – <xl>
-            <li>
-              <gd>Chan eil an seòmar seo blàth?</gd>
-              <tr>This room is not warm.</tr>
-              <ref text="617">td. 14</ref>
-            </li>
-            <li>
-              <gd>Chan eil Seònaid anns an achadh còmhla ri Seumas.</gd>
-              <tr>Janet is not in the field along with James.</tr>
-              <ref text="617">td. 14</ref>
-            </li>
-          </xl>
-        </p>
-        <p>Some examples as a response to a direct question – <xl>
-            <li>
-              <gd>A bheil sibh ag obair? Chan eil.</gd>
-              <tr>Are you working? No, I’m not.</tr>
-              <ref text="617">td. 13</ref>
-            </li>
-            <li>
-              <gd>Nach eil Calum anns an achadh? Chan eil.</gd>
-              <tr>Isn’t Malcolm in the field? No, he isn’t.</tr>
-              <ref text="617">td. 11</ref>
-            </li>
-          </xl>
-        </p>
-        <module id="cha_robh">
-          <h>cha robh</h>
-          <p><g>cha robh</g>
-            <en>was/were not</en> is the past tense version of <g>chan eil</g>, and the negative
-            equivalent of <g>bha</g>.</p>
-          <p>Some examples as sentential root – <xl>
-              <li>
-                <gd>Cha robh mi anns an taigh.</gd>
-                <tr>I was not at home.</tr>
-                <ref text="617">td. 17</ref>
-              </li>
-              <li>
-                <gd>Cha robh Calum agus Seònaid ag obair.</gd>
-                <tr>Malcolm and Janet were not working.</tr>
-                <ref text="617">td. 16 [adapted]</ref>
-              </li>
-            </xl>
-          </p>
-          <p>Some examples as a response to a direct question – <xl>
-              <li>
-                <gd>An robh an gille seo anns an sgoil an diugh? Cha robh. Bha e anns an taigh fad
-                  an latha.</gd>
-                <tr>Was this boy in the school today? No, he was in the house all day long.</tr>
-                <ref text="617">td. 20 [adapted]</ref>
-              </li>
-              <li>
-                <gd>Nach robh sibh anns an achadh an diugh? Cha robh.</gd>
-                <tr>Weren’t you in the field today? No, we weren’t.</tr>
-                <ref text="617">td. 16</ref>
-              </li>
-            </xl>
-          </p>
+    <section>
+        <h>uses</h>
+        <module id="tha">
+            <h>tha</h>
+            <p><g>tha</g>
+                <en>is, are</en> is the present tense independent form of <g>bi</g>.</p>
+            <p>Some examples as a sentential root – <xl>
+                    <li>
+                        <gd>Tha an cù dubh.</gd>
+                        <tr>The dog is black.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an gille aig an dorus.</gd>
+                        <tr>The boy is at the door.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Some examples as a response to a direct question – <xl>
+                    <li>
+                        <gd>A bheil an cù aig an dorus? Tha.</gd>
+                        <tr>Is the dog at the door? Yes, it is.</tr>
+                        <ref text="617">td. 11</ref>
+                    </li>
+                    <li>
+                        <gd>Nach eil an t-uisge ann? Tha.</gd>
+                        <tr>Isn’t it raining. Yes, it is.</tr>
+                        <ref text="617">td. 14 [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Some examples as a conjunct of <a href="?gd=agus"><g>agus</g></a>
+                <en>and</en> or <a href="?gd=ach"><g>ach</g></a>
+                <en>but</en> – <xl>
+                    <li>
+                        <gd>Tha Màiri bhàn anns an achadh an diugh agus tha i ag obair gu
+                            trang.</gd>
+                        <tr>Fair-headed Mary is in the field today and she is working busily.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an gille mór, ach tha a’ chaileag beag.</gd>
+                        <tr>The boy is big, but the girl is small.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl>
+            </p>
+            <module id="bha">
+                <h>bha</h>
+                <p><g>bha</g>
+                    <en>was, were</en> is the past tense equivalent of <g>tha</g>.</p>
+                <p>Some examples as a sentential root – <xl>
+                        <li>
+                            <gd>Bha Màiri trang.</gd>
+                            <tr>Mary was busy.</tr>
+                            <ref text="617">td. 16</ref>
+                        </li>
+                        <li>
+                            <gd>Bha am bocsa air a’ bhòrd.</gd>
+                            <tr>The box was on the table.</tr>
+                            <ref text="617">td. 21 [229]</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>Some examples as a response to a direct question – <xl>
+                        <li>
+                            <gd>An robh thu sgìth? Bha.</gd>
+                            <tr>Were you tired? Yes, I was.</tr>
+                            <ref text="617">td. 16</ref>
+                        </li>
+                        <li>
+                            <gd>Nach robh Calum ag iasgach air an loch an dé? Bha.</gd>
+                            <tr>Wasn’t Malcolm fishing on the lake yesterday? Yes, he was.</tr>
+                            <ref text="617">td. 20 [adapted]</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>Some examples as a conjunct of <a href="?gd=agus"><g>agus</g></a>
+                    <en>and</en> or <a href="?gd=ach"><g>ach</g></a>
+                    <en>but</en> – <xl>
+                        <li>
+                            <gd>Bha mi anns a’ mhonadh an dé. Chunnaic mi caoraich agus crodh anns
+                                a’ mhonadh. Bha na caoraich shuas air cliathach na beinne <m>ach</m>
+                                bha an crodh faisg air an loch.</gd>
+                            <tr>I was on the moor yesterday. I saw sheep and cattle on the moor. The
+                                sheep were up on the side of the mountain but the cattle were near
+                                the lake.</tr>
+                            <ref text="617">td. 21</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="bidh">
+                <h>bidh</h>
+                <p><g>bidh</g>
+                    <en>will be</en> is the future tense equivalent of <g>tha</g>.</p>
+            </module>
+            <module id="bhiodh">
+                <h>bhiodh</h>
+                <p><g>bhiodh</g>
+                    <en>would be</en> is the conditional tense equivalent of <g>tha</g>.</p>
+            </module>
         </module>
-        <module id="cha_bhi">
-          <h>cha bhi</h>
-          <p><g>cha bhi</g>
-            <en>will not be</en> is the future tense version of <g>chan eil</g>, and the negative
-            equivalent of <g>bidh</g>.</p>
+        <module id="bheil">
+            <h>(bh)eil</h>
+            <p><g>(bh)eil</g> is the dependent version of <g>tha</g>. It has the followed tensed
+                variants – <ul>
+                    <li><g>robh</g> – past dependent (cf. <g>bha</g>)</li>
+                    <li><g>bi</g> – future dependent (cf. <g>bidh</g>)</li>
+                    <li><g>biodh</g> – conditional dependent (cf. <g>bhiodh</g>)</li>
+                </ul>
+            </p>
+            <module id="chan_eil">
+                <h>chan eil</h>
+                <p><g><a href="?gd=cha">chan</a> eil</g>
+                    <en>is/are not</en> is the negative equivalent of <g>tha</g>.</p>
+                <p>Some examples as sentential root – <xl>
+                        <li>
+                            <gd>Chan eil an seòmar seo blàth?</gd>
+                            <tr>This room is not warm.</tr>
+                            <ref text="617">td. 14</ref>
+                        </li>
+                        <li>
+                            <gd>Chan eil Seònaid anns an achadh còmhla ri Seumas.</gd>
+                            <tr>Janet is not in the field along with James.</tr>
+                            <ref text="617">td. 14</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>Some examples as a response to a direct question – <xl>
+                        <li>
+                            <gd>A bheil sibh ag obair? Chan eil.</gd>
+                            <tr>Are you working? No, I’m not.</tr>
+                            <ref text="617">td. 13</ref>
+                        </li>
+                        <li>
+                            <gd>Nach eil Calum anns an achadh? Chan eil.</gd>
+                            <tr>Isn’t Malcolm in the field? No, he isn’t.</tr>
+                            <ref text="617">td. 11</ref>
+                        </li>
+                    </xl>
+                </p>
+                <module id="cha_robh">
+                    <h>cha robh</h>
+                    <p><g>cha robh</g>
+                        <en>was/were not</en> is the past tense version of <g>chan eil</g>, and the
+                        negative equivalent of <g>bha</g>.</p>
+                    <p>Some examples as sentential root – <xl>
+                            <li>
+                                <gd>Cha robh mi anns an taigh.</gd>
+                                <tr>I was not at home.</tr>
+                                <ref text="617">td. 17</ref>
+                            </li>
+                            <li>
+                                <gd>Cha robh Calum agus Seònaid ag obair.</gd>
+                                <tr>Malcolm and Janet were not working.</tr>
+                                <ref text="617">td. 16 [adapted]</ref>
+                            </li>
+                        </xl>
+                    </p>
+                    <p>Some examples as a response to a direct question – <xl>
+                            <li>
+                                <gd>An robh an gille seo anns an sgoil an diugh? Cha robh. Bha e
+                                    anns an taigh fad an latha.</gd>
+                                <tr>Was this boy in the school today? No, he was in the house all
+                                    day long.</tr>
+                                <ref text="617">td. 20 [adapted]</ref>
+                            </li>
+                            <li>
+                                <gd>Nach robh sibh anns an achadh an diugh? Cha robh.</gd>
+                                <tr>Weren’t you in the field today? No, we weren’t.</tr>
+                                <ref text="617">td. 16</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+                <module id="cha_bhi">
+                    <h>cha bhi</h>
+                    <p><g>cha bhi</g>
+                        <en>will not be</en> is the future tense version of <g>chan eil</g>, and the
+                        negative equivalent of <g>bidh</g>.</p>
+                </module>
+                <module id="cha_bhiodh">
+                    <h>cha bhiodh</h>
+                    <p><g>cha bhiodh</g>
+                        <en>would not be</en> is the conditioal tense version of <g>chan eil</g>,
+                        and the negative equivalent of <g>bhiodh</g>.</p>
+                </module>
+            </module>
+            <module id="a_bheil">
+                <h>a bheil</h>
+                <p><g><a href="?gd=an^particle">a</a> bheil</g>
+                    <en>is/are?</en> is the interrogative equivalent of <g>tha</g>.</p>
+                <p>Some examples as a question root – <xl>
+                        <li>
+                            <gd>A bheil rud sam bith anns a’ bhotul? Tha.</gd>
+                            <tr>Is there anything in the bottle? Yes, there is.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                        <li>
+                            <gd>A bheil sibh ag obair? Chan eil.</gd>
+                            <tr>Are you working? No, I’m not.</tr>
+                            <ref text="617">td. 13</ref>
+                        </li>
+                    </xl>
+                </p>
+                <p>Used with question words – <ul>
+                        <li><g><a href="?gd=caait">càit</a> a bheil ... ?</g>
+                            <en>where is/are ... ?</en></li>
+                    </ul>
+                </p>
+                <module id="an_robh">
+                    <h>an robh</h>
+                    <p><g>an robh</g>
+                        <en>was/were?</en> is the past tense version of <g>a bheil</g>, and the
+                        interrogative equivalent of <g>bha</g>.</p>
+                    <p>Some examples as a question root – <xl>
+                            <li>
+                                <gd>An robh Màiri trang? Bha.</gd>
+                                <tr>Was Mary busy? Yes, she was.</tr>
+                                <ref text="617">td. 16 [adapted]</ref>
+                            </li>
+                            <li>
+                                <gd>An robh sibh anns an achadh an diugh? Cha robh.</gd>
+                                <tr>Were you in the field today? No, we weren’t.</tr>
+                                <ref text="617">td. 16</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+                <module id="am_bi">
+                    <h>am bi</h>
+                    <p><g>am bi</g>
+                        <en>will be?</en> is the future tense version of <g>a bheil</g>, and the
+                        interrogative equivalent of <g>bidh</g>.</p>
+                </module>
+                <module id="am_biodh">
+                    <h>am biodh</h>
+                    <p><g>am biodh</g>
+                        <en>would be?</en> is the conditional tense version of <g>a bheil</g>, and
+                        the interrogative equivalent of <g>bhiodh</g>.</p>
+                </module>
+            </module>
+            <module id="nach_eil">
+                <h>nach eil</h>
+                <p><g><a href="?gd=nach">nach</a> eil</g>
+                    <en>isn’t/aren’t?</en> is the negative interrogative equivalent of
+                    <g>tha</g>.</p>
+                <p>Some examples as a question root – <xl>
+                        <li>
+                            <gd>Nach eil Calum anns an achadh? Chan eil.</gd>
+                            <tr>Isn’t Malcolm in the field? No, he isn’t.</tr>
+                            <ref text="617">td. 11</ref>
+                        </li>
+                        <li>
+                            <gd>Nach eil thu sgìth? Tha. Tha mi glé sgìth.</gd>
+                            <tr>Aren’t you tired? Yes, I am. I am very tired.</tr>
+                            <ref text="617">td. 14</ref>
+                        </li>
+                    </xl></p>
+                <module id="nach_robh">
+                    <h>nach robh</h>
+                    <p><g>nach robh</g>
+                        <en>wasn’t/weren’t?</en> is the past tense version of <g>nach eil</g>, and
+                        the interrogative equivalent of <g>cha robh</g>.</p>
+                    <p>Some examples as a question root – <xl>
+                            <li>
+                                <gd>Nach robh leabhar anns a’ bhocsa sin? Bha. Bha Bìobull ann.</gd>
+                                <tr>Wasn’t there a book in that box? Yes, there was. There was a
+                                    Bible (in it).</tr>
+                                <ref text="617">td. 20</ref>
+                            </li>
+                            <li>
+                                <gd>Nach robh Calum a’ fuireach anns a’ chlachan? Cha robh.</gd>
+                                <tr>Wasn’t Calum living in the village? No, he wasn’t.</tr>
+                                <ref text="617">td. 20</ref>
+                            </li>
+                        </xl></p>
+                </module>
+                <module id="nach_bi">
+                    <h>nach bi</h>
+                    <p><g>nach bi</g>
+                        <en>won’t be?</en> is the future tense version of <g>nach eil</g>, and the
+                        interrogative equivalent of <g>cha bhi</g>.</p>
+                </module>
+                <module id="nach_biodh">
+                    <h>nach biodh</h>
+                    <p><g>nach biodh</g>
+                        <en>wouldn’t be?</en> is the past tense version of <g>nach eil</g>, and the
+                        interrogative equivalent of <g>cha bhiodh</g>.</p>
+                </module>
+            </module>
         </module>
-        <module id="cha_bhiodh">
-          <h>cha bhiodh</h>
-          <p><g>cha bhiodh</g>
-            <en>would not be</en> is the conditioal tense version of <g>chan eil</g>, and the
-            negative equivalent of <g>bhiodh</g>.</p>
+        <module id="a_tha">
+            <h>a tha</h>
+            <p><g><a href="?gd=a^relative">a</a> tha</g>
+                <en>who/which/that is/are</en> is the relative version of <g>tha</g>.</p>
+            <p>Used with question words – <ul>
+                    <li><g><a href="?gd=dee">dé</a> a tha ... ?</g>
+                        <en>what is ... ?</en></li>
+                    <li><g><a href="?gd=coo">có</a> a tha ... ?</g>
+                        <en>who is ... ?</en></li>
+                    <li>
+                        <g><a href="?gd=ciamar">ciamar</a> a tha ... ?</g>
+                        <en>how is ... ?</en></li>
+                </ul></p>
+            <module id="a_bha">
+                <h>a bha</h>
+                <p><g>a bha</g>
+                    <en>who/which/that was/were</en> is the past tense variant of <g>a tha</g>.</p>
+            </module>
+            <module id="a_bhios">
+                <h>a bhios</h>
+                <p><g>a bhios</g>
+                    <en>who/which/that will be</en> is the future tense variant of <g>a tha</g>.</p>
+            </module>
+            <module id="a_bhiodh">
+                <h>a bhiodh</h>
+                <p><g>a bhiodh</g>
+                    <en>who/which/that would be</en> is the conditional tense variant of <g>a
+                        tha</g>.</p>
+            </module>
         </module>
-      </module>
-      <module id="a_bheil">
-        <h>a bheil</h>
-        <p><g><a href="?gd=an^particle">a</a> bheil</g>
-          <en>is/are?</en> is the interrogative equivalent of <g>tha</g>.</p>
-        <p>Some examples as a question root – <xl>
-            <li>
-              <gd>A bheil rud sam bith anns a’ bhotul? Tha.</gd>
-              <tr>Is there anything in the bottle? Yes, there is.</tr>
-              <ref text="617">td. 20</ref>
-            </li>
-            <li>
-              <gd>A bheil sibh ag obair? Chan eil.</gd>
-              <tr>Are you working? No, I’m not.</tr>
-              <ref text="617">td. 13</ref>
-            </li>
-          </xl>
-        </p>
-        <p>Used with question words – <ul>
-            <li><g><a href="?gd=caait">càit</a> a bheil ... ?</g>
-              <en>where is/are ... ?</en></li>
-          </ul>
-        </p>
-        <module id="an_robh">
-          <h>an robh</h>
-          <p><g>an robh</g>
-            <en>was/were?</en> is the past tense version of <g>a bheil</g>, and the interrogative
-            equivalent of <g>bha</g>.</p>
-          <p>Some examples as a question root – <xl>
-              <li>
-                <gd>An robh Màiri trang? Bha.</gd>
-                <tr>Was Mary busy? Yes, she was.</tr>
-                <ref text="617">td. 16 [adapted]</ref>
-              </li>
-              <li>
-                <gd>An robh sibh anns an achadh an diugh? Cha robh.</gd>
-                <tr>Were you in the field today? No, we weren’t.</tr>
-                <ref text="617">td. 16</ref>
-              </li>
-            </xl>
-          </p>
-        </module>
-        <module id="am_bi">
-          <h>am bi</h>
-          <p><g>am bi</g>
-            <en>will be?</en> is the future tense version of <g>a bheil</g>, and the interrogative
-            equivalent of <g>bidh</g>.</p>
-        </module>
-        <module id="am_biodh">
-          <h>am biodh</h>
-          <p><g>am biodh</g>
-            <en>would be?</en> is the conditional tense version of <g>a bheil</g>, and the
-            interrogative equivalent of <g>bhiodh</g>.</p>
-        </module>
-      </module>
-      <module id="nach_eil">
-        <h>nach eil</h>
-        <p><g><a href="?gd=nach">nach</a> eil</g>
-          <en>isn’t/aren’t?</en> is the negative interrogative equivalent of <g>tha</g>.</p>
-        <p>Some examples as a question root – <xl>
-            <li>
-              <gd>Nach eil Calum anns an achadh? Chan eil.</gd>
-              <tr>Isn’t Malcolm in the field? No, he isn’t.</tr>
-              <ref text="617">td. 11</ref>
-            </li>
-            <li>
-              <gd>Nach eil thu sgìth? Tha. Tha mi glé sgìth.</gd>
-              <tr>Aren’t you tired? Yes, I am. I am very tired.</tr>
-              <ref text="617">td. 14</ref>
-            </li>
-          </xl></p>
-        <module id="nach_robh">
-          <h>nach robh</h>
-          <p><g>nach robh</g>
-            <en>wasn’t/weren’t?</en> is the past tense version of <g>nach eil</g>, and the
-            interrogative equivalent of <g>cha robh</g>.</p>
-          <p>Some examples as a question root – <xl>
-              <li>
-                <gd>Nach robh leabhar anns a’ bhocsa sin? Bha. Bha Bìobull ann.</gd>
-                <tr>Wasn’t there a book in that box? Yes, there was. There was a Bible (in it).</tr>
-                <ref text="617">td. 20</ref>
-              </li>
-              <li>
-                <gd>Nach robh Calum a’ fuireach anns a’ chlachan? Cha robh.</gd>
-                <tr>Wasn’t Calum living in the village? No, he wasn’t.</tr>
-                <ref text="617">td. 20</ref>
-              </li>
-            </xl></p>
-        </module>
-        <module id="nach_bi">
-          <h>nach bi</h>
-          <p><g>nach bi</g>
-            <en>won’t be?</en> is the future tense version of <g>nach eil</g>, and the interrogative
-            equivalent of <g>cha bhi</g>.</p>
-        </module>
-        <module id="nach_biodh">
-          <h>nach biodh</h>
-          <p><g>nach biodh</g>
-            <en>wouldn’t be?</en> is the past tense version of <g>nach eil</g>, and the
-            interrogative equivalent of <g>cha bhiodh</g>.</p>
-        </module>
-      </module>
-    </module>
-    <module id="a_tha">
-      <h>a tha</h>
-      <p><g><a href="?gd=a^relative">a</a> tha</g>
-        <en>who/which/that is/are</en> is the relative version of <g>tha</g>.</p>
-      <p>Used with question words – <ul>
-          <li><g><a href="?gd=dee">dé</a> a tha ... ?</g>
-            <en>what is ... ?</en></li>
-          <li><g><a href="?gd=coo">có</a> a tha ... ?</g>
-            <en>who is ... ?</en></li>
-          <li>
-            <g><a href="?gd=ciamar">ciamar</a> a tha ... ?</g>
-            <en>how is ... ?</en></li>
-        </ul></p>
-      <module id="a_bha">
-        <h>a bha</h>
-        <p><g>a bha</g>
-          <en>who/which/that was/were</en> is the past tense variant of <g>a tha</g>.</p>
-      </module>
-      <module id="a_bhios">
-        <h>a bhios</h>
-        <p><g>a bhios</g>
-          <en>who/which/that will be</en> is the future tense variant of <g>a tha</g>.</p>
-      </module>
-      <module id="a_bhiodh">
-        <h>a bhiodh</h>
-        <p><g>a bhiodh</g>
-          <en>who/which/that would be</en> is the conditional tense variant of <g>a tha</g>.</p>
-      </module>
-    </module>
-  </section>
+    </section>
 
 
 
-  <!--
+    <!--
     <p><span lang="en">Notes</span><span lang="gd">Notaichean</span> – <ol id="notes">
         <li><span lang="en">The future forms <b>bidh</b> and <b>bhios</b> have the emphatic alternatives <b>bithidh</b> and <b>bhitheas</b>.</span>
           <span lang="gd">Tha cruthan eile airson na cruthan teachdail <b>bidh</b> agus <b>bhios</b> – <b>bithidh</b> agus <b>bhitheas</b>.</span>
@@ -1322,153 +1036,469 @@
   </ulx>
 -->
 
-  <section id="etymology">
-    <h>etymology</h>
-    <section>
-      <h>Old Gaelic</h>
-      <p>The Gaelic verb <g>bi</g> is the fusion of at least three different Old Gaelic verbs.</p>
-      <module id="sga-atta">
-        <h>at·tá</h>
-        <p>The ‘substantive verb’ <g>at·tá</g>
-          <en>be</en> belongs to the H1 conjugation.</p>
-        <p>The conjugated present tense absolute forms are (Stifter: 133) – <ul>
-            <li><m>at·táu</m> / <m>at·tó</m>
-              <en>I am</en>, <m>at·taí</m>
-              <en>thou art</en>, <m>at·tá</m>
-              <en>[(s)he/it] is</en>, <m>at·taaṁ</m>
-              <en>we are</en>, <m>at·taiḋ</m>
-              <en>you are</en>, <m>at·taaṭ</m>
-              <en>[they] are</en></li>
-          </ul>
-        </p>
-        <p>Some examples – <ul>
-            <li>intransitive (existence) – <xl>
-                <li>
-                  <gd>at·tá in Coimmdiu</gd>
-                  <tr>There is the Lord; The Lord exists.</tr>
-                  <ref text="stifter">td. 136</ref>
-                </li>
-              </xl>
-            </li>
-            <li>with a preposition – <ul>
-                <li>physical location – <xl>
-                    <li>
-                      <gd>at·taaṁ i Finnbain indossa</gd>
-                      <tr>We are now in Vienna.</tr>
-                      <ref text="stifter">td. 136</ref>
-                    </li>
-                  </xl>
-                </li>
-                <li>condition – <xl>
-                    <li>
-                      <gd>at·tó i mo ṡuiḋiu ar bélaiḃ ríṁairi</gd>
-                      <tr>I am sat in front of the computer.</tr>
-                      <ref text="stifter">td. 136</ref>
-                    </li>
-                    <li>
-                      <gd>at·tó i ngalur</gd>
-                      <tr>I am ill.</tr>
-                      <ref text="stifter">td. 136</ref>
-                    </li>
-                  </xl>
-                </li>
-              </ul></li>
-            <li>with a predicative adjective in VSO order – <xl>
-                <li>
-                  <gd>at·taaṭ mesai Dé nephchomtetarrachti amal abis</gd>
-                  <tr>The judgments of God are incomprehensible like an abyss. [Ml. 55d11]</tr>
-                  <ref text="stifter">td. 136</ref>
-                </li>
-                <li>
-                  <gd>ro·bátar [?] ind liss dúntai</gd>
-                  <tr>The ramparts were closed. [IB 1]</tr>
-                  <ref text="stifter">td. 136</ref>
-                </li>
-              </xl>
-            </li>
-          </ul>
-        </p>
-        <p>The conjugated present tense conjunct forms are (Stifter: 136) – <ul>
-            <li><m>·táu</m> / <m>·tó</m>
-              <en>I am</en>, <m>·taí</m>
-              <en>thou art</en>, <m>·tá</m>
-              <en>[(s)he/it] is</en>, <m>·taaṁ</m>
-              <en>we are</en>, <m>·taiḋ</m>
-              <en>you are</en>, <m>·taaṭ</m>
-              <en>[they] are</en></li>
-          </ul>
-        </p>
-        <p>However, these conjunct forms are only used in very limited contexts – <ul>
-            <li>after an infixed dative pronoun <eg/>
-              <g>nín·tá</g>
-              <en>there is not to us, we don’t have</en></li>
-            <li>after a preposition + relative particle <eg/>
-              <g>lasa·tá</g>
-              <en>with whom is</en></li>
-          </ul>
-        </p>
-      </module>
-      <module id="sga-fil">
-        <h>·fil</h>
-        <p><g>·fil</g> is a defective third person singular conjunct verb form (derived from an
-          imperative meaning <en>see!</en>), which provides present tense conjunct forms for
-            <g>at·tá</g>, with the subject represented by an infixed pronoun.</p>
-        <p>Negative conjugated forms (Stifter: 137) – <ul>
-            <li><m>ním·ḟil</m>
-              <en>I am not</en>, <m>níṭ·ḟil</m>
-              <en>thou art not</en>, <m>ní·fil</m>
-              <en>he is not</en>, <m>nís·fil</m>
-              <en>she is not</en>, <m>ní·ḟil</m>
-              <en>it is not</en>, <m>nínn·fil</m>
-              <en>we are not</en>, <m>níḃ·fil</m>
-              <en>you are not</en>, <m>nís·fil</m>
-              <en>they are not</en></li>
-          </ul>
-        </p>
-        <p>Interrogative examples – <xl>
-            <li>
-              <gd>in·f̣il in mnaí [acc] sund? nís·fil</gd>
-              <tr>Is the woman here? No, she isn’t.</tr>
-              <ref text="stifter">td. 136</ref>
-            </li>
-            <li>
-              <gd>in·f̣il inna echu [acc] arind achud? nís·fil</gd>
-              <tr>Are the horses on the pasture? No, they aren’t.</tr>
-              <ref text="stifter">td. 136</ref>
-            </li>
-          </xl>
-        </p>
-      </module>
-      <module id="sga-biid">
-        <h>biiḋ</h>
-        <p>The verb <g>biiḋ</g>
-          <en>be usually</en> belongs to the H2 conjugation.</p>
-        <p>The conjugated present tense absolute forms are (Stifter: 133) – <ul>
-            <li><m>bíuu</m>
-              <en>I am usually</en>, <m>bii</m>
-              <en>thou art usually</en>, <m>biiḋ</m>
-              <en>[(s)he/it] is usually</en>, <m>bímmi</m>
-              <en>we are usually</en>, <m>?</m>
-              <en>you are usually</en>, <m>biiṭ</m>
-              <en>they are usually</en></li>
-          </ul>
-        </p>
-        <p>The conjugated present tense conjunct forms are (Stifter: 179) – <ul>
-            <li><m>?</m>
-              <en>I am usually</en>, <m>?</m>
-              <en>thou art usually</en>, <m>·bí</m>
-              <en>[(s)he/it] is usually</en>, <m>·bíaṁ</m>
-              <en>we are usually</en>, <m>?</m>
-              <en>you are usually</en>, <m>·bíaṭ</m>
-              <en>they are usually</en></li>
-          </ul>
-        </p>
-      </module>
+    <section id="etymology">
+        <h>etymology</h>
+        <section>
+            <h>Old Gaelic</h>
+            <p>The Gaelic verb <g>bi</g> is the fusion of at least three different Old Gaelic
+                verbs.</p>
+            <module id="sga-atta">
+                <h>at·tá</h>
+                <p>The ‘substantive verb’ <g>at·tá</g>
+                    <en>be</en> belongs to the H1 conjugation.</p>
+                <p>The conjugated present tense absolute forms are (Stifter: 133) – <ul>
+                        <li><m>at·táu</m> / <m>at·tó</m>
+                            <en>I am</en>, <m>at·taí</m>
+                            <en>thou art</en>, <m>at·tá</m>
+                            <en>[(s)he/it] is</en>, <m>at·taaṁ</m>
+                            <en>we are</en>, <m>at·taiḋ</m>
+                            <en>you are</en>, <m>at·taaṭ</m>
+                            <en>[they] are</en></li>
+                    </ul>
+                </p>
+                <p>Some examples – <ul>
+                        <li>intransitive (existence) – <xl>
+                                <li>
+                                    <gd>at·tá in Coimmdiu</gd>
+                                    <tr>There is the Lord; The Lord exists.</tr>
+                                    <ref text="stifter">td. 136</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>with a preposition – <ul>
+                                <li>physical location – <xl>
+                                        <li>
+                                            <gd>at·taaṁ i Finnbain indossa</gd>
+                                            <tr>We are now in Vienna.</tr>
+                                            <ref text="stifter">td. 136</ref>
+                                        </li>
+                                    </xl>
+                                </li>
+                                <li>condition – <xl>
+                                        <li>
+                                            <gd>at·tó i mo ṡuiḋiu ar bélaiḃ ríṁairi</gd>
+                                            <tr>I am sat in front of the computer.</tr>
+                                            <ref text="stifter">td. 136</ref>
+                                        </li>
+                                        <li>
+                                            <gd>at·tó i ngalur</gd>
+                                            <tr>I am ill.</tr>
+                                            <ref text="stifter">td. 136</ref>
+                                        </li>
+                                    </xl>
+                                </li>
+                            </ul></li>
+                        <li>with a predicative adjective in VSO order – <xl>
+                                <li>
+                                    <gd>at·taaṭ mesai Dé nephchomtetarrachti amal abis</gd>
+                                    <tr>The judgments of God are incomprehensible like an abyss.
+                                        [Ml. 55d11]</tr>
+                                    <ref text="stifter">td. 136</ref>
+                                </li>
+                                <li>
+                                    <gd>ro·bátar [?] ind liss dúntai</gd>
+                                    <tr>The ramparts were closed. [IB 1]</tr>
+                                    <ref text="stifter">td. 136</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+                <p>The conjugated present tense conjunct forms are (Stifter: 136) – <ul>
+                        <li><m>·táu</m> / <m>·tó</m>
+                            <en>I am</en>, <m>·taí</m>
+                            <en>thou art</en>, <m>·tá</m>
+                            <en>[(s)he/it] is</en>, <m>·taaṁ</m>
+                            <en>we are</en>, <m>·taiḋ</m>
+                            <en>you are</en>, <m>·taaṭ</m>
+                            <en>[they] are</en></li>
+                    </ul>
+                </p>
+                <p>However, these conjunct forms are only used in very limited contexts – <ul>
+                        <li>after an infixed dative pronoun <eg/>
+                            <g>nín·tá</g>
+                            <en>there is not to us, we don’t have</en></li>
+                        <li>after a preposition + relative particle <eg/>
+                            <g>lasa·tá</g>
+                            <en>with whom is</en></li>
+                    </ul>
+                </p>
+            </module>
+            <module id="sga-fil">
+                <h>·fil</h>
+                <p><g>·fil</g> is a defective third person singular conjunct verb form (derived from
+                    an imperative meaning <en>see!</en>), which provides present tense conjunct
+                    forms for <g>at·tá</g>, with the subject represented by an infixed pronoun.</p>
+                <p>Negative conjugated forms (Stifter: 137) – <ul>
+                        <li><m>ním·ḟil</m>
+                            <en>I am not</en>, <m>níṭ·ḟil</m>
+                            <en>thou art not</en>, <m>ní·fil</m>
+                            <en>he is not</en>, <m>nís·fil</m>
+                            <en>she is not</en>, <m>ní·ḟil</m>
+                            <en>it is not</en>, <m>nínn·fil</m>
+                            <en>we are not</en>, <m>níḃ·fil</m>
+                            <en>you are not</en>, <m>nís·fil</m>
+                            <en>they are not</en></li>
+                    </ul>
+                </p>
+                <p>Interrogative examples – <xl>
+                        <li>
+                            <gd>in·f̣il in mnaí [acc] sund? nís·fil</gd>
+                            <tr>Is the woman here? No, she isn’t.</tr>
+                            <ref text="stifter">td. 136</ref>
+                        </li>
+                        <li>
+                            <gd>in·f̣il inna echu [acc] arind achud? nís·fil</gd>
+                            <tr>Are the horses on the pasture? No, they aren’t.</tr>
+                            <ref text="stifter">td. 136</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="sga-biid">
+                <h>biiḋ</h>
+                <p>The verb <g>biiḋ</g>
+                    <en>be usually</en> belongs to the H2 conjugation.</p>
+                <p>The conjugated present tense absolute forms are (Stifter: 133) – <ul>
+                        <li><m>bíuu</m>
+                            <en>I am usually</en>, <m>bii</m>
+                            <en>thou art usually</en>, <m>biiḋ</m>
+                            <en>[(s)he/it] is usually</en>, <m>bímmi</m>
+                            <en>we are usually</en>, <m>?</m>
+                            <en>you are usually</en>, <m>biiṭ</m>
+                            <en>they are usually</en></li>
+                    </ul>
+                </p>
+                <p>The conjugated present tense conjunct forms are (Stifter: 179) – <ul>
+                        <li><m>?</m>
+                            <en>I am usually</en>, <m>?</m>
+                            <en>thou art usually</en>, <m>·bí</m>
+                            <en>[(s)he/it] is usually</en>, <m>·bíaṁ</m>
+                            <en>we are usually</en>, <m>?</m>
+                            <en>you are usually</en>, <m>·bíaṭ</m>
+                            <en>they are usually</en></li>
+                    </ul>
+                </p>
+            </module>
 
+
+        </section>
 
     </section>
 
-  </section>
-
+    <section id="forms">
+        <h>forms</h>
+        <p>The principal parts of <g>bi</g> are – <ul>
+                <li><m>tha</m> / <m>(bh)eil</m> – present independent/dependent – <en>is, are,
+                        am</en></li>
+                <li><m>bidh</m> / <m>bi</m> – future independent/dependent – <en>will be</en></li>
+                <li><m>bha</m> / <m>robh</m> – past independent/dependent – <en>was, were</en></li>
+                <li><m>bhiodh</m> / <m>biodh</m> – conditional independent/dependent – <en>would
+                        be</en></li>
+                <li><m>bith</m>
+                    <fem/> – verbal noun – <en>being</en></li>
+            </ul>
+        </p>
+        <section id="forms-tense">
+            <h>tense</h>
+            <p><ul>
+                    <li>present <ul id="forms-tense-present">
+                            <li>active <ul>
+                                    <li>independent – <m>tha</m></li>
+                                    <li>relative – a <m>tha</m></li>
+                                    <li>dependent – chan/nach <m>eil</m>, a <m>bheil</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>thathar</m></li>
+                                    <li>relative – a <m>thathar</m></li>
+                                    <li>dependent – chan/nach <m>eilear</m>, a <m>bheilear</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>past <ul id="forms-tense-past">
+                            <li>active <ul>
+                                    <li>independent – <m>bha</m></li>
+                                    <li>relative – a <m>bha</m></li>
+                                    <li>dependent – cha/an/nach <m>robh</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>bhathar</m></li>
+                                    <li>relative – a <m>bhathar</m></li>
+                                    <li>dependent – cha/an/nach <m>robhar</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>future <ul id="forms-tense-future">
+                            <li>active <ul>
+                                    <li>independent – <m>bidh</m></li>
+                                    <li>relative – a <m>bhios</m></li>
+                                    <li>dependent – cha <m>bhi</m>, am/nach <m>bi</m></li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>bithear</m></li>
+                                    <li>relative – a <m>bhithear</m></li>
+                                    <li>dependent – cha <m>bhithear</m>, am/nach <m>bithear</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>conditional <ul id="forms-tense-conditional">
+                            <li>active <ul>
+                                    <li>first person singular <ul>
+                                            <li>independent – <m>bhithinn</m></li>
+                                            <li>relative – a <m>bhithinn</m></li>
+                                            <li>dependent – cha <m>bhithinn</m>, am/nach
+                                                  <m>bithinn</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>first person plural <ul>
+                                            <li>independent – <m>bhiomaid</m></li>
+                                            <li>relative – a <m>bhiomaid</m></li>
+                                            <li>dependent – cha <m>bhiomaid</m>, am/nach
+                                                  <m>biomaid</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>second/third persons <ul>
+                                            <li>independent – <m>bhiodh</m></li>
+                                            <li>relative – a <m>bhiodh</m></li>
+                                            <li>dependent – cha <m>bhiodh</m>, am/nach
+                                                <m>biodh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>passive <ul>
+                                    <li>independent – <m>bhite</m></li>
+                                    <li>relative – a <m>bhite</m></li>
+                                    <li>dependent – cha <m>bhite</m>, am/nach <m>bite</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul></p>
+        </section>
+        <section id="forms-status">
+            <h>status</h>
+            <p><ul>
+                    <li>independent <ul id="forms-status-independent">
+                            <li>present <ul>
+                                    <li>active – <m>tha</m></li>
+                                    <li>passive – <m>thathar</m></li>
+                                </ul>
+                            </li>
+                            <li>past <ul>
+                                    <li>active – <m>bha</m></li>
+                                    <li>passive – <m>bhathar</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – <m>bidh</m></li>
+                                    <li>passive – <m>bithear</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – <m>bhithinn</m></li>
+                                            <li>first person plural – <m>bhiomaid</m></li>
+                                            <li>second/third persons – <m>bhiodh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – <m>bhite</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>relative <ul id="forms-status-relative">
+                            <li>present <ul>
+                                    <li>active – a <m>tha</m></li>
+                                    <li>passive – a <m>thathar</m></li>
+                                </ul>
+                            </li>
+                            <li>past <ul>
+                                    <li>active – a <m>bha</m></li>
+                                    <li>passive – a <m>bhathar</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – a <m>bhios</m></li>
+                                    <li>passive – a <m>bhithear</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – a <m>bhithinn</m></li>
+                                            <li>first person plural – a <m>bhiomaid</m></li>
+                                            <li>second/third persons – a <m>bhiodh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – a <m>bhite</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="forms-status-dependent">
+                            <li>present <ul>
+                                    <li>active – chan/nach <m>eil</m>, a <m>bheil</m></li>
+                                    <li>passive – chan/nach <m>eilear</m>, a <m>bheilear</m></li>
+                                </ul>
+                            </li>
+                            <li>past <ul>
+                                    <li>active – cha/an/nach <m>robh</m></li>
+                                    <li>passive – cha/an/nach <m>robhar</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>active – cha <m>bhi</m>, am/nach <m>bi</m></li>
+                                    <li>passive – cha <m>bhithear</m>, am/nach <m>bithear</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>active <ul>
+                                            <li>first person singular – cha <m>bhithinn</m>, am/nach
+                                                  <m>bithinn</m></li>
+                                            <li>first person plural – cha <m>bhiomaid</m>, am/nach
+                                                  <m>biomaid</m></li>
+                                            <li>second/third persons – cha <m>bhiodh</m>, am/nach
+                                                  <m>biodh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>passive – cha <m>bhite</m>, am/nach <m>bite</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul></p>
+        </section>
+        <section id="forms-voice">
+            <h>voice</h>
+            <p><ul>
+                    <li>active <ul id="forms-voice-active">
+                            <li>present <ul>
+                                    <li>independent – <m>tha</m></li>
+                                    <li>relative – a <m>tha</m></li>
+                                    <li>dependent – chan/nach <m>eil</m>, a <m>bheil</m></li>
+                                </ul>
+                            </li>
+                            <li>past <ul>
+                                    <li>independent – <m>bha</m></li>
+                                    <li>relative – a <m>bha</m></li>
+                                    <li>dependent – cha/an/nach <m>robh</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>bidh</m></li>
+                                    <li>relative – a <m>bhios</m></li>
+                                    <li>dependent – cha <m>bhi</m>, am/nach <m>bi</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent <ul>
+                                            <li>first person singular – <m>bhithinn</m></li>
+                                            <li>first person plural – <m>bhiomaid</m></li>
+                                            <li>second/third persons – <m>bhiodh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>relative <ul>
+                                            <li>first person singular – a <m>bhithinn</m></li>
+                                            <li>first person plural – a <m>bhiomaid</m></li>
+                                            <li>second/third persons – a <m>bhiodh</m></li>
+                                        </ul>
+                                    </li>
+                                    <li>dependent <ul>
+                                            <li>first person singular – cha <m>bhithinn</m>, am/nach
+                                                  <m>bithinn</m></li>
+                                            <li>first person plural – cha <m>bhiomaid</m>, am/nach
+                                                  <m>biomaid</m></li>
+                                            <li>second/third persons – cha <m>bhiodh</m>, am/nach
+                                                  <m>biodh</m></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>passive <ul id="forms-voice-passive">
+                            <li>present <ul>
+                                    <li>independent – <m>thathar</m></li>
+                                    <li>relative – a <m>thathar</m></li>
+                                    <li>dependent – chan/nach <m>eilear</m>, a <m>bheilear</m></li>
+                                </ul>
+                            </li>
+                            <li>past <ul>
+                                    <li>independent – <m>bhathar</m></li>
+                                    <li>relative – a <m>bhathar</m></li>
+                                    <li>dependent – cha/an/nach <m>robhar</m></li>
+                                </ul>
+                            </li>
+                            <li>future <ul>
+                                    <li>independent – <m>bithear</m></li>
+                                    <li>relative – a <m>bhithear</m></li>
+                                    <li>dependent – cha <m>bhithear</m>, am/nach <m>bithear</m></li>
+                                </ul>
+                            </li>
+                            <li>conditional <ul>
+                                    <li>independent – <m>bhite</m></li>
+                                    <li>relative – a <m>bhite</m></li>
+                                    <li>dependent – cha <m>bhite</m>, am/nach <m>bite</m></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul></p>
+        </section>
+        <section id="forms-imperative">
+            <h>imperative</h>
+            <p>
+                <ul>
+                    <li>independent <ul id="forms-imperative-independent">
+                            <li>first person singular – <m>bitheam</m>!</li>
+                            <li>second person singular – <m>bi</m>!</li>
+                            <li>first person plural – <m>biomaid</m>!</li>
+                            <li>second person plural – <m>bithibh</m>!</li>
+                            <li>third person – <m>bitheadh</m>!</li>
+                            <li>passive – <m>rach(t)ar</m>!</li>
+                        </ul>
+                    </li>
+                    <li>dependent <ul id="forms-imperative-dependent">
+                            <li>first person singular – na <m>bitheam</m>!</li>
+                            <li>second person singular – na <m>bi</m>!</li>
+                            <li>first person plural – na <m>biomaid</m>!</li>
+                            <li>second person plural – na <m>bithibh</m>!</li>
+                            <li>third person – na <m>bitheadh</m>!</li>
+                            <!--<li>passive – na <m>rach(t)ar</m>!</li>-->
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+        <section id="forms-notes">
+            <h>notes</h>
+            <p><ul>
+                    <li>Note the following emphatic variants – <ul>
+                            <li><g>bidh</g> ⇒ <m>bithidh</m></li>
+                            <li>a <g>bhios</g> ⇒ a <m>bhitheas</m></li>
+                            <li><g>b[h]iodh</g> ⇒ <m>b[h]itheadh</m></li>
+                            <li><g>b[h]iomaid</g> ⇒ <m>b[h]itheamaid</m></li>
+                        </ul>
+                    </li>
+                    <li>Note the following passive dialectal alternatives – <ul>
+                            <li><g>thathar</g> ⇒ <m>thatar</m>, <m>thathas</m></li>
+                            <li><g>b[h]eilear</g> ⇒ <m>b[h]eileas</m></li>
+                            <li><g>bhathar</g> ⇒ <m>bhatar</m>, <m>bhathas</m></li>
+                            <li><g>robhar</g> ⇒ <m>robhas</m></li>
+                            <li><g>b[h]ithear</g> ⇒ <m>b[h]itear</m>, <m>b[h]itheas</m>,
+                                    <m>b[h]iteas</m></li>
+                            <li><g>b[h]ite</g> ⇒ <m>b[h]iteadh</m></li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
+    </section>
 
 </module>
