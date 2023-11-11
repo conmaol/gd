@@ -1,259 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
   <h>thig</h>
   <!-- Keep working through Mark dictionary. And from Chapter 10 in Robby textbook. -->
   <p><g>thig</g>
-    <en>come</en> is an irregular simple verb. It generally
+    <en>come</en> is an irregular verb. <!--It generally
     denotes a (proximal) event of <a href="?q=motion">motion along a trajectory</a>, towards the
     speaker or centre of discourse (cf. the equivalent distal verb <a href="?gd=rach"
       ><g>rach</g></a>
-    <en>go</en>).</p>
-  <section id="forms">
-    <h>forms</h>
-    <p>The principal parts of <g>thig</g> are – <ul>
-        <li><m>thig</m> – future independent <en>will come</en></li>
-        <li><m>thàinig</m> – past independent <en>came</en></li>
-        <li><m>tighinn</m> – verbal noun <en>coming</en></li>
-      </ul>
-    </p>
-    <section>
-      <h>tense</h>
-      <p><ul>
-          <li>past <ul id="past">
-              <li>active <ul>
-                  <li>independent – <m>thàinig</m></li>
-                  <li>relative – a <m>thàinig</m></li>
-                  <li>dependent – cha/an/nach <m>tàinig</m></li>
-                </ul>
-              </li>
-              <li>passive <ul>
-                  <li>independent – <m>thàinigeas</m></li>
-                  <li>relative – a <m>thàinigeas</m></li>
-                  <li>dependent – cha/an/nach <m>tàinigeas</m></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>future <ul id="future">
-              <li>active <ul>
-                  <li>independent – <m>thig</m></li>
-                  <li>relative – a <m>thig</m></li>
-                  <li>dependent – cha/an/nach <m>tig</m></li>
-                </ul>
-              </li>
-              <li>passive <ul>
-                  <li>independent – <m>thigear</m></li>
-                  <li>relative – a <m>thigear</m></li>
-                  <li>dependent – cha/an/nach <m>tigear</m></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>conditional <ul id="conditional">
-              <li>active <ul>
-                  <li>first person singular <ul>
-                      <li>independent – <m>thiginn</m></li>
-                      <li>relative – a <m>thiginn</m></li>
-                      <li>dependent – cha/an/nach <m>tiginn</m></li>
-                    </ul>
-                  </li>
-                  <li>first person plural <ul>
-                      <li>independent – <m>thigeamaid</m></li>
-                      <li>relative – a <m>thigeamaid</m></li>
-                      <li>dependent – cha/an/nach <m>tigeamaid</m></li>
-                    </ul>
-                  </li>
-                  <li>second/third persons <ul>
-                      <li>independent – <m>thigeadh</m></li>
-                      <li>relative – a <m>thigeadh</m></li>
-                      <li>dependent – cha/an/nach <m>tigeadh</m></li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-              <li>passive <ul>
-                  <li>independent – <m>thigte</m></li>
-                  <li>relative – a <m>thigte</m></li>
-                  <li>dependent – cha/an/nach <m>tigte</m></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </p>
-    </section>
-    <section>
-      <h>status</h>
-      <p>
-        <ul>
-          <li>independent <ul id="independent">
-              <li>past <ul>
-                  <li>active – <m>thàinig</m></li>
-                  <li>passive – <m>thàinigeas</m></li>
-                </ul>
-              </li>
-              <li>future <ul>
-                  <li>active – <m>thig</m></li>
-                  <li>passive – <m>thigear</m></li>
-                </ul>
-              </li>
-              <li>conditional <ul>
-                  <li>active <ul>
-                      <li>first person singular – <m>thiginn</m></li>
-                      <li>first person plural – <m>thigeamaid</m></li>
-                      <li>second/third persons – <m>thigeadh</m></li>
-                    </ul>
-                  </li>
-                  <li>passive – <m>thigte</m></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>relative <ul id="relative">
-              <li>past <ul>
-                  <li>active – a <m>thàinig</m></li>
-                  <li>passive – a <m>thàinigeas</m></li>
-                </ul>
-              </li>
-              <li>future <ul>
-                  <li>active – a <m>thig</m></li>
-                  <li>passive – a <m>thigear</m></li>
-                </ul>
-              </li>
-              <li>conditional <ul>
-                  <li>active <ul>
-                      <li>first person singular – a <m>thiginn</m></li>
-                      <li>first person plural – a <m>thigeamaid</m></li>
-                      <li>second/third persons – a <m>thigeadh</m></li>
-                    </ul>
-                  </li>
-                  <li>passive – a <m>thigte</m></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>dependent <ul id="dependent">
-              <li>past <ul>
-                  <li>active – cha/an/nach <m>tàinig</m></li>
-                  <li>passive – cha/an/nach <m>tàinigeas</m></li>
-                </ul>
-              </li>
-              <li>future <ul>
-                  <li>active – cha/an/nach <m>tig</m></li>
-                  <li>passive – cha/an/nach <m>tigear</m></li>
-                </ul>
-              </li>
-              <li>conditional <ul>
-                  <li>active <ul>
-                      <li>first person singular – cha/an/nach <m>tiginn</m></li>
-                      <li>first person plural – cha/an/nach <m>tigeamaid</m></li>
-                      <li>second/third persons – cha/an/nach <m>tigeadh</m></li>
-                    </ul>
-                  </li>
-                  <li>passive – cha/an/nach <m>tigte</m></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </p>
-    </section>
-    <section>
-      <h>voice</h>
-      <p><ul>
-          <li>active <ul id="active">
-              <li>past <ul>
-                  <li>independent – <m>thàinig</m></li>
-                  <li>relative – a <m>thàinig</m></li>
-                  <li>dependent – cha/an/nach <m>tàinig</m></li>
-                </ul>
-              </li>
-              <li>future <ul>
-                  <li>independent – <m>thig</m></li>
-                  <li>relative – a <m>thig</m></li>
-                  <li>dependent – cha/an/nach <m>tig</m></li>
-                </ul>
-              </li>
-              <li>conditional <ul>
-                  <li>independent <ul>
-                      <li>first person singular – <m>thiginn</m></li>
-                      <li>first person plural – <m>thigeamaid</m></li>
-                      <li>second/third persons – <m>thigeadh</m></li>
-                    </ul>
-                  </li>
-                  <li>relative <ul>
-                      <li>first person singular – a <m>thiginn</m></li>
-                      <li>first person plural – a <m>thigeamaid</m></li>
-                      <li>second/third persons – a <m>thigeadh</m></li>
-                    </ul>
-                  </li>
-                  <li>dependent <ul>
-                      <li>first person singular – cha/an/nach <m>tiginn</m></li>
-                      <li>first person plural – cha/an/nach <m>tigeamaid</m></li>
-                      <li>second/third persons – cha/an/nach <m>tigeadh</m></li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>passive <ul id="passive">
-              <li>past <ul>
-                  <li>independent – <m>thàinigeas</m></li>
-                  <li>relative – a <m>thàinigeas</m></li>
-                  <li>dependent – cha/an/nach <m>tàinigeas</m></li>
-                </ul>
-              </li>
-              <li>future <ul>
-                  <li>independent – <m>thigear</m></li>
-                  <li>relative – a <m>thigear</m></li>
-                  <li>dependent – cha/an/nach <m>tigear</m></li>
-                </ul>
-              </li>
-              <li>conditional <ul>
-                  <li>independent – <m>thigte</m></li>
-                  <li>relative – a <m>thigte</m></li>
-                  <li>dependent – cha/an/nach <m>tigte</m></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-        </ul></p>
-    </section>
-    <section>
-      <h>imperative</h>
-      <p><ul>
-          <li>independent <ul id="imp-independent">
-              <li>first person singular – <m>thigeam</m>!</li>
-              <li>second person singular – <m>thig</m>!</li>
-              <li>first person plural – <m>thigeamaid</m>!</li>
-              <li>second person plural – <m>thigibh</m>!</li>
-              <li>third person – <m>thigeadh</m>!</li>
-              <li>passive – <m>thig(t)ear</m>!</li>
-            </ul>
-          </li>
-          <li>dependent <ul id="imp-dependent">
-              <li>first person singular – na <m>tigeam</m>!</li>
-              <li>second person singular – na <m>tig</m>!</li>
-              <li>first person plural – na <m>tigeamaid</m>!</li>
-              <li>second person plural – na <m>tigibh</m>!</li>
-              <li>third person – na <m>tigeadh</m>!</li>
-              <li>passive – na <m>tig(t)ear</m>!</li>
-            </ul>
-          </li>
-        </ul></p>
-    </section>
-    <section>
-      <h>notes</h>
-      <p>Notes – <ol>
-          <li>The dependent forms in <g>tig-</g> and <g>tàinig-</g> are pronounced as if they were
-            spelled <g>dig-</g> and <g>dàinig-</g>.</li>
-          <li>Alternative verbal nouns in traditional Gaelic are <g>teachd</g> and
-            <g>tighean</g>.</li>
-        </ol>
-      </p>
-    </section>
-  </section>
+    <en>go</en>).--></p>
+  
   <section>
     <h>dependents</h>
     <section id="sbj">
@@ -909,5 +664,251 @@
   </module>
 -->
 
+  <!--<section id="forms">
+    <h>forms</h>
+    <p>The principal parts of <g>thig</g> are – <ul>
+      <li><m>thig</m> – future independent <en>will come</en></li>
+      <li><m>thàinig</m> – past independent <en>came</en></li>
+      <li><m>tighinn</m> – verbal noun <en>coming</en></li>
+    </ul>
+    </p>
+    <section>
+      <h>tense</h>
+      <p><ul>
+        <li>past <ul id="past">
+          <li>active <ul>
+            <li>independent – <m>thàinig</m></li>
+            <li>relative – a <m>thàinig</m></li>
+            <li>dependent – cha/an/nach <m>tàinig</m></li>
+          </ul>
+          </li>
+          <li>passive <ul>
+            <li>independent – <m>thàinigeas</m></li>
+            <li>relative – a <m>thàinigeas</m></li>
+            <li>dependent – cha/an/nach <m>tàinigeas</m></li>
+          </ul>
+          </li>
+        </ul>
+        </li>
+        <li>future <ul id="future">
+          <li>active <ul>
+            <li>independent – <m>thig</m></li>
+            <li>relative – a <m>thig</m></li>
+            <li>dependent – cha/an/nach <m>tig</m></li>
+          </ul>
+          </li>
+          <li>passive <ul>
+            <li>independent – <m>thigear</m></li>
+            <li>relative – a <m>thigear</m></li>
+            <li>dependent – cha/an/nach <m>tigear</m></li>
+          </ul>
+          </li>
+        </ul>
+        </li>
+        <li>conditional <ul id="conditional">
+          <li>active <ul>
+            <li>first person singular <ul>
+              <li>independent – <m>thiginn</m></li>
+              <li>relative – a <m>thiginn</m></li>
+              <li>dependent – cha/an/nach <m>tiginn</m></li>
+            </ul>
+            </li>
+            <li>first person plural <ul>
+              <li>independent – <m>thigeamaid</m></li>
+              <li>relative – a <m>thigeamaid</m></li>
+              <li>dependent – cha/an/nach <m>tigeamaid</m></li>
+            </ul>
+            </li>
+            <li>second/third persons <ul>
+              <li>independent – <m>thigeadh</m></li>
+              <li>relative – a <m>thigeadh</m></li>
+              <li>dependent – cha/an/nach <m>tigeadh</m></li>
+            </ul>
+            </li>
+          </ul>
+          </li>
+          <li>passive <ul>
+            <li>independent – <m>thigte</m></li>
+            <li>relative – a <m>thigte</m></li>
+            <li>dependent – cha/an/nach <m>tigte</m></li>
+          </ul>
+          </li>
+        </ul>
+        </li>
+      </ul>
+      </p>
+    </section>
+    <section>
+      <h>status</h>
+      <p>
+        <ul>
+          <li>independent <ul id="independent">
+            <li>past <ul>
+              <li>active – <m>thàinig</m></li>
+              <li>passive – <m>thàinigeas</m></li>
+            </ul>
+            </li>
+            <li>future <ul>
+              <li>active – <m>thig</m></li>
+              <li>passive – <m>thigear</m></li>
+            </ul>
+            </li>
+            <li>conditional <ul>
+              <li>active <ul>
+                <li>first person singular – <m>thiginn</m></li>
+                <li>first person plural – <m>thigeamaid</m></li>
+                <li>second/third persons – <m>thigeadh</m></li>
+              </ul>
+              </li>
+              <li>passive – <m>thigte</m></li>
+            </ul>
+            </li>
+          </ul>
+          </li>
+          <li>relative <ul id="relative">
+            <li>past <ul>
+              <li>active – a <m>thàinig</m></li>
+              <li>passive – a <m>thàinigeas</m></li>
+            </ul>
+            </li>
+            <li>future <ul>
+              <li>active – a <m>thig</m></li>
+              <li>passive – a <m>thigear</m></li>
+            </ul>
+            </li>
+            <li>conditional <ul>
+              <li>active <ul>
+                <li>first person singular – a <m>thiginn</m></li>
+                <li>first person plural – a <m>thigeamaid</m></li>
+                <li>second/third persons – a <m>thigeadh</m></li>
+              </ul>
+              </li>
+              <li>passive – a <m>thigte</m></li>
+            </ul>
+            </li>
+          </ul>
+          </li>
+          <li>dependent <ul id="dependent">
+            <li>past <ul>
+              <li>active – cha/an/nach <m>tàinig</m></li>
+              <li>passive – cha/an/nach <m>tàinigeas</m></li>
+            </ul>
+            </li>
+            <li>future <ul>
+              <li>active – cha/an/nach <m>tig</m></li>
+              <li>passive – cha/an/nach <m>tigear</m></li>
+            </ul>
+            </li>
+            <li>conditional <ul>
+              <li>active <ul>
+                <li>first person singular – cha/an/nach <m>tiginn</m></li>
+                <li>first person plural – cha/an/nach <m>tigeamaid</m></li>
+                <li>second/third persons – cha/an/nach <m>tigeadh</m></li>
+              </ul>
+              </li>
+              <li>passive – cha/an/nach <m>tigte</m></li>
+            </ul>
+            </li>
+          </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>voice</h>
+      <p><ul>
+        <li>active <ul id="active">
+          <li>past <ul>
+            <li>independent – <m>thàinig</m></li>
+            <li>relative – a <m>thàinig</m></li>
+            <li>dependent – cha/an/nach <m>tàinig</m></li>
+          </ul>
+          </li>
+          <li>future <ul>
+            <li>independent – <m>thig</m></li>
+            <li>relative – a <m>thig</m></li>
+            <li>dependent – cha/an/nach <m>tig</m></li>
+          </ul>
+          </li>
+          <li>conditional <ul>
+            <li>independent <ul>
+              <li>first person singular – <m>thiginn</m></li>
+              <li>first person plural – <m>thigeamaid</m></li>
+              <li>second/third persons – <m>thigeadh</m></li>
+            </ul>
+            </li>
+            <li>relative <ul>
+              <li>first person singular – a <m>thiginn</m></li>
+              <li>first person plural – a <m>thigeamaid</m></li>
+              <li>second/third persons – a <m>thigeadh</m></li>
+            </ul>
+            </li>
+            <li>dependent <ul>
+              <li>first person singular – cha/an/nach <m>tiginn</m></li>
+              <li>first person plural – cha/an/nach <m>tigeamaid</m></li>
+              <li>second/third persons – cha/an/nach <m>tigeadh</m></li>
+            </ul>
+            </li>
+          </ul>
+          </li>
+        </ul>
+        </li>
+        <li>passive <ul id="passive">
+          <li>past <ul>
+            <li>independent – <m>thàinigeas</m></li>
+            <li>relative – a <m>thàinigeas</m></li>
+            <li>dependent – cha/an/nach <m>tàinigeas</m></li>
+          </ul>
+          </li>
+          <li>future <ul>
+            <li>independent – <m>thigear</m></li>
+            <li>relative – a <m>thigear</m></li>
+            <li>dependent – cha/an/nach <m>tigear</m></li>
+          </ul>
+          </li>
+          <li>conditional <ul>
+            <li>independent – <m>thigte</m></li>
+            <li>relative – a <m>thigte</m></li>
+            <li>dependent – cha/an/nach <m>tigte</m></li>
+          </ul>
+          </li>
+        </ul>
+        </li>
+      </ul></p>
+    </section>
+    <section>
+      <h>imperative</h>
+      <p><ul>
+        <li>independent <ul id="imp-independent">
+          <li>first person singular – <m>thigeam</m>!</li>
+          <li>second person singular – <m>thig</m>!</li>
+          <li>first person plural – <m>thigeamaid</m>!</li>
+          <li>second person plural – <m>thigibh</m>!</li>
+          <li>third person – <m>thigeadh</m>!</li>
+          <li>passive – <m>thig(t)ear</m>!</li>
+        </ul>
+        </li>
+        <li>dependent <ul id="imp-dependent">
+          <li>first person singular – na <m>tigeam</m>!</li>
+          <li>second person singular – na <m>tig</m>!</li>
+          <li>first person plural – na <m>tigeamaid</m>!</li>
+          <li>second person plural – na <m>tigibh</m>!</li>
+          <li>third person – na <m>tigeadh</m>!</li>
+          <li>passive – na <m>tig(t)ear</m>!</li>
+        </ul>
+        </li>
+      </ul></p>
+    </section>
+    <section>
+      <h>notes</h>
+      <p>Notes – <ol>
+        <li>The dependent forms in <g>tig-</g> and <g>tàinig-</g> are pronounced as if they were
+          spelled <g>dig-</g> and <g>dàinig-</g>.</li>
+        <li>Alternative verbal nouns in traditional Gaelic are <g>teachd</g> and
+          <g>tighean</g>.</li>
+      </ol>
+      </p>
+    </section>
+  </section>-->
 
 </module>

@@ -755,12 +755,12 @@
             </module>
         </module>
         <module id="bheil">
-            <h>(bh)eil</h>
-            <p><g>(bh)eil</g> is the dependent version of <g>tha</g>. It has the followed tensed
+            <h>·(bh)eil</h>
+            <p><g>·</g>(<g>bh</g>)<g>eil</g> is the dependent version of <g>tha</g>. It has the followed tensed
                 variants – <ul>
-                    <li><g>robh</g> – past dependent (cf. <g>bha</g>)</li>
-                    <li><g>bi</g> – future dependent (cf. <g>bidh</g>)</li>
-                    <li><g>biodh</g> – conditional dependent (cf. <g>bhiodh</g>)</li>
+                    <li><g>·robh</g> – past dependent (cf. <g>bha</g>)</li>
+                    <li><g>·bi</g> – future dependent (cf. <g>bidh</g>)</li>
+                    <li><g>·biodh</g> – conditional dependent (cf. <g>bhiodh</g>)</li>
                 </ul>
             </p>
             <module id="chan_eil">
@@ -1186,7 +1186,7 @@
 
     </section>
 
-    <section id="forms">
+    <!--<section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>bi</g> are – <ul>
                 <li><m>tha</m> / <m>(bh)eil</m> – present independent/dependent – <en>is, are,
@@ -1470,7 +1470,7 @@
                             <li>first person plural – na <m>biomaid</m>!</li>
                             <li>second person plural – na <m>bithibh</m>!</li>
                             <li>third person – na <m>bitheadh</m>!</li>
-                            <!--<li>passive – na <m>rach(t)ar</m>!</li>-->
+                            <!-\-<li>passive – na <m>rach(t)ar</m>!</li>-\->
                         </ul>
                     </li>
                 </ul>
@@ -1499,6 +1499,6 @@
                 </ul>
             </p>
         </section>
-    </section>
+    </section>-->
 
 </module>
