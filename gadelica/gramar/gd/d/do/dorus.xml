@@ -2,10 +2,59 @@
 <module>
     <h>dorus</h>
     <p><g>dorus</g>
-        <en>door</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+        <en>a door</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
 
-    <section id="forms">
+    <p>Examples of <g>dorus</g> as the subject of the predicative verb <a href="?gd=bi"
+            ><g>bi</g></a> – <ul>
+            <!--<li>modified by an attributive <a href="?xx=adjectives/adjectives">adjective</a> – <xl>
+            </xl>
+            </li>-->
+            <li>specified by the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+                    <li>
+                        <gd>Tha an dorus mór.</gd>
+                        <tr>The door is big.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </li>
+        </ul>
+    </p>
+    <p>Examples of <g>dorus</g> as the complement of the preposition <a href="?gd=aig"
+        ><g>aig</g></a>
+        <en>at</en> – <ul>
+            <li>specified by the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+                <li>
+                    <gd>Chunnaic mi cù aig an dorus.</gd>
+                    <tr>I saw a dog at the door.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <!--<li>
+                    <gd>A bheil an cù aig an dorus?</gd>
+                    <tr>Is the dog at the door?</tr>
+                    <ref text="617">td. 11</ref>
+                </li>-->
+                <li>
+                    <gd>A bheil an gille aig an dorus? Chan eil.</gd>
+                    <tr>Is the boy is at the door?</tr>
+                    <ref text="617">td. 15 [adapted]</ref>
+                </li>
+            </xl>
+            </li>
+        </ul>
+    </p>
+
+
+
+    <!-- <module>
+        <h>doruis</h>
+    </module>
+
+    <module>
+        <h>dorsan</h>
+    </module>-->
+
+    <!--<section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>dorus</g> are – <ul>
                 <li><m>dorus</m> – nominative/dative singular</li>
@@ -111,18 +160,18 @@
             <p>Note that in post-1970s Neo-Gaelic, the forms <g>dorus</g> and <g>doruis</g> have
                 been standardised to <g>doras</g> and <g>dorais</g> respectively.</p>
         </section>
-    </section>
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>dependents</h>
-        <!--<section id="deps-bare">
+        <!-\-<section id="deps-bare">
             <h>bare</h>
             <p>Like other nouns, <g>dorus</g> can occur on its own, without any dependents.</p>
             <p>Some examples – <xl>
                 
             </xl>
             </p>
-        </section>-->
+        </section>-\->
         <section id="deps-spr">
             <h>specifier</h>
             <p>Like other common nouns, <g>dorus</g> can occur with a <a
@@ -141,7 +190,7 @@
                 </xl>
             </p>
         </section>
-        <!--<section id="deps-mods">
+        <!-\-<section id="deps-mods">
             <h>modifiers</h>
             <p>Like other nouns, <g>dorus</g> can occur with an (attributive) <a href="?xx=adjectives/adjectives"
                 >adjective</a> (post-)modifier.</p>
@@ -149,10 +198,10 @@
                 
             </xl>
             </p>
-        </section>-->
-    </section>
+        </section>-\->
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
@@ -167,14 +216,14 @@
                 </xl>
             </p>
         </section>
-        <!--<section id="uses-obj">
+        <!-\-<section id="uses-obj">
             <h>object</h>
             <p>Like other nouns, <g>dorus</g> can be used as the object of a transitive verb.</p>
             <p>Some examples – <xl>
                 
             </xl>
             </p>
-        </section>-->
+        </section>-\->
         <section id="uses-comp">
             <h>complement</h>
             <p>Like other nouns, <g>dorus</g> can be used as the complement of a <a
@@ -199,6 +248,6 @@
                 </xl>
             </p>
         </section>
-    </section>
+    </section>-->
 
 </module>
