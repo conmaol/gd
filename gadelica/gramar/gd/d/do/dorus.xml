@@ -5,25 +5,48 @@
         <en>a door</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
 
-    <p>Examples of <g>dorus</g> as the subject of the predicative verb <a href="?gd=bi"
-            ><g>bi</g></a> – <ul>
-            <!--<li>modified by an attributive <a href="?xx=adjectives/adjectives">adjective</a> – <xl>
+   <!-- <p>Examples of <g>dorus</g> modified by an attributive <a href="?xx=adjectives/adjectives"
+        >adjective</a> – <ul>
+            <li>indefinite – <xl>
             </xl>
-            </li>-->
-            <li>specified by the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                    <li>
-                        <gd>Tha an dorus mór.</gd>
-                        <tr>The door is big.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
+            </li>
+            <li>definite – <xl>
                 </xl>
             </li>
         </ul>
+    </p>-->
+    
+    <p>Examples of <g>dorus</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
+        – <ul>
+            <!--<li>indefinite – <xl>
+            </xl>
+            </li>-->
+            <li>definite – <xl>
+                <li>
+                    <gd>Tha an dorus mór.</gd>
+                    <tr>The door is big.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+            </xl>
+            </li>
+        </ul>
     </p>
+    <!--<p>Examples of <g>bàta</g> as the subject of other verbs – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>
+    <p>Examples of <g>bàta</g> as the object of a (transitive) verb – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>-->
+    
     <p>Examples of <g>dorus</g> as the complement of the preposition <a href="?gd=aig"
         ><g>aig</g></a>
-        <en>at</en> – <ul>
-            <li>specified by the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+        <en>at</en> –  <ul>
+            <!--<li>indefinite –</li>-->
+            <li>definite – <xl>
                 <li>
                     <gd>Chunnaic mi cù aig an dorus.</gd>
                     <tr>I saw a dog at the door.</tr>
@@ -43,8 +66,6 @@
             </li>
         </ul>
     </p>
-
-
 
     <!-- <module>
         <h>doruis</h>

@@ -2,10 +2,63 @@
 <module>
     <h>balla</h>
     <p><g>balla</g>
-        <en>wall</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+        <en>a wall</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
 
-    <section id="forms">
+    <!-- <p>Examples of <g>balla</g> modified by an attributive <a href="?xx=adjectives/adjectives"
+        >adjective</a> – <ul>
+            <li>indefinite – <xl>
+            </xl>
+            </li>
+            <li>definite – <xl>
+                </xl>
+            </li>
+        </ul>
+    </p>-->
+
+    <p>Examples of <g>balla</g> as the subject of the predicative verb <a href="?gd=bi"
+            ><g>bi</g></a> – <ul>
+            <!--<li>indefinite – <xl>
+            </xl>
+            </li>-->
+            <li>definite – <xl>
+                    <li>
+                        <gd>A bheil am balla àrd? Tha.</gd>
+                        <tr>Is the wall high? Yes, it is.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </li>
+        </ul>
+    </p>
+    <!--<p>Examples of <g>balla</g> as the subject of other verbs – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>
+    <p>Examples of <g>balla</g> as the object of a (transitive) verb – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>-->
+
+    <p>Examples of <g>balla</g> as the complement of the preposition <a href="?gd=air"
+            ><g>air</g></a>
+        <en>on</en> – <ul>
+            <!--<li>indefinite –</li>-->
+            <li>definite – <xl>
+                    <li>
+                        <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
+                        <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </li>
+        </ul>
+    </p>
+
+
+    <!--<section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>balla</g> are – <ul>
                 <li><m>balla</m> – singular</li>
@@ -105,18 +158,18 @@
                         </ul></li>
                 </ul></p>
         </section>
-    </section>
+    </section>-->
 
-    <section>
+    <!-- <section>
         <h>dependents</h>
-        <!--<section id="deps-bare">
+        <!-\-<section id="deps-bare">
             <h>bare</h>
             <p>Like other nouns, <g>bàta</g> can occur on its own, without any dependents.</p>
             <p>Some examples – <xl>
                 
             </xl>
             </p>
-        </section>-->
+        </section>-\->
         <section id="deps-spr">
             <h>specifier</h>
             <p>Like other common nouns, <g>balla</g> can occur with a <a
@@ -132,7 +185,7 @@
                 </xl>
             </p>
         </section>
-        <!--<section id="deps-mods">
+        <!-\-<section id="deps-mods">
             <h>modifiers</h>
             <p>Like other nouns, <g>bàta</g> can occur with an (attributive) <a
                 href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
@@ -140,10 +193,10 @@
                 
             </xl>
             </p>
-        </section>-->
-    </section>
+        </section>-\->
+    </section>-->
 
-    <section>
+    <!-- <section>
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
@@ -159,16 +212,16 @@
                     </li>
                 </xl>
             </p>
-            <!--<p>Examples with demonstrative pronouns used as copular verbs – <xl>
+            <!-\-<p>Examples with demonstrative pronouns used as copular verbs – <xl>
                 <li>
                     <gd>Seo an <m>bàta</m>.</gd>
                     <tr>This is the dog.</tr>
                     <ref text="617">td. 15</ref>
                 </li>
             </xl>
-            </p>-->
+            </p>-\->
         </section>
-        <!--<section id="uses-obj">
+        <!-\-<section id="uses-obj">
             <h>object</h>
             <p>Like other nouns, <g>bàta</g> can be used as the object of a transitive verb.</p>
             <p>Some examples – <xl>
@@ -180,7 +233,7 @@
                     </li>
                 </xl>
             </p>
-        </section>-->
+        </section>-\->
         <section id="uses-comp">
             <h>complement</h>
             <p>Like other nouns, <g>balla</g> can be used as the complement of a <a
@@ -196,11 +249,11 @@
                 </xl>
             </p>
         </section>
-    </section>
+    </section>-->
 
 
 
-    
+
 
 
 </module>

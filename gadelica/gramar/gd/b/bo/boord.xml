@@ -2,10 +2,62 @@
 <module>
     <h>bòrd</h>
     <p><g>bòrd</g>
-        <en>table, board</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        <en>a table, a board</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple
+            common noun</a>.</p>
 
-    <section id="forms">
+    <!-- <p>Examples of <g>bòrd</g> modified by an attributive <a href="?xx=adjectives/adjectives"
+        >adjective</a> – <ul>
+            <li>indefinite – <xl>
+            </xl>
+            </li>
+            <li>definite – <xl>
+                </xl>
+            </li>
+        </ul>
+    </p>-->
+    <!--<p>Examples of <g>bòrd</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
+        – <ul>
+            <!-\-<li>indefinite – <xl>
+            </xl>
+            </li>-\->
+            <li>definite – <xl>
+                
+            </xl>
+            </li>
+        </ul>
+    </p>-->
+    <!--<p>Examples of <g>bòrd</g> as the subject of other verbs – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>
+    <p>Examples of <g>bòrd</g> as the object of a (transitive) verb – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>-->
+
+    <p>Examples of <g>bòrd</g> as the complement of the preposition <a href="?gd=air"><g>air</g></a>
+        <en>on</en> – <ul>
+            <!--<li>indefinite –</li>-->
+            <li>definite – <xl>
+                    <li>
+                        <gd>Tha an leabhar air a’ bhòrd.</gd>
+                        <tr>The book is on the table.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Tha am bocsa air a’ bhòrd. Có chuir am bocsa air a’ bhòrd? Chuir
+                            Màiri.</gd>
+                        <tr>The box is on the table. Who put the box on the table? Mary did.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </li>
+        </ul>
+    </p>
+
+    <!--<section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>bòrd</g> are – <ul>
                 <li><m>bòrd</m> – nominative/dative singular, genitive plural</li>
@@ -105,18 +157,18 @@
                         </ul></li>
                 </ul></p>
         </section>
-    </section>
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>dependents</h>
-        <!--<section id="deps-bare">
+        <!-\-<section id="deps-bare">
             <h>bare</h>
             <p>Like other nouns, <g>cladach</g> can occur on its own, without any dependents.</p>
             <p>Some examples – <xl>
                 
             </xl>
             </p>
-        </section>-->
+        </section>-\->
         <section id="deps-spr">
             <h>specifier</h>
             <p>Like other common nouns, <g>bòrd</g> can occur with a <a href="?xx=nouns/determiners"
@@ -127,17 +179,17 @@
                         <tr>Where is the book? The book is on the table.</tr>
                         <ref text="617">td. 20</ref>
                     </li>
-                <li>
-                    <gd>Càit a bheil am bocsa? Tha am bocsa air <m>a’ bhòrd</m>. Có chuir am
-                        bocsa air <m>a’ bhòrd</m>? Chuir Màiri.</gd>
-                    <tr>Where is the box? The box is on the table. Who put the box on the table?
-                        Mary did.</tr>
-                    <ref text="617">td. 20</ref>
-                </li>
+                    <li>
+                        <gd>Càit a bheil am bocsa? Tha am bocsa air <m>a’ bhòrd</m>. Có chuir am
+                            bocsa air <m>a’ bhòrd</m>? Chuir Màiri.</gd>
+                        <tr>Where is the box? The box is on the table. Who put the box on the table?
+                            Mary did.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
                 </xl>
             </p>
         </section>
-        <!--<section id="deps-mods">
+        <!-\-<section id="deps-mods">
             <h>modifiers</h>
             <p>Like other nouns, <g>cladach</g> can occur with an (attributive) <a
                 href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
@@ -145,12 +197,12 @@
                 
             </xl>
             </p>
-        </section>-->
-    </section>
+        </section>-\->
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>uses</h>
-        <!--<section id="uses-sbj">
+        <!-\-<section id="uses-sbj">
             <h>subject</h>
             <p>Like other nouns, <g>cladach</g> can be used as the subject of a <a
                 href="?xx=verbs/verbs">verb</a>.</p>
@@ -158,23 +210,23 @@
                
             </xl>
             </p>
-            <!-\-<p>Examples with demonstrative pronouns used as copular verbs – <xl>
+            <!-\\-<p>Examples with demonstrative pronouns used as copular verbs – <xl>
                 <li>
                     <gd>Seo an <m>cladach</m>.</gd>
                     <tr>This is the dog.</tr>
                     <ref text="617">td. 15</ref>
                 </li>
             </xl>
-            </p>-\->
-        </section>-->
-        <!-- <section id="uses-obj">
+            </p>-\\->
+        </section>-\->
+        <!-\- <section id="uses-obj">
             <h>object</h>
             <p>Like other nouns, <g>cladach</g> can be used as the object of a transitive verb.</p>
             <p>Some examples – <xl>
                 
             </xl>
             </p>
-        </section>-->
+        </section>-\->
         <section id="uses-comp">
             <h>complement</h>
             <p>Like other nouns, <g>bòrd</g> can be used as the complement of a <a
@@ -196,7 +248,7 @@
                 </xl>
             </p>
         </section>
-    </section>
+    </section>-->
 
 
 

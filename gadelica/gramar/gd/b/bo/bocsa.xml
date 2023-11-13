@@ -2,10 +2,75 @@
 <module>
     <h>bocsa</h>
     <p><g>bocsa</g>
-        <en>box</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+        <en>a box</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <section>
+    <!-- <p>Examples of <g>bocsa</g> modified by an attributive <a href="?xx=adjectives/adjectives"
+        >adjective</a> – <ul>
+            <li>indefinite – <xl>
+            </xl>
+            </li>
+            <li>definite – <xl>
+                </xl>
+            </li>
+        </ul>
+    </p>-->
+
+    <p>Examples of <g>bocsa</g> as the subject of the predicative verb <a href="?gd=bi"
+            ><g>bi</g></a> – <ul>
+            <!--<li>indefinite – <xl>
+            </xl>
+            </li>-->
+            <li>definite – <xl>
+                    <li>
+                        <gd>Càit a bheil am bocsa? Tha am bocsa air a’ bhòrd.</gd>
+                        <tr>Where is the box? The box is on the table.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </li>
+        </ul>
+    </p>
+    <!--<p>Examples of <g>bocsa</g> as the subject of other verbs – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>
+    -->
+    <p>Examples of <g>bocsa</g> as the object of a (transitive) verb – <ul>
+            <!--<li>indefinite –</li>-->
+            <li>definite – <xl>
+                    <li>
+                        <gd>Có chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
+                        <tr>Who put the box on the table? Mary did.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </li>
+        </ul>
+    </p>
+
+    <p>Examples of <g>bocsa</g> as the complement of the preposition <a href="?gd=an^preposition"
+                ><g>an</g></a>
+        <en>in</en> – <ul>
+            <!--<li>indefinite –</li>-->
+            <li>definite – <xl>
+                    <li>
+                        <gd>Dé tha anns a’ bhocsa sin? Tha uighean anns a’ bhocsa.</gd>
+                        <tr>What is in that box? There are eggs in the box.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Nach robh leabhar anns a’ bhocsa sin? Bha.</gd>
+                        <tr>Wasn’t there a book in that box? Yes, there was.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </li>
+        </ul>
+    </p>
+
+    <!--<section>
         <h>forms</h>
         <p>The principal parts of <g>bocsa</g> are – <ul>
                 <li><m>bocsa</m> – singular</li>
@@ -105,18 +170,18 @@
                         </ul></li>
                 </ul></p>
         </section>
-    </section>
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>dependents</h>
-        <!--<section id="deps-bare">
+        <!-\-<section id="deps-bare">
             <h>bare</h>
             <p>Like other nouns, <g>cladach</g> can occur on its own, without any dependents.</p>
             <p>Some examples – <xl>
                 
             </xl>
             </p>
-        </section>-->
+        </section>-\->
         <section id="deps-spr">
             <h>specifier</h>
             <p>Like other common nouns, <g>bòrd</g> can occur with a <a href="?xx=nouns/determiners"
@@ -130,15 +195,15 @@
                             box is on the table. Who put the box on the table? Mary did.</tr>
                         <ref text="617">td. 20</ref>
                     </li>
-                <li>
-                    <gd>Nach robh leabhar anns <m>a’ bhocsa</m> sin? Bha, bha Bìobull ann.</gd>
-                    <tr>Wasn’t there a book in that box? Yes, there was a Bible (in it).</tr>
-                    <ref text="617">td. 20</ref>
-                </li>
+                    <li>
+                        <gd>Nach robh leabhar anns <m>a’ bhocsa</m> sin? Bha, bha Bìobull ann.</gd>
+                        <tr>Wasn’t there a book in that box? Yes, there was a Bible (in it).</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
                 </xl>
             </p>
         </section>
-        <!--<section id="deps-mods">
+        <!-\-<section id="deps-mods">
             <h>modifiers</h>
             <p>Like other nouns, <g>cladach</g> can occur with an (attributive) <a
                 href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
@@ -146,10 +211,10 @@
                 
             </xl>
             </p>
-        </section>-->
-    </section>
+        </section>-\->
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
@@ -163,26 +228,25 @@
                     </li>
                 </xl>
             </p>
-            <!--<p>Examples with demonstrative pronouns used as copular verbs – <xl>
+            <!-\-<p>Examples with demonstrative pronouns used as copular verbs – <xl>
                 <li>
                     <gd>Seo an <m>cladach</m>.</gd>
                     <tr>This is the dog.</tr>
                     <ref text="617">td. 15</ref>
                 </li>
             </xl>
-            </p>-->
+            </p>-\->
         </section>
         <section id="uses-obj">
             <h>object</h>
             <p>Like other nouns, <g>bocsa</g> can be used as the object of a transitive verb.</p>
             <p>Some examples – <xl>
-                <li>
-                    <gd>Có chuir
-                        am <m>bocsa</m> air a’ bhòrd? Chuir Màiri.</gd>
-                    <tr>Who put the box on the table? Mary did.</tr>
-                    <ref text="617">td. 20</ref>
-                </li>
-            </xl>
+                    <li>
+                        <gd>Có chuir am <m>bocsa</m> air a’ bhòrd? Chuir Màiri.</gd>
+                        <tr>Who put the box on the table? Mary did.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
             </p>
         </section>
         <section id="uses-comp">
@@ -205,7 +269,7 @@
                 </xl>
             </p>
         </section>
-    </section>
+    </section>-->
 
 
 

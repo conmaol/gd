@@ -5,11 +5,65 @@
         <en>milk</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <section id="forms">
+    <!-- <p>Examples of <g>bainne</g> modified by an attributive <a href="?xx=adjectives/adjectives"
+        >adjective</a> – <ul>
+            <li>indefinite – <xl>
+            </xl>
+            </li>
+            <li>definite – <xl>
+                </xl>
+            </li>
+        </ul>
+    </p>-->
+
+    <p>Examples of <g>bainne</g> as the subject of the predicative verb <a href="?gd=bi"
+            ><g>bi</g></a> – <ul>
+            <li>indefinite – <xl>
+                    <li>
+                        <gd>Tha bainne anns a’ bhotul.</gd>
+                        <tr>There is milk in the bottle.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Nach robh bainne anns a’ bhotul? Bha.</gd>
+                        <tr>Wasn’t there milk in the bottle? Yes, there was.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                </xl>
+            </li>
+            <!--<li>definite – <xl>
+                
+            </xl>
+            </li>-->
+        </ul>
+    </p>
+    <!--<p>Examples of <g>bainne</g> as the subject of other verbs – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>
+    <p>Examples of <g>bainne</g> as the object of a (transitive) verb – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>-->
+
+    <!--<p>Examples of <g>bainne</g> as the complement of the preposition <a href="?gd=aig"
+            ><g>aig</g></a>
+        <en>at</en> – <ul>
+            <!-\-<li>indefinite –</li>-\->
+            <li>definite – <xl> </xl>
+            </li>
+        </ul>
+    </p>-->
+
+
+
+    <!--<section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>bainne</g> are – <ul>
                 <li><m>bainne</m> – singular</li>
-                <!--<li><m>bainnechan</m> – plural</li>-->
+                <!-\-<li><m>bainnechan</m> – plural</li>-\->
             </ul>
         </p>
         <section id="definiteness">
@@ -21,11 +75,11 @@
                                     <li>dative – le <m>bainne</m></li>
                                     <li>genitive – taobh <m>bainne</m></li>
                                 </ul></li>
-                            <!--<li>plural <ul>
+                            <!-\-<li>plural <ul>
                         <li>nominative – <m>bainnechan</m></li>
                         <li>dative – air <m>bainnechan</m></li>
                         <li>genitive – taobh <m>bhallachan</m></li>
-                    </ul></li>-->
+                    </ul></li>-\->
                         </ul></li>
                     <li>definite <ul>
                             <li>singular <ul>
@@ -33,11 +87,11 @@
                                     <li>dative – leis <m>a’ bhainne</m></li>
                                     <li>genitive – taobh <m>a’ bhainne</m></li>
                                 </ul></li>
-                            <!--<li>plural <ul>
+                            <!-\-<li>plural <ul>
                         <li>nominative – <m>na bainnechan</m></li>
                         <li>dative – air <m>na bainnechan</m></li>
                         <li>genitive – taobh <m>nam bainnechan</m></li>
-                    </ul></li>-->
+                    </ul></li>-\->
                         </ul></li>
                 </ul></p>
         </section>
@@ -56,7 +110,7 @@
                                     <li>genitive – taobh <m>a’ bhainne</m></li>
                                 </ul></li>
                         </ul></li>
-                    <!-- <li>plural <ul>
+                    <!-\- <li>plural <ul>
                     <li>indefinite <ul>
                         <li>nominative – <m>bainnechan</m></li>
                         <li>dative – air <m>bainnechan</m></li>
@@ -67,7 +121,7 @@
                         <li>dative – air <m>na bainnechan</m></li>
                         <li>genitive – taobh <m>nam bainnechan</m></li>
                     </ul></li>
-                </ul></li>-->
+                </ul></li>-\->
                 </ul></p>
         </section>
         <section id="case">
@@ -76,38 +130,38 @@
                     <li>nominative <ul>
                             <li>indefinite <ul>
                                     <li>singular – <m>bainne</m></li>
-                                    <!--<li>plural – <m>bainnechan</m></li>-->
+                                    <!-\-<li>plural – <m>bainnechan</m></li>-\->
                                 </ul></li>
                             <li>definite <ul>
                                     <li>singular – <m>am bainne</m></li>
-                                    <!--<li>plural – <m>na bainnechan</m></li>-->
+                                    <!-\-<li>plural – <m>na bainnechan</m></li>-\->
                                 </ul></li>
                         </ul></li>
                     <li>dative <ul>
                             <li>indefinite <ul>
                                     <li>singular – le <m>bainne</m></li>
-                                    <!--<li>plural – air <m>bainnechan</m></li>-->
+                                    <!-\-<li>plural – air <m>bainnechan</m></li>-\->
                                 </ul></li>
                             <li>definite <ul>
                                     <li>singular – leis <m>a’ bhainne</m></li>
-                                    <!--<li>plural – air <m>na bainnechan</m></li>-->
+                                    <!-\-<li>plural – air <m>na bainnechan</m></li>-\->
                                 </ul></li>
                         </ul></li>
                     <li>genitive <ul>
                             <li>indefinite <ul>
                                     <li>singular – taobh <m>bainne</m></li>
-                                    <!--<li>plural – taobh <m>bhallachan</m></li>-->
+                                    <!-\-<li>plural – taobh <m>bhallachan</m></li>-\->
                                 </ul></li>
                             <li>definite <ul>
                                     <li>singular – taobh <m>a’ bhainne</m></li>
-                                    <!--<li>plural – taobh <m>nam bainnechan</m></li>-->
+                                    <!-\-<li>plural – taobh <m>nam bainnechan</m></li>-\->
                                 </ul></li>
                         </ul></li>
                 </ul></p>
         </section>
-    </section>
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>dependents</h>
         <section id="deps-bare">
             <h>bare</h>
@@ -126,15 +180,15 @@
                 </xl>
             </p>
         </section>
-        <!--<section id="deps-spr">
+        <!-\-<section id="deps-spr">
             <h>specifier</h>
             <p>Like other common nouns, <g>bainne</g> can occur with a <a
                     href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
             <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> –
                     <xl> </xl>
             </p>
-        </section>-->
-        <!--<section id="deps-mods">
+        </section>-\->
+        <!-\-<section id="deps-mods">
             <h>modifiers</h>
             <p>Like other nouns, <g>bàta</g> can occur with an (attributive) <a
                 href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
@@ -142,10 +196,10 @@
                 
             </xl>
             </p>
-        </section>-->
-    </section>
+        </section>-\->
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
@@ -164,16 +218,16 @@
                     </li>
                 </xl>
             </p>
-            <!--<p>Examples with demonstrative pronouns used as copular verbs – <xl>
+            <!-\-<p>Examples with demonstrative pronouns used as copular verbs – <xl>
                 <li>
                     <gd>Seo an <m>bàta</m>.</gd>
                     <tr>This is the dog.</tr>
                     <ref text="617">td. 15</ref>
                 </li>
             </xl>
-            </p>-->
+            </p>-\->
         </section>
-        <!--<section id="uses-obj">
+        <!-\-<section id="uses-obj">
             <h>object</h>
             <p>Like other nouns, <g>bàta</g> can be used as the object of a transitive verb.</p>
             <p>Some examples – <xl>
@@ -185,8 +239,8 @@
                     </li>
                 </xl>
             </p>
-        </section>-->
-        <!--<section id="uses-comp">
+        </section>-\->
+        <!-\-<section id="uses-comp">
             <h>complement</h>
             <p>Like other nouns, <g>bainne</g> can be used as the complement of a <a
                     href="?xx=prepositions/prepositions">preposition</a>.</p>
@@ -195,7 +249,7 @@
                     
                 </xl>
             </p>
-        </section>-->
-    </section>
+        </section>-\->
+    </section>-->
 
 </module>
