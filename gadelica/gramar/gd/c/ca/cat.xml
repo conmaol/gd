@@ -2,10 +2,90 @@
 <module>
     <h>cat</h>
     <p><g>cat</g>
-        <en>cat</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+        <en>a cat</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <section id="forms">
+    <p>Examples of <g>cat</g> modified by an attributive <a href="?xx=adjectives/adjectives"
+            >adjective</a> – <ul>
+            <!--<li>indefinite – <xl>
+            </xl>
+            </li>-->
+            <li>definite – <xl>
+                    <li>
+                        <gd>Tha an cat beag bàn aig an teine.</gd>
+                        <tr>The little white cat is by the fire.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                    <li>
+                        <gd>Càit a bheil an cat bàn an diugh?</gd>
+                        <tr>Where is the white cat today?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
+            </li>
+        </ul>
+    </p>
+
+    <p>Examples of <g>cat</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
+        – <ul>
+            <!--<li>indefinite – <xl>
+            </xl>
+            </li>-->
+            <li>definite – <xl>
+                    <li>
+                        <gd>Tha an cat bàn.</gd>
+                        <tr>The cat is white.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Cha robh an cat anns a’ phoca.</gd>
+                        <tr>The cat was not in the sack.</tr>
+                        <ref text="617">td. 21 [229] [adapted]</ref>
+                    </li>
+                    <li>
+                        <gd>A bheil an cat a’ cluich còmhla ri Seònaid air an làr?</gd>
+                        <tr>Is the cat playing with Janet on the floor?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
+            </li>
+        </ul>
+    </p>
+
+    <p>Examples of <g>cat</g> as the subject of a demonstrative pronoun used as a copular verb – <ul>
+            <li>definite – <xl>
+                    <li>
+                        <gd>Seo an cat.</gd>
+                        <tr>This is the cat.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl></li>
+        </ul>
+    </p>
+
+    <!--<p>Examples of <g>cat</g> as the subject of other verbs – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>
+    <p>Examples of <g>cat</g> as the object of a (transitive) verb – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>-->
+
+    <!--<p>Examples of <g>cat</g> as the complement of the preposition <a href="?gd=aig"><g>aig</g></a>
+        <en>at</en> – <ul>
+            <!-\-<li>indefinite –</li>-\->
+            <li>definite – <xl>
+                    
+                </xl>
+            </li>
+        </ul>
+    </p>-->
+
+
+    <!--<section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>cat</g> are – <ul>
                 <li><m>cat</m> – nominative/dative singular, genitive plural</li>
@@ -105,18 +185,18 @@
                         </ul></li>
                 </ul></p>
         </section>
-    </section>
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>dependents</h>
-        <!--<section id="deps-bare">
+        <!-\-<section id="deps-bare">
             <h>bare</h>
             <p>Like other nouns, <g>cat</g> can occur on its own, without any dependents.</p>
             <p>Some examples – <xl>
                 
             </xl>
             </p>
-        </section>-->
+        </section>-\->
         <section id="deps-spr">
             <h>specifier</h>
             <p>Like other common nouns, <g>cat</g> can occur with a <a href="?xx=nouns/determiners"
@@ -158,9 +238,9 @@
                 </xl>
             </p>
         </section>
-    </section>
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
@@ -203,15 +283,15 @@
                 </xl>
             </p>
         </section>
-        <!--<section id="uses-obj">
+        <!-\-<section id="uses-obj">
             <h>object</h>
             <p>Like other nouns, <g>cat</g> can be used as the object of a transitive verb.</p>
             <p>Some examples – <xl>
                 
             </xl>
             </p>
-        </section>-->
-        <!--<section id="uses-comp">
+        </section>-\->
+        <!-\-<section id="uses-comp">
             <h>complement</h>
             <p>Like other nouns, <g>cat</g> can be used as the complement of a <a
                 href="?xx=prepositions/prepositions">preposition</a>.</p>
@@ -220,7 +300,7 @@
                     
                 </xl>
             </p>
-        </section>-->
+        </section>-\->
     </section>
-
+-->
 </module>

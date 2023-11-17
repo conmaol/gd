@@ -2,10 +2,63 @@
 <module>
     <h>caileag</h>
     <p><g>caileag</g>
-        <en>girl</en> is a feminine diminutive common noun with
-        derivational suffix <a href="?gd=_ag"><g>-(e)ag</g></a>.</p>
+        <en>a girl</en> is a feminine diminutive common noun with derivational suffix <a
+            href="?gd=_ag"><g>-(e)ag</g></a>.</p>
 
-    <section id="forms">
+    <p>Examples of <g>caileag</g> modified by an attributive <a href="?xx=adjectives/adjectives"
+            >adjective</a> – <ul>
+            <!--<li>indefinite – <xl>
+            </xl>
+            </li>-->
+            <li>definite – <xl>
+                    <li>
+                        <gd>Chan eil a’ chaileag bheag anns an sgoil.</gd>
+                        <tr>The little girl is not in the school.</tr>
+                        <ref text="617">td. 15 [228]</ref>
+                    </li>
+                </xl>
+            </li>
+        </ul>
+    </p>
+
+    <p>Examples of <g>caileag</g> as the subject of the predicative verb <a href="?gd=bi"
+            ><g>bi</g></a> – <ul>
+            <!--<li>indefinite – <xl>
+            </xl>
+            </li>-->
+            <li>definite – <xl>
+                    <li>
+                        <gd>Chan eil a’ chaileag bheag anns an sgoil.</gd>
+                        <tr>The little girl is not in the school.</tr>
+                        <ref text="617">td. 15 [228]</ref>
+                    </li>
+                </xl>
+            </li>
+        </ul>
+    </p>
+    <!--<p>Examples of <g>caileag</g> as the subject of other verbs – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>
+    <p>Examples of <g>caileag</g> as the object of a (transitive) verb – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>-->
+
+    <!-- <p>Examples of <g>caileag</g> as the complement of the preposition <a href="?gd=aig"
+        ><g>aig</g></a>
+        <en>at</en> –  <ul>
+            <!-\-<li>indefinite –</li>-\->
+            <li>definite – <xl>
+            </xl>
+            </li>
+        </ul>
+    </p>-->
+
+
+    <!--<section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>caileag</g> are – <ul>
                 <li><m>caileag</m> – nominative singular, genitive plural</li>
@@ -107,12 +160,12 @@
                         </ul></li>
                 </ul></p>
         </section>
-    </section>
+    </section>-->
 
 
-    <section>
+    <!--<section>
         <h>dependents</h>
-        <!--<section id="deps-bare">
+        <!-\-<section id="deps-bare">
             <h>bare</h>
             <p>Like other nouns, <g>còta</g> can occur on its own, without any dependents.</p>
             <p>Some examples – <xl>
@@ -123,7 +176,7 @@
                 </li>
             </xl>
             </p>
-        </section>-->
+        </section>-\->
         <section id="deps-spr">
             <h>specifier</h>
             <p>Like other common nouns, <g>caileag</g> can occur with a <a
@@ -151,8 +204,8 @@
             </p>
         </section>
     </section>
-
-    <section>
+-->
+    <!--<section>
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
@@ -167,15 +220,15 @@
                 </xl>
             </p>
         </section>
-        <!--<section id="uses-obj">
+        <!-\-<section id="uses-obj">
             <h>object</h>
             <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>
             <p>Some examples – <xl>
                 
             </xl>
             </p>
-        </section>-->
-        <!--<section id="uses-comp">
+        </section>-\->
+        <!-\-<section id="uses-comp">
             <h>complement</h>
             <p>Like other nouns, <g>sgoil</g> can be used as the complement of a <a
                 href="?xx=prepositions/prepositions">preposition</a>.</p>
@@ -184,8 +237,8 @@
                     
                 </xl>
             </p>
-        </section>-->
-    </section>
+        </section>-\->
+    </section>-->
 
 
 </module>
