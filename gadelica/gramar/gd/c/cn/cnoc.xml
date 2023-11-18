@@ -5,7 +5,75 @@
         <en>cnoc</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <section id="forms">
+    <p>Examples of <g>cnoc</g> modified by an attributive <a href="?xx=adjectives/adjectives"
+        >adjective</a> – <ul>
+            <!--<li>indefinite – <xl>
+            </xl>
+            </li>-->
+            <li>definite – <xl>
+            <li>
+                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc
+                            àrd.</gd>
+                        <tr>Where is the big house? The big house is on the tall hill.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                </xl>
+            </li>
+        </ul>
+    </p>
+    
+    <p>Examples of <g>cnoc</g> as the subject of the predicative verb <a href="?gd=bi"
+        ><g>bi</g></a> – <ul>
+            <!--<li>indefinite – <xl>
+            </xl>
+            </li>-->
+            <li>definite – <xl>
+                <li>
+                    <gd>Tha an cnoc seo àrd.</gd>
+                    <tr>This hill is high.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+            </li>
+        </ul>
+    </p>
+    <!--<p>Examples of <g>cnoc</g> as the subject of other verbs – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>
+    <p>Examples of <g>cnoc</g> as the object of a (transitive) verb – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>-->
+    
+    <p>Examples of <g>cnoc</g> as the complement of the preposition <a href="?gd=air"
+        ><g>air</g></a>
+        <en>on</en> – <ul>
+            <!--<li>indefinite –</li>-->
+            <li>definite – <g>air a’ chnoc</g>
+                <en>on the hill</en> – <xl>
+                    <li>
+                        <gd>Dé tha air a’ chnoc? Tha taigh mór
+                            air a’ chnoc.</gd>
+                        <tr>What is on the hill? There is a big house on the
+                            hill.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc
+                            àrd.</gd>
+                        <tr>Where is the big house? The big house is on the tall hill.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                </xl>
+            </li>
+        </ul>
+    </p>
+
+
+    <!--<section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>cnoc</g> are – <ul>
                 <li><m>cnoc</m> – nominative/dative singular, genitive plural</li>
@@ -105,18 +173,18 @@
                         </ul></li>
                 </ul></p>
         </section>
-    </section>
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>dependents</h>
-        <!--<section id="deps-bare">
+        <!-\-<section id="deps-bare">
             <h>bare</h>
             <p>Like other nouns, <g>cnoc</g> can occur on its own, without any dependents.</p>
             <p>Some examples – <xl>
                 
             </xl>
             </p>
-        </section>-->
+        </section>-\->
         <section id="deps-spr">
             <h>specifier</h>
             <p>Like other common nouns, <g>cnoc</g> can occur with a <a href="?xx=nouns/determiners"
@@ -146,9 +214,9 @@
                 </xl>
             </p>
         </section>
-    </section>
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>uses</h>
         <section id="uses-sbj">
             <h>subject</h>
@@ -162,23 +230,23 @@
                     </li>
                 </xl>
             </p>
-            <!--<p>Examples with demonstrative pronouns used as copular verbs – <xl>
+            <!-\-<p>Examples with demonstrative pronouns used as copular verbs – <xl>
                 <li>
                     <gd>Seo an <m>cnoc</m>.</gd>
                     <tr>This is the cnoc.</tr>
                     <ref text="617">td. 15</ref>
                 </li>
             </xl>
-            </p>-->
+            </p>-\->
         </section>
-        <!--<section id="uses-obj">
+        <!-\-<section id="uses-obj">
             <h>object</h>
             <p>Like other nouns, <g>cnoc</g> can be used as the object of a transitive verb.</p>
             <p>Some examples – <xl>
                 
             </xl>
             </p>
-        </section>-->
+        </section>-\->
         <section id="uses-comp">
             <h>complement</h>
             <p>Like other nouns, <g>cnoc</g> can be used as the complement of a <a
@@ -201,6 +269,6 @@
                 </xl>
             </p>
         </section>
-    </section>
+    </section>-->
 
 </module>

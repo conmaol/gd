@@ -5,7 +5,7 @@
         <en>a door</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
 
-   <!-- <p>Examples of <g>dorus</g> modified by an attributive <a href="?xx=adjectives/adjectives"
+    <!-- <p>Examples of <g>dorus</g> modified by an attributive <a href="?xx=adjectives/adjectives"
         >adjective</a> – <ul>
             <li>indefinite – <xl>
             </xl>
@@ -15,19 +15,19 @@
             </li>
         </ul>
     </p>-->
-    
-    <p>Examples of <g>dorus</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
-        – <ul>
+
+    <p>Examples of <g>dorus</g> as the subject of the predicative verb <a href="?gd=bi"
+            ><g>bi</g></a> – <ul>
             <!--<li>indefinite – <xl>
             </xl>
             </li>-->
             <li>definite – <xl>
-                <li>
-                    <gd>Tha an dorus mór.</gd>
-                    <tr>The door is big.</tr>
-                    <ref text="617">td. 6</ref>
-                </li>
-            </xl>
+                    <li>
+                        <gd>Tha an dorus mór.</gd>
+                        <tr>The door is big.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
             </li>
         </ul>
     </p>
@@ -41,28 +41,29 @@
             <li>definite –</li>
         </ul>
     </p>-->
-    
+
     <p>Examples of <g>dorus</g> as the complement of the preposition <a href="?gd=aig"
-        ><g>aig</g></a>
-        <en>at</en> –  <ul>
+            ><g>aig</g></a>
+        <en>at</en> – <ul>
             <!--<li>indefinite –</li>-->
-            <li>definite – <xl>
-                <li>
-                    <gd>Chunnaic mi cù aig an dorus.</gd>
-                    <tr>I saw a dog at the door.</tr>
-                    <ref text="617">td. 6</ref>
-                </li>
-                <!--<li>
+            <li>definite – <g>aig an dorus</g>
+                <en>at the door</en> – <xl>
+                    <li>
+                        <gd>Chunnaic mi cù aig an dorus.</gd>
+                        <tr>I saw a dog at the door.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <!--<li>
                     <gd>A bheil an cù aig an dorus?</gd>
                     <tr>Is the dog at the door?</tr>
                     <ref text="617">td. 11</ref>
                 </li>-->
-                <li>
-                    <gd>A bheil an gille aig an dorus? Chan eil.</gd>
-                    <tr>Is the boy is at the door?</tr>
-                    <ref text="617">td. 15 [adapted]</ref>
-                </li>
-            </xl>
+                    <li>
+                        <gd>A bheil an gille aig an dorus? Chan eil.</gd>
+                        <tr>Is the boy is at the door?</tr>
+                        <ref text="617">td. 15 [adapted]</ref>
+                    </li>
+                </xl>
             </li>
         </ul>
     </p>

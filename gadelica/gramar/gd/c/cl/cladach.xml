@@ -5,7 +5,70 @@
         <en>shore</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <section id="forms">
+    <!-- <p>Examples of <g>cladach</g> modified by an attributive <a href="?xx=adjectives/adjectives"
+        >adjective</a> – <ul>
+            <li>indefinite – <xl>
+            </xl>
+            </li>
+            <li>definite – <xl>
+                </xl>
+            </li>
+        </ul>
+    </p>-->
+    <!-- <p>Examples of <g>cladach</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
+        – <ul>
+            <!-\-<li>indefinite – <xl>
+            </xl>
+            </li>-\->
+            <li>definite – <xl>
+                
+            </xl>
+            </li>
+        </ul>
+    </p>-->
+    <!--<p>Examples of <g>cladach</g> as the subject of other verbs – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>
+    <p>Examples of <g>cladach</g> as the object of a (transitive) verb – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>-->
+
+    <p>Examples of <g>cladach</g> as the complement of the preposition <a href="?gd=air"
+            ><g>air</g></a>
+        <en>on</en> – <ul>
+            <!--<li>indefinite –</li>-->
+            <li>definite – <g>air a’ chladach</g>
+                <en>on the shore</en> – <xl>
+                    <li>
+                        <gd>Tha am bàta air a’ chladach.</gd>
+                        <tr>The boat is on the shore.</tr>
+                        <ref text="617">td. 17</ref>
+                    </li>
+                </xl>
+            </li>
+        </ul>
+    </p>
+    <p>Examples of <g>cladach</g> as the complement of the preposition <a href="?gd=aig"
+            ><g>aig</g></a>
+        <en>at</en> – <ul>
+            <!--<li>indefinite –</li>-->
+            <li>definite – <g>aig a’ chladach</g>
+                <en>at the shore</en> – <xl>
+                    <li>
+                        <gd>Bha mi aig a’ chladach an diugh.</gd>
+                        <tr>I was at the shore today.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                </xl>
+            </li>
+        </ul>
+    </p>
+
+    <!--<section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>cladach</g> are – <ul>
                 <li><m>cladach</m> – nominative/dative singular</li>
@@ -106,18 +169,18 @@
                         </ul></li>
                 </ul></p>
         </section>
-    </section>
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>dependents</h>
-        <!--<section id="deps-bare">
+        <!-\-<section id="deps-bare">
             <h>bare</h>
             <p>Like other nouns, <g>cladach</g> can occur on its own, without any dependents.</p>
             <p>Some examples – <xl>
                 
             </xl>
             </p>
-        </section>-->
+        </section>-\->
         <section id="deps-spr">
             <h>specifier</h>
             <p>Like other common nouns, <g>cladach</g> can occur with a <a
@@ -136,7 +199,7 @@
                 </xl>
             </p>
         </section>
-        <!--<section id="deps-mods">
+        <!-\-<section id="deps-mods">
             <h>modifiers</h>
             <p>Like other nouns, <g>cladach</g> can occur with an (attributive) <a
                 href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
@@ -144,12 +207,12 @@
                 
             </xl>
             </p>
-        </section>-->
-    </section>
+        </section>-\->
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>uses</h>
-        <!--<section id="uses-sbj">
+        <!-\-<section id="uses-sbj">
             <h>subject</h>
             <p>Like other nouns, <g>cladach</g> can be used as the subject of a <a
                 href="?xx=verbs/verbs">verb</a>.</p>
@@ -157,23 +220,23 @@
                
             </xl>
             </p>
-            <!-\-<p>Examples with demonstrative pronouns used as copular verbs – <xl>
+            <!-\\-<p>Examples with demonstrative pronouns used as copular verbs – <xl>
                 <li>
                     <gd>Seo an <m>cladach</m>.</gd>
                     <tr>This is the dog.</tr>
                     <ref text="617">td. 15</ref>
                 </li>
             </xl>
-            </p>-\->
-        </section>-->
-        <!-- <section id="uses-obj">
+            </p>-\\->
+        </section>-\->
+        <!-\- <section id="uses-obj">
             <h>object</h>
             <p>Like other nouns, <g>cladach</g> can be used as the object of a transitive verb.</p>
             <p>Some examples – <xl>
                 
             </xl>
             </p>
-        </section>-->
+        </section>-\->
         <section id="uses-comp">
             <h>complement</h>
             <p>Like other nouns, <g>cladach</g> can be used as the complement of a <a
@@ -196,9 +259,7 @@
                     </li>
                 </xl>
             </p>
-
         </section>
-
-    </section>
+    </section>-->
 
 </module>
