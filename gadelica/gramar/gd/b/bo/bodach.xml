@@ -5,29 +5,23 @@
         <en>an old man</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
     
-    <!-- <p>Examples of <g>bodach</g> modified by an attributive <a href="?xx=adjectives/adjectives"
-        >adjective</a> – <ul>
-            <li>indefinite – <xl>
-            </xl>
-            </li>
-            <li>definite – <xl>
-                </xl>
-            </li>
-        </ul>
-    </p>-->
-    
     <p>Examples of <g>bodach</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
         – <ul>
             <!--<li>indefinite – <xl>
             </xl>
             </li>-->
-            <li>definite – <xl>
-                <li>
-                    <gd>Tha am bodach anns a’ mhonadh leis a’ chù.</gd>
-                    <tr>The old man is on the moor with the dog.</tr>
-                    <ref text="617">td. 21 [229]</ref>
-                </li>
-            </xl>
+            <li>specified – 
+                <ul>
+                    <li>unmodified – 
+                        <xl>
+                            <li>
+                                <gd>Tha am bodach anns a’ mhonadh leis a’ chù.</gd>
+                                <tr>The old man is on the moor with the dog.</tr>
+                                <ref text="617">td. 21 [229]</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
             </li>
         </ul>
     </p>
@@ -53,180 +47,7 @@
         </ul>
     </p>-->
     
-    <!--<section id="forms">
-        <h>forms</h>
-        <p>The principal parts of <g>bodach</g> are – <ul>
-            <li><m>bodach</m> – nominative/dative singular, genitive plural</li>
-            <li><m>bodaich</m> – genitive singular, nominative/dative plural</li>
-        </ul>
-        </p>
-        <section id="definiteness">
-            <h>definiteness</h>
-            <p><ul>
-                <li>indefinite <ul>
-                    <li>singular <ul>
-                        <li>nominative – <m>bodach</m></li>
-                        <li>dative – le <m>bodach</m></li>
-                        <li>genitive – ceann <m>bodaich</m></li>
-                    </ul></li>
-                    <li>plural <ul>
-                        <li>nominative – <m>bodaich</m></li>
-                        <li>dative – le <m>bodaich</m></li>
-                        <li>genitive – cinn <m>bhodach</m></li>
-                    </ul></li>
-                </ul></li>
-                <li>definite <ul>
-                    <li>singular <ul>
-                        <li>nominative – <m>am bodach</m></li>
-                        <li>dative – leis <m>a’ bhodach</m></li>
-                        <li>genitive – ceann <m>a’ bhodaich</m></li>
-                    </ul></li>
-                    <li>plural <ul>
-                        <li>nominative – <m>na bodaich</m></li>
-                        <li>dative – leis <m>na bodaich</m></li>
-                        <li>genitive – cinn <m>nam bodach</m></li>
-                    </ul></li>
-                </ul></li>
-            </ul></p>
-        </section>
-        <section id="number">
-            <h>number</h>
-            <p><ul>
-                <li>singular <ul>
-                    <li>indefinite <ul>
-                        <li>nominative – <m>bodach</m></li>
-                        <li>dative – le <m>bodach</m></li>
-                        <li>genitive – ceann <m>bodaich</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>nominative – <m>am bodach</m></li>
-                        <li>dative – leis <m>a’ bhodach</m></li>
-                        <li>genitive – ceann <m>a’ bhodaich</m></li>
-                    </ul></li>
-                </ul></li>
-                <li>plural <ul>
-                    <li>indefinite <ul>
-                        <li>nominative – <m>bodaich</m></li>
-                        <li>dative – le <m>bodaich</m></li>
-                        <li>genitive – cinn <m>bhodach</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>nominative – <m>na bodaich</m></li>
-                        <li>dative – leis <m>na bodaich</m></li>
-                        <li>genitive – cinn <m>nam bodach</m></li>
-                    </ul></li>
-                </ul></li>
-            </ul></p>
-        </section>
-        <section id="case">
-            <h>case</h>
-            <p><ul>
-                <li>nominative <ul>
-                    <li>indefinite <ul>
-                        <li>singular – <m>bodach</m></li>
-                        <li>plural – <m>bodaich</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>singular – <m>am bodach</m></li>
-                        <li>plural – <m>na bodaich</m></li>
-                    </ul></li>
-                </ul></li>
-                <li>dative <ul>
-                    <li>indefinite <ul>
-                        <li>singular – le <m>bodach</m></li>
-                        <li>plural – le <m>bodaich</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>singular – leis <m>a’ bhodach</m></li>
-                        <li>plural – leis <m>na bodaich</m></li>
-                    </ul></li>
-                </ul></li>
-                <li>genitive <ul>
-                    <li>indefinite <ul>
-                        <li>singular – ceann <m>bodaich</m></li>
-                        <li>plural – cinn <m>bhodach</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>singular – ceann <m>a’ bhodaich</m></li>
-                        <li>plural – cinn <m>nam bodach</m></li>
-                    </ul></li>
-                </ul></li>
-            </ul></p>
-        </section>
-    </section>-->
-    
-    <!--<section>
-        <h>dependents</h>
-        <!-\-<section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>bodach</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-\->
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>bodach</g> can occur with a <a href="?xx=nouns/determiners"
-                >determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                <li>
-                    <gd>Tha <m>am bodach</m> anns a’ mhonadh leis a’ chù.</gd>
-                    <tr>The old man is on the moor with the dog.</tr>
-                    <ref text="617">td. 21 [229]</ref>
-                </li>
-            </xl>
-            </p>
-        </section>
-        <section id="deps-mods">
-            <h>modifiers</h>
-            <p>Like other nouns, <g>bodach</g> can occur with an (attributive) <a
-                href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>
-    </section>-->
-    
-    <!--<section>
-        <h>uses</h>
-        <section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>bodach</g> can be used as the subject of a <a href="?xx=verbs/verbs"
-                >verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                <li>
-                    <gd>Tha am <m>bodach</m> anns a’ mhonadh leis a’ chù.</gd>
-                    <tr>The old man is on the moor with the dog.</tr>
-                    <ref text="617">td. 21 [229]</ref>
-                </li>
-            </xl>
-            </p>
-            <!-\-<p>Examples with demonstrative pronouns used as copular verbs – <xl>
-                
-            </xl>
-            </p>-\->
-        </section>
-        <!-\-<section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>bodach</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-\->
-        <!-\-<section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>bodach</g> can be used as the complement of a <a
-                href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> achadh</g>
-                <en>in a field</en> – <xl>
-                    
-                </xl>
-            </p>
-        </section>-\->
-    </section>-->
+   
     
 </module>
 
