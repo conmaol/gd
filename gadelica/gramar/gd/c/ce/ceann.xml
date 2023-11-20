@@ -4,39 +4,32 @@
   <p><g>ceann</g>
     <en>head</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
 
-  <p>Examples of <g>ceann</g> modified by an attributive <a href="?xx=adjectives/adjectives"
-      >adjective</a> – <ul>
-      <li>indefinite – <xl>
-          <li>
-            <gd>A bheil ceann mór air Seumas?</gd>
-            <tr>Does James have a big head?</tr>
-            <ref text="617">td. 14</ref>
-          </li>
-        </xl>
-      </li>
-      <!--<li>definite – <xl>
-                </xl>
-            </li>-->
-    </ul>
-  </p>
-
   <p>Examples of <g>ceann</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
     – <ul>
-      <li>indefinite – <xl>
-          <li>
-            <gd>Bha ceann mór air Seumas.</gd>
-            <tr>James had a big head.</tr>
-            <ref text="617">td. 14 [adapted]</ref>
+      <li>non-specified – <ul>
+          <li>attributive adjective – <xl>
+              <li>
+                <gd>Bha ceann mór air Seumas.</gd>
+                <tr>James had a big head.</tr>
+                <ref text="617">td. 14 [adapted]</ref>
+              </li>
+            </xl>
           </li>
-        </xl>
+        </ul>
       </li>
-      <li>definite – <xl>
-          <li>
-            <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
-            <tr>What is wrong with this boy? His head is sore.</tr>
-            <ref text="617">td. 20</ref>
+      <li>pre-specified – <ul>
+          <li>possessive determiner – <g>mo cheann</g> <en>my head</en> etc. – <ul>
+              <li>unmodified – <xl>
+                  <li>
+                    <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
+                    <tr>What is wrong with this boy? His head is sore.</tr>
+                    <ref text="617">td. 20</ref>
+                  </li>
+                </xl>
+              </li>
+            </ul>
           </li>
-        </xl>
+        </ul>
       </li>
     </ul>
   </p>
@@ -51,7 +44,7 @@
         </ul>
     </p>-->
 
- <!-- <p>Examples of <g>ceann</g> as the complement of the preposition <a href="?gd=aig"><g>aig</g></a>
+  <!-- <p>Examples of <g>ceann</g> as the complement of the preposition <a href="?gd=aig"><g>aig</g></a>
     <en>at</en> – <ul>
       <!-\-<li>indefinite –</li>-\->
       <li>definite – <xl> </xl>
@@ -60,192 +53,7 @@
   </p>-->
 
 
-  <!--<section id="forms">
-    <h>forms</h>
-    <p>The principal parts of <g>ceann</g> are – <ul>
-        <li><m>ceann</m> – nominative/dative singular, genitive plural</li>
-        <li><m>cinn</m> – genitive singular, nominative/dative plural</li>
-      </ul>
-    </p>
-    <section id="definiteness">
-      <h>definiteness</h>
-      <p><ul>
-          <li>indefinite <ul>
-              <li>singular <ul>
-                  <li>nominative – <m>ceann</m></li>
-                  <li>dative – ann an <m>ceann</m></li>
-                  <li>genitive – taobh <m>cinn</m></li>
-                </ul></li>
-              <li>plural <ul>
-                  <li>nominative – <m>cinn</m></li>
-                  <li>dative – ann an <m>cinn</m></li>
-                  <li>genitive – taobhan <m>cheann</m></li>
-                </ul></li>
-            </ul></li>
-          <li>definite <ul>
-              <li>singular <ul>
-                  <li>nominative – <m>an ceann</m></li>
-                  <li>dative – anns <m>a’ cheann</m></li>
-                  <li>genitive – taobh <m>a’ chinn</m></li>
-                </ul></li>
-              <li>plural <ul>
-                  <li>nominative – <m>na cinn</m></li>
-                  <li>dative – anns <m>na cinn</m></li>
-                  <li>genitive – taobhan <m>nan ceann</m></li>
-                </ul></li>
-            </ul></li>
-        </ul></p>
-    </section>
-    <section id="number">
-      <h>number</h>
-      <p><ul>
-          <li>singular <ul>
-              <li>indefinite <ul>
-                  <li>nominative – <m>ceann</m></li>
-                  <li>dative – ann an <m>ceann</m></li>
-                  <li>genitive – taobh <m>cinn</m></li>
-                </ul></li>
-              <li>definite <ul>
-                  <li>nominative – <m>an ceann</m></li>
-                  <li>dative – anns <m>a’ cheann</m></li>
-                  <li>genitive – taobh <m>a’ chinn</m></li>
-                </ul></li>
-            </ul></li>
-          <li>plural <ul>
-              <li>indefinite <ul>
-                  <li>nominative – <m>cinn</m></li>
-                  <li>dative – ann an <m>cinn</m></li>
-                  <li>genitive – taobhan <m>cheann</m></li>
-                </ul></li>
-              <li>definite <ul>
-                  <li>nominative – <m>na cinn</m></li>
-                  <li>dative – anns <m>na cinn</m></li>
-                  <li>genitive – taobhan <m>nan ceann</m></li>
-                </ul></li>
-            </ul></li>
-        </ul></p>
-    </section>
-    <section id="case">
-      <h>case</h>
-      <p><ul>
-          <li>nominative <ul>
-              <li>indefinite <ul>
-                  <li>singular – <m>ceann</m></li>
-                  <li>plural – <m>cinn</m></li>
-                </ul></li>
-              <li>definite <ul>
-                  <li>singular – <m>an ceann</m></li>
-                  <li>plural – <m>na cinn</m></li>
-                </ul></li>
-            </ul></li>
-          <li>dative <ul>
-              <li>indefinite <ul>
-                  <li>singular – ann an <m>ceann</m></li>
-                  <li>plural – ann an <m>cinn</m></li>
-                </ul></li>
-              <li>definite <ul>
-                  <li>singular – anns <m>a’ cheann</m></li>
-                  <li>plural – anns <m>na cinn</m></li>
-                </ul></li>
-            </ul></li>
-          <li>genitive <ul>
-              <li>indefinite <ul>
-                  <li>singular – taobh <m>cinn</m></li>
-                  <li>plural – taobhan <m>cheann</m></li>
-                </ul></li>
-              <li>definite <ul>
-                  <li>singular – taobh <m>a’ chinn</m></li>
-                  <li>plural – taobhan <m>nan ceann</m></li>
-                </ul></li>
-            </ul></li>
-        </ul></p>
-    </section>
-  </section>-->
-
-  <!--<section>
-    <h>dependents</h>
-    <!-\-<section id="deps-bare">
-      <h>bare</h>
-      <p>Like other nouns, <g>ceann</g> can occur on its own, without any dependents.</p>
-      <p>Some examples – <xl>
-        
-      </xl>
-      </p>
-    </section>-\->
-    <section id="deps-spr">
-      <h>specifier</h>
-      <p>Like other common nouns, <g>ceann</g> can occur with a <a href="?xx=nouns/determiners"
-          >determiner</a> as pre-specifier.</p>
-      <!-\-<p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                
-            </xl>
-            </p>-\->
-      <p>Examples with a <a href="?xx=nouns/possessive_determiners">possessive determiner</a> – <xl>
-          <li>
-            <gd>Dé tha ceàrr air a’ ghille seo? Tha <m>a cheann</m> goirt.</gd>
-            <tr>What is wrong with this boy? His head is sore.</tr>
-            <ref text="617">td. 20</ref>
-          </li>
-        </xl>
-      </p>
-    </section>
-    <section id="deps-mods">
-      <h>modifiers</h>
-      <p>Like other nouns, <g>ceann</g> can occur with an (attributive) <a
-          href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
-      <p>Some examples – <xl>
-          <li>
-            <gd>A bheil <m>ceann mór</m> air Seumas?</gd>
-            <tr>Does James have a big head?</tr>
-            <ref text="617">td. 14</ref>
-          </li>
-        </xl>
-      </p>
-    </section>
-  </section>-->
-
-  <!--<section>
-    <h>uses</h>
-    <section id="uses-sbj">
-      <h>subject</h>
-      <p>Like other nouns, <g>ceann</g> can be used as the subject of a <a href="?xx=verbs/verbs"
-          >verb</a>.</p>
-      <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-          <li>
-            <gd>A bheil <m>ceann</m> mór air Seumas?</gd>
-            <tr>Does James have a big head?</tr>
-            <ref text="617">td. 14</ref>
-          </li>
-          <li>
-            <gd>Dé tha ceàrr air a’ ghille seo? Tha a <m>cheann</m> goirt.</gd>
-            <tr>What is wrong with this boy? His head is sore.</tr>
-            <ref text="617">td. 20</ref>
-          </li>
-        </xl>
-      </p>
-    </section>
-    <!-\-<section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-\->
-    <!-\-<section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>sgoil</g> can be used as the complement of a <a
-                href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> sgoil</g>
-                <en>in a school</en> – <xl>
-                    
-                </xl>
-            </p>
-        </section>-\->
-  </section>-->
-
-
-
+  
 
   <!--<p>cf. <a href="?gd=os_cionn">os cionn</a>
     <en>above</en></p>
