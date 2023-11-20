@@ -40,22 +40,24 @@
                 ><g>an</g></a>
         <en>in</en> – <ul>
             <!--<li>indefinite –</li>-->
-            <li>specified – <g>anns an achadh</g>
-                <en>in the field</en> – 
-                <ul>
-                    <li>unmodified – <xl>
-                            <li>
-                                <gd>Tha Màiri agus Calum fuar ag obair anns an achadh an diugh.</gd>
-                                <tr>Mary and Calum are cold working in the field today.</tr>
-                                <ref text="617">td. 6–7 [adapted]</ref>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>anns an achadh</g>
+                        <en>in the field</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Tha Màiri agus Calum fuar ag obair anns an achadh an
+                                            diugh.</gd>
+                                        <tr>Mary and Calum are cold working in the field today.</tr>
+                                        <ref text="617">td. 6–7 [adapted]</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Nach eil an cù anns an achadh? Chan eil.</gd>
+                                        <tr>Isn’t the dog in the field? No, it isn’t.</tr>
+                                        <ref text="617">td. 11 [adapted]</ref>
+                                    </li>
+                                </xl>
                             </li>
-                            <li>
-                                <gd>Nach eil an cù anns an achadh? Chan eil.</gd>
-                                <tr>Isn’t the dog in the field? No, it isn’t.</tr>
-                                <ref text="617">td. 11 [adapted]</ref>
-                            </li>
-                        </xl>
-                    </li>
+                        </ul></li>
                 </ul>
             </li>
         </ul>

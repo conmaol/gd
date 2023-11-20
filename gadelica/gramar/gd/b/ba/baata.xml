@@ -18,14 +18,18 @@
                     </li>
                 </ul>
             </li>
-            <li>specified – <ul>
-                    <li>unmodified – <xl>
-                            <li>
-                                <gd>Tha am bàta air a’ chladach.</gd>
-                                <tr>The boat is on the shore.</tr>
-                                <ref text="617">td. 17</ref>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>am bàta</g>
+                        <en>the boat</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Tha am bàta air a’ chladach.</gd>
+                                        <tr>The boat is on the shore.</tr>
+                                        <ref text="617">td. 17</ref>
+                                    </li>
+                                </xl>
                             </li>
-                        </xl>
+                        </ul>
                     </li>
                 </ul>
             </li>
@@ -45,20 +49,23 @@
                 ><g>an</g></a>
         <en>in</en> – <ul>
             <!--<li>indefinite –</li>-->
-            <li>specified – <g>anns a bhàta</g>
-                <en>in the boat</en> – <ul>
-                    <li>unmodified – <xl>
-                            <!--<li>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>anns a’ bhàta</g>
+                        <en>in the boat</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <!--<li>
                         <gd>Tha an duine anns a’ bhàta.</gd>
                         <tr>The man is in the boat.</tr>
                         <ref text="617">td. 17</ref>
                     </li>-->
-                            <li>
-                                <gd>Cha robh duine anns a’ bhàta.</gd>
-                                <tr>There was no one in the boat.</tr>
-                                <ref text="617">td. 21</ref>
-                            </li>
-                        </xl></li>
+                                    <li>
+                                        <gd>Cha robh duine anns a’ bhàta.</gd>
+                                        <tr>There was no one in the boat.</tr>
+                                        <ref text="617">td. 21</ref>
+                                    </li>
+                                </xl></li>
+                        </ul>
+                    </li>
                 </ul>
             </li>
         </ul>
@@ -68,20 +75,18 @@
         <p><g>bàtaichean</g>
             <en>boats</en> is the plural form of <g>bàta</g>.</p>
         <p>Examples of <g>bàtaichean</g> as the object of a (transitive) <a href="?xx=verbs/verbs"
-                >verb</a> – 
-            <ul>
-                <li>non-specified –
-                <ul>
-                    <li>unmodified – 
-                        <xl>
-                            <li>
-                                <gd>Bha mi aig a’ chladach an diugh. Chunnaic mi bàtaichean air a’ mhuir.</gd>
-                                <tr>I was at the shore today. I saw boats on the sea.</tr>
-                                <ref text="617">td. 21</ref>
-                            </li>
-                        </xl>
-                    </li>
-                </ul>
+                >verb</a> – <ul>
+                <li>non-specified – <ul>
+                        <li>unmodified – <xl>
+                                <li>
+                                    <gd>Bha mi aig a’ chladach an diugh. Chunnaic mi bàtaichean air
+                                        a’ mhuir.</gd>
+                                    <tr>I was at the shore today. I saw boats on the sea.</tr>
+                                    <ref text="617">td. 21</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
                 </li>
             </ul>
         </p>

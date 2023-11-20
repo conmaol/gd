@@ -5,29 +5,25 @@
         <en>a box</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <!-- <p>Examples of <g>bocsa</g> modified by an attributive <a href="?xx=adjectives/adjectives"
-        >adjective</a> – <ul>
-            <li>indefinite – <xl>
-            </xl>
-            </li>
-            <li>definite – <xl>
-                </xl>
-            </li>
-        </ul>
-    </p>-->
-
     <p>Examples of <g>bocsa</g> as the subject of the predicative verb <a href="?gd=bi"
             ><g>bi</g></a> – <ul>
             <!--<li>indefinite – <xl>
             </xl>
             </li>-->
-            <li>definite – <xl>
-                    <li>
-                        <gd>Càit a bheil am bocsa? Tha am bocsa air a’ bhòrd.</gd>
-                        <tr>Where is the box? The box is on the table.</tr>
-                        <ref text="617">td. 20</ref>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>am bocsa</g>
+                        <en>the box</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Càit a bheil am bocsa? Tha am bocsa air a’ bhòrd.</gd>
+                                        <tr>Where is the box? The box is on the table.</tr>
+                                        <ref text="617">td. 20</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                </xl>
+                </ul>
             </li>
         </ul>
     </p>
@@ -39,13 +35,20 @@
     -->
     <p>Examples of <g>bocsa</g> as the object of a (transitive) verb – <ul>
             <!--<li>indefinite –</li>-->
-            <li>definite – <xl>
-                    <li>
-                        <gd>Có chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
-                        <tr>Who put the box on the table? Mary did.</tr>
-                        <ref text="617">td. 20</ref>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>am bocsa</g>
+                        <en>the box</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Có chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
+                                        <tr>Who put the box on the table? Mary did.</tr>
+                                        <ref text="617">td. 20</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                </xl>
+                </ul>
             </li>
         </ul>
     </p>
@@ -54,222 +57,33 @@
                 ><g>an</g></a>
         <en>in</en> – <ul>
             <!--<li>indefinite –</li>-->
-            <li>definite – <xl>
-                    <li>
-                        <gd>Dé tha anns a’ bhocsa sin? Tha uighean anns a’ bhocsa.</gd>
-                        <tr>What is in that box? There are eggs in the box.</tr>
-                        <ref text="617">td. 20</ref>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>anns a’ bhocsa</g>
+                        <en>in the box</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Dé tha anns a’ bhocsa sin? Tha uighean anns a’
+                                            bhocsa.</gd>
+                                        <tr>What is in that box? There are eggs in the box.</tr>
+                                        <ref text="617">td. 20</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Nach robh leabhar anns a’ bhocsa sin? Bha.</gd>
+                                        <tr>Wasn’t there a book in that box? Yes, there was.</tr>
+                                        <ref text="617">td. 20</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                    <li>
-                        <gd>Nach robh leabhar anns a’ bhocsa sin? Bha.</gd>
-                        <tr>Wasn’t there a book in that box? Yes, there was.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
+                </ul>
             </li>
         </ul>
     </p>
 
-    <!--<section>
-        <h>forms</h>
-        <p>The principal parts of <g>bocsa</g> are – <ul>
-                <li><m>bocsa</m> – singular</li>
-                <li><m>bocsaichean</m> – plural</li>
-            </ul>
-        </p>
-        <section id="definiteness">
-            <h>definiteness</h>
-            <p><ul>
-                    <li>indefinite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>bocsa</m></li>
-                                    <li>dative – ann am <m>bocsa</m></li>
-                                    <li>genitive – taobh <m>bocsa</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>bocsaichean</m></li>
-                                    <li>dative – ann am <m>bocsaichean</m></li>
-                                    <li>genitive – taobh <m>bhogsaichean</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>definite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>am bocsa</m></li>
-                                    <li>dative – anns <m>a’ bhogsa</m></li>
-                                    <li>genitive – taobh <m>a’ bhogsa</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>na bocsaichean</m></li>
-                                    <li>dative – anns <m>na bocsaichean</m></li>
-                                    <li>genitive – taobh <m>nam bocsaichean</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="number">
-            <h>number</h>
-            <p><ul>
-                    <li>singular <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>bocsa</m></li>
-                                    <li>dative – ann am <m>bocsa</m></li>
-                                    <li>genitive – taobh <m>bocsa</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>am bocsa</m></li>
-                                    <li>dative – anns <m>a’ bhogsa</m></li>
-                                    <li>genitive – taobh <m>a’ bhogsa</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>plural <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>bocsaichean</m></li>
-                                    <li>dative – ann am <m>bocsaichean</m></li>
-                                    <li>genitive – taobh <m>bhogsaichean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>na bocsaichean</m></li>
-                                    <li>dative – anns <m>na bocsaichean</m></li>
-                                    <li>genitive – taobh <m>nam bocsaichean</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="case">
-            <h>case</h>
-            <p><ul>
-                    <li>nominative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – <m>bocsa</m></li>
-                                    <li>plural – <m>bocsaichean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – <m>am bocsa</m></li>
-                                    <li>plural – <m>na bocsaichean</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>dative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – ann am <m>bocsa</m></li>
-                                    <li>plural – ann am <m>bocsaichean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – anns <m>a’ bhogsa</m></li>
-                                    <li>plural – anns <m>na bocsaichean</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>genitive <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – taobh <m>bocsa</m></li>
-                                    <li>plural – taobh <m>bhogsaichean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – taobh <m>a’ bhogsa</m></li>
-                                    <li>plural – taobh <m>nam bocsaichean</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-    </section>-->
 
-    <!--<section>
-        <h>dependents</h>
-        <!-\-<section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>cladach</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-\->
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>bòrd</g> can occur with a <a href="?xx=nouns/determiners"
-                    >determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                    <li>
-                        <gd>Dé tha anns <m>a’ bhocsa</m> sin? Tha uighean anns <m>a’ bhocsa</m>.
-                            Càit a bheil <m>am bocsa</m>? Tha <m>am bocsa</m> air a’ bhòrd. Có chuir
-                                <m>am bocsa</m> air a’ bhòrd? Chuir Màiri.</gd>
-                        <tr>What is in that box? There are eggs in the box. Where is the box? The
-                            box is on the table. Who put the box on the table? Mary did.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                    <li>
-                        <gd>Nach robh leabhar anns <m>a’ bhocsa</m> sin? Bha, bha Bìobull ann.</gd>
-                        <tr>Wasn’t there a book in that box? Yes, there was a Bible (in it).</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <!-\-<section id="deps-mods">
-            <h>modifiers</h>
-            <p>Like other nouns, <g>cladach</g> can occur with an (attributive) <a
-                href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-\->
-    </section>-->
 
-    <!--<section>
-        <h>uses</h>
-        <section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>bocsa</g> can be used as the subject of a <a
-                    href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                    <li>
-                        <gd>Càit a bheil am <m>bocsa</m>? Tha am <m>bocsa</m> air a’ bhòrd.</gd>
-                        <tr>Where is the box? The box is on the table.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-            <!-\-<p>Examples with demonstrative pronouns used as copular verbs – <xl>
-                <li>
-                    <gd>Seo an <m>cladach</m>.</gd>
-                    <tr>This is the dog.</tr>
-                    <ref text="617">td. 15</ref>
-                </li>
-            </xl>
-            </p>-\->
-        </section>
-        <section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>bocsa</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                    <li>
-                        <gd>Có chuir am <m>bocsa</m> air a’ bhòrd? Chuir Màiri.</gd>
-                        <tr>Who put the box on the table? Mary did.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>bocsa</g> can be used as the complement of a <a
-                    href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=an^preposition">ann am</a> bocsa</g>
-                <en>in a box</en> – <xl>
-                    <li>
-                        <gd>Dé tha <m>anns a’ bhocsa sin</m>? Tha uighean <m>anns a’
-                            bhocsa</m>.</gd>
-                        <tr>What is in that box? There are eggs in the box.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                    <li>
-                        <gd>Nach robh leabhar <m>anns a’ bhocsa sin</m>? Bha, bha Bìobull ann.</gd>
-                        <tr>Wasn’t there a book in that box? Yes, there was a Bible (in it).</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-    </section>-->
+
 
 
 

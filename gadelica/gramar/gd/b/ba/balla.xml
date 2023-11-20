@@ -7,16 +7,18 @@
 
     <p>Examples of <g>balla</g> as the subject of the predicative verb <a href="?gd=bi"
             ><g>bi</g></a> – <ul>
-            <li>specified – 
-                <ul>
-                    <li>unmodified – 
-                        <xl>
-                            <li>
-                                <gd>A bheil am balla àrd? Tha.</gd>
-                                <tr>Is the wall high? Yes, it is.</tr>
-                                <ref text="617">td. 20</ref>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>am balla</g>
+                        <en>the wall</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>A bheil am balla àrd? Tha.</gd>
+                                        <tr>Is the wall high? Yes, it is.</tr>
+                                        <ref text="617">td. 20</ref>
+                                    </li>
+                                </xl>
                             </li>
-                        </xl>
+                        </ul>
                     </li>
                 </ul>
             </li>
@@ -36,16 +38,20 @@
     <p>Examples of <g>balla</g> as the complement of the preposition <a href="?gd=air"
             ><g>air</g></a>
         <en>on</en> – <ul>
-            <li>specified – <g>air a’ bhalla</g> <en>on the wall</en> –
-                <ul>
-                    <li>unmodified –
-                        <xl>
-                            <li>
-                                <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
-                                <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
-                                <ref text="617">td. 20</ref>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>air a’ bhalla</g>
+                        <en>on the wall</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>An robh an clachair ag obair air a’ bhalla fad an latha
+                                            an dé? Bha.</gd>
+                                        <tr>Was the mason working on the wall all day yesterday?
+                                            Yes, he was.</tr>
+                                        <ref text="617">td. 20</ref>
+                                    </li>
+                                </xl>
                             </li>
-                        </xl>
+                        </ul>
                     </li>
                 </ul>
             </li>

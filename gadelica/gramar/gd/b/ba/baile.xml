@@ -42,21 +42,23 @@
                 ><g>an</g></a>
         <en>in</en> – <ul>
             <!--<li>indefinite –</li>-->
-            <li>specified – <g>anns a’ bhaile</g>
-                <en>in the town</en> –
-                <ul>
-                    <li>unmodified – <xl>
-                            <li>
-                                <gd>Tha Màiri anns a’ bhaile an diugh.</gd>
-                                <tr>Mary is in the town today.</tr>
-                                <ref text="617">td. 20 [adapted]</ref>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>anns a’ bhaile</g>
+                        <en>in the town</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Tha Màiri anns a’ bhaile an diugh.</gd>
+                                        <tr>Mary is in the town today.</tr>
+                                        <ref text="617">td. 20 [adapted]</ref>
+                                    </li>
+                                    <li>
+                                        <gd>An robh Seumas anns a’ bhaile an diugh? Bha.</gd>
+                                        <tr>Was James in the town today? Yes, he was.</tr>
+                                        <ref text="617">td. 21 [229]</ref>
+                                    </li>
+                                </xl>
                             </li>
-                            <li>
-                                <gd>An robh Seumas anns a’ bhaile an diugh? Bha.</gd>
-                                <tr>Was James in the town today? Yes, he was.</tr>
-                                <ref text="617">td. 21 [229]</ref>
-                            </li>
-                        </xl>
+                        </ul>
                     </li>
                 </ul>
             </li>
