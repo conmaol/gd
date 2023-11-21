@@ -2,38 +2,28 @@
 <module>
     <h>cnoc</h>
     <p><g>cnoc</g>
-        <en>cnoc</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+        <en>a hill</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
 
-    <p>Examples of <g>cnoc</g> modified by an attributive <a href="?xx=adjectives/adjectives"
-        >adjective</a> – <ul>
+    <p>Examples of <g>cnoc</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
+        – <ul>
             <!--<li>indefinite – <xl>
             </xl>
             </li>-->
-            <li>definite – <xl>
-            <li>
-                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc
-                            àrd.</gd>
-                        <tr>Where is the big house? The big house is on the tall hill.</tr>
-                        <ref text="617">td. 21 [229]</ref>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>an cnoc</g>
+                        <en>the hill</en> – <ul>
+                            <li>demonstrative – <xl>
+                                    <li>
+                                        <gd>Tha an cnoc seo àrd.</gd>
+                                        <tr>This hill is high.</tr>
+                                        <ref text="617">td. 20</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                </xl>
-            </li>
-        </ul>
-    </p>
-    
-    <p>Examples of <g>cnoc</g> as the subject of the predicative verb <a href="?gd=bi"
-        ><g>bi</g></a> – <ul>
-            <!--<li>indefinite – <xl>
-            </xl>
-            </li>-->
-            <li>definite – <xl>
-                <li>
-                    <gd>Tha an cnoc seo àrd.</gd>
-                    <tr>This hill is high.</tr>
-                    <ref text="617">td. 20</ref>
-                </li>
-            </xl>
+                </ul>
             </li>
         </ul>
     </p>
@@ -47,228 +37,39 @@
             <li>definite –</li>
         </ul>
     </p>-->
-    
-    <p>Examples of <g>cnoc</g> as the complement of the preposition <a href="?gd=air"
-        ><g>air</g></a>
+
+    <p>Examples of <g>cnoc</g> as the complement of the preposition <a href="?gd=air"><g>air</g></a>
         <en>on</en> – <ul>
             <!--<li>indefinite –</li>-->
-            <li>definite – <g>air a’ chnoc</g>
-                <en>on the hill</en> – <xl>
-                    <li>
-                        <gd>Dé tha air a’ chnoc? Tha taigh mór
-                            air a’ chnoc.</gd>
-                        <tr>What is on the hill? There is a big house on the
-                            hill.</tr>
-                        <ref text="617">td. 20</ref>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>air a’ chnoc</g>
+                        <en>on the hill</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Dé tha air a’ chnoc? Tha taigh mór air a’ chnoc.</gd>
+                                        <tr>What is on the hill? There is a big house on the
+                                            hill.</tr>
+                                        <ref text="617">td. 20</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                            <li>attributive adjective – <xl>
+                                    <li>
+                                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc
+                                            àrd.</gd>
+                                        <tr>Where is the big house? The big house is on the tall
+                                            hill.</tr>
+                                        <ref text="617">td. 21 [229]</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                    <li>
-                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc
-                            àrd.</gd>
-                        <tr>Where is the big house? The big house is on the tall hill.</tr>
-                        <ref text="617">td. 21 [229]</ref>
-                    </li>
-                </xl>
+                </ul>
             </li>
         </ul>
     </p>
 
 
-    <!--<section id="forms">
-        <h>forms</h>
-        <p>The principal parts of <g>cnoc</g> are – <ul>
-                <li><m>cnoc</m> – nominative/dative singular, genitive plural</li>
-                <li><m>cnuic</m> – genitive singular, nominative/dative plural</li>
-            </ul>
-        </p>
-        <section id="definiteness">
-            <h>definiteness</h>
-            <p><ul>
-                    <li>indefinite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>cnoc</m></li>
-                                    <li>dative – air <m>cnoc</m></li>
-                                    <li>genitive – taobh <m>cnuic</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>cnuic</m></li>
-                                    <li>dative – air <m>cnuic</m></li>
-                                    <li>genitive – taobh <m>chnoc</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>definite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>an cnoc</m></li>
-                                    <li>dative – air <m>a’ chnoc</m></li>
-                                    <li>genitive – taobh <m>a’ chnuic</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>na cnuic</m></li>
-                                    <li>dative – air <m>na cnuic</m></li>
-                                    <li>genitive – taobh <m>nan cnoc</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="number">
-            <h>number</h>
-            <p><ul>
-                    <li>singular <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>cnoc</m></li>
-                                    <li>dative – air <m>cnoc</m></li>
-                                    <li>genitive – taobh <m>cnuic</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>an cnoc</m></li>
-                                    <li>dative – air <m>a’ chnoc</m></li>
-                                    <li>genitive – taobh <m>a’ chnuic</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>plural <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>cnuic</m></li>
-                                    <li>dative – air <m>cnuic</m></li>
-                                    <li>genitive – taobh <m>chnoc</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>na cnuic</m></li>
-                                    <li>dative – air <m>na cnuic</m></li>
-                                    <li>genitive – taobh <m>nan cnoc</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="case">
-            <h>case</h>
-            <p><ul>
-                    <li>nominative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – <m>cnoc</m></li>
-                                    <li>plural – <m>cnuic</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – <m>an cnoc</m></li>
-                                    <li>plural – <m>na cnuic</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>dative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – air <m>cnoc</m></li>
-                                    <li>plural – air <m>cnuic</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – air <m>a’ chnoc</m></li>
-                                    <li>plural – air <m>na cnuic</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>genitive <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – taobh <m>cnuic</m></li>
-                                    <li>plural – taobh <m>chnoc</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – taobh <m>a’ chnuic</m></li>
-                                    <li>plural – taobh <m>nan cnoc</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-    </section>-->
-
-    <!--<section>
-        <h>dependents</h>
-        <!-\-<section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>cnoc</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-\->
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>cnoc</g> can occur with a <a href="?xx=nouns/determiners"
-                    >determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                    <li>
-                        <gd>Tha <m>an cnoc</m> seo àrd. Dé tha air <m>a’ chnoc</m>? Tha taigh mór
-                            air <m>a’ chnoc</m>.</gd>
-                        <tr>This hill is high. What is on the hill? There is a big house on the
-                            hill.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <section id="deps-mods">
-            <h>modifiers</h>
-            <p>Like other nouns, <g>cnoc</g> can occur with an (attributive) <a
-                    href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
-            <p>Some examples – <xl>
-                    <li>
-                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ <m>chnoc
-                            àrd</m>.</gd>
-                        <tr>Where is the big house? The big house is on the tall hill.</tr>
-                        <ref text="617">td. 21 [229]</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-    </section>-->
-
-    <!--<section>
-        <h>uses</h>
-        <section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>cnoc</g> can be used as the subject of a <a
-                    href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                    <li>
-                        <gd>Tha an <m>cnoc</m> seo àrd.</gd>
-                        <tr>This hill is high.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-            <!-\-<p>Examples with demonstrative pronouns used as copular verbs – <xl>
-                <li>
-                    <gd>Seo an <m>cnoc</m>.</gd>
-                    <tr>This is the cnoc.</tr>
-                    <ref text="617">td. 15</ref>
-                </li>
-            </xl>
-            </p>-\->
-        </section>
-        <!-\-<section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>cnoc</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-\->
-        <section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>cnoc</g> can be used as the complement of a <a
-                    href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=air">air</a> cnoc</g>
-                <en>on a hill</en> – <xl>
-                    <li>
-                        <gd>Tha an cnoc seo àrd. Dé tha <m>air a’ chnoc</m>? Tha taigh mór <m>air a’
-                                chnoc</m>.</gd>
-                        <tr>This hill is high. What is on the hill? There is a big house on the
-                            hill.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                    <li>
-                        <gd>Càit a bheil an taigh mór? Tha an taigh mór <m>air a’ chnoc
-                            àrd</m>.</gd>
-                        <tr>Where is the big house? The big house is on the tall hill.</tr>
-                        <ref text="617">td. 21 [229]</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-    </section>-->
 
 </module>
