@@ -5,64 +5,60 @@
         <en>a dog</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <p>Examples of <g>cù</g> modified by an attributive <a href="?xx=adjectives/adjectives"
-            >adjective</a> – <ul>
-            <!--<li>indefinite – <xl>
-            </xl>
-            </li>-->
-            <li>definite – <xl>
-                    <!--<li>
-                        <gd>Tha an cù dubh aig an dorus.</gd>
-                        <tr>The black dog is at the door.</tr>
-                        <ref text="617">td. 9</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil an cù dubh anns an achadh còmhla ris an duine?</gd>
-                        <tr>Is the black dog in the field with the man?</tr>
-                        <ref text="617">td. 14 [227]</ref>
-                    </li>-->
-                    <li>
-                        <gd>Chan eil an cù dubh anns an achadh an diugh.</gd>
-                        <tr>The black dog is not in the field today.</tr>
-                        <ref text="617">td. 14 [227]</ref>
-                    </li>
-                </xl>
-            </li>
-        </ul>
-    </p>
-
     <p>Examples of <g>cù</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a> – <ul>
             <!--<li>indefinite – <xl>
             </xl>
             </li>-->
-            <li>definite – <xl>
-                    <li>
-                        <gd>A bheil an cù luath?</gd>
-                        <tr>Is the dog swift?</tr>
-                        <ref text="617">td. 14</ref>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>an cù</g>
+                        <en>the dog</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>A bheil an cù luath? Chan eil.</gd>
+                                        <tr>Is the dog swift? No, it isn’t.</tr>
+                                        <ref text="617">td. 14</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Bha an cù aig an dorus.</gd>
+                                        <tr>The dog was at the door.</tr>
+                                        <ref text="617">td. 6 [adapted]</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Chan eil an cù mòr.</gd>
+                                        <tr>The dog is not big.</tr>
+                                        <ref text="617">td. 6 [adapted]</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                            <li>attributive adjective – <xl>
+                                    <li>
+                                        <gd>Chan eil an cù dubh anns an achadh an diugh.</gd>
+                                        <tr>The black dog is not in the field today.</tr>
+                                        <ref text="617">td. 14 [227]</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                    <li>
-                        <gd>Bha an cù aig an dorus.</gd>
-                        <tr>The dog was at the door.</tr>
-                        <ref text="617">td. 6 [adapted]</ref>
-                    </li>
-                    <li>
-                        <gd>Chan eil an cù mòr.</gd>
-                        <tr>The dog is not big.</tr>
-                        <ref text="617">td. 6 [adapted]</ref>
-                    </li>
-                </xl>
+                </ul>
             </li>
         </ul>
     </p>
     <p>Examples of <g>cù</g> as the subject of a demonstrative pronoun used as a copular verb – <ul>
-            <li>definite – <xl>
-                    <li>
-                        <gd>Seo an cù.</gd>
-                        <tr>This is the dog.</tr>
-                        <ref text="617">td. 15</ref>
+            <li>pre-specified – <ul>
+                    <li>definite article – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Seo an cù.</gd>
+                                        <tr>This is the dog.</tr>
+                                        <ref text="617">td. 15</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                </xl></li>
+                </ul>
+            </li>
         </ul>
     </p>
     <!--<p>Examples of <g>cù</g> as the subject of other verbs – <ul>
@@ -72,13 +68,16 @@
     </p>
     -->
     <p>Examples of <g>cù</g> as the object of a (transitive) verb – <ul>
-            <li>indefinite – <xl>
-                    <li>
-                        <gd>Chunnaic mi cù aig an dorus.</gd>
-                        <tr>I saw a dog at the door.</tr>
-                        <ref text="617">td. 6</ref>
+            <li>non-specified – <ul>
+                    <li>unmodified – <xl>
+                            <li>
+                                <gd>Chunnaic mi cù aig an dorus.</gd>
+                                <tr>I saw a dog at the door.</tr>
+                                <ref text="617">td. 6</ref>
+                            </li>
+                        </xl>
                     </li>
-                </xl>
+                </ul>
             </li>
             <!--<li>definite –</li>-->
         </ul>
@@ -87,263 +86,42 @@
     <p>Examples of <g>cù</g> as the complement of the preposition <a href="?gd=le"><g>le</g></a>
         <en>with</en> – <ul>
             <!--<li>indefinite –</li>-->
-            <li>definite – <xl>
-                    <li>
-                        <gd>Tha am bodach anns a’ mhonadh leis a’ chù.</gd>
-                        <tr>The old man is on the moor with the dog.</tr>
-                        <ref text="617">td. 21 [229]</ref>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>leis a’ chù</g>
+                        <en>with the dog</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Tha am bodach anns a’ mhonadh leis a’ chù.</gd>
+                                        <tr>The old man is on the moor with the dog.</tr>
+                                        <ref text="617">td. 21 [229]</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                </xl>
+                </ul>
             </li>
         </ul>
     </p>
     <p>Examples of <g>cù</g> as the complement of the preposition <a href="?gd=ri"><g>ri</g></a> – <ul>
             <!--<li>indefinite –</li>-->
-            <li>definite – <xl>
-                    <li>
-                        <gd>Nach robh Calum agus Màiri a’ cluich còmhla ris a’ chù? Cha robh.</gd>
-                        <tr>Weren’t Malcolm and Mary playing with the dog? No, they weren’t.</tr>
-                        <ref text="617">td. 21 [230]</ref>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>ris a’ chù</g> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Nach robh Calum agus Màiri a’ cluich còmhla ris a’ chù?
+                                            Cha robh.</gd>
+                                        <tr>Weren’t Malcolm and Mary playing with the dog? No, they
+                                            weren’t.</tr>
+                                        <ref text="617">td. 21 [230]</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                </xl>
+                </ul>
             </li>
         </ul>
     </p>
-
-    <!--<section id="forms">
-        <h>forms</h>
-        <p>The principal parts of <g>cù</g> are – <ul>
-                <li><m>cù</m> – nominative/dative singular</li>
-                <li><m>coin</m> – genitive singular, nominative/dative plural</li>
-                <li><m>con</m> – genitive plural</li>
-            </ul>
-        </p>
-        <section id="definiteness">
-            <h>definiteness</h>
-            <p><ul>
-                    <li>indefinite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>cù</m></li>
-                                    <li>dative – le <m>cù</m></li>
-                                    <li>genitive – earball <m>coin</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>coin</m></li>
-                                    <li>dative – le <m>coin</m></li>
-                                    <li>genitive – earbaill <m>chon</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>definite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>an cù</m></li>
-                                    <li>dative – leis <m>a’ chù</m></li>
-                                    <li>genitive – earball <m>a’ choin</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>na coin</m></li>
-                                    <li>dative – leis <m>na coin</m></li>
-                                    <li>genitive – earbaill <m>nan con</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="number">
-            <h>number</h>
-            <p><ul>
-                    <li>singular <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>cù</m></li>
-                                    <li>dative – le <m>cù</m></li>
-                                    <li>genitive – earball <m>coin</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>an cù</m></li>
-                                    <li>dative – leis <m>a’ chù</m></li>
-                                    <li>genitive – earball <m>a’ choin</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>plural <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>coin</m></li>
-                                    <li>dative – le <m>coin</m></li>
-                                    <li>genitive – earbaill <m>chon</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>na coin</m></li>
-                                    <li>dative – leis <m>na coin</m></li>
-                                    <li>genitive – earbaill <m>nan con</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="case">
-            <h>case</h>
-            <p><ul>
-                    <li>nominative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – <m>cù</m></li>
-                                    <li>plural – <m>coin</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – <m>an cù</m></li>
-                                    <li>plural – <m>na coin</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>dative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – le <m>cù</m></li>
-                                    <li>plural – le <m>coin</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – leis <m>a’ chù</m></li>
-                                    <li>plural – leis <m>na coin</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>genitive <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – earball <m>coin</m></li>
-                                    <li>plural – earbaill <m>chon</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – earball <m>a’ choin</m></li>
-                                    <li>plural – earbaill <m>nan con</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-    </section>-->
-
-    <!--<section>
-        <h>dependents</h>
-        <section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>cù</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                    <li>
-                        <gd>Chunnaic mi <m>cù</m> aig an dorus.</gd>
-                        <tr>I saw a dog at the door.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>cù</g> can occur with a <a href="?xx=nouns/determiners"
-                    >determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                    <li>
-                        <gd>Tha <m>an cù</m> dubh.</gd>
-                        <tr>The dog is black.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                    <li>
-                        <gd>Tha <m>an cù</m> aig an dorus.</gd>
-                        <tr>The dog is at the door.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                    <li>
-                        <gd>Tha an duine anns a’ mhonadh leis <m>a’ chù</m>.</gd>
-                        <tr>The man is on the moor with the dog.</tr>
-                        <ref text="617">td. 19</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <section id="deps-mods">
-            <h>modifiers</h>
-            <p>Like other nouns, <g>cù</g> can occur with an (attributive) <a
-                    href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
-            <p>Some examples – <xl>
-                    <li>
-                        <gd>Tha an <m>cù dubh</m> aig an dorus.</gd>
-                        <tr>The black dog is at the door.</tr>
-                        <ref text="617">td. 9</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil an <m>cù dubh</m> anns an achadh còmhla ris an duine?</gd>
-                        <tr>Is the black dog in the field with the man?</tr>
-                        <ref text="617">td. 14 [227]</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-    </section>-->
-
-    <!--<section>
-        <h>uses</h>
-        <section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>cù</g> can be used as the subject of a <a href="?xx=verbs/verbs"
-                    >verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                    <li>
-                        <gd>Tha an <m>cù</m> mòr.</gd>
-                        <tr>The dog is big.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil an <m>cù</m> aig an dorus?</gd>
-                        <tr>Is the dog at the door?</tr>
-                        <ref text="617">td. 11</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil an <m>cù</m> luath?</gd>
-                        <tr>Is the dog swift?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>Chan eil an <m>cù</m> dubh anns an achadh an diugh.</gd>
-                        <tr>The black dog is not in the field today.</tr>
-                        <ref text="617">td. 14 [227]</ref>
-                    </li>
-                </xl>
-            </p>
-            <p>Examples with demonstrative pronouns used as copular verbs – <xl>
-                    <li>
-                        <gd>Seo an <m>cù</m>.</gd>
-                        <tr>This is the dog.</tr>
-                        <ref text="617">td. 15</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>cù</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                    <li>
-                        <gd>Chunnaic mi <m>cù</m> aig an dorus.</gd>
-                        <tr>I saw a dog at the door.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>cù</g> can be used as the complement of a <a
-                    href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=le">le</a> cù</g>
-                <en>with a dog</en> – <xl>
-                    <li>
-                        <gd>Tha am bodach anns a’ mhonadh <m>leis a’ chù</m>.</gd>
-                        <tr>The old man is on the moor with the dog.</tr>
-                        <ref text="617">td. 21 [229]</ref>
-                    </li>
-                </xl>
-            </p>
-            <p>Examples with <g><a href="?gd=ri">ri</a> cù</g> – <xl>
-                    <li>
-                        <gd>Nach robh Calum agus Màiri a’ cluich còmhla <m>ris a’ chù</m>? Cha robh,
-                            bha iad anns a’ bhaile.</gd>
-                        <tr>Weren’t Malcolm and Mary playing with the dog? No, they weren’t, they
-                            were in the town.</tr>
-                        <ref text="617">td. 21 [230]</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-    </section>-->
 
 </module>

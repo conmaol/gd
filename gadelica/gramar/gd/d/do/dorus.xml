@@ -21,13 +21,20 @@
             <!--<li>indefinite – <xl>
             </xl>
             </li>-->
-            <li>definite – <xl>
-                    <li>
-                        <gd>Tha an dorus mór.</gd>
-                        <tr>The door is big.</tr>
-                        <ref text="617">td. 6</ref>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>an dorus</g>
+                        <en>the door</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Tha an dorus mór.</gd>
+                                        <tr>The door is big.</tr>
+                                        <ref text="617">td. 6</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                </xl>
+                </ul>
             </li>
         </ul>
     </p>
@@ -46,24 +53,30 @@
             ><g>aig</g></a>
         <en>at</en> – <ul>
             <!--<li>indefinite –</li>-->
-            <li>definite – <g>aig an dorus</g>
-                <en>at the door</en> – <xl>
-                    <li>
-                        <gd>Chunnaic mi cù aig an dorus.</gd>
-                        <tr>I saw a dog at the door.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                    <!--<li>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>aig an dorus</g>
+                        <en>at the door</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Chunnaic mi cù aig an dorus.</gd>
+                                        <tr>I saw a dog at the door.</tr>
+                                        <ref text="617">td. 6</ref>
+                                    </li>
+                                    <!--<li>
                     <gd>A bheil an cù aig an dorus?</gd>
                     <tr>Is the dog at the door?</tr>
                     <ref text="617">td. 11</ref>
                 </li>-->
-                    <li>
-                        <gd>A bheil an gille aig an dorus? Chan eil.</gd>
-                        <tr>Is the boy is at the door?</tr>
-                        <ref text="617">td. 15 [adapted]</ref>
+                                    <li>
+                                        <gd>A bheil an gille aig an dorus? Chan eil.</gd>
+                                        <tr>Is the boy at the door?</tr>
+                                        <ref text="617">td. 15 [adapted]</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                </xl>
+                </ul>
             </li>
         </ul>
     </p>
