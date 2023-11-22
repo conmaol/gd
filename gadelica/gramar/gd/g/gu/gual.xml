@@ -5,186 +5,35 @@
         <en>coal</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <section id="forms">
-        <h>forms</h>
-        <p>The principal parts of <g>gual</g> are – <ul>
-                <li><m>gual</m> – nominative/dative singular</li>
-                <li><m>guail</m> – genitive singular</li>
-                <!--<li><m>gualtean</m> – nominative/dative/genitive plural</li>-->
-            </ul>
-        </p>
-        <section id="definiteness">
-            <h>definiteness</h>
-            <p><ul>
-                    <li>indefinite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>gual</m></li>
-                                    <li>dative – le <m>gual</m></li>
-                                    <li>genitive – dath <m>guail</m></li>
-                                </ul></li>
-                            <!--<li>plural <ul>
-                        <li>nominative – <m>gualtean</m></li>
-                        <li>dative – ann an <m>gualtean</m></li>
-                        <li>genitive – dorsan <m>gualtean</m></li>
-                    </ul></li>-->
-                        </ul></li>
-                    <li>definite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>an gual</m></li>
-                                    <li>dative – leis <m>a’ ghual</m></li>
-                                    <li>genitive – dath <m>a’ ghuail</m></li>
-                                </ul></li>
-                            <!--<li>plural <ul>
-                        <li>nominative – <m>na gualtean</m></li>
-                        <li>dative – anns <m>na gualtean</m></li>
-                        <li>genitive – dorsan <m>nan gualtean</m></li>
-                    </ul></li>-->
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="number">
-            <h>number</h>
-            <p><ul>
-                    <li>singular <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>gual</m></li>
-                                    <li>dative – le <m>gual</m></li>
-                                    <li>genitive – dath <m>guail</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>an gual</m></li>
-                                    <li>dative – leis <m>a’ ghual</m></li>
-                                    <li>genitive – dath <m>a’ ghuail</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <!--<li>plural <ul>
-                    <li>indefinite <ul>
-                        <li>nominative – <m>gualtean</m></li>
-                        <li>dative – ann an <m>gualtean</m></li>
-                        <li>genitive – dorsan <m>gualtean</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>nominative – <m>na gualtean</m></li>
-                        <li>dative – anns <m>na gualtean</m></li>
-                        <li>genitive – dorsan <m>nan gualtean</m></li>
-                    </ul></li>
-                </ul></li>-->
-                </ul></p>
-        </section>
-        <section id="case">
-            <h>case</h>
-            <p><ul>
-                    <li>nominative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – <m>gual</m></li>
-                                    <!--<li>plural – <m>gualtean</m></li>-->
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – <m>an gual</m></li>
-                                    <!--<li>plural – <m>na gualtean</m></li>-->
-                                </ul></li>
-                        </ul></li>
-                    <li>dative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – le <m>gual</m></li>
-                                    <!--<li>plural – ann an <m>gualtean</m></li>-->
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – leis <m>a’ ghual</m></li>
-                                    <!--<li>plural – anns <m>na gualtean</m></li>-->
-                                </ul></li>
-                        </ul></li>
-                    <li>genitive <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – dath <m>guail</m></li>
-                                    <!--<li>plural – dorsan <m>gualtean</m></li>-->
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – dath <m>a’ ghuail</m></li>
-                                    <!--<li>plural – dorsan <m>nan gualtean</m></li>-->
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-    </section>
-
-    <section>
-        <h>dependents</h>
-        <section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>gual</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                    <li>
-                        <gd>Tha <m>gual</m> air an teine.</gd>
-                        <tr>There is coal on the fire.</tr>
-                        <ref text="617">td. 14</ref>
+    <p>Examples of <g>gual</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
+        – <ul>
+            <li>non-specified – <ul>
+                    <li>unmodified – <xl>
+                            <li>
+                                <gd>Tha gual air an teine.</gd>
+                                <tr>There is coal on the fire.</tr>
+                                <ref text="617">td. 14</ref>
+                            </li>
+                        </xl>
                     </li>
-                </xl>
-            </p>
-        </section>
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>gual</g> can occur with a <a
-                    href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                    <li>
-                        <gd>Càit a bheil <m>an gual</m>?</gd>
-                        <tr>Where is the coal?</tr>
-                        <ref text="617">td. 15 [227]</ref>
+                </ul>
+            </li>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>an gual</g>
+                        <en>the coal</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Càit a bheil an gual?</gd>
+                                        <tr>Where is the coal?</tr>
+                                        <ref text="617">td. 15 [227]</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                </xl>
-            </p>
-        </section>
-        <!--<section id="deps-mods">
-            <h>modifiers</h>
-            <p>Like other nouns, <g>achadh</g> can occur with an (attributive) <a href="?xx=adjectives/adjectives"
-                >adjective</a> (post-)modifier.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-    </section>
-
-    <section>
-        <h>uses</h>
-        <section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>gual</g> can be used as the subject of a <a
-                    href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                    <li>
-                        <gd>Tha <m>gual</m> air an teine.</gd>
-                        <tr>There is coal on the fire.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>Càit a bheil an <m>gual</m>?</gd>
-                        <tr>Where is the coal?</tr>
-                        <ref text="617">td. 15 [227]</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <!--<section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <!--<section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>sgoil</g> can be used as the complement of a <a
-                href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> sgoil</g>
-                <en>in a school</en> – <xl>
-                    
-                </xl>
-            </p>
-        </section>-->
-    </section>
-
+                </ul>
+            </li>
+        </ul>
+    </p>
 
 </module>

@@ -2,179 +2,22 @@
 <module>
     <h>iolair</h>
     <p><g>iolair</g>
-        <en>eagle</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+        <en>an eagle</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
 
-    <section id="forms">
-        <h>forms</h>
-        <p>The principal parts of <g>iolair</g> are – <ul>
-                <li><m>iolair</m> – nominative/dative singular</li>
-                <li><m>iolaire</m> – genitive singular</li>
-                <li><m>iolairean</m> – plural</li>
-            </ul>
-        </p>
-        <section id="definiteness">
-            <h>definiteness</h>
-            <p><ul>
-                    <li>indefinite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>iolair</m></li>
-                                    <li>dative – le <m>iolair</m></li>
-                                    <li>genitive – earball <m>iolaire</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>iolairean</m></li>
-                                    <li>dative – le <m>iolairean</m></li>
-                                    <li>genitive – earbaill <m>iolairean</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>definite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>an iolair</m></li>
-                                    <li>dative – leis <m>an iolair</m></li>
-                                    <li>genitive – earball <m>na h-iolaire</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>na h-iolairean</m></li>
-                                    <li>dative – leis <m>na h-iolairean</m></li>
-                                    <li>genitive – earbaill <m>nan iolairean</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="number">
-            <h>number</h>
-            <p><ul>
-                    <li>singular <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>iolair</m></li>
-                                    <li>dative – le <m>iolair</m></li>
-                                    <li>genitive – earball <m>iolaire</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>an iolair</m></li>
-                                    <li>dative – leis <m>an iolair</m></li>
-                                    <li>genitive – earball <m>na h-iolaire</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>plural <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>iolairean</m></li>
-                                    <li>dative – le <m>iolairean</m></li>
-                                    <li>genitive – earbaill <m>iolairean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>na h-iolairean</m></li>
-                                    <li>dative – leis <m>na iolairean</m></li>
-                                    <li>genitive – earbaill <m>nan iolairean</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="case">
-            <h>case</h>
-            <p><ul>
-                    <li>nominative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – <m>iolair</m></li>
-                                    <li>plural – <m>iolairean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – <m>an iolair</m></li>
-                                    <li>plural – <m>na h-iolairean</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>dative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – le <m>iolair</m></li>
-                                    <li>plural – le <m>iolairean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – leis <m>an iolair</m></li>
-                                    <li>plural – leis <m>na h-iolairean</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>genitive <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – earball <m>iolaire</m></li>
-                                    <li>plural – earbaill <m>iolairean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – earball <m>na h-iolaire</m></li>
-                                    <li>plural – earbaill <m>nan iolairean</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-    </section>
-
-
-    <section>
-        <h>dependents</h>
-        <!--<section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>achadh</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <!--<section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>achadh</g> can occur with a <a
-                href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-            </xl>
-            </p>
-        </section>-->
-        <section id="deps-mods">
-            <h>modifiers</h>
-            <p>Like other nouns, <g>iolair</g> can occur with an (attributive) <a href="?xx=adjectives/adjectives"
-                >adjective</a> (post-)modifier.</p>
-            <p>Some examples – <xl>
-                    <li>
-                        <gd>Chunnaic sinn <m>iolair mhór</m> an diugh.</gd>
-                        <tr>We saw a big eagle today.</tr>
-                        <ref text="617">td. 9 [226]</ref>
+    <p>Examples of <g>iolair</g> as the object of a (transitive) verb – <ul>
+            <li>non-specified – <ul>
+                    <li>attributive adjective – <xl>
+                            <li>
+                                <gd>Chunnaic sinn iolair mhór an diugh.</gd>
+                                <tr>We saw a big eagle today.</tr>
+                                <ref text="617">td. 9 [226]</ref>
+                            </li>
+                        </xl>
                     </li>
-                </xl>
-            </p>
-        </section>
-    </section>
-
-    <section>
-        <h>uses</h>
-        <!--<section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>achadh</g> can be used as the subject of a <a
-                href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>iolair</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                    <li>
-                        <gd>Chunnaic sinn <m>iolair mhór</m> an diugh.</gd>
-                        <tr>We saw a big eagle today.</tr>
-                        <ref text="617">td. 9 [226]</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <!--<section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>achadh</g> can be used as the complement of a <a
-                href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> achadh</g>
-                <en>in a field</en> – <xl>
-                </xl>
-            </p>
-        </section>-->
-    </section>
-
+                </ul>
+            </li>
+        </ul>
+    </p>
 
 </module>

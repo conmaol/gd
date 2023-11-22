@@ -5,183 +5,24 @@
         <en>hair</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <section id="forms">
-        <h>forms</h>
-        <p>The principal parts of <g>falt</g> are – <ul>
-                <li><m>falt</m> – nominative/dative singular, genitive plural</li>
-                <li><m>fuilt</m> – genitive singular, nominative/dative plural</li>
-            </ul>
-        </p>
-        <section id="definiteness">
-            <h>definiteness</h>
-            <p><ul>
-                    <li>indefinite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>falt</m></li>
-                                    <li>dative – le <m>falt</m></li>
-                                    <li>genitive – dath <m>fuilt</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>fuilt</m></li>
-                                    <li>dative – le <m>fuilt</m></li>
-                                    <li>genitive – dathan <m>fhalt</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>definite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>am falt</m></li>
-                                    <li>dative – leis <m>an fhalt</m></li>
-                                    <li>genitive – dath <m>an fhuilt</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>na fuilt</m></li>
-                                    <li>dative – leis <m>na fuilt</m></li>
-                                    <li>genitive – dathan <m>nam falt</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="number">
-            <h>number</h>
-            <p><ul>
-                    <li>singular <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>falt</m></li>
-                                    <li>dative – le <m>falt</m></li>
-                                    <li>genitive – dath <m>fuilt</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>am falt</m></li>
-                                    <li>dative – leis <m>an fhalt</m></li>
-                                    <li>genitive – earball <m>a’ chait</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>plural <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>fuilt</m></li>
-                                    <li>dative – le <m>fuilt</m></li>
-                                    <li>genitive – dathan <m>fhalt</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>na fuilt</m></li>
-                                    <li>dative – leis <m>na fuilt</m></li>
-                                    <li>genitive – dathan <m>nam falt</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="case">
-            <h>case</h>
-            <p><ul>
-                    <li>nominative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – <m>falt</m></li>
-                                    <li>plural – <m>fuilt</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – <m>am falt</m></li>
-                                    <li>plural – <m>na fuilt</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>dative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – le <m>falt</m></li>
-                                    <li>plural – le <m>fuilt</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – leis <m>an fhalt</m></li>
-                                    <li>plural – leis <m>na fuilt</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>genitive <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – dath <m>fuilt</m></li>
-                                    <li>plural – dathan <m>fhalt</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – dath <m>an fhuilt</m></li>
-                                    <li>plural – dathan <m>nam falt</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-    </section>
-
-    <section>
-        <h>dependents</h>
-        <!--<section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>falt</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <!-- <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>falt</g> can occur with a <a
-                href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <section id="deps-mods">
-            <h>modifiers</h>
-            <p>Like other nouns, <g>falt</g> can occur with an (attributive) <a
-                    href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
-            <p>Some examples – <xl>
-                    <li>
-                        <gd>Tha <m>falt dubh</m> air Calum ach tha <m>falt bàn</m> air Màiri.</gd>
-                        <tr>Calum has black hair but Mary has fair hair.</tr>
-                        <ref text="617">td. 9</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil <m>falt bàn</m> air Seumas?</gd>
-                        <tr>Does James have fair hair?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-    </section>
-
-    <section>
-        <h>uses</h>
-        <section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>falt</g> can be used as the subject of a <a
-                    href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Some examples with <a href="?gd=bi"><g>bi</g></a>
-                <en>be</en> – <xl>
-                    <li>
-                        <gd>Tha <m>falt</m> dubh air Calum ach tha <m>falt</m> bàn air Màiri.</gd>
-                        <tr>Calum has black hair but Mary has fair hair.</tr>
-                        <ref text="617">td. 9</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <!--<section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>falt</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <!--<section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>falt</g> can be used as the complement of a <a
-                href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> achadh</g>
-                <en>in a field</en> – <xl>
-                   
-                </xl>
-            </p>
-        </section>-->
-
-    </section>
-
+    <p>Examples of <g>falt</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
+        – <ul>
+            <li>non-specified – <ul>
+                    <li>with attributive adjective – <xl>
+                            <li>
+                                <gd>Tha falt dubh air Calum ach tha falt bàn air Màiri.</gd>
+                                <tr>Calum has black hair but Mary has fair hair.</tr>
+                                <ref text="617">td. 9</ref>
+                            </li>
+                            <li>
+                                <gd>A bheil falt bàn air Seumas? Chan eil.</gd>
+                                <tr>Does James have fair hair? No, he doesn’t.</tr>
+                                <ref text="617">td. 14</ref>
+                            </li>
+                        </xl></li>
+                </ul>
+            </li>
+        </ul>
+    </p>
 
 </module>

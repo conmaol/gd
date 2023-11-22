@@ -2,236 +2,89 @@
 <module>
     <h>gille</h>
     <p><g>gille</g>
-        <en>boy</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+        <en>a boy</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <section id="forms">
-        <h>forms</h>
-        <p>The principal parts of <g>gille</g> are – <ul>
-                <li><m>gille</m> – nominative/dative/genitive singular</li>
-                <li><m>gillean</m> – nominative/dative/genitive plural</li>
-            </ul>
-        </p>
-        <section id="definiteness">
-            <h>definiteness</h>
-            <p><ul>
-                    <li>indefinite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>gille</m></li>
-                                    <li>dative – le <m>gille</m></li>
-                                    <li>genitive – ceann <m>gille</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>gillean</m></li>
-                                    <li>dative – le <m>gillean</m></li>
-                                    <li>genitive – cinn <m>ghillean</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>definite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>an gille</m></li>
-                                    <li>dative – leis <m>a’ ghille</m></li>
-                                    <li>genitive – ceann <m>a’ ghille</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>na gillean</m></li>
-                                    <li>dative – leis <m>na gillean</m></li>
-                                    <li>genitive – cinn <m>nan gillean</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="number">
-            <h>number</h>
-            <p><ul>
-                    <li>singular <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>gille</m></li>
-                                    <li>dative – le <m>gille</m></li>
-                                    <li>genitive – ceann <m>gille</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>an gille</m></li>
-                                    <li>dative – leis <m>a’ ghille</m></li>
-                                    <li>genitive – ceann <m>a’ ghille</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>plural <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>gillean</m></li>
-                                    <li>dative – le <m>gillean</m></li>
-                                    <li>genitive – cinn <m>gillean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>na gillean</m></li>
-                                    <li>dative – leis <m>na gillean</m></li>
-                                    <li>genitive – cinn <m>nan gillean</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="case">
-            <h>case</h>
-            <p><ul>
-                    <li>nominative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – <m>gille</m></li>
-                                    <li>plural – <m>gillean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – <m>an gille</m></li>
-                                    <li>plural – <m>na gillean</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>dative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – le <m>gille</m></li>
-                                    <li>plural – le <m>gillean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – leis <m>a’ ghille</m></li>
-                                    <li>plural – leis <m>na gillean</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>genitive <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – ceann <m>gille</m></li>
-                                    <li>plural – cinn <m>ghillean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – ceann <m>a’ ghille</m></li>
-                                    <li>plural – cinn <m>nan gillean</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-    </section>
+    <p>Examples of <g>gille</g> as the subject of the predicative verb <a href="?gd=bi"
+            ><g>bi</g></a> – <ul>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>an gille</g>
+                        <en>the boy</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Tha an gille mór.</gd>
+                                        <tr>The boy is big.</tr>
+                                        <ref text="617">td. 15</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Cha robh an gille aig an dorus.</gd>
+                                        <tr>The boy was not at the door.</tr>
+                                        <ref text="617">td. 15</ref>
+                                    </li>
+                                    <li>
+                                        <gd>A bheil an gille a’ cluich? Tha,</gd>
+                                        <tr>Is the boy playing? Yes, he is.</tr>
+                                        <ref text="617">td. 15</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                            <li>attributive adjective – <xl>
+                                    <li>
+                                        <gd>Càit a bheil an gille beag an diugh?</gd>
+                                        <tr>Where is the little boy today?</tr>
+                                        <ref text="617">td. 14</ref>
+                                    </li>
+                                    <li>
+                                        <gd>A bheil an gille beag anns an sgoil? Chan eil.</gd>
+                                        <tr>Is the little boy in the school? No, he isn’t.</tr>
+                                        <ref text="617">td. 14 [227]</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </p>
 
-    <section>
-        <h>dependents</h>
-        <!--<section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>còta</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                <li>
-                    <gd>A bheil <m>còta</m> air an duine?</gd>
-                    <tr>Does the man have a coat on?</tr>
-                    <ref text="617">td. 14</ref>
-                </li>
-            </xl>
-            </p>
-        </section>-->
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>gille</g> can occur with a <a
-                    href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                    <li>
-                        <gd>Càit a bheil <m>an gille</m> beag an diugh?</gd>
-                        <tr>Where is the little boy today?</tr>
-                        <ref text="617">td. 14</ref>
+    <p>Examples of <g>gille</g> as the subject of a demonstrative pronoun used as a copular verb – <ul>
+            <li>pre-specified – <ul>
+                    <li>definite article – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Seo an gille.</gd>
+                                        <tr>This is the boy.</tr>
+                                        <ref text="617">td. 15</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                    <li>
-                        <gd>Tha <m>an gille</m> mór.</gd>
-                        <tr>The boy is big.</tr>
-                        <ref text="617">td. 15</ref>
-                    </li>
-                    <li>
-                        <gd>Seo <m>an gille</m>.</gd>
-                        <tr>This is the boy.</tr>
-                        <ref text="617">td. 15</ref>
-                    </li>
-                    <li>
-                        <gd>Dé tha ceàrr air <m>a’ ghille</m> seo? Tha a cheann goirt.</gd>
-                        <tr>What is wrong with this boy? His head is sore.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <section id="deps-mods">
-            <h>modifiers</h>
-            <p>Like other nouns, <g>gille</g> can occur with an (attributive) <a
-                    href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
-            <p>Some examples – <xl>
-                    <li>
-                        <gd>Càit a bheil an <m>gille beag</m> an diugh?</gd>
-                        <tr>Where is the little boy today?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil an <m>gille beag</m> anns an sgoil?</gd>
-                        <tr>Is the little boy in the school?</tr>
-                        <ref text="617">td. 14 [227]</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-    </section>
+                </ul>
+            </li>
+        </ul>
+    </p>
 
-    <section>
-        <h>uses</h>
-        <section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>gille</g> can be used as the subject of a <a
-                    href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                    <li>
-                        <gd>Càit a bheil an <m>gille</m> beag an diugh?</gd>
-                        <tr>Where is the little boy today?</tr>
-                        <ref text="617">td. 14</ref>
+    <p>Examples of <g>gille</g> as the complement of the preposition <a href="?gd=air"
+            ><g>air</g></a>
+        <en>on</en> – <ul>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>air a’ ghille</g>
+                        <en>on the boy</en> – <ul>
+                            <li>demonstrative – <xl>
+                                    <li>
+                                        <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
+                                        <tr>What is wrong with this boy? His head is sore.</tr>
+                                        <ref text="617">td. 20</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                    <li>
-                        <gd>Tha an <m>gille</m> mór.</gd>
-                        <tr>The boy is big.</tr>
-                        <ref text="617">td. 15</ref>
-                    </li>
-                    <li>
-                        <gd>Tha an <m>gille</m> aig an dorus.</gd>
-                        <tr>The boy is at the door.</tr>
-                        <ref text="617">td. 15</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil an <m>gille</m> a’ cluich?</gd>
-                        <tr>Is the boy playing?</tr>
-                        <ref text="617">td. 15</ref>
-                    </li>
-                </xl>
-            </p>
-            <p>Examples with demonstrative pronouns used as copular verbs – <xl>
-                    <li>
-                        <gd>Seo an <m>gille</m>.</gd>
-                        <tr>This is the boy.</tr>
-                        <ref text="617">td. 15</ref>
-                    </li>
-                </xl>
-            </p>
-
-
-        </section>
-        <!--<section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>gille</g> can be used as the complement of a <a
-                    href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=air">air</a> gille</g>
-                <en>on a boy</en> – <xl>
-                    <li>
-                        <gd>Dé tha ceàrr <m>air a’ ghille seo</m>? Tha a cheann goirt.</gd>
-                        <tr>What is wrong with this boy? His head is sore.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-    </section>
-
+                </ul>
+            </li>
+        </ul>
+    </p>
 
 </module>
