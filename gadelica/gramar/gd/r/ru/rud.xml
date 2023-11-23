@@ -2,203 +2,27 @@
 <module>
     <h>rud</h>
     <p><g>rud</g>
-        <en>thing</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+        <en>a thing</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
-    
-    <section id="forms">
-        <h>forms</h>
-        <p>The principal parts of <g>rud</g> are – <ul>
-            <li><m>rud</m> – singular</li>
-            <li><m>rudan</m> – plural</li>
-        </ul>
-        </p>
-        <section id="definiteness">
-            <h>definiteness</h>
-            <p><ul>
-                <li>indefinite <ul>
-                    <li>singular <ul>
-                        <li>nominative – <m>rud</m></li>
-                        <li>dative – ann an <m>rud</m></li>
-                        <li>genitive – taobh <m>rud</m></li>
-                    </ul></li>
-                    <li>plural <ul>
-                        <li>nominative – <m>rudan</m></li>
-                        <li>dative – ann an <m>rudan</m></li>
-                        <li>genitive – taobh <m>rudan</m></li>
-                    </ul></li>
-                </ul></li>
-                <li>definite <ul>
-                    <li>singular <ul>
-                        <li>nominative – <m>an rud</m></li>
-                        <li>dative – anns <m>an rud</m></li>
-                        <li>genitive – taobh <m>an rud</m></li>
-                    </ul></li>
-                    <li>plural <ul>
-                        <li>nominative – <m>na rudan</m></li>
-                        <li>dative – anns <m>na rudan</m></li>
-                        <li>genitive – taobh <m>nan rudan</m></li>
-                    </ul></li>
-                </ul></li>
-            </ul></p>
-        </section>
-        <section id="number">
-            <h>number</h>
-            <p><ul>
-                <li>singular <ul>
-                    <li>indefinite <ul>
-                        <li>nominative – <m>rud</m></li>
-                        <li>dative – ann an <m>rud</m></li>
-                        <li>genitive – taobh <m>rud</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>nominative – <m>an rud</m></li>
-                        <li>dative – anns <m>an rud</m></li>
-                        <li>genitive – taobh <m>an rud</m></li>
-                    </ul></li>
-                </ul></li>
-                <li>plural <ul>
-                    <li>indefinite <ul>
-                        <li>nominative – <m>rudan</m></li>
-                        <li>dative – ann an <m>rudan</m></li>
-                        <li>genitive – taobh <m>rudan</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>nominative – <m>na rudan</m></li>
-                        <li>dative – anns <m>na rudan</m></li>
-                        <li>genitive – taobh <m>nan rudan</m></li>
-                    </ul></li>
-                </ul></li>
-            </ul></p>
-        </section>
-        <section id="case">
-            <h>case</h>
-            <p><ul>
-                <li>nominative <ul>
-                    <li>indefinite <ul>
-                        <li>singular – <m>rud</m></li>
-                        <li>plural – <m>rudan</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>singular – <m>an rud</m></li>
-                        <li>plural – <m>na rudan</m></li>
-                    </ul></li>
-                </ul></li>
-                <li>dative <ul>
-                    <li>indefinite <ul>
-                        <li>singular – ann an <m>rud</m></li>
-                        <li>plural – ann an <m>rudan</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>singular – anns <m>an rud</m></li>
-                        <li>plural – anns <m>na rudan</m></li>
-                    </ul></li>
-                </ul></li>
-                <li>genitive <ul>
-                    <li>indefinite <ul>
-                        <li>singular – taobh <m>rud</m></li>
-                        <li>plural – taobh <m>rudan</m></li>
-                    </ul></li>
-                    <li>definite <ul>
-                        <li>singular – taobh <m>an rud</m></li>
-                        <li>plural – taobh <m>nan rudan</m></li>
-                    </ul></li>
-                </ul></li>
-            </ul></p>
-        </section>
-    </section>
-    
-    <section>
-        <h>dependents</h>
-        <!--<section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>botul</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <!--<section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>botul</g> can occur with a <a
-                href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <section>
-            <h>modifiers</h>
-            <!--<p>Like other nouns, <g>rud</g> can occur with an (attributive) <a
-                href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>-->
-            <module id="rud_sam_bith">
-                <h>rud sam bith</h>
-                <p><g>rud <a href="?gd=bith">sam bith</a></g> <en>something, anything</en></p>
-                <p>Some examples – <xl>
-                <li>
-                    <gd>A bheil <m>rud sam bith</m> anns a’ bhotul? Tha. Dé tha anns a’
-                        bhotul? Tha bainne anns a’ bhotul.</gd>
-                    <tr>Is there anything in the bottle? Yes, there is. What is in the bottle?
-                        There is milk in the bottle.</tr>
-                    <ref text="617">td. 20</ref>
-                </li>
-            </xl>
-            </p></module>
-        </section>
-    </section>
-    
-    <section>
-        <h>uses</h>
-        <section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>rud</g> can be used as the subject of a <a
-                href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl> 
-                <li>
-                    <gd>A bheil <m>rud</m> sam bith anns a’ bhotul? Tha. Dé tha anns a’
-                        bhotul? Tha bainne anns a’ bhotul.</gd>
-                    <tr>Is there anything in the bottle? Yes, there is. What is in the bottle?
-                        There is milk in the bottle.</tr>
-                    <ref text="617">td. 20</ref>
-                </li>
-            </xl>
-            </p>
-            <!--<p>Examples with demonstrative pronouns used as copular verbs – <xl>
-                <li>
-                    <gd>Seo an <m>bàta</m>.</gd>
-                    <tr>This is the dog.</tr>
-                    <ref text="617">td. 15</ref>
-                </li>
-            </xl>
-            </p>-->
-        </section>
-        <!--<section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>bàta</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                    <li>
-                        <gd>Bha mi aig a’ chladach an diugh. Chunnaic mi <m>bàtaichean</m> air a’
-                            mhuir.</gd>
-                        <tr>I was at the shore today. I saw boats on the sea.</tr>
-                        <ref text="617">td. 21</ref>
+
+    <p>Examples of <g>rud</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
+        – <ul>
+            <li>non-specified – <ul>
+                    <li>modified – <g>rud sam bith</g> <en>something, anything</en> – <xl>
+                            <li>
+                                <gd>A bheil rud sam bith anns a’ bhotul? Tha. Dé tha anns a’ bhotul?
+                                    Tha bainne anns a’ bhotul.</gd>
+                                <tr>Is there anything in the bottle? Yes, there is. What is in the
+                                    bottle? There is milk in the bottle.</tr>
+                                <ref text="617">td. 20</ref>
+                            </li>
+                        </xl>
                     </li>
-                </xl>
-            </p>
-        </section>-->
-        <!--<section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>botul</g> can be used as the complement of a <a
-                href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=an^preposition">ann am</a> botul</g>
-                <en>in a bottle</en> – <xl> 
-                    
-                </xl>
-            </p>
-        </section>-->
-    </section>
-    
-    
-    
-    
+                </ul>
+            </li>
+        </ul>
+    </p>
+
     <!--<p lang="en">Corpus examples – <xl id="exs">
             <li>
                 <gd>[...] ’Se glé bheag de chobhair a thug a’ Phàrlamaid a riamh do ’n Ghàidhlig no

@@ -2,190 +2,59 @@
 <module>
     <h>sgoil</h>
     <p><g>sgoil</g>
-        <en>school</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+        <en>a school</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <section id="forms">
-        <h>forms</h>
-        <p>The principal parts of <g>sgoil</g> are – <ul>
-                <li><m>sgoil</m> – nominative/dative singular</li>
-                <li><m>sgoile</m> – genitive singular</li>
-                <li><m>sgoiltean</m> – nominative/dative/genitive plural</li>
+    <p>Examples of <g>sgoil</g> as the subject of the predicative verb <a href="?gd=bi"
+            ><g>bi</g></a> – <ul>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>an sgoil</g>
+                        <en>the school</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>A bheil an sgoil mór? Tha.</gd>
+                                        <tr>Is the school big? Yes, it is.</tr>
+                                        <ref text="617">td. 14</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </p>
+
+    <p>Examples of <g>sgoil</g> as the complement of the preposition <a href="?gd=an^preposition"
+        ><g>an</g></a>
+        <en>in</en> – <ul>
+            <li>pre-specified – <ul>
+                <li>definite article – <g>anns an sgoil</g>
+                    <en>in the school, at school</en> – <ul>
+                        <li>unmodified – <xl>
+                            <li>
+                                <gd>Cha robh a’ chaileag bheag anns an sgoil.</gd>
+                                <tr>The little girl was not in the school.</tr>
+                                <ref text="617">td. 15 [228]</ref>
+                            </li>
+                            <li>
+                                <gd>A bheil Seònaid anns an sgoil an diugh? Chan eil.</gd>
+                                <tr>Is Janet in the school today? No, she isn’t.</tr>
+                                <ref text="617">td. 14</ref>
+                            </li>
+                        </xl>
+                        </li>
+                    </ul>
+                </li>
             </ul>
-        </p>
-        <section id="definiteness">
-            <h>definiteness</h>
-            <p><ul>
-                    <li>indefinite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>sgoil</m></li>
-                                    <li>dative – ann an <m>sgoil</m></li>
-                                    <li>genitive – dorus <m>sgoile</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>sgoiltean</m></li>
-                                    <li>dative – ann an <m>sgoiltean</m></li>
-                                    <li>genitive – dorsan <m>sgoiltean</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>definite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>an sgoil</m></li>
-                                    <li>dative – anns <m>an sgoil</m></li>
-                                    <li>genitive – dorus <m>na sgoile</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>na sgoiltean</m></li>
-                                    <li>dative – anns <m>na sgoiltean</m></li>
-                                    <li>genitive – dorsan <m>nan sgoiltean</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="number">
-            <h>number</h>
-            <p><ul>
-                    <li>singular <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>sgoil</m></li>
-                                    <li>dative – ann an <m>sgoil</m></li>
-                                    <li>genitive – dorus <m>sgoile</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>an sgoil</m></li>
-                                    <li>dative – anns <m>an sgoil</m></li>
-                                    <li>genitive – dorus <m>na sgoile</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>plural <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>sgoiltean</m></li>
-                                    <li>dative – ann an <m>sgoiltean</m></li>
-                                    <li>genitive – dorsan <m>sgoiltean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>na sgoiltean</m></li>
-                                    <li>dative – anns <m>na sgoiltean</m></li>
-                                    <li>genitive – dorsan <m>nan sgoiltean</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="case">
-            <h>case</h>
-            <p><ul>
-                    <li>nominative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – <m>sgoil</m></li>
-                                    <li>plural – <m>sgoiltean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – <m>an sgoil</m></li>
-                                    <li>plural – <m>na sgoiltean</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>dative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – ann an <m>sgoil</m></li>
-                                    <li>plural – ann an <m>sgoiltean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – anns <m>an sgoil</m></li>
-                                    <li>plural – anns <m>na sgoiltean</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>genitive <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – dorus <m>sgoile</m></li>
-                                    <li>plural – dorsan <m>sgoiltean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – dorus <m>na sgoile</m></li>
-                                    <li>plural – dorsan <m>nan sgoiltean</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-    </section>
+            </li>
+        </ul>
+    </p>
+    
 
 
-    <section>
-        <h>dependents</h>
-        <!--<section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>achadh</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>sgoil</g> can occur with a <a
-                    href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                    <li>
-                        <gd>Chan eil a’ chaileag bheag anns <m>an sgoil</m>.</gd>
-                        <tr>The little girl is not in the school.</tr>
-                        <ref text="617">td. 15 [228]</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <!--<section id="deps-mods">
-            <h>modifiers</h>
-            <p>Like other nouns, <g>achadh</g> can occur with an (attributive) <a href="?xx=adjectives/adjectives"
-                >adjective</a> (post-)modifier.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-    </section>
 
-    <section>
-        <h>uses</h>
-        <section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>sgoil</g> can be used as the subject of a <a
-                    href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                    <li>
-                        <gd>A bheil an <m>sgoil</m> mór?</gd>
-                        <tr>Is the school big?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <!--<section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>sgoil</g> can be used as the complement of a <a
-                    href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> sgoil</g>
-                <en>in a school</en> – <xl>
-                    <li>
-                        <gd>Tha an gille beag <m>anns an sgoil</m>.</gd>
-                        <tr>The little boy is in the school.</tr>
-                        <ref text="617">td. 14 [adapted]</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil Seònaid <m>anns an sgoil</m> an diugh?</gd>
-                        <tr>Is Janet in the school today?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-    </section>
+    
 
 
     <!--<p>Examples from Gairm – <xl id="gairm">

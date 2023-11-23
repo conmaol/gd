@@ -2,203 +2,34 @@
 <module>
     <h>seòmar</h>
     <p><g>seòmar</g>
-        <en>room</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+        <en>a room</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
 
-    <section id="forms">
-        <h>forms</h>
-        <p>The principal parts of <g>seòmar</g> are – <ul>
-                <li><m>seòmar</m> – nominative/dative singular</li>
-                <li><m>seòmair</m> – genitive singular</li>
-                <li><m>seòmraichean</m> – nominative/dative/genitive plural</li>
-            </ul>
-        </p>
-        <section id="definiteness">
-            <h>definiteness</h>
-            <p><ul>
-                    <li>indefinite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>seòmar</m></li>
-                                    <li>dative – ann an <m>seòmar</m></li>
-                                    <li>genitive – dorus <m>seòmair</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>seòmraichean</m></li>
-                                    <li>dative – ann an <m>seòmraichean</m></li>
-                                    <li>genitive – dorsan <m>sheòmraichean</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>definite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>an seòmar</m></li>
-                                    <li>dative – anns <m>an t-seòmar</m></li>
-                                    <li>genitive – dorus <m>an t-seòmair</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>na seòmraichean</m></li>
-                                    <li>dative – anns <m>na seòmraichean</m></li>
-                                    <li>genitive – dorsan <m>nan seòmraichean</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="number">
-            <h>number</h>
-            <p><ul>
-                    <li>singular <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>seòmar</m></li>
-                                    <li>dative – ann an <m>seòmar</m></li>
-                                    <li>genitive – dorus <m>seòmair</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>an seòmar</m></li>
-                                    <li>dative – anns <m>an t-seòmar</m></li>
-                                    <li>genitive – dorus <m>an t-seòmair</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>plural <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>seòmraichean</m></li>
-                                    <li>dative – ann an <m>seòmraichean</m></li>
-                                    <li>genitive – dorsan <m>sheòmraichean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>na seòmraichean</m></li>
-                                    <li>dative – anns <m>na seòmraichean</m></li>
-                                    <li>genitive – dorsan <m>nan seòmraichean</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="case">
-            <h>case</h>
-            <p><ul>
-                    <li>nominative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – <m>seòmar</m></li>
-                                    <li>plural – <m>seòmraichean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – <m>an seòmar</m></li>
-                                    <li>plural – <m>na seòmraichean</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>dative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – ann an <m>seòmar</m></li>
-                                    <li>plural – ann an <m>seòmraichean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – anns <m>an t-seòmar</m></li>
-                                    <li>plural – anns <m>na seòmraichean</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>genitive <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – dorus <m>seòmair</m></li>
-                                    <li>plural – dorsan <m>sheòmraichean</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – dorus <m>an t-seòmair</m></li>
-                                    <li>plural – dorsan <m>nan seòmraichean</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-    </section>
-
-    <section>
-        <h>dependents</h>
-        <!--<section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>còta</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                <li>
-                    <gd>A bheil <m>còta</m> air an duine?</gd>
-                    <tr>Does the man have a coat on?</tr>
-                    <ref text="617">td. 14</ref>
-                </li>
-            </xl>
-            </p>
-        </section>-->
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>seòmar</g> can occur with a <a
-                    href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                    <li>
-                        <gd>A bheil <m>an seòmar</m> seo blàth?</gd>
-                        <tr>Is this room warm?</tr>
-                        <ref text="617">td. 14</ref>
+    <p>Examples of <g>seòmar</g> as the subject of the predicative verb <a href="?gd=bi"
+            ><g>bi</g></a> – <ul>
+            <li>pre-specified – <ul>
+                    <li>definite article – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Tha an seòmar glè bhlàth.</gd>
+                                        <tr>The room is very warm.</tr>
+                                        <ref text="617">td. 14</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                            <li>demonstrative – <xl>
+                                    <li>
+                                        <gd>A bheil an seòmar seo blàth? Chan eil.</gd>
+                                        <tr>Is this room warm? No, it isn’t.</tr>
+                                        <ref text="617">td. 14</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                    <li>
-                        <gd>Tha <m>an seòmar</m> glè bhlàth.</gd>
-                        <tr>The room is very warm.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>Chan eil <m>an seòmar</m> seo blàth.</gd>
-                        <tr>This room is not warm.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <!--<section id="deps-mods">
-            <h>modifiers</h>
-            <p>Like other nouns, <g>achadh</g> can occur with an (attributive) <a href="?xx=adjectives/adjectives"
-                >adjective</a> (post-)modifier.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-    </section>
-
-    <section>
-        <h>uses</h>
-        <section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>seòmar</g> can be used as the subject of a <a
-                    href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                    <li>
-                        <gd>A bheil an <m>seòmar</m> seo blàth?</gd>
-                        <tr>Is this room warm?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>Tha an <m>seòmar</m> glè bhlàth.</gd>
-                        <tr>The room is very warm.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>Chan eil an <m>seòmar</m> seo blàth.</gd>
-                        <tr>This room is not warm.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <!--<section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <!--<section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>sgoil</g> can be used as the complement of a <a
-                href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> sgoil</g>
-                <en>in a school</en> – <xl>
-                    
-                </xl>
-            </p>
-        </section>-->
-    </section>
+                </ul>
+            </li>
+        </ul>
+    </p>
 
 </module>
