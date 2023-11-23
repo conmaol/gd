@@ -5,80 +5,35 @@
         <en>a floor</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    kkk
-
-    <section>
-        <h>dependents</h>
-        <!--<section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>achadh</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>làr</g> can occur with a <a href="?xx=nouns/determiners"
-                    >determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                    <li>
-                        <gd>Tha Seònaid a’ cluich air <m>an làr</m>.</gd>
-                        <tr>Janet is playing on the floor.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <!--<section id="deps-mods">
-            <h>modifiers</h>
-            <p>Like other nouns, <g>achadh</g> can occur with an (attributive) <a href="?xx=adjectives/adjectives"
-                >adjective</a> (post-)modifier.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-    </section>
-
-    <section>
-        <h>uses</h>
-        <!--<section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>achadh</g> can be used as the subject of a <a
-                href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <!--<section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>làr</g> can be used as the complement of a <a
-                    href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=air">air</a> làr</g>
-                <en>on a floor</en> – <xl>
-                    <li>
-                        <gd>A bheil an cat a’ cluich còmhla ri Seònaid <m>air an làr</m>?</gd>
-                        <tr>Is the cat playing with Janet on the floor?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>Có tha a’ cluich <m>air an làr</m>?</gd>
-                        <tr>Who is playing on the floor?</tr>
-                        <ref text="617">td. 15</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-    </section>
+    <p>Examples of <g>làr</g> as the complement of the preposition <a href="?gd=air"
+        ><g>air</g></a>
+        <en>on</en> – <ul>
+            <li>pre-specified – <ul>
+                <li>definite article – <g>air an làr</g>
+                    <en>on the floor</en> – <ul>
+                        <li>unmodified – <xl>
+                            <!--<li>
+                                <gd>Tha Seònaid a’ cluich air an làr.</gd>
+                                <tr>Janet is playing on the floor.</tr>
+                                <ref text="617">td. 14</ref>
+                            </li>-->
+                            <li>
+                                <gd>A bheil an cat a’ cluich còmhla ri Seònaid air an làr?</gd>
+                                <tr>Is the cat playing with Janet on the floor?</tr>
+                                <ref text="617">td. 14</ref>
+                            </li>
+                            <li>
+                                <gd>Có tha a’ cluich air an làr?</gd>
+                                <tr>Who is playing on the floor?</tr>
+                                <ref text="617">td. 15</ref>
+                            </li>
+                        </xl>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+    </p>
 
 </module>
