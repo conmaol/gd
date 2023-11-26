@@ -3,94 +3,30 @@
     <h>ugh</h>
     <p><g>ugh</g>
         <en>an egg</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+            noun</a>.</p>
 
-    
 
-    <section>
-        <h>dependents</h>
-        <section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>ugh</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                    <li>
-                        <gd>Dé tha anns a’ bhocsa sin? Tha <m>uighean</m> anns a’
-                            bhocsa.</gd>
-                        <tr>What is in that box? There are eggs in the box.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <!--<section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>bòrd</g> can occur with a <a href="?xx=nouns/determiners"
-                >determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                <li>
-                    <gd>Dé tha anns <m>a’ bhocsa</m> sin? Tha uighean anns <m>a’ bhocsa</m>.
-                        Càit a bheil <m>am ugh</m>? Tha <m>am ugh</m> air a’ bhòrd. Có chuir
-                        <m>am ugh</m> air a’ bhòrd? Chuir Màiri.</gd>
-                    <tr>What is in that box? There are eggs in the box. Where is the box? The
-                        box is on the table. Who put the box on the table? Mary did.</tr>
-                    <ref text="617">td. 20</ref>
-                </li>
-            </xl>
-            </p>
-        </section>-->
-        <!--<section id="deps-mods">
-            <h>modifiers</h>
-            <p>Like other nouns, <g>cladach</g> can occur with an (attributive) <a
-                href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-    </section>
 
-    <section>
-        <h>uses</h>
-        <section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>ugh</g> can be used as the subject of a <a
-                    href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                <li>
-                    <gd>Dé tha anns a’ bhocsa sin? Tha <m>uighean</m> anns a’
-                        bhocsa.</gd>
-                    <tr>What is in that box? There are eggs in the box.</tr>
-                    <ref text="617">td. 20</ref>
+    <module>
+        <h>uighean</h>
+        <p><g>uighean</g>
+            <en>eggs</en> is the plural form of <g>ugh</g>.</p>
+
+        <p>Examples of <g>uighean</g> as the subject of the predicative verb <a href="?gd=bi"
+                    ><g>bi</g></a> – <ul>
+                <li>non-specified – <ul>
+                        <li>unmodified – <xl>
+                                <li>
+                                    <gd>Dé tha anns a’ bhocsa sin? Tha uighean anns a’ bhocsa.</gd>
+                                    <tr>What is in that box? There are eggs in the box.</tr>
+                                    <ref text="617">td. 20</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
                 </li>
-                </xl>
-            </p>
-            <!--<p>Examples with demonstrative pronouns used as copular verbs – <xl>
-                <li>
-                    <gd>Seo an <m>cladach</m>.</gd>
-                    <tr>This is the dog.</tr>
-                    <ref text="617">td. 15</ref>
-                </li>
-            </xl>
-            </p>-->
-        </section>
-        <!--<section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>ugh</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                    
-                </xl>
-            </p>
-        </section>
-        <section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>ugh</g> can be used as the complement of a <a
-                    href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=an^preposition">ann am</a> ugh</g>
-                <en>in a box</en> – <xl>
-                    
-                </xl>
-            </p>
-        </section>-->
-    </section>
+            </ul>
+        </p>
+    </module>
 
 </module>

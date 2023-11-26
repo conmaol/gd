@@ -3,114 +3,92 @@
     <h>teine</h>
     <p><g>teine</g>
         <en>a fire</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+            noun</a>.</p>
 
-    
+    <p>Examples of <g>teine</g> as the subject of the predicative verb <a href="?gd=bi"
+            ><g>bi</g></a> – <ul>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>an teine</g>
+                        <en>the fire</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Tha an teine mór.</gd>
+                                        <tr>The fire is big.</tr>
+                                        <ref text="617">td. 6</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </p>
 
-    <section>
-        <h>dependents</h>
-        <!--<section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>achadh</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>teine</g> can occur with a <a
-                    href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                    <li>
-                        <gd>Tha <m>an teine</m> mór.</gd>
-                        <tr>The fire is big.</tr>
-                        <ref text="617">td. 6</ref>
+    <p>Examples of <g>teine</g> as the complement of the preposition <a href="?gd=aig"
+            ><g>aig</g></a>
+        <en>at</en> – <ul>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>aig an teine</g>
+                        <en>at/by the fire</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Tha an cat aig an teine.</gd>
+                                        <tr>The cat is by the fire.</tr>
+                                        <ref text="617">td. 6</ref>
+                                    </li>
+                                    <li>
+                                        <gd>A bheil an cù aig an teine? Tha.</gd>
+                                        <tr>Is the dog by the fire? Yes, it is.</tr>
+                                        <ref text="617">td. 14</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                    <li>
-                        <gd>Tha an cat aig <m>an teine</m>.</gd>
-                        <tr>The cat is by the fire.</tr>
-                        <ref text="617">td. 6</ref>
+                </ul>
+            </li>
+        </ul>
+    </p>
+    <p>Examples of <g>teine</g> as the complement of the preposition <a href="?gd=an^preposition"
+                ><g>an</g></a>
+        <en>in</en> – <ul>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>anns an teine</g>
+                        <en>in the fire</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Tha teas anns an teine.</gd>
+                                        <tr>There is heat in the fire.</tr>
+                                        <ref text="617">td. 6</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                </xl>
-            </p>
-        </section>
-        <!--<section id="deps-mods">
-            <h>modifiers</h>
-            <p>Like other nouns, <g>achadh</g> can occur with an (attributive) <a href="?xx=adjectives/adjectives"
-                >adjective</a> (post-)modifier.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-    </section>
-
-    <section>
-        <h>uses</h>
-        <section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>teine</g> can be used as the subject of a <a
-                    href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                    <li>
-                        <gd>Tha an <m>teine</m> mór.</gd>
-                        <tr>The fire is big.</tr>
-                        <ref text="617">td. 6</ref>
+                </ul>
+            </li>
+        </ul>
+    </p>
+    <p>Examples of <g>teine</g> as the complement of the preposition <a href="?gd=air"
+            ><g>air</g></a>
+        <en>on</en> – <ul>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>air an teine</g>
+                        <en>on the fire</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Dè tha air an teine? Tha gual air an teine.</gd>
+                                        <tr>What is on the fire? There is coal on the fire.</tr>
+                                        <ref text="617">td. 14</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                </xl>
-            </p>
-        </section>
-        <!--<section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>teine</g> can be used as the complement of a <a
-                    href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=aig">aig</a> teine</g>
-                <en>at a fire</en> – <xl>
-                    <li>
-                        <gd>Tha an cat beag bàn <m>aig an teine</m>.</gd>
-                        <tr>The cat is by the fire.</tr>
-                        <ref text="617">td. 9</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil an cù <m>aig an teine</m>?</gd>
-                        <tr>Is the dog by the fire?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                </xl>
-            </p>
-            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> teine</g>
-                <en>in a fire</en> – <xl>
-                    <li>
-                        <gd>Tha teas <m>anns an teine</m>.</gd>
-                        <tr>There is heat in the fire.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                </xl>
-            </p>
-            <p>Examples with <g><a href="?gd=air">air</a> teine</g>
-                <en>on a fire</en> – <xl>
-                    <li>
-                        <gd>Dè tha <m>air an teine</m>? Tha gual <m>air an teine</m>.</gd>
-                        <tr>What is on the fire? There is coal on the fire.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>Càit a bheil an gual? <m>Air an teine</m>.</gd>
-                        <tr>Where is the coal? On the fire.</tr>
-                        <ref text="617">td. 14 [227]</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-    </section>
+                </ul>
+            </li>
+        </ul>
+    </p>
 
 </module>

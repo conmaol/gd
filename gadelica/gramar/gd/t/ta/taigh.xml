@@ -3,122 +3,95 @@
     <h>taigh</h>
     <p><g>taigh</g>
         <en>a house</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+            noun</a>.</p>
 
-    
+    <p>Examples of <g>taigh</g> as the subject of the predicative verb <a href="?gd=bi"
+            ><g>bi</g></a> – <ul>
+            <li>non-specified – <ul>
+                    <li>with attributive adjective – <xl>
+                            <li>
+                                <gd>Dé tha air a’ chnoc? Tha taigh mór air a’ chnoc.</gd>
+                                <tr>What is on the hill? There is a big house on the hill.</tr>
+                                <ref text="617">td. 20</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </li>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>an taigh</g>
+                        <en>the house</en> – <ul>
+                            <li>attributive adjective – <xl>
+                                    <li>
+                                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc
+                                            àrd.</gd>
+                                        <tr>Where is the big house? The big house is on the tall
+                                            hill.</tr>
+                                        <ref text="617">td. 21 [229]</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </p>
 
-    <section>
-        <h>dependents</h>
-        <!--<section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>achadh</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>taigh</g> can occur with a <a
-                    href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
-                    <li>
-                        <gd>Tha Seònaid anns <m>an taigh</m>.</gd>
-                        <tr>Janet is in the house.</tr>
-                        <ref text="617">td. 14</ref>
+    <p>Examples of <g>taigh</g> as the complement of the preposition <a href="?gd=an^preposition"
+                ><g>an</g></a>
+        <en>in</en> – <ul>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>anns an taigh</g>
+                        <en>in the house</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Tha Seònaid anns an taigh.</gd>
+                                        <tr>Janet is in the house.</tr>
+                                        <ref text="617">td. 14</ref>
+                                    </li>
+                                    <!--<li>
+                                        <gd>A bheil an cat anns an taigh còmhla ri Seònaid?</gd>
+                                        <tr>Is the cat in the house with Janet?</tr>
+                                        <ref text="617">td. 15 [227]</ref>
+                                    </li>-->
+                                    <!--<li>
+                                        <gd>Dé tha a’ chaileag a’ dèanamh anns an taigh?</gd>
+                                        <tr>What is the girl doing in the house?</tr>
+                                        <ref text="617">td. 14 [adapted]</ref>
+                                    </li>-->
+                                    <li>
+                                        <gd>Cha robh sinn a’ cluich anns an taigh.</gd>
+                                        <tr>We were not playing in the house.</tr>
+                                        <ref text="617">td. 21 [230]</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                <li>
-                    <gd>Càit a bheil <m>an taigh</m> mór? Tha <m>an taigh</m> mór air a’ chnoc
-                        àrd.</gd>
-                    <tr>Where is the big house? The big house is on the tall hill.</tr>
-                    <ref text="617">td. 21 [229]</ref>
-                </li>
-                </xl>
-            </p>
-        </section>
-        <section id="deps-mods">
-            <h>modifiers</h>
-            <p>Like other nouns, <g>taigh</g> can occur with an (attributive) <a
-                    href="?xx=adjectives/adjectives">adjective</a> (post-)modifier.</p>
-            <p>Some examples – <xl>
-                    <li>
-                        <gd>Dé tha air a’ chnoc? Tha <m>taigh mór</m> air a’ chnoc.</gd>
-                        <tr>What is on the hill? There is a big house on the hill.</tr>
-                        <ref text="617">td. 20</ref>
+                </ul>
+            </li>
+        </ul>
+    </p>
+    <p>Examples of <g>taigh</g> as the complement of the preposition <a href="?gd=aig"
+            ><g>aig</g></a>
+        <en>at</en> – <ul>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>aig an taigh</g>
+                        <en>at the house, at home</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Tha Seònaid aig an taigh.</gd>
+                                        <tr>Janet is at home.</tr>
+                                        <ref text="617">td. 14 [227]</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                </xl>
-            </p>
-        </section>
-    </section>
-
-    <section>
-        <h>uses</h>
-        <section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>taigh</g> can be used as the subject of a <a
-                    href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                    <li>
-                        <gd>Dé tha air a’ chnoc? Tha <m>taigh</m> mór air a’ chnoc.</gd>
-                        <tr>What is on the hill? There is a big house on the hill.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                <li>
-                    <gd>Càit a bheil an <m>taigh</m> mór? Tha an <m>taigh</m> mór air a’ chnoc
-                        àrd.</gd>
-                    <tr>Where is the big house? The big house is on the tall hill.</tr>
-                    <ref text="617">td. 21 [229]</ref>
-                </li>
-                </xl>
-            </p>
-        </section>
-        <!--<section id="uses-obj">
-            <h>object</h>
-            <p>Like other nouns, <g>achadh</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        <section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>taigh</g> can be used as the complement of a <a
-                    href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Examples with <g><a href="?gd=an^preposition">ann an</a> taigh</g>
-                <en>in a house</en> – <xl>
-                    <li>
-                        <gd>Tha Seònaid <m>anns an taigh</m>.</gd>
-                        <tr>Janet is in the house.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil an cat <m>anns an taigh</m> còmhla ri Seònaid?</gd>
-                        <tr>Is the cat in the house with Janet?</tr>
-                        <ref text="617">td. 15 [227]</ref>
-                    </li>
-                    <li>
-                        <gd>Dé tha a’ chaileag a’ dèanamh <m>anns an taigh</m>?</gd>
-                        <tr>What is the girl doing in the house?</tr>
-                        <ref text="617">td. 14 [adapted]</ref>
-                    </li>
-                    <li>
-                        <gd>Cha robh sinn a’ cluich <m>anns an taigh</m>.</gd>
-                        <tr>We were not playing in the house.</tr>
-                        <ref text="617">td. 21 [230]</ref>
-                    </li>
-                </xl>
-            </p>
-            <p>Examples with <g><a href="?gd=aig">aig</a> taigh</g>
-                <en>at a house</en> – <xl>
-                    <li>
-                        <gd>Tha Seònaid <m>aig an taigh</m>.</gd>
-                        <tr>Janet is at home.</tr>
-                        <ref text="617">td. 14 [227]</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-    </section>
-
+                </ul>
+            </li>
+        </ul>
+    </p>
 
 </module>
