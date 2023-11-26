@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>caora</h>
+    <p><g>caora</g>
+        <en>a sheep</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
+
+    <module>
+        <h>caoraich</h>
+        <p><g>caoraich</g>
+            <en>sheep</en> is the plural form of <g>caora</g>.</p>
+
+        <p>Examples of <g>caoraich</g> as the subject of the predicative verb <a href="?gd=bi"
+                    ><g>bi</g></a> – <ul>
+                <li>pre-specified – <ul>
+                        <li>definite article – <g>na caoraich</g>
+                            <en>the sheep</en> – <ul>
+                                <li>unmodified – <xl>
+                                        <li>
+                                            <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
+                                            <tr>The sheep were up on the side of the mountain.</tr>
+                                            <ref text="617">td. 21</ref>
+                                        </li>
+                                    </xl>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </p>
+
+        <p>Examples of <g>caoraich</g> as the object of a (transitive) verb – <ul>
+                <li>non-specified – <ul>
+                        <li>unmodified – <xl>
+                                <li>
+                                    <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
+                                    <tr>I saw sheep and cattle on the moor.</tr>
+                                    <ref text="617">td. 21</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </p>
+    </module>
+
+
+    <!--<p>Examples of <g>abhainn</g> as the subject of the predicative verb <a href="?gd=bi"
+        ><g>bi</g></a> – <ul>
+            <li>non-specified – <ul>
+                <li>unmodified – <xl>
+                </xl>
+                </li>
+                <li>with attributive adjective – <xl></xl></li>
+                
+            </ul>
+            </li>
+        </ul>
+    </p>-->
+
+    <!-- <p>Examples of <g>cat</g> as the subject of a demonstrative pronoun used as a copular verb – <ul>
+        <li>pre-specified – <ul>
+            <li>definite article – <ul>
+                <li>unmodified – <xl>
+                </xl>
+                </li>
+                <li>demonstrative – <xl>
+                                    
+                                </xl>
+                            </li>
+            </ul>
+            </li>
+        </ul>
+        </li>
+    </ul>
+    </p>-->
+
+    <!--<p>Examples of <g>abhainn</g> as the subject of other verbs – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>
+    <p>Examples of <g>abhainn</g> as the object of a (transitive) verb – <ul>
+            <li>indefinite –</li>
+            <li>definite –</li>
+        </ul>
+    </p>-->
+
+    <!--<p>Examples of <g>abhainn</g> as the complement of the preposition <a href="?gd=air"
+            ><g>air</g></a>
+        <en>on</en> – <ul>
+            <li>pre-specified – <ul>
+                    <li>definite article – <g>air an abhainn</g>
+                        <en>on the river</en> – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>Bha Alasdair ag iasgach air an abhainn.</gd>
+                                        <tr>Alexander was fishing on the river.</tr>
+                                        <ref text="617">td. 20 [adapted]</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </p>-->
+
+
+
+
+
+
+</module>

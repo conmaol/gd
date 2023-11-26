@@ -111,6 +111,11 @@
         <en>shop, booth</en></li>
       <li><m>caisteal</m> masc. <en>castle</en> pl. <b>caistealan</b></li>
       <li><m>cànan</m> masc. <en>language</en></li>
+      -->
+      <li><a href="?gd=caora"><g>caora</g></a>
+        <fem/>
+        <en>sheep</en></li>
+      <!--
       <li><a href="?gd=càr"><g>càr</g></a>
         <masc/>
         <en>car</en></li>-->
@@ -160,6 +165,11 @@
       <li><a href="?gd=crìoch">crìoch</a>
         <i>fem.</i>
         <en>end, boundary</en></li>
+        -->
+    <li><a href="?gd=crodh"><g>crodh</g></a>
+      <masc/>
+      <en>cattle</en></li>
+        <!--
       <li><a href="?gd=croit">croit</a>
         <i>fem.</i>
         <en>croft</en></li>-->
