@@ -214,6 +214,10 @@
     <em>vb.</em>
   </xsl:template>
 
+  <xsl:template match="prep">
+    <em>prep.</em>
+  </xsl:template>
+
   <xsl:template match="etc">
     <em>&amp;c</em>
   </xsl:template>

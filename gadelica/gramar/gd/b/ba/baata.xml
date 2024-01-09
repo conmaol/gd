@@ -5,97 +5,121 @@
         <en>a boat</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
 
-    <module>
-        <h>bàta beag</h>
-        <p>Examples where <g>bàta</g> is the (deep) subject of the adjective <a href="?gd=beag"
-                    ><g>beag</g></a>
-            <en>small</en> – <g>bàta beag</g> <en>a small boat</en> – <xl>
-                <li>
-                    <gd>Tha bàta beag air an traigh.</gd>
-                    <tr>There is a little boat on the beach.</tr>
-                    <ref text="617">td. 21 [adapted]</ref>
-                </li>
-            </xl></p>
-    </module>
-    <module>
-        <h>bàta air ...</h>
-        <p><g>bàta</g> can be used as the (deep) subject of the preposition <a href="?gd=air"
-                    ><g>air</g></a>
-            <en>on</en> – <g>bàta air ...</g> <en>a boat on ...</en></p>
-        <module>
-            <h>bàta air cladach/tràigh</h>
-            <p>The object of <g>air</g> can denote a strip of land bordering the sea.</p>
-            <module>
-                <h>bàta air cladach</h>
-                <p>Examples where the object of <g>air</g> is the common noun <a href="?gd=cladach"
-                            ><g>cladach</g></a>
-                    <masc/>
-                    <en>a shore</en> – <g>bàta air cladach</g> <en>a boat on a shore</en> – <xl>
-                        <li>
-                            <gd>An robh am bàta air a’ chladach? Bha.</gd>
-                            <tr>Was the boat is on the shore? Yes, it was.</tr>
-                            <ref text="617">td. 17 [adapted]</ref>
-                        </li>
-                    </xl></p>
-            </module>
-            <module>
-                <h>bàta air tràigh</h>
-                <p>Examples where the object of <g>air</g> is the common noun <a href="?gd=traaigh"
-                            ><g>tràigh</g></a>
-                    <fem/>
-                    <en>a beach</en> – <g>bàta air tràigh</g> <en>a boat on a beach</en> –<xl>
-                        <li>
-                            <gd>Cha bhi bàta beag air an traigh.</gd>
-                            <tr>There won’t be a little boat on the beach.</tr>
-                            <ref text="617">td. 21 [adapted]</ref>
-                        </li>
-                    </xl></p>
-            </module>
-        </module>
-        <module>
-            <h>bàta air muir</h>
-            <p>Examples where the object of <g>air</g> is the common noun <a href="?gd=muir"
-                        ><g>muir</g></a>
-                <fem/>
-                <en>a sea</en> – <g>bàta air muir</g> <en>a boat on a sea</en> –<xl>
+    <section>
+        <h>adjectives</h>
+        <p><g>bàta</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
+                >adjectives</a>.</p>
+        <module id="baata_beag">
+            <h>bàta beag</h>
+            <p><g>bàta</g> can be the subject of <a href="?gd=beag"><g>beag</g></a>
+                <adj/>
+                <en>small</en> – <xl>
                     <li>
-                        <gd>Chunnaic mi bàtaichean air a’ mhuir.</gd>
-                        <tr>I saw boats on the sea.</tr>
-                        <ref text="617">td. 21</ref>
+                        <gd>Tha bàta beag air an traigh.</gd>
+                        <tr>There is a little boat on the beach.</tr>
+                        <ref text="617">td. 21 [adapted]</ref>
                     </li>
                 </xl></p>
         </module>
-    </module>
-    <module>
-        <h>... ann am bàta</h>
-        <p><g>bàta</g> can be used as the object of the preposition <a href=">gd=an^preposition"><g>an</g></a> <en>in</en> – <g>... ann am bàta</g> <en>... in a boat</en>.</p>
-        <module>
-            <h>duine ann am bàta</h>
-            <p>Examples where the deep subject of <g>an</g> is the common noun <a href="?gd=duine"><g>duine</g></a> <masc/> <en>a person, a man</en> – <g>duine ann am bàta</g> <en>a person/man in a boat</en> –<xl>
-                    <li>
-                        <gd>Cha robh duine anns a’ bhàta.</gd>
-                        <tr>There was no one in the boat.</tr>
-                        <ref text="617">td. 21</ref>
-                    </li>
-                </xl></p>
-        </module>
-    </module>
-    <module>
-        <h>faic bàta</h>
-        <p><xl>
-                <li>
-                    <gd>Chunnaic mi bàtaichean air a’ mhuir.</gd>
-                    <tr>I saw boats on the sea.</tr>
-                    <ref text="617">td. 21</ref>
-                </li>
-                <li>
-                    <gd>Bha mi aig a’ chladach an diugh. Chunnaic mi bàtaichean air a’ mhuir.</gd>
-                    <tr>I was at the shore today. I saw boats on the sea.</tr>
-                    <ref text="617">td. 21</ref>
-                </li>
-            </xl></p>
-    </module>
-
+    </section>
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>subject</h>
+            <p><g>bàta</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <module id="baata_air">
+                <h>bàta air ...</h>
+                <p><g>bàta</g> can be the subject of <a href="?gd=air"><g>air</g></a>
+                    <prep/>
+                    <en>on</en>, with particular classes of prepositional object.</p>
+                <module id="baata_air_muir">
+                    <h>bàta air muir</h>
+                    <p>When <g>bàta</g> is the subject of <g>air</g>, the object can be the common
+                        noun <a href="?gd=muir"><g>muir</g></a>
+                        <fem/>
+                        <en>a sea</en> – <xl>
+                            <li>
+                                <gd>Chunnaic mi bàtaichean air a’ mhuir.</gd>
+                                <tr>I saw boats on the sea.</tr>
+                                <ref text="617">td. 21</ref>
+                            </li>
+                        </xl></p>
+                </module>
+                <module id="baata_air_tiir">
+                    <h>bàta air [tìr]</h>
+                    <p>When <g>bàta</g> is the subject of <g>air</g>, the object can be any common
+                        nouns which denotes a piece of land, typically at the edge of the sea.</p>
+                    <module>
+                        <h>bàta air cladach</h>
+                        <p>When <g>bàta</g> is the subject of <g>air</g>, the object can be the
+                            common noun <a href="?gd=cladach"><g>cladach</g></a>
+                            <masc/>
+                            <en>a shore</en> – <xl>
+                                <li>
+                                    <gd>An robh am bàta air a’ chladach? Bha.</gd>
+                                    <tr>Was the boat is on the shore? Yes, it was.</tr>
+                                    <ref text="617">td. 17 [adapted]</ref>
+                                </li>
+                            </xl></p>
+                    </module>
+                    <module>
+                        <h>bàta air tràigh</h>
+                        <p>When <g>bàta</g> is the subject of <g>air</g>, the object can be the
+                            common noun <a href="?gd=traaigh"><g>tràigh</g></a>
+                            <fem/>
+                            <en>a beach</en> –<xl>
+                                <li>
+                                    <gd>Cha bhi bàta beag air an traigh.</gd>
+                                    <tr>There won’t be a little boat on the beach.</tr>
+                                    <ref text="617">td. 21 [adapted]</ref>
+                                </li>
+                            </xl></p>
+                    </module>
+                </module>
+            </module>
+        </section>
+        <section>
+            <h>object</h>
+            <p><g>bàta</g> can be the object of certain prepositions.</p>
+            <module id="ann_am_baata">
+                <h>... ann am bàta</h>
+                <p><g>bàta</g> can be the object of <a href=">gd=an^preposition"><g>an</g></a>
+                    <prep/>
+                    <en>in</en>, with particular classes of prepositional subject.</p>
+                <module>
+                    <h>[duine] ann am bàta</h>
+                    <p>Where <g>bàta</g> is the object of <g>an</g>, the subject can be any
+                        noun or pronoun which denotes or refers to a person –<xl>
+                            <li>
+                                <gd>Cha robh duine anns a’ bhàta.</gd>
+                                <tr>There was no one in the boat.</tr>
+                                <ref text="617">td. 21</ref>
+                            </li>
+                        </xl></p>
+                </module>
+            </module>
+        </section>
+    </section>
+    <section>
+        <h>verbs</h>
+        <section>
+            <h>object</h>
+            <p><g>bàta</g> can be the object of certain (transitive) <a href="?xx=verbs/verbs">verbs</a>.</p>
+            <module id="faic_baata">
+                <h>faic [duine] bàta</h>
+                <p><g>bàta</g> can be the object of <a href=">gd=faic"><g>faic</g></a> <vb/> <en>see</en>, with the subject being any noun or pronoun which denotes or refers to a person –
+                    <xl>
+                        <li>
+                            <gd>Bha mi aig a’ chladach an diugh. Chunnaic mi bàtaichean air a’
+                                mhuir.</gd>
+                            <tr>I was at the shore today. I saw boats on the sea.</tr>
+                            <ref text="617">td. 21</ref>
+                        </li>
+                    </xl></p>
+            </module>
+        </section>
+    </section>
 
 
     <!--

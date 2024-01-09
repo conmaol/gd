@@ -32,7 +32,8 @@ TextContent = (
   |  element masc {empty} 
   |  element fem {empty} 
   |  element adj {empty} 
-  |  element vb {empty} 
+  |  element vb {empty}
+  |  element prep {empty} 
   |  element etc {empty} 
   |  element eg {empty} 
   |  element slen {empty} 
