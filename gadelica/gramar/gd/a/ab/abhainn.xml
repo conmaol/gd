@@ -18,6 +18,14 @@
             </p>
             <p>Examples of <g>abhainn</g> with the <a href="?xx=nouns/definite_article">definite
                     article</a> as pre-specifier – <ul>
+                    <li>nominative – <g>an abhainn</g>
+                        <en>the river</en> – <xl>
+                            <li>
+                                <gd>[Tha an abhainn gorm.]</gd>
+                                <ref text=""/>
+                            </li>
+                        </xl>
+                    </li>
                     <li>dative – <g>(air) an abhainn</g>
                         <en>(on) the river</en> – <xl>
                             <li>
@@ -29,6 +37,21 @@
                     </li>
                 </ul>
             </p>
+        </section>
+        <section>
+            <h>modifier</h>
+            <module>
+                <h>abhainn dhubh</h>
+                <p>Examples of <g>abhainn</g> with the attributive adjective <a href="?gd=dubh"
+                            ><g>dubh</g></a>
+                    <en>black</en> – <xl>
+                        <li>
+                            <gd>[Bha abhainn dhubh anns a’ bhaile.]</gd>
+                            <ref text=""/>
+                        </li>
+                    </xl>
+                </p>
+            </module>
         </section>
     </section>
 
@@ -280,11 +303,26 @@
         <p>Examples of <g>aibhne</g> as the (post-)specifier of a noun – <ul> </ul>
         </p>
     </module>
+-->
 
-    <module id="aibhnichean">
+    <module>
         <h>aibhnichean</h>
         <p><g>aibhnichean</g>
             <en>rivers</en> is the plural form of <g>abhainn</g>.</p>
-    </module>-->
+        <section>
+            <h>dependents</h>
+            <section>
+                <h>specifier</h>
+                <p>Examples of <g>aibhnichean</g> without a specifier – <xl>
+                        <li>
+                            <gd>[Chunnaic mi aibhnichean ann an Alba.]</gd>
+                            <ref text=""/>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+        </section>
+
+    </module>
 
 </module>

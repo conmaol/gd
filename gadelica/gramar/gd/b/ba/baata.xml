@@ -5,91 +5,226 @@
         <en>a boat</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
 
-    <p>Examples of <g>bàta</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
-        – <ul>
-            <li>non-specified – <ul>
-                    <li>with attributive adjective – <xl>
+    <module>
+        <h>bàta beag</h>
+        <p>Examples where <g>bàta</g> is the (deep) subject of the adjective <a href="?gd=beag"
+                    ><g>beag</g></a>
+            <en>small</en> – <g>bàta beag</g> <en>a small boat</en> – <xl>
+                <li>
+                    <gd>Tha bàta beag air an traigh.</gd>
+                    <tr>There is a little boat on the beach.</tr>
+                    <ref text="617">td. 21 [adapted]</ref>
+                </li>
+            </xl></p>
+    </module>
+    <module>
+        <h>bàta air ...</h>
+        <p><g>bàta</g> can be used as the (deep) subject of the preposition <a href="?gd=air"
+                    ><g>air</g></a>
+            <en>on</en> – <g>bàta air ...</g> <en>a boat on ...</en></p>
+        <module>
+            <h>bàta air cladach/tràigh</h>
+            <p>The object of <g>air</g> can denote a strip of land bordering the sea.</p>
+            <module>
+                <h>bàta air cladach</h>
+                <p>Examples where the object of <g>air</g> is the common noun <a href="?gd=cladach"
+                            ><g>cladach</g></a>
+                    <masc/>
+                    <en>a shore</en> – <g>bàta air cladach</g> <en>a boat on a shore</en> – <xl>
+                        <li>
+                            <gd>An robh am bàta air a’ chladach? Bha.</gd>
+                            <tr>Was the boat is on the shore? Yes, it was.</tr>
+                            <ref text="617">td. 17 [adapted]</ref>
+                        </li>
+                    </xl></p>
+            </module>
+            <module>
+                <h>bàta air tràigh</h>
+                <p>Examples where the object of <g>air</g> is the common noun <a href="?gd=traaigh"
+                            ><g>tràigh</g></a>
+                    <fem/>
+                    <en>a beach</en> – <g>bàta air tràigh</g> <en>a boat on a beach</en> –<xl>
+                        <li>
+                            <gd>Cha bhi bàta beag air an traigh.</gd>
+                            <tr>There won’t be a little boat on the beach.</tr>
+                            <ref text="617">td. 21 [adapted]</ref>
+                        </li>
+                    </xl></p>
+            </module>
+        </module>
+        <module>
+            <h>bàta air muir</h>
+            <p>Examples where the object of <g>air</g> is the common noun <a href="?gd=muir"
+                        ><g>muir</g></a>
+                <fem/>
+                <en>a sea</en> – <g>bàta air muir</g> <en>a boat on a sea</en> –<xl>
+                    <li>
+                        <gd>Chunnaic mi bàtaichean air a’ mhuir.</gd>
+                        <tr>I saw boats on the sea.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                </xl></p>
+        </module>
+    </module>
+    <module>
+        <h>... ann am bàta</h>
+        <p><g>bàta</g> can be used as the object of the preposition <a href=">gd=an^preposition"><g>an</g></a> <en>in</en> – <g>... ann am bàta</g> <en>... in a boat</en>.</p>
+        <module>
+            <h>duine ann am bàta</h>
+            <p>Examples where the deep subject of <g>an</g> is the common noun <a href="?gd=duine"><g>duine</g></a> <masc/> <en>a person, a man</en> – <g>duine ann am bàta</g> <en>a person/man in a boat</en> –<xl>
+                    <li>
+                        <gd>Cha robh duine anns a’ bhàta.</gd>
+                        <tr>There was no one in the boat.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                </xl></p>
+        </module>
+    </module>
+    <module>
+        <h>faic bàta</h>
+        <p><xl>
+                <li>
+                    <gd>Chunnaic mi bàtaichean air a’ mhuir.</gd>
+                    <tr>I saw boats on the sea.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+                <li>
+                    <gd>Bha mi aig a’ chladach an diugh. Chunnaic mi bàtaichean air a’ mhuir.</gd>
+                    <tr>I was at the shore today. I saw boats on the sea.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+            </xl></p>
+    </module>
+
+
+
+    <!--
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>Examples of <g>bàta</g> without a specifier – <xl>
+                <li>
+                    <gd>Bha bàta beag air an traigh.</gd>
+                    <tr>There was a little boat on the beach.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+            </xl>
+            </p>
+            <p>Examples of <g>bàta</g> with the <a href="?xx=nouns/definite_article">definite
+                article</a> as pre-specifier – <ul>
+                    <li>nominative – <g>am bàta</g>
+                        <en>the boat</en> – <xl>
                             <li>
-                                <gd>Bha bàta beag air an traigh.</gd>
-                                <tr>There was a little boat on the beach.</tr>
+                                <gd>Tha am bàta air a’ chladach.</gd>
+                                <tr>The boat is on the shore.</tr>
+                                <ref text="617">td. 17</ref>
+                            </li>
+                        </xl>
+                    </li>
+                    <li>dative – <g>(anns) a’ bhàta</g>
+                        <en>(in) the boat</en> – <xl>
+                            <li>
+                                <gd>Cha robh duine anns a’ bhàta.</gd>
+                                <tr>There was no one in the boat.</tr>
                                 <ref text="617">td. 21</ref>
                             </li>
                         </xl>
                     </li>
                 </ul>
-            </li>
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>am bàta</g>
-                        <en>the boat</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>Tha am bàta air a’ chladach.</gd>
-                                        <tr>The boat is on the shore.</tr>
-                                        <ref text="617">td. 17</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                        </ul>
+            </p>
+        </section>
+        <section>
+            <h>modifier</h>
+            <module>
+                <h>bàta beag</h>
+                <p>Examples of <g>bàta</g> with the attributive adjective <a href="?gd=beag"
+                    ><g>beag</g></a>
+                    <en>small</en> – <xl>
+                        <li>
+                            <gd>Bha bàta beag air an traigh.</gd>
+                            <tr>There was a little boat on the beach.</tr>
+                            <ref text="617">td. 21</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+    
+    <section>
+        <h>uses</h>
+        <section>
+            <h>subject</h>
+            <p>Examples of <g>bàta</g> as the subject of the predicative verb <a href="?gd=bi"
+                ><g>bi</g></a>
+                <en>be</en> – <xl>
+                    <li>
+                        <gd>Bha bàta beag air an traigh.</gd>
+                        <tr>There was a little boat on the beach.</tr>
+                        <ref text="617">td. 21</ref>
                     </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
-    <!--<p>Examples of <g>bàta</g> as the subject of other verbs – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>
-    <p>Examples of <g>bàta</g> as the object of a (transitive) verb – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>-->
-    <p>Examples of <g>bàta</g> as the complement of the preposition <a href="?gd=an^preposition"
-                ><g>an</g></a>
-        <en>in</en> – <ul>
-            <!--<li>indefinite –</li>-->
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>anns a’ bhàta</g>
-                        <en>in the boat</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <!--<li>
-                        <gd>Tha an duine anns a’ bhàta.</gd>
-                        <tr>The man is in the boat.</tr>
+                    <li>
+                        <gd>A bheil am bàta air a’ chladach? Chan eil.</gd>
+                        <tr>Is the boat on the shore? No it isn’t.</tr>
                         <ref text="617">td. 17</ref>
-                    </li>-->
-                                    <li>
-                                        <gd>Cha robh duine anns a’ bhàta.</gd>
-                                        <tr>There was no one in the boat.</tr>
-                                        <ref text="617">td. 21</ref>
-                                    </li>
-                                </xl></li>
-                        </ul>
                     </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>complement</h>
+            <module>
+                <h>ann am bàta / anns a’ bhàta</h>
+                <p>Examples of <g>bàta</g> as the complement of the preposition <a
+                    href="?gd=an^preposition"><g>an</g></a>
+                    <en>in</en> – <xl>
+                        <li>
+                            <gd>Cha robh duine anns a’ bhàta.</gd>
+                            <tr>There was no one in the boat.</tr>
+                            <ref text="617">td. 21</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+    
     <module>
         <h>bàtaichean</h>
         <p><g>bàtaichean</g>
             <en>boats</en> is the plural form of <g>bàta</g>.</p>
-        <p>Examples of <g>bàtaichean</g> as the object of a (transitive) <a href="?xx=verbs/verbs"
-                >verb</a> – <ul>
-                <li>non-specified – <ul>
-                        <li>unmodified – <xl>
-                                <li>
-                                    <gd>Bha mi aig a’ chladach an diugh. Chunnaic mi bàtaichean air
-                                        a’ mhuir.</gd>
-                                    <tr>I was at the shore today. I saw boats on the sea.</tr>
-                                    <ref text="617">td. 21</ref>
-                                </li>
-                            </xl>
+        <section>
+            <h>dependents</h>
+            <section>
+                <h>specifier</h>
+                <p>Examples of <g>bàtaichean</g> without a specifier – <xl>
+                    <li>
+                        <gd>Chunnaic mi bàtaichean air a’ mhuir.</gd>
+                        <tr>I saw boats on the sea.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                </xl>
+                </p>
+            </section>
+        </section>
+        <section>
+            <h>uses</h>
+            <section>
+                <h>object</h>
+                <p>Examples of <g>bàtaichean</g> as the object of a (transitive) <a
+                    href="?xx=verbs/verbs">verb</a> – <xl>
+                        <li>
+                            <gd>Bha mi aig a’ chladach an diugh. Chunnaic mi bàtaichean air a’
+                                mhuir.</gd>
+                            <tr>I was at the shore today. I saw boats on the sea.</tr>
+                            <ref text="617">td. 21</ref>
                         </li>
-                    </ul>
-                </li>
-            </ul>
-        </p>
+                    </xl>
+                </p>
+            </section>
+        </section>
     </module>
+    -->
 
 </module>
