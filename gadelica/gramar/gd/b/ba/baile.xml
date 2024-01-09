@@ -5,65 +5,62 @@
         <en>a town, a village, a township</en> is a masculine <a
             href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
 
-    <!-- <p>Examples of <g>baile</g> modified by an attributive <a href="?xx=adjectives/adjectives"
-        >adjective</a> – <ul>
-            <li>indefinite – <xl>
-            </xl>
-            </li>
-            <li>definite – <xl>
-                </xl>
-            </li>
-        </ul>
-    </p>-->
-
-    <!--<p>Examples of <g>baile</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
-        – <ul>
-            <!-\-<li>indefinite – <xl>
-            </xl>
-            </li>-\->
-            <li>definite – <xl>
-                
-            </xl>
-            </li>
-        </ul>
-    </p>-->
-    <!--<p>Examples of <g>baile</g> as the subject of other verbs – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>
-    <p>Examples of <g>baile</g> as the object of a (transitive) verb – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>-->
-
-    <p>Examples of <g>baile</g> as the complement of the preposition <a href="?gd=an^preposition"
-                ><g>an</g></a>
-        <en>in</en> – <ul>
-            <!--<li>indefinite –</li>-->
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>anns a’ bhaile</g>
-                        <en>in the town</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>Tha Màiri anns a’ bhaile an diugh.</gd>
-                                        <tr>Mary is in the town today.</tr>
-                                        <ref text="617">td. 20 [adapted]</ref>
-                                    </li>
-                                    <li>
-                                        <gd>An robh Seumas anns a’ bhaile an diugh? Bha.</gd>
-                                        <tr>Was James in the town today? Yes, he was.</tr>
-                                        <ref text="617">td. 21 [229]</ref>
-                                    </li>
-                                </xl>
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>Examples of <g>baile</g> with the <a href="?xx=nouns/definite_article">definite
+                    article</a> as pre-specifier – <ul>
+                    <li>dative – <g>(anns) a’ bhaile</g>
+                        <en>(in) the town</en> – <xl>
+                            <li>
+                                <gd>Tha Màiri anns a’ bhaile an diugh.</gd>
+                                <tr>Mary is in the town today.</tr>
+                                <ref text="617">td. 20 [adapted]</ref>
                             </li>
-                        </ul>
+                            <li>
+                                <gd>An robh am bodach anns a’ bhaile? Bha.</gd>
+                                <tr>Was the old man in the town? Yes, he was.</tr>
+                                <ref text="617">td. 21 [229]</ref>
+                            </li>
+                        </xl>
                     </li>
                 </ul>
-            </li>
-        </ul>
-    </p>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>uses</h>
+        <section>
+            <h>complement</h>
+            <module>
+                <h>ann am baile / anns a’ bhaile</h>
+                <p>Examples of <g>baile</g> as the complement of the preposition <a href="?gd=an^preposition"
+                            ><g>an</g></a>
+                    <en>in</en> – <xl>
+                        <li>
+                            <gd>Bha iad anns a’ bhaile an diugh.</gd>
+                            <tr>They were in the town today.</tr>
+                            <ref text="617">td. 20 [adapted]</ref>
+                        </li>
+                        <li>
+                            <gd>Nach biodh Seumas anns a’ bhaile? Cha bhiodh.</gd>
+                            <tr>Wouldn’t James be in the town? No, he wouldn’t.</tr>
+                            <ref text="617">td. 21 [229]</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+
+
+
+
+
+
+
 
     <!--<section>
         <h>dependents</h>

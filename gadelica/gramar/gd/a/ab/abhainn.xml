@@ -5,165 +5,286 @@
         <en>a river</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
 
-    <section id="sbj">
-        <h>subject</h>
-        <p>Examples of <g>abhainn</g> as the subject of the predicative verb <a href="?gd=bi"
-                    ><g>bi</g></a> – <ul>
-                <li>non-specified – <ul>
-                        <li>unmodified – <xl>
-                                <li>
-                                    <gd>[Tha abhainn ann an Alba.]</gd>
-                                    <ref text=""/>
-                                </li>
-                            </xl>
-                        </li>
-                        <li>attributive adjective – <xl>
-                                <li>
-                                    <gd>[Tha abhainn mhór ann an Alba.]</gd>
-                                    <ref text=""/>
-                                </li>
-                            </xl></li>
-                        <li>preposition – <xl>
-                                <li>
-                                    <gd>[Tha abhainn ann an Alba mór.]</gd>
-                                    <ref text=""/>
-                                </li>
-                            </xl></li>
-                        <li>relative – <xl>
-                                <li>
-                                    <gd>[Tha abhainn a chunnaic mi ann an Alba.]</gd>
-                                    <ref text=""/>
-                                </li>
-                            </xl></li>
-                        <li>genitive noun – <xl>
-                                <li>
-                                    <gd>[Tha abhainn deighe ann an Alba.]</gd>
-                                    <ref text=""/>
-                                </li>
-                            </xl></li>
-                    </ul>
-                </li>
-                <li>pre-specified – <ul>
-                        <li>definite article – <g>an abhainn</g>
-                            <en>the river</en> – <ul>
-                                <li>unmodified – <xl>
-                                        <li>
-                                            <gd>[Tha an abhainn ann an Alba.]</gd>
-                                            <ref text=""/>
-                                        </li>
-                                    </xl>
-                                </li>
-                                <li>attributive adjective – <xl>
-                                        <li>
-                                            <gd>[Tha an abhainn mhór ann an Alba.]</gd>
-                                            <ref text=""/>
-                                        </li>
-                                    </xl></li>
-                                <li>preposition – <xl>
-                                        <li>
-                                            <gd>[Tha an abhainn ann an Alba mór.]</gd>
-                                            <ref text=""/>
-                                        </li>
-                                    </xl></li>
-                                <li>relative – <xl>
-                                        <li>
-                                            <gd>[Tha an abhainn a chunnaic mi ann an Alba.]</gd>
-                                            <ref text=""/>
-                                        </li>
-                                    </xl></li>
-                                <li>genitive noun – <xl>
-                                        <li>
-                                            <gd>[Tha an abhainn deighe ann an Alba.]</gd>
-                                            <ref text=""/>
-                                        </li>
-                                    </xl></li>
-                                <li>demonstrative – <xl>
-                                        <li>
-                                            <gd>[Tha an abhainn sin ann an Alba.]</gd>
-                                            <ref text=""/>
-                                        </li>
-                                    </xl>
-                                </li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-                <li>post-specified –</li>
-            </ul>
-        </p>
-        <p>Examples of <g>abhainn</g> as the subject of a demonstrative pronoun – <ul>
-                <li>pre-specified – <ul>
-                        <li>definite article – <ul>
-                                <li>unmodified – <xl> </xl>
-                                </li>
-                                <li>demonstrative – <xl> </xl>
-                                </li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-            </ul>
-        </p>
-        <p>Examples of <g>abhainn</g> as the subject of other verbs – <ul>
-                <li>indefinite –</li>
-                <li>definite –</li>
-            </ul>
-        </p>
+    <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>Examples of <g>abhainn</g> without a specifier – <xl>
+                    <li>
+                        <gd>[Tha abhainn anns a’ bhaile.]</gd>
+                        <ref text=""/>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples of <g>abhainn</g> with the <a href="?xx=nouns/definite_article">definite
+                    article</a> as pre-specifier – <ul>
+                    <li>dative – <g>(air) an abhainn</g>
+                        <en>(on) the river</en> – <xl>
+                            <li>
+                                <gd>Bha Alasdair ag iasgach air an abhainn.</gd>
+                                <tr>Alexander was fishing on the river.</tr>
+                                <ref text="617">td. 20 [adapted]</ref>
+                            </li>
+                        </xl>
+                    </li>
+                </ul>
+            </p>
+        </section>
     </section>
 
-    <section id="obj">
+    <section>
+        <h>uses</h>
+        <section>
+            <h>subject</h>
+            <p>Examples of <g>abhainn</g> as the subject of the predicative verb <a href="?gd=bi"
+                        ><g>bi</g></a>
+                <en>be</en> – <xl>
+                    <li>
+                        <gd>[Bha abhainn anns a’ bhaile.]</gd>
+                        <ref text=""/>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>complement</h>
+            <module>
+                <h>air (an) abhainn</h>
+                <p>Examples of <g>abhainn</g> as the complement of the preposition <a href="?gd=air"
+                            ><g>air</g></a>
+                    <en>on</en> – <xl>
+                        <li>
+                            <gd>Am bi sibh ag iasgach air an abhainn? Bidh.</gd>
+                            <tr>Will you be fishing on the river? Yes, we will.</tr>
+                            <ref text="617">td. 20 [adapted]</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+
+
+
+
+    <!--<section id="sbj">
+        <h>subject</h>
+        <module id="bi_abhainn">
+            <h>bi abhainn ...</h>
+            <p>Examples of <g>abhainn</g> as the subject of the predicative verb <a href="?gd=bi"
+                        ><g>bi</g></a> – <ul>
+                    <li>non-specified – <ul>
+                            <li>unmodified – <xl>
+                                    <li>
+                                        <gd>[Tha abhainn ann an Glaschu.]</gd>
+                                        <ref text=""/>
+                                    </li>
+                                </xl>
+                            </li>
+                            <li>attributive adjective – <xl>
+                                    <li>
+                                        <gd>[Tha abhainn mhór ann an Glaschu.]</gd>
+                                        <ref text=""/>
+                                    </li>
+                                </xl></li>
+                            <li>preposition – <xl>
+                                    <li>
+                                        <gd>[Tha abhainn ann an Glaschu mór.]</gd>
+                                        <ref text=""/>
+                                    </li>
+                                </xl></li>
+                            <li>relative – <xl>
+                                    <li>
+                                        <gd>[Tha abhainn a chunnaic mi mór.]</gd>
+                                        <ref text=""/>
+                                    </li>
+                                    <li>
+                                        <gd>[Tha abhainn nach fhaca mi mór.]</gd>
+                                        <ref text=""/>
+                                    </li>
+                                </xl></li>
+                            <li>genitive noun – <xl>
+                                    <li>
+                                        <gd>[Tha abhainn deighe ann an Alba.]</gd>
+                                        <ref text=""/>
+                                    </li>
+                                </xl></li>
+                        </ul>
+                    </li>
+                    <li>pre-specified – <ul>
+                            <li>definite article – <g>an abhainn</g>
+                                <en>the river</en> – <ul>
+                                    <li>unmodified – <xl>
+                                            <li>
+                                                <gd>[Tha an abhainn ann an Glaschu.]</gd>
+                                                <ref text=""/>
+                                            </li>
+                                        </xl>
+                                    </li>
+                                    <li>attributive adjective – <xl>
+                                            <li>
+                                                <gd>[Tha an abhainn mhór ann an Glaschu.]</gd>
+                                                <ref text=""/>
+                                            </li>
+                                        </xl></li>
+                                    <li>preposition – <xl>
+                                            <li>
+                                                <gd>[Tha an abhainn ann an Glaschu mór.]</gd>
+                                                <ref text=""/>
+                                            </li>
+                                        </xl></li>
+                                    <li>relative – <xl>
+                                            <li>
+                                                <gd>[Tha an abhainn a chunnaic mi ann an
+                                                  Glaschu.]</gd>
+                                                <ref text=""/>
+                                            </li>
+                                            <li>
+                                                <gd>[Tha an abhainn nach fhaca mi ann an
+                                                  Glaschu.]</gd>
+                                                <ref text=""/>
+                                            </li>
+                                        </xl></li>
+                                    <li>genitive noun – <xl>
+                                            <li>
+                                                <gd>[Tha an abhainn deighe ann an Alba.]</gd>
+                                                <ref text=""/>
+                                            </li>
+                                        </xl></li>
+                                    <li>demonstrative – <xl>
+                                            <li>
+                                                <gd>[Tha an abhainn sin ann an Alba.]</gd>
+                                                <ref text=""/>
+                                            </li>
+                                        </xl>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>possessive – <g>mo abhainn</g>
+                                <en>my river</en>
+                                <etc/> – <ul>
+                                    <li>unmodified – <xl>
+                                            <li>
+                                                <gd>[Tha mo abhainn ann an Glaschu.]</gd>
+                                                <ref text=""/>
+                                            </li>
+                                        </xl>
+                                    </li>
+                                    <li>attributive adjective – <xl>
+                                            <li>
+                                                <gd>[Tha mo abhainn mhór ann an Glaschu.]</gd>
+                                                <ref text=""/>
+                                            </li>
+                                        </xl></li>
+                                    <li>preposition – <xl>
+                                            <li>
+                                                <gd>[Tha mo abhainn ann an Glaschu mór.]</gd>
+                                                <ref text=""/>
+                                            </li>
+                                        </xl></li>
+                                    <li>relative – <xl>
+                                            <li>
+                                                <gd>[Tha a h-abhainn a chunnaic mi ann an
+                                                  Glaschu.]</gd>
+                                                <ref text=""/>
+                                            </li>
+                                            <li>
+                                                <gd>[Tha a h-abhainn nach fhaca mi ann an
+                                                  Glaschu.]</gd>
+                                                <ref text=""/>
+                                            </li>
+                                        </xl></li>
+                                    <li>genitive noun – <xl>
+                                            <li>
+                                                <gd>[Tha mo abhainn deighe ann an Alba.]</gd>
+                                                <ref text=""/>
+                                            </li>
+                                        </xl></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>post-specified –</li>
+                </ul>
+            </p>
+        </module>
+        <module id="seo_abhainn">
+            <h>seo abhainn</h>
+            <p>Examples of <g>abhainn</g> as the subject of a demonstrative pronoun – <ul>
+                    <li>pre-specified – <ul>
+                            <li>definite article – <ul>
+                                    <li>unmodified – <xl> </xl>
+                                    </li>
+                                    <li>demonstrative – <xl> </xl>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </module>
+        <section id="other_verbs">
+            <h>other verbs</h>
+            <p>Examples of <g>abhainn</g> as the subject of other verbs – <ul>
+                    <li>indefinite –</li>
+                    <li>definite –</li>
+                </ul>
+            </p>
+        </section>
+
+    </section>-->
+
+    <!--<section id="obj">
         <h>object</h>
         <p>Examples of <g>abhainn</g> as the object of a (transitive) verb – <ul>
                 <li>indefinite –</li>
                 <li>definite –</li>
             </ul>
         </p>
-    </section>
+    </section>-->
 
-    <section id="comp">
+    <!--<section id="comp">
         <h>complement</h>
-        <p>Examples of <g>abhainn</g> as the complement of the preposition <a href="?gd=air"
-                    ><g>air</g></a>
-            <en>on</en> – <ul>
-                <li>pre-specified – <ul>
-                        <li>definite article – <g>air an abhainn</g>
-                            <en>on the river</en> – <ul>
-                                <li>unmodified – <xl>
-                                        <li>
-                                            <gd>Bha Alasdair ag iasgach air an abhainn.</gd>
-                                            <tr>Alexander was fishing on the river.</tr>
-                                            <ref text="617">td. 20 [adapted]</ref>
-                                        </li>
-                                    </xl>
-                                </li>
-                            </ul>
-                        </li>
-                    </ul>
-                </li>
-            </ul>
+        <module id="air_abhainn">
+            <h>air abhainn</h>
+            <p>Examples of <g>abhainn</g> as the complement of the preposition <a href="?gd=air"
+                        ><g>air</g></a>
+                <en>on</en> – <ul>
+                    <li>pre-specified – <ul>
+                            <li>definite article – <g>air an abhainn</g>
+                                <en>on the river</en> – <ul>
+                                    <li>unmodified – <xl>
+                                            <li>
+                                                <gd>Bha Alasdair ag iasgach air an abhainn.</gd>
+                                                <tr>Alexander was fishing on the river.</tr>
+                                                <ref text="617">td. 20 [adapted]</ref>
+                                            </li>
+                                        </xl>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </module>
+    </section>-->
+
+
+
+    <!--<module id="aibhne">
+        <h>aibhne</h>
+        <p><g>aibhne</g>
+            <en>a river’s</en> is the genitive (singular) form of <g>abhainn</g>.</p>
+        <p>Examples of <g>aibhne</g> as the (post-)specifier of a noun – <ul> </ul>
         </p>
-    </section>
+    </module>
 
-
-
-
-    <!-- <module>
+    <module id="aibhnichean">
         <h>aibhnichean</h>
         <p><g>aibhnichean</g>
             <en>rivers</en> is the plural form of <g>abhainn</g>.</p>
-        
     </module>-->
-
-    <!--<module>
-    <h>aibhne</h>
-    <p><g>aibhne</g>
-        <en>a river’s</en> is the genitive (singular) form of <g>abhainn</g>.</p>
-    <p>Examples of <g>aibhne</g> as the (post-)specifier of a noun – <ul>
-        
-    </ul>
-    </p>
-    
-</module>-->
-
 
 </module>
