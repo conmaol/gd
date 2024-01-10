@@ -5,7 +5,25 @@
   <p><g>air</g>
     <en>on, upon</en> is the (non-leniting) superessive <a href="?xx=prepositions/prepositions"
       >preposition</a>.</p>
-  <section id="forms">
+
+  <module>
+    <h>leabhar air bòrd</h>
+    <p><g><a href="?gd=leabhar">leabhar</a> air <a href="?gd=boord">bòrd</a></g>
+      <en>a book on a table</en> – <xl>
+        <li>
+          <gd>Càit a bheil an leabhar? Tha an leabhar air a’ bhòrd.</gd>
+          <tr>Where is the book? The book is on the table.</tr>
+          <ref text="617">td. 20</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+
+
+
+
+
+  <!--<section id="forms">
     <h>forms</h>
     <section id="indefinite">
       <h>indefinite</h>
@@ -97,7 +115,7 @@
         </ul>
       </p>
     </section>
-  </section>
+  </section>-->
 
   <section>
     <h>dependents</h>
@@ -130,11 +148,7 @@
             <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
             <ref text="617">td. 20</ref>
           </li>
-          <li>
-            <gd>Càit a bheil an leabhar? Tha an leabhar <m>air a’ bhòrd</m>.</gd>
-            <tr>Where is the book? The book is on the table.</tr>
-            <ref text="617">td. 20</ref>
-          </li>
+
           <li>
             <gd>Có bha ag iasgach an diugh? Bha Alasdair. Càit an robh Alasdair ag iasgach? Bha e ag
               iasgach <m>air an abhainn</m>.</gd>

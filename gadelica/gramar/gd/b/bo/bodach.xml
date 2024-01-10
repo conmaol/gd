@@ -4,55 +4,48 @@
     <p><g>bodach</g>
         <en>an old man</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
-    
-    <p>Examples of <g>bodach</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
-        – <ul>
-            <!--<li>indefinite – <xl>
-            </xl>
-            </li>-->
-            <li>pre-specified – 
-                <ul>
-                    <li>definite article – <g>am bodach</g> <en>the old man</en> – 
-                        <ul>
-                            <li>unmodified – 
-                                <xl>
-                                    <li>
-                                        <gd>Tha am bodach anns a’ mhonadh leis a’ chù.</gd>
-                                        <tr>The old man is on the moor with the dog.</tr>
-                                        <ref text="617">td. 21 [229]</ref>
-                                    </li>
-                                </xl>
+
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>subject</h>
+            <p><g>bodach</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <module id="bodach_an">
+                <h>bodach ann an ...</h>
+                <p><g>bodach <a href="?gd=an^preposition">ann an</a> ...</g>
+                    <en>an old man in ...</en></p>
+                <module>
+                    <h>bodach ann am monadh</h>
+                    <p><g>bodach ann am monadh</g>
+                        <en>an old man on a moor</en> – <xl>
+                            <li>
+                                <gd>Tha am bodach anns a’ mhonadh leis a’ chù.</gd>
+                                <tr>The old man is on the moor with the dog.</tr>
+                                <ref text="617">td. 21 [229]</ref>
                             </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
-    <!--<p>Examples of <g>bodach</g> as the subject of other verbs – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>
-    <p>Examples of <g>bodach</g> as the object of a (transitive) verb – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>-->
-    
-    <!--<p>Examples of <g>bodach</g> as the complement of the preposition <a href="?gd=aig"
-        ><g>aig</g></a>
-        <en>at</en> –  <ul>
-            <!-\-<li>indefinite –</li>-\->
-            <li>definite – <xl>
-                
-            </xl>
-            </li>
-        </ul>
-    </p>-->
-    
-   
-    
+                        </xl>
+                    </p>
+                </module>
+            </module>
+            <module id="bodach_le">
+                <h>bodach le ...</h>
+                <p><g>bodach <a href="?gd=le">le</a> ...</g>
+                    <en>an old man with ...</en></p>
+                <module>
+                    <h>bodach le cù</h>
+                    <p><g>bodach le cù</g>
+                        <en>an old man with a dog</en> – <xl>
+                            <li>
+                                <gd>Tha am bodach anns a’ mhonadh leis a’ chù.</gd>
+                                <tr>The old man is on the moor with the dog.</tr>
+                                <ref text="617">td. 21 [229]</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
+
 </module>
-
-

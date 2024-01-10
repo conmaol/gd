@@ -5,50 +5,30 @@
         <en>a Bible</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
 
-    <p>Examples of <g>Bìobull</g> as the subject of the predicative verb <a href="?gd=bi"
-            ><g>bi</g></a> – <ul>
-            <li>non-specified – 
-                <ul>
-                    <li>unmodified –
-                        <xl>
-                            <li>
-                                <gd>Nach robh leabhar anns a’ bhocsa sin? Bha. Bha Bìobull ann.</gd>
-                                <tr>Wasn’t there a book in that box? Yes, there was. There was a Bible (in it).</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                        </xl>
-                    </li>
-                </ul>
-               
-            </li>
-            <!--<li>definite – <xl>
-                
-            </xl>
-            </li>-->
-        </ul>
-    </p>
-    <!--<p>Examples of <g>Bìobull</g> as the subject of other verbs – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>
-    <p>Examples of <g>Bìobull</g> as the object of a (transitive) verb – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>-->
-
-    <!--<p>Examples of <g>Bìobull</g> as the complement of the preposition <a href="?gd=aig"
-        ><g>aig</g></a>
-        <en>at</en> –  <ul>
-            <!-\-<li>indefinite –</li>-\->
-            <li>definite – <xl>
-                
-            </xl>
-            </li>
-        </ul>
-    </p>-->
-
-   
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>subject</h>
+            <p><g>Bìobull</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <module id="biiobull_an">
+                <h>Bìobull ann an ...</h>
+                <p><g>Bìobull <a href="?gd=an^preposition">ann an</a> ...</g>
+                    <en>a Bible in ...</en>.</p>
+                <module>
+                    <h>Bìobull ann am bocsa</h>
+                    <p><g>Bìobull ann am <a href="?gd=bocsa">bocsa</a></g>
+                    <en>a Bible in a box</en> – <xl>
+                        <li>
+                            <gd>Nach robh leabhar anns a’ bhocsa sin? Bha. Bha Bìobull ann.</gd>
+                            <tr>Wasn’t there a book in that box? Yes, there was. There was a Bible
+                                (in it).</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                    </xl>
+                </p></module>
+            </module>
+        </section>
+    </section>
 
 </module>

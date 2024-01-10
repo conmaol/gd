@@ -5,35 +5,39 @@
         <en>coal</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <p>Examples of <g>gual</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
-        – <ul>
-            <li>non-specified – <ul>
-                    <li>unmodified – <xl>
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>subject</h>
+            <p><g>gual</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <module id="gual_air">
+                <h>gual air ...</h>
+                <p><g>gual <a href="?gd=air">air</a> ...</g>
+                    <en>coal on ...</en>.</p>
+                <module>
+                    <h>gual air teine</h>
+                    <p><g>gual air <a href="?gd=teine">teine</a></g>
+                        <en>coal on a fire</en>. <xl>
                             <li>
                                 <gd>Tha gual air an teine.</gd>
                                 <tr>There is coal on the fire.</tr>
                                 <ref text="617">td. 14</ref>
                             </li>
                         </xl>
-                    </li>
-                </ul>
-            </li>
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>an gual</g>
-                        <en>the coal</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>Càit a bheil an gual?</gd>
-                                        <tr>Where is the coal?</tr>
-                                        <ref text="617">td. 15 [227]</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
+
+    <!--<xl>
+        <li>
+            <gd>Càit a bheil an gual?</gd>
+            <tr>Where is the coal?</tr>
+            <ref text="617">td. 15 [227]</ref>
+        </li>
+    </xl>-->
+
 
 </module>

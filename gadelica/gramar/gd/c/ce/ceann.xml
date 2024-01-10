@@ -2,58 +2,64 @@
 <module>
   <h>ceann</h>
   <p><g>ceann</g>
-    <en>a head</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
+    <en>a head</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+    noun</a>.</p>
 
-  <p>Examples of <g>ceann</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
-    – <ul>
-      <li>non-specified – <ul>
-          <li>attributive adjective – <xl>
+  <section>
+    <h>adjectives</h>
+    <p><g>ceann</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
+        >adjectives</a>.</p>
+    <module id="ceann_moor">
+      <h>ceann mór</h>
+      <p><g>ceann <a href="?gd=moor">mór</a></g>
+        <en>a large head</en> – <xl>
+          <li>
+            <gd>Bha ceann mór air Seumas.</gd>
+            <tr>James had a big head.</tr>
+            <ref text="617">td. 14 [adapted]</ref>
+          </li>
+        </xl></p>
+    </module>
+    <module id="ceann_goirt">
+      <h>ceann goirt</h>
+      <p><g>ceann <a href="?gd=goirt">goirt</a></g>
+        <en>a sore head</en> – <xl>
+          <li>
+            <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
+            <tr>What is wrong with this boy? His head is sore.</tr>
+            <ref text="617">td. 20</ref>
+          </li>
+        </xl></p>
+    </module>
+  </section>
+
+  <section>
+    <h>prepositions</h>
+    <section>
+      <h>subject</h>
+      <p><g>ceann</g> can be the (deep) subject of certain <a href="?xx=prepositions/prepositions"
+          >prepositions</a>.</p>
+      <module id="ceann_air">
+        <h>ceann air ...</h>
+        <p><g>ceann <a href="?gd=air">air</a> ...</g>
+          <en>a head on ..., ... having a head</en>.</p>
+        <module>
+          <h>ceann air [duine]</h>
+          <p><g>ceann air [duine]</g>
+            <en>a head on [a man], [a man] having a head</en> – <xl>
               <li>
                 <gd>Bha ceann mór air Seumas.</gd>
                 <tr>James had a big head.</tr>
                 <ref text="617">td. 14 [adapted]</ref>
               </li>
             </xl>
-          </li>
-        </ul>
-      </li>
-      <li>pre-specified – <ul>
-          <li>possessive determiner – <g>mo cheann</g> <en>my head</en> <etc/> – <ul>
-              <li>unmodified – <xl>
-                  <li>
-                    <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
-                    <tr>What is wrong with this boy? His head is sore.</tr>
-                    <ref text="617">td. 20</ref>
-                  </li>
-                </xl>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-    </ul>
-  </p>
-  <!--<p>Examples of <g>ceann</g> as the subject of other verbs – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>
-    <p>Examples of <g>ceann</g> as the object of a (transitive) verb – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>-->
-
-  <!-- <p>Examples of <g>ceann</g> as the complement of the preposition <a href="?gd=aig"><g>aig</g></a>
-    <en>at</en> – <ul>
-      <!-\-<li>indefinite –</li>-\->
-      <li>definite – <xl> </xl>
-      </li>
-    </ul>
-  </p>-->
+          </p>
+        </module>
+      </module>
+    </section>
+  </section>
 
 
-  
 
   <!--<p>cf. <a href="?gd=os_cionn">os cionn</a>
     <en>above</en></p>

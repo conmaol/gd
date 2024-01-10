@@ -13,41 +13,24 @@
   </xsl:template>
 
   <xsl:template match="/module">
-    <xsl:variable name="colour">
-      <xsl:choose>
-        <xsl:when test="@status = 'bronze'">
-          <xsl:text>#cd7f32</xsl:text>
-        </xsl:when>
-        <xsl:otherwise>
-          <xsl:value-of select="@status"/>
-        </xsl:otherwise>
-      </xsl:choose>
-    </xsl:variable>
     <a href="{concat($uri,'&amp;print=')}"
       style="float: right; text-decoration: none; font-size: normal">[printable]</a>
     <h1>
-      <i class="fas fa-star" style="color: {$colour};" aria-hidden="true"/>
-      <xsl:text> </xsl:text>
       <xsl:apply-templates select="h/child::node()"/>
     </h1>
     <xsl:apply-templates select="p | module | section"/>
   </xsl:template>
 
-  <xsl:template match="module/module | section/module | section">
+  <xsl:template match="section">
     <section>
       <hr/>
-      <h4>
-        <xsl:if test="name(.) = 'section'">
-          <xsl:attribute name="class">
-            <xsl:text>text-muted text-uppercase</xsl:text>
-          </xsl:attribute>
-        </xsl:if>
+      <h5 class="text-muted text-uppercase">
         <xsl:apply-templates select="h/child::node()"/>
         <xsl:if test="@id">
           <xsl:text> </xsl:text>
           <a data-bs-toggle="collapse" href="{concat('#',@id)}" class="fs-6 fw-normal">[+/-]</a>
         </xsl:if>
-      </h4>
+      </h5>
       <section>
         <xsl:if test="@id">
           <xsl:attribute name="class">
@@ -57,19 +40,41 @@
             <xsl:value-of select="@id"/>
           </xsl:attribute>
         </xsl:if>
-
         <xsl:apply-templates
           select="p[not(preceding-sibling::module or preceding-sibling::section)]"/>
         <section class="ms-5">
           <xsl:apply-templates
             select="p[preceding-sibling::module or preceding-sibling::section] | module | section"/>
         </section>
+      </section>
+    </section>
+  </xsl:template>
 
-        <!--
+  <xsl:template match="*/module">
+    <section>
+      <hr/>
+      <h5>
+        <xsl:apply-templates select="h/child::node()"/>
+        <xsl:if test="@id">
+          <xsl:text> </xsl:text>
+          <a data-bs-toggle="collapse" href="{concat('#',@id)}" class="fs-6 fw-normal">[+/-]</a>
+        </xsl:if>
+      </h5>
+      <section>
+        <xsl:if test="@id">
+          <xsl:attribute name="class">
+            <xsl:text>collapse</xsl:text>
+          </xsl:attribute>
+          <xsl:attribute name="id">
+            <xsl:value-of select="@id"/>
+          </xsl:attribute>
+        </xsl:if>
+        <xsl:apply-templates
+          select="p[not(preceding-sibling::module or preceding-sibling::section)]"/>
         <section class="ms-5">
-          <xsl:apply-templates select="p | module | section"/>
+          <xsl:apply-templates
+            select="p[preceding-sibling::module or preceding-sibling::section] | module | section"/>
         </section>
-        -->
       </section>
     </section>
   </xsl:template>
@@ -229,7 +234,7 @@
   <xsl:template match="slen">
     <em>slen.</em>
   </xsl:template>
-  
+
   <xsl:template match="gen">
     <em>gen.</em>
   </xsl:template>
@@ -255,7 +260,7 @@
 
   <xsl:template match="xl/li">
     <li>
-      <xsl:apply-templates select="gd|tr"/>
+      <xsl:apply-templates select="gd | tr"/>
     </li>
   </xsl:template>
 
@@ -272,20 +277,17 @@
   </xsl:template>
 
   <xsl:template match="xl/li/tr">
-    <a href="#" data-bs-toggle="tooltip" data-bs-placement="bottom"
-      data-bs-html="true" style="text-decoration: none;">
+    <a href="#" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-html="true"
+      style="text-decoration: none;">
       <xsl:attribute name="data-bs-title">
         <xsl:text>“</xsl:text>
         <xsl:apply-templates/>
         <xsl:text>”</xsl:text>
         <xsl:apply-templates select="../note"/>
-      </xsl:attribute>
-      [?]
-    </a>
+      </xsl:attribute> [?] </a>
   </xsl:template>
 
-  <xsl:template match="xl[not(@id)]/li/ref">
-  </xsl:template>
+  <xsl:template match="xl[not(@id)]/li/ref"> </xsl:template>
 
   <xsl:template match="xl[@id]/li/ref">
     <a href="#" style="text-decoration: none;" data-bs-toggle="tooltip" data-bs-placement="bottom"
@@ -303,13 +305,13 @@
       data-bs-html="true">
       <xsl:attribute name="data-bs-title">-->
     <xsl:text>&lt;br/&gt;Notes – </xsl:text>
-        <xsl:apply-templates/>
-      <!--</xsl:attribute>
+    <xsl:apply-templates/>
+    <!--</xsl:attribute>
       <xsl:text>💡</xsl:text>
     </a>-->
   </xsl:template>
-  
-  
-  
+
+
+
 
 </xsl:stylesheet>

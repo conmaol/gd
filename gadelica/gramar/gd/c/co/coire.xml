@@ -5,44 +5,52 @@
         <en>a kettle</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
 
-    <p>Examples of <g>coire</g> as the subject of the predicative verb <a href="?gd=bi"
-            ><g>bi</g></a> – <ul>
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>an coire</g> <en>the kettle</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>Càit a bheil an coire? Tha an coire air a’ ghas.</gd>
-                                        <tr>Where is the kettle? The kettle is on the gas.</tr>
-                                        <ref text="617">td. 20</ref>
-                                    </li>
-                                </xl>
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>subject</h>
+            <p><g>coire</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <module id="coire_air">
+                <h>coire air ...</h>
+                <p><g>coire <a href="?gd=air">air</a> ...</g>
+                    <en>a kettle on ...</en>.</p>
+                <module>
+                    <h>coire air gas</h>
+                    <p><g>coire air <a href="?gd=gas">gas</a></g>
+                        <en>a kettle on a gas fire/ring/burner</en> – <xl>
+                            <li>
+                                <gd>Càit a bheil an coire? Tha an coire air a’ ghas.</gd>
+                                <tr>Where is the kettle? The kettle is on the gas.</tr>
+                                <ref text="617">td. 20</ref>
                             </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
-
-    <p>Examples of <g>coire</g> as the complement of the preposition <a href="?gd=an^preposition"
-                ><g>an</g></a>
-        <en>in</en> – <ul>
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>anns a’ choire</g>
-                        <en>in the kettle</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>A bheil uisge anns a’ choire? Tha.</gd>
-                                        <tr>Is there water in the kettle? Yes, there is.</tr>
-                                        <ref text="617">td. 120</ref>
-                                    </li>
-                                </xl>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+        <section>
+            <h>object</h>
+            <p><g>coire</g> can be the object of certain <a href="?xx=prepositions/prepositions"
+                    >prepositions</a>.</p>
+            <module id="ann_an_coire">
+                <h>... ann an coire</h>
+                <p><g>... <a href=">gd=an^preposition">ann an</a> coire</g>
+                    <en>... in a kettle</en>. </p>
+                <module>
+                    <h>uisge ann an coire</h>
+                    <p><g><a href="?gd=uisge">uisge</a> ann an coire</g>
+                        <en>water in a kettle</en> – <xl>
+                            <li>
+                                <gd>A bheil uisge anns a’ choire? Tha.</gd>
+                                <tr>Is there water in the kettle? Yes, there is.</tr>
+                                <ref text="617">td. 120</ref>
                             </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
 
 </module>

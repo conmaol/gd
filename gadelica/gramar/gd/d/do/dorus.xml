@@ -5,284 +5,59 @@
         <en>a door</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
 
-    <!-- <p>Examples of <g>dorus</g> modified by an attributive <a href="?xx=adjectives/adjectives"
-        >adjective</a> – <ul>
-            <li>indefinite – <xl>
-            </xl>
-            </li>
-            <li>definite – <xl>
-                </xl>
-            </li>
-        </ul>
-    </p>-->
-
-    <p>Examples of <g>dorus</g> as the subject of the predicative verb <a href="?gd=bi"
-            ><g>bi</g></a> – <ul>
-            <!--<li>indefinite – <xl>
-            </xl>
-            </li>-->
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>an dorus</g>
-                        <en>the door</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>Tha an dorus mór.</gd>
-                                        <tr>The door is big.</tr>
-                                        <ref text="617">td. 6</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
-    <!--<p>Examples of <g>bàta</g> as the subject of other verbs – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>
-    <p>Examples of <g>bàta</g> as the object of a (transitive) verb – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>-->
-
-    <p>Examples of <g>dorus</g> as the complement of the preposition <a href="?gd=aig"
-            ><g>aig</g></a>
-        <en>at</en> – <ul>
-            <!--<li>indefinite –</li>-->
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>aig an dorus</g>
-                        <en>at the door</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>Chunnaic mi cù aig an dorus.</gd>
-                                        <tr>I saw a dog at the door.</tr>
-                                        <ref text="617">td. 6</ref>
-                                    </li>
-                                    <!--<li>
-                    <gd>A bheil an cù aig an dorus?</gd>
-                    <tr>Is the dog at the door?</tr>
-                    <ref text="617">td. 11</ref>
-                </li>-->
-                                    <li>
-                                        <gd>A bheil an gille aig an dorus? Chan eil.</gd>
-                                        <tr>Is the boy at the door?</tr>
-                                        <ref text="617">td. 15 [adapted]</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
-
-    <!-- <module>
-        <h>doruis</h>
-    </module>
-
-    <module>
-        <h>dorsan</h>
-    </module>-->
-
-    <!--<section id="forms">
-        <h>forms</h>
-        <p>The principal parts of <g>dorus</g> are – <ul>
-                <li><m>dorus</m> – nominative/dative singular</li>
-                <li><m>doruis</m> – genitive singular</li>
-                <li><m>dorsan</m> – plural</li>
-            </ul>
-        </p>
-        <section id="definiteness">
-            <h>definiteness</h>
-            <p><ul>
-                    <li>indefinite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>dorus</m></li>
-                                    <li>dative – aig <m>dorus</m></li>
-                                    <li>genitive – bun <m>doruis</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>dorsan</m></li>
-                                    <li>dative – aig <m>dorsan</m></li>
-                                    <li>genitive – bunan <m>dhorsan</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>definite <ul>
-                            <li>singular <ul>
-                                    <li>nominative – <m>an dorus</m></li>
-                                    <li>dative – aig <m>an dorus</m></li>
-                                    <li>genitive – bun <m>an doruis</m></li>
-                                </ul></li>
-                            <li>plural <ul>
-                                    <li>nominative – <m>na dorsan</m></li>
-                                    <li>dative – aig <m>na dorsan</m></li>
-                                    <li>genitive – bunan <m>nan dorsan</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="number">
-            <h>number</h>
-            <p><ul>
-                    <li>singular <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>dorus</m></li>
-                                    <li>dative – aig <m>dorus</m></li>
-                                    <li>genitive – bun <m>doruis</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>an dorus</m></li>
-                                    <li>dative – aig <m>an dorus</m></li>
-                                    <li>genitive – bun <m>an doruis</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>plural <ul>
-                            <li>indefinite <ul>
-                                    <li>nominative – <m>doruis</m></li>
-                                    <li>dative – aig <m>dorsan</m></li>
-                                    <li>genitive – bunan <m>dhorsan</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>nominative – <m>na dorsan</m></li>
-                                    <li>dative – aig <m>na dorsan</m></li>
-                                    <li>genitive – bunan <m>nan dorsan</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="case">
-            <h>case</h>
-            <p><ul>
-                    <li>nominative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – <m>dorus</m></li>
-                                    <li>plural – <m>dorsan</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – <m>an dorus</m></li>
-                                    <li>plural – <m>na dorsan</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>dative <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – aig <m>dorus</m></li>
-                                    <li>plural – aig <m>dorsan</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – aig <m>an dorus</m></li>
-                                    <li>plural – aig <m>na dorsan</m></li>
-                                </ul></li>
-                        </ul></li>
-                    <li>genitive <ul>
-                            <li>indefinite <ul>
-                                    <li>singular – bun <m>doruis</m></li>
-                                    <li>plural – bunan <m>dhorsan</m></li>
-                                </ul></li>
-                            <li>definite <ul>
-                                    <li>singular – bun <m>an doruis</m></li>
-                                    <li>plural – bunan <m>nan dorsan</m></li>
-                                </ul></li>
-                        </ul></li>
-                </ul></p>
-        </section>
-        <section id="forms-notes">
-            <h>notes</h>
-            <p>Note that in post-1970s Neo-Gaelic, the forms <g>dorus</g> and <g>doruis</g> have
-                been standardised to <g>doras</g> and <g>dorais</g> respectively.</p>
-        </section>
-    </section>-->
-
-    <!--<section>
-        <h>dependents</h>
-        <!-\-<section id="deps-bare">
-            <h>bare</h>
-            <p>Like other nouns, <g>dorus</g> can occur on its own, without any dependents.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-\->
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other common nouns, <g>dorus</g> can occur with a <a
-                    href="?xx=nouns/determiners">determiner</a> as pre-specifier.</p>
-            <p>Examples with the <a href="?xx=nouns/definite_article">definite article</a> – <xl>
+    <section>
+        <h>adjectives</h>
+        <p><g>dorus</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
+                >adjectives</a>.</p>
+        <module id="dorus_moor">
+            <h>dorus mór</h>
+            <p><g>dorus <a href="?gd=moor">mór</a></g>
+                <en>a large door</en> – <xl>
                     <li>
-                        <gd>Tha <m>an dorus</m> mór.</gd>
+                        <gd>Tha an dorus mór.</gd>
                         <tr>The door is big.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
-                    <li>
-                        <gd>A bheil an cù aig <m>an dorus</m>?</gd>
-                        <tr>Is the dog at the door?</tr>
-                        <ref text="617">td. 11</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <!-\-<section id="deps-mods">
-            <h>modifiers</h>
-            <p>Like other nouns, <g>dorus</g> can occur with an (attributive) <a href="?xx=adjectives/adjectives"
-                >adjective</a> (post-)modifier.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-\->
-    </section>-->
+                </xl></p>
+        </module>
+    </section>
 
-    <!--<section>
-        <h>uses</h>
-        <section id="uses-sbj">
-            <h>subject</h>
-            <p>Like other nouns, <g>dorus</g> can be used as the subject of a <a
-                    href="?xx=verbs/verbs">verb</a>.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a> – <xl>
-                    <li>
-                        <gd>Tha an <m>dorus</m> mór.</gd>
-                        <tr>The door is big.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <!-\-<section id="uses-obj">
+    <section>
+        <h>prepositions</h>
+        <section>
             <h>object</h>
-            <p>Like other nouns, <g>dorus</g> can be used as the object of a transitive verb.</p>
-            <p>Some examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-\->
-        <section id="uses-comp">
-            <h>complement</h>
-            <p>Like other nouns, <g>dorus</g> can be used as the complement of a <a
-                    href="?xx=prepositions/prepositions">preposition</a>.</p>
-            <p>Some examples with <g><a href="?gd=aig">aig</a> dorus</g>
-                <en>at a door</en> – <xl>
-                    <li>
-                        <gd>Chunnaic mi cù <m>aig an dorus</m>.</gd>
-                        <tr>I saw a dog at the door.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil an cù <m>aig an dorus</m>?</gd>
-                        <tr>Is the dog at the door?</tr>
-                        <ref text="617">td. 11</ref>
-                    </li>
-                    <li>
-                        <gd>Tha an gille <m>aig an dorus</m>.</gd>
-                        <tr>The boy is at the door.</tr>
-                        <ref text="617">td. 15</ref>
-                    </li>
-                </xl>
-            </p>
+            <p><g>dorus</g> can be the object of certain <a href="?xx=prepositions/prepositions"
+                    >prepositions</a>.</p>
+            <module id="aig_dorus">
+                <h>... aig dorus</h>
+                <p><g>... <a href=">gd=aig">aig</a> dorus</g>
+                    <en>... at a door</en>. </p>
+                <module>
+                    <h>[duine] aig dorus</h>
+                    <p><g>[duine] aig dorus</g>
+                        <en>[a man] at a door</en> – <xl>
+                            <li>
+                                <gd>A bheil an gille aig an dorus? Chan eil.</gd>
+                                <tr>Is the boy at the door?</tr>
+                                <ref text="617">td. 15 [adapted]</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+                <module>
+                    <h>cù aig dorus</h>
+                    <p><g><a href="?gd=cuu">cù</a> aig dorus</g>
+                        <en>a dog at a door</en> – <xl>
+                            <li>
+                                <gd>Chunnaic mi cù aig an dorus.</gd>
+                                <tr>I saw a dog at the door.</tr>
+                                <ref text="617">td. 6</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
         </section>
-    </section>-->
+    </section>
 
 </module>

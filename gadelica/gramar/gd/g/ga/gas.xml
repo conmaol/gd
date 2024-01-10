@@ -5,24 +5,30 @@
         <en>gas</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <p>Examples of <g>gas</g> as the complement of the preposition <a href="?gd=air"><g>air</g></a>
-        <en>on</en> – <ul>
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>air a’ ghas</g>
-                        <en>on the gas</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>Càit a bheil an coire? Tha an coire air a’ ghas.</gd>
-                                        <tr>Where is the kettle? The kettle is on the gas.</tr>
-                                        <ref text="617">td. 20</ref>
-                                    </li>
-                                </xl>
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>object</h>
+            <p><g>gas</g> can be the object of certain <a href="?xx=prepositions/prepositions"
+                >prepositions</a>.</p>
+            <module id="air_gas">
+                <h>... air gas</h>
+                <p><g>... <a href=">gd=air">air</a> gas</g>
+                    <en>... on a gas fire/ring/burner</en>. </p>
+                <module>
+                    <h>coire air gas</h>
+                    <p><g><a href="?gd=coire">coire</a> air gas</g>
+                        <en>a kettle on a gas fire/ring/burner</en> – <xl>
+                            <li>
+                                <gd>Càit a bheil an coire? Tha an coire air a’ ghas.</gd>
+                                <tr>Where is the kettle? The kettle is on the gas.</tr>
+                                <ref text="617">td. 20</ref>
                             </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
 
 </module>

@@ -6,54 +6,38 @@
             href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
 
     <section>
-        <h>dependents</h>
+        <h>prepositions</h>
         <section>
-            <h>specifier</h>
-            <p>Examples of <g>baile</g> with the <a href="?xx=nouns/definite_article">definite
-                    article</a> as pre-specifier – <ul>
-                    <li>dative – <g>(anns) a’ bhaile</g>
-                        <en>(in) the town</en> – <xl>
-                            <li>
-                                <gd>Tha Màiri anns a’ bhaile an diugh.</gd>
-                                <tr>Mary is in the town today.</tr>
-                                <ref text="617">td. 20 [adapted]</ref>
-                            </li>
+            <h>object</h>
+            <p><g>baile</g> can be the object of certain <a href="?xx=prepositions/prepositions"
+                    >prepositions</a>.</p>
+            <module id="ann_am_baile">
+                <h>... ann am baile</h>
+                <p><g>... <a href=">gd=an^preposition">ann am</a> baile</g>
+                    <en>... in a town</en>. </p>
+                <module>
+                    <h>[duine] ann am baile</h>
+                    <p><g>[duine] ann am baile</g>
+                        <en>[a man] in a town</en> – <xl>
                             <li>
                                 <gd>An robh am bodach anns a’ bhaile? Bha.</gd>
                                 <tr>Was the old man in the town? Yes, he was.</tr>
                                 <ref text="617">td. 21 [229]</ref>
                             </li>
+                            <li>
+                                <gd>Tha Màiri anns a’ bhaile an diugh.</gd>
+                                <tr>Mary is in the town today.</tr>
+                                <ref text="617">td. 20 [adapted]</ref>
+                            </li>
                         </xl>
-                    </li>
-                </ul>
-            </p>
-        </section>
-    </section>
-
-    <section>
-        <h>uses</h>
-        <section>
-            <h>complement</h>
-            <module>
-                <h>ann am baile / anns a’ bhaile</h>
-                <p>Examples of <g>baile</g> as the complement of the preposition <a href="?gd=an^preposition"
-                            ><g>an</g></a>
-                    <en>in</en> – <xl>
-                        <li>
-                            <gd>Bha iad anns a’ bhaile an diugh.</gd>
-                            <tr>They were in the town today.</tr>
-                            <ref text="617">td. 20 [adapted]</ref>
-                        </li>
-                        <li>
-                            <gd>Nach biodh Seumas anns a’ bhaile? Cha bhiodh.</gd>
-                            <tr>Wouldn’t James be in the town? No, he wouldn’t.</tr>
-                            <ref text="617">td. 21 [229]</ref>
-                        </li>
-                    </xl>
-                </p>
+                    </p>
+                </module>
             </module>
         </section>
     </section>
+
+
+
 
 
 

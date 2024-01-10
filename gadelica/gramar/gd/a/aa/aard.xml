@@ -5,62 +5,42 @@
         <en>high, tall</en> is a <a href="?xx=adjectives/simple_adjectives">simple
         adjective</a>.</p>
 
-    <!--<section>
-        <h>dependents</h>
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other (gradable) adjectives, <g>àrd</g> can occur with an intensifying
-                pre-specifier like <a href="?gd=glee"><g>glé</g></a>
-                <en>very</en>.</p>
-            <p>Some examples – <xl> </xl>
-            </p>
-        </section>
-    </section>-->
-
     <section>
-        <h>uses</h>
-        <section id="uses-predicate">
-            <h>predicate</h>
-            <p>Like other adjectives, <g>àrd</g> can be used (uninflected) as the predicate of the
-                verb <a href="?gd=bi"><g>bi</g></a>.</p>
-            <p>Some examples – <xl>
+        <h>nouns</h>
+        <p><g>àrd</g> can have a <a href="?xx=nouns/common_nouns">common noun</a> as (deep)
+            subject.</p>
+        <module id="balla_aard">
+            <h>balla àrd</h>
+            <p><g><a href="?gd=balla">balla</a> àrd</g>
+                <en>a high wall</en> – <xl>
                     <li>
-                        <gd>A bheil am balla <m>àrd</m>? Tha.</gd>
+                        <gd>A bheil am balla àrd? Tha.</gd>
                         <tr>Is the wall high? Yes, it is.</tr>
                         <ref text="617">td. 20</ref>
                     </li>
+                </xl>
+            </p>
+        </module>
+        <module id="cnoc_aard">
+            <h>cnoc àrd</h>
+            <p><g><a href="?gd=cnoc">cnoc</a> àrd</g>
+                <en>a tall hill</en> – <xl>
                     <li>
-                        <gd>Tha an cnoc seo <m>àrd</m>.</gd>
+                        <gd>Tha an cnoc seo àrd.</gd>
                         <tr>This hill is high.</tr>
                         <ref text="617">td. 20</ref>
                     </li>
-                </xl>
-            </p>
-        </section>
-        <section id="uses-mod">
-            <h>modifier</h>
-            <p>Like other adjectives, <g>àrd</g> can be used as a post-modifier of a <a
-                    href="?xx=nouns/nouns">noun</a>.</p>
-            <p>Some examples – <xl>
                     <li>
-                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ <m>chnoc
-                            àrd</m>.</gd>
+                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc
+                            àrd.</gd>
                         <tr>Where is the big house? The big house is on the tall hill.</tr>
                         <ref text="617">td. 21 [229]</ref>
                     </li>
-
                 </xl>
             </p>
-        </section>
-        <!--
-        <section id="uses-comp">
-            <h>complement</h>
-            <p>Like many other adjectives, <g>àrd</g> can be used as the complement of the
-                adverbialising particle <a href="?gd=gu"><g>gu</g></a>.</p>
-            <p>Some examples – <xl> </xl>
-            </p>
-        </section>-->
+        </module>
     </section>
+
 
 
 

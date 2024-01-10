@@ -5,69 +5,47 @@
         <en>a shore</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
 
-    <!-- <p>Examples of <g>cladach</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
-        – <ul>
-            <!-\-<li>indefinite – <xl>
-            </xl>
-            </li>-\->
-            <li>definite – <xl>
-                
-            </xl>
-            </li>
-        </ul>
-    </p>-->
-    <!--<p>Examples of <g>cladach</g> as the subject of other verbs – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>
-    <p>Examples of <g>cladach</g> as the object of a (transitive) verb – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>-->
-
-    <p>Examples of <g>cladach</g> as the complement of the preposition <a href="?gd=air"
-            ><g>air</g></a>
-        <en>on</en> – <ul>
-            <!--<li>indefinite –</li>-->
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>air a’ chladach</g>
-                        <en>on the shore</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>Tha am bàta air a’ chladach.</gd>
-                                        <tr>The boat is on the shore.</tr>
-                                        <ref text="617">td. 17</ref>
-                                    </li>
-                                </xl>
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>object</h>
+            <p><g>cladach</g> can be the object of certain <a href="?xx=prepositions/prepositions"
+                    >prepositions</a>.</p>
+            <module id="air_cladach">
+                <h>... air cladach</h>
+                <p><g>... <a href=">gd=air">air</a> cladach</g>
+                    <en>... on a shore</en>. </p>
+                <module>
+                    <h>bàta air cladach</h>
+                    <p><g><a href="?gd=baata">bàta</a> air cladach</g>
+                        <en>a boat on a shore</en> – <xl>
+                            <li>
+                                <gd>Tha am bàta air a’ chladach.</gd>
+                                <tr>The boat is on the shore.</tr>
+                                <ref text="617">td. 17</ref>
                             </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
-    <p>Examples of <g>cladach</g> as the complement of the preposition <a href="?gd=aig"
-            ><g>aig</g></a>
-        <en>at</en> – <ul>
-            <!--<li>indefinite –</li>-->
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>aig a’ chladach</g>
-                        <en>at the shore</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>Bha mi aig a’ chladach an diugh.</gd>
-                                        <tr>I was at the shore today.</tr>
-                                        <ref text="617">td. 21</ref>
-                                    </li>
-                                </xl>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+            <module id="aig_cladach">
+                <h>... aig cladach</h>
+                <p><g>... <a href=">gd=aig">aig</a> cladach</g>
+                    <en>... at a shore</en>. </p>
+                <module>
+                    <h>[duine] aig cladach</h>
+                    <p><g>[duine] aig cladach</g>
+                        <en>[a man] at a shore</en> – <xl>
+                            <li>
+                                <gd>Bha mi aig a’ chladach an diugh.</gd>
+                                <tr>I was at the shore today.</tr>
+                                <ref text="617">td. 21</ref>
                             </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
 
 </module>

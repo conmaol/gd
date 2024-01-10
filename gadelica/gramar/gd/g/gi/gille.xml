@@ -5,86 +5,137 @@
         <en>a boy</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <p>Examples of <g>gille</g> as the subject of the predicative verb <a href="?gd=bi"
-            ><g>bi</g></a> – <ul>
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>an gille</g>
-                        <en>the boy</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>Tha an gille mór.</gd>
-                                        <tr>The boy is big.</tr>
-                                        <ref text="617">td. 15</ref>
-                                    </li>
-                                    <li>
-                                        <gd>Cha robh an gille aig an dorus.</gd>
-                                        <tr>The boy was not at the door.</tr>
-                                        <ref text="617">td. 15</ref>
-                                    </li>
-                                    <li>
-                                        <gd>A bheil an gille a’ cluich? Tha,</gd>
-                                        <tr>Is the boy playing? Yes, he is.</tr>
-                                        <ref text="617">td. 15</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                            <li>attributive adjective – <xl>
-                                    <li>
-                                        <gd>Càit a bheil an gille beag an diugh?</gd>
-                                        <tr>Where is the little boy today?</tr>
-                                        <ref text="617">td. 14</ref>
-                                    </li>
-                                    <li>
-                                        <gd>A bheil an gille beag anns an sgoil? Chan eil.</gd>
-                                        <tr>Is the little boy in the school? No, he isn’t.</tr>
-                                        <ref text="617">td. 14 [227]</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                        </ul>
+    <section>
+        <h>adjectives</h>
+        <p><g>gille</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
+                >adjectives</a>.</p>
+        <module id="gille_beag">
+            <h>gille beag</h>
+            <p><g>gille <a href="?gd=beag">beag</a></g>
+                <en>a little boy</en> – <xl>
+                    <li>
+                        <gd>Càit a bheil an gille beag an diugh?</gd>
+                        <tr>Where is the little boy today?</tr>
+                        <ref text="617">td. 14</ref>
                     </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+                    <li>
+                        <gd>A bheil an gille beag anns an sgoil? Chan eil.</gd>
+                        <tr>Is the little boy in the school? No, he isn’t.</tr>
+                        <ref text="617">td. 14 [227]</ref>
+                    </li>
+                </xl></p>
+        </module>
+        <module id="gille_moor">
+            <h>gille mór</h>
+            <p><g>gille <a href="?gd=moor">mór</a></g>
+                <en>a big boy</en> – <xl>
+                    <li>
+                        <gd>Tha an gille mór.</gd>
+                        <tr>The boy is big.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl></p>
+        </module>
+    </section>
 
-    <p>Examples of <g>gille</g> as the subject of a demonstrative pronoun used as a copular verb – <ul>
-            <li>pre-specified – <ul>
-                    <li>definite article – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>Seo an gille.</gd>
-                                        <tr>This is the boy.</tr>
-                                        <ref text="617">td. 15</ref>
-                                    </li>
-                                </xl>
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>subject</h>
+            <p><g>gille</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <module id="gille_aig">
+                <h>gille aig ...</h>
+                <p><g>gille <a href="?gd=aig">aig</a> ...</g>
+                    <en>a boy at ...</en>.</p>
+                <module>
+                    <h>gille aig dorus</h>
+                    <p><g>gille aig <a href="?gd=dorus">dorus</a></g>
+                        <en>a boy at a door</en> – <xl>
+                            <li>
+                                <gd>Cha robh an gille aig an dorus.</gd>
+                                <tr>The boy was not at the door.</tr>
+                                <ref text="617">td. 15</ref>
                             </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+            <module id="gille_ann_an">
+                <h>gille ann an ...</h>
+                <p><g>gille <a href="?gd=an^preposition">ann an</a> ...</g>
+                    <en>a boy in ...</en>.</p>
+                <module>
+                    <h>gille ann an sgoil</h>
+                    <p><g>gille ann an <a href="?gd=sgoil">sgoil</a></g>
+                        <en>a boy in a school</en> – <xl>
+                            <li>
+                                <gd>A bheil an gille beag anns an sgoil? Chan eil.</gd>
+                                <tr>Is the little boy in the school? No, he isn’t.</tr>
+                                <ref text="617">td. 14 [227]</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+        <section>
+            <h>object</h>
+            <p><g>gille</g> can be the object of certain <a href="?xx=prepositions/prepositions"
+                    >prepositions</a>.</p>
+            <module id="air_gille">
+                <h>... air gille</h>
+                <p><g>... <a href=">gd=air">air</a> gille</g>
+                    <en>... on a boy</en>. </p>
+                <module>
+                    <h>ceàrr air gille</h>
+                    <p><g><a href="?gd=ceaarr">ceàrr</a> air gille</g>
+                        <en>wrong with a boy</en> – <xl>
+                            <li>
+                                <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
+                                <tr>What is wrong with this boy? His head is sore.</tr>
+                                <ref text="617">td. 20</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
 
-    <p>Examples of <g>gille</g> as the complement of the preposition <a href="?gd=air"
-            ><g>air</g></a>
-        <en>on</en> – <ul>
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>air a’ ghille</g>
-                        <en>on the boy</en> – <ul>
-                            <li>demonstrative – <xl>
-                                    <li>
-                                        <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
-                                        <tr>What is wrong with this boy? His head is sore.</tr>
-                                        <ref text="617">td. 20</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+    <section>
+        <h>verbs</h>
+        <section>
+            <h>subject</h>
+            <p><g>gille</g> can be the subject of certain <a href="?xx=verbs/verbs">verbs</a>.</p>
+            <module id="cluich_gille">
+                <h>cluich gille</h>
+                <p><g><a href="?gd=cluich">cluich</a> gille</g>
+                    <en>a boy plays</en> – <xl>
+                        <li>
+                            <gd>A bheil an gille a’ cluich? Tha,</gd>
+                            <tr>Is the boy playing? Yes, he is.</tr>
+                            <ref text="617">td. 15</ref>
+                        </li>
+                    </xl></p>
+            </module>
+        </section>
+    </section>
+
+    <!--<xl>
+        <li>
+            <gd>Càit a bheil an gille beag an diugh?</gd>
+            <tr>Where is the little boy today?</tr>
+            <ref text="617">td. 14</ref>
+        </li>
+        <li>
+            <gd>Seo an gille.</gd>
+            <tr>This is the boy.</tr>
+            <ref text="617">td. 15</ref>
+        </li>
+    </xl>-->
+
+
+
 
 </module>

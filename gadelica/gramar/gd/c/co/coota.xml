@@ -5,20 +5,25 @@
         <en>a coat</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
 
-    <p>Examples of <g>còta</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
-        – <ul>
-            <li>non-specified – <ul>
-                    <li>unmodified – <xl>
-                            <li>
-                                <gd>A bheil còta air an duine? Tha.</gd>
-                                <tr>Does the man have a coat on? Yes, he does.</tr>
-                                <ref text="617">td. 14</ref>
-                            </li>
-                        </xl>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>subject</h>
+            <p><g>còta</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <module id="coota_air">
+                <h>còta air [duine]</h>
+                <p><g>còta <a href="?gd=air">air</a> [duine]</g>
+                    <en>a coat on [a man], [a man] with a coat on</en> – <xl>
+                        <li>
+                            <gd>A bheil còta air an duine? Tha.</gd>
+                            <tr>Does the man have a coat on? Yes, he does.</tr>
+                            <ref text="617">td. 14</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
 
 </module>

@@ -5,74 +5,124 @@
         <en>a man, a person</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple
             common noun</a>.</p>
 
-    <p>Examples of <g>duine</g> as the subject of the predicative verb <a href="?gd=bi"
-            ><g>bi</g></a> – <ul>
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>an duine</g>
-                        <en>the man</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>A bheil an duine ag obair anns an achadh?</gd>
-                                        <tr>Is the man working in the field?</tr>
-                                        <ref text="617">td. 14 [227]</ref>
-                                    </li>
-                                    <li>
-                                        <gd>Tha an duine anns a’ bhàta.</gd>
-                                        <tr>The man is in the boat.</tr>
-                                        <ref text="617">td. 17</ref>
-                                    </li>
-                                    <!-- <li>
-                                        <gd>Tha an duine anns a’ mhonadh leis a’ chù.</gd>
-                                        <tr>The man is on the moor with the dog.</tr>
-                                        <ref text="617">td. 19</ref>
-                                    </li>-->
-                                </xl>
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>subject</h>
+            <p><g>duine</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <module id="duine_an">
+                <h>duine ann an ...</h>
+                <p><g>duine <a href="?gd=an^preposition">ann an</a> ...</g>
+                    <en>a man in ...</en></p>
+                <module id="duine_ann_am_baata">
+                    <h>duine ann am bàta</h>
+                    <p><g>duine ann am <a href=">gd=baata">bàta</a></g>
+                        <en>a man in a boat</en></p>
+                    <p><xl>
+                            <li>
+                                <gd>Tha an duine anns a’ bhàta.</gd>
+                                <tr>The man is in the boat.</tr>
+                                <ref text="617">td. 17</ref>
                             </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
-    <p>Examples of <g>duine</g> as the complement of the preposition <a href="?gd=air"
-            ><g>air</g></a>
-        <en>on</en> – <ul>
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>air an duine</g>
-                        <en>on the man</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>A bheil còta air an duine?</gd>
-                                        <tr>Does the man have a coat on?</tr>
-                                        <ref text="617">td. 14</ref>
-                                    </li>
-                                </xl>
+                        </xl>
+                    </p>
+                </module>
+                <module id="duine_ann_am_monadh">
+                    <h>duine ann am monadh</h>
+                    <p><g>duine ann am <a href=">gd=monadh">monadh</a></g>
+                        <en>a man on a moor</en></p>
+                    <p><xl>
+                            <li>
+                                <gd>Tha an duine anns a’ mhonadh leis a’ chù.</gd>
+                                <tr>The man is on the moor with the dog.</tr>
+                                <ref text="617">td. 19</ref>
                             </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
-    <p>Examples of <g>duine</g> as the complement of the preposition <a href="?gd=ri"><g>ri</g></a>
-        – <ul>
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>ris an duine</g> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>A bheil an cù dubh anns an achadh còmhla ris an
-                                            duine?</gd>
-                                        <tr>Is the black dog in the field along with the man?</tr>
-                                        <ref text="617">td. 14 [227]</ref>
-                                    </li>
-                                </xl>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+            <module id="duine_le">
+                <h>duine le ...</h>
+                <p><g>duine <a href="?gd=le">le</a> ...</g>
+                    <en>a man with ...</en>.</p>
+                <module>
+                    <h>duine le cù</h>
+                    <p><g>duine le <a href="?gd=cuu">cù</a></g>
+                        <en>a man with a dog</en> – <xl>
+                            <li>
+                                <gd>Tha an duine anns a’ mhonadh leis a’ chù.</gd>
+                                <tr>The man is on the moor with the dog.</tr>
+                                <ref text="617">td. 19</ref>
                             </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+        <section>
+            <h>object</h>
+            <p><g>duine</g> can be the object of certain <a href="?xx=prepositions/prepositions"
+                    >prepositions</a>.</p>
+            <module id="air_duine">
+                <h>... air duine</h>
+                <p><g>... <a href=">gd=air">air</a> duine</g>
+                    <en>... on a man</en>. </p>
+                <module>
+                    <h>còta air duine</h>
+                    <p><g><a href="?gd=coota">còta</a> air duine</g>
+                        <en>a coat on a man, a man having a coat on</en> – <xl>
+                            <li>
+                                <gd>A bheil còta air an duine?</gd>
+                                <tr>Does the man have a coat on?</tr>
+                                <ref text="617">td. 14</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+            <module id="ri_duine">
+                <h>... ri duine</h>
+                <p><g>... <a href=">gd=ri">ri</a> duine</g>. </p>
+                <module>
+                    <h>... còmhla ri duine</h>
+                    <p><g>... <a href="?gd=coomhla">còmhla</a> ri duine</g>
+                        <en>... accompanied by a man</en>.</p>
+                    <module>
+                        <h>[bi] cù còmhla ri duine</h>
+                        <p><g>[bi] <a href="?gd=cuu">cù</a> còmhla ri duine</g>
+                            <en>a dog [is] accompanied by a man</en>. <xl>
+                                <li>
+                                    <gd>A bheil an cù dubh anns an achadh còmhla ris an duine?</gd>
+                                    <tr>Is the black dog in the field along with the man?</tr>
+                                    <ref text="617">td. 14 [227]</ref>
+                                </li>
+                            </xl>
+                        </p>
+                    </module>
+                </module>
+            </module>
+        </section>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <section>
+            <h>subject</h>
+            <p><g>duine</g> can be the subject of certain <a href="?xx=verbs/verbs">verbs</a>.</p>
+            <module id="cluich_abhainn">
+                <h>duine [ag] obair</h>
+                <p><g>duine [ag] <a href="?gd=obair">obair</a></g>
+                    <en>a man working</en> – <xl>
+                        <li>
+                            <gd>A bheil an duine ag obair anns an achadh?</gd>
+                            <tr>Is the man working in the field?</tr>
+                            <ref text="617">td. 14 [227]</ref>
+                        </li>
+                    </xl></p>
+            </module>
+        </section>
+    </section>
 
 
 

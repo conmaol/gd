@@ -5,71 +5,60 @@
         <en>a hill</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
 
-    <p>Examples of <g>cnoc</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
-        – <ul>
-            <!--<li>indefinite – <xl>
-            </xl>
-            </li>-->
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>an cnoc</g>
-                        <en>the hill</en> – <ul>
-                            <li>demonstrative – <xl>
-                                    <li>
-                                        <gd>Tha an cnoc seo àrd.</gd>
-                                        <tr>This hill is high.</tr>
-                                        <ref text="617">td. 20</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                        </ul>
+    <section>
+        <h>adjectives</h>
+        <p><g>cnoc</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
+                >adjectives</a>.</p>
+        <module id="cnoc_aard">
+            <h>cnoc àrd</h>
+            <p><g>cnoc <a href="?gd=aard">àrd</a></g>
+                <en>a tall hill</en> – <xl>
+                    <li>
+                        <gd>Tha an cnoc seo àrd.</gd>
+                        <tr>This hill is high.</tr>
+                        <ref text="617">td. 20</ref>
                     </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
-    <!--<p>Examples of <g>cnoc</g> as the subject of other verbs – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>
-    <p>Examples of <g>cnoc</g> as the object of a (transitive) verb – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>-->
-
-    <p>Examples of <g>cnoc</g> as the complement of the preposition <a href="?gd=air"><g>air</g></a>
-        <en>on</en> – <ul>
-            <!--<li>indefinite –</li>-->
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>air a’ chnoc</g>
-                        <en>on the hill</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>Dé tha air a’ chnoc? Tha taigh mór air a’ chnoc.</gd>
-                                        <tr>What is on the hill? There is a big house on the
-                                            hill.</tr>
-                                        <ref text="617">td. 20</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                            <li>attributive adjective – <xl>
-                                    <li>
-                                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc
-                                            àrd.</gd>
-                                        <tr>Where is the big house? The big house is on the tall
-                                            hill.</tr>
-                                        <ref text="617">td. 21 [229]</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                        </ul>
+                    <li>
+                        <gd>Tha an taigh mór air a’ chnoc àrd.</gd>
+                        <tr>The big house is on the tall hill.</tr>
+                        <ref text="617">td. 21 [229]</ref>
                     </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+                </xl></p>
+        </module>
+    </section>
 
-
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>object</h>
+            <p><g>cnoc</g> can be the object of certain <a href="?xx=prepositions/prepositions"
+                >prepositions</a>.</p>
+            <module id="air_cnoc">
+                <h>... air cnoc</h>
+                <p><g>... <a href=">gd=air">air</a> cnoc</g>
+                    <en>... on a hill</en>. </p>
+                <module>
+                    <h>taigh air cnoc</h>
+                    <p><g><a href="?gd=taigh">taigh</a> air cnoc</g>
+                        <en>a house on a hill</en> – <xl>
+                            <li>
+                                <gd>Dé tha air a’ chnoc? Tha taigh mór air a’ chnoc.</gd>
+                                <tr>What is on the hill? There is a big house on the
+                                    hill.</tr>
+                                <ref text="617">td. 20</ref>
+                            </li>
+                            <li>
+                                <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc
+                                    àrd.</gd>
+                                <tr>Where is the big house? The big house is on the tall
+                                    hill.</tr>
+                                <ref text="617">td. 21 [229]</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
 
 </module>

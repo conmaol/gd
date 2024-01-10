@@ -2,49 +2,49 @@
 <module>
     <h>caileag</h>
     <p><g>caileag</g>
-        <en>a girl</en> is a feminine diminutive common noun with derivational suffix <a
+        <en>a girl</en> is a feminine common noun with diminutive derivational suffix <a
             href="?gd=_ag"><g>-(e)ag</g></a>.</p>
 
-    <p>Examples of <g>caileag</g> as the subject of the predicative verb <a href="?gd=bi"
-            ><g>bi</g></a> – <ul>
-            <!--<li>indefinite – <xl>
-            </xl>
-            </li>-->
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>a’ chaileag</g> <en>the girl</en> – <ul>
-                            <li>attributive adjective – <xl>
-                                    <li>
-                                        <gd>Chan eil a’ chaileag bheag anns an sgoil.</gd>
-                                        <tr>The little girl is not in the school.</tr>
-                                        <ref text="617">td. 15 [228]</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                        </ul>
+    <section>
+        <h>adjectives</h>
+        <p><g>caileag</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
+                >adjectives</a>.</p>
+        <module id="caileag_bheag">
+            <h>caileag bheag</h>
+            <p><g>caileag <a href="?gd=beag">bheag</a></g>
+                <en>a little girl</en> – <xl>
+                    <li>
+                        <gd>Bha a’ chaileag bheag anns an sgoil.</gd>
+                        <tr>The little girl was in the school.</tr>
+                        <ref text="617">td. 15 [228]</ref>
                     </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
-    <!--<p>Examples of <g>caileag</g> as the subject of other verbs – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>
-    <p>Examples of <g>caileag</g> as the object of a (transitive) verb – <ul>
-            <li>indefinite –</li>
-            <li>definite –</li>
-        </ul>
-    </p>-->
+                </xl></p>
+        </module>
+    </section>
 
-    <!-- <p>Examples of <g>caileag</g> as the complement of the preposition <a href="?gd=aig"
-        ><g>aig</g></a>
-        <en>at</en> –  <ul>
-            <!-\-<li>indefinite –</li>-\->
-            <li>definite – <xl>
-            </xl>
-            </li>
-        </ul>
-    </p>-->
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>subject</h>
+            <p><g>caileag</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <module id="caileag_an">
+                <h>caileag ann an ...</h>
+                <p><g>caileag <a href="?gd=an^preposition">ann an</a> ...</g>
+                    <en>a girl in ...</en>.</p>
+                <module>
+                    <h>caileag ann an sgoil</h>
+                    <p><g>caileag ann an <a href="?gd=sgoil">sgoil</a></g>
+                    <en>a girl in a school</en> – <xl>
+                        <li>
+                            <gd>Bha a’ chaileag bheag anns an sgoil.</gd>
+                            <tr>The little girl was in the school.</tr>
+                            <ref text="617">td. 15 [228]</ref>
+                        </li>
+                    </xl>
+                </p></module>
+            </module>
+        </section>
+    </section>
 
 </module>

@@ -5,46 +5,34 @@
         <en>milk</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-
     <section>
-        <h>dependents</h>
-        <section>
-            <h>specifier</h>
-            <p>Examples of <g>bainne</g> without a specifier – <xl>
-                    <li>
-                        <gd>Tha bainne anns a’ bhotul.</gd>
-                        <tr>There is milk in the bottle.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                    <li>
-                        <gd>Nach robh bainne anns a’ bhotul? Bha.</gd>
-                        <tr>Wasn’t there milk in the bottle? Yes, there was.</tr>
-                        <ref text="617">td. 21 [229]</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-    </section>
-
-    <section>
-        <h>uses</h>
+        <h>prepositions</h>
         <section>
             <h>subject</h>
-            <p>Examples of <g>bainne</g> as the subject of the predicative verb <a href="?gd=bi"
-                        ><g>bi</g></a>
-                <en>be</en> – <xl>
-                    <li>
-                        <gd>Bha bainne anns a’ bhotul.</gd>
-                        <tr>There was milk in the bottle.</tr>
-                        <ref text="617">td. 20 [adapted]</ref>
-                    </li>
-                    <li>
-                        <gd>Chan eil bainne anns a’ bhotul.</gd>
-                        <tr>There isn’t any milk in the bottle.</tr>
-                        <ref text="617">td. 21 [229] [adapted]</ref>
-                    </li>
-                </xl>
-            </p>
+            <p><g>bainne</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <module id="bainne_an">
+                <h>bainne ann an ...</h>
+                <p><g>bainne <a href="?gd=an^preposition">ann an</a> ...</g>
+                    <en>milk in ...</en>.</p>
+                <module>
+                    <h>bainne ann am botul</h>
+                    <p><g>bainne ann am <a href="?gd=botul">botul</a></g>
+                        <en>milk in a bottle</en> – <xl>
+                            <li>
+                                <gd>Tha bainne anns a’ bhotul.</gd>
+                                <tr>There is milk in the bottle.</tr>
+                                <ref text="617">td. 20</ref>
+                            </li>
+                            <li>
+                                <gd>Nach robh bainne anns a’ bhotul? Bha.</gd>
+                                <tr>Wasn’t there milk in the bottle? Yes, there was.</tr>
+                                <ref text="617">td. 21 [229]</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
         </section>
     </section>
 

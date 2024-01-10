@@ -5,10 +5,53 @@
         <en>hair</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <p>Examples of <g>falt</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
-        – <ul>
-            <li>non-specified – <ul>
-                    <li>with attributive adjective – <xl>
+    <section>
+        <h>adjectives</h>
+        <p><g>falt</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
+                >adjectives</a>.</p>
+        <module id="falt_dubh">
+            <h>falt dubh</h>
+            <p><g>falt <a href="?gd=dubh">dubh</a></g>
+                <en>black hair</en> – <xl>
+                    <li>
+                        <gd>Tha falt dubh air Calum ach tha falt bàn air Màiri.</gd>
+                        <tr>Calum has black hair but Mary has fair hair.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                </xl></p>
+        </module>
+        <module id="falt_baan">
+            <h>falt bàn</h>
+            <p><g>falt <a href="?gd=baan">bàn</a></g>
+                <en>fair hair</en> – <xl>
+                    <li>
+                        <gd>A bheil falt bàn air Seumas? Chan eil.</gd>
+                        <tr>Does James have fair hair? No, he doesn’t.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>Tha falt dubh air Calum ach tha falt bàn air Màiri.</gd>
+                        <tr>Calum has black hair but Mary has fair hair.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                </xl></p>
+        </module>
+    </section>
+
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>subject</h>
+            <p><g>falt</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <module id="falt_air">
+                <h>falt air ...</h>
+                <p><g>falt <a href="?gd=air">air</a> ...</g>
+                    <en>hair on ...</en>.</p>
+                <module>
+                    <h>falt air [duine]</h>
+                    <p><g>falt air [duine]</g>
+                        <en>hair on [a man], [a man] having hair</en> – <xl>
                             <li>
                                 <gd>Tha falt dubh air Calum ach tha falt bàn air Màiri.</gd>
                                 <tr>Calum has black hair but Mary has fair hair.</tr>
@@ -19,10 +62,12 @@
                                 <tr>Does James have fair hair? No, he doesn’t.</tr>
                                 <ref text="617">td. 14</ref>
                             </li>
-                        </xl></li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+                        </xl>
+                    </p>
+                </module>
+
+            </module>
+        </section>
+    </section>
 
 </module>

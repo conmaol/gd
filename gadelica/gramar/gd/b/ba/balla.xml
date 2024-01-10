@@ -6,22 +6,36 @@
             noun</a>.</p>
 
     <section>
-        <h>dependents</h>
-        <section>
-            <h>specifier</h>
-            <p>Examples of <g>balla</g> with the <a href="?xx=nouns/definite_article">definite
-                    article</a> as pre-specifier – <ul>
-                    <li>nominative – <g>am balla</g>
-                        <en>the wall</en> – <xl>
-                            <li>
-                                <gd>Tha am balla àrd.</gd>
-                                <tr>The wall is high.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                        </xl>
+        <h>adjectives</h>
+        <p><g>balla</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
+                >adjectives</a>.</p>
+        <module id="balla_aard">
+            <h>balla àrd</h>
+            <p><g>balla <a href="?gd=aard">àrd</a></g>
+                <en>a high wall</en> – <xl>
+                    <li>
+                        <gd>Tha am balla àrd.</gd>
+                        <tr>The wall is high.</tr>
+                        <ref text="617">td. 20</ref>
                     </li>
-                    <li>dative – <g>(air) a’ bhalla</g>
-                        <en>(on) the wall</en> – <xl>
+                </xl></p>
+        </module>
+    </section>
+
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>object</h>
+            <p><g>balla</g> can be the object of certain <a href="?xx=prepositions/prepositions"
+                >prepositions</a>.</p>
+            <module id="air_balla">
+                <h>... air balla</h>
+                <p><g>... <a href=">gd=air">air</a> balla</g>
+                    <en>... on a wall</en>. </p>
+                <module>
+                    <h>[clachair ag] obair air balla</h>
+                    <p><g>[<a href="?gd=clachair">clachair</a> ag] <a href="?gd=obair">obair</a> air balla</g>
+                        <en>[a mason] working on a wall</en> – <xl>
                             <li>
                                 <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé?
                                     Bha.</gd>
@@ -30,41 +44,8 @@
                                 <ref text="617">td. 20</ref>
                             </li>
                         </xl>
-                    </li>
-                </ul>
-            </p>
-        </section>
-    </section>
-
-    <section>
-        <h>uses</h>
-        <section>
-            <h>subject</h>
-            <p>Examples of <g>balla</g> as the subject of the predicative verb <a href="?gd=bi"
-                        ><g>bi</g></a>
-                <en>be</en> – <xl>
-                    <li>
-                        <gd>Cha robh am balla àrd.</gd>
-                        <tr>The wall wasn’t high.</tr>
-                        <ref text="617">td. 20 [adapted]</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <section>
-            <h>complement</h>
-            <module>
-                <h>air balla / air a’ bhalla</h>
-                <p>Examples of <g>balla</g> as the complement of the preposition <a href="?gd=air"
-                            ><g>air</g></a>
-                    <en>on</en> – <xl>
-                        <li>
-                            <gd>Bha an clachair ag obair air a’ bhalla fad an latha.</gd>
-                            <tr>The mason working on the wall all day.</tr>
-                            <ref text="617">td. 20 [adapted]</ref>
-                        </li>
-                    </xl>
-                </p>
+                    </p>
+                </module>
             </module>
         </section>
     </section>
