@@ -5,10 +5,70 @@
         <en>a day</en> is a masculine <!--<a href="?xx=nouns/temporal_unit_nouns">temporal unit</a>-->
         <a href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
 
-    <p>Examples of <g>latha</g> as the subject of the predicative verb <a href="?gd=bi"
-            ><g>bi</g></a> – <ul>
-            <li>non-specified – <ul>
-                    <li>with attributive adjective – <xl>
+    <section>
+        <h>adjectives</h>
+        <p><g>latha</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
+                >adjectives</a>.</p>
+        <module id="latha_math">
+            <h>latha math</h>
+            <p><g>latha <a href="?gd=math">math</a></g>
+                <en>a good day</en> – <xl>
+                    <li>
+                        <gd>Tha latha math ann an diugh.</gd>
+                        <tr>It’s a good day today.</tr>
+                        <ref text="617">td. 12</ref>
+                    </li>
+                </xl></p>
+        </module>
+        <module id="latha_briagha">
+            <h>latha briagha</h>
+            <p><g>latha <a href="?gd=briagha">briagha</a></g>
+                <en>a beautiful day</en> – <xl>
+                    <li>
+                        <gd>Tha latha briagha blàth ann.</gd>
+                        <tr>It is a beautiful warm day.</tr>
+                        <ref text="617">td. 14 [228]</ref>
+                    </li>
+                </xl></p>
+        </module>
+        <module id="latha_blaath">
+            <h>latha blàth</h>
+            <p><g>latha <a href="?gd=blaath">blàth</a></g>
+                <en>a warm day</en> – <xl>
+                    <li>
+                        <gd>Tha latha briagha blàth ann.</gd>
+                        <tr>It is a beautiful warm day.</tr>
+                        <ref text="617">td. 14 [228]</ref>
+                    </li>
+                </xl></p>
+        </module>
+        <module id="latha_fuar">
+            <h>latha fuar</h>
+            <p><g>latha <a href="?gd=fuar">fuar</a></g>
+                <en>a cold day</en> – <xl>
+                    <li>
+                        <gd>A bheil an latha fuar?</gd>
+                        <tr>Is the day cold?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl></p>
+        </module>
+    </section>
+
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>subject</h>
+            <p><g>latha</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <module id="latha_an">
+                <h>latha ann an ...</h>
+                <p><g>latha <a href="?gd=an^preposition">ann an</a> ...</g>
+                    <en>a day in ...</en>.</p>
+                <module>
+                    <h>[bi] latha [math] ann</h>
+                    <p><g>[bi] latha [math] ann</g>
+                        <en>be a good day</en> – <xl>
                             <li>
                                 <gd>Tha latha math ann an diugh.</gd>
                                 <tr>It’s a good day today.</tr>
@@ -19,54 +79,36 @@
                                 <tr>It is a beautiful warm day.</tr>
                                 <ref text="617">td. 14 [228] [adapted spelling]</ref>
                             </li>
-                        </xl></li>
-                </ul>
-            </li>
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>an latha</g>
-                        <en>the day</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>A bheil an latha fuar?</gd>
-                                        <tr>Is the day cold?</tr>
-                                        <ref text="617">td. 14</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
 
-    <p>Examples of <g>latha</g> as the (post-)specifier of a noun – <ul>
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>an latha</g>
-                        <en>the day’s</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>An robh an gille seo anns an sgoil an diugh? Cha robh,
-                                            bha e anns an taigh fad an latha.</gd>
-                                        <tr>Was this boy in the school today? No, he was in the
-                                            house all day long.</tr>
-                                        <ref text="617">td. 20 [adapted]</ref>
-                                    </li>
-                                    <li>
-                                        <gd>An robh an clachair ag obair air a’ bhalla fad an latha
-                                            an dé? Bha.</gd>
-                                        <tr>Was the mason working on the wall all day yesterday?
-                                            Yes, he was.</tr>
-                                        <ref text="617">td. 20</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                        </ul>
+    <section>
+        <h>nouns</h>
+        <p><g>latha</g> can be the specifier of certain other nouns.</p>
+        <module id="fad_an_latha">
+            <h>fad an latha</h>
+            <p><g><a href="?gd=fad">fad</a> an latha</g>
+                <en>the length of the day, all day long</en> – <xl>
+                    <li>
+                        <gd>An robh an gille seo anns an sgoil an diugh? Cha robh, bha e anns an
+                            taigh fad an latha.</gd>
+                        <tr>Was this boy in the school today? No, he was in the house all day
+                            long.</tr>
+                        <ref text="617">td. 20 [adapted]</ref>
                     </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+                    <li>
+                        <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
+                        <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
 
     <!--<section>
         <h>dependents</h>

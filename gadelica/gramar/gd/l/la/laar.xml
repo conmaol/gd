@@ -3,20 +3,22 @@
     <h>làr</h>
     <p><g>làr</g>
         <en>a floor</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+            noun</a>.</p>
 
-    <p>Examples of <g>làr</g> as the complement of the preposition <a href="?gd=air"
-        ><g>air</g></a>
-        <en>on</en> – <ul>
-            <li>pre-specified – <ul>
-                <li>definite article – <g>air an làr</g>
-                    <en>on the floor</en> – <ul>
-                        <li>unmodified – <xl>
-                            <!--<li>
-                                <gd>Tha Seònaid a’ cluich air an làr.</gd>
-                                <tr>Janet is playing on the floor.</tr>
-                                <ref text="617">td. 14</ref>
-                            </li>-->
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>object</h>
+            <p><g>làr</g> can be the object of certain <a href="?xx=prepositions/prepositions"
+                    >prepositions</a>.</p>
+            <module id="air_laar">
+                <h>... air làr</h>
+                <p><g>... <a href="?gd=air">air</a> làr</g>
+                    <en>... on a floor</en>. </p>
+                <module>
+                    <h>cluich [beathach/duine] air làr</h>
+                    <p><g><a href="?gd=cluich">cluich</a> [beathach/duine] air làr</g>
+                        <en>[an animal/person] plays on a floor</en> – <xl>
                             <li>
                                 <gd>A bheil an cat a’ cluich còmhla ri Seònaid air an làr?</gd>
                                 <tr>Is the cat playing with Janet on the floor?</tr>
@@ -28,12 +30,10 @@
                                 <ref text="617">td. 15</ref>
                             </li>
                         </xl>
-                        </li>
-                    </ul>
-                </li>
-            </ul>
-            </li>
-        </ul>
-    </p>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
 
 </module>

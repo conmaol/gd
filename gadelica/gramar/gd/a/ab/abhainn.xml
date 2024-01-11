@@ -45,7 +45,7 @@
                     >prepositions</a>.</p>
             <module id="air_abhainn">
                 <h>... air abhainn</h>
-                <p><g>... <a href=">gd=air">air</a> abhainn</g>
+                <p><g>... <a href="?gd=air">air</a> abhainn</g>
                     <en>... on a river</en>. </p>
                 <module>
                     <h>iasgaich [duine] air abhainn</h>
@@ -116,6 +116,22 @@
                     </xl></p>
             </module>
         </section>
+    </section>
+    
+    <section>
+        <h>nouns</h>
+        <p><g>abhainn</g> can be the specifier of certain other nouns.</p>
+        <module id="taobh_na_h-aibhne">
+            <h>taobh na h-aibhne</h>
+            <p><g><a href="?gd=taobh">taobh</a> na h-aibhne</g>
+                <en>the side of the river</en> – <xl>
+                    <li>
+                        <gd>[... ri taobh na h-aibhne ...]</gd>
+                        <ref text=""></ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 </module>

@@ -5,32 +5,37 @@
         <en>a moor</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
 
-    <p>Examples of <g>monadh</g> as the complement of the preposition <a href="?gd=an^preposition"
-                ><g>an</g></a>
-        <en>in</en> – <ul>
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>anns a’ mhonadh</g>
-                        <en>on the moor</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>Tha am bodach anns a’ mhonadh leis a’ chù.</gd>
-                                        <tr>The old man is on the moor with the dog.</tr>
-                                        <ref text="617">td. 21 [229]</ref>
-                                    </li>
-                                    <li>
-                                        <gd>Bha mi anns a’ mhonadh an dé. Chunnaic mi caoraich agus
-                                            crodh anns a’ mhonadh.</gd>
-                                        <tr>I was on the moor yesterday. I saw sheep and cattle on
-                                            the moor.</tr>
-                                        <ref text="617">td. 21</ref>
-                                    </li>
-                                </xl>
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>object</h>
+            <p><g>monadh</g> can be the object of certain <a href="?xx=prepositions/prepositions"
+                >prepositions</a>.</p>
+            <module id="ann_am_monadh">
+                <h>... ann am monadh</h>
+                <p><g>... <a href="?gd=an^preposition">ann am</a> monadh</g>
+                    <en>... on a moor</en>. </p>
+                <module>
+                    <h>[duine] ann am monadh</h>
+                    <p><g>[duine] ann am monadh</g>
+                        <en>[a person] on a moor</en> – <xl>
+                            <li>
+                                <gd>Tha am bodach anns a’ mhonadh leis a’ chù.</gd>
+                                <tr>The old man is on the moor with the dog.</tr>
+                                <ref text="617">td. 21 [229]</ref>
                             </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+                            <li>
+                                <gd>Bha mi anns a’ mhonadh an dé. Chunnaic mi caoraich agus
+                                    crodh anns a’ mhonadh.</gd>
+                                <tr>I was on the moor yesterday. I saw sheep and cattle on
+                                    the moor.</tr>
+                                <ref text="617">td. 21</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
 
 </module>

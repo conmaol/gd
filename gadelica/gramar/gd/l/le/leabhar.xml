@@ -5,10 +5,38 @@
         <en>book</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <p>Examples of <g>leabhar</g> as the subject of the predicative verb <a href="?gd=bi"
-            ><g>bi</g></a> – <ul>
-            <li>non-specified – <ul>
-                    <li>unmodified – <xl>
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>subject</h>
+            <p><g>leabhar</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <module id="leabar_air">
+                <h>leabhar air ...</h>
+                <p><g>leabhar <a href="?gd=air">air</a> ...</g>
+                    <en>a book on ...</en>.</p>
+                <module>
+                    <h>leabhar air bòrd</h>
+                    <p><g>leabhar air <a href="?gd=boord">bòrd</a></g>
+                        <en>a book on a table</en> – <xl>
+                            <li>
+                                <gd>Càit a bheil an leabhar? Tha an leabhar air a’
+                                    bhòrd.</gd>
+                                <tr>Where is the book? The book is on the table.</tr>
+                                <ref text="617">td. 20</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+            <module id="leabar_an">
+                <h>leabhar ann an ...</h>
+                <p><g>leabhar <a href="?gd=an^preposition">ann an</a> ...</g>
+                    <en>a book in ...</en>.</p>
+                <module>
+                    <h>leabhar ann am bocsa</h>
+                    <p><g>leabhar ann am <a href="?gd=bocsa">bocsa</a></g>
+                        <en>a book in a box</en> – <xl>
                             <li>
                                 <gd>Nach robh leabhar anns a’ bhocsa sin? Bha, bha Bìobull ann.</gd>
                                 <tr>Wasn’t there a book in that box? Yes, there was a Bible (in
@@ -16,25 +44,10 @@
                                 <ref text="617">td. 20</ref>
                             </li>
                         </xl>
-                    </li>
-                </ul>
-            </li>
-            <li>pre-specified – <ul>
-                    <li>definite article – <g>an leabhar</g> <en>the book</en> – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>Càit a bheil an leabhar? Tha an leabhar air a’
-                                            bhòrd.</gd>
-                                        <tr>Where is the book? The book is on the table.</tr>
-                                        <ref text="617">td. 20</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
 
 </module>

@@ -5,31 +5,26 @@
         <en>a room</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
 
-    <p>Examples of <g>seòmar</g> as the subject of the predicative verb <a href="?gd=bi"
-            ><g>bi</g></a> – <ul>
-            <li>pre-specified – <ul>
-                    <li>definite article – <ul>
-                            <li>unmodified – <xl>
-                                    <li>
-                                        <gd>Tha an seòmar glè bhlàth.</gd>
-                                        <tr>The room is very warm.</tr>
-                                        <ref text="617">td. 14</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                            <li>demonstrative – <xl>
-                                    <li>
-                                        <gd>A bheil an seòmar seo blàth? Chan eil.</gd>
-                                        <tr>Is this room warm? No, it isn’t.</tr>
-                                        <ref text="617">td. 14</ref>
-                                    </li>
-                                </xl>
-                            </li>
-                        </ul>
+    <section>
+        <h>adjectives</h>
+        <p><g>seòmar</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
+                >adjectives</a>.</p>
+        <module id="seoomar_blaath">
+            <h>seòmar blàth</h>
+            <p><g>seòmar <a href="?gd=blaath">blàth</a></g>
+                <en>a warm room</en> – <xl>
+                    <li>
+                        <gd>Tha an seòmar glè bhlàth.</gd>
+                        <tr>The room is very warm.</tr>
+                        <ref text="617">td. 14</ref>
                     </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+                    <li>
+                        <gd>A bheil an seòmar seo blàth? Chan eil.</gd>
+                        <tr>Is this room warm? No, it isn’t.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl></p>
+        </module>
+    </section>
 
 </module>

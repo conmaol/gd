@@ -5,25 +5,30 @@
         <en>a sack, a bag</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
     
-    <p>Examples of <g>poca</g> as the complement of the preposition <a href="?gd=an^preposition"
-        ><g>an</g></a>
-        <en>in</en> – <ul>
-            <li>pre-specified – <ul>
-                <li>definite article – <g>anns a’ phoca</g>
-                    <en>in the sack</en> – <ul>
-                        <li>unmodified – <xl>
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>object</h>
+            <p><g>poca</g> can be the object of certain <a href="?xx=prepositions/prepositions"
+                >prepositions</a>.</p>
+            <module id="ann_am_poca">
+                <h>... ann am poca</h>
+                <p><g>... <a href="?gd=an^preposition">ann am</a> poca</g>
+                    <en>... in a sack</en>. </p>
+                <module>
+                    <h>cat ann am poca</h>
+                    <p><g><a href="?gd=cat">cat</a> ann am poca</g>
+                        <en>a cat in a sack</en> – <xl>
                             <li>
                                 <gd>Tha an cat anns a’ phoca.</gd>
                                 <tr>The cat is in the sack.</tr>
                                 <ref text="617">td. 21 [229]</ref>
                             </li>
                         </xl>
-                        </li>
-                    </ul>
-                </li>
-            </ul>
-            </li>
-        </ul>
-    </p>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
     
 </module>
