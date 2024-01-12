@@ -7,8 +7,8 @@
 
     <section>
         <h>nouns</h>
-        <p><g>àrd</g> can have a <a href="?xx=nouns/common_nouns">common noun</a> as (deep)
-            subject.</p>
+        <!--<p><g>àrd</g> can have a <a href="?xx=nouns/common_nouns">common noun</a> as (deep)
+            subject.</p>-->
         <module id="balla_aard">
             <h>balla àrd</h>
             <p><g><a href="?gd=balla">balla</a> àrd</g>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>grian</h>
+    <p><g>grian</g>
+        <en>a sun</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+    <section>
+        <h>verbs</h>
+        <section>
+            <h>subject</h>
+            <module>
+                <h>deàrrs grian</h>
+                <p><g><a href="?gd=deaars">deàrrs</a> grian</g>
+                    <en>a sun shines</en> – <xl>
+                        <li>
+                            <gd>Bha latha briagha ann agus bha a’ ghrian a’ deàrrsadh.</gd>
+                            <tr>It was a beautiful day and the sun was shining.</tr>
+                            <ref text="617">td 21</ref>
+                        </li>
+                    </xl></p>
+            </module>
+        </section>
+    </section>
+
+</module>

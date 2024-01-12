@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>clann</h>
+    <p><g>clann</g>
+        <en>children</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
+    
+    <section>
+        <h>verbs</h>
+        <section>
+            <h>subject</h>
+            <p><g>clann</g> can be the subject of certain <a href="?xx=verbs/verbs">verbs</a>.</p>
+            <module id="snaamh_clann">
+                <h>snàmh clann</h>
+                <p><g><a href="?gd=snaamh">snàmh</a> clann</g>
+                    <en>children swim</en> – <xl>
+                        <li>
+                            <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
+                            <tr>I saw children swimming in the sea.</tr>
+                            <ref text="617">td. 21</ref>
+                        </li>
+                    </xl></p>
+            </module>
+        </section>
+        <section>
+            <h>object</h>
+            <p><g>clann</g> can be the object of certain (transitive) <a href="?xx=verbs/verbs"
+                >verbs</a>.</p>
+            <module id="faic_clann">
+                <h>faic [duine] clann</h>
+                <p><g><a href="?gd=faic">faic</a> [duine] clann</g>
+                    <en>[a person] sees children</en> – <xl>
+                        <li>
+                            <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
+                            <tr>I saw children swimming in the sea.</tr>
+                            <ref text="617">td. 21</ref>
+                        </li>
+                    </xl></p>
+            </module>
+        </section>
+    </section>
+    
+</module>
+

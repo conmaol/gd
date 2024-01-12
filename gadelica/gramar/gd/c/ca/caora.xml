@@ -18,14 +18,19 @@
                 <module>
                     <h>caora air cliathach ...</h>
                     <p><g>caora air <a href="?gd=cliathach">cliathach</a> ...</g>
-                        <en>a sheep on the side of ...</en> – <xl>
-                            <li>
-                                <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
-                                <tr>The sheep were up on the side of the mountain.</tr>
-                                <ref text="617">td. 21</ref>
-                            </li>
-                        </xl>
-                    </p>
+                        <en>a sheep on a side of ...</en>.</p>
+                    <module>
+                        <h>caora air cliathach beinne</h>
+                        <p><g>caora air cliathach <a href="?gd=beinn">beinne</a></g>
+                            <en>a sheep on a side of a mountain</en>. <xl>
+                                <li>
+                                    <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
+                                    <tr>The sheep were up on the side of the mountain.</tr>
+                                    <ref text="617">td. 21</ref>
+                                </li>
+                            </xl>
+                        </p>
+                    </module>
                 </module>
             </module>
             <module id="caora_an">

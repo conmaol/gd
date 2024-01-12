@@ -5,30 +5,16 @@
         <en>warm</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
 
     <section>
-        <h>dependents</h>
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other (gradable) adjectives, <g>blàth</g> can occur with an intensifying
-                pre-specifier like <a href="?gd=glee"><g>glé</g></a>
-                <en>very</en>.</p>
-            <p>Some examples – <xl>
+        <h>nouns</h>
+        <module id="seoomar_blaath">
+            <h>seòmar blàth</h>
+            <p><g><a href="?gd=seoomar">seòmar</a> blàth</g>
+                <en>a warm room</en> – <xl>
                     <li>
                         <gd>Tha an seomar <m>glé bhlàth</m>.</gd>
                         <tr>The room is very warm.</tr>
                         <ref text="617">td. 14</ref>
                     </li>
-                </xl>
-            </p>
-        </section>
-    </section>
-
-    <section>
-        <h>uses</h>
-        <section id="uses-pred">
-            <h>predicate</h>
-            <p>Like other adjectives, <g>blàth</g> can be used (uninflected) as the predicate of the verb <a
-                    href="?gd=bi"><g>bi</g></a>.</p>
-            <p>Some examples – <xl>
                     <li>
                         <gd>A bheil an seòmar seo <m>blàth</m>?</gd>
                         <tr>Is this room warm?</tr>
@@ -36,28 +22,24 @@
                     </li>
                 </xl>
             </p>
-        </section>
-        <section id="uses-mod">
-            <h>modifier</h>
-            <p>Like other adjectives, <g>blàth</g> can be used to modify a <a href="?xx=nouns/nouns"
-                    >noun</a>.</p>
-            <p>Some examples with masculine nouns – <xl>
+        </module>
+        <module id="latha_blaath">
+            <h>latha blàth</h>
+            <p><g><a href="?gd=latha">latha</a> blàth</g>
+                <en>a warm day</en> – <xl>
                     <li>
-                        <gd>Tha <m>latha blàth</m> ann.</gd>
+                        <gd>Tha latha briagha blàth ann.</gd>
                         <tr>It is a beautiful warm day.</tr>
                         <ref text="617">td. 14 [228] [adapted]</ref>
                     </li>
                 </xl>
             </p>
-        </section>
-        <!--<section id="uses-comp">
-            <h>complement</h>
-            <p>Like many other adjectives, <g>blàth</g> can be used as the complement of the
-                adverbialising particle <a href="?gd=gu"><g>gu</g></a>.</p>
-            <p>Some examples – <xl> </xl>
-            </p>
-        </section>-->
+        </module>
     </section>
+
+   
+
+   
 
     <!--<section>
         <h>uses</h>

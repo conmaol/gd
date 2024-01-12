@@ -64,6 +64,11 @@
         <en>a boat</en>
         <pl/>
         <g>bàtaichean</g></li>
+      <li><a href="?gd=beinn"><g>beinn</g></a>
+        <fem/>
+        <en>a mountain</en>
+        <gen/>
+        <g>beinne</g></li>
       <!--
       <li><a href="?gd=beachd"><g>beachd</g></a>
         <masc/>
@@ -152,6 +157,12 @@
         <masc/>
         <en>graveyard</en></li>
         -->
+      <li><a href="?gd=clann"><g>clann</g></a>
+        <fem/>
+        <en>children</en></li>
+      <li><a href="?gd=cliathach"><g>cliathach</g></a>
+        <fem/>
+        <en>a side</en></li>
       <li><a href="?gd=cnoc"><g>cnoc</g></a>
         <masc/>
         <en>a hill</en>
@@ -182,6 +193,9 @@
         <slen/>
         <g>coin</g>
       </li>
+      <li><a href="?gd=dachaidh"><g>dachaidh</g></a>
+        <fem/>
+        <en>a home</en></li>
       <!--<li><m>dealbh</m> fem. <en>picture</en> gen. <b>deilbhe</b>, <b>dealbha</b></li>
       <li><m>deoch</m> fem. <en>drink</en> gen. <b>dighe</b>, <b>dibhe</b></li>
       <li><a href="?gd=dìcheall">dìcheall</a>
@@ -227,6 +241,9 @@
         <en>a man</en>
         <!--<slen/>
         <g>fir</g>--></li>
+      <li><a href="?gd=feasgar"><g>feasgar</g></a>
+        <masc/>
+        <en>an evening</en></li>
       <!--
       <li><m>fiadh</m> masc. <en>deer</en></li>
       <li><m>fios</m> masc. <en>knowledge</en> gen. <b>fiosa</b> pl. <b>fiosan</b></li>
@@ -243,6 +260,9 @@
       <!--
       <li><m>geansaidh</m> masc. <en>jumper</en></li>
       -->
+      <li><a href="?gd=grian"><g>grian</g></a>
+        <fem/>
+        <en>a sun</en></li>
       <li><a href="?gd=gual"><g>gual</g></a>
         <masc/>
         <en>coal</en></li>
@@ -303,6 +323,13 @@
       <li><a href="?gd=monadh"><g>monadh</g></a>
         <masc/>
         <en>a moor</en>
+        <!--<pl/>
+        <g>monaidhean</g>--></li>
+      <li><a href="?gd=muir"><g>muir</g></a>
+        <fem/>
+        <en>a sea</en>
+        <gen/>
+        <g>mara</g>
         <!--<pl/>
         <g>monaidhean</g>--></li>
       <li><a href="?gd=obair"><g>obair</g></a>
@@ -406,6 +433,9 @@
       <li><m>toll</m> masc. <en>hole</en> gen. <b>tuill</b> pl. <b>tuill</b></li>
       <li><m>tonn</m> masc. <en>wave</en> gen. <b>tuinn</b> pl. <b>tuinn</b></li>
       <li><a href="?gd=uair">uair</a> fem. <en>time, hour</en> gen. <b>uarach</b></li>-->
+      <li><a href="?gd=traaigh"><g>tràigh</g></a>
+        <fem/>
+        <en>a beach</en></li>
       <li><a href="?gd=ugh"><g>ugh</g></a>
         <masc/>
         <en>an egg</en>

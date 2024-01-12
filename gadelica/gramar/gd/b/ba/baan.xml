@@ -5,84 +5,54 @@
         <en>white, pale, light, fair</en> is a <a href="?xx=adjectives/simple_adjectives">simple
             adjective</a>.</p>
 
-    <!--<section>
-        <h>dependents</h>
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other (gradable) adjectives, <g>bàn</g> can occur with an intensifying
-                pre-specifier like <a href="?gd=glee"><g>glé</g></a>
-                <en>very</en>.</p>
-            <p>Some examples – <xl> </xl>
-            </p>
-        </section>
-    </section>-->
-
     <section>
-        <h>uses</h>
-        <section id="uses-predicate">
-            <h>predicate</h>
-            <p>Like other adjectives, <g>bàn</g> can be used (uninflected) as the predicate of the
-                verb <a href="?gd=bi"><g>bi</g></a>.</p>
-            <p>Some examples – <xl>
+        <h>nouns</h>
+        <module id="person_baan">
+            <h>[duine] bàn</h>
+            <p><g>[duine] bàn</g>
+                <en>a fair-haired [person]</en> – <xl>
                     <li>
-                        <gd>Tha Màiri <m>bàn</m>.</gd>
+                        <gd>Tha Màiri bàn.</gd>
                         <tr>Mary is fair-haired.</tr>
                         <ref text="617">td. 8 [adapted]</ref>
                     </li>
                     <li>
-                        <gd>A bheil an cat <m>bàn</m>?</gd>
-                        <tr>Is the cat white?</tr>
-                        <ref text="617">td. 15</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <section id="uses-mod">
-            <h>modifier</h>
-            <p>Like other adjectives, <g>bàn</g> can be used as a post-modifier of a <a
-                    href="?xx=nouns/nouns">noun</a>.</p>
-            <p>Some examples with masculine nouns – <xl>
-                    <li>
-                        <gd>A bheil <m>falt bàn</m> air Seumas?</gd>
-                        <tr>Does James have fair hair?</tr>
-                        <ref text="617">td. 13–14</ref>
-                    </li>
-                    <li>
-                        <gd>Càit a bheil an <m>cat bàn</m> an diugh?</gd>
-                        <tr>Where is the white cat today?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                </xl>
-            </p>
-            <p>When the modified noun is feminine, <g>bàn</g> is lenited to <g>bhàn</g> – <xl>
-                    <li>
-                        <gd>Tha <m>Màiri bhàn</m> anns an achadh an diugh.</gd>
+                        <gd>Tha Màiri bhàn anns an achadh an diugh.</gd>
                         <tr>Fair-headed Mary is in the field today.</tr>
                         <ref text="617">td. 9 [adapted]</ref>
                     </li>
                 </xl>
             </p>
-            <p>Note the difference in meaning between the following examples – <xl>
+        </module>
+        <module id="cat_baan">
+            <h>cat bàn</h>
+            <p><g><a href="?gd=cat">cat</a> bàn</g>
+                <en>a white cat</en> – <xl>
                     <li>
-                        <gd>Tha Màiri beag bàn.</gd>
-                        <tr>Mary is small and fair-haired.</tr>
-                        <ref text="617">td. 8</ref>
+                        <gd>A bheil an cat bàn?</gd>
+                        <tr>Is the cat white?</tr>
+                        <ref text="617">td. 15</ref>
                     </li>
                     <li>
-                        <gd>Tha Màiri bheag bàn.</gd>
-                        <tr>Little Mary is fair-haired.</tr>
-                        <ref text="617">td. 8</ref>
+                        <gd>Càit a bheil an cat bàn an diugh?</gd>
+                        <tr>Where is the white cat today?</tr>
+                        <ref text="617">td. 14</ref>
                     </li>
                 </xl>
             </p>
-        </section>
-        <!--<section id="uses-comp">
-            <h>complement</h>
-            <p>Like many other adjectives, <g>bàn</g> can be used as the complement of the
-                adverbialising particle <a href="?gd=gu"><g>gu</g></a>.</p>
-            <p>Some examples – <xl> </xl>
+        </module>
+        <module id="falt_baan">
+            <h>falt bàn</h>
+            <p><g>falt bàn</g>
+                <en>fair hair</en> – <xl>
+                    <li>
+                        <gd>A bheil falt bàn air Seumas?</gd>
+                        <tr>Does James have fair hair?</tr>
+                        <ref text="617">td. 13–14</ref>
+                    </li>
+                </xl>
             </p>
-        </section>-->
+        </module>
     </section>
 
 </module>

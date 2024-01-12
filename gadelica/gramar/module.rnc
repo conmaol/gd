@@ -31,7 +31,8 @@ TextContent = (
   |  element xl { attribute id { xsd:ID }?, element li { Example }+ }
   |  element masc {empty} 
   |  element fem {empty} 
-  |  element adj {empty} 
+  |  element adj {empty}
+  |  element adv {empty}
   |  element vb {empty}
   |  element prep {empty} 
   |  element etc {empty} 

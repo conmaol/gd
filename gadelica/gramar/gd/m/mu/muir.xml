@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>muir</h>
+    <p><g>muir</g>
+        <en>a sea</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>object</h>
+            <p><g>muir</g> can be the object of certain <a href="?xx=prepositions/prepositions"
+                    >prepositions</a>.</p>
+            <module id="air_muir">
+                <h>... air muir</h>
+                <p><g>... <a href="?gd=air">air</a> muir</g>
+                    <en>... on a sea</en>. </p>
+                <module>
+                    <h>bàta air muir</h>
+                    <p><g><a href="?gd=baata">bàta</a> air muir</g>
+                        <en>a boat on a sea</en> – <xl>
+                            <li>
+                                <gd>Chunnaic mi bàtaichean air a’ mhuir.</gd>
+                                <tr>I saw boats on the sea.</tr>
+                                <ref text="617">td. 21</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+            <module id="ann_am_muir">
+                <h>... ann am muir</h>
+                <p><g>... <a href="?gd=an^preposition">ann am</a> muir</g>
+                    <en>... in a sea</en>. </p>
+                <module>
+                    <h>snàmh [duine] ann am muir</h>
+                    <p><g><a href="?gd=snàmh">snàmh</a> [duine] ann am muir</g>
+                        <en>[a person] swims in a sea</en> – <xl>
+                            <li>
+                                <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
+                                <tr>I saw children swimming in the sea.</tr>
+                                <ref text="617">td. 21</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
+
+</module>

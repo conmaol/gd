@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>tràigh</h>
+    <p><g>tràigh</g>
+        <en>beach</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
+    
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>object</h>
+            <p><g>tràigh</g> can be the object of certain <a href="?xx=prepositions/prepositions"
+                >prepositions</a>.</p>
+            <module id="air_traaigh">
+                <h>... air tràigh</h>
+                <p><g>... <a href="?gd=air">air</a> tràigh</g>
+                    <en>... on a beach</en>. </p>
+                <module>
+                    <h>bàta air tràigh</h>
+                    <p><g><a href="?gd=baata">bàta</a> air tràigh</g>
+                        <en>a boat on a beach</en> – <xl>
+                            <li>
+                                <gd>Tha bàta beag air an traigh.</gd>
+                                <tr>There is a little boat on the beach.</tr>
+                                <ref text="617">td. 21 [adapted]</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
+    
+    
+</module>
+

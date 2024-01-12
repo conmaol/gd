@@ -2,77 +2,19 @@
 <module>
     <h>ceàrr</h>
     <p><g>ceàrr</g>
-        <en>wrong</en> is a <a href="?xx=adjectives/simple_adjectives">simple
-            adjective</a>.</p>
-    
-    <section>
-        <h>dependents</h>
-        <!--<section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other (gradable) adjectives, <g>beag</g> can occur with an intensifying
-                pre-specifier like <a href="?gd=glee"><g>glé</g></a>
-                <en>very</en>.</p>
-            <p>Some examples – <xl> </xl>
-            </p>
-        </section>-->
-        <section id="deps-comp">
-            <h>complement</h>
-            <p><g>ceàrr</g> can take a complement, introduced by the preposition <a href="?gd=air"><g>air</g></a> <en>on</en>.</p>
-            <p>Some examples –
-            <xl>
-                <li>
-                    <gd>Dé tha <m>ceàrr air a’ ghille seo</m>? Tha a cheann goirt.</gd>
-                    <tr>What is wrong with this boy? His head is sore.</tr>
-                    <ref text="617">td. 20</ref>
-                </li>
-            </xl>
-            </p>
-        </section>
-    </section>
-    
-    <section>
-        <h>uses</h>
-        <section id="uses-predicate">
-            <h>predicate</h>
-            <p>Like other adjectives, <g>ceàrr</g> can be used (uninflected) as the predicate of the
-                verb <a href="?gd=bi"><g>bi</g></a>.</p>
-            <p>Some examples – <xl>
-                <li>
-                    <gd>Dé tha <m>ceàrr</m> air a’ ghille seo? Tha a cheann goirt.</gd>
-                    <tr>What is wrong with this boy? His head is sore.</tr>
-                    <ref text="617">td. 20</ref>
-                </li>
-            </xl>
-            </p>
-        </section>
-        <!--<section id="uses-mod">
-            <h>modifier</h>
-            <p>Like other adjectives, <g>beag</g> can be used to modify a <a href="?xx=nouns/nouns"
-                >noun</a>.</p>
-            <p>Some examples with masculine nouns – <xl>
-                
-            </xl>
-            </p>
-            <p>When the modified noun is feminine, <g>beag</g> is lenited to <g>bheag</g> – <xl>
-                
-            </xl>
-            </p>
-            <p>Note the difference in meaning between the following examples – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-        
-        <!--<section id="uses-comp">
-            <h>complement</h>
-            <p>Like many other adjectives, <g>beag</g> can be used as the complement of the
-                adverbialising particle <a href="?gd=gu"><g>gu</g></a>.</p>
-            <p>Some examples – <xl> </xl>
-            </p>
-        </section>-->
-        
-    </section>
-    
+        <en>wrong</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+
+    <p>Some examples – <xl>
+            <li>
+                <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
+                <tr>What is wrong with this boy? His head is sore.</tr>
+                <ref text="617">td. 20</ref>
+            </li>
+        </xl>
+    </p>
+
+
+
     <!--<p lang="en">Corpus examples – <xl id="exs">
         <li>
             <gd>Bha grunnan de ar luchd-leughaidh an dùil, nuair a nochd an àireamh mu dheireadh
@@ -90,4 +32,3 @@
     </xl>
     </p>-->
 </module>
-

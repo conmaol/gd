@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>cliathach</h>
+    <p><g>cliathach</g>
+        <en>a side</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+        noun</a>.</p>
+
+    <section>
+        <h>prepositions</h>
+
+        <section>
+            <h>object</h>
+            <p><g>cliathach</g> can be the object of certain <a href="?xx=prepositions/prepositions"
+                    >prepositions</a>.</p>
+            <module id="air_cliathach">
+                <h>... air cliathach</h>
+                <p><g>... <a href="?gd=air">air</a> cliathach</g>
+                    <en>... on a side</en>. </p>
+                <module>
+                    <h>... air cliathach beinne</h>
+                    <p><g>... air cliathach beinne</g>
+                        <en>... on a side of a mountain</en> – </p>
+                    <module>
+                        <h>caora air cliathach beinne</h>
+                        <p><g><a href="?gd=caora">caora</a> air cliathach <a href="?gd=beinn">beinne</a></g>
+                            <en>a sheep on a side of a mountain</en> – <xl>
+                                <li>
+                                    <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
+                                    <tr>The sheep were up on the side of the mountain.</tr>
+                                    <ref text="617">td. 21</ref>
+                                </li>
+                            </xl>
+                        </p>
+                    </module>
+                </module>
+            </module>
+        </section>
+    </section>
+
+    <section>
+        <h>nouns</h>
+    </section>
+
+</module>

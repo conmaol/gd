@@ -215,6 +215,10 @@
     <em>adj.</em>
   </xsl:template>
 
+  <xsl:template match="adv">
+    <em>adv.</em>
+  </xsl:template>
+
   <xsl:template match="vb">
     <em>vb.</em>
   </xsl:template>

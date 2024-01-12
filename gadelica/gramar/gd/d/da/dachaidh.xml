@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>dachaidh</h>
+    <p><g>dachaidh</g>
+        <en>a home</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
+    <p>cf. <a href="?gd=dhachaidh"><g>dhachaidh</g></a> <adv/> <en>homewards, (to) home</en></p>
+</module>
+

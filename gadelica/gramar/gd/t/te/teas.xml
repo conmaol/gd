@@ -5,20 +5,29 @@
         <en>heat</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-    <p>Examples of <g>teas</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
-        – <ul>
-            <li>non-specified – <ul>
-                    <li>unmodified – <xl>
-                            <li>
-                                <gd>Tha teas anns an teine.</gd>
-                                <tr>There is heat in the fire.</tr>
-                                <ref text="617">td. 6</ref>
-                            </li>
-                        </xl>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>subject</h>
+            <p><g>teas</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <module id="teas_an">
+                <h>teas ann an ...</h>
+                <p><g>teas <a href="?gd=an^preposition">ann an</a> ...</g>
+                    <en>heat in ...</en>.</p>
+                <module>
+                    <h>teas ann an teine</h>
+                    <p><g>teas ann an <a href="?gd=teine">teine</a></g>
+                    <en>heat in a fire</en> – <xl>
+                        <li>
+                            <gd>Tha teas anns an teine.</gd>
+                            <tr>There is heat in the fire.</tr>
+                            <ref text="617">td. 6</ref>
+                        </li>
+                    </xl>
+                </p></module>
+            </module>
+        </section>
+    </section>
 
 </module>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>dhachaidh</h>
+    <p><g>dhachaidh</g>
+        <en>homewards, to home</en> is an <a href="?xx=prepositions/adverbs">adverb</a>.</p>
+    <p>cf. <a href="?gd=dachaidh"><g>dachaidh</g></a>
+        <fem/>
+        <en>a home</en></p>
+
+    <section>
+        <h>verbs</h>
+        <section>
+            <h>complement</h>
+            <module>
+                <h>thig dhachaidh</h>
+                <p><g><a href="?gd=thig">thig</a> [duine] dhachaidh</g>
+                    <en>[a person] comes home</en> – <xl>
+                        <li>
+                            <gd>Thàinig mi dhachaidh feasgar.</gd>
+                            <tr>I arrived home in the evening.</tr>
+                            <ref text="617">td. 21</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+
+</module>

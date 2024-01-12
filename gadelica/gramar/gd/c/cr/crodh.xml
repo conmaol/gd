@@ -5,7 +5,73 @@
         <en>cattle</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
 
-   
+    <section>
+        <h>prepositions</h>
+        <section>
+            <h>subject</h>
+            <p><g>crodh</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <module id="crodh_an">
+                <h>crodh ann an ...</h>
+                <p><g>crodh <a href="?gd=an^preposition">ann an</a> ...</g>
+                    <en>cattle in ...</en>.</p>
+                <module>
+                    <h>crodh ann am monadh</h>
+                    <p><g>crodh ann am <a href="?gd=monadh">monadh</a> ...</g>
+                        <en>cattle on a moor</en> – <xl>
+                            <li>
+                                <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
+                                <tr>I saw sheep and cattle on the moor.</tr>
+                                <ref text="617">td. 21</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
 
+    <section>
+        <h>adverbs</h>
+        <p><g>crodh</g> can be the (deep) subject of certain <a href="?xx=prepositions/adverbs"
+            >adverbs</a>.</p>
+        <module id="crodh_faisg">
+            <h>[bi] crodh faisg air ...</h>
+            <p><g>[bi] crodh <a href="?gd=faisg">faisg air</a> ...</g>
+                <en>cattle [are] near ...</en>.</p>
+            <module>
+                <h>[bi] crodh faisg air loch</h>
+                <p><g>[bi] crodh faisg air <a href="?gd=loch">loch</a></g>
+                <en>cattle [are] near a lake</en>
+                <xl>
+                    <li>
+                        <gd>Bha an crodh faisg air an loch.</gd>
+                        <tr>The cattle were near the lake.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                </xl>
+            </p></module>
+        </module>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <section>
+            <h>object</h>
+            <p><g>crodh</g> can be the object of certain (transitive) <a href="?xx=verbs/verbs"
+                    >verbs</a>.</p>
+            <module id="faic_crodh">
+                <h>faic [duine] crodh</h>
+                <p><g><a href="?gd=faic">faic</a> [duine] crodh</g>
+                    <en>[a man] sees cattle</en> – <xl>
+                        <li>
+                            <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
+                            <tr>I saw sheep and cattle on the moor.</tr>
+                            <ref text="617">td. 21</ref>
+                        </li>
+                    </xl></p>
+            </module>
+        </section>
+    </section>
 
 </module>

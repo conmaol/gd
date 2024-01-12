@@ -7,8 +7,8 @@
 
     <section>
         <h>adjectives</h>
-        <p><g>latha</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
-                >adjectives</a>.</p>
+        <!--<p><g>latha</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
+                >adjectives</a>.</p>-->
         <module id="latha_math">
             <h>latha math</h>
             <p><g>latha <a href="?gd=math">math</a></g>
@@ -28,6 +28,11 @@
                         <gd>Tha latha briagha blàth ann.</gd>
                         <tr>It is a beautiful warm day.</tr>
                         <ref text="617">td. 14 [228]</ref>
+                    </li>
+                    <li>
+                        <gd>Bha latha briagha ann agus bha a’ ghrian a’ deàrrsadh.</gd>
+                        <tr>It was a beautiful day and the sun was shining.</tr>
+                        <ref text="617">td 21</ref>
                     </li>
                 </xl></p>
         </module>
@@ -59,8 +64,8 @@
         <h>prepositions</h>
         <section>
             <h>subject</h>
-            <p><g>latha</g> can be the (deep) subject of certain <a
-                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
+            <!--<p><g>latha</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>-->
             <module id="latha_an">
                 <h>latha ann an ...</h>
                 <p><g>latha <a href="?gd=an^preposition">ann an</a> ...</g>
@@ -79,6 +84,11 @@
                                 <tr>It is a beautiful warm day.</tr>
                                 <ref text="617">td. 14 [228] [adapted spelling]</ref>
                             </li>
+                            <li>
+                                <gd>Bha latha briagha ann agus bha a’ ghrian a’ deàrrsadh.</gd>
+                                <tr>It was a beautiful day and the sun was shining.</tr>
+                                <ref text="617">td 21</ref>
+                            </li>
                         </xl>
                     </p>
                 </module>
@@ -88,8 +98,10 @@
 
     <section>
         <h>nouns</h>
-        <p><g>latha</g> can be the specifier of certain other nouns.</p>
-        <module id="fad_an_latha">
+        <!--<p><g>latha</g> can be the specifier of certain other nouns.</p>-->
+        <section>
+            <h>specifier</h>
+            <module id="fad_an_latha">
             <h>fad an latha</h>
             <p><g><a href="?gd=fad">fad</a> an latha</g>
                 <en>the length of the day, all day long</en> – <xl>
@@ -107,7 +119,7 @@
                     </li>
                 </xl>
             </p>
-        </module>
+        </module></section>
     </section>
 
     <!--<section>

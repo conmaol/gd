@@ -10,7 +10,7 @@
         <section>
             <h>object</h>
             <p><g>loch</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                >prepositions</a>.</p>
+                    >prepositions</a>.</p>
             <module id="air_loch">
                 <h>... air loch</h>
                 <p><g>... <a href="?gd=air">air</a> loch</g>
@@ -21,12 +21,28 @@
                         <en>[a person] fishes on a lake</en> – <xl>
                             <li>
                                 <gd>An robh Calum ag iasgach air an loch an dé? Bha.</gd>
-                                <tr>Was Malcolm fishing on the lake yesterday? Yes, he
-                                    was.</tr>
+                                <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
                                 <ref text="617">td. 20</ref>
                             </li>
                         </xl>
                     </p>
+                </module>
+                <module>
+                    <h>faisg air loch</h>
+                    <p><g><a href="?gd=faisg">faisg</a> air loch</g>
+                        <en>near a lake</en>.</p>
+                    <module>
+                        <h>[bi] crodh faisg air loch</h>
+                        <p><g>[bi] <a href="?gd=crodh">crodh</a> faisg air loch</g>
+                            <en>cattle [are] near a lake</en> – <xl>
+                                <li>
+                                    <gd>Bha an crodh faisg air an loch.</gd>
+                                    <tr>The cattle were near the lake.</tr>
+                                    <ref text="617">td. 21</ref>
+                                </li>
+                            </xl>
+                        </p>
+                    </module>
                 </module>
             </module>
         </section>
