@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
-    <h>grian</h>
-    <p><g>grian</g>
-        <en>a sun</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+    <h>deàrrs</h>
+    <p><g>deàrrs</g>
+        <en>shine</en> is a simple verb.</p>
 
     <section>
-        <h>verbs</h>
-        <section>
-            <h>subject</h>
-            <module id="deeaars">
-                <h>deàrrs</h>
-                <p><g><a href="?gd=deaarrs">deàrrs</a> grian</g>
+        <h>nouns</h>
+            <section>
+                <h>subject</h>
+                <module id="grian">
+                <h>grian</h>
+                <p><g>deàrrs <a href="?gd=grian">grian</a></g>
                     <en>a sun shines</en> – <xl>
                         <li>
                             <gd>Bha latha briagha ann agus bha a’ ghrian a’ deàrrsadh.</gd>
@@ -19,8 +18,7 @@
                             <ref text="617">td 21</ref>
                         </li>
                     </xl></p>
-            </module>
-        </section>
+            </module></section>
     </section>
 
 </module>

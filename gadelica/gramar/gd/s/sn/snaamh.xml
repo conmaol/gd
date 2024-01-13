@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>snàmh</h>
+    <p><g>snàmh</g>
+        <en>swim</en> is a simple verb.</p>
+
+    <section>
+        <h>nouns</h>
+        <section>
+            <h>subject</h>
+            <module id="clann">
+                <h>clann</h>
+                <p><g>snàmh <a href="?gd=clann">clann</a></g>
+                    <en>children swim</en> – <xl>
+                        <li>
+                            <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
+                            <tr>I saw children swimming in the sea.</tr>
+                            <ref text="617">td. 21</ref>
+                        </li>
+                    </xl></p>
+            </module>
+        </section>
+        <section>
+            <h>locative</h>
+            <section>
+                <h>inessive</h>
+                <module id="muir">
+                    <h>ann am muir</h>
+                    <p><g>snàmh ann am <a href="?gd=muir">muir</a></g>
+                        <en>swim in a sea</en> – <xl>
+                            <li>
+                                <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
+                                <tr>I saw children swimming in the sea.</tr>
+                                <ref text="617">td. 21</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </section>
+        </section>
+    </section>
+
+</module>

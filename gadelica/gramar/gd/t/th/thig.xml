@@ -3,12 +3,27 @@
   <h>thig</h>
   <!-- Keep working through Mark dictionary. And from Chapter 10 in Robby textbook. -->
   <p><g>thig</g>
-    <en>come</en> is an irregular verb. <!--It generally
-    denotes a (proximal) event of <a href="?q=motion">motion along a trajectory</a>, towards the
-    speaker or centre of discourse (cf. the equivalent distal verb <a href="?gd=rach"
-      ><g>rach</g></a>
-    <en>go</en>).--></p>
-  
+    <en>come</en> is an irregular verb.</p>
+
+  <module>
+    <h>thig duine dhachaidh feasgar</h>
+    <p><g>thig duine <a href="?gd=dhachaidh">dhachaidh</a>
+        <a href="?gd=feasgar^adv">feasgar</a></g>
+      <en>a man comes home in the evening</en> – <xl>
+        <li>
+          <gd>Thàinig mi dhachaidh feasgar.</gd>
+          <tr>I arrived home in the evening.</tr>
+          <ref text="617">td. 21</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+
+
+
+
+
+  <!--
   <section>
     <h>dependents</h>
     <section id="sbj">
@@ -111,7 +126,7 @@
               </li>
             </ul>
           </li>
-          <!--
+          <!-\-
           <li>first person conditionals – <ul>
               <li>singular – <ul>
                   <li>pedagogical examples – <xl id="sbj-pron-cond-sg-pedag"> </xl>
@@ -125,7 +140,7 @@
               </li>
             </ul>
           </li>
-          -->
+          -\->
           <li>relativised subjects – <ul>
               <li>pedagogical examples – <xl id="sbj-rel-pedag">
                   <li>
@@ -201,7 +216,7 @@
               </li>
             </ul>
           </li>
-          <!--
+          <!-\-
         <li>open questions – <ul>
           <li>pedagogical examples – <xl id="sbj-quest-open-pedag">
             
@@ -209,7 +224,7 @@
           </li>
         </ul>
         </li>
-        -->
+        -\->
         </ul>
       </p>
       <p>Examples with non-human subjects – <xl id="sbh-non-human-xs">
@@ -535,7 +550,7 @@
   </section>
 
 
-  <!--
+  <!-\-
   <module id="other">
     <h>other verb compounds</h>
 
@@ -662,9 +677,9 @@
 
 
   </module>
--->
+-\->
 
-  <!--<section id="forms">
+  <!-\-<section id="forms">
     <h>forms</h>
     <p>The principal parts of <g>thig</g> are – <ul>
       <li><m>thig</m> – future independent <en>will come</en></li>
@@ -909,6 +924,6 @@
       </ol>
       </p>
     </section>
-  </section>-->
+  </section>-\->-->
 
 </module>

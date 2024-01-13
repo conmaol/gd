@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
   <h>ruig</h>
   <p><g>ruig</g>
     <en>reach</en> is an irregular verb.</p>
-  <section id="forms">
+
+  <module>
+    <h>ruig duine taigh</h>
+    <p><g>ruig duine <a href="?gd=taigh">taigh</a></g>
+      <en>a man reaches a house</en> – <xl>
+        <li>
+          <gd>Bha mi sgìth nuair a ràinig mi an taigh.</gd>
+          <tr>I was tired when I arrived home.</tr>
+          <ref text="617">td. 21</ref>
+        </li>
+      </xl>
+    </p>
+  </module>
+
+
+
+  <!--<section id="forms">
     <h>forms</h>
     <p>The principal parts of <g>ruig</g> are – <ul>
         <li><m>ruigidh</m> – future independent ie. <en>will reach</en></li>
@@ -244,9 +260,9 @@
             <g>ruigheachd</g>.</li>
       </ol>
     </p>
-  </section>
+  </section>-->
 
-<!--
+  <!--
   <module id="relations">
     <h>relations</h>
     <h lang="gd">...</h>

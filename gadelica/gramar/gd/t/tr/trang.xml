@@ -4,71 +4,58 @@
     <p><g>trang</g>
         <en>busy</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
 
-    <!--<section>
-        <h>dependents</h>
-        <section id="deps-spr">
-            <h>specifier</h>
-            <p>Like other (gradable) adjectives, <g>trang</g> can occur with an intensifying
-                pre-specifier like <a href="?gd=glee"><g>glé</g></a>
-                <en>very</en>.</p>
-            <p>
-                <xl>
-                </xl>
-            </p>
-        </section>
-    </section>
--->
-
     <section>
-        <h>uses</h>
-        <section id="uses-predicate">
-            <h>predicate</h>
-            <p>Like other adjectives, <g>trang</g> can be used (uninflected) as the predicate of the
-                verb <a href="?gd=bi"><g>bi</g></a>
-                <en>be</en>.</p>
-            <p>Some examples – <xl>
+        <h>nouns</h>
+        <module id="duine_trang">
+            <h>duine trang</h>
+            <p><g><a href="?gd=duine">duine</a> trang</g>
+                <en>a busy man</en> – <xl>
                     <li>
-                        <gd>Tha Màiri agus Calum <m>trang</m> an diugh.</gd>
-                        <tr>Mary and Malcolm are busy today.</tr>
-                        <ref text="617">td. 7</ref>
-                    </li>
-                    <li>
-                        <gd>Bha sinn <m>trang</m> ag obair.</gd>
+                        <gd>Bha sinn trang ag obair.</gd>
                         <tr>We were busy working.</tr>
                         <ref text="617">td. 9 [adapted]</ref>
                     </li>
                     <li>
-                        <gd>An robh sibh <m>trang</m>? Bha.</gd>
+                        <gd>An robh sibh trang? Bha.</gd>
                         <tr>Were you busy? Yes, we were.</tr>
                         <ref text="617">td. 14 [227] [adapted]</ref>
                     </li>
                 </xl>
             </p>
-        </section>
+            <module id="tee_trang">
+                <h>té trang</h>
+                <p><g><a href="?gd=tee">té</a> trang</g>
+                    <en>a busy woman</en> – <xl>
+                        <li>
+                            <gd>Tha Màiri agus Calum trang an diugh.</gd>
+                            <tr>Mary and Malcolm are busy today.</tr>
+                            <ref text="617">td. 7</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </module>
+    </section>
 
-        <!--<section id="uses-mod">
-            <h>modifier</h>
-            <p>Like other adjectives, <g>trang</g> can be used as a (post-)modifier of a <a
-                href="?xx=nouns/nouns">noun</a>.</p>
-            <p>Some examples with masculine nouns – <xl>
-                
-            </xl>
-            </p>
-        </section>-->
-
-        <section id="uses-comp">
-            <h>complement</h>
-            <p>Like many adjectives, <g>trang</g> can be used as the complement of the
-                adverbialising particle <a href="?gd=gu"><g>gu</g></a> – <g>gu trang</g>
-                <en>busily</en>.</p>
-            <p><xl>
+    <section>
+        <h>verbs</h>
+        <module id="obair_gu_trang">
+            <h>obair gu trang</h>
+            <p><g><a href="?gd=obair">obair</a> gu trang</g>
+                <en>working busily</en> – <xl>
                     <li>
-                        <gd>Tha Calum sgìth – tha e ag obair <m>gu trang</m> anns an achadh.</gd>
+                        <gd>Tha Calum sgìth – tha e ag obair gu trang anns an achadh.</gd>
                         <tr>Malcolm is tired – he is working busily in the field.</tr>
                         <ref text="617">td. 7</ref>
                     </li>
-                </xl></p>
-        </section>
+                    <li>
+                        <gd>Bha sinn trang ag obair.</gd>
+                        <tr>We were busy working.</tr>
+                        <ref text="617">td. 9 [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 </module>

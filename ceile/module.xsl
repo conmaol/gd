@@ -53,13 +53,13 @@
   <xsl:template match="*/module">
     <section>
       <hr/>
-      <h5>
+      <h3>
         <xsl:apply-templates select="h/child::node()"/>
         <xsl:if test="@id">
           <xsl:text> </xsl:text>
           <a data-bs-toggle="collapse" href="{concat('#',@id)}" class="fs-6 fw-normal">[+/-]</a>
         </xsl:if>
-      </h5>
+      </h3>
       <section>
         <xsl:if test="@id">
           <xsl:attribute name="class">
