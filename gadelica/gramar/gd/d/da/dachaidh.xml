@@ -4,6 +4,26 @@
     <p><g>dachaidh</g>
         <en>a home</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
-    <p>cf. <a href="?gd=dhachaidh"><g>dhachaidh</g></a> <adv/> <en>homewards, (to) home</en></p>
+    
+    <section>
+        <h>verbs</h>
+        <!--<section>
+            <h>complement</h>-->
+            <module id="thig">
+                <h>thig</h>
+                <p><g><a href="?gd=thig">thig</a> dhachaidh</g>
+                    <en>comes home</en> – <xl>
+                        <li>
+                            <gd>Thàinig mi dhachaidh feasgar.</gd>
+                            <tr>I arrived home in the evening.</tr>
+                            <ref text="617">td. 21</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        <!--</section>-->
+    </section>
+    
+    
 </module>
 

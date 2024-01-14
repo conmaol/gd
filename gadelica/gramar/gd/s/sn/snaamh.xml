@@ -2,12 +2,12 @@
 <module>
     <h>snàmh</h>
     <p><g>snàmh</g>
-        <en>swim</en> is a simple verb.</p>
+        <en>swim</en> is a <a href="?xx=verbs/simple_verbs">simple verb</a>.</p>
 
     <section>
         <h>nouns</h>
-        <section>
-            <h>subject</h>
+        <!--<section>
+            <h>subject</h>-->
             <module id="clann">
                 <h>clann</h>
                 <p><g>snàmh <a href="?gd=clann">clann</a></g>
@@ -19,15 +19,15 @@
                         </li>
                     </xl></p>
             </module>
-        </section>
-        <section>
-            <h>locative</h>
+        <!--</section>-->
+       <!-- <section>-->
+            <!--<h>locative</h>
             <section>
-                <h>inessive</h>
+                <h>inessive</h>-->
                 <module id="muir">
-                    <h>ann am muir</h>
+                    <h>muir</h>
                     <p><g>snàmh ann am <a href="?gd=muir">muir</a></g>
-                        <en>swim in a sea</en> – <xl>
+                        <en>swims in a sea</en> – <xl>
                             <li>
                                 <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
                                 <tr>I saw children swimming in the sea.</tr>
@@ -36,8 +36,8 @@
                         </xl>
                     </p>
                 </module>
-            </section>
-        </section>
+            <!--</section>-->
+        <!--</section>-->
     </section>
 
 </module>

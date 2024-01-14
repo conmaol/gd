@@ -7,8 +7,8 @@
     
     <section>
         <h>verbs</h>
-        <section>
-            <h>subject</h>
+        <!--<section>
+            <h>subject</h>-->
             <module id="snaamh">
                 <h>snàmh</h>
                 <p><g><a href="?gd=snaamh">snàmh</a> clann</g>
@@ -20,13 +20,13 @@
                         </li>
                     </xl></p>
             </module>
-        </section>
-        <section>
-            <h>object</h>
+        <!--</section>-->
+        <!--<section>
+            <h>object</h>-->
             <module id="faic">
                 <h>faic</h>
-                <p><g><a href="?gd=faic">faic</a> clann</g>
-                    <en>see children</en> – <xl>
+                <p><g><a href="?gd=faic">faic</a> ... clann</g>
+                    <en>sees children</en> – <xl>
                         <li>
                             <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
                             <tr>I saw children swimming in the sea.</tr>
@@ -34,7 +34,7 @@
                         </li>
                     </xl></p>
             </module>
-        </section>
+        <!--</section>-->
     </section>
     
 </module>

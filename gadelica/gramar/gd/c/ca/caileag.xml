@@ -47,4 +47,22 @@
         </section>
     </section>
 
+    <section>
+        <h>verbs</h>
+        <!-- <section>
+            <h>subject</h>-->
+        <module id="cluich">
+            <h>cluich</h>
+            <p><g><a href="?gd=cluich">cluich</a> caileag</g>
+                <en>a girl plays</en> – <xl>
+                    <li>
+                        <gd>Tha a’ chaileag a’ cluich.</gd>
+                        <tr>The girl is playing.</tr>
+                        <ref text="617">td. 15 [adapted]</ref>
+                    </li>
+                </xl></p>
+        </module>
+        <!--</section>-->
+    </section>
+
 </module>

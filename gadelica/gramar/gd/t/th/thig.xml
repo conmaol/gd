@@ -3,21 +3,35 @@
   <h>thig</h>
   <!-- Keep working through Mark dictionary. And from Chapter 10 in Robby textbook. -->
   <p><g>thig</g>
-    <en>come</en> is an irregular verb.</p>
+    <en>come</en> is an <a href="?xx=verbs/simple_verbs">irregular verb</a>.</p>
 
-  <module>
-    <h>thig duine dhachaidh feasgar</h>
-    <p><g>thig duine <a href="?gd=dhachaidh">dhachaidh</a>
-        <a href="?gd=feasgar^adv">feasgar</a></g>
-      <en>a man comes home in the evening</en> – <xl>
-        <li>
-          <gd>Thàinig mi dhachaidh feasgar.</gd>
-          <tr>I arrived home in the evening.</tr>
-          <ref text="617">td. 21</ref>
-        </li>
-      </xl>
-    </p>
-  </module>
+  <section>
+    <h>nouns</h>
+    <module id="dachaidh">
+      <h>dachaidh</h>
+      <p><g>thig <a href="?gd=dachaidh">dhachaidh</a></g>
+        <en>comes home</en> – <xl>
+          <li>
+            <gd>Thàinig mi dhachaidh feasgar.</gd>
+            <tr>I arrived home in the evening.</tr>
+            <ref text="617">td. 21</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <module id="feasgar">
+      <h>feasgar</h>
+      <p><g>thig <a href="?gd=feasgar">feasgar</a></g>
+        <en>comes in the evening</en> – <xl>
+          <li>
+            <gd>Thàinig mi dhachaidh feasgar.</gd>
+            <tr>I arrived home in the evening.</tr>
+            <ref text="617">td. 21</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+  </section>
 
 
 

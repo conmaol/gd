@@ -6,8 +6,8 @@
         noun</a>.</p>
     <section>
         <h>nouns</h>
-        <section>
-            <h>superessive</h>
+        <!--<section>
+            <h>superessive</h>-->
             <module id="baata">
                 <h>bàta</h>
                 <p><g><a href="?gd=baata">bàta</a> air muir</g>
@@ -20,17 +20,17 @@
                     </xl>
                 </p>
             </module>
-        </section>
+        <!--</section>-->
     </section>
 
     <section>
         <h>verbs</h>
-        <section>
-            <h>inessive</h>
+        <!--<section>
+            <h>inessive</h>-->
             <module id="snaamh">
                 <h>snàmh</h>
                 <p><g><a href="?gd=snaamh">snàmh</a> ann am muir</g>
-                    <en>swim in a sea</en> – <xl>
+                    <en>swims in a sea</en> – <xl>
                         <li>
                             <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
                             <tr>I saw children swimming in the sea.</tr>
@@ -39,7 +39,7 @@
                     </xl>
                 </p>
             </module>
-        </section>
+        <!--</section>-->
     </section>
 
 </module>

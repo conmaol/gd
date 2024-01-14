@@ -105,11 +105,10 @@
 
     <section>
         <h>verbs</h>
-        <section>
-            <h>subject</h>
-            <p><g>gille</g> can be the subject of certain <a href="?xx=verbs/verbs">verbs</a>.</p>
-            <module id="cluich_gille">
-                <h>cluich gille</h>
+       <!-- <section>
+            <h>subject</h>-->
+            <module id="cluich">
+                <h>cluich</h>
                 <p><g><a href="?gd=cluich">cluich</a> gille</g>
                     <en>a boy plays</en> – <xl>
                         <li>
@@ -119,7 +118,7 @@
                         </li>
                     </xl></p>
             </module>
-        </section>
+        <!--</section>-->
     </section>
 
     <!--<xl>

@@ -88,11 +88,11 @@
 
     <section>
         <h>verbs</h>
-        <section>
+       <!-- <section>
             <h>subject</h>
-            <p><g>cat</g> can be the subject of certain <a href="?xx=verbs/verbs">verbs</a>.</p>
-            <module id="cluich_cat">
-                <h>cluich cat</h>
+            <p><g>cat</g> can be the subject of certain <a href="?xx=verbs/verbs">verbs</a>.</p>-->
+            <module id="cluich">
+                <h>cluich</h>
                 <p><g><a href="?gd=cluich">cluich</a> cat</g>
                     <en>a cat plays</en> – <xl>
                         <li>
@@ -102,7 +102,7 @@
                         </li>
                     </xl></p>
             </module>
-        </section>
+        <!--</section>-->
     </section>
 
     <!-- <p>Examples of <g>cat</g> as the subject of a demonstrative pronoun used as a copular verb – <ul>

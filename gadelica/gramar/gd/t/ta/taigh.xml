@@ -7,7 +7,7 @@
 
     <section>
         <h>adjectives</h>
-       <!-- <p><g>taigh</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
+        <!-- <p><g>taigh</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
                 >adjectives</a>.</p>-->
         <module id="taigh_moor">
             <h>taigh mór</h>
@@ -127,17 +127,15 @@
             </module>
         </section>
     </section>
-    
+
     <section>
         <h>verbs</h>
         <section>
             <h>object</h>
-            <!--<p><g>taigh</g> can be the object of certain (transitive) <a href="?xx=verbs/verbs"
-                >verbs</a>.</p>-->
-            <module id="faic_taigh">
-                <h>ruig taigh</h>
-                <p><g><a href="?gd=ruig">ruig</a> [duine] taigh</g>
-                    <en>[a person] arrives at a house</en> – <xl>
+            <module id="ruig">
+                <h>ruig</h>
+                <p><g><a href="?gd=ruig">ruig</a> taigh</g>
+                    <en>reaches a house</en> – <xl>
                         <li>
                             <gd>Bha mi sgìth nuair a ràinig mi an taigh.</gd>
                             <tr>I was tired when I arrived home.</tr>
@@ -146,6 +144,19 @@
                     </xl></p>
             </module>
         </section>
+        <section>
+            <h>locative</h>
+            <module id="cluich">
+            <h>cluich</h>
+            <p><g><a href="?gd=cluich">cluich</a> ann an taigh</g>
+                <en>plays in a house</en> – <xl>
+                    <li>
+                        <gd>Cha robh sinn a’ cluich anns an taigh.</gd>
+                        <tr>We were not playing in the house.</tr>
+                        <ref text="617">td. 21 [230]</ref>
+                    </li>
+                </xl></p>
+        </module></section>
     </section>
 
 </module>

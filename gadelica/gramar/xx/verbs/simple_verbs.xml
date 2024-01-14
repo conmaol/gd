@@ -1,40 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>simple verbs</h>
-    <p>Simple verbs are <a href="?xx=verbs/verbs">verbs</a> that are not formed out of other
+    <!--<p>Simple verbs are <a href="?xx=verbs/verbs">verbs</a> that are not formed out of other
         words.</p>
-    <p>Simple verbs contrast with <!--<a href="?xx=verbs/derived_verbs">-->derived verbs<!--</a>-->
-        and <!--<a href="?xx=verbs/compound_verbs">-->compound verbs<!--</a>--> which
-            <emph>are</emph> formed out of other words.</p>
+    <p>Simple verbs contrast with <!-\-<a href="?xx=verbs/derived_verbs">-\->derived verbs<!-\-</a>-\->
+        and <!-\-<a href="?xx=verbs/compound_verbs">-\->compound verbs<!-\-</a>-\-> which
+            <emph>are</emph> formed out of other words.</p>-->
 
-    <section id="irregular">
+    <section>
         <h>irregular verbs</h>
         <p>List of irregular verbs – <ul>
-                <li><a href="?gd=bi"><g>bi</g></a>
-                    <en>be</en></li>
+                <!--<li><a href="?gd=bi"><g>bi</g></a>
+                    <en>be</en></li>-->
                 <li><a href="?gd=deean"><g>dèan</g></a>
                     <en>do, make</en></li>
                 <li><a href="?gd=faic"><g>faic</g></a>
                     <en>see</en></li>
                 <!--<li><a href="?gd=rach"><g>rach</g></a>
-                <en>go</en></li>
+                <en>go</en></li>-->
+            <li><a href="?gd=ruig"><g>ruig</g></a>
+                <en>reach</en></li>
             <li><a href="?gd=thig"><g>thig</g></a>
                 <en>come</en></li>
+            <!--
             <li><a href="?gd=thoir"><g>thoir</g></a>
                 <en>give, take, bring</en></li>-->
             </ul>
         </p>
     </section>
 
-    <section id="regular">
+    <section>
         <h>regular verbs</h>
         <p>List of regular simple verbs – <ul>
                 <li><a href="?gd=cluich"><g>cluich</g></a>
                     <en>play</en></li>
             <li><a href="?gd=cuir"><g>cuir</g></a>
                 <en>put, send</en> vn. <g>cur</g></li>
+            <li><a href="?gd=deaarrs"><g>deàrrs</g></a>
+                <en>shine</en></li>
             <li><a href="?gd=fuirich"><g>fuirich</g></a>
                 <en>wait, stay, live</en></li>
+            <li><a href="?gd=snaamh"><g>snàmh</g></a>
+                <en>swim</en></li>
             </ul>
         </p>
     </section>
