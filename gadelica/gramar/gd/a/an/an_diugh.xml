@@ -2,15 +2,35 @@
 <module>
     <h>an diugh</h>
     <p><g>an diugh</g>
-        <en>today</en> is an <a href="?xx=prepositions/adverbs">adverb</a>.</p>
+        <en>today</en> is an <a href="?xx=adverbs/adverbs">adverb</a>.</p>
 
-    <section id="forms">
+    <!--<section id="forms">
         <h>forms</h>
         <p>Note that <g>an diugh</g> is usually spelled with a hyphen, as <g>an-diugh</g>, in
             post-1970s writing.</p>
-    </section>
+    </section>-->
 
     <section>
+        <h>verbs</h>
+        <section>
+            <h>temporal</h>
+            <module id="faic">
+                <h>faic</h>
+                <p><g><a href="?gd=faic">faic</a> ... an diugh</g>
+                    <en>see ... today</en> – <xl>
+                        <li>
+                            <gd>Chunnaic sinn iolair mhór an diugh.</gd>
+                            <tr>We saw a big eagle today.</tr>
+                            <ref text="617">td. 9 [226]</ref>
+                        </li>
+                    </xl></p>
+            </module>
+        </section>
+    </section>
+
+
+
+    <!--<section>
         <h>uses</h>
         <section id="uses-mod">
             <h>modifier</h>
@@ -68,7 +88,7 @@
                 </xl>
             </p>
         </section>
-    </section>
+    </section>-->
 
 
 

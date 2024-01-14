@@ -4,21 +4,24 @@
   <p><g>ruig</g>
     <en>reach</en> is an <a href="?xx=verbs/simple_verbs">irregular verb</a>.</p>
 
-<section>
-  <h>nouns</h>
-  <module id="taigh">
-    <h>taigh</h>
-    <p><g>ruig <a href="?gd=taigh">taigh</a></g>
-      <en>reaches a house</en> – <xl>
-        <li>
-          <gd>Bha mi sgìth nuair a ràinig mi an taigh.</gd>
-          <tr>I was tired when I arrived home.</tr>
-          <ref text="617">td. 21</ref>
-        </li>
-      </xl>
-    </p>
-  </module>
-</section>
+  <section>
+    <h>nouns</h>
+    <section>
+      <h>object</h>
+      <module id="taigh">
+        <h>taigh</h>
+        <p><g>ruig <a href="?gd=taigh">taigh</a></g>
+          <en>reaches a house</en> – <xl>
+            <li>
+              <gd>Bha mi sgìth nuair a ràinig mi an taigh.</gd>
+              <tr>I was tired when I arrived home.</tr>
+              <ref text="617">td. 21</ref>
+            </li>
+          </xl>
+        </p>
+      </module>
+    </section>
+  </section>
 
 
 

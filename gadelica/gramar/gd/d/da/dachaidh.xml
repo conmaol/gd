@@ -3,12 +3,12 @@
     <h>dachaidh</h>
     <p><g>dachaidh</g>
         <en>a home</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
-    
+        noun</a>.</p>
+
     <section>
         <h>verbs</h>
-        <!--<section>
-            <h>complement</h>-->
+        <section>
+            <h>locative</h>
             <module id="thig">
                 <h>thig</h>
                 <p><g><a href="?gd=thig">thig</a> dhachaidh</g>
@@ -21,9 +21,8 @@
                     </xl>
                 </p>
             </module>
-        <!--</section>-->
+        </section>
     </section>
-    
-    
-</module>
 
+
+</module>

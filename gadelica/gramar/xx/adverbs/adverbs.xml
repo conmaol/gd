@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+  <h>adverbs</h>
+  <p>List of adverbs – <ul>
+      <li><a href="?gd=an_dee"><g>an dé</g></a>
+        <en>yesterday</en></li>
+      <li><a href="?gd=an_diugh"><g>an diugh</g></a>
+        <en>today</en></li>
+      <li><a href="?gd=coomhla"><g>còmhla</g></a>
+        <en>together</en></li>
+    </ul>
+  </p>
+</module>

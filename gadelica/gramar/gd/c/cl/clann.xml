@@ -7,8 +7,8 @@
     
     <section>
         <h>verbs</h>
-        <!--<section>
-            <h>subject</h>-->
+        <section>
+            <h>subject</h>
             <module id="snaamh">
                 <h>snàmh</h>
                 <p><g><a href="?gd=snaamh">snàmh</a> clann</g>
@@ -20,9 +20,9 @@
                         </li>
                     </xl></p>
             </module>
-        <!--</section>-->
-        <!--<section>
-            <h>object</h>-->
+        </section>
+        <section>
+            <h>object</h>
             <module id="faic">
                 <h>faic</h>
                 <p><g><a href="?gd=faic">faic</a> ... clann</g>
@@ -34,7 +34,7 @@
                         </li>
                     </xl></p>
             </module>
-        <!--</section>-->
+        </section>
     </section>
     
 </module>

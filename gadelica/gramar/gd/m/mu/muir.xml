@@ -6,8 +6,8 @@
         noun</a>.</p>
     <section>
         <h>nouns</h>
-        <!--<section>
-            <h>superessive</h>-->
+        <section>
+            <h>locative</h>
             <module id="baata">
                 <h>bàta</h>
                 <p><g><a href="?gd=baata">bàta</a> air muir</g>
@@ -20,13 +20,13 @@
                     </xl>
                 </p>
             </module>
-        <!--</section>-->
+        </section>
     </section>
 
     <section>
         <h>verbs</h>
-        <!--<section>
-            <h>inessive</h>-->
+        <section>
+            <h>locative</h>
             <module id="snaamh">
                 <h>snàmh</h>
                 <p><g><a href="?gd=snaamh">snàmh</a> ann am muir</g>
@@ -39,7 +39,7 @@
                     </xl>
                 </p>
             </module>
-        <!--</section>-->
+        </section>
     </section>
 
 </module>

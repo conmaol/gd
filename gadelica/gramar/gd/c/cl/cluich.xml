@@ -2,7 +2,7 @@
 <module>
     <h>cluich</h>
     <p><g>cluich</g>
-        <en>play</en> is an (regular, simple) verb.</p>
+        <en>play</en> is a <a href="?xx=verbs/simple_verbs">simple verb</a>.</p>
 
     <section>
         <h>nouns</h>
@@ -88,7 +88,7 @@
         <h>adverbs</h>
         <module id="coomhla">
             <h>còmhla</h>
-            <p><g>cluich <a href="?gd=coomhla">còmhla</a> ri ...</g> <en>plays with ...</en> –
+            <p><g>cluich <a href="?gd=coomhla">còmhla</a></g> <en>plays together</en> –
                 <xl>
                     <li>
                         <gd>A bheil an cat a’ cluich còmhla ri Seònaid air an làr?</gd>
@@ -107,7 +107,7 @@
         </module>
     </section>
 
-    <section id="other">
+    <!--<section id="other">
         <h>other</h>
         <p>
             <xl>
@@ -150,7 +150,7 @@
                 </li>
             </xl>
         </p>
-    </section>
+    </section>-->
 
 
 </module>

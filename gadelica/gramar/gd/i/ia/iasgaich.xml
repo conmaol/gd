@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>iasgaich</h>
+    <p><g>iasgaich</g>
+        <en>do fishing, fish</en> is a <a href="?xx=verbs/verbs">verb</a>.</p>
+
+    <section>
+        <h>nouns</h>
+        <section>
+            <h>locative</h>
+            <module id="loch">
+                <h>loch</h>
+                <p><g>iasgaich ... air <a href="?gd=loch">loch</a></g>
+                    <en>... does fishing on a lake</en> – <xl>
+                        <li>
+                            <gd>An robh Calum ag iasgach air an loch an dé? Bha.</gd>
+                            <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                        <li>
+                            <gd>Có bha ag iasgach air an loch? Bha Calum.</gd>
+                            <tr>Who was fishing on the lake? Calum was.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                    </xl>
+                </p>
+                <module id="abhainn">
+                    <h>abhainn</h>
+                    <p><g>iasgaich ... air <a href="?gd=abhainn">abhainn</a></g>
+                        <en>... does fishing on a river</en> – <xl>
+                            <li>
+                                <gd>Có bha ag iasgach an diugh? Bha Alasdair. Càit an robh Alasdair
+                                    ag iasgach? Bha e ag iasgach air an abhainn.</gd>
+                                <tr>Who was fishing today? Alexander was. Where was Alexander
+                                    fishing? He was fishing on the river.</tr>
+                                <ref text="617">td. 20</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </module>
+            </module>
+        </section>
+    </section>
+
+    <section>
+        <h>adverbs</h>
+        <section>
+            <h>temporal</h>
+            <module id="an-diugh">
+                <h>an diugh</h>mmm
+                <p><xl>
+                        <li>
+                            <gd>Có bha ag iasgach an diugh? Bha Alasdair. Càit an robh Alasdair ag
+                                iasgach? Bha e ag iasgach air an abhainn.</gd>
+                            <tr>Who was fishing today? Alexander was. Where was Alexander fishing?
+                                He was fishing on the river.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                    </xl></p>
+                <module id="an_dee">
+                    <h>an dé</h>
+                    <p><xl>
+                        <li>
+                            <gd>An robh Calum ag iasgach air an loch an dé? Bha.</gd>
+                            <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                    </xl></p>
+                </module>
+            </module>
+        </section>
+    </section>
+
+
+
+
+
+
+
+
+
+    <!-- <section>
+        <h>dependents</h>
+        <section>
+            <h>specifier</h>
+            <p>Examples – <xl id="deps-spr-xs">
+                <li>
+                    <gd>Is e an t-iasgach bun-bheairteas a’ bhaile.</gd>
+                    <tr>Fishing is the basic wealth of the town.</tr>
+                    <ref text="601">td. 103</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+    </section>
+    
+    <section>
+        <h>uses</h>
+        <section>
+            <h>subject</h>
+            <p>Examples – <xl id="uses-sbj-xs">
+                <li>
+                    <gd>Is e an t-iasgach bun-bheairteas a’ bhaile.</gd>
+                    <tr>Fishing is the basic wealth of the town.</tr>
+                    <ref text="601">td. 103</ref>
+                </li>
+            </xl>
+            </p>
+        </section>
+    </section>-->
+
+
+
+</module>

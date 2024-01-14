@@ -88,6 +88,28 @@
     <section>
         <h>verbs</h>
         <section>
+            <h>locative</h>
+            <module id="iasgaich">
+                <h>iasgaich</h>
+                <p><g><a href="?gd=iasgaich">iasgaich</a> ... air abhainn</g>
+                    <en>... does fishing on a river</en> – <xl>
+                        <li>
+                            <gd>Có bha ag iasgach an diugh? Bha Alasdair. Càit an robh Alasdair
+                                ag iasgach? Bha e ag iasgach air an abhainn.</gd>
+                            <tr>Who was fishing today? Alexander was. Where was Alexander
+                                fishing? He was fishing on the river.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+    
+
+    <section>
+        <h>verbs</h>
+        <section>
             <h>subject</h>
             <p><g>abhainn</g> can be the subject of certain <a href="?xx=verbs/verbs">verbs</a>.</p>
             <module id="cluich_abhainn">

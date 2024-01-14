@@ -2,115 +2,74 @@
 <module>
     <h>còmhla</h>
     <p><g>còmhla</g>
-        <en>together</en> is an <a href="?xx=prepositions/adverbs">adverb</a>.</p>
+        <en>together</en> is an <a href="?xx=adverbs/adverbs">adverb</a>.</p>
 
     <section>
-        <h>dependents</h>
-        <section>
-            <h>complement</h>
-            <module id="coomhla_ri">
-                <h>còmhla ri ...</h>
-                <p><g>còmhla</g> can occur with the preposition <a href="?gd=ri"><g>ri</g></a> as
-                    its complement – <g>còmhla ri ...</g>
-                    <en>along/together with</en>.</p>
-                <p>Some examples with proper nouns – <xl>
+        <h>nouns</h>
+        <module id="cuu">
+            <h>cù</h>
+            <p><g><a href="?gd=cuu">cù</a> còmhla ri ...</g> <en>a dog together with ...</en> –
+                <xl>
+                    <li>
+                        <gd>Tha an cù còmhla ri Calum anns an achadh an diugh.</gd>
+                        <tr>The dog is along with Calum in the field today.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                    <li>
+                        <gd>Càit a bheil an cù? Tha e còmhla ri Calum.</gd>
+                        <tr>Where is the dog? It is with Calum.</tr>
+                        <ref text="617">td. 19–20</ref>
+                    </li>
+                </xl>
+            </p>
+            <module id="cat">
+                <h>cat</h>
+                <p><g><a href="?gd=cat">cat</a> còmhla ri ...</g> <en>a cat together with ...</en> –
+                    <xl>
                         <li>
-                            <gd>A bheil an cat a’ cluich <m>còmhla ri Seònaid</m> air an làr?</gd>
-                            <tr>Is the cat playing along with Janet on the floor?</tr>
+                            <gd>Tha an cat anns an taigh còmhla ri Seònaid.</gd>
+                            <tr>The cat is in the house along with Janet.</tr>
                             <ref text="617">td. 14</ref>
-                        </li>
-                        <li>
-                            <gd>Tha an cù <m>còmhla ri Calum</m> anns an achadh an diugh.</gd>
-                            <tr>The dog is along with Calum in the field today.</tr>
-                            <ref text="617">td. 15</ref>
-                        </li>
-                    </xl>
-                </p>
-                <p>Some examples with common nouns – <xl>
-                        <li>
-                            <gd>Nach robh Calum agus Màiri a’ cluich <m>còmhla ris a’ chù</m>? Cha
-                                robh, bha iad anns a’ bhaile.</gd>
-                            <tr>Weren’t Malcolm and Mary playing with the dog? No, they weren’t,
-                                they were in the town.</tr>
-                            <ref text="617">td. 21 [230]</ref>
                         </li>
                     </xl>
                 </p>
             </module>
-        </section>
+        </module>
     </section>
 
+
+
+   <!-- <li>
+        <gd>Chan eil Seònaid anns an achadh <m>còmhla</m> ri Seumas.</gd>
+        <tr>Janet is not in the field slong with James.</tr>
+        <ref text="617">td. 14</ref>
+    </li>-->
+
+
+
     <section>
-        <h>uses</h>
-        <section id="uses-pred">
-            <h>predicate</h>
-            <p><g>còmhla</g> can be used as the predicate of <a href="?gd=bi"><g>bi</g></a>
-                <en>be</en>.</p>
-            <p>Some examples – <xl>
+        <h>verbs</h>
+        <module id="cluich">
+            <h>cluich</h>
+            <p><g><a href="?gd=cluich">cluich</a> còmhla</g>
+                <en>plays together</en> – <xl>
                     <li>
-                        <gd>Càit a bheil an cù? Tha e <m>còmhla</m> ri Calum.</gd>
-                        <tr>Where is the dog? It is with Calum.</tr>
-                        <ref text="617">td. 19–20</ref>
-                    </li>
-                </xl></p>
-            <p>Some examples with multiple predicates – <xl>
-                    <li>
-                        <gd>Tha an cat anns an taigh <m>còmhla</m> ri Seònaid.</gd>
-                        <tr>The cat is in the house along with Janet.</tr>
+                        <gd>A bheil an cat a’ cluich còmhla ri Seònaid air an làr?</gd>
+                        <tr>Is the cat playing with Janet on the floor?</tr>
                         <ref text="617">td. 14</ref>
                     </li>
                     <li>
-                        <gd>Chan eil Seònaid anns an achadh <m>còmhla</m> ri Seumas.</gd>
-                        <tr>Janet is not in the field slong with James.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <section id="uses-mod">
-            <h>modifier</h>
-            <p><g>còmhla</g> can be used as a (comitative) modifier of a verb.</p>
-            <p>Some examples – <xl>
-                    <li>
-                        <gd>A bheil an cat a’ cluich <m>còmhla</m> ri Seònaid air an làr?</gd>
-                        <tr>Is the cat playing along with Janet on the floor?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>Nach robh Calum agus Màiri a’ cluich <m>còmhla ris a’ chù</m>? Cha robh,
-                            bha iad anns a’ bhaile.</gd>
+                        <gd>Nach robh Calum agus Màiri a’ cluich còmhla ris a’ chù? Cha robh, bha
+                            iad anns a’ bhaile.</gd>
                         <tr>Weren’t Malcolm and Mary playing with the dog? No, they weren’t, they
                             were in the town.</tr>
                         <ref text="617">td. 21 [230]</ref>
                     </li>
                 </xl>
             </p>
-        </section>
+        </module>
     </section>
 
-<section>
-    <h>verbs</h>
-    <module id="cluich">
-        <h>cluich</h>
-        <p><g><a href="?gd=cluich">cluich</a> còmhla ri ...</g> <en>plays with ...</en> –
-            <xl>
-                <li>
-                    <gd>A bheil an cat a’ cluich còmhla ri Seònaid air an làr?</gd>
-                    <tr>Is the cat playing with Janet on the floor?</tr>
-                    <ref text="617">td. 14</ref>
-                </li>
-                <li>
-                    <gd>Nach robh Calum agus Màiri a’ cluich còmhla ris a’ chù? Cha robh, bha
-                        iad anns a’ bhaile.</gd>
-                    <tr>Weren’t Malcolm and Mary playing with the dog? No, they weren’t, they
-                        were in the town.</tr>
-                    <ref text="617">td. 21 [230]</ref>
-                </li>
-            </xl>
-        </p>
-    </module>
-</section>
-    
 
     <!--<p>Examples from Gairm – <xl id="gairm">
             <li>

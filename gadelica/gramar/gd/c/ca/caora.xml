@@ -75,12 +75,10 @@
         <h>verbs</h>
         <section>
             <h>object</h>
-            <p><g>caora</g> can be the object of certain (transitive) <a href="?xx=verbs/verbs"
-                    >verbs</a>.</p>
-            <module id="faic_caora">
-                <h>faic [duine] caora</h>
-                <p><g><a href="?gd=faic">faic</a> [duine] caora</g>
-                    <en>[a man] sees a sheep</en> – <xl>
+            <module id="faic">
+                <h>faic</h>
+                <p><g><a href="?gd=faic">faic</a> ... caora</g>
+                    <en>sees a sheep</en> – <xl>
                         <li>
                             <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
                             <tr>I saw sheep and cattle on the moor.</tr>

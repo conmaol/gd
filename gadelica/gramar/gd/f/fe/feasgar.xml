@@ -7,8 +7,8 @@
     
     <section>
         <h>verbs</h>
-        <!--<section>
-            <h>modifier</h>-->
+        <section>
+            <h>temporal</h>
             <module id="thig">
                 <h>thig</h>
                 <p><g><a href="?gd=thig">thig</a> feasgar</g> <en>comes in the evening</en> –
@@ -21,7 +21,7 @@
                     </xl>
                 </p>
             </module>
-        <!--</section>-->
+        </section>
     </section>
     
 </module>

@@ -26,12 +26,10 @@
         <h>verbs</h>
         <section>
             <h>object</h>
-            <p><g>iolair</g> can be the object of certain (transitive) <a href="?xx=verbs/verbs"
-                    >verbs</a>.</p>
-            <module id="faic_iolair">
-                <h>faic [duine] iolair</h>
-                <p><g><a href="?gd=faic">faic</a> [duine] iolair</g>
-                    <en>[a man] sees an eagle</en> – <xl>
+            <module id="faic">
+                <h>faic</h>
+                <p><g><a href="?gd=faic">faic</a> ... iolair</g>
+                    <en>sees an eagle</en> – <xl>
                         <li>
                             <gd>Chunnaic sinn iolair mhór an diugh.</gd>
                             <tr>We saw a big eagle today.</tr>

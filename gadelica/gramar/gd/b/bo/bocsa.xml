@@ -68,12 +68,10 @@
         <h>verbs</h>
         <section>
             <h>object</h>
-            <p><g>bocsa</g> can be the object of certain (transitive) <a href="?xx=verbs/verbs"
-                    >verbs</a>.</p>
-            <module id="cuir_bocsa">
-                <h>cuir [duine] bocsa ...</h>
-                <p><g><a href="?gd=cuir">cuir</a> [duine] bocsa ...</g>
-                    <en>[a man] puts a box [somewhere]</en> – <xl>
+            <module id="cuir">
+                <h>cuir</h>
+                <p><g><a href="?gd=cuir">cuir</a> bocsa ...</g>
+                    <en>puts a box ...</en> – <xl>
                         <li>
                             <gd>Có chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
                             <tr>Who put the box on the table? Mary did.</tr>

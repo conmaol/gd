@@ -162,12 +162,10 @@
         <h>verbs</h>
         <section>
             <h>object</h>
-            <p><g>cù</g> can be the object of certain (transitive) <a href="?xx=verbs/verbs"
-                    >verbs</a>.</p>
-            <module id="faic_cuu">
-                <h>faic [duine] cù</h>
-                <p><g><a href="?gd=faic">faic</a> [duine] cù</g>
-                    <en>[a man] sees a dog</en> – <xl>
+            <module id="faic">
+                <h>faic</h>
+                <p><g><a href="?gd=faic">faic</a> ... cù</g>
+                    <en>sees a dog</en> – <xl>
                         <li>
                             <gd>Chunnaic mi cù aig an dorus.</gd>
                             <tr>I saw a dog at the door.</tr>

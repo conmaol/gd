@@ -6,20 +6,20 @@
 
     <section>
         <h>nouns</h>
-        <!--<section>
-                <h>subject</h>-->
-        <module id="grian">
-            <h>grian</h>
-            <p><g>deàrrs <a href="?gd=grian">grian</a></g>
-                <en>a sun shines</en> – <xl>
-                    <li>
-                        <gd>Bha latha briagha ann agus bha a’ ghrian a’ deàrrsadh.</gd>
-                        <tr>It was a beautiful day and the sun was shining.</tr>
-                        <ref text="617">td 21</ref>
-                    </li>
-                </xl></p>
-        </module>
-        <!--</section>-->
+        <section>
+            <h>subject</h>
+            <module id="grian">
+                <h>grian</h>
+                <p><g>deàrrs <a href="?gd=grian">grian</a></g>
+                    <en>a sun shines</en> – <xl>
+                        <li>
+                            <gd>Bha latha briagha ann agus bha a’ ghrian a’ deàrrsadh.</gd>
+                            <tr>It was a beautiful day and the sun was shining.</tr>
+                            <ref text="617">td 21</ref>
+                        </li>
+                    </xl></p>
+            </module>
+        </section>
     </section>
 
 </module>

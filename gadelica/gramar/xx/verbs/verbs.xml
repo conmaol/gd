@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
   <h>verbs</h>
-  <p>Verbs are words which describe ‘situations’ – states, events, actions, processes, activities.</p>
-  <p>Every verb describes a situation, but not every word describing a situation is a verb (cf. verbal nouns, <a href="?xx=prepositions/adverbs">adverbs</a>).</p>
+  <!--<p>Verbs are words which describe ‘situations’ – states, events, actions, processes, activities.</p>
+  <p>Every verb describes a situation, but not every word describing a situation is a verb (cf. verbal nouns, <a href="?xx=prepositions/adverbs">adverbs</a>).</p>-->
   <!--<p>For example – <m>ith</m>
     <en>eat</en>, <m>fàg</m>
     <en>leave</en>, ...</p>-->
   
-  <section id="derivation">
+  <p><a href="?xx=verbs/simple_verbs">simple verbs</a></p>
+  <p>Derived verbs – <a href="?gd=iasgaich"><g>iasgaich</g></a> <en>do fishing, fish</en></p>
+  
+  <!--<section id="derivation">
     <h>derivation</h>
     <p>Verbs are divided into three groups, depending on how they are formed – <ul>
-        <li><!--<a href="?xx=verbs/derived_verbs">-->Derived verbs<!--</a>--> are formed out of adjectives or nouns,
+        <li><!-\-<a href="?xx=verbs/derived_verbs">-\->Derived verbs<!-\-</a>-\-> are formed out of adjectives or nouns,
           usually by addition of a suffix – <m>gealaich</m>
           <en>whiten</en>, <m>cuimhnich</m>
           <en>remember</en>, ...</li>
-        <li><!--<a href="?xx=verbs/compound_verbs">-->Compound verbs<!--</a>--> are formed out of other verbs,
+        <li><!-\-<a href="?xx=verbs/compound_verbs">-\->Compound verbs<!-\-</a>-\-> are formed out of other verbs,
           usually by addition of a prefix – <m>ath-sgrìobh</m>
           <en>rewrite</en>, <m>craobh-sgaoil</m>
           <en>broadcast</en>, ...</li>
@@ -25,7 +28,7 @@
       </ul>
     </p>
     
-    <!--<p lang="gd">Tha trì seòrsachan gnìomhair ann, a rèir ciamar a tha iad air an cruthachadh – <ul>
+    <!-\-<p lang="gd">Tha trì seòrsachan gnìomhair ann, a rèir ciamar a tha iad air an cruthachadh – <ul>
       <li>Tha <a href="?xx=verbs/derived_verbs">gnìomhairean bunaichte</a> air an cruthachadh à buadhairean no ainmearan, gu cumanta le iar-leasachan eg. <m>gealaich</m>, <m>cuimhnich</m>.</li>
       <li> Tha <a href="?xx=verbs/compound_verbs">gnìomhairean fillte</a> air an cruthachadh à gnìomhairean eile, gu cumanta le ro-leasachan eg. <m>ath-sgrìobh</m>
         <en>rewrite</en>, <m>craobh-sgaoil</m>
@@ -34,8 +37,8 @@
         <en>put</en>, <m>fosgail</m>
         <en>open</en>.</li>
     </ul>
-  </p>-->
-  </section>
+  </p>-\->
+  </section>-->
   
   <!--<module id="forms">
     <h>forms</h>

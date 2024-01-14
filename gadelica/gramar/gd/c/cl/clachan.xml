@@ -6,34 +6,26 @@
             noun</a>.</p>
 
     <section>
-        <h>prepositions</h>
+        <h>verbs</h>
         <section>
-            <h>object</h>
-            <p><g>clachan</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                    >prepositions</a>.</p>
-            <module id="ann_an_clachan">
-                <h>... ann an clachan</h>
-                <p><g>... <a href=">gd=an^preposition">ann an</a> clachan</g>
-                    <en>... in a village</en>. </p>
-                <module>
-                    <h>fuirich [duine] ann an clachan</h>
-                    <p><g><a href="?gd=fuirich">fuirich</a> [duine] ann an clachan</g>
-                        <en>[a man] lives in a village</en> – <xl>
-                            <li>
-                                <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach anns a’
-                                    chlachan.</gd>
-                                <tr>Where do you live? I live in the village.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                            <li>
-                                <gd>Nach robh Calum a’ fuireach anns a’ chlachan? Bha gu
-                                    dearbh.</gd>
-                                <tr>Wasn’t Calum living in the village? Yes, indeed he was.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
+            <h>locative</h>
+            <module id="fuirich">
+                <h>fuirich</h>
+                <p><g><a href="?gd=fuirich">fuirich</a> ann an clachan</g>
+                    <en>lives in a village</en> – <xl>
+                        <li>
+                            <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach anns a’
+                                chlachan.</gd>
+                            <tr>Where do you live? I live in the village.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                        <li>
+                            <gd>Nach robh Calum a’ fuireach anns a’ chlachan? Bha gu dearbh.</gd>
+                            <tr>Wasn’t Calum living in the village? Yes, indeed he was.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                    </xl>
+                </p>
             </module>
         </section>
     </section>

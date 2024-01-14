@@ -58,12 +58,10 @@
         <h>verbs</h>
         <section>
             <h>object</h>
-            <p><g>crodh</g> can be the object of certain (transitive) <a href="?xx=verbs/verbs"
-                    >verbs</a>.</p>
-            <module id="faic_crodh">
-                <h>faic [duine] crodh</h>
-                <p><g><a href="?gd=faic">faic</a> [duine] crodh</g>
-                    <en>[a man] sees cattle</en> – <xl>
+            <module id="faic">
+                <h>faic</h>
+                <p><g><a href="?gd=faic">faic</a> ... crodh</g>
+                    <en>sees cattle</en> – <xl>
                         <li>
                             <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
                             <tr>I saw sheep and cattle on the moor.</tr>

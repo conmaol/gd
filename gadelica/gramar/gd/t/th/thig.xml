@@ -7,30 +7,36 @@
 
   <section>
     <h>nouns</h>
-    <module id="dachaidh">
-      <h>dachaidh</h>
-      <p><g>thig <a href="?gd=dachaidh">dhachaidh</a></g>
-        <en>comes home</en> – <xl>
-          <li>
-            <gd>Thàinig mi dhachaidh feasgar.</gd>
-            <tr>I arrived home in the evening.</tr>
-            <ref text="617">td. 21</ref>
-          </li>
-        </xl>
-      </p>
-    </module>
-    <module id="feasgar">
-      <h>feasgar</h>
-      <p><g>thig <a href="?gd=feasgar">feasgar</a></g>
-        <en>comes in the evening</en> – <xl>
-          <li>
-            <gd>Thàinig mi dhachaidh feasgar.</gd>
-            <tr>I arrived home in the evening.</tr>
-            <ref text="617">td. 21</ref>
-          </li>
-        </xl>
-      </p>
-    </module>
+    <section>
+      <h>locative</h>
+      <module id="dachaidh">
+        <h>dachaidh</h>
+        <p><g>thig <a href="?gd=dachaidh">dhachaidh</a></g>
+          <en>comes home</en> – <xl>
+            <li>
+              <gd>Thàinig mi dhachaidh feasgar.</gd>
+              <tr>I arrived home in the evening.</tr>
+              <ref text="617">td. 21</ref>
+            </li>
+          </xl>
+        </p>
+      </module>
+    </section>
+    <section>
+      <h>temporal</h>
+      <module id="feasgar">
+        <h>feasgar</h>
+        <p><g>thig <a href="?gd=feasgar">feasgar</a></g>
+          <en>comes in the evening</en> – <xl>
+            <li>
+              <gd>Thàinig mi dhachaidh feasgar.</gd>
+              <tr>I arrived home in the evening.</tr>
+              <ref text="617">td. 21</ref>
+            </li>
+          </xl>
+        </p>
+      </module>
+    </section>
   </section>
 
 
