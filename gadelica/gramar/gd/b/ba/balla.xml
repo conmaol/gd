@@ -7,10 +7,8 @@
 
     <section>
         <h>adjectives</h>
-        <p><g>balla</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
-                >adjectives</a>.</p>
-        <module id="balla_aard">
-            <h>balla àrd</h>
+        <module id="aard">
+            <h>àrd</h>
             <p><g>balla <a href="?gd=aard">àrd</a></g>
                 <en>a high wall</en> – <xl>
                     <li>
@@ -23,31 +21,31 @@
     </section>
 
     <section>
-        <h>prepositions</h>
-        <section>
-            <h>object</h>
-            <p><g>balla</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                >prepositions</a>.</p>
-            <module id="air_balla">
-                <h>... air balla</h>
-                <p><g>... <a href="?gd=air">air</a> balla</g>
-                    <en>... on a wall</en>. </p>
-                <module>
-                    <h>[clachair ag] obair air balla</h>
-                    <p><g>[<a href="?gd=clachair">clachair</a> ag] <a href="?gd=obair">obair</a> air balla</g>
-                        <en>[a mason] working on a wall</en> – <xl>
-                            <li>
-                                <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé?
-                                    Bha.</gd>
-                                <tr>Was the mason working on the wall all day yesterday? Yes, he
-                                    was.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
+        <h>nouns</h>
+        <module id="obair">
+            <h>obair</h>
+            <p><g><a href="?gd=obair">obair</a> air balla</g>
+                <en>working on a wall</en> – <xl>
+                    <li>
+                        <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
+                        <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="clachair">
+            <h>clachair</h>
+            <p><g><a href="?gd=clachair">clachair</a> [ag obair air] balla</g>
+                <en>a mason [working on] a wall</en> – <xl>
+                    <li>
+                        <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
+                        <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 </module>

@@ -7,7 +7,7 @@
 
   <section>
     <h>nouns</h>
-    <module id="duine_moor">
+    <!--<module id="duine_moor">
       <h>duine mór</h>
       <p><g><a href="?gd=duine">duine</a> mór</g>
         <en>a large man</en> – <xl>
@@ -27,22 +27,22 @@
             <ref text="617">td. 9 [adapted]</ref>
           </li>
         </xl>
+      </p>-->
+    <module id="gille">
+      <h>gille</h>
+      <p><g><a href="?gd=gille">gille</a> mór</g>
+        <en>a big boy</en> – <xl>
+          <li>
+            <gd>Tha an gille mór.</gd>
+            <tr>The boy is big.</tr>
+            <ref text="617">td. 15</ref>
+          </li>
+        </xl>
       </p>
-      <module id="gille_moor">
-        <h>gille mór</h>
-        <p><g><a href="?gd=gille">gille</a> mór</g>
-          <en>a big boy</en> – <xl>
-            <li>
-              <gd>Tha an gille mór.</gd>
-              <tr>The boy is big.</tr>
-              <ref text="617">td. 15</ref>
-            </li>
-          </xl>
-        </p>
-      </module>
     </module>
-    <module id="cuu_moor">
-      <h>cù mór</h>
+    <!--</module>-->
+    <module id="cuu">
+      <h>cù</h>
       <p><g><a href="?gd=cuu">cù</a> mór</g>
         <en>a large dog</en> – <xl>
           <li>
@@ -52,33 +52,33 @@
           </li>
         </xl>
       </p>
-      <module id="cat_moor">
-        <h>cat mór</h>
-        <p><g><a href="?gd=cat">cat</a> mór</g>
-          <en>a large cat</en> – <xl>
-            <li>
-              <gd>A bheil an cat mór? Chan eil.</gd>
-              <tr>Is the cat big? No, it isn’t.</tr>
-              <ref text="617">td. 15</ref>
-            </li>
-          </xl>
-        </p>
-      </module>
-      <module id="iolair_mhoor">
-        <h>iolair mhór</h>
-        <p><g><a href="?gd=iolair">iolair</a> mhór</g>
-          <en>a large eagle</en> – <xl>
-            <li>
-              <gd>Chunnaic sinn iolair mhór an diugh.</gd>
-              <tr>We saw a big eagle today.</tr>
-              <ref text="617">td. 9 [226]</ref>
-            </li>
-          </xl>
-        </p>
-      </module>
     </module>
-    <module id="ceann_moor">
-      <h>ceann mór</h>
+    <module id="cat">
+      <h>cat</h>
+      <p><g><a href="?gd=cat">cat</a> mór</g>
+        <en>a large cat</en> – <xl>
+          <li>
+            <gd>A bheil an cat mór? Chan eil.</gd>
+            <tr>Is the cat big? No, it isn’t.</tr>
+            <ref text="617">td. 15</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <module id="iolair">
+      <h>iolair</h>
+      <p><g><a href="?gd=iolair">iolair</a> mhór</g>
+        <en>a large eagle</en> – <xl>
+          <li>
+            <gd>Chunnaic sinn iolair mhór an diugh.</gd>
+            <tr>We saw a big eagle today.</tr>
+            <ref text="617">td. 9 [226]</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <module id="ceann">
+      <h>ceann</h>
       <p><g><a href="?gd=ceann">ceann</a> mór</g>
         <en>a large head</en> – <xl>
           <li>
@@ -89,8 +89,8 @@
         </xl>
       </p>
     </module>
-    <module id="taigh_moor">
-      <h>taigh mór</h>
+    <module id="taigh">
+      <h>taigh</h>
       <p><g><a href="?gd=taigh">taigh</a> mór</g>
         <en>a large house</en> – <xl>
           <li>
@@ -100,21 +100,21 @@
           </li>
         </xl>
       </p>
-      <module id="sgoil_moor">
-        <h>sgoil mór</h>
-        <p><g><a href="?gd=sgoil">sgoil</a> mór</g>
-          <en>a large school</en> – <xl>
-            <li>
-              <gd>A bheil an sgoil mór? Chan eil.</gd>
-              <tr>Is the school big? No, it isn’t.</tr>
-              <ref text="617">td. 14</ref>
-            </li>
-          </xl>
-        </p>
-      </module>
     </module>
-    <module id="dorus_moor">
-      <h>dorus mór</h>
+    <module id="sgoil">
+      <h>sgoil</h>
+      <p><g><a href="?gd=sgoil">sgoil</a> mór</g>
+        <en>a large school</en> – <xl>
+          <li>
+            <gd>A bheil an sgoil mór? Chan eil.</gd>
+            <tr>Is the school big? No, it isn’t.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <module id="dorus">
+      <h>dorus</h>
       <p><g><a href="?gd=dorus">dorus</a> mór</g>
         <en>a large door</en> – <xl>
           <li>
@@ -125,8 +125,8 @@
         </xl>
       </p>
     </module>
-    <module id="teine_moor">
-      <h>teine mór</h>
+    <module id="teine">
+      <h>teine</h>
       <p><g><a href="?gd=teine">teine</a> mór</g>
         <en>a large fire</en> – <xl>
           <li>

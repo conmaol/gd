@@ -28,46 +28,7 @@
                     </li>
                     <li><a href="?xx=nouns/common_nouns">common nouns</a>
                         <ul>
-                            <li><a href="?xx=nouns/simple_common_nouns">simple common nouns</a> – <a
-                                    href="?gd=abhainn"><g>abhainn</g></a>, <a href="?gd=achadh"
-                                        ><g>achadh</g></a>, <a href="?gd=baile"><g>baile</g></a>, <a
-                                    href="?gd=bainne"><g>bainne</g></a>, <a href="?gd=balach"
-                                        ><g>balach</g></a>, <a href="?gd=balla"><g>balla</g></a>, <a
-                                    href="?gd=baata"><g>bàta</g></a>, <a href="?gd=biiobull"
-                                        ><g>Bìobull</g></a>, <a href="?gd=bocsa"><g>bocsa</g></a>,
-                                    <a href="?gd=bodach"><g>bodach</g></a>
-                                <a href="?gd=boord"><g>bòrd</g></a>, <a href="?gd=botul"
-                                        ><g>botul</g></a>, 
-                                <a href="?gd=caora"><g>caora</g></a>,
-                                <a href="?gd=cat"><g>cat</g></a>, <a
-                                    href="?gd=ceann"><g>ceann</g></a>, <a href="?gd=clachan"
-                                        ><g>clachan</g></a>, <a href="?gd=cladach"
-                                    ><g>cladach</g></a>, <a href="?gd=cnoc"><g>cnoc</g></a>, <a
-                                    href="?gd=coire"><g>coire</g></a>, <a href="?gd=coota"
-                                        ><g>còta</g></a>, <a href="?gd=crodh"><g>crodh</g></a>, <a href="?gd=cuu"><g>cù</g></a>, <a
-                                    href="?gd=dorus"><g>dorus</g></a>, <a href="?gd=duine"
-                                        ><g>duine</g></a>, <a href="?gd=each"><g>each</g></a>, <a
-                                    href="?gd=falt"><g>falt</g></a>, <a href="?gd=fear"
-                                    ><g>fear</g></a>, <a href="?gd=gille"><g>gille</g></a>, <a
-                                    href="?gd=gual"><g>gual</g></a>, <a href="?gd=iolair"
-                                        ><g>iolair</g></a>, <a href="?gd=laar"><g>làr</g></a>, <a
-                                    href="?gd=latha"><g>latha</g></a>, <a href="?gd=leabhar"
-                                        ><g>leabhar</g></a>, <a href="?gd=loch"><g>loch</g></a>, <a
-                                    href="?gd=maide"><g>maide</g></a>, <a href="?gd=monadh"
-                                        ><g>monadh</g></a>, <a href="?gd=obair"><g>obair</g></a>, <a
-                                    href="?gd=peann"><g>peann</g></a>, <a href="?gd=poca"
-                                        ><g>poca</g></a>, <a href="?gd=rud"><g>rud</g></a>, <a
-                                    href="?gd=seoomar"><g>seòmar</g></a>, <a href="?gd=sgoil"
-                                        ><g>sgoil</g></a>, <a href="?gd=taigh"><g>taigh</g></a>, <a
-                                    href="?gd=teas"><g>teas</g></a>, <a href="?gd=teine"
-                                        ><g>teine</g></a>, <a href="?gd=ugh"><g>ugh</g></a>, <a
-                                    href="?gd=uisge"><g>uisge</g></a>
-                            </li>
-                            <li><a href="?xx=nouns/derived_common_nouns">derived common nouns</a> –
-                                    <a href="?gd=_ag"><g>-(e)ag</g></a> – <a href="?gd=caileag"
-                                        ><g>caileag</g></a>; <a href="?gd=clachair"
-                                    ><g>clachair</g></a>, <a href="?gd=iasgach"
-                                ><g>iasgach</g></a></li>
+                            <li><a href="?xx=nouns/simple_common_nouns">simple common nouns</a></li>
                         </ul>
                     </li>
                     <!--<li><a href="?xx=nouns/pronouns">pronouns</a>

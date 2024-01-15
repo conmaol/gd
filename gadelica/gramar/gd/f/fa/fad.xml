@@ -3,46 +3,54 @@
   <h>fad</h>
 
   <section>
-    <h>dependents</h>
-    <section>
-      <h>specifier</h>
-      <p><xl>
+    <h>nouns</h>
+    <module id="latha">
+      <h>latha</h>
+      <p><g>fad [an] <a href=">gd=latha">latha</a></g>
+        <en>length of a day, all day long</en> – <xl>
+          <li>
+            <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
+            <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
+            <ref text="617">td. 20</ref>
+          </li>
           <li>
             <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an sgoil an
-              diugh? Cha robh, bha e anns an taigh fad <m>an latha</m>.</gd>
+              diugh? Cha robh, bha e anns an taigh fad an latha.</gd>
             <tr>What is wrong with this boy? His head is sore. Was he in the school today? No, he
               was in the house all day long.</tr>
             <ref text="617">td. 20</ref>
           </li>
+        </xl>
+      </p>
+    </module>
+    <module id="obair">
+      <h>obair</h>
+      <p><g><a href="obair">obair</a> fad ...</g>
+        <en>working all ... long</en> – <xl>
           <li>
-            <gd>An robh an clachair ag obair air a’ bhalla fad <m>an latha</m> an dé? Bha.</gd>
+            <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
             <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
             <ref text="617">td. 20</ref>
           </li>
-        </xl></p>
-    </section>
+        </xl>
+      </p>
+    </module>
+    <module id="taigh">
+      <h>taigh</h>
+      <p><g>ann an <a href="?gd=taigh">taigh</a> fad ...</g>
+        <en>in a house all ... long</en> – <xl>
+          <li>
+            <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an sgoil an
+              diugh? Cha robh, bha e anns an taigh fad an latha.</gd>
+            <tr>What is wrong with this boy? His head is sore. Was he in the school today? No, he
+              was in the house all day long.</tr>
+            <ref text="617">td. 20</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
   </section>
 
-  <section>
-    <h>uses</h>
-    <section>
-      <h>modifier</h>
-      <p><xl>
-          <li>
-            <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an sgoil an
-              diugh? Cha robh, bha e anns an taigh <m>fad</m> an latha.</gd>
-            <tr>What is wrong with this boy? His head is sore. Was he in the school today? No, he
-              was in the house all day long.</tr>
-            <ref text="617">td. 20</ref>
-          </li>
-          <li>
-            <gd>An robh an clachair ag obair air a’ bhalla <m>fad</m> an latha an dé? Bha.</gd>
-            <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
-            <ref text="617">td. 20</ref>
-          </li>
-        </xl></p>
-    </section>
-  </section>
 
 
 

@@ -7,10 +7,8 @@
 
     <section>
         <h>adjectives</h>
-        <p><g>gille</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
-                >adjectives</a>.</p>
-        <module id="gille_beag">
-            <h>gille beag</h>
+        <module id="beag">
+            <h>beag</h>
             <p><g>gille <a href="?gd=beag">beag</a></g>
                 <en>a little boy</en> – <xl>
                     <li>
@@ -25,8 +23,8 @@
                     </li>
                 </xl></p>
         </module>
-        <module id="gille_moor">
-            <h>gille mór</h>
+        <module id="moor">
+            <h>mór</h>
             <p><g>gille <a href="?gd=moor">mór</a></g>
                 <en>a big boy</en> – <xl>
                     <li>

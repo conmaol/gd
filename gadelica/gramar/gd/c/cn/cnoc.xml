@@ -7,10 +7,8 @@
 
     <section>
         <h>adjectives</h>
-        <p><g>cnoc</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
-                >adjectives</a>.</p>
-        <module id="cnoc_aard">
-            <h>cnoc àrd</h>
+        <module id="aard">
+            <h>àrd</h>
             <p><g>cnoc <a href="?gd=aard">àrd</a></g>
                 <en>a tall hill</en> – <xl>
                     <li>

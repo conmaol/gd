@@ -4,7 +4,7 @@
     <p><g>trang</g>
         <en>busy</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
 
-    <section>
+    <!--<section>
         <h>nouns</h>
         <module id="duine_trang">
             <h>duine trang</h>
@@ -35,14 +35,14 @@
                 </p>
             </module>
         </module>
-    </section>
+    </section>-->
 
     <section>
-        <h>verbs</h>
-        <module id="obair_gu_trang">
-            <h>obair gu trang</h>
+        <h>nouns</h>
+        <module id="obair">
+            <h>obair</h>
             <p><g><a href="?gd=obair">obair</a> gu trang</g>
-                <en>working busily</en> – <xl>
+                <en>working busily/hard</en> – <xl>
                     <li>
                         <gd>Tha Calum sgìth – tha e ag obair gu trang anns an achadh.</gd>
                         <tr>Malcolm is tired – he is working busily in the field.</tr>

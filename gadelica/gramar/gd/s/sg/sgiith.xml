@@ -6,7 +6,7 @@
 
     <section>
         <h>nouns</h>
-        <module id="duine_sgiith">
+        <!--<module id="duine_sgiith">
             <h>duine sgìth</h>
             <p><g><a href="?gd=duine">duine</a> sgìth</g>
                 <en>a tired man</en> – <xl>
@@ -40,7 +40,28 @@
                     </xl>
                 </p>
             </module>
+        </module>-->
+        <module id="obair">
+            <h>obair</h>
+            <p><g>sgìth ag <a href="?gd=obair">obair</a></g>
+                <en>tired working</en> – <xl>
+                    <li>
+                        <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an
+                            achadh.</gd>
+                        <tr>Mary is tired. She is tired working in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Seumas sgìth: tha e ag obair gu trang anns an achadh.</gd>
+                        <tr>James is tired: he is working busily in the field.</tr>
+                        <ref text="617">td. 7 [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
         </module>
     </section>
+    
+    
+    
 
 </module>

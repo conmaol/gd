@@ -158,5 +158,23 @@
                 </xl></p>
         </module></section>
     </section>
-
+    
+    <section>
+        <h>nouns</h>
+        <module id="fad">
+            <h>fad</h>
+            <p><g>ann an taigh <a href="?gd=fad">fad</a> ...</g>
+                <en>in a house all ... long</en> – <xl>
+                    <li>
+                        <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an sgoil an
+                            diugh? Cha robh, bha e anns an taigh fad an latha.</gd>
+                        <tr>What is wrong with this boy? His head is sore. Was he in the school today? No, he
+                            was in the house all day long.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
 </module>

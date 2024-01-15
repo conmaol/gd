@@ -4,14 +4,22 @@
     <p><g>ceàrr</g>
         <en>wrong</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
 
-    <p>Some examples – <xl>
-            <li>
-                <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
-                <tr>What is wrong with this boy? His head is sore.</tr>
-                <ref text="617">td. 20</ref>
-            </li>
-        </xl>
-    </p>
+    <section>
+        <h>nouns</h>
+        <module id="gille">
+            <h>gille</h>
+            <p><g>ceàrr air <a href="?gd=gille">gille</a></g>
+                <en>wrong with a boy</en> – <xl>
+                    <li>
+                        <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
+                        <tr>What is wrong with this boy? His head is sore.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
 
 
 

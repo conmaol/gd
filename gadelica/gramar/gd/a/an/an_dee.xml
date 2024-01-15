@@ -4,47 +4,54 @@
     <p><g>an dé</g>
         <en>yesterday</en> is an <a href="?xx=adverbs/adverbs">adverb</a>.</p>
 
-   <!-- <section id="forms">
+    <!-- <section id="forms">
         <h>forms</h>
         <p>Note that <g>an dé</g> is usually spelled with a hyphen and a grave accent, as
                 <g>an-dè</g>, in post-1970s Neo-Gaelic writing.</p>
     </section>-->
 
     <section>
-        <h>uses</h>
-        <section id="uses-mod">
-            <h>modifier</h>
-            <p>Examples modifying <a href="?gd=bi"><g>bi</g></a> – <ul>
-                    <li>past tense – <xl>
-                            <li>
-                                <gd>An robh Calum ag iasgach air an loch an dé? Bha.</gd>
-                                <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                            <li>
-                                <gd>An robh an clachair ag obair air a’ bhalla fad an latha an
-                                        dé? Cha robh.</gd>
-                                <tr>Was the mason working on the wall all day yesterday? No, he
-                                    wasn’t.</tr>
-                                <ref text="617">td. 20 [adapted]</ref>
-                            </li>
+        <h>verbs</h>
+        <section>
+            <h>temporal</h>
+            <module id="iasgaich">
+                <h>iasgaich</h>
+                <p><g><a href="?gd=iasgaich">iasgaich</a> ... an dé</g>
+                    <en>... did fishing yesterday</en> –<xl>
+                        <li>
+                            <gd>An robh Calum ag iasgach air an loch an dé? Bha.</gd>
+                            <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
+                            <ref text="617">td. 20</ref>
+                        </li>
+                    </xl></p>
+            </module>
+            <module id="obair">
+                <h>obair</h>
+                <p><g><a href="?gd=obair">obair</a> ... an dé</g>
+                    <en>... worked yesterday</en> –<xl>
+                        <li>
+                            <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Cha
+                                robh.</gd>
+                            <tr>Was the mason working on the wall all day yesterday? No, he
+                                wasn’t.</tr>
+                            <ref text="617">td. 20 [adapted]</ref>
+                        </li>
+                    </xl></p>
+            </module>
+        </section>
+    </section>
+
+
+    <!--
+                            
                             <li>
                                 <gd>Bha mi anns a’ mhonadh an dé. Chunnaic mi caoraich agus crodh
                                     anns a’ mhonadh.</gd>
                                 <tr>I was on the moor yesterday. I saw sheep and cattle on the
                                     moor.</tr>
                                 <ref text="617">td. 21</ref>
-                            </li>
-                        </xl>
-                    </li>
-                </ul>
-            </p>
-            <!--<p>Examples modifying other verbs – <xl>
-                
-            </xl>
-            </p>-->
-        </section>
-    </section>
+                            </li>-->
+
 
 
 

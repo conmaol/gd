@@ -2,15 +2,13 @@
 <module>
     <h>caileag</h>
     <p><g>caileag</g>
-        <en>a girl</en> is a feminine common noun with diminutive derivational suffix <a
-            href="?gd=_ag"><g>-(e)ag</g></a>.</p>
+        <en>a girl</en> is a feminine <a href="?xx=nouns/common_nouns">common noun</a><!--with diminutive derivational suffix <a
+            href="?gd=_ag"><g>-(e)ag</g></a>-->.</p>
 
     <section>
         <h>adjectives</h>
-        <p><g>caileag</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
-                >adjectives</a>.</p>
-        <module id="caileag_bheag">
-            <h>caileag bheag</h>
+        <module id="beag">
+            <h>beag</h>
             <p><g>caileag <a href="?gd=beag">bheag</a></g>
                 <en>a little girl</en> – <xl>
                     <li>

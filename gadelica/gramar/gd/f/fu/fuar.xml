@@ -6,7 +6,7 @@
 
     <section>
         <h>nouns</h>
-        <module id="duine_fuar">
+        <!--<module id="duine_fuar">
             <h>duine fuar</h>
             <p><g>[duine] fuar</g>
                 <en>a cold [person]</en> – <xl>
@@ -27,20 +27,20 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="latha_fuar">
-            <h>latha fuar</h>
+        </module>-->
+        <module id="latha">
+            <h>latha</h>
             <p><g>latha fuar</g>
                 <en>a cold day</en> – <xl>
                     <li>
-                        <gd>A bheil an latha fuar?</gd>
-                        <tr>Is the day cold?</tr>
+                        <gd>A bheil an latha fuar? Tha.</gd>
+                        <tr>Is the day cold? Yes, it is.</tr>
                         <ref text="617">td. 14</ref>
                     </li>
                 </xl>
             </p>
         </module>
-        <module id="non-ref">
+        <!--<module id="non-ref">
             <h>[bi] e fuar</h>
             <p>Examples with a non-referential subject pronoun – <xl>
                     <li>
@@ -55,7 +55,7 @@
                     </li>
                 </xl>
             </p>
-        </module>
+        </module>-->
     </section>
 
 

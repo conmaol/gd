@@ -7,7 +7,7 @@
 
     <section>
         <h>nouns</h>
-        <module id="person_baan">
+        <!--<module id="person_baan">
             <h>[duine] bàn</h>
             <p><g>[duine] bàn</g>
                 <en>a fair-haired [person]</en> – <xl>
@@ -23,9 +23,9 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="cat_baan">
-            <h>cat bàn</h>
+        </module>-->
+        <module id="cat">
+            <h>cat</h>
             <p><g><a href="?gd=cat">cat</a> bàn</g>
                 <en>a white cat</en> – <xl>
                     <li>
@@ -41,9 +41,9 @@
                 </xl>
             </p>
         </module>
-        <module id="falt_baan">
-            <h>falt bàn</h>
-            <p><g>falt bàn</g>
+        <module id="falt">
+            <h>falt</h>
+            <p><g><a href="?gd=falt">falt</a> bàn</g>
                 <en>fair hair</en> – <xl>
                     <li>
                         <gd>A bheil falt bàn air Seumas?</gd>

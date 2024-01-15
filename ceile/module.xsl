@@ -14,7 +14,7 @@
 
   <xsl:template match="/module">
     <a href="{concat($uri,'&amp;print=')}"
-      style="float: right; text-decoration: none; font-size: normal">[printable]</a>
+      style="float: right; text-decoration: none; font-size: normal">[+]</a>
     <h1>
       <xsl:apply-templates select="h/child::node()"/>
     </h1>
@@ -115,24 +115,11 @@
     </ul>
   </xsl:template>
 
-
-
-
-
-
-
-
-
   <xsl:template match="li">
     <li>
       <xsl:apply-templates/>
     </li>
   </xsl:template>
-
-
-
-
-
 
   <!-- text content -->
 

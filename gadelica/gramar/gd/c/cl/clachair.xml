@@ -2,35 +2,34 @@
 <module>
     <h>clachair</h>
     <p><g>clachair</g>
-        <en>a mason</en> is a masculine <a href="?xx=nouns/derived_common_nouns">derived common
-            noun</a>.</p>
+        <en>a stonemason</en> is a masculine <a href="?xx=nouns/common_nouns">common noun</a>.</p>
 
     <section>
-        <h>verbs</h>
-        <section>
-            <h>subject</h>
-            <p><g>clachair</g> can be the subject of certain <a href="?xx=verbs/verbs"
-                >verbs</a>.</p>
-            <module id="clachair_ag_obair">
-                <h>clachair [ag] obair</h>
-                <p><g>clachair [ag] <a href="?gd=obair">obair</a></g>
-                    <en>a mason working</en>.</p>
-                <module>
-                    <h>clachair [ag] obair air balla</h>
-                    <p><g>clachair [ag] <a href="?gd=obair">obair</a> air <a href="?gd=balla"
-                                >balla</a></g>
-                        <en>a mason working on a wall</en> – <xl>
-                            <li>
-                                <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé?
-                                    Bha.</gd>
-                                <tr>Was the mason working on the wall all day yesterday? Yes, he
-                                    was.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                        </xl></p>
-                </module>
-            </module>
-        </section>
+        <h>nouns</h>
+        <module id="obair">
+            <h>obair</h>
+            <p><g>clachair [ag] <a href="?gd=obair">obair</a></g>
+                <en>a mason working</en> – <xl>
+                    <li>
+                        <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
+                        <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="balla">
+            <h>balla</h>
+            <p><g>clachair [ag obair air] <a href="?gd=balla">balla</a></g>
+                <en>a mason [working on] a wall</en> – <xl>
+                    <li>
+                        <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
+                        <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 </module>

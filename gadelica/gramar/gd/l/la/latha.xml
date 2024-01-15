@@ -99,12 +99,12 @@
     <section>
         <h>nouns</h>
         <!--<p><g>latha</g> can be the specifier of certain other nouns.</p>-->
-        <section>
-            <h>specifier</h>
-            <module id="fad_an_latha">
-            <h>fad an latha</h>
-            <p><g><a href="?gd=fad">fad</a> an latha</g>
-                <en>the length of the day, all day long</en> – <xl>
+        <!--<section>
+            <h>specifier</h>-->
+            <module id="fad">
+            <h>fad</h>
+            <p><g><a href="?gd=fad">fad</a> [an] latha</g>
+                <en>length of the day, all day long</en> – <xl>
                     <li>
                         <gd>An robh an gille seo anns an sgoil an diugh? Cha robh, bha e anns an
                             taigh fad an latha.</gd>
@@ -119,7 +119,8 @@
                     </li>
                 </xl>
             </p>
-        </module></section>
+        </module>
+   <!-- </section>-->
     </section>
 
     <!--<section>

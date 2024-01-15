@@ -7,29 +7,14 @@
 
     <section>
         <h>nouns</h>
-        <module id="duine_beag">
-            <h>[duine] beag</h>
-            <p><g>[duine] beag</g>
-                <en>a small person</en> – <xl>
-                    <li>
-                        <gd>Tha Màiri beag.</gd>
-                        <tr>Mary is small.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
+        <module id="caileag">
+            <h>caileag</h>
+            <p><g><a href="?gd=caileag">caileag</a> bheag</g>
+                <en>a little girl</en> – <xl>
                     <li>
                         <gd>Tha a’ chaileag beag.</gd>
                         <tr>The girl is small.</tr>
                         <ref text="617">td. 15</ref>
-                    </li>
-                    <li>
-                        <gd>Càit a bheil an gille beag an diugh?</gd>
-                        <tr>Where is the little boy today?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>Tha Màiri bheag sgìth.</gd>
-                        <tr>Little Mary is tired.</tr>
-                        <ref text="617">td. 9</ref>
                     </li>
                     <li>
                         <gd>Chan eil a’ chaileag bheag anns an sgoil.</gd>
@@ -39,8 +24,40 @@
                 </xl>
             </p>
         </module>
-        <module id="cat_beag">
-            <h>cat beag</h>
+        <module id="gille">
+            <h>gille</h>
+            <p><g><a href="?gd=gille">gille</a> beag</g>
+                <en>a little boy</en> – <xl>
+                    <li>
+                        <gd>Càit a bheil an gille beag an diugh?</gd>
+                        <tr>Where is the little boy today?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <!--<module id="duine_beag">
+            <h>[duine] beag</h>
+            <p><g>[duine] beag</g>
+                <en>a small person</en> – <xl>
+                    <li>
+                        <gd>Tha Màiri beag.</gd>
+                        <tr>Mary is small.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    
+                    
+                    <li>
+                        <gd>Tha Màiri bheag sgìth.</gd>
+                        <tr>Little Mary is tired.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                    
+                </xl>
+            </p>
+        </module>-->
+        <module id="cat">
+            <h>cat</h>
             <p><g><a href="?gd=cat">cat</a> beag</g>
                 <en>a little cat</en> – <xl>
                     <li>
@@ -56,8 +73,8 @@
                 </xl>
             </p>
         </module>
-        <module id="baata_beag">
-            <h>bàta beag</h>
+        <module id="baata">
+            <h>bàta</h>
             <p><g><a href="?gd=baata">bàta</a> beag</g>
                 <en>a small boat</en> – <xl>
                     <li>

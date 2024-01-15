@@ -13,36 +13,42 @@
   </xsl:template>
 
   <xsl:template match="/module">
-    <a href="{$uri}" style="float: right; text-decoration: none; font-size: normal">[normal]</a>
+    <a href="{$uri}" style="float: right; text-decoration: none; font-size: normal">[-]</a>
     <h1>
       <xsl:apply-templates select="h/child::node()"/>
     </h1>
     <xsl:apply-templates select="p | module | section"/>
   </xsl:template>
 
-
-  <xsl:template match="module/module | section/module | section">
+  <xsl:template match="section">
     <section>
       <hr/>
-      <h4>
-        <xsl:if test="name(.)='section'">
-          <xsl:attribute name="class">
-            <xsl:text>text-muted text-uppercase</xsl:text>
-          </xsl:attribute>
-        </xsl:if>
+      <h5 class="text-muted text-uppercase">
         <xsl:apply-templates select="h/child::node()"/>
-      </h4>
+      </h5>
       <section>
-        <!--
         <xsl:apply-templates
           select="p[not(preceding-sibling::module or preceding-sibling::section)]"/>
         <section class="ms-5">
           <xsl:apply-templates
             select="p[preceding-sibling::module or preceding-sibling::section] | module | section"/>
         </section>
-        -->
+      </section>
+    </section>
+  </xsl:template>
+  
+  <xsl:template match="*/module">
+    <section>
+      <hr/>
+      <h3>
+        <xsl:apply-templates select="h/child::node()"/>
+      </h3>
+      <section>
+        <xsl:apply-templates
+          select="p[not(preceding-sibling::module or preceding-sibling::section)]"/>
         <section class="ms-5">
-          <xsl:apply-templates select="p | module | section"/>
+          <xsl:apply-templates
+            select="p[preceding-sibling::module or preceding-sibling::section] | module | section"/>
         </section>
       </section>
     </section>
@@ -69,9 +75,9 @@
   </xsl:template>
 
   <xsl:template match="xl">
-    <ol>
+    <ul>
       <xsl:apply-templates/>
-    </ol>
+    </ul>
   </xsl:template>
 
   <xsl:template match="li">
@@ -85,15 +91,15 @@
 <!-- text content -->
 
   <xsl:template match="a">
-    <strong>
+    <a href="{@href}">
       <xsl:apply-templates/>
-    </strong>
+    </a>
   </xsl:template>
-
+  
   <xsl:template match="ax">
-    <strong>
+    <a href="{@href}" target="_new">
       <xsl:apply-templates/>
-    </strong>
+    </a>
   </xsl:template>
 
   <xsl:template match="m">
@@ -157,8 +163,16 @@
     <em>adj.</em>
   </xsl:template>
   
+  <xsl:template match="adv">
+    <em>adv.</em>
+  </xsl:template>
+  
   <xsl:template match="vb">
     <em>vb.</em>
+  </xsl:template>
+  
+  <xsl:template match="prep">
+    <em>prep.</em>
   </xsl:template>
   
   <xsl:template match="etc">
@@ -173,6 +187,13 @@
     <em>slend.</em>
   </xsl:template>
 
+  <xsl:template match="gen">
+    <em>gen.</em>
+  </xsl:template>
+  
+  <xsl:template match="pl">
+    <em>plur.</em>
+  </xsl:template>
 
 
  
@@ -180,9 +201,9 @@
   <!-- corpus examples -->
 
   <xsl:template match="gd">
-    <small>
+    <span style="color: #556b2f;">
       <xsl:apply-templates/>
-    </small>
+    </span>
   </xsl:template>
 
   <xsl:template match="tr">
@@ -193,11 +214,12 @@
   </xsl:template>
 
   <xsl:template match="ref">
-    <br/>
-    <small  class="text-muted">
-      <xsl:text>📚</xsl:text>
+    <!--<br/>-->
+    <small class="text-muted">
+      <xsl:text>[</xsl:text>
       <xsl:call-template name="biblio"/>
       <xsl:apply-templates/>
+      <xsl:text>]</xsl:text>
     </small>
   </xsl:template>
 

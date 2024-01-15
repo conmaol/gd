@@ -3,13 +3,13 @@
     <h>briagha</h>
     <p><g>briagha</g>
         <en>beautiful</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
-    <p>Note that <g>briagha</g> can also be spelled as <g>brèagha</g>, especially in recent
-        writings.</p>
+    <!--<p>Note that <g>briagha</g> can also be spelled as <g>brèagha</g>, especially in recent
+        writings.</p>-->
 
     <section>
         <h>nouns</h>
-        <module id="latha_briagha">
-            <h>latha briagha</h>
+        <module id="latha">
+            <h>latha</h>
             <p><g><a href="?gd=latha">latha</a> briagha</g>
                 <en>a beautiful day</en> – <xl>
                     <li>

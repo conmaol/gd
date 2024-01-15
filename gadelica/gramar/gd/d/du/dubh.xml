@@ -6,8 +6,8 @@
 
     <section>
         <h>nouns</h>
-        <module id="cuu_dubh">
-            <h>cù dubh</h>
+        <module id="cuu">
+            <h>cù</h>
             <p><g><a href="?gd=cuu">cù</a> dubh</g>
                 <en>a black dog</en> – <xl>
                     <li>
@@ -23,8 +23,8 @@
                 </xl>
             </p>
         </module>
-        <module id="falt_dubh">
-            <h>falt dubh</h>
+        <module id="falt">
+            <h>falt</h>
             <p><g><a href="?gd=falt">falt</a> dubh</g>
                 <en>black hair</en> – <xl>
                     <li>

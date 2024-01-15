@@ -6,8 +6,8 @@
 
     <section>
         <h>nouns</h>
-        <module id="seoomar_blaath">
-            <h>seòmar blàth</h>
+        <module id="seoomar">
+            <h>seòmar</h>
             <p><g><a href="?gd=seoomar">seòmar</a> blàth</g>
                 <en>a warm room</en> – <xl>
                     <li>
@@ -23,8 +23,8 @@
                 </xl>
             </p>
         </module>
-        <module id="latha_blaath">
-            <h>latha blàth</h>
+        <module id="latha">
+            <h>latha</h>
             <p><g><a href="?gd=latha">latha</a> blàth</g>
                 <en>a warm day</en> – <xl>
                     <li>
@@ -37,9 +37,9 @@
         </module>
     </section>
 
-   
 
-   
+
+
 
     <!--<section>
         <h>uses</h>

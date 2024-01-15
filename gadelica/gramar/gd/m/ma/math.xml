@@ -6,8 +6,8 @@
 
     <section>
         <h>nouns</h>
-        <module id="latha_math">
-            <h>latha math</h>
+        <module id="latha">
+            <h>latha</h>
             <p><g><a href="?gd=latha">latha</a> math</g>
                 <en>a good day</en> – <xl>
                     <li>
@@ -18,7 +18,7 @@
                 </xl>
             </p>
         </module>
-        <module id="duine_gu_math">
+        <!--<module id="duine_gu_math">
             <h>[bi] duine gu math</h>
             <p><g>[bi] [duine] gu math</g>
                 <en>[a person] [is] well</en> – <xl>
@@ -29,7 +29,7 @@
                     </li>
                 </xl>
             </p>
-        </module>
+        </module>-->
     </section>
    
             <!--<p>Some examples – <xl>
