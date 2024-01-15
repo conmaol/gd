@@ -7,10 +7,8 @@
 
     <section>
         <h>adjectives</h>
-        <p><g>falt</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
-                >adjectives</a>.</p>
-        <module id="falt_dubh">
-            <h>falt dubh</h>
+        <module id="dubh">
+            <h>dubh</h>
             <p><g>falt <a href="?gd=dubh">dubh</a></g>
                 <en>black hair</en> – <xl>
                     <li>
@@ -20,8 +18,8 @@
                     </li>
                 </xl></p>
         </module>
-        <module id="falt_baan">
-            <h>falt bàn</h>
+        <module id="baan">
+            <h>bàn</h>
             <p><g>falt <a href="?gd=baan">bàn</a></g>
                 <en>fair hair</en> – <xl>
                     <li>

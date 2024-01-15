@@ -34,6 +34,18 @@
                     </li>
                 </xl></p>
         </module>
+        <module id="ceaarr">
+            <h>ceàrr</h>
+            <p><g><a href="?gd=ceaarr">ceàrr</a> air gille</g>
+                <en>wrong with a boy</en> – <xl>
+                    <li>
+                        <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
+                        <tr>What is wrong with this boy? His head is sore.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
     <section>
@@ -85,37 +97,26 @@
                 <h>... air gille</h>
                 <p><g>... <a href="?gd=air">air</a> gille</g>
                     <en>... on a boy</en>. </p>
-                <module>
-                    <h>ceàrr air gille</h>
-                    <p><g><a href="?gd=ceaarr">ceàrr</a> air gille</g>
-                        <en>wrong with a boy</en> – <xl>
-                            <li>
-                                <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
-                                <tr>What is wrong with this boy? His head is sore.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
+
             </module>
         </section>
     </section>
 
     <section>
         <h>verbs</h>
-       <!-- <section>
+        <!-- <section>
             <h>subject</h>-->
-            <module id="cluich">
-                <h>cluich</h>
-                <p><g><a href="?gd=cluich">cluich</a> gille</g>
-                    <en>a boy plays</en> – <xl>
-                        <li>
-                            <gd>A bheil an gille a’ cluich? Tha,</gd>
-                            <tr>Is the boy playing? Yes, he is.</tr>
-                            <ref text="617">td. 15</ref>
-                        </li>
-                    </xl></p>
-            </module>
+        <module id="cluich">
+            <h>cluich</h>
+            <p><g><a href="?gd=cluich">cluich</a> gille</g>
+                <en>a boy plays</en> – <xl>
+                    <li>
+                        <gd>A bheil an gille a’ cluich? Tha,</gd>
+                        <tr>Is the boy playing? Yes, he is.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl></p>
+        </module>
         <!--</section>-->
     </section>
 

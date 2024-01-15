@@ -7,10 +7,8 @@
 
     <section>
         <h>adjectives</h>
-        <p><g>dorus</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
-                >adjectives</a>.</p>
-        <module id="dorus_moor">
-            <h>dorus mór</h>
+        <module id="moor">
+            <h>mór</h>
             <p><g>dorus <a href="?gd=moor">mór</a></g>
                 <en>a large door</en> – <xl>
                     <li>

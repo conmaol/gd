@@ -29,14 +29,19 @@
             <p><g><a href="?gd=cat">cat</a> bàn</g>
                 <en>a white cat</en> – <xl>
                     <li>
-                        <gd>A bheil an cat bàn?</gd>
-                        <tr>Is the cat white?</tr>
+                        <gd>A bheil an cat bàn? Chan eil.</gd>
+                        <tr>Is the cat white? No, it isn’t.</tr>
                         <ref text="617">td. 15</ref>
                     </li>
                     <li>
                         <gd>Càit a bheil an cat bàn an diugh?</gd>
                         <tr>Where is the white cat today?</tr>
                         <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>Tha cù dubh aig Calum ach tha cat bàn aig Seònaid.</gd>
+                        <tr>Malcolm has a black dog but Janet has a white cat.</tr>
+                        <ref text="617">td. 23</ref>
                     </li>
                 </xl>
             </p>

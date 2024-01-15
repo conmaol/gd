@@ -7,10 +7,8 @@
 
     <section>
         <h>adjectives</h>
-        <!-- <p><g>taigh</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
-                >adjectives</a>.</p>-->
-        <module id="taigh_moor">
-            <h>taigh mór</h>
+        <module id="moor">
+            <h>mór</h>
             <p><g>taigh <a href="?gd=moor">mór</a></g>
                 <en>a big house</en> – <xl>
                     <li>

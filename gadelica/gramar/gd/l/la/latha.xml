@@ -7,10 +7,8 @@
 
     <section>
         <h>adjectives</h>
-        <!--<p><g>latha</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
-                >adjectives</a>.</p>-->
-        <module id="latha_math">
-            <h>latha math</h>
+        <module id="math">
+            <h>math</h>
             <p><g>latha <a href="?gd=math">math</a></g>
                 <en>a good day</en> – <xl>
                     <li>
@@ -20,8 +18,8 @@
                     </li>
                 </xl></p>
         </module>
-        <module id="latha_briagha">
-            <h>latha briagha</h>
+        <module id="briagha">
+            <h>briagha</h>
             <p><g>latha <a href="?gd=briagha">briagha</a></g>
                 <en>a beautiful day</en> – <xl>
                     <li>
@@ -36,8 +34,8 @@
                     </li>
                 </xl></p>
         </module>
-        <module id="latha_blaath">
-            <h>latha blàth</h>
+        <module id="blaath">
+            <h>blàth</h>
             <p><g>latha <a href="?gd=blaath">blàth</a></g>
                 <en>a warm day</en> – <xl>
                     <li>
@@ -47,8 +45,8 @@
                     </li>
                 </xl></p>
         </module>
-        <module id="latha_fuar">
-            <h>latha fuar</h>
+        <module id="fuar">
+            <h>fuar</h>
             <p><g>latha <a href="?gd=fuar">fuar</a></g>
                 <en>a cold day</en> – <xl>
                     <li>
@@ -101,7 +99,7 @@
         <!--<p><g>latha</g> can be the specifier of certain other nouns.</p>-->
         <!--<section>
             <h>specifier</h>-->
-            <module id="fad">
+        <module id="fad">
             <h>fad</h>
             <p><g><a href="?gd=fad">fad</a> [an] latha</g>
                 <en>length of the day, all day long</en> – <xl>
@@ -120,7 +118,7 @@
                 </xl>
             </p>
         </module>
-   <!-- </section>-->
+        <!-- </section>-->
     </section>
 
     <!--<section>

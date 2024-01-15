@@ -6,34 +6,24 @@
             href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
 
     <section>
-        <h>prepositions</h>
-        <section>
-            <h>object</h>
-            <p><g>baile</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                    >prepositions</a>.</p>
-            <module id="ann_am_baile">
-                <h>... ann am baile</h>
-                <p><g>... <a href=">gd=an^preposition">ann am</a> baile</g>
-                    <en>... in a town</en>. </p>
-                <module>
-                    <h>[duine] ann am baile</h>
-                    <p><g>[duine] ann am baile</g>
-                        <en>[a man] in a town</en> – <xl>
-                            <li>
-                                <gd>An robh am bodach anns a’ bhaile? Bha.</gd>
-                                <tr>Was the old man in the town? Yes, he was.</tr>
-                                <ref text="617">td. 21 [229]</ref>
-                            </li>
-                            <li>
+        <h>nouns</h>
+        <module id="bodach">
+            <h>bodach</h>
+            <p><g><a href="?gd=bodach">bodach</a> ann am baile</g>
+                <en>an old man in a town</en> – <xl>
+                    <li>
+                        <gd>An robh am bodach anns a’ bhaile? Bha.</gd>
+                        <tr>Was the old man in the town? Yes, he was.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                    <!--<li>
                                 <gd>Tha Màiri anns a’ bhaile an diugh.</gd>
                                 <tr>Mary is in the town today.</tr>
                                 <ref text="617">td. 20 [adapted]</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
+                            </li>-->
+                </xl>
+            </p>
+        </module>
     </section>
 
 

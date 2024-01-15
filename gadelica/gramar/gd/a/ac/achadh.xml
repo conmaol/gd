@@ -33,45 +33,35 @@
 
 
     <section>
-        <h>prepositions</h>
-        <section>
-            <h>object</h>
-            <p><g>achadh</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                    >prepositions</a>.</p>
-            <module id="ann_an_achadh">
-                <h>... ann an achadh</h>
-                <p><g>... <a href=">gd=an^preposition">ann an</a> achadh</g>
-                    <en>... in a field</en>.</p>
-                <module>
-                    <h>[nì] ann an achadh</h>
-                    <p><g>[nì] ann an achadh</g>
-                        <en>[something] in a field</en></p>
-                    <module>
-                        <h>[duine] ann an achadh</h>
-                        <p><g>[duine] ann an achadh</g>
-                            <en>[a man] in a field</en> – <xl>
-                                <li>
-                                    <gd>Nach robh a’ chaileag anns an achadh? Cha robh.</gd>
-                                    <tr>Wasn’t the girl in the field? No, she wasn’t.</tr>
-                                    <ref text="617">td. 11 [adapted]</ref>
-                                </li>
-                            </xl>
-                        </p>
-                    </module>
-                    <module>
-                        <h>[beathach] ann an achadh</h>
-                        <p><g>[beathach] ann an achadh</g>
-                            <en>[an animal] in a field</en> – <xl>
-                                <li>
-                                    <gd>Bha an cù anns an achadh.</gd>
-                                    <tr>The dog was in the field.</tr>
-                                    <ref text="617">td. 11 [adapted]</ref>
-                                </li>
-                            </xl>
-                        </p>
-                    </module>
-                </module>
-                <module>
+        <h>nouns</h>
+        <module id="caileag">
+            <h>caileag</h>
+            <p><g><a href="?gd=caileag">caileag</a> ann an achadh</g>
+                <en>a girl in a field</en> – <xl>
+                    <li>
+                        <gd>Nach robh a’ chaileag anns an achadh? Cha robh.</gd>
+                        <tr>Wasn’t the girl in the field? No, she wasn’t.</tr>
+                        <ref text="617">td. 11 [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="cuu">
+            <h>cù</h>
+            <p><g><a href="?gd=cuu">cù</a> ann an achadh</g>
+                <en>a dog in a field</en> – <xl>
+                    <li>
+                        <gd>Bha an cù anns an achadh.</gd>
+                        <tr>The dog was in the field.</tr>
+                        <ref text="617">td. 11 [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        
+        
+       
+                <!--<module>
                     <h>[duine ag] obair ann an achadh</h>
                     <p><g>[duine ag] <a href="?gd=obair">obair</a> ann an achadh</g>
                         <en>[a man] working in a field</en> – <xl>
@@ -87,9 +77,7 @@
                             </li>
                         </xl>
                     </p>
-                </module>
-            </module>
+                </module>-->
         </section>
-    </section>
 
 </module>

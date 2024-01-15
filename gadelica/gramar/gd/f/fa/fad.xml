@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
   <h>fad</h>
+  <p><g>fad</g>
+    <en>a length</en> is a masculine noun.</p>
 
   <section>
     <h>nouns</h>
     <module id="latha">
       <h>latha</h>
-      <p><g>fad [an] <a href=">gd=latha">latha</a></g>
+      <p><g>fad [an] <a href="?gd=latha">latha</a></g>
         <en>length of a day, all day long</en> – <xl>
           <li>
             <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
@@ -25,7 +27,7 @@
     </module>
     <module id="obair">
       <h>obair</h>
-      <p><g><a href="obair">obair</a> fad ...</g>
+      <p><g><a href="?gd=obair">obair</a> fad ...</g>
         <en>working all ... long</en> – <xl>
           <li>
             <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>

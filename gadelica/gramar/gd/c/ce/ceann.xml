@@ -7,10 +7,8 @@
 
   <section>
     <h>adjectives</h>
-    <p><g>ceann</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
-        >adjectives</a>.</p>
-    <module id="ceann_moor">
-      <h>ceann mór</h>
+    <module id="moor">
+      <h>mór</h>
       <p><g>ceann <a href="?gd=moor">mór</a></g>
         <en>a large head</en> – <xl>
           <li>
@@ -20,8 +18,8 @@
           </li>
         </xl></p>
     </module>
-    <module id="ceann_goirt">
-      <h>ceann goirt</h>
+    <module id="goirt">
+      <h>goirt</h>
       <p><g>ceann <a href="?gd=goirt">goirt</a></g>
         <en>a sore head</en> – <xl>
           <li>

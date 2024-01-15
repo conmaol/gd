@@ -6,89 +6,9 @@
             noun</a>.</p>
 
     <section>
-        <h>adjectives</h>
-        <p><g>abhainn</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
-                >adjectives</a>.</p>
-        <module id="abhainn_dhubh">
-            <h>abhainn dhubh</h>
-            <p><g>abhainn <a href="?gd=dubh">dhubh</a></g>
-                <en>a black river</en> – <xl>
-                    <li>
-                        <gd>[Bha abhainn dhubh anns a’ bhaile.]</gd>
-                        <ref text=""/>
-                    </li>
-                </xl></p>
-        </module>
-    </section>
-
-    <section>
-        <h>prepositions</h>
-        <section>
-            <h>subject</h>
-            <p><g>abhainn</g> can be the (deep) subject of certain <a
-                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
-            <module id="abhainn_an">
-                <h>abhainn ann an ...</h>
-                <p><g>abhainn <a href="?gd=an^preposition">ann an</a> ...</g>
-                    <en>a river in ...</en> – <xl>
-                        <li>
-                            <gd>[Tha abhainn anns a’ bhaile.]</gd>
-                            <ref text=""/>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
-        <section>
-            <h>object</h>
-            <p><g>abhainn</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                    >prepositions</a>.</p>
-            <module id="air_abhainn">
-                <h>... air abhainn</h>
-                <p><g>... <a href="?gd=air">air</a> abhainn</g>
-                    <en>... on a river</en>. </p>
-                <module>
-                    <h>iasgaich [duine] air abhainn</h>
-                    <p><g><a href="?gd=iasgaich">iasgaich</a> [duine] air abhainn</g>
-                        <en>[a man] fishes on a river</en> – <xl>
-                            <li>
-                                <gd>Bha Alasdair ag iasgach air an abhainn.</gd>
-                                <tr>Alexander was fishing on the river.</tr>
-                                <ref text="617">td. 20 [adapted]</ref>
-                            </li>
-                            <li>
-                                <gd>Am bi sibh ag iasgach air an abhainn? Bidh.</gd>
-                                <tr>Will you be fishing on the river? Yes, we will.</tr>
-                                <ref text="617">td. 20 [adapted]</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
-    </section>
-
-    <section>
-        <h>adverbs</h>
-        <p><g>abhainn</g> can be the (deep) subject of certain <a href="?xx=prepositions/adverbs"
-                >adverbs</a>.</p>
-        <module id="abhainn_shuas">
-            <h>[bi] abhainn shuas</h>
-            <p><g>[bi] abhainn <a href="?gd=suas">shuas</a></g>
-                <en>a river [is] up there</en> – <xl>
-                    <li>
-                        <gd>[Bha an abhainn shuas.]</gd>
-                        <ref text=""/>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section>
         <h>verbs</h>
-        <section>
-            <h>locative</h>
+        <!--<section>
+            <h>locative</h>-->
             <module id="iasgaich">
                 <h>iasgaich</h>
                 <p><g><a href="?gd=iasgaich">iasgaich</a> ... air abhainn</g>
@@ -103,57 +23,12 @@
                     </xl>
                 </p>
             </module>
-        </section>
+        <!--</section>-->
     </section>
     
 
-    <section>
-        <h>verbs</h>
-        <section>
-            <h>subject</h>
-            <p><g>abhainn</g> can be the subject of certain <a href="?xx=verbs/verbs">verbs</a>.</p>
-            <module id="cluich_abhainn">
-                <h>cluich abhainn</h>
-                <p><g><a href="?gd=cluich">cluich</a> abhainn</g>
-                    <en>a river plays</en> – <xl>
-                        <li>
-                            <gd>[Tha an abhainn a’ cluich.]</gd>
-                            <ref text=""/>
-                        </li>
-                    </xl></p>
-            </module>
-        </section>
-        <section>
-            <h>object</h>
-            <p><g>abhainn</g> can be the object of certain (transitive) <a href="?xx=verbs/verbs"
-                    >verbs</a>.</p>
-            <module id="faic_abhainn">
-                <h>faic [duine] abhainn</h>
-                <p><g><a href="?gd=faic">faic</a> [duine] abhainn</g>
-                    <en>[a man] sees a river</en> – <xl>
-                        <li>
-                            <gd>[Chunnaic mi aibhnichean ann an Alba.]</gd>
-                            <ref text=""/>
-                        </li>
-                    </xl></p>
-            </module>
-        </section>
-    </section>
     
-    <section>
-        <h>nouns</h>
-        <p><g>abhainn</g> can be the specifier of certain other nouns.</p>
-        <module id="taobh_na_h-aibhne">
-            <h>taobh na h-aibhne</h>
-            <p><g><a href="?gd=taobh">taobh</a> na h-aibhne</g>
-                <en>the side of the river</en> – <xl>
-                    <li>
-                        <gd>[... ri taobh na h-aibhne ...]</gd>
-                        <ref text=""></ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
+    
+    
 
 </module>

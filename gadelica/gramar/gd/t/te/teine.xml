@@ -7,10 +7,8 @@
 
     <section>
         <h>adjectives</h>
-        <p><g>teine</g> can be the (deep) subject of certain <a href="?xx=adjectives/adjectives"
-                >adjectives</a>.</p>
-        <module id="teine_moor">
-            <h>teine mór</h>
+        <module id="moor">
+            <h>mór</h>
             <p><g>teine <a href="?gd=moor">mór</a></g>
                 <en>a big fire</en> – <xl>
                     <li>

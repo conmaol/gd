@@ -50,6 +50,11 @@
             <tr>The dog is big.</tr>
             <ref text="617">td. 6</ref>
           </li>
+          <li>
+            <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
+            <tr>Malcolm has a big black dog but Mary has a pretty little cat.</tr>
+            <ref text="617">td. 25</ref>
+          </li>
         </xl>
       </p>
     </module>

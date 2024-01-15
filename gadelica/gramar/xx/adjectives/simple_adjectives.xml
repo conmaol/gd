@@ -137,6 +137,8 @@
     <!-- <section id="poly">
         <h>polysyllabic</h> -->
     <p>List of polysyllabic simple adjectives – <ul>
+        <li><a href="?gd=booidheach"><g>bòidheach</g></a>
+            <en>pretty</en> <slen/> bòidhich(e)</li>
             <li><a href="?gd=briagha"><g>briagha</g></a>
                 <en>fine, beautiful, lovely</en></li>
             <!--
@@ -164,8 +166,7 @@
 
     <!--
         <p>Also – <ul>
-                <li><a href="?gd=bòidheach"><g>bòidheach</g></a>
-                    <en>pretty</en> – <slen/> bòidhich(e)</li>
+                
                 <li><g>coitcheann</g>
                     <en>catholic</en> – <slen/> coitchinn(e)</li>
                 <li><g>leathann</g>

@@ -6,46 +6,43 @@
             noun</a>.</p>
 
     <section>
-        <h>prepositions</h>
-        <section>
-            <h>subject</h>
-            <p><g>bodach</g> can be the (deep) subject of certain <a
-                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
-            <module id="bodach_an">
-                <h>bodach ann an ...</h>
-                <p><g>bodach <a href="?gd=an^preposition">ann an</a> ...</g>
-                    <en>an old man in ...</en></p>
-                <module>
-                    <h>bodach ann am monadh</h>
-                    <p><g>bodach ann am monadh</g>
-                        <en>an old man on a moor</en> – <xl>
-                            <li>
-                                <gd>Tha am bodach anns a’ mhonadh leis a’ chù.</gd>
-                                <tr>The old man is on the moor with the dog.</tr>
-                                <ref text="617">td. 21 [229]</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-            <module id="bodach_le">
-                <h>bodach le ...</h>
-                <p><g>bodach <a href="?gd=le">le</a> ...</g>
-                    <en>an old man with ...</en></p>
-                <module>
-                    <h>bodach le cù</h>
-                    <p><g>bodach le cù</g>
-                        <en>an old man with a dog</en> – <xl>
-                            <li>
-                                <gd>Tha am bodach anns a’ mhonadh leis a’ chù.</gd>
-                                <tr>The old man is on the moor with the dog.</tr>
-                                <ref text="617">td. 21 [229]</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
+        <h>nouns</h>
+        <module id="monadh">
+            <h>monadh</h>
+            <p><g>bodach ann am <a href="?gd=monadh">monadh</a></g>
+                <en>an old man on a moor</en> – <xl>
+                    <li>
+                        <gd>Tha am bodach anns a’ mhonadh leis a’ chù.</gd>
+                        <tr>The old man is on the moor with the dog.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="baile">
+            <h>baile</h>
+            <p><g>bodach ann am <a href="?gd=baile">baile</a></g>
+                <en>an old man in a town</en> – <xl>
+                    <li>
+                        <gd>An robh am bodach anns a’ bhaile? Bha.</gd>
+                        <tr>Was the old man in the town? Yes, he was.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="cuu">
+            <h>cù</h>
+            <p><g>bodach le <a href="?gd=cuu">cù</a></g>
+                <en>an old man with a dog</en> – <xl>
+                    <li>
+                        <gd>Tha am bodach anns a’ mhonadh leis a’ chù.</gd>
+                        <tr>The old man is on the moor with the dog.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 </module>
