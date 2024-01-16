@@ -1,2 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>eun</h>
+    <p><g>eun</g>
+        <en>a bird</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
 
+    <section>
+        <h>adjectives</h>
+        <module id="beag">
+            <h>beag</h>
+            <p><g>eun <a href="?gd=beag">beag</a></g> <en>a little bird</en> –
+                <xl>
+                    <li>
+                        <gd>Chunnaic mi eun beag ann an craoibh agus iolair air creig.</gd>
+                        <tr>I saw a little bird in a tree and an eagle on a rock.</tr>
+                        <ref text="617">td. 236</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>

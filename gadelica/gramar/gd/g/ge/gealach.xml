@@ -12,9 +12,19 @@
             <p><g>gealach <a href="?gd=laan">làn</a></g>
                 <en>a full moon</en> – <xl>
                     <li>
-                        <gd>Tha a’ ghealach làn a nochd.</gd>
+                        <gd>Tha a’ ghealach làn an nochd.</gd>
                         <tr>The moon is full tonight.</tr>
                         <ref text="617">td. 236</ref>
+                    </li>
+                    <li>
+                        <gd>Am bi a’ ghealach làn an nochd? Cha bhi.</gd>
+                        <tr>Will the moon be full tonight? No, it won’t.</tr>
+                        <ref text="617">td. 53</ref>
+                    </li>
+                    <li>
+                        <gd>Cuin a bhitheas a’ ghealach làn? Cha bhi gus am màireach.</gd>
+                        <tr>When will the moon be full? It won’t until tomorrow.</tr>
+                        <ref text="617">td. 239</ref>
                     </li>
                 </xl>
             </p>

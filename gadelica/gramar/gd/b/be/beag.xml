@@ -38,6 +38,11 @@
                         <tr>Who is in the tree? The little boy is.</tr>
                         <ref text="617">td. 40</ref>
                     </li>
+                    <li>
+                        <gd>Nigh an gille beag a làmhan.</gd>
+                        <tr>The little boy washed his hands.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
                 </xl>
             </p>
         </module>
@@ -79,6 +84,18 @@
                         <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
                         <tr>Malcolm has a big black dog but Mary has a pretty little cat.</tr>
                         <ref text="617">td. 25</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="eun">
+            <h>eun</h>
+            <p><g><a href="?gd=eun">eun</a> beag</g>
+                <en>a little bird</en> – <xl>
+                    <li>
+                        <gd>Chunnaic mi eun beag ann an craoibh agus iolair air creig.</gd>
+                        <tr>I saw a little bird in a tree and an eagle on a rock.</tr>
+                        <ref text="617">td. 236</ref>
                     </li>
                 </xl>
             </p>

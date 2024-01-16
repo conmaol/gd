@@ -16,6 +16,11 @@
                         <tr>It’s a good day today.</tr>
                         <ref text="617">td. 12</ref>
                     </li>
+                    <li>
+                        <gd>Ma bhitheas latha math ann am màireach, thèid sinn do’n mhonadh.</gd>
+                        <tr>If it is a good day tomorrow, we shall go to the moor.</tr>
+                        <ref text="617">td. 50</ref>
+                    </li>
                 </xl></p>
         </module>
         <module id="briagha">
@@ -53,6 +58,11 @@
                         <gd>A bheil an latha fuar?</gd>
                         <tr>Is the day cold?</tr>
                         <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>Bha an latha fuar agus cha do dh’fhàg sinn an taigh.</gd>
+                        <tr>The day was cold and we did not leave the house.</tr>
+                        <ref text="617">td. 238</ref>
                     </li>
                 </xl></p>
         </module>
