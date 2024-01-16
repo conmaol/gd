@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>làn</h>
+    <p><g>làn</g>
+        <en>full</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+
+    <section>
+        <h>nouns</h>
+        <module id="gealach">
+            <h>gealach</h>
+            <p><g><a href="?gd=gealach">gealach</a> làn</g>
+                <en>a full moon</en> – <xl>
+                    <li>
+                        <gd>Tha a’ ghealach làn a nochd.</gd>
+                        <tr>The moon is full tonight.</tr>
+                        <ref text="617">td. 236</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+
+</module>

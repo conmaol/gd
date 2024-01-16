@@ -4,12 +4,66 @@
     <p><g>dath</g>
         <en>a colour</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
-    
-    
-    gorm
-    geal
-    tubhailte
-    
-    
-</module>
 
+
+    <section>
+        <h>adjectives</h>
+        <module id="gorm">
+            <h>gorm</h>
+            <p><g>dath <a href="?gd=gorm">gorm</a></g>
+                <en>[the] colour blue</en> – <xl>
+                    <li>
+                        <gd>An ann geal a tha an tubhailte seo? Chan ann. Dé an dath a tha air an
+                            tubhailte? Tha dath gorm. Alasdair, an e dath gorm a tha air an
+                            tubhailte? ’S e.</gd>
+                        <tr>Is this tablecloth white? No, it isn’t. What colour is the tablecloth?
+                            It is blue. Alexander – is the colour of the tablecloth blue? Yes, it
+                            is.</tr>
+                        <ref text="617">td. 35</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="geal">
+            <h>geal</h>
+            <p><g>dath <a href="?gd=geal">geal</a></g>
+                <en>[the] colour white</en> – <xl>
+                    <li>
+                        <gd>An ann geal a tha an tubhailte seo? Chan ann. Dé an dath a tha air an
+                            tubhailte? Tha dath gorm. Alasdair, an e dath gorm a tha air an
+                            tubhailte? ’S e.</gd>
+                        <tr>Is this tablecloth white? No, it isn’t. What colour is the tablecloth?
+                            It is blue. Alexander – is the colour of the tablecloth blue? Yes, it
+                            is.</tr>
+                        <ref text="617">td. 35</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+
+
+
+
+    <section>
+        <h>nouns</h>
+        <module id="tubhailte">
+            <h>tubhailte</h>
+            <p><g>dath air <a href="?gd=tubhailte">tubhailte</a></g>
+                <en>[the] colour of a tablecloth</en> – <xl>
+                    <li>
+                        <gd>An ann geal a tha an tubhailte seo? Chan ann. Dé an dath a tha air an
+                            tubhailte? Tha dath gorm. Alasdair, an e dath gorm a tha air an
+                            tubhailte? ’S e.</gd>
+                        <tr>Is this tablecloth white? No, it isn’t. What colour is the tablecloth?
+                            It is blue. Alexander – is the colour of the tablecloth blue? Yes, it
+                            is.</tr>
+                        <ref text="617">td. 35</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>

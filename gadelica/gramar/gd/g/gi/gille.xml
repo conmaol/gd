@@ -21,6 +21,11 @@
                         <tr>Is the little boy in the school? No, he isn’t.</tr>
                         <ref text="617">td. 14 [227]</ref>
                     </li>
+                    <li>
+                        <gd>Có tha anns a’ chraoibh? Tha an gille beag.</gd>
+                        <tr>Who is in the tree? The little boy is.</tr>
+                        <ref text="617">td. 40</ref>
+                    </li>
                 </xl></p>
         </module>
         <module id="moor">
@@ -50,56 +55,30 @@
 
     <section>
         <h>prepositions</h>
-        <section>
-            <h>subject</h>
-            <p><g>gille</g> can be the (deep) subject of certain <a
-                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
-            <module id="gille_aig">
-                <h>gille aig ...</h>
-                <p><g>gille <a href="?gd=aig">aig</a> ...</g>
-                    <en>a boy at ...</en>.</p>
-                <module>
-                    <h>gille aig dorus</h>
-                    <p><g>gille aig <a href="?gd=dorus">dorus</a></g>
-                        <en>a boy at a door</en> – <xl>
-                            <li>
-                                <gd>Cha robh an gille aig an dorus.</gd>
-                                <tr>The boy was not at the door.</tr>
-                                <ref text="617">td. 15</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-            <module id="gille_ann_an">
-                <h>gille ann an ...</h>
-                <p><g>gille <a href="?gd=an^preposition">ann an</a> ...</g>
-                    <en>a boy in ...</en>.</p>
-                <module>
-                    <h>gille ann an sgoil</h>
-                    <p><g>gille ann an <a href="?gd=sgoil">sgoil</a></g>
-                        <en>a boy in a school</en> – <xl>
-                            <li>
-                                <gd>A bheil an gille beag anns an sgoil? Chan eil.</gd>
-                                <tr>Is the little boy in the school? No, he isn’t.</tr>
-                                <ref text="617">td. 14 [227]</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
-        <section>
-            <h>object</h>
-            <p><g>gille</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                    >prepositions</a>.</p>
-            <module id="air_gille">
-                <h>... air gille</h>
-                <p><g>... <a href="?gd=air">air</a> gille</g>
-                    <en>... on a boy</en>. </p>
-
-            </module>
-        </section>
+        <module id="dorus">
+            <h>dorus</h>
+            <p><g>gille aig <a href="?gd=dorus">dorus</a></g>
+                <en>a boy at a door</en> – <xl>
+                    <li>
+                        <gd>Cha robh an gille aig an dorus.</gd>
+                        <tr>The boy was not at the door.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="sgoil">
+            <h>sgoil</h>
+            <p><g>gille ann an <a href="?gd=sgoil">sgoil</a></g>
+                <en>a boy in a school</en> – <xl>
+                    <li>
+                        <gd>A bheil an gille beag anns an sgoil? Chan eil.</gd>
+                        <tr>Is the little boy in the school? No, he isn’t.</tr>
+                        <ref text="617">td. 14 [227]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
     <section>

@@ -45,6 +45,19 @@
                 </xl>
             </p>
         </module>
+        <module id="coota">
+            <h>còta</h>
+            <p><g><a href="?gd=coota">còta</a> dubh</g>
+                <en>a black coat</en> – <xl>
+                    <li>
+                        <gd>Tha còta dubh air a’ chaileig seo ach ’s e còta dearg a tha air
+                            Màiri.</gd>
+                        <tr>This girl has a black coat on but it’s a red coat that Mary has on.</tr>
+                        <ref text="617">td. 40</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 

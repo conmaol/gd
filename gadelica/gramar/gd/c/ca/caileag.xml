@@ -2,7 +2,8 @@
 <module>
     <h>caileag</h>
     <p><g>caileag</g>
-        <en>a girl</en> is a feminine <a href="?xx=nouns/common_nouns">common noun</a><!--with diminutive derivational suffix <a
+        <en>a girl</en> is a feminine <a href="?xx=nouns/common_nouns">common
+        noun</a><!--with diminutive derivational suffix <a
             href="?gd=_ag"><g>-(e)ag</g></a>-->.</p>
 
     <section>
@@ -21,28 +22,33 @@
     </section>
 
     <section>
-        <h>prepositions</h>
-        <section>
-            <h>subject</h>
-            <p><g>caileag</g> can be the (deep) subject of certain <a
-                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
-            <module id="caileag_an">
-                <h>caileag ann an ...</h>
-                <p><g>caileag <a href="?gd=an^preposition">ann an</a> ...</g>
-                    <en>a girl in ...</en>.</p>
-                <module>
-                    <h>caileag ann an sgoil</h>
-                    <p><g>caileag ann an <a href="?gd=sgoil">sgoil</a></g>
-                    <en>a girl in a school</en> – <xl>
-                        <li>
-                            <gd>Bha a’ chaileag bheag anns an sgoil.</gd>
-                            <tr>The little girl was in the school.</tr>
-                            <ref text="617">td. 15 [228]</ref>
-                        </li>
-                    </xl>
-                </p></module>
-            </module>
-        </section>
+        <h>nouns</h>
+        <module id="sgoil">
+            <h>sgoil</h>
+            <p><g>caileag ann an <a href="?gd=sgoil">sgoil</a></g>
+                <en>a girl in a school</en> – <xl>
+                    <li>
+                        <gd>Bha a’ chaileag bheag anns an sgoil.</gd>
+                        <tr>The little girl was in the school.</tr>
+                        <ref text="617">td. 15 [228]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="coota">
+            <h>còta</h>
+            <p>
+                <g><a href="?gd=coota">còta</a> air caileag</g>
+                <en>a coat on a girl, a girl with a coat on</en> – <xl>
+                    <li>
+                        <gd>Tha còta dubh air a’ chaileig seo ach ’s e còta dearg a tha air
+                            Màiri.</gd>
+                        <tr>This girl has a black coat on but it’s a red coat that Mary has on.</tr>
+                        <ref text="617">td. 40</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
     <section>

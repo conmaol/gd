@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>gealach</h>
+    <p><g>gealach</g>
+        <en>a moon</en> is a feminine <!--<a href="?xx=nouns/temporal_unit_nouns">temporal unit</a>-->
+        <a href="?xx=nouns/common_nouns">common noun</a>.</p>
+    
+    <section>
+        <h>adjectives</h>
+        <module id="laan">
+            <h>làn</h>
+            <p><g>gealach <a href="?gd=laan">làn</a></g>
+                <en>a full moon</en> – <xl>
+                    <li>
+                        <gd>Tha a’ ghealach làn a nochd.</gd>
+                        <tr>The moon is full tonight.</tr>
+                        <ref text="617">td. 236</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+</module>
+

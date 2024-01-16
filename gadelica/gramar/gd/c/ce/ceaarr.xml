@@ -18,6 +18,18 @@
                 </xl>
             </p>
         </module>
+        <module id="glais">
+            <h>glais</h>
+            <p>
+                <xl>
+                    <li>
+                        <gd>Tha rudeigin ceàrr air a’ ghlais seo.</gd>
+                        <tr>Something is wrong with this lock.</tr>
+                        <ref text="617">td. 41</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 
