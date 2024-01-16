@@ -6,7 +6,7 @@
     adjective</a>.</p>
 
   <section>
-    <h>nouns</h>
+    <h>subjects</h>
     <!--<module id="duine_moor">
       <h>duine mór</h>
       <p><g><a href="?gd=duine">duine</a> mór</g>
@@ -94,6 +94,19 @@
         </xl>
       </p>
     </module>
+    <module id="eilean">
+      <h>eilean</h>
+      <p><g><a href="?gd=eilean">eilean</a> mór</g>
+        <en>a large island</en> – <xl>
+          <li>
+            <gd>Tha an t-eilean mór.</gd>
+            <tr>The island is big.</tr>
+            <ref text="617">td. 243</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+
     <module id="taigh">
       <h>taigh</h>
       <p><g><a href="?gd=taigh">taigh</a> mór</g>
@@ -138,6 +151,18 @@
             <gd>Tha an teine mór.</gd>
             <tr>The fire is big.</tr>
             <ref text="617">td. 6</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <module id="eallach">
+      <h>eallach</h>
+      <p><g><a href="?gd=eallach">eallach</a> mór</g>
+        <en>a great burden</en> – <xl>
+          <li>
+            <gd>Tha an t-eallach sin mór.</gd>
+            <tr>That load is big.</tr>
+            <ref text="617">td. 60</ref>
           </li>
         </xl>
       </p>

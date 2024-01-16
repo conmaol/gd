@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>eallach</h>
+    <p><g>eallach</g>
+        <en>a burden, a load</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
+    
+    <section>
+        <h>adjectives</h>
+        <module id="moor">
+            <h>mór</h>
+            <p><g>eallach <a href="?gd=moor">mór</a></g>
+                <en>a great burden</en> – <xl>
+                    <li>
+                        <gd>Tha an t-eallach sin mór.</gd>
+                        <tr>That load is big.</tr>
+                        <ref text="617">td. 60</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+    
+</module>
+

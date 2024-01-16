@@ -128,9 +128,9 @@
                 <en>heroic</en> – <slen/> trèin(e)</li>-->
             <li><a href="?gd=trang"><g>trang</g></a>
                 <en>busy</en></li>
-            <!--<li><g>trom</g>
-                <en>heavy</en> – <slen/> truim(e)</li>
-            <li><g>ùr</g>
+            <li><a href="?gd=trom"><g>trom</g></a>
+                <en>heavy</en> – <slen/> <g>truim(e)</g></li>
+            <!--<li><g>ùr</g>
                 <en>new</en></li>-->
         </ul>
     </p>
@@ -139,16 +139,20 @@
     <!-- <section id="poly">
         <h>polysyllabic</h> -->
     <p>List of polysyllabic simple adjectives – <ul>
+            <li><a href="?gd=abaich"><g>abaich</g></a>
+                <en>ripe</en></li>
             <li><a href="?gd=booidheach"><g>bòidheach</g></a>
                 <en>pretty</en>
                 <slen/> bòidhich(e)</li>
             <li><a href="?gd=briagha"><g>briagha</g></a>
                 <en>fine, beautiful, lovely</en></li>
-            <!--
-                <li><g>fada</g>
+            <li><a href="?gd=dorcha"><g>dorcha</g></a>
+                <en>dark</en></li>
+                <li><a href="?gd=fada"><g>fada</g></a>
                     <en>long</en>
-                    <slen/>
-                    <m>faid(e)</m></li>
+                    <!--<slen/>
+                    <m>faid(e)</m>--></li>
+                    <!--
                 <li><g>gasta</g>
                     <en>handsome</en></li>
                 <li><g>grànda</g>

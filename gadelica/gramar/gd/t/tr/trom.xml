@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>trom</h>
+    <p><g>trom</g>
+        <en>heavy</en> is a <a href="?xx=adjectives/simple_adjectives">simple
+            adjective</a>.</p>
+    
+    <section>
+        <h>nouns</h>
+        <module id="oord">
+            <h>òrd</h>
+            <p><g><a href="?gd=oord">òrd</a> trom</g>
+                <en>a heavy hammer</en> – <xl>
+                    <li>
+                        <gd>Tha an t-òrd trom.</gd>
+                        <tr>The hammer is heavy.</tr>
+                        <ref text="617">td. 243</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+</module>
+

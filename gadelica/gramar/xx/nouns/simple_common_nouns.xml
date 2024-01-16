@@ -23,9 +23,12 @@
         <en>a field</en>
         <!--<pl/>
         <g>achaidhean</g>--></li>
-    <li><a href="?gd=aimsir"><g>aimsir</g></a>
-      <fem/>
-      <en>weather</en></li>
+      <li><a href="?gd=adhar"><g>adhar</g></a>
+        <masc/>
+        <en>sky</en></li>
+      <li><a href="?gd=aimsir"><g>aimsir</g></a>
+        <fem/>
+        <en>weather</en></li>
       <!--
       <li><m>airgead</m> masc. <en>silver</en></li>
       <li><a href="?gd=aithne">aithne</a>
@@ -40,6 +43,12 @@
         <en>father</en> gen. <g>athar</g> pl. <g>athraichean</g></li>
       <li><m>baga</m> masc. <en>bag</en> pl. <b>bagaichean</b></li>
       -->
+      <li><a href="?gd=arbhar"><g>arbhar</g></a>
+        <masc/>
+        <en>corn</en></li>
+    <li><a href="?gd=astar"><g>astar</g></a>
+      <masc/>
+      <en>distance</en></li>
       <li><a href="?gd=baile"><g>baile</g></a>
         <masc/>
         <en>a town</en>
@@ -199,9 +208,9 @@
       <li><a href="?gd=dachaidh"><g>dachaidh</g></a>
         <fem/>
         <en>a home</en></li>
-    <li><a href="?gd=dath"><g>dath</g></a>
-      <masc/>
-      <en>a colour</en></li>
+      <li><a href="?gd=dath"><g>dath</g></a>
+        <masc/>
+        <en>a colour</en></li>
       <!--<li><m>dealbh</m> fem. <en>picture</en> gen. <b>deilbhe</b>, <b>dealbha</b></li>
       <li><m>deoch</m> fem. <en>drink</en> gen. <b>dighe</b>, <b>dibhe</b></li>
       <li><a href="?gd=dìcheall">dìcheall</a>
@@ -224,6 +233,12 @@
       <li><a href="?gd=each"><g>each</g></a>
         <masc/>
         <en>a horse</en></li>
+    <li><a href="?gd=eallach"><g>eallach</g></a>
+      <masc/>
+      <en>a burden, a load</en></li>
+    <li><a href="?gd=eilean"><g>eilean</g></a>
+      <masc/>
+      <en>an island</en></li>
       <!--
       <li><a href="?gd=eachdraidh"><g>eachdraidh</g></a>
         <fem/>
@@ -235,9 +250,9 @@
         <masc/>
         <en>bishop</en></li>
         -->
-    <li><a href="?gd=eun"><g>eun</g></a>
-      <masc/>
-      <en>a bird</en></li>
+      <li><a href="?gd=eun"><g>eun</g></a>
+        <masc/>
+        <en>a bird</en></li>
       <li><a href="?gd=falt"><g>falt</g></a>
         <masc/>
         <en>hair</en>
@@ -348,6 +363,9 @@
         <g>obrach</g>
         <pl/>
         <g>obraichean</g></li>
+    <li><a href="?gd=oord"><g>òrd</g></a>
+      <masc/>
+      <en>hammer</en></li>
       <!--
       <li><a href="?gd=oifig"><g>oifig</g></a>
         <fem/>

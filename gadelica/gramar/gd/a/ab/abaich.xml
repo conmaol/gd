@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>abaich</h>
+    <p><g>abaich</g>
+        <en>ripe</en> is a <a href="?xx=adjectives/simple_adjectives">simple
+            adjective</a>.</p>
+    
+    <section>
+        <h>nouns</h>
+        <module id="arbhar">
+            <h>arbhar</h>
+            <p><g><a href="?gd=arbhar">arbhar</a> abaich</g> <en>ripe corn</en> –
+                <xl>
+                    <li>
+                        <gd>Tha an t-arbhar abaich.</gd>
+                        <tr>The corn is ripe.</tr>
+                        <ref text="617">td. 59</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+    
+    
+</module>
+

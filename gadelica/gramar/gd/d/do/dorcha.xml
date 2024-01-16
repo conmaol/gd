@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>dorcha</h>
+    <p><g>dorcha</g>
+        <en>dark</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+
+    <section>
+        <h>nouns</h>
+        <module id="adhar">
+            <h>adhar</h>
+            <p><g><a href="?gd=adhar">adhar</a> dorcha</g>
+                <en>a dark sky</en> – <xl>
+                    <li>
+                        <gd>Tha an t-adhar a’ coimhead dorcha an diugh.</gd>
+                        <tr>The sky is looking dark today.</tr>
+                        <ref text="617">td. 59</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>

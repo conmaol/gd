@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>fada</h>
+    <p><g>fada</g>
+        <en>long</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+
+    <section>
+        <h>nouns</h>
+        <module id="astar">
+            <h>astar</h>
+            <p><g><a href="?gd=astar">astar</a> fada</g>
+                <en>a long distance</en> – <xl>
+                    <li>
+                        <gd>Bha an t-astar fada agus tha sinn sgìth.</gd>
+                        <tr>The distance was long and we are tired.</tr>
+                        <ref text="617">td. 60</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>
