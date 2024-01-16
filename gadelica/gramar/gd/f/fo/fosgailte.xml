@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>fosgailte</h>
+    <p><g>fosgailte</g>
+        <en>open</en> is an adjective.</p>
+
+    <section>
+        <h>nouns</h>
+        <module id="dorus">
+            <h>dorus</h>
+            <p><g><a href="?gd=dorus">dorus</a> fosgailte</g>
+                <en>an open door</en> – <xl>
+                    <li>
+                        <gd>An do chum thu an dorus fosgailte? Cha do chum.</gd>
+                        <tr>Did you keep the door open? No, I didn’t.</tr>
+                        <ref text="617">td. 56</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+
+</module>
