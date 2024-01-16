@@ -6,43 +6,39 @@
             common noun</a>.</p>
 
     <section>
-        <h>prepositions</h>
-        <section>
-            <h>object</h>
-            <p><g>bòrd</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                    >prepositions</a>.</p>
-            <module id="air_boord">
-                <h>... air bòrd</h>
-                <p><g>... <a href="?gd=air">air</a> bòrd</g>
-                    <en>... on a table</en>. </p>
-                <module>
-                    <h>[nì] air bòrd</h>
-                    <p><g>[nì] air bòrd</g>
-                        <en>[something] on a table</en> – <xl>
-                            <li>
-                                <gd>Tha an leabhar air a’ bhòrd.</gd>
-                                <tr>The book is on the table.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                            <li>
-                                <gd>Tha am bocsa air a’ bhòrd. Có chuir am bocsa air a’ bhòrd? Chuir
-                                    Màiri.</gd>
-                                <tr>The box is on the table. Who put the box on the table? Mary
-                                    did.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
+        <h>nouns</h>
+        <module id="leabhar">
+            <h>leabhar</h>
+            <p><g><a href="?gd=leabhar">leabhar</a> air bòrd</g>
+                <en>a book on a table</en> – <xl>
+                    <li>
+                        <gd>Tha an leabhar air a’ bhòrd.</gd>
+                        <tr>The book is on the table.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="bocsa">
+            <h>bocsa</h>
+            <p><g><a href="?gd=bocsa">bocsa</a> air bòrd</g>
+                <en>a box on a table</en> – <xl>
+                    <li>
+                        <gd>Tha am bocsa air a’ bhòrd. Có chuir am bocsa air a’ bhòrd? Chuir
+                            Màiri.</gd>
+                        <tr>The box is on the table. Who put the box on the table? Mary did.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
     <section>
         <h>verbs</h>
-        <section>
-            <h>locative</h>
-            <module id="cuir">
+        <!--<section>
+            <h>locative</h>--> <!-- goal? -->
+            <module id="cuir"> <!-- actions? -->
                 <h>cuir</h>
                 <p><g><a href="?gd=cuir">cuir</a> ... air bòrd</g>
                     <en>puts ... on a table</en> – <xl>
@@ -53,7 +49,7 @@
                         </li>
                     </xl></p>
             </module>
-        </section>
+        <!--</section>-->
     </section>
 
     <!--<section>

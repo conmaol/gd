@@ -6,68 +6,78 @@
         noun</a>.</p>
 
     <section>
-        <h>prepositions</h>
-        <section>
+        <h>nouns</h>
+        <!--<section>
             <h>subject</h>
             <p><g>bocsa</g> can be the (deep) subject of certain <a
-                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
-            <module id="bocsa_air">
-                <h>bocsa air ...</h>
-                <p><g>bocsa <a href="?gd=air">air</a> ...</g>
-                    <en>a box on ...</en>.</p>
-                <module>
-                    <h>bocsa air bòrd</h>
-                    <p><g>bocsa air <a href="?gd=boord">bòrd</a></g>
-                        <en>a box on a table</en> – <xl>
-                            <li>
-                                <gd>Càit a bheil am bocsa? Tha am bocsa air a’ bhòrd.</gd>
-                                <tr>Where is the box? The box is on the table.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                            <li>
-                                <gd>Có chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
-                                <tr>Who put the box on the table? Mary did.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
-        <section>
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>-->
+        <module id="boord">
+            <h>bocsa</h>
+            <p><g>bocsa air <a href="?gd=boord">bòrd</a></g>
+                <en>a box on a table</en> – <xl>
+                    <li>
+                        <gd>Càit a bheil am bocsa? Tha am bocsa air a’ bhòrd.</gd>
+                        <tr>Where is the box? The box is on the table.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Có chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
+                        <tr>Who put the box on the table? Mary did.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <!--</section>-->
+        <!-- <section>
             <h>object</h>
             <p><g>bocsa</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                    >prepositions</a>.</p>
-            <module id="ann_am_bocsa">
-                <h>... ann am bocsa</h>
-                <p><g>... <a href=">gd=an^preposition">ann am</a> bocsa</g>
-                    <en>... in a box</en>. </p>
-                <module>
-                    <h>[nì] ann am bocsa</h>
-                    <p><g>[nì] ann am bocsa</g>
-                        <en>[something] in a box</en> – <xl>
-                            <li>
-                                <gd>Dé tha anns a’ bhocsa sin? Tha uighean anns a’ bhocsa.</gd>
-                                <tr>What is in that box? There are eggs in the box.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                            <li>
-                                <gd>Nach robh leabhar anns a’ bhocsa sin? Bha. Bha Bìobull ann.</gd>
-                                <tr>Wasn’t there a book in that box? Yes, there was. There was a
-                                    Bible (in it).</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
+                    >prepositions</a>.</p>-->
+        <module id="ugh">
+            <h>ugh</h>
+            <p><g><a href="?gd=ugh">ugh</a> ann am bocsa</g>
+                <en>an egg in a box</en> – <xl>
+                    <li>
+                        <gd>Dé tha anns a’ bhocsa sin? Tha uighean anns a’ bhocsa.</gd>
+                        <tr>What is in that box? There are eggs in the box.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="leabhar">
+            <h>leabhar</h>
+            <p><g><a href="?gd=leabhar">leabhar</a> ann am bocsa</g>
+                <en>a book in a box</en> – <xl>
+                    <li>
+                        <gd>Nach robh leabhar anns a’ bhocsa sin? Bha. Bha Bìobull ann.</gd>
+                        <tr>Wasn’t there a book in that box? Yes, there was. There was a Bible (in
+                            it).</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="biiobull">
+            <h>Bìobull</h>
+            <p><g><a href="?gd=biiobull">Bìobull</a> ann am bocsa</g>
+                <en>a Bible in a box</en> – <xl>
+                    <li>
+                        <gd>Nach robh leabhar anns a’ bhocsa sin? Bha. Bha Bìobull ann.</gd>
+                        <tr>Wasn’t there a book in that box? Yes, there was. There was a Bible (in
+                            it).</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <!--</section>-->
     </section>
 
     <section>
         <h>verbs</h>
-        <section>
-            <h>object</h>
+       <!-- <section>
+            <h>object</h>-->
             <module id="cuir">
                 <h>cuir</h>
                 <p><g><a href="?gd=cuir">cuir</a> bocsa ...</g>
@@ -79,7 +89,7 @@
                         </li>
                     </xl></p>
             </module>
-        </section>
+        <!--</section>-->
     </section>
 
 

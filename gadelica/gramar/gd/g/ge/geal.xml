@@ -4,9 +4,39 @@
     <p><g>geal</g>
         <en>white</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
 
-   
+    <section>
+        <h>nouns</h>
+        <module id="taigh">
+            <h>taigh</h>
+            <p><g><a href="?gd=taigh">taigh</a> geal</g>
+                <en>a white house</en> – <xl>
+                    <li>
+                        <gd>Cha b’ann geal a bha an taigh.</gd>
+                        <tr>The house was not white.</tr>
+                        <ref text="617">td. 33</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="tubhailte">
+            <h>tubhailte</h>
+            <p><g><a href="?gd=tubhailte">tubhailte</a> gheal</g>
+                <en>a white tablecloth</en> – <xl>
+                    <li>
+                        <gd>An ann geal a tha an tubhailte seo? Chan ann. Dé an dath a tha air an
+                            tubhailte? Tha dath gorm.</gd>
+                        <tr>Is this tablecloth white? No, it isn’t. What colour is the tablecloth?
+                            It is blue.</tr>
+                        <ref text="617">td. 35</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
 
-   <!--
+dath
+
+    <!--
             <p>Some examples – <xl>
                     <li>
                         <gd>Tha seo dubh agus tha sin <m>geal</m>.</gd>

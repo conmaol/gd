@@ -6,17 +6,13 @@
             noun</a>.</p>
 
     <section>
-        <h>prepositions</h>
-        <section>
+        <h>nouns</h>
+       <!-- <section>
             <h>object</h>
             <p><g>botul</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                >prepositions</a>.</p>
-            <module id="ann_am_botul">
-                <h>... ann am botul</h>
-                <p><g>... <a href=">gd=an^preposition">ann am</a> botul</g>
-                    <en>... in a bottle</en>. </p>
-                <module>
-                    <h>bainne ann am botul</h>
+                >prepositions</a>.</p>-->
+                <module id="bainne">
+                    <h>bainne</h>
                     <p><g><a href="?gd=bainne">bainne</a> ann am botul</g>
                         <en>milk in a bottle</en> – <xl>
                             <li>
@@ -34,8 +30,7 @@
                         </xl>
                     </p>
                 </module>
-            </module>
-        </section>
+        <!--</section>-->
     </section>
     
                            <!-- <li>

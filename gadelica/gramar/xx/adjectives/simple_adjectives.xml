@@ -30,9 +30,9 @@
             <li><g>ceart</g>
                 <en>right</en> – <slen/> ceirt(e)</li>
                 -->
-        <li><a href="?gd=ceaarr"><g>ceàrr</g></a>
-            <en>wrong</en></li>
-                <!--
+            <li><a href="?gd=ceaarr"><g>ceàrr</g></a>
+                <en>wrong</en></li>
+            <!--
             <li><g>cian</g>
                 <en>far distant</en> – <slen/> cèin(e)</li>
             <li><g>ciar</g>
@@ -51,6 +51,8 @@
                 <en>brown</en> – <slen/> duinn(e)</li>
             <li><g>dorch</g>
                 <en>dark</en></li>-->
+            <li><a href="?gd=dearg"><g>dearg</g></a>
+                <en>red</en></li>
             <li><a href="?gd=dubh"><g>dubh</g></a>
                 <en>black</en></li>
             <!--<li><g>fial</g>
@@ -75,11 +77,11 @@
             <!--<li><g>glic</g>
                 <en>wise</en></li>
                 -->
-        <li><a href="?gd=goirt"><g>goirt</g></a>
-            <en>sore</en></li>
-                <!--
-            <li><!-\-<a href="?gd=gorm">-\-><g>gorm</g><!-\-</a>-\->
+            <li><a href="?gd=goirt"><g>goirt</g></a>
+                <en>sore</en></li>
+            <li><a href="?gd=gorm"><g>gorm</g></a>
                 <en>blue, green</en> – <slen/> guirm(e)</li>
+                <!--
             <li><!-\-<a href="?gd=làn">-\-><g>làn</g><!-\-</a>-\->
                 <en>full</en></li>
             <li><g>lom</g>
@@ -137,8 +139,9 @@
     <!-- <section id="poly">
         <h>polysyllabic</h> -->
     <p>List of polysyllabic simple adjectives – <ul>
-        <li><a href="?gd=booidheach"><g>bòidheach</g></a>
-            <en>pretty</en> <slen/> bòidhich(e)</li>
+            <li><a href="?gd=booidheach"><g>bòidheach</g></a>
+                <en>pretty</en>
+                <slen/> bòidhich(e)</li>
             <li><a href="?gd=briagha"><g>briagha</g></a>
                 <en>fine, beautiful, lovely</en></li>
             <!--

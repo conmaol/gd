@@ -6,17 +6,13 @@
             noun</a>.</p>
 
     <section>
-        <h>prepositions</h>
-        <section>
+        <h>nouns</h>
+        <!--<section>
             <h>subject</h>
             <p><g>Bìobull</g> can be the (deep) subject of certain <a
-                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
-            <module id="biiobull_an">
-                <h>Bìobull ann an ...</h>
-                <p><g>Bìobull <a href="?gd=an^preposition">ann an</a> ...</g>
-                    <en>a Bible in ...</en>.</p>
-                <module>
-                    <h>Bìobull ann am bocsa</h>
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>-->
+                <module id="bocsa">
+                    <h>bocsa</h>
                     <p><g>Bìobull ann am <a href="?gd=bocsa">bocsa</a></g>
                     <en>a Bible in a box</en> – <xl>
                         <li>
@@ -27,8 +23,7 @@
                         </li>
                     </xl>
                 </p></module>
-            </module>
-        </section>
+        <!--</section>-->
     </section>
 
 </module>

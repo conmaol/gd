@@ -7,29 +7,45 @@
 
     <section>
         <h>nouns</h>
-        <p><g>beinn</g> can be the specifier of certain other nouns.</p>
-        <module id="cliathach_na_beinne">
-            <h>cliathach na beinne</h>
-            <p><g><a href="?gd=cliathach">cliathach</a> na beinne</g>
-                <en>the side of the mountain</en>.</p>
-            <module>
-                <h>... air cliathach na beinne</h>
-                <p><g>... <a href="?gd=air">air</a> cliathach na beinne</g>
-                    <en>on the side of the mountain</en>.</p>
-                <module>
-                    <h>caora air cliathach na beinne</h>
-                    <p><g><a href="?gd=caora">caora</a> air cliathach na beinne</g>
-                        <en>a sheep on the side of the mountain</en>. <xl>
-                            <li>
-                                <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
-                                <tr>The sheep were up on the side of the mountain.</tr>
-                                <ref text="617">td. 21</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
+        <module id="cliathach">
+            <h>cliathach</h>
+            <p><g>cliathach beinne</g>
+                <en>a side of a mountain</en>. <xl>
+                    <li>
+                        <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
+                        <tr>The sheep were up on the side of the mountain.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="caora">
+            <h>caora</h>
+            <p><g><a href="?gd=caora">caora</a> air beinn</g>
+                <en>a sheep on a mountain</en>. <xl>
+                    <li>
+                        <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
+                        <tr>The sheep were up on the side of the mountain.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                </xl>
+            </p>
         </module>
     </section>
 
+<section>
+    <h>adverbs</h>
+    <module id="suas">
+        <h>suas</h>
+        <p><xl>
+                <li>
+                    <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
+                    <tr>The sheep were up on the side of the mountain.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+            </xl>
+        </p>
+    </module>
+</section>
+    
 </module>

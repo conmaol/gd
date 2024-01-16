@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>dearg</h>
+    <p><g>dearg</g>
+        <en>red</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+    
+    <section>
+        <h>nouns</h>
+        <module id="leabhar">
+            <h>leabhar</h>
+            <p><g><a href="?gd=leabhar">leabhar</a> dearg</g> <en>a red book</en> – <xl>
+                <li>
+                    <gd>A Mhàiri, ann an leatsa a tha an leabhar dearg seo? Chan an. Sin an
+                        leabhar aig Seumas. ’S ann gorm a tha an leabhar agamsa.</gd>
+                    <tr>Mary – is this read book yours? No, it isn’t. That is James’ book. My book is blue.</tr>
+                    <ref text="617">td. 33</ref>
+                </li>
+            </xl>
+            </p>
+        </module>
+    </section>
+    
+</module>
+

@@ -22,7 +22,7 @@
 
     <section>
         <h>nouns</h>
-        <module id="obair">
+        <module id="obair"> <!-- activities? -->
             <h>obair</h>
             <p><g><a href="?gd=obair">obair</a> air balla</g>
                 <en>working on a wall</en> – <xl>
@@ -34,7 +34,7 @@
                 </xl>
             </p>
         </module>
-        <module id="clachair">
+        <module id="clachair"> <!-- actors? -->
             <h>clachair</h>
             <p><g><a href="?gd=clachair">clachair</a> [ag obair air] balla</g>
                 <en>a mason [working on] a wall</en> – <xl>

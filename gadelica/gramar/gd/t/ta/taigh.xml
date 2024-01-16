@@ -23,6 +23,17 @@
                     </li>
                 </xl></p>
         </module>
+        <module id="geal">
+            <h>geal</h>
+            <p><g>taigh <a href="?gd=geal">geal</a></g>
+                <en>a white house</en> – <xl>
+                    <li>
+                        <gd>Cha b’ann geal a bha an taigh.</gd>
+                        <tr>The house was not white.</tr>
+                        <ref text="617">td. 33</ref>
+                    </li>
+                </xl></p>
+        </module>
     </section>
 
     <section>
@@ -145,18 +156,19 @@
         <section>
             <h>locative</h>
             <module id="cluich">
-            <h>cluich</h>
-            <p><g><a href="?gd=cluich">cluich</a> ann an taigh</g>
-                <en>plays in a house</en> – <xl>
-                    <li>
-                        <gd>Cha robh sinn a’ cluich anns an taigh.</gd>
-                        <tr>We were not playing in the house.</tr>
-                        <ref text="617">td. 21 [230]</ref>
-                    </li>
-                </xl></p>
-        </module></section>
+                <h>cluich</h>
+                <p><g><a href="?gd=cluich">cluich</a> ann an taigh</g>
+                    <en>plays in a house</en> – <xl>
+                        <li>
+                            <gd>Cha robh sinn a’ cluich anns an taigh.</gd>
+                            <tr>We were not playing in the house.</tr>
+                            <ref text="617">td. 21 [230]</ref>
+                        </li>
+                    </xl></p>
+            </module>
+        </section>
     </section>
-    
+
     <section>
         <h>nouns</h>
         <module id="fad">
@@ -164,15 +176,15 @@
             <p><g>ann an taigh <a href="?gd=fad">fad</a> ...</g>
                 <en>in a house all ... long</en> – <xl>
                     <li>
-                        <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an sgoil an
-                            diugh? Cha robh, bha e anns an taigh fad an latha.</gd>
-                        <tr>What is wrong with this boy? His head is sore. Was he in the school today? No, he
-                            was in the house all day long.</tr>
+                        <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an
+                            sgoil an diugh? Cha robh, bha e anns an taigh fad an latha.</gd>
+                        <tr>What is wrong with this boy? His head is sore. Was he in the school
+                            today? No, he was in the house all day long.</tr>
                         <ref text="617">td. 20</ref>
                     </li>
                 </xl>
             </p>
         </module>
     </section>
-    
+
 </module>

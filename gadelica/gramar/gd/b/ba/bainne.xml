@@ -6,34 +6,29 @@
         noun</a>.</p>
 
     <section>
-        <h>prepositions</h>
-        <section>
+        <h>nouns</h>
+        <!--<section>
             <h>subject</h>
             <p><g>bainne</g> can be the (deep) subject of certain <a
-                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
-            <module id="bainne_an">
-                <h>bainne ann an ...</h>
-                <p><g>bainne <a href="?gd=an^preposition">ann an</a> ...</g>
-                    <en>milk in ...</en>.</p>
-                <module>
-                    <h>bainne ann am botul</h>
-                    <p><g>bainne ann am <a href="?gd=botul">botul</a></g>
-                        <en>milk in a bottle</en> – <xl>
-                            <li>
-                                <gd>Tha bainne anns a’ bhotul.</gd>
-                                <tr>There is milk in the bottle.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                            <li>
-                                <gd>Nach robh bainne anns a’ bhotul? Bha.</gd>
-                                <tr>Wasn’t there milk in the bottle? Yes, there was.</tr>
-                                <ref text="617">td. 21 [229]</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>-->
+        <module id="botul">
+            <h>botul</h>
+            <p><g>bainne ann am <a href="?gd=botul">botul</a></g>
+                <en>milk in a bottle</en> – <xl>
+                    <li>
+                        <gd>Tha bainne anns a’ bhotul.</gd>
+                        <tr>There is milk in the bottle.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Nach robh bainne anns a’ bhotul? Bha.</gd>
+                        <tr>Wasn’t there milk in the bottle? Yes, there was.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <!--</section>-->
     </section>
 
 </module>

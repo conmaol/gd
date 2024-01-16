@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
-    <h>balach</h>
-    <p><g>balach</g>
-        <en>a boy</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+    <h>dath</h>
+    <p><g>dath</g>
+        <en>a colour</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
     
+    
+    gorm
+    geal
+    tubhailte
+    
+    
 </module>
-
 
