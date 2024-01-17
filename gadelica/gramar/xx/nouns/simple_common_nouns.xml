@@ -112,6 +112,9 @@
         <en>a table</en>
         <!--<slen/>
         <g>bùird</g>--></li>
+    <li><a href="?gd=brot"><g>brot</g></a>
+      <masc/>
+      <en>soup, broth</en></li>
       <li><a href="?gd=botul"><g>botul</g></a>
         <masc/>
         <en>a bottle</en></li>
@@ -438,6 +441,15 @@
         <en>a seed, seed(s)</en>
         <!--<pl/>
         <g>sgoiltean</g>--></li>
+    <li><a href="?gd=sloc"><g>sloc</g></a>
+      <masc/>
+      <en>a pit, a hollow</en></li>
+    <li><a href="?gd=solus"><g>solus</g></a>
+      <masc/>
+      <en>a light, light</en></li>
+    <li><a href="?gd=suugh"><g>sùgh</g></a>
+      <masc/>
+      <en>soup, juice</en></li>
       <!--
       <li><m>sràid</m> fem. <en>street</en></li>
       <li><m>sròn</m> fem. <en>nose</en> pl. <b>sròintean</b></li>

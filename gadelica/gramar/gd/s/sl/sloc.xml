@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>sloc</h>
+    <p><g>sloc</g>
+        <en>a pit, a hollow</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
+    
+    <section>
+        <h>states</h>
+        <module id="domhain">
+            <h>domhain</h>
+            <p><g>sloc <a href="?gd=domhain">domhain</a></g> <en>a deep pit</en> –
+            <xl>
+                <li>
+                    <gd>Tha an sloc seo domhain.</gd>
+                    <tr>This pit is deep.</tr>
+                    <ref text="617">td. 66</ref>
+                </li>
+            </xl>
+        </p></module>
+    </section>
+    
+    
+    
+</module>
+

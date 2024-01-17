@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>domhain</h>
+    <p><g>domhain</g>
+        <en>deep</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+
+    <section>
+        <h>themes</h>
+        <module id="sloc">
+            <h>sloc</h>
+            <p><g><a href="?gd=sloc">sloc</a> domhain</g>
+                <en>a deep pit</en> – <xl>
+                    <li>
+                        <gd>Tha an sloc seo domhain.</gd>
+                        <tr>This pit is deep.</tr>
+                        <ref text="617">td. 66</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>

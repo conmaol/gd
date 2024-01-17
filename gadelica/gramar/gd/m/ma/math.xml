@@ -5,7 +5,19 @@
         <en>good</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
 
     <section>
-        <h>nouns</h>
+        <h>themes</h>
+        <module id="suugh">
+            <h>sùgh</h>
+            <p><g><a href="?gd=suugh">sùgh</a> math</g> <en>good soup</en> –
+                <xl>
+                    <li>
+                        <gd>Tha an sùgh seo math.</gd>
+                        <tr>This soup is good.</tr>
+                        <ref text="617">td. 245</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="latha">
             <h>latha</h>
             <p><g><a href="?gd=latha">latha</a> math</g>

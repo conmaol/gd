@@ -48,12 +48,13 @@
             <li><g>deas</g>
                 <en>ready</en> – <slen/> deis(e)</li>
             -->
-        <li><a href="?gd=cruinn"><g>cruinn</g></a>
-            <en>round</en></li>
+            <li><a href="?gd=cruinn"><g>cruinn</g></a>
+                <en>round</en></li>
             <li><a href="?gd=dearg"><g>dearg</g></a>
                 <en>red</en></li>
             <li><a href="?gd=donn"><g>donn</g></a>
-                <en>brown</en> <slen/> duinn(e)</li>
+                <en>brown</en>
+                <slen/> duinn(e)</li>
             <li><a href="?gd=dubh"><g>dubh</g></a>
                 <en>black</en></li>
             <!--<li><g>fial</g>
@@ -148,6 +149,8 @@
                 <slen/> bòidhich(e)</li>
             <li><a href="?gd=briagha"><g>briagha</g></a>
                 <en>fine, beautiful, lovely</en></li>
+            <li><a href="?gd=domhain"><g>domhain</g></a>
+                <en>deep</en></li>
             <li><a href="?gd=dorcha"><g>dorcha</g></a>
                 <en>dark</en></li>
             <li><a href="?gd=fada"><g>fada</g></a>
