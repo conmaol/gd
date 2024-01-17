@@ -20,6 +20,18 @@
                 </xl>
             </p>
         </module>
+        <module id="donn">
+            <h>donn</h>
+            <p><g>còta <a href="?gd=donn">donn</a></g>
+                <en>a brown coat</en> – <xl>
+                    <li>
+                        <gd>Tha còta donn air an t-saighdear.</gd>
+                        <tr>The soldier has a brown coat on.</tr>
+                        <ref text="617">td. 65</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="dearg">
             <h>dearg</h>
             <p><g>còta <a href="?gd=dearg">dearg</a></g>

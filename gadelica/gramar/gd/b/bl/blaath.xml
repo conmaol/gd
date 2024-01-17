@@ -5,7 +5,7 @@
         <en>warm</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
 
     <section>
-        <h>nouns</h>
+        <h>themes</h>
         <module id="seoomar">
             <h>seòmar</h>
             <p><g><a href="?gd=seoomar">seòmar</a> blàth</g>
@@ -31,6 +31,30 @@
                         <gd>Tha latha briagha blàth ann.</gd>
                         <tr>It is a beautiful warm day.</tr>
                         <ref text="617">td. 14 [228] [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="samhradh">
+            <h>samhradh</h>
+            <p><g><a href="?gd=samhradh">samhradh</a> blàth</g>
+                <en>a warm summer</en> – <xl>
+                    <li>
+                        <gd>Tha an samhradh blàth.</gd>
+                        <tr>The summer is warm.</tr>
+                        <ref text="617">td. 65</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="aimsir">
+            <h>aimsir</h>
+            <p><g><a href="?gd=aimsir">aimsir</a> bhlàth</g>
+                <en>warm weather</en> – <xl>
+                    <li>
+                        <gd>Bha an aimsir blàth am bliadhna.</gd>
+                        <tr>The weather was warm this year.</tr>
+                        <ref text="617">td. 62</ref>
                     </li>
                 </xl>
             </p>

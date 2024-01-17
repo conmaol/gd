@@ -6,7 +6,7 @@
             noun</a>.</p>
 
     <section>
-        <h>adjectives</h>
+        <h>states</h>
         <module id="math">
             <h>math</h>
             <p><g>aimsir <a href="?gd=math">mhath</a></g>
@@ -16,6 +16,18 @@
                             math.</gd>
                         <tr>Malcolm will be on the moor tomorrow if the weather is good.</tr>
                         <ref text="617">td. 239–40</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="blaath">
+            <h>blàth</h>
+            <p><g>aimsir <a href="?gd=blaath">bhlàth</a></g>
+                <en>warm weather</en> – <xl>
+                    <li>
+                        <gd>Bha an aimsir blàth am bliadhna.</gd>
+                        <tr>The weather was warm this year.</tr>
+                        <ref text="617">td. 62</ref>
                     </li>
                 </xl>
             </p>

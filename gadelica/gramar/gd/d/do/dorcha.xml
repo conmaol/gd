@@ -5,7 +5,7 @@
         <en>dark</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
 
     <section>
-        <h>nouns</h>
+        <h>themes</h>
         <module id="adhar">
             <h>adhar</h>
             <p><g><a href="?gd=adhar">adhar</a> dorcha</g>
@@ -14,6 +14,18 @@
                         <gd>Tha an t-adhar a’ coimhead dorcha an diugh.</gd>
                         <tr>The sky is looking dark today.</tr>
                         <ref text="617">td. 59</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="iarmailt">
+            <h>iarmailt</h>
+            <p><g><a href="?gd=iarmailt">iarmailt</a> dhorcha</g>
+                <en>a dark sky</en> – <xl>
+                    <li>
+                        <gd>Tha an iarmailt a’ fàs dorcha.</gd>
+                        <tr>The sky is growing dark.</tr>
+                        <ref text="617">td. 62</ref>
                     </li>
                 </xl>
             </p>

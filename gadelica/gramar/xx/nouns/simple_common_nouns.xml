@@ -46,9 +46,9 @@
       <li><a href="?gd=arbhar"><g>arbhar</g></a>
         <masc/>
         <en>corn</en></li>
-    <li><a href="?gd=astar"><g>astar</g></a>
-      <masc/>
-      <en>distance</en></li>
+      <li><a href="?gd=astar"><g>astar</g></a>
+        <masc/>
+        <en>distance</en></li>
       <li><a href="?gd=baile"><g>baile</g></a>
         <masc/>
         <en>a town</en>
@@ -233,12 +233,12 @@
       <li><a href="?gd=each"><g>each</g></a>
         <masc/>
         <en>a horse</en></li>
-    <li><a href="?gd=eallach"><g>eallach</g></a>
-      <masc/>
-      <en>a burden, a load</en></li>
-    <li><a href="?gd=eilean"><g>eilean</g></a>
-      <masc/>
-      <en>an island</en></li>
+      <li><a href="?gd=eallach"><g>eallach</g></a>
+        <masc/>
+        <en>a burden, a load</en></li>
+      <li><a href="?gd=eilean"><g>eilean</g></a>
+        <masc/>
+        <en>an island</en></li>
       <!--
       <li><a href="?gd=eachdraidh"><g>eachdraidh</g></a>
         <fem/>
@@ -290,6 +290,9 @@
       <li><a href="?gd=gual"><g>gual</g></a>
         <masc/>
         <en>coal</en></li>
+      <li><a href="?gd=iarmailt"><g>iarmailt</g></a>
+        <fem/>
+        <en>an eagle</en></li>
       <li><a href="?gd=iolair"><g>iolair</g></a>
         <fem/>
         <en>an eagle</en></li>
@@ -363,9 +366,9 @@
         <g>obrach</g>
         <pl/>
         <g>obraichean</g></li>
-    <li><a href="?gd=oord"><g>òrd</g></a>
-      <masc/>
-      <en>hammer</en></li>
+      <li><a href="?gd=oord"><g>òrd</g></a>
+        <masc/>
+        <en>hammer</en></li>
       <!--
       <li><a href="?gd=oifig"><g>oifig</g></a>
         <fem/>
@@ -407,8 +410,14 @@
         <g>rudan</g>--></li>
       <!--
       <li><m>rùm</m> masc. <en>room</en> pl. <b>rumannan</b></li>
-      <li><m>saoghal</m> masc. <en>world</en></li>
-      <li><a href="?gd=sagart"><g>sagart</g></a>
+      -->
+      <li><a href="?gd=samhradh"><g>samhradh</g></a>
+        <masc/>
+        <en>a summer</en></li>
+      <li><a href="?gd=saoghal"><g>saoghal</g></a>
+        <masc/>
+        <en>a world</en></li>
+      <!--<li><a href="?gd=sagart"><g>sagart</g></a>
         <masc/>
         <en>priest</en> pl. <b>sagartan</b></li>
         -->
@@ -422,6 +431,11 @@
       <li><a href="?gd=sgoil"><g>sgoil</g></a>
         <fem/>
         <en>a school</en>
+        <!--<pl/>
+        <g>sgoiltean</g>--></li>
+      <li><a href="?gd=siiol"><g>sìol</g></a>
+        <masc/>
+        <en>a seed, seed(s)</en>
         <!--<pl/>
         <g>sgoiltean</g>--></li>
       <!--
@@ -466,6 +480,9 @@
       <li><a href="?gd=tubhailte"><g>tubhailte</g></a>
         <fem/>
         <en>a tablecloth</en></li>
+      <li><a href="?gd=uamh"><g>uamh</g></a>
+        <fem/>
+        <en>a cave</en></li>
       <li><a href="?gd=ugh"><g>ugh</g></a>
         <masc/>
         <en>an egg</en>

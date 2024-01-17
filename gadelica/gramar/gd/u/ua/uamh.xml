@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>uamh</h>
+    <p><g>uamh</g>
+        <en>a cave</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple
+            common noun</a>.</p>
+    
+    <section>
+        <h>states</h>
+        <module id="moor">
+            <h>mór</h>
+            <p><g>uamh <a href="?gd=moor">mhór</a></g> <en>a big cave</en> –
+                <xl>
+                    <li>
+                        <gd>Tha an uamh seo mór.</gd>
+                        <tr>This cave is big.</tr>
+                        <ref text="617">td. 62</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+</module>
+

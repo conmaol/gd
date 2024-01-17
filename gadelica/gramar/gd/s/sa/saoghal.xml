@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>saoghal</h>
+    <p><g>saoghal</g>
+        <en>a world</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple
+            common noun</a>.</p>
+    
+    <section>
+        <h>states</h>
+        <module id="cruinn">
+            <h>cruinn</h>
+            <p><g>saoghal <a href="?gd=cruinn">cruinn</a></g> <en>a round world</en> –
+                <xl>
+                    <li>
+                        <gd>Tha an saoghal cruinn.</gd>
+                        <tr>The world is round.</tr>
+                        <ref text="617">td. 65</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+</module>
+

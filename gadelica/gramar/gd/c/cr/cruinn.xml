@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>cruinn</h>
+    <p><g>cruinn</g>
+        <en>round</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+    
+    <section>
+        <h>themes</h>
+        <module id="saoghal">
+            <h>saoghal</h>
+            <p><g><a href="?gd=saoghal">saoghal</a> cruinn</g> <en>a round world</en> –
+                <xl>
+                    <li>
+                        <gd>Tha an saoghal cruinn.</gd>
+                        <tr>The world is round.</tr>
+                        <ref text="617">td. 65</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+</module>
+

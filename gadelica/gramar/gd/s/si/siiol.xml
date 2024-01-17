@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
-    <h>poca</h>
-    <p><g>poca</g>
-        <en>a sack, a bag</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+    <h>sìol</h>
+    <p><g>sìol</g>
+        <en>a seed, seed(s)</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
             noun</a>.</p>
-
+    
     <section>
-        <h>predicates</h>
+        <h>states</h>
         <module id="trom">
             <h>trom</h>
-            <p><g>poca <a href="?gd=trom">trom</a></g>
-                <en>a heavy sack</en> – <xl>
+            <p><g><a href="?gd=trom">trom</a> le sìol</g>
+                <en>heavy with seed(s)</en> – <xl>
                     <li>
                         <gd>Tha am poca trom leis an t-sìol.</gd>
                         <tr>The sack is heavy with the seed(s).</tr>
@@ -19,25 +19,9 @@
                 </xl>
             </p>
         </module>
-    </section>
-
-    <section>
-        <h>themes</h>
-        <module id="cat">
-            <h>cat</h>
-            <p><g><a href="?gd=cat">cat</a> ann am poca</g>
-                <en>a cat in a sack</en> – <xl>
-                    <li>
-                        <gd>Tha an cat anns a’ phoca.</gd>
-                        <tr>The cat is in the sack.</tr>
-                        <ref text="617">td. 21 [229]</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="siiol">
-            <h>sìol</h>
-            <p><g><a href="?gd=siiol">sìol</a> ann am poca</g>
+        <module id="poca">
+            <h>poca</h>
+            <p><g>sìol ann am <a href="?gd=poca">poca</a></g>
                 <en>seeds in a sack</en> – <xl>
                     <li>
                         <gd>Tha an sìol anns a’ phoca.</gd>
@@ -53,5 +37,8 @@
             </p>
         </module>
     </section>
-
+    
+    
+    
 </module>
+

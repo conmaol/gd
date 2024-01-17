@@ -21,6 +21,18 @@
                 </xl>
             </p>
         </module>
+        <module id="saor">
+            <h>saor</h>
+            <p><g><a href="?gd=saor^n">saor</a> [ag] obair</g>
+                <en>a carpenter working</en> – <xl>
+                    <li>
+                        <gd>Tha an saor trang ag obair air an taigh.</gd>
+                        <tr>The joiner is busy working on the house.</tr>
+                        <ref text="617">td. 65</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <!--</section>-->
         <!-- <section>
             <h>object</h>-->
@@ -61,8 +73,8 @@
         </module>
         <module id="fad">
             <h>fad</h>
-            <p><g>obair <a href="?gd=fad">fad</a> ...</g> <en>working all ... long</en> –
-                <xl>
+            <p><g>obair <a href="?gd=fad">fad</a> ...</g>
+                <en>working all ... long</en> – <xl>
                     <li>
                         <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
                         <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
@@ -74,7 +86,7 @@
     </section>
 
     <section>
-        <h>adjectives</h>
+        <h>states</h>
         <module id="trang">
             <h>trang</h>
             <p><g>obair gu <a href="?gd=trang">trang</a></g>
@@ -88,6 +100,11 @@
                         <gd>Bha sinn trang ag obair.</gd>
                         <tr>We were busy working.</tr>
                         <ref text="617">td. 9 [adapted]</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an saor trang ag obair air an taigh.</gd>
+                        <tr>The joiner is busy working on the house.</tr>
+                        <ref text="617">td. 65</ref>
                     </li>
                 </xl></p>
         </module>
@@ -104,6 +121,22 @@
                         <gd>Tha Seònaid sgìth ag obair anns an achadh.</gd>
                         <tr>Janet is tired working in the field.</tr>
                         <ref text="617">td. 7 [adapted]</ref>
+                    </li>
+                    <li>
+                        <gd>Tha mi sgìth le obair.</gd>
+                        <tr>I am tired with work.</tr>
+                        <ref text="617">td. 244</ref>
+                    </li>
+                </xl></p>
+        </module>
+        <module id="trom">
+            <h>trom</h>
+            <p><g>obair <a href="?gd=trom">throm</a></g>
+                <en>heavy work</en> – <xl>
+                    <li>
+                        <gd>Tha an obair sin trom.</gd>
+                        <tr>That work is heavy.</tr>
+                        <ref text="617">td. 62</ref>
                     </li>
                 </xl></p>
         </module>
@@ -128,7 +161,7 @@
     </section>
 
 
-   <!-- <li>
+    <!-- <li>
         <gd>Tha Màiri ag <m>obair</m> agus tha Calum ag <m>obair</m>.</gd>
         <tr>Mary is working and Malcolm is working.</tr>
         <ref text="617">td. 6</ref>
@@ -137,10 +170,10 @@
 
 
 
-    
-       
-  
-        <!--<section id="uses-comp">
+
+
+
+    <!--<section id="uses-comp">
             <h>complement</h>
             <p>Like other nouns, <g>obair</g> can be used as the complement of a <a
                     href="?xx=prepositions/prepositions">preposition</a>.</p>

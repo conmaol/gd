@@ -5,7 +5,7 @@
         <en>tired</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
 
     <section>
-        <h>nouns</h>
+        <h>themes</h>
         <!--<module id="duine_sgiith">
             <h>duine sgìth</h>
             <p><g><a href="?gd=duine">duine</a> sgìth</g>
@@ -43,7 +43,7 @@
         </module>-->
         <module id="obair">
             <h>obair</h>
-            <p><g>sgìth ag <a href="?gd=obair">obair</a></g>
+            <p><g>sgìth [ag] <a href="?gd=obair">obair</a></g>
                 <en>tired working</en> – <xl>
                     <li>
                         <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an
@@ -55,6 +55,11 @@
                         <gd>Tha Seumas sgìth: tha e ag obair gu trang anns an achadh.</gd>
                         <tr>James is tired: he is working busily in the field.</tr>
                         <ref text="617">td. 7 [adapted]</ref>
+                    </li>
+                    <li>
+                        <gd>Tha mi sgìth le obair.</gd>
+                        <tr>I am tired with work.</tr>
+                        <ref text="617">td. 244</ref>
                     </li>
                 </xl>
             </p>

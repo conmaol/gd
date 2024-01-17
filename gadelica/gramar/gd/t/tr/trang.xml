@@ -38,7 +38,19 @@
     </section>-->
 
     <section>
-        <h>subjects</h>
+        <h>themes</h>
+        <module id="saor">
+            <h>saor</h>
+            <p><g><a href="?gd=saor^n">saor</a> trang</g> <en>a busy joiner</en> –
+            <xl>
+                <li>
+                    <gd>Tha an saor trang ag obair air an taigh.</gd>
+                    <tr>The joiner is busy working on the house.</tr>
+                    <ref text="617">td. 65</ref>
+                </li>
+            </xl>
+            </p>
+        </module>
         <module id="obair">
             <h>obair</h>
             <p><g><a href="?gd=obair">obair</a> gu trang</g>
@@ -52,6 +64,11 @@
                         <gd>Bha sinn trang ag obair.</gd>
                         <tr>We were busy working.</tr>
                         <ref text="617">td. 9 [adapted]</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an saor trang ag obair air an taigh.</gd>
+                        <tr>The joiner is busy working on the house.</tr>
+                        <ref text="617">td. 65</ref>
                     </li>
                 </xl>
             </p>

@@ -6,7 +6,18 @@
             noun</a>.</p>
 
     <section>
-        <h>adjectives</h>
+        <h>states</h>
+        <module id="moor">
+            <h>mór</h>
+            <p><g>seòmar <a href="?gd=moor">mór</a></g>
+                <en>a large room</en> – <xl>
+                    <li>
+                        <gd>Tha an seòmar seo mór.</gd>
+                        <tr>This room is big.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl></p>
+        </module>
         <module id="blaath">
             <h>blàth</h>
             <p><g>seòmar <a href="?gd=blaath">blàth</a></g>

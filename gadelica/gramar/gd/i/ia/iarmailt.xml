@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>iarmailt</h>
+    <p><g>iarmailt</g>
+        <en>a sky, a firmament</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple
+            common noun</a>.</p>
+
+    <section>
+        <h>states</h>
+        <module id="dorcha">
+            <h>dorcha</h>
+            <p><g>iarmailt <a href="?gd=dorcha">dhorcha</a></g>
+                <en>a dark sky</en> – <xl>
+                    <li>
+                        <gd>Tha an iarmailt a’ fàs dorcha.</gd>
+                        <tr>The sky is growing dark.</tr>
+                        <ref text="617">td. 62</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+
+</module>

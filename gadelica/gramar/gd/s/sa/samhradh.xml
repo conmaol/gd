@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>samhradh</h>
+    <p><g>samhradh</g>
+        <en>a summer</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
+    
+    <section>
+        <h>states</h>
+        <module id="blaath">
+        <h>blàth</h>
+        <p><g>samhradh <a href="?gd=blaath">blàth</a></g>
+            <en>a warm summer</en> – <xl>
+                <li>
+                    <gd>Tha an samhradh blàth.</gd>
+                    <tr>The summer is warm.</tr>
+                    <ref text="617">td. 65</ref>
+                </li>
+            </xl>
+        </p>
+    </module></section>
+    
+    
+</module>
+

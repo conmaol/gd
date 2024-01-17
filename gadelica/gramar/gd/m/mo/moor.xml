@@ -6,7 +6,7 @@
     adjective</a>.</p>
 
   <section>
-    <h>subjects</h>
+    <h>themes</h>
     <!--<module id="duine_moor">
       <h>duine mór</h>
       <p><g><a href="?gd=duine">duine</a> mór</g>
@@ -106,7 +106,18 @@
         </xl>
       </p>
     </module>
-
+    <module id="uamh">
+      <h>uamh</h>
+      <p><g><a href="?gd=uamh">uamh</a> mhór</g> <en>a big cave</en> –
+        <xl>
+          <li>
+            <gd>Tha an uamh seo mór.</gd>
+            <tr>This cave is big.</tr>
+            <ref text="617">td. 62</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
     <module id="taigh">
       <h>taigh</h>
       <p><g><a href="?gd=taigh">taigh</a> mór</g>
@@ -130,6 +141,17 @@
           </li>
         </xl>
       </p>
+    </module>
+    <module id="seoomar">
+      <h>seòmar</h>
+      <p><g><a href="?gd=seoomar">seòmar</a> mór</g>
+        <en>a large room</en> – <xl>
+          <li>
+            <gd>Tha an seòmar seo mór.</gd>
+            <tr>This room is big.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl></p>
     </module>
     <module id="dorus">
       <h>dorus</h>

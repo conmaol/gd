@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>donn</h>
+    <p><g>donn</g>
+        <en>brown</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+    
+    <section>
+        <h>themes</h>
+        <module id="coota">
+            <h>còta</h>
+            <p><g><a href="?gd=coota">còta</a> donn</g>
+                <en>a brown coat</en> – <xl>
+                    <li>
+                        <gd>Tha còta donn air an t-saighdear.</gd>
+                        <tr>The soldier has a brown coat on.</tr>
+                        <ref text="617">td. 65</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+    
+    
+</module>
+

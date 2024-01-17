@@ -2,11 +2,10 @@
 <module>
     <h>trom</h>
     <p><g>trom</g>
-        <en>heavy</en> is a <a href="?xx=adjectives/simple_adjectives">simple
-            adjective</a>.</p>
-    
+        <en>heavy</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+
     <section>
-        <h>nouns</h>
+        <h>themes</h>
         <module id="oord">
             <h>òrd</h>
             <p><g><a href="?gd=oord">òrd</a> trom</g>
@@ -19,7 +18,41 @@
                 </xl>
             </p>
         </module>
+        <module id="poca">
+            <h>poca</h>
+            <p><g><a href="?gd=poca">poca</a> trom</g>
+                <en>a heavy sack</en> – <xl>
+                    <li>
+                        <gd>Tha am poca trom leis an t-sìol.</gd>
+                        <tr>The sack is heavy with the seed(s).</tr>
+                        <ref text="617">td. 66</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="siiol">
+            <h>sìol</h>
+            <p><g>trom le <a href="?gd=siiol">sìol</a></g>
+                <en>heavy with seed(s)</en> – <xl>
+                    <li>
+                        <gd>Tha am poca trom leis an t-sìol.</gd>
+                        <tr>The sack is heavy with the seed(s).</tr>
+                        <ref text="617">td. 66</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="obair">
+            <h>obair</h>
+            <p><g><a href="?gd=obair">obair</a> throm</g>
+                <en>heavy work</en> – <xl>
+                    <li>
+                        <gd>Tha an obair sin trom.</gd>
+                        <tr>That work is heavy.</tr>
+                        <ref text="617">td. 62</ref>
+                    </li>
+                </xl></p>
+        </module>
     </section>
     
 </module>
-
