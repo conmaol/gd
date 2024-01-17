@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>suidheachan</h>
+    <p><g>suidheachan</g>
+        <en>a seat</en> is a masculine <a href="?xx=nouns/common_nouns">common
+            noun</a>.</p>
+    
+    <module id="aard">
+        <h>àrd</h>
+        <p><g>suidheachan <a href="?gd=aard">àrd</a></g>
+            <en>a high seat</en> – <xl>
+                <li>
+                    <gd>Tha an suidheachan seo ro àrd air mo shonsa.</gd>
+                    <tr>This seat is too high for me.</tr>
+                    <ref text="617">td. 245</ref>
+                </li>
+            </xl>
+        </p>
+    </module>
+    
+</module>
+

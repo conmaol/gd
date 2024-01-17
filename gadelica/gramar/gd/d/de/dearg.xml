@@ -31,6 +31,18 @@
                 </xl>
             </p>
         </module>
+        <module id="snaath">
+            <h>snàth</h>
+            <p><g><a href="?gd=snaath">snàth</a> dearg</g>
+                <en>a red thread</en> – <xl>
+                    <li>
+                        <gd>Tha an snàth seo dearg.</gd>
+                        <tr>This thread is red.</tr>
+                        <ref text="617">td. 245</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
     
 </module>

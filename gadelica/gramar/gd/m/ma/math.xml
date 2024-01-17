@@ -18,6 +18,18 @@
                 </xl>
             </p>
         </module>
+        <module id="solus">
+            <h>solus</h>
+            <p><g><a href="?gd=solus">solus</a> math</g> <en>good light</en> –
+                <xl>
+                    <li>
+                        <gd>Tha solus math anns an t-seòmar seo.</gd>
+                        <tr>There is good light in this room.</tr>
+                        <ref text="617">td. 245</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="latha">
             <h>latha</h>
             <p><g><a href="?gd=latha">latha</a> math</g>

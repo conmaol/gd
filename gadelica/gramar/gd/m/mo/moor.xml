@@ -118,6 +118,18 @@
         </xl>
       </p>
     </module>
+    <module id="coota">
+      <h>còta</h>
+      <p><g><a href="?gd=coota">còta</a> mór</g> <en>a big coat</en> –
+        <xl>
+          <li>
+            <gd>Tha còta mór air an t-saighdear.</gd>
+            <tr>The soldier has a big coat on.</tr>
+            <ref text="617">td. 245</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
     <module id="taigh">
       <h>taigh</h>
       <p><g><a href="?gd=taigh">taigh</a> mór</g>

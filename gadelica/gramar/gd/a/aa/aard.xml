@@ -29,10 +29,21 @@
                         <ref text="617">td. 20</ref>
                     </li>
                     <li>
-                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc
-                            àrd.</gd>
+                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc àrd.</gd>
                         <tr>Where is the big house? The big house is on the tall hill.</tr>
                         <ref text="617">td. 21 [229]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="suidheachan">
+            <h>suidheachan</h>
+            <p><g><a href="?gd=suidheachan">suidheachan</a> àrd</g>
+                <en>a high seat</en> – <xl>
+                    <li>
+                        <gd>Tha an suidheachan seo ro àrd air mo shonsa.</gd>
+                        <tr>This seat is too high for me.</tr>
+                        <ref text="617">td. 245</ref>
                     </li>
                 </xl>
             </p>
