@@ -6,29 +6,33 @@
             noun</a>.</p>
 
     <section>
-        <h>prepositions</h>
-        <section>
-            <h>subject</h>
-            <p><g>ugh</g> can be the (deep) subject of certain <a
-                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
-            <module id="ugh_an">
-                <h>ugh ann an ...</h>
-                <p><g>ugh <a href="?gd=an^preposition">ann an</a> ...</g>
-                    <en>an egg in ...</en>.</p>
-                <module>
-                    <h>ugh ann am bocsa</h>
-                    <p><g>ugh ann am <a href="?gd=bocsa">bocsa</a></g>
-                        <en>an egg in a box</en>. <xl>
-                            <li>
-                                <gd>Dé tha anns a’ bhocsa sin? Tha uighean anns a’ bhocsa.</gd>
-                                <tr>What is in that box? There are eggs in the box.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
+        <h>states</h>
+        <module id="booidheach">
+            <h>bòidheach</h>
+            <p><g>ugh <a href="?gd=booidheach">bòidheach</a></g> <en>a pretty egg</en> –
+                <xl>
+                    <li>
+                        <gd>Fhuair Màiri nead anns an fhraoch. Bha trì uighean bòidheach anns an
+                            nead.</gd>
+                        <tr>Mary found a nest in the heather. There were three pretty eggs in the
+                            nest.</tr>
+                        <ref text="617">td. 76 [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="bocsa">
+            <h>bocsa</h>
+            <p><g>ugh ann am <a href="?gd=bocsa">bocsa</a></g>
+                <en>an egg in a box</en>. <xl>
+                    <li>
+                        <gd>Dé tha anns a’ bhocsa sin? Tha uighean anns a’ bhocsa.</gd>
+                        <tr>What is in that box? There are eggs in the box.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 </module>

@@ -4,43 +4,24 @@
     <p><g>sgìth</g>
         <en>tired</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
 
+<section>
+    <h>nouns</h>
+    <module id="duine">
+        <h>duine</h>
+        <p><g><a href="?gd=duine">duine</a> sgìth</g>
+            <en>a tired man</en> – <xl>
+                <li>
+                    <gd>Tha an duine sin sgìth.</gd>
+                    <tr>That man is tired.</tr>
+                    <ref text="617">td. 79</ref>
+                </li>
+            </xl>
+        </p>
+    </module>
+</section>
+    
     <section>
-        <h>themes</h>
-        <!--<module id="duine_sgiith">
-            <h>duine sgìth</h>
-            <p><g><a href="?gd=duine">duine</a> sgìth</g>
-                <en>a tired man</en> – <xl>
-                    <li>
-                        <gd>Tha mi glé sgìth.</gd>
-                        <tr>I am very tired.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>An robh thu sgìth? Cha robh.</gd>
-                        <tr>Were you tired? No, I wasn’t.</tr>
-                        <ref text="617">td. 16</ref>
-                    </li>
-                    <li>
-                        <gd>Bha mi sgìth nuair a ràinig mi an taigh.</gd>
-                        <tr>I was tired when I reached the house.</tr>
-                        <ref text="617">td. 21</ref>
-                    </li>
-                </xl>
-            </p>
-            <module id="tee_sgiith">
-                <h>té sgìth</h>
-                <p><g><a href="?gd=tee">té</a> sgìth</g>
-                    <en>a tired woman</en> – <xl>
-                        <li>
-                            <gd>Tha Màiri <m>sgìth</m>. Tha i <m>sgìth</m> ag obair anns an
-                                achadh.</gd>
-                            <tr>Mary is tired. She is tired working in the field.</tr>
-                            <ref text="617">td. 7</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </module>-->
+        <h>verbs</h>
         <module id="obair">
             <h>obair</h>
             <p><g>sgìth [ag] <a href="?gd=obair">obair</a></g>

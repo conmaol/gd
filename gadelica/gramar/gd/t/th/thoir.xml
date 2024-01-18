@@ -1,8 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
   <h>thoir</h>
   <p><g>thoir</g>
-    <en>give, take, bring</en> is an irregular simple verb.</p>
+    <en>give, take, bring</en> is an <a href="?xx=verbs/simple_verbs">irregular verb</a>.</p>
+
+  <section>
+    <h>nouns</h>
+    <module id="biadh">
+      <h>biadh</h>
+      <p><g>thoir ... <a href="?gd=biadh">biadh</a></g>
+        <en>... takes/brings/gives food</en> – <xl>
+          <li>
+            <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. Thug Seumas leis an t-slat-iasgaich
+              agus thug Màiri leatha biadh ann am bascaid.</gd>
+            <tr>Mary and James were on the moor yesterday. James took the fishing rod with him and
+              Mary took (with her) food in a basket.</tr>
+            <ref text="617">td. 76</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <module id="slat">
+      <h>slat</h>
+      <p><g>thoir ... <a href="?gd=slat">slat</a></g>
+        <en>... takes/brings/gives a rod</en> – <xl>
+          <li>
+            <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. Thug Seumas leis an t-slat-iasgaich
+              agus thug Màiri leatha biadh ann am bascaid.</gd>
+            <tr>Mary and James were on the moor yesterday. James took the fishing rod with him and
+              Mary took (with her) food in a basket.</tr>
+            <ref text="617">td. 76</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+  </section>
+
+
 
   <!--
   <p>
@@ -140,7 +174,7 @@
   </p>
 -->
 
-  <section id="forms">
+  <!--<section id="forms">
     <h>forms</h>
     <p>The principal parts of <g>thoir</g> are – <ul>
         <li><m>bheir</m> – future independent ie. <en>will give</en></li>
@@ -387,10 +421,10 @@
         </ol>
       </p>
     </section>
-  </section>
+  </section>-->
 
 
-<!--
+  <!--
   <section>
     <h>dependents</h>
     <section id="sbj">

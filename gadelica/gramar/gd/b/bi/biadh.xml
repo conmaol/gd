@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>biadh</h>
     <p><g>biadh</g>
         <en>food</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
     <section>
+        <h>nouns</h>
+        <module id="bascaid">
+            <h>bascaid</h>
+            <p><g>biadh ann am <a href="?gd=bascaid">bascaid</a></g>
+                <en>food in a basket</en> – <xl>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. Thug Seumas leis an
+                            t-slat-iasgaich agus thug Màiri leatha biadh ann am bascaid.</gd>
+                        <tr>Mary and James were on the moor yesterday. James took the fishing rod
+                            with him and Mary took (with her) food in a basket.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <module id="thoir">
+            <h>thoir</h>
+            <p><g><a href="?gd=thoir">thoir</a> ... biadh</g>
+                <en>... takes/brings/gives food</en> – <xl>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. Thug Seumas leis an
+                            t-slat-iasgaich agus thug Màiri leatha biadh ann am bascaid.</gd>
+                        <tr>Mary and James were on the moor yesterday. James took the fishing rod
+                            with him and Mary took (with her) food in a basket.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <!--<section>
         <h>uses</h>
         <section>
             <h>complement</h>
@@ -33,6 +69,6 @@
                 </ul>
             </p>
         </section>
-    </section>
+    </section>-->
 
 </module>

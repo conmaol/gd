@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>clach</h>
+    <p><g>clach</g>
+        <en>a stone</en> is a feminine <a href="?xx=nouns/common_nouns">common noun</a>.</p>
+    
+    <section>
+        <h>states</h>
+        <module id="moor">
+            <h>mór</h>
+            <p><g>clach <a href="?gd=moor">mhór</a></g>
+                <en>a big stone</en> – <xl>
+                    <li>
+                        <gd>Tha na clachan sin mór.</gd>
+                        <tr>Those stones are big.</tr>
+                        <ref text="617">td. 248</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+</module>
+

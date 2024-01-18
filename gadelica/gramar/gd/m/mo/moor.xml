@@ -94,6 +94,30 @@
         </xl>
       </p>
     </module>
+    <module id="sroon">
+      <h>sròn</h>
+      <p><g><a href="?gd=sroon">sròn</a> mhór</g>
+        <en>a big nose</en> – <xl>
+          <li>
+            <gd>Tha an t-sròn aig Calum mór.</gd>
+            <tr>Calum has a big nose.</tr>
+            <ref text="617">td. 69</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <module id="clach">
+      <h>clach</h>
+      <p><g><a href="?gd=clach">clach</a> mhór</g>
+        <en>a big stone</en> – <xl>
+          <li>
+            <gd>Tha na clachan sin mór.</gd>
+            <tr>Those stones are big.</tr>
+            <ref text="617">td. 248</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
     <module id="eilean">
       <h>eilean</h>
       <p><g><a href="?gd=eilean">eilean</a> mór</g>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>sìde</h>
+    <p><g>sìde</g>
+        <en>weather</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
+
+    <section>
+        <h>states</h>
+        <module id="math">
+            <h>math</h>
+            <p><g>sìde <a href="?gd=math">mhath</a></g>
+                <en>good weather</en> – <xl>
+                    <li>
+                        <gd>A bheil sìde mhath ann an diugh? Tha an t-sìde glé mhath an diugh.</gd>
+                        <tr>Malcolm will be on the moor tomorrow if the weather is good.</tr>
+                        <ref text="617">td. 68</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>

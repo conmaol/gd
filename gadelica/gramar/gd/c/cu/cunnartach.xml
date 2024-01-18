@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>cunnartach</h>
+    <p><g>cunnartach</g>
+        <en>dangerous</en> is a <a href="?xx=adjectives/adjectives">adjective</a>.</p>
+
+    <section>
+        <h>themes</h>
+        <module id="creag">
+            <h>creag</h>
+            <p><g><a href="?gd=creag">creag</a> chunnartach</g> <!-- cunnart? -->
+                <en>a dangerous rock</en> – <xl>
+                    <li>
+                        <gd>Tha na creagan seo cunnartach.</gd>
+                        <tr>These rocks are dangerous.</tr>
+                        <ref text="617">td. 248</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>

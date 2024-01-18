@@ -6,7 +6,7 @@
         adjective</a>.</p>
 
     <section>
-        <h>nouns</h>
+        <h>themes</h>
         <module id="ceann">
             <h>ceann</h>
             <p><g><a href="?gd=ceann">ceann</a> goirt</g>
@@ -15,6 +15,18 @@
                         <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
                         <tr>What is wrong with this boy? His head is sore.</tr>
                         <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="suuil">
+            <h>sùil</h>
+            <p><g><a href="?gd=suuil">sùil</a> ghoirt</g>
+                <en>a sore eye</en> – <xl>
+                    <li>
+                        <gd>Tha an t-sùil aig Calum goirt.</gd>
+                        <tr>Calum’s eye is sore.</tr>
+                        <ref text="617">td. 246</ref>
                     </li>
                 </xl>
             </p>

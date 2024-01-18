@@ -5,7 +5,31 @@
         <en>long</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
 
     <section>
-        <h>nouns</h>
+        <h>themes</h>
+        <module id="sraaid">
+            <h>sràid</h>
+            <p><g><a href="?gd=sraaid">sràid</a> fada</g>
+                <en>a long street</en> – <xl>
+                    <li>
+                        <gd>Tha an t-sràid seo fada.</gd>
+                        <tr>This street is long.</tr>
+                        <ref text="617">td. 68</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="slighe">
+            <h>slighe</h>
+            <p><g><a href="?gd=slighe">slighe</a> fada</g>
+                <en>a long journey/way</en> – <xl>
+                    <li>
+                        <gd>Chan eile an t-slighe fada.</gd>
+                        <tr>The journey is not long.</tr>
+                        <ref text="617">td. 68–9</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="astar">
             <h>astar</h>
             <p><g><a href="?gd=astar">astar</a> fada</g>

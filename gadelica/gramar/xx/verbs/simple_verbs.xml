@@ -23,9 +23,8 @@
                     <en>reach</en></li>
                 <li><a href="?gd=thig"><g>thig</g></a>
                     <en>come</en></li>
-                <!--
             <li><a href="?gd=thoir"><g>thoir</g></a>
-                <en>give, take, bring</en></li>-->
+                <en>give, take, bring</en></li>
             </ul>
         </p>
     </section>
@@ -41,6 +40,8 @@
                     <en>shine</en></li>
                 <li><a href="?gd=fuirich"><g>fuirich</g></a>
                     <en>wait, stay, live</en></li>
+            <li><a href="?gd=ruith"><g>ruith</g></a>
+                <en>run</en></li>
                 <li><a href="?gd=snaamh"><g>snàmh</g></a>
                     <en>swim</en></li>
             </ul>

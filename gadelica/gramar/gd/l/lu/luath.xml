@@ -4,9 +4,8 @@
     <p><g>luath</g>
         <en>swift, fast</en> is a <a href="?xx=adjectives/simple_adjectives">simple
         adjective</a>.</p>
-
     <section>
-        <h>nouns</h>
+        <h>themes</h>
         <module id="cuu">
             <h>cù</h>
             <p><g><a href="?gd=cuu">cù</a> luath</g>
@@ -24,6 +23,20 @@
                 </xl>
             </p>
         </module>
+        <module id="ruith">
+            <h>ruith</h>
+            <p><g><a href="?gd=ruith">ruith</a> ... gu luath</g>
+                <en>... runs quickly</en> – <xl>
+                    <li>
+                        <gd>Leum maigheach a mach as an fheur agus ruith i gu luath suas a’
+                            bhruthach.</gd>
+                        <tr>A hare jumped out of the grass and it ran swiftly up the slope.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
+    
 
 </module>

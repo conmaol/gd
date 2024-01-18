@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>creag</h>
+    <p><g>creag</g>
+        <en>a rock</en> is a feminine <a href="?xx=nouns/common_nouns">common noun</a>.</p>
+
+    <section>
+        <h>states</h>
+        <module id="cunnartach">
+            <h>cunnartach</h>
+            <p><g>creag <a href="?gd=cunnartach">chunnartach</a></g> <!-- cunnart? -->
+                <en>a dangerous rock</en> – <xl>
+                    <li>
+                        <gd>Tha na creagan seo cunnartach.</gd>
+                        <tr>These rocks are dangerous.</tr>
+                        <ref text="617">td. 248</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>

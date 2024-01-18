@@ -33,6 +33,18 @@
                 </xl>
             </p>
         </module>
+        <module id="tuathanach">
+            <h>tuathanach</h>
+            <p><g><a href="?gd=tuathanach">tuathanach</a> [ag] obair</g>
+                <en>a farmer working</en> – <xl>
+                    <li>
+                        <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
+                        <tr>The farmers were working busily in the field yesterday.</tr>
+                        <ref text="617">td. 75</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <!--</section>-->
         <!-- <section>
             <h>object</h>-->
@@ -67,6 +79,11 @@
                         <gd>Tha Seònaid sgìth ag obair anns an achadh.</gd>
                         <tr>Janet is tired working in the field.</tr>
                         <ref text="617">td. 7 [adapted]</ref>
+                    </li>
+                    <li>
+                        <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
+                        <tr>The farmers were working busily in the field yesterday.</tr>
+                        <ref text="617">td. 75</ref>
                     </li>
                 </xl>
             </p>
@@ -105,6 +122,11 @@
                         <gd>Tha an saor trang ag obair air an taigh.</gd>
                         <tr>The joiner is busy working on the house.</tr>
                         <ref text="617">td. 65</ref>
+                    </li>
+                    <li>
+                        <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
+                        <tr>The farmers were working busily in the field yesterday.</tr>
+                        <ref text="617">td. 75</ref>
                     </li>
                 </xl></p>
         </module>

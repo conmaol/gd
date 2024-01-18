@@ -8,8 +8,8 @@
         <h>themes</h>
         <module id="suugh">
             <h>sùgh</h>
-            <p><g><a href="?gd=suugh">sùgh</a> math</g> <en>good soup</en> –
-                <xl>
+            <p><g><a href="?gd=suugh">sùgh</a> math</g>
+                <en>good soup</en> – <xl>
                     <li>
                         <gd>Tha an sùgh seo math.</gd>
                         <tr>This soup is good.</tr>
@@ -20,8 +20,8 @@
         </module>
         <module id="solus">
             <h>solus</h>
-            <p><g><a href="?gd=solus">solus</a> math</g> <en>good light</en> –
-                <xl>
+            <p><g><a href="?gd=solus">solus</a> math</g>
+                <en>good light</en> – <xl>
                     <li>
                         <gd>Tha solus math anns an t-seòmar seo.</gd>
                         <tr>There is good light in this room.</tr>
@@ -52,9 +52,22 @@
             <p><g><a href="?gd=aimsir">aimsir</a> mhath</g>
                 <en>good weather</en> – <xl>
                     <li>
-                        <gd>Bithidh Calum anns a’ mhonadh am màireach ma bhitheas an aimsir math.</gd>
+                        <gd>Bithidh Calum anns a’ mhonadh am màireach ma bhitheas an aimsir
+                            math.</gd>
                         <tr>Malcolm will be on the moor tomorrow if the weather is good.</tr>
                         <ref text="617">td. 239–40</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="siide">
+            <h>sìde</h>
+            <p><g><a href="?gd=siide">sìde</a> mhath</g>
+                <en>good weather</en> – <xl>
+                    <li>
+                        <gd>A bheil sìde mhath ann an diugh? Tha an t-sìde glé mhath an diugh.</gd>
+                        <tr>Malcolm will be on the moor tomorrow if the weather is good.</tr>
+                        <ref text="617">td. 68</ref>
                     </li>
                 </xl>
             </p>

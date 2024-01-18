@@ -38,19 +38,48 @@
     </section>-->
 
     <section>
-        <h>themes</h>
-        <module id="saor">
-            <h>saor</h>
-            <p><g><a href="?gd=saor^n">saor</a> trang</g> <en>a busy joiner</en> –
-            <xl>
-                <li>
-                    <gd>Tha an saor trang ag obair air an taigh.</gd>
-                    <tr>The joiner is busy working on the house.</tr>
-                    <ref text="617">td. 65</ref>
-                </li>
-            </xl>
+        <h>nouns</h>
+        <module id="duine">
+            <h>duine</h>
+            <p><g><a href="?gd=duine">duine</a> trang</g>
+                <en>a busy man</en> – <xl>
+                    <li>
+                        <gd>Tha an duine seo trang.</gd>
+                        <tr>This man is busy.</tr>
+                        <ref text="617">td. 79</ref>
+                    </li>
+                </xl>
             </p>
         </module>
+        <module id="saor">
+            <h>saor</h>
+            <p><g><a href="?gd=saor^n">saor</a> trang</g>
+                <en>a busy joiner</en> – <xl>
+                    <li>
+                        <gd>Tha an saor trang ag obair air an taigh.</gd>
+                        <tr>The joiner is busy working on the house.</tr>
+                        <ref text="617">td. 65</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="tuathanach">
+            <h>tuathanach</h>
+            <p><g><a href="?gd=tuathanach">tuathanach</a> trang</g>
+                <en>a busy farmer</en> – <xl>
+                    <li>
+                        <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
+                        <tr>The farmers were working busily in the field yesterday.</tr>
+                        <ref text="617">td. 75</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+
+    <section>
+        <h>verbs</h>
         <module id="obair">
             <h>obair</h>
             <p><g><a href="?gd=obair">obair</a> gu trang</g>
@@ -69,6 +98,11 @@
                         <gd>Tha an saor trang ag obair air an taigh.</gd>
                         <tr>The joiner is busy working on the house.</tr>
                         <ref text="617">td. 65</ref>
+                    </li>
+                    <li>
+                        <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
+                        <tr>The farmers were working busily in the field yesterday.</tr>
+                        <ref text="617">td. 75</ref>
                     </li>
                 </xl>
             </p>

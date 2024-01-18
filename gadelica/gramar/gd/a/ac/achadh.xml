@@ -34,6 +34,18 @@
 
     <section>
         <h>nouns</h>
+        <module id="tuathanach">
+            <h>tuathanach</h>
+            <p><g><a href="?gd=tuathanach">tuathanach</a> ann an achadh</g>
+                <en>a farmer in a field</en> – <xl>
+                    <li>
+                        <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
+                        <tr>The farmers were working busily in the field yesterday.</tr>
+                        <ref text="617">td. 75</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="caileag">
             <h>caileag</h>
             <p><g><a href="?gd=caileag">caileag</a> ann an achadh</g>

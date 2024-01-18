@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>ruith</h>
+    <p><g>ruith</g>
+        <en>run</en> is an <a href="?xx=verbs/simple_verbs">simple verb</a>.</p>
+
+    <section>
+        <h>states</h>
+        <module id="luath">
+            <h>luath</h>
+            <p><g>ruith ... gu <a href="?gd=luath">luath</a></g>
+                <en>... runs quickly</en> – <xl>
+                    <li>
+                        <gd>Leum maigheach a mach as an fheur agus ruith i gu luath suas a’
+                            bhruthach.</gd>
+                        <tr>A hare jumped out of the grass and it ran swiftly up the slope.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>
