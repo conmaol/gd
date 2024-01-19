@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>slat</h>
+    <p><g>slat</g>
+        <en>a rod</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
+            noun</a>.</p>
+    
+    <section>
+        <h>verbs</h>
+        <module id="thoir">
+            <h>thoir</h>
+            <p><g><a href="?gd=thoir">thoir</a> ... slat</g>
+                <en>... takes/brings/gives a rod</en> – <xl>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. Thug Seumas leis an
+                            t-slat-iasgaich agus thug Màiri leatha biadh ann am bascaid.</gd>
+                        <tr>Mary and James were on the moor yesterday. James took the fishing rod
+                            with him and Mary took (with her) food in a basket.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="iasgaich">
+            <h>iasgaich</h>
+            <p><g>slat <a href="?gd=iasgaich">iasgaich</a></g>
+                <en>a fishing rod</en> – <xl>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. Thug Seumas leis an
+                            t-slat-iasgaich agus thug Màiri leatha biadh ann am bascaid.</gd>
+                        <tr>Mary and James were on the moor yesterday. James took the fishing rod
+                            with him and Mary took (with her) food in a basket.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+</module>
+

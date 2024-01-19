@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>taigh</h>
-    <p><g>taigh</g>
-        <en>a house</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+    <p><g>taigh</g> <masc/>
+        <en>a house</en>.</p>
 
     <section>
-        <h>properties</h>
+        <h>adjectives</h>
         <module id="moor">
             <h>mór</h>
             <p><g>taigh <a href="?gd=moor">mór</a></g>
@@ -37,154 +36,126 @@
     </section>
 
     <section>
-        <h>prepositions</h>
-        <section>
-            <h>subject</h>
-            <!--<p><g>taigh</g> can be the (deep) subject of certain <a
-                    href="?xx=prepositions/prepositions">prepositions</a>.</p>-->
-            <module id="taigh_air">
-                <h>taigh air ...</h>
-                <p><g>taigh <a href="?gd=air">air</a> ...</g>
-                    <en>a house on ...</en>.</p>
-                <module>
-                    <h>taigh air cnoc</h>
-                    <p><g>taigh air <a href="?gd=cnoc">cnoc</a></g>
-                        <en>a house on a hill</en>
-                        <xl>
-                            <li>
-                                <gd>Tha taigh mór air a’ chnoc.</gd>
-                                <tr>There is a big house on the hill.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                            <li>
-                                <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc
-                                    àrd.</gd>
-                                <tr>Where is the big house? The big house is on the tall hill.</tr>
-                                <ref text="617">td. 21 [229]</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
-        <section>
-            <h>object</h>
-            <!--<p><g>taigh</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                    >prepositions</a>.</p>-->
-            <module id="ann_an_taigh">
-                <h>... ann an taigh</h>
-                <p><g>... <a href="?gd=an^preposition">ann an</a> taigh</g>
-                    <en>... in a house</en>. </p>
-                <module>
-                    <h>[duine] ann an taigh</h>
-                    <p><g>[duine] ann an taigh</g>
-                        <en>[a person] in a house</en> – <xl>
-                            <li>
-                                <gd>Tha Seònaid anns an taigh.</gd>
-                                <tr>Janet is in the house.</tr>
-                                <ref text="617">td. 14</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-                <module>
-                    <h>[beathach] ann an taigh</h>
-                    <p><g>[beathach] ann an taigh</g>
-                        <en>[a creature] in a house</en> – <xl>
-                            <li>
-                                <gd>A bheil an cat anns an taigh còmhla ri Seònaid?</gd>
-                                <tr>Is the cat in the house with Janet?</tr>
-                                <ref text="617">td. 15 [227]</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-                <module>
-                    <h>[dèan] [duine] ann an taigh</h>
-                    <p><g>[dèan] [duine] ann an taigh</g>
-                        <en>[a person] [does something] in a house</en> – <xl>
-                            <li>
-                                <gd>Dé tha a’ chaileag a’ dèanamh anns an taigh?</gd>
-                                <tr>What is the girl doing in the house?</tr>
-                                <ref text="617">td. 14 [adapted]</ref>
-                            </li>
-                            <li>
-                                <gd>Cha robh sinn a’ cluich anns an taigh.</gd>
-                                <tr>We were not playing in the house.</tr>
-                                <ref text="617">td. 21 [230]</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-            <module id="aig_taigh">
-                <h>... aig taigh</h>
-                <p><g>... <a href="?gd=aig">aig</a> taigh</g>
-                    <en>... at a house</en>. </p>
-                <module>
-                    <h>[duine] aig taigh</h>
-                    <p><g>[duine] aig taigh</g>
-                        <en>[a person] at a house</en> – <xl>
-                            <li>
-                                <gd>Tha Seònaid aig an taigh.</gd>
-                                <tr>Janet is at home.</tr>
-                                <ref text="617">td. 14 [227]</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
-    </section>
-
-    <section>
-        <h>verbs</h>
-        <section>
-            <h>object</h>
-            <module id="ruig">
-                <h>ruig</h>
-                <p><g><a href="?gd=ruig">ruig</a> taigh</g>
-                    <en>reaches a house</en> – <xl>
-                        <li>
-                            <gd>Bha mi sgìth nuair a ràinig mi an taigh.</gd>
-                            <tr>I was tired when I arrived home.</tr>
-                            <ref text="617">td. 21</ref>
-                        </li>
-                    </xl></p>
-            </module>
-        </section>
-        <section>
-            <h>locative</h>
-            <module id="cluich">
-                <h>cluich</h>
-                <p><g><a href="?gd=cluich">cluich</a> ann an taigh</g>
-                    <en>plays in a house</en> – <xl>
-                        <li>
-                            <gd>Cha robh sinn a’ cluich anns an taigh.</gd>
-                            <tr>We were not playing in the house.</tr>
-                            <ref text="617">td. 21 [230]</ref>
-                        </li>
-                    </xl></p>
-            </module>
-        </section>
-    </section>
-
-    <section>
         <h>nouns</h>
-        <module id="fad">
-            <h>fad</h>
-            <p><g>ann an taigh <a href="?gd=fad">fad</a> ...</g>
-                <en>in a house all ... long</en> – <xl>
+        <!--<section>
+            <h>subject</h>-->
+        <!--<p><g>taigh</g> can be the (deep) subject of certain <a
+                    href="?xx=prepositions/prepositions">prepositions</a>.</p>-->
+        <module id="cnoc">
+            <h>cnoc</h>
+            <p><g>taigh air <a href="?gd=cnoc">cnoc</a></g>
+                <en>a house on a hill</en>
+                <xl>
                     <li>
-                        <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an
-                            sgoil an diugh? Cha robh, bha e anns an taigh fad an latha.</gd>
-                        <tr>What is wrong with this boy? His head is sore. Was he in the school
-                            today? No, he was in the house all day long.</tr>
+                        <gd>Tha taigh mór air a’ chnoc.</gd>
+                        <tr>There is a big house on the hill.</tr>
                         <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc àrd.</gd>
+                        <tr>Where is the big house? The big house is on the tall hill.</tr>
+                        <ref text="617">td. 21 [229]</ref>
                     </li>
                 </xl>
             </p>
         </module>
+        <!--</section>-->
+        <!-- <section>
+            <h>object</h>-->
+        <module id="cat">
+            <h>cat</h>
+            <p><g><a href="?gd=cat">cat</a> ann an taigh</g>
+                <en>a cat in a house</en> – <xl>
+                    <li>
+                        <gd>A bheil an cat anns an taigh còmhla ri Seònaid?</gd>
+                        <tr>Is the cat in the house with Janet?</tr>
+                        <ref text="617">td. 15 [227]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <!--</section>-->
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <!--  <section>
+            <h>object</h>-->
+        <module id="ruig">
+            <h>ruig</h>
+            <p><g><a href="?gd=ruig">ruig</a> taigh</g>
+                <en>... reaches a house</en> – <xl>
+                    <li>
+                        <gd>Bha mi sgìth nuair a ràinig mi an taigh.</gd>
+                        <tr>I was tired when I arrived home.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                </xl></p>
+        </module>
+        <module id="faag">
+            <h>fàg</h>
+            <p><g><a href="?gd=faag">fàg</a> taigh</g>
+                <en>... leaves a house</en> – <xl>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Dh’ fhàg iad an taigh
+                            tràth anns a’ mhadainn.</gd>
+                        <tr>Mary and James were on the moor yesterday. [...] They left home early in
+                            the morning.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <!--</section>-->
+        <!--<section>
+            <h>locative</h>-->
+        <module id="cluich">
+            <h>cluich</h>
+            <p><g><a href="?gd=cluich">cluich</a> ann an taigh</g>
+                <en>... plays in a house</en> – <xl>
+                    <li>
+                        <gd>Cha robh sinn a’ cluich anns an taigh.</gd>
+                        <tr>We were not playing in the house.</tr>
+                        <ref text="617">td. 21 [230]</ref>
+                    </li>
+                </xl></p>
+        </module>
+        <!--</section>-->
+    </section>
+
+    <section id="other">
+        <h>other</h>
+        <p>
+            <xl>
+                <li>
+                    <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an sgoil
+                        an diugh? Cha robh, bha e anns an taigh fad an latha.</gd>
+                    <tr>What is wrong with this boy? His head is sore. Was he in the school today?
+                        No, he was in the house all day long.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+                <li>
+                    <gd>Tha Seònaid anns an taigh.</gd>
+                    <tr>Janet is in the house.</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+                <li>
+                    <gd>Dé tha a’ chaileag a’ dèanamh anns an taigh?</gd>
+                    <tr>What is the girl doing in the house?</tr>
+                    <ref text="617">td. 14 [adapted]</ref>
+                </li>
+                <li>
+                    <gd>Cha robh sinn a’ cluich anns an taigh.</gd>
+                    <tr>We were not playing in the house.</tr>
+                    <ref text="617">td. 21 [230]</ref>
+                </li>
+                <li>
+                    <gd>Tha Seònaid aig an taigh.</gd>
+                    <tr>Janet is at home.</tr>
+                    <ref text="617">td. 14 [227]</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>

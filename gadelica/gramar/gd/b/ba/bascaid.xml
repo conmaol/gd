@@ -5,7 +5,23 @@
         <en>basket</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
-
+    <section>
+        <h>nouns</h>
+        <module id="biadh">
+            <h>biadh</h>
+            <p><g><a href="?gd=biadh">biadh</a> ann am bascaid</g>
+                <en>food in a basket</en> – <xl>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. Thug Seumas leis an
+                            t-slat-iasgaich agus thug Màiri leatha biadh ann am bascaid.</gd>
+                        <tr>Mary and James were on the moor yesterday. James took the fishing rod
+                            with him and Mary took (with her) food in a basket.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
 
 
     <!--<section>

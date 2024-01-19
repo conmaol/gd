@@ -94,7 +94,9 @@
       -->
       <li><a href="?gd=biadh"><g>biadh</g></a>
         <masc/>
-        <en>food</en> <gen/> <g>bìdh</g></li>
+        <en>food</en>
+        <gen/>
+        <g>bìdh</g></li>
       <li><a href="?gd=biiobull"><g>Bìobull</g></a>
         <masc/>
         <en>a Bible</en></li>
@@ -192,8 +194,8 @@
       <li><a href="?gd=coota"><g>còta</g></a>
         <masc/>
         <en>a coat</en></li>
+      <li><a href="?gd=craobh"><g>craobh</g></a> <fem/> <en>a tree</en></li>
       <!--
-      <li><m>craobh</m> fem. <en>tree</en></li>
       <li><a href="?gd=crìoch">crìoch</a>
         <i>fem.</i>
         <en>end, boundary</en></li>
@@ -341,6 +343,9 @@
       <!--
       <li><m>mac</m> masc. <en>son</en> gen. <b>mic</b> pl. <b>mic</b></li>
       -->
+      <li><a href="?gd=madainn"><g>madainn</g></a>
+        <fem/>
+        <en>a morning</en></li>
       <li><a href="?gd=maide"><g>maide</g></a>
         <masc/>
         <en>a stick</en></li>
@@ -448,6 +453,9 @@
       <li><a href="?gd=siiol"><g>sìol</g></a>
         <masc/>
         <en>a seed, seed(s)</en></li>
+      <li><a href="?gd=slat"><g>slat</g></a>
+        <fem/>
+        <en>a rod</en></li>
       <li><a href="?gd=slighe"><g>slighe</g></a>
         <fem/>
         <en>a way, a journey</en></li>

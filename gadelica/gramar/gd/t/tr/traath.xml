@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>tràth</h>
+    <p><g>tràth</g> <adj/>
+        <en>early</en></p>
+    
+    <section>
+        <h>nouns</h>
+        <module id="madainn">
+            <h>madainn</h>
+            <p><g>tràth ann am <a href="?gd=madainn">madainn</a></g>
+                <en>early of a morning</en> – <xl>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Dh’ fhàg iad an taigh
+                            tràth anns a’ mhadainn.</gd>
+                        <tr>Mary and James were on the moor yesterday. [...] They left home early in
+                            the morning.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+    <section>
+        <h>verbs</h>
+        <module id="faag">
+            <h>fàg</h>
+            <p><g><a href="?gd=faag">fàg</a> ... tràth</g>
+                <en>... leaves ... early</en> – <xl>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Dh’ fhàg iad an taigh
+                            tràth anns a’ mhadainn.</gd>
+                        <tr>Mary and James were on the moor yesterday. [...] They left home early in
+                            the morning.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+</module>
+

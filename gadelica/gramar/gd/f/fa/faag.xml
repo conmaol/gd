@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
+    <h>fàg</h>
+    <p><g>fàg</g>
+        <en>leave</en> is a <a href="?xx=verbs/simple_verbs">simple verb</a>.</p>
+
+    <section>
+        <h>nouns</h>
+        <module id="taigh">
+            <h>taigh</h>
+            <p><g>fàg ... <a href="?gd=taigh">taigh</a></g>
+                <en>... leaves a house</en> – <xl>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Dh’ fhàg iad an taigh
+                            tràth anns a’ mhadainn.</gd>
+                        <tr>Mary and James were on the moor yesterday. [...] They left home early in
+                            the morning.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="madainn">
+            <h>madainn</h>
+            <p><g>fàg ... ann am <a href="?gd=madainn">madainn</a></g>
+                <en>... leaves ... of a morning</en> – <xl>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Dh’ fhàg iad an taigh
+                            tràth anns a’ mhadainn.</gd>
+                        <tr>Mary and James were on the moor yesterday. [...] They left home early in
+                            the morning.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+    <section>
+        <h>adjectives</h>
+        <module id="traath">
+            <h>tràth</h>
+            <p><g>fàg ... <a href="?gd=traath">tràth</a></g>
+                <en>... leaves ... early</en> – <xl>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Dh’ fhàg iad an taigh
+                            tràth anns a’ mhadainn.</gd>
+                        <tr>Mary and James were on the moor yesterday. [...] They left home early in
+                            the morning.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+</module>
+<!--<module>
     <h lang="en">fàg</h>
     <h lang="gd">fàg</h>
     <p lang="en"><b>fàg</b>
@@ -47,4 +104,4 @@
 
 
     <p lang="gd">...</p>
-</module>
+</module>-->

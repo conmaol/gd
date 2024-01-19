@@ -22,8 +22,6 @@
 
     <section>
         <h>nouns</h>
-        <module>
-            <h>bàta air ...</h>
             <module id="muir">
                 <h>muir</h>
                 <p><g>bàta air <a href="?gd=muir">muir</a></g>
@@ -45,21 +43,18 @@
                             <ref text="617">td. 17 [adapted]</ref>
                         </li>
                     </xl></p>
-                <module id="traaigh">
-                    <h>tràigh</h>
-                    <p><g>bàta air <a href="?gd=traaigh">tràigh</a></g>
-                        <en>a boat on a beach</en> –<xl>
-                            <li>
-                                <gd>Cha bhi bàta beag air an traigh.</gd>
-                                <tr>There won’t be a little boat on the beach.</tr>
-                                <ref text="617">td. 21 [adapted]</ref>
-                            </li>
-                        </xl></p>
-                </module>
             </module>
+        <module id="traaigh">
+            <h>tràigh</h>
+            <p><g>bàta air <a href="?gd=traaigh">tràigh</a></g>
+                <en>a boat on a beach</en> –<xl>
+                    <li>
+                        <gd>Cha bhi bàta beag air an traigh.</gd>
+                        <tr>There won’t be a little boat on the beach.</tr>
+                        <ref text="617">td. 21 [adapted]</ref>
+                    </li>
+                </xl></p>
         </module>
-        <module>
-            <h>... ann am bàta</h>
             <module id="duine">
                 <h>duine</h>
                 <p><g><a href="?gd=duine">duine</a> ann am bàta</g>
@@ -76,13 +71,12 @@
                         </li>
                     </xl></p>
             </module>
-        </module>
     </section>
 
     <section>
         <h>verbs</h>
-        <section>
-            <h>object</h>
+        <!--<section>
+            <h>object</h>-->
             <module id="faic">
                 <h>faic</h>
                 <p><g><a href="?gd=faic">faic</a> bàta</g>
@@ -95,7 +89,7 @@
                         </li>
                     </xl></p>
             </module>
-        </section>
+        <!--</section>-->
     </section>
 
 </module>
