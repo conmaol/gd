@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>monadh</h>
-    <p><g>monadh</g>
-        <en>a moor</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+    <p><g>monadh</g> <masc/>
+        <en>a moor</en></p>
 
     <section>
         <h>nouns</h>
@@ -45,7 +44,54 @@
                 </xl>
             </p>
         </module>
+        <module id="fang">
+            <h>fang</h>
+            <p><g><a href="?gd=fang">fang</a> ann am monadh</g>
+                <en>a fank on a moor</en> – <xl>
+                    <li>
+                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
+                            fhang.</gd>
+                        <tr>When Mary and James reached the moor, the shepherds were at the
+                            fank.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="ciiobair">
+            <h>cìobair</h>
+            <p><g><a href="?gd=ciiobair">cìobair</a> ann am monadh</g>
+                <en>a shepherd on a moor</en> – <xl>
+                    <li>
+                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
+                            fhang.</gd>
+                        <tr>When Mary and James reached the moor, the shepherds were at the
+                            fank.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
+
+    <section>
+        <h>verbs</h>
+        <module id="ruig">
+            <h>ruig</h>
+            <p><g><a href="?gd=ruig">ruig</a> ... monadh</g>
+                <en>... reaches a moor</en> – <xl>
+                    <li>
+                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
+                            fhang.</gd>
+                        <tr>When Mary and James reached the moor, the shepherds were at the
+                            fank.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
 
     <section id="other">
         <h>other</h>

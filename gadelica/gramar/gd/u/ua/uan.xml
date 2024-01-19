@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
-    <h>caora</h>
-    <p><g>caora</g>
-        <fem/>
-        <en>a sheep</en></p>
-
+    <h>uan</h>
+    <p><g>uan</g> <masc/>
+        <en>a lamb</en></p>
+    
     <section>
         <h>nouns</h>
-        <module id="beinn">
-            <h>beinn</h>
-            <p><g>caora air <a href="?gd=beinn">beinn</a></g>
-                <en>a sheep on a mountain</en> – <xl>
-                    <li>
-                        <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
-                        <tr>The sheep were up on the side of the mountain.</tr>
-                        <ref text="617">td. 21</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
         <module id="monadh">
             <h>monadh</h>
-            <p><g>caora ann am <a href="?gd=monadh">monadh</a> ...</g>
-                <en>a sheep on a moor</en> – <xl>
-                    <li>
-                        <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
-                        <tr>I saw sheep and cattle on the moor.</tr>
-                        <ref text="617">td. 21</ref>
-                    </li>
+            <p><g>uan ann am <a href="?gd=monadh">monadh</a> ...</g>
+                <en>a lamb on a moor</en> – <xl>
                     <li>
                         <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
                             fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
@@ -40,21 +22,9 @@
                 </xl>
             </p>
         </module>
-        <module id="crodh">
-            <h>crodh</h>
-            <p><g>caoraich agus <a href="?gd=crodh">crodh</a></g>
-                <en>sheep and cattle</en> – <xl>
-                    <li>
-                        <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
-                        <tr>I saw sheep and cattle on the moor.</tr>
-                        <ref text="617">td. 21</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="uan">
-            <h>uan</h>
-            <p><g>caora agus <a href="?gd=uan">uan</a></g>
+        <module id="caora">
+            <h>caora</h>
+            <p><g><a href="?gd=caora">caora</a> agus uan</g>
                 <en>a sheep and a lamb</en> – <xl>
                     <li>
                         <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
@@ -70,8 +40,8 @@
         </module>
         <module id="ciiobair">
             <h>cìobair</h>
-            <p><g>caora agus <a href="?gd=ciiobair">cìobair</a></g>
-                <en>a sheep and a shepherd</en> – <xl>
+            <p><g>uan agus <a href="?gd=ciiobair">cìobair</a></g>
+                <en>a lamb and a shepherd</en> – <xl>
                     <li>
                         <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
                             fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
@@ -86,8 +56,8 @@
         </module>
         <module id="fang">
             <h>fang</h>
-            <p><g>caora ann am <a href="?gd=fang">fang</a></g>
-                <en>a sheep in a fank</en> – <xl>
+            <p><g>uan ann am <a href="?gd=fang">fang</a></g>
+                <en>a lamb in a fank</en> – <xl>
                     <li>
                         <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
                             fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
@@ -101,26 +71,15 @@
             </p>
         </module>
     </section>
-
+    
     <section>
         <h>verbs</h>
         <!--<section>
             <h>object</h>-->
-            <module id="faic">
-                <h>faic</h>
-                <p><g><a href="?gd=faic">faic</a> ... caora</g>
-                    <en>sees a sheep</en> – <xl>
-                        <li>
-                            <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
-                            <tr>I saw sheep and cattle on the moor.</tr>
-                            <ref text="617">td. 21</ref>
-                        </li>
-                    </xl></p>
-            </module>
         <module id="coimhead">
             <h>coimhead</h>
-            <p><g><a href="?gd=coimhead">coimhead</a> air caora</g>
-                <en>... looks at a sheep</en> –<xl>
+            <p><g><a href="?gd=coimhead">coimhead</a> air uan</g>
+                <en>... looks at a lamb</en> –<xl>
                     <li>
                         <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
                             fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
@@ -135,5 +94,6 @@
         </module>
         <!--</section>-->
     </section>
-
+    
 </module>
+

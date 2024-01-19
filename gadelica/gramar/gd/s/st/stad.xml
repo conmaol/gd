@@ -1,16 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>stad</h>
     <p><g>stad</g>
+        <vb/>
+        <en>stop</en></p>
+
+    <section>
+        <h>nouns</h>
+        <module id="mionaid">
+            <h>mionaid</h>
+            <p><g>stad ... <a href="?gd=mionaid">mionaid</a></g>
+                <en>... stops for a minute</en> –<xl>
+                    <li>
+                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
+                            fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
+                            air na h-uain.</gd>
+                        <tr>When Mary and James reached the moor, the shepherds were at the fank and
+                            Mary stopped for a minute or two looking at the sheep and at the
+                            lambs.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <module id="coimhead">
+            <h>coimhead</h>
+            <p><g>stad ... a’ <a href="?gd=coimhead">coimhead</a> air ...</g>
+                <en>... stops to look at ...</en> –<xl>
+                    <li>
+                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
+                            fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
+                            air na h-uain.</gd>
+                        <tr>When Mary and James reached the moor, the shepherds were at the fank and
+                            Mary stopped for a minute or two looking at the sheep and at the
+                            lambs.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+    
+
+
+    <!--<p><g>stad</g>
         <en>stop, halt, pause, rest, stall, cease, desist, come/bring to a stop/halt</en> is a
         (regular) <a href="?xx=verbs/verbs">verb</a>, marking <a href="?q=verbal_aspect"
             >cessative</a> verbal aspect, cf. <a href="?gd=sguir"><g>sguir</g></a>
         <vb/>
         <en>stop, cease</en>, <a href="?gd=crìoch"><g>crìoch</g></a>
         <fem/>
-        <en>end, boundary</en>.</p>
+        <en>end, boundary</en>.</p>-->
 
-    <section id="forms">
+    <!--<section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>stad</g> are – <ul>
                 <li><m>stadaidh</m> – future independent ie. <en>will stop</en></li>
@@ -254,9 +301,9 @@
                 </ul>
             </p>
         </section>
-    </section>
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>dependents</h>
         <section id="subject">
             <h>subject</h>
@@ -467,9 +514,9 @@
             </section>
 
         </section>
-    </section>
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>uses</h>
         <section>
             <h>derivatives</h>
@@ -631,6 +678,6 @@
                 </section>
             </module>
         </section>
-    </section>
+    </section>-->
 
 </module>

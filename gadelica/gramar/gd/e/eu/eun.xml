@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>eun</h>
-    <p><g>eun</g>
-        <en>a bird</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+    <p><g>eun</g> <masc/>
+        <en>a bird</en></p>
 
     <section>
         <h>adjectives</h>
@@ -21,10 +20,39 @@
         </module>
     </section>
     
-    <li>
-        <gd>Dh’ fhàg Màiri agus Seumas an taigh tràth anns a’ mhadainn. Bha an latha blàth, agus bha na h-eòin a’ seinn anns na craobhan.</gd>
-        <tr>Mary and James left the house early in the morning. The day was warm, and the birds were singing in the trees.</tr>
-        <ref text="617">td. 76 [adapted]</ref>
-    </li>
+    <section>
+        <h>nouns</h>
+        <module id="craobh">
+        <h>craobh</h>
+        <p><g>eun ann an <a href="?gd=craobh">craoibh</a></g> <en>a bird in a tree</en> –
+            <xl>
+                <li>
+                    <gd>Dh’ fhàg Màiri agus Seumas an taigh tràth anns a’ mhadainn. Bha an latha blàth, agus bha na h-eòin a’ seinn anns na craobhan.</gd>
+                    <tr>Mary and James left the house early in the morning. The day was warm, and the birds were singing in the trees.</tr>
+                    <ref text="617">td. 76 [adapted]</ref>
+                </li>
+            </xl>
+        </p>
+    </module></section>
+    
+    
+    <section>
+        <h>verbs</h>
+        <module id="seinn">
+            <h>seinn</h>
+            <p><g><a href="?gd=seinn">seinn</a> eun</g> <en>a bird sings</en> –
+                <xl>
+                    <li>
+                        <gd>Dh’ fhàg Màiri agus Seumas an taigh tràth anns a’ mhadainn. Bha an latha blàth, agus bha na h-eòin a’ seinn anns na craobhan.</gd>
+                        <tr>Mary and James left the house early in the morning. The day was warm, and the birds were singing in the trees.</tr>
+                        <ref text="617">td. 76 [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+    
+    
 
 </module>

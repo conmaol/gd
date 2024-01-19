@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>coimhead</h>
+    <p><g>coimhead</g>
+        <vb/>
+        <en>look, watch</en></p>
+    
+    <section>
+        <h>nouns</h>
+        <module id="caora">
+            <h>caora</h>
+            <p><g>coimhead air <a href="?gd=caora">caora</a></g>
+                <en>... looks at a sheep</en> –<xl>
+                    <li>
+                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
+                            fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
+                            air na h-uain.</gd>
+                        <tr>When Mary and James reached the moor, the shepherds were at the fank and
+                            Mary stopped for a minute or two looking at the sheep and at the
+                            lambs.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="uan">
+            <h>uan</h>
+            <p><g>coimhead air <a href="?gd=uan">uan</a></g>
+                <en>... looks at a lamb</en> –<xl>
+                    <li>
+                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
+                            fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
+                            air na h-uain.</gd>
+                        <tr>When Mary and James reached the moor, the shepherds were at the fank and
+                            Mary stopped for a minute or two looking at the sheep and at the
+                            lambs.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+    
+</module>
+

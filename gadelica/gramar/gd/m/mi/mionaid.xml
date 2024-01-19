@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>mionaid</h>
+    <p><g>mionaid</g> <fem/>
+        <en>a minute</en></p>
+    
+    <section>
+        <h>verbs</h>
+        <module id="stad">
+            <h>stad</h>
+            <p><g><a href="?gd=stad">stad</a> ... mionaid</g>
+                <en>... stops for a minute</en> –<xl>
+                    <li>
+                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
+                            fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
+                            air na h-uain.</gd>
+                        <tr>When Mary and James reached the moor, the shepherds were at the fank and
+                            Mary stopped for a minute or two looking at the sheep and at the
+                            lambs.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+    
+</module>
+

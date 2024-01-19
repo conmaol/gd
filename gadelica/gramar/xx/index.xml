@@ -2,168 +2,470 @@
 <module>
     <h>index</h>
 
-    <p>The following grammatical topics are discussed here – <ul>
-            <li><a href="?xx=verbs/verbs">verbs</a>
-                <ul>
-                    <li><a href="?xx=verbs/simple_verbs">simple verbs</a> <!--– <a href="?gd=bi"
-                                ><g>bi</g></a>, <a href="?gd=cluich"><g>cluich</g></a>, <a
-                            href="?gd=cuir"><g>cuir</g></a>, <a href="?gd=deean"><g>dèan</g></a>, <a
-                            href="?gd=faic"><g>faic</g></a>, <a href="?gd=fuirich"
-                            ><g>fuirich</g></a>--></li>
-                    <!--<li>verb particles – <a href="?gd=an^particle"><g>an</g></a>, <a href="?gd=cha"
-                                ><g>cha</g></a>, <a href="?gd=nach"><g>nach</g></a></li>-->
-                </ul>
-            </li>
-            <li><a href="?xx=nouns/nouns">nouns</a>
-                <ul>
-                    <li><a href="?xx=nouns/proper_nouns">proper nouns</a>
-                        <ul>
-                            <li><a href="?xx=nouns/anthroponymic_proper_nouns">anthroponymic proper
-                                    nouns</a> – <a href="?gd=alasdair"><g>Alasdair</g></a>, <a
-                                    href="?gd=calum"><g>Calum</g></a>, <a href="?gd=maairi"
-                                        ><g>Màiri</g></a>, <a href="?gd=seoonaid"
-                                ><g>Seònaid</g></a>, <a href="?gd=seumas"><g>Seumas</g></a>, <a
-                                    href="?gd=siine"><g>Sìne</g></a></li>
-                        </ul>
-                    </li>
-                    <li><a href="?xx=nouns/common_nouns">common nouns</a>
-                        <ul>
-                            <li><a href="?xx=nouns/simple_common_nouns">simple common nouns</a></li>
-                        </ul>
-                    </li>
-                    <!--<li><a href="?xx=nouns/pronouns">pronouns</a>
-                        <ul>
-                            <li><a href="?xx=nouns/personal_pronouns">personal pronouns</a> – <a
-                                    href="?gd=mi"><g>mi</g></a>, <a href="?gd=thu"><g>thu</g></a>,
-                                    <a href="?gd=sinn"><g>sinn</g></a>, <a href="?gd=sibh"
-                                        ><g>sibh</g></a>, <a href="?gd=i_"><g>i</g></a>, <a
-                                    href="?gd=e_"><g>e</g></a>, <a href="?gd=iad"
-                                ><g>iad</g></a></li>
-                            <li><a href="?xx=nouns/demonstrative_pronouns">demonstratives</a> – <a
-                                    href="?gd=seo"><g>seo</g></a>, <a href="?gd=sin"
-                                ><g>sin</g></a></li>
-                        </ul>
-                    </li>
-                    <li><a href="?xx=nouns/determiners">determiners</a>
-                        <ul>
-                            <li><a href="?xx=nouns/definite_article">definite article</a></li>
-                            <li><a href="?xx=nouns/possessive_determiners">possessive
-                                    determiners</a> – <a href="?gd=a^determiner"><g>a</g></a></li>
-                        </ul>
-                    </li>-->
-                </ul>
-            </li>
-            <li><a href="?xx=adjectives/adjectives">adjectives</a>
-                <ul>
-                    <li><a href="?xx=adjectives/simple_adjectives">simple adjectives</a> – <a
-                            href="?gd=aard"><g>àrd</g></a>, <a href="?gd=baan"><g>bàn</g></a>, <a
-                            href="?gd=beag"><g>beag</g></a>, <a href="?gd=blaath"><g>blàth</g></a>,
-                            <a href="?gd=breeagha"><g>brèagha</g></a>, <a href="?gd=ceaarr"
-                                ><g>ceàrr</g></a>, <a href="?gd=dubh"><g>dubh</g></a>, <a
-                            href="?gd=fliuch"><g>fliuch</g></a>, <a href="?gd=fuar"><g>fuar</g></a>,
-                            <a href="?gd=geal"><g>geal</g></a>, <a href="?gd=glas"><g>glas</g></a>,
-                            <a href="?gd=goirt"><g>goirt</g></a>, <a href="?gd=luath"
-                            ><g>luath</g></a>, <a href="?gd=math"><g>math</g></a>, <a
-                            href="?gd=moor"><g>mór</g></a>, <a href="?gd=salach"><g>salach</g></a>,
-                            <a href="?gd=sgiith"><g>sgìth</g></a>, <a href="?gd=teth"
-                            ><g>teth</g></a>, <a href="?gd=trang"><g>trang</g></a></li>
-                    <li>intensifiers – <a href="?gd=glee"><g>glé</g></a></li>
-                    <li>pseudo-adjectives – <a href="?gd=dearbh"><g>dearbh</g></a></li>
-                    <li><a href="?gd=fosgailte"><g>fosgailte</g></a> <en>open</en>, <a href="?gd=cunnartach"><g>cunnartach</g></a></li>
-                </ul>
-            </li>
-            <!--<li><a href="?xx=prepositions/prepositions">prepositions</a> – <a href="?gd=aig"
-                        ><g>aig</g></a> (<a href="?gd=ag"><g>ag</g></a>), <a href="?gd=air"
-                        ><g>air</g></a>, <a href="?gd=an^preposition"><g>an</g></a>, <a
-                    href="?gd=le"><g>le</g></a>, <a href="?gd=ri"><g>ri</g></a></li>-->
-            <li><a href="?xx=adverbs/adverbs">adverbs</a></li>
-            <li>conjunctions – <a href="?gd=agus"><g>agus</g></a>, <a href="?gd=ach"
-                ><g>ach</g></a></li>
-            <li>question words – <a href="?gd=caait"><g>càit</g></a>
-                <en>where</en>, <a href="?gd=ciamar"><g>ciamar</g></a>
-                <en>how</en>, <a href="?gd=coo"><g>có</g></a>
-                <en>who, what</en>, <a href="?gd=dee"><g>dé</g></a>
-                <en>what</en></li>
-            <li>other – <a href="?gd=tapadh"><g>tapadh</g></a>, <a href="?gd=a^relative"
-                    ><g>a</g></a> (relative clause particle), <a href="?gd=fad"><g>fad</g></a>,
-                    <g>(sam) <a href="?gd=bith">bith</a></g></li>
-        </ul>
-    </p>
-    <p>The following semantic topics are discussed here – <ul>
-            <li><a href="?xx=nouns/names">names</a>
-                <ul>
-                    <li><a href="?xx=nouns/anthroponyms">anthroponyms</a></li>
-                </ul>
-            </li>
-            <li>entities <ul>
-                    <li>material entities – <ul>
-                            <li>things – <ul>
-                                    <li>animate – <ul>
-                                            <li>people – <a href="?gd=balach"><g>balach</g></a>, <a
-                                                  href="?gd=bodach"><g>bodach</g></a>, <a
-                                                  href="?gd=caileag"><g>caileag</g></a>, <a
-                                                  href="?gd=clachair"><g>clachair</g></a>, <a
-                                                  href="?gd=duine"><g>duine</g></a>, <a
-                                                  href="?gd=fear"><g>fear</g></a>, <a
-                                                  href="?gd=gille"><g>gille</g></a>
-                                            </li>
-                                        <li>animals – <a href="?gd=caora"><g>caora</g></a>, <a href="?gd=cat"><g>cat</g></a>, (<a href="?gd=crodh"><g>crodh</g></a>), <a
-                                                  href="?gd=cuu"><g>cù</g></a>, <a href="?gd=each"
-                                                  ><g>each</g></a>, <a href="?gd=iolair"
-                                                  ><g>iolair</g></a></li>
-                                            <li>parts – <a href="?gd=ceann"><g>ceann</g></a></li>
-                                        </ul>
-                                    </li>
-                                    <li>artifacts – <ul>
-                                            <li>buildings – <a href="?gd=sgoil"><g>sgoil</g></a>, <a
-                                                  href="?gd=taigh"><g>taigh</g></a>
-                                                <ul>
-                                                  <li>parts of buildings – <a href="?gd=balla"
-                                                  ><g>balla</g></a>, <a href="?gd=dorus"
-                                                  ><g>dorus</g></a>, <a href="?gd=laar"
-                                                  ><g>làr</g></a>, <a href="?gd=seoomar"
-                                                  ><g>seòmar</g></a>, <a href="?gd=teine"
-                                                  ><g>teine</g></a></li>
-                                                </ul>
-                                            </li>
-                                            <li>clothing – <a href="?gd=coota"><g>còta</g></a></li>
-                                            <li>other – <a href="?gd=baata"><g>bàta</g></a>, <a
-                                                  href="?gd=biiobull"><g>Bìobull</g></a>, <a
-                                                  href="?gd=bocsa"><g>bocsa</g></a>, <a
-                                                  href="?gd=boord"><g>bòrd</g></a>, <a
-                                                  href="?gd=botul"><g>botul</g></a>, <a
-                                                  href="?gd=coire"><g>coire</g></a>, <a
-                                                  href="?gd=leabhar"><g>leabhar</g></a>. <a
-                                                  href="?gd=maide"><g>maide</g></a>, <a
-                                                  href="?gd=peann"><g>peann</g></a>, <a
-                                                  href="?gd=poca"><g>poca</g></a>, <a href="?gd=ugh"
-                                                  ><g>ugh</g></a></li>
-                                        </ul>
-                                    </li>
-                                    <li>other – <a href="?gd=abhainn"><g>abhainn</g></a>, <a
-                                            href="?gd=achadh"><g>achadh</g></a>, <a href="?gd=baile"
-                                                ><g>baile</g></a>, <a href="?gd=clachan"
-                                                ><g>clachan</g></a>, <a href="?gd=cladach"
-                                                ><g>cladach</g></a>, <a href="?gd=cnoc"
-                                            ><g>cnoc</g></a>, <a href="?gd=loch"><g>loch</g></a>, <a
-                                            href="?gd=monadh"><g>monadh</g></a>, <a href="?gd=rud"
-                                                ><g>rud</g></a></li>
-                                </ul>
-                            </li>
-                            <li>substances – <a href="?gd=bainne"><g>bainne</g></a>, <a
-                                    href="?gd=falt"><g>falt</g></a>, <a href="?gd=gual"
-                                    ><g>gual</g></a>, <a href="?gd=uisge"><g>uisge</g></a></li>
-                        </ul>
-                    </li>
-                    <li>non-material – <a href="?gd=latha"><g>latha</g></a>, <a href="?gd=teas"
-                                ><g>teas</g></a></li>
-                    <li>activities – <a href="?gd=cluich"><g>cluich</g></a>, <a href="?gd=fuirich"
-                                ><g>fuirich</g></a>, <a href="?gd=iasgach"><g>iasgach</g></a>, <a
-                            href="?gd=obair"><g>obair</g></a></li>
-                </ul>
-            </li>
-        </ul>
-    </p>
+    <section id="nouns">
+        <h>nouns</h>
+        <p>
+            <ul>
+                <li><a href="?gd=abhainn"><g>abhainn</g></a>
+                    <fem/>
+                    <en>a river</en></li>
+                <li><a href="?gd=achadh"><g>achadh</g></a>
+                    <masc/>
+                    <en>a field</en>
+                </li>
+                <li><a href="?gd=adhar"><g>adhar</g></a>
+                    <masc/>
+                    <en>sky</en></li>
+                <li><a href="?gd=aimsir"><g>aimsir</g></a>
+                    <fem/>
+                    <en>weather</en></li>
+                <li><a href="?gd=arbhar"><g>arbhar</g></a>
+                    <masc/>
+                    <en>corn</en></li>
+                <li><a href="?gd=astar"><g>astar</g></a>
+                    <masc/>
+                    <en>distance</en></li>
+                <li><a href="?gd=baile"><g>baile</g></a>
+                    <masc/>
+                    <en>a town</en>
+                </li>
+                <li><a href="?gd=bainne"><g>bainne</g></a>
+                    <masc/>
+                    <en>milk</en></li>
+                <li><a href="?gd=balach"><g>balach</g></a>
+                    <masc/>
+                    <en>a boy</en></li>
+                <li><a href="?gd=balla"><g>balla</g></a>
+                    <masc/>
+                    <en>a wall</en>
+                </li>
+                <li><a href="?gd=bascaid"><g>bascaid</g></a>
+                    <fem/>
+                    <en>basket</en></li>
+                <li><a href="?gd=baata"><g>bàta</g></a>
+                    <masc/>
+                    <en>a boat</en>
+                    <pl/>
+                    <g>bàtaichean</g></li>
+                <li><a href="?gd=beinn"><g>beinn</g></a>
+                    <fem/>
+                    <en>a mountain</en>
+                    <gen/>
+                    <g>beinne</g></li>
+                <li><a href="?gd=biadh"><g>biadh</g></a>
+                    <masc/>
+                    <en>food</en>
+                    <gen/>
+                    <g>bìdh</g></li>
+                <li><a href="?gd=biiobull"><g>Bìobull</g></a>
+                    <masc/>
+                    <en>a Bible</en></li>
+                <li><a href="?gd=bocsa"><g>bocsa</g></a>
+                    <masc/>
+                    <en>a box</en></li>
+                <li><a href="?gd=bodach"><g>bodach</g></a>
+                    <masc/>
+                    <en>an old man</en></li>
+                <li><a href="?gd=boord"><g>bòrd</g></a>
+                    <masc/>
+                    <en>a table</en>
+                </li>
+                <li><a href="?gd=brot"><g>brot</g></a>
+                    <masc/>
+                    <en>soup, broth</en></li>
+                <li><a href="?gd=botul"><g>botul</g></a>
+                    <masc/>
+                    <en>a bottle</en></li>
+                <li><a href="?gd=caileag"><g>caileag</g></a>
+                    <fem/>
+                    <en>a girl</en></li>
+                <li><a href="?gd=caora"><g>caora</g></a>
+                    <fem/>
+                    <en>a sheep</en>
+                    <pl/>
+                    <g>caoraich</g></li>
+                <li><a href="?gd=cat"><g>cat</g></a>
+                    <masc/>
+                    <en>a cat</en></li>
+                <li><a href="?gd=ceann"><g>ceann</g></a>
+                    <masc/>
+                    <en>a head</en>
+                </li>
+                <li><a href="?gd=ciiobair"><g>cìobair</g></a>
+                    <masc/>
+                    <en>a shepherd</en></li>
+                <li><a href="?gd=clach"><g>clach</g></a>
+                    <fem/>
+                    <en>a stone</en></li>
+                <li><a href="?gd=clachair"><g>clachair</g></a>
+                    <masc/>
+                    <en>a stonemason</en></li>
+                <li><a href="?gd=clachan"><g>clachan</g></a>
+                    <masc/>
+                    <en>a village</en></li>
+                <li><a href="?gd=cladach"><g>cladach</g></a>
+                    <masc/>
+                    <en>a shore</en></li>
+                <li><a href="?gd=clann"><g>clann</g></a>
+                    <fem/>
+                    <en>children</en></li>
+                <li><a href="?gd=cliathach"><g>cliathach</g></a>
+                    <fem/>
+                    <en>a side</en></li>
+                <li><a href="?gd=cnoc"><g>cnoc</g></a>
+                    <masc/>
+                    <en>a hill</en>
+                </li>
+                <li><a href="?gd=coire"><g>coire</g></a>
+                    <masc/>
+                    <en>a kettle</en></li>
+                <li><a href="?gd=coota"><g>còta</g></a>
+                    <masc/>
+                    <en>a coat</en></li>
+                <li><a href="?gd=craobh"><g>craobh</g></a>
+                    <fem/>
+                    <en>a tree</en></li>
+                <li><a href="?gd=creag"><g>creag</g></a>
+                    <fem/>
+                    <en>a rock</en></li>
+                <li><a href="?gd=crodh"><g>crodh</g></a>
+                    <masc/>
+                    <en>cattle</en></li>
+                <li><a href="?gd=cuu"><g>cù</g></a>
+                    <masc/>
+                    <en>a dog</en>
+                    <slen/>
+                    <g>coin</g>
+                </li>
+                <li><a href="?gd=dachaidh"><g>dachaidh</g></a>
+                    <fem/>
+                    <en>a home</en></li>
+                <li><a href="?gd=dath"><g>dath</g></a>
+                    <masc/>
+                    <en>a colour</en></li>
+                <li><a href="?gd=dorus"><g>dorus</g></a>
+                    <masc/>
+                    <en>a door</en>
+                </li>
+                <li><a href="?gd=duine"><g>duine</g></a>
+                    <masc/>
+                    <en>a man</en>
+                </li>
+                <li><a href="?gd=each"><g>each</g></a>
+                    <masc/>
+                    <en>a horse</en></li>
+                <li><a href="?gd=eallach"><g>eallach</g></a>
+                    <masc/>
+                    <en>a burden, a load</en></li>
+                <li><a href="?gd=eilean"><g>eilean</g></a>
+                    <masc/>
+                    <en>an island</en></li>
+                <li><a href="?gd=eun"><g>eun</g></a>
+                    <masc/>
+                    <en>a bird</en></li>
+                <li><a href="?gd=falt"><g>falt</g></a>
+                    <masc/>
+                    <en>hair</en>
+                </li>
+                <li><a href="?gd=fang"><g>fang</g></a>
+                    <masc/>
+                    <en>a fank, a sheep fold</en></li>
+                <li><a href="?gd=fear"><g>fear</g></a>
+                    <masc/>
+                    <en>a man</en>
+                </li>
+                <li><a href="?gd=feasgar"><g>feasgar</g></a>
+                    <masc/>
+                    <en>an evening</en></li>
+                <li><a href="?gd=gas"><g>gas</g></a>
+                    <masc/>
+                    <en>gas</en></li>
+                <li><a href="?gd=gealach"><g>gealach</g></a>
+                    <fem/>
+                    <en>a moon</en></li>
+                <li><a href="?gd=gille"><g>gille</g></a>
+                    <masc/>
+                    <en>a boy</en></li>
+                <li><a href="?gd=grian"><g>grian</g></a>
+                    <fem/>
+                    <en>a sun</en></li>
+                <li><a href="?gd=gual"><g>gual</g></a>
+                    <masc/>
+                    <en>coal</en></li>
+                <li><a href="?gd=iarmailt"><g>iarmailt</g></a>
+                    <fem/>
+                    <en>a sky, a firmament</en></li>
+                <li><a href="?gd=iolair"><g>iolair</g></a>
+                    <fem/>
+                    <en>an eagle</en></li>
+                <li><a href="?gd=laar"><g>làr</g></a>
+                    <masc/>
+                    <en>a floor</en></li>
+                <li><a href="?gd=latha"><g>latha</g></a>
+                    <masc/>
+                    <en>a day</en>
+                </li>
+                <li><a href="?gd=leabhar"><g>leabhar</g></a>
+                    <masc/>
+                    <en>a book</en>
+                </li>
+                <li><a href="?gd=loch"><g>loch</g></a>
+                    <masc/>
+                    <en>a lake</en>
+                </li>
+                <li><a href="?gd=madainn"><g>madainn</g></a>
+                    <fem/>
+                    <en>a morning</en></li>
+                <li><a href="?gd=maide"><g>maide</g></a>
+                    <masc/>
+                    <en>a stick</en></li>
+                <li><a href="?gd=mionaid"><g>mionaid</g></a>
+                    <fem/>
+                    <en>a minute</en></li>
+                <li><a href="?gd=monadh"><g>monadh</g></a>
+                    <masc/>
+                    <en>a moor</en>
+                </li>
+                <li><a href="?gd=muir"><g>muir</g></a>
+                    <fem/>
+                    <en>a sea</en>
+                    <gen/>
+                    <g>mara</g>
+                </li>
+                <li><a href="?gd=obair"><g>obair</g></a>
+                    <fem/>
+                    <en>working, work</en>
+                    <gen/>
+                    <g>obrach</g>
+                    <pl/>
+                    <g>obraichean</g></li>
+                <li><a href="?gd=oord"><g>òrd</g></a>
+                    <masc/>
+                    <en>hammer</en></li>
+                <li><a href="?gd=peann"><g>peann</g></a>
+                    <masc/>
+                    <en>a pen</en>
+                </li>
+                <li><a href="?gd=poca"><g>poca</g></a>
+                    <masc/>
+                    <en>a sack, a bag</en>
+                </li>
+                <li><a href="?gd=rud"><g>rud</g></a>
+                    <masc/>
+                    <en>a thing</en>
+                </li>
+                <li><a href="?gd=samhradh"><g>samhradh</g></a>
+                    <masc/>
+                    <en>a summer</en></li>
+                <li><a href="?gd=saoghal"><g>saoghal</g></a>
+                    <masc/>
+                    <en>a world</en></li>
+                <li><a href="?gd=seoomar"><g>seòmar</g></a>
+                    <masc/>
+                    <en>a room</en></li>
+                <li><a href="?gd=sgoil"><g>sgoil</g></a>
+                    <fem/>
+                    <en>a school</en>
+                </li>
+                <li><a href="?gd=siide"><g>sìde</g></a>
+                    <fem/>
+                    <en>weather</en></li>
+                <li><a href="?gd=siiol"><g>sìol</g></a>
+                    <masc/>
+                    <en>a seed, seed(s)</en></li>
+                <li><a href="?gd=slat"><g>slat</g></a>
+                    <fem/>
+                    <en>a rod</en></li>
+                <li><a href="?gd=slighe"><g>slighe</g></a>
+                    <fem/>
+                    <en>a way, a journey</en></li>
+                <li><a href="?gd=sloc"><g>sloc</g></a>
+                    <masc/>
+                    <en>a pit, a hollow</en></li>
+                <li><a href="?gd=snaath"><g>snàth</g></a>
+                    <masc/>
+                    <en>a thread</en></li>
+                <li><a href="?gd=solus"><g>solus</g></a>
+                    <masc/>
+                    <en>a light, light</en></li>
+                <li><a href="?gd=sraaid"><g>sràid</g></a>
+                    <fem/>
+                    <en>a street</en></li>
+                <li><a href="?gd=sroon"><g>sròn</g></a>
+                    <fem/>
+                    <en>a nose</en></li>
+                <li><a href="?gd=suugh"><g>sùgh</g></a>
+                    <masc/>
+                    <en>soup, juice</en></li>
+                <li><a href="?gd=suidheachan"><g>suidheachan</g></a>
+                    <masc/>
+                    <en>a seat</en></li>
+                <li><a href="?gd=suuil"><g>sùil</g></a>
+                    <fem/>
+                    <en>an eye</en>
+                    <gen/>
+                    <g>sùla</g>
+                </li>
+                <li><a href="?gd=taigh"><g>taigh</g></a>
+                    <masc/>
+                    <en>a house</en>
+                </li>
+                <li><a href="?gd=teas"><g>teas</g></a>
+                    <masc/>
+                    <en>heat</en>
+                </li>
+                <li><a href="?gd=teine"><g>teine</g></a>
+                    <masc/>
+                    <en>a fire</en>
+                </li>
+                <li><a href="?gd=traaigh"><g>tràigh</g></a>
+                    <fem/>
+                    <en>a beach</en></li>
+                <li><a href="?gd=tuathanach"><g>tuathanach</g></a>
+                    <masc/>
+                    <en>a farmer</en></li>
+                <li><a href="?gd=tubhailte"><g>tubhailte</g></a>
+                    <fem/>
+                    <en>a tablecloth</en></li>
+                <li><a href="?gd=uamh"><g>uamh</g></a>
+                    <fem/>
+                    <en>a cave</en></li>
+                <li><a href="?gd=uan"><g>uan</g></a>
+                    <masc/>
+                    <en>a lamb</en></li>
+                <li><a href="?gd=ugh"><g>ugh</g></a>
+                    <masc/>
+                    <en>an egg</en>
+                    <pl/>
+                    <g>uighean</g></li>
+                <li><a href="?gd=uisge"><g>uisge</g></a>
+                    <masc/>
+                    <en>water</en></li>
+            </ul>
+        </p>
+    </section>
+
+    <section id="adjectives">
+        <h>adjectives</h>
+        <p><ul>
+                <li><a href="?gd=abaich"><g>abaich</g></a>
+                    <en>ripe</en></li>
+                <li><a href="?gd=aard"><g>àrd</g></a>
+                    <en>high, tall</en></li>
+                <li><a href="?gd=baan"><g>bàn</g></a>
+                    <en>pale</en></li>
+                <li><a href="?gd=beag"><g>beag</g></a>
+                    <en>small, little</en> – <slen/>
+                    <g>big(e)</g></li>
+                <li><a href="?gd=blaath"><g>blàth</g></a>
+                    <en>warm</en></li>
+                <li><a href="?gd=booidheach"><g>bòidheach</g></a>
+                    <en>pretty</en>
+                    <slen/> bòidhich(e)</li>
+                <li><a href="?gd=briagha"><g>briagha</g></a>
+                    <en>fine, beautiful, lovely</en></li>
+                <li><a href="?gd=ceaarr"><g>ceàrr</g></a>
+                    <en>wrong</en></li>
+                <li><a href="?gd=cruinn"><g>cruinn</g></a>
+                    <en>round</en></li>
+                <li><a href="?gd=dearg"><g>dearg</g></a>
+                    <en>red</en></li>
+                <li><a href="?gd=domhain"><g>domhain</g></a>
+                    <en>deep</en></li>
+                <li><a href="?gd=donn"><g>donn</g></a>
+                    <en>brown</en>
+                    <slen/> duinn(e)</li>
+                <li><a href="?gd=dorcha"><g>dorcha</g></a>
+                    <en>dark</en></li>
+                <li><a href="?gd=dubh"><g>dubh</g></a>
+                    <en>black</en></li>
+                <li><a href="?gd=fada"><g>fada</g></a>
+                    <en>long</en></li>
+                <li><a href="?gd=fliuch"><g>fliuch</g></a>
+                    <en>wet</en> – <slen/>
+                    <g>flich(e)</g></li>
+                <li><a href="?gd=fuar"><g>fuar</g></a>
+                    <en>cold</en> – <slen/>
+                    <g>fuair(e)</g></li>
+                <li><a href="?gd=geal"><g>geal</g></a>
+                    <en>white</en> – <slen/>
+                    <g>gil(e)</g></li>
+                <li><a href="?gd=glas"><g>glas</g></a>
+                    <en>grey</en></li>
+                <li><a href="?gd=goirt"><g>goirt</g></a>
+                    <en>sore</en></li>
+                <li><a href="?gd=gorm"><g>gorm</g></a>
+                    <en>blue, green</en> – <slen/> guirm(e)</li>
+                <li><a href="?gd=laan"><g>làn</g></a>
+                    <en>full</en></li>
+                <li><a href="?gd=luath"><g>luath</g></a>
+                    <en>swift, fast</en></li>
+                <li><a href="?gd=math"><g>math</g></a>
+                    <en>good</en></li>
+                <li><a href="?gd=moor"><g>mór</g></a>
+                    <en>big, large, great</en></li>
+                <li><a href="?gd=salach"><g>salach</g></a>
+                    <en>dirty</en></li>
+                <li><a href="?gd=sgiith"><g>sgìth</g></a>
+                    <en>tired</en></li>
+                <li><a href="?gd=teth"><g>teth</g></a>
+                    <en>hot</en></li>
+                <li><a href="?gd=trang"><g>trang</g></a>
+                    <en>busy</en></li>
+                <li><a href="?gd=trom"><g>trom</g></a>
+                    <en>heavy</en> – <slen/>
+                    <g>truim(e)</g></li>
+                <li><a href="?gd=fosgailte"><g>fosgailte</g></a>
+                    <en>open</en>, <a href="?gd=cunnartach"><g>cunnartach</g></a></li>
+            </ul>
+        </p>
+    </section>
+
+    <section id="verbs">
+        <h>verbs</h>
+        <p><ul>
+                <li><a href="?gd=cluich"><g>cluich</g></a>
+                    <en>play</en></li>
+                <li><a href="?gd=coimhead"><g>coimhead</g></a>
+                    <en>look, watch</en></li>
+                <li><a href="?gd=cuir"><g>cuir</g></a>
+                    <en>put, send</en></li>
+                <li><a href="?gd=deean"><g>dèan</g></a>
+                    <en>do, make</en></li>
+                <li><a href="?gd=deaarrs"><g>deàrrs</g></a>
+                    <en>shine</en></li>
+                <li><a href="?gd=faag"><g>fàg</g></a>
+                    <en>leave</en></li>
+                <li><a href="?gd=faic"><g>faic</g></a>
+                    <en>see</en></li>
+                <li><a href="?gd=fuirich"><g>fuirich</g></a>
+                    <en>wait, stay, live</en></li>
+                <li><a href="?gd=iasgaich"><g>iasgaich</g></a>
+                    <en>do fishing, fish</en></li>
+                <li><a href="?gd=obair"><g>obair</g></a>
+                    <en>working, work</en></li>
+                <li><a href="?gd=ruig"><g>ruig</g></a>
+                    <en>reach</en></li>
+                <li><a href="?gd=ruith"><g>ruith</g></a>
+                    <en>run</en></li>
+                <li><a href="?gd=seinn"><g>seinn</g></a>
+                    <en>sing</en></li>
+                <li><a href="?gd=snaamh"><g>snàmh</g></a>
+                    <en>swim</en></li>
+                <li><a href="?gd=stad"><g>stad</g></a>
+                    <en>stop</en></li>
+                <li><a href="?gd=thig"><g>thig</g></a>
+                    <en>come</en></li>
+                <li><a href="?gd=thoir"><g>thoir</g></a>
+                    <en>give, take, bring</en></li>
+            </ul>
+        </p>
+    </section>
+
+
+
+
+
 
 
 </module>

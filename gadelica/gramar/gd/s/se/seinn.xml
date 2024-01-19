@@ -1,2 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>seinn</h>
+    <p><g>seinn</g> <vb/>
+        <en>sing</en></p>
+    
+    <section>
+        <h>nouns</h>
+        <module id="eun">
+            <h>eun</h>
+            <p><g>seinn <a href="?gd=eun">eun</a></g> <en>a bird sings</en> –
+                <xl>
+                    <li>
+                        <gd>Dh’ fhàg Màiri agus Seumas an taigh tràth anns a’ mhadainn. Bha an latha blàth, agus bha na h-eòin a’ seinn anns na craobhan.</gd>
+                        <tr>Mary and James left the house early in the morning. The day was warm, and the birds were singing in the trees.</tr>
+                        <ref text="617">td. 76 [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+</module>
 
