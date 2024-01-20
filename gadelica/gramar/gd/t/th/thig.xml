@@ -3,40 +3,53 @@
   <h>thig</h>
   <!-- Keep working through Mark dictionary. And from Chapter 10 in Robby textbook. -->
   <p><g>thig</g>
-    <en>come</en> is an <a href="?xx=verbs/simple_verbs">irregular verb</a>.</p>
+    <vb/>
+    <en>come</en></p>
 
   <section>
     <h>nouns</h>
-    <section>
-      <h>locative</h>
-      <module id="dachaidh">
-        <h>dachaidh</h>
-        <p><g>thig <a href="?gd=dachaidh">dhachaidh</a></g>
-          <en>comes home</en> – <xl>
-            <li>
-              <gd>Thàinig mi dhachaidh feasgar.</gd>
-              <tr>I arrived home in the evening.</tr>
-              <ref text="617">td. 21</ref>
-            </li>
-          </xl>
-        </p>
-      </module>
-    </section>
-    <section>
-      <h>temporal</h>
-      <module id="feasgar">
-        <h>feasgar</h>
-        <p><g>thig <a href="?gd=feasgar">feasgar</a></g>
-          <en>comes in the evening</en> – <xl>
-            <li>
-              <gd>Thàinig mi dhachaidh feasgar.</gd>
-              <tr>I arrived home in the evening.</tr>
-              <ref text="617">td. 21</ref>
-            </li>
-          </xl>
-        </p>
-      </module>
-    </section>
+    <!--<section>
+      <h>locative</h>-->
+    <module id="dachaidh">
+      <h>dachaidh</h>
+      <p><g>thig ... <a href="?gd=dachaidh">dhachaidh</a></g>
+        <en>... comes home</en> – <xl>
+          <li>
+            <gd>Thàinig mi dhachaidh feasgar.</gd>
+            <tr>I arrived home in the evening.</tr>
+            <ref text="617">td. 21</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <module id="allt">
+      <h>allt</h>
+      <p><g>thig ... gu <a href="?gd=allt">allt</a></g>
+        <en>... comes to a burn</en> – <xl>
+          <li>
+            <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach.</gd>
+            <tr>Mary and James came to a burn and James started fishing.</tr>
+            <ref text="617">td. 76</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <!--</section>-->
+    <!-- <section>
+      <h>temporal</h>-->
+    <module id="feasgar">
+      <h>feasgar</h>
+      <p><g>thig ... <a href="?gd=feasgar">feasgar</a></g>
+        <en>... comes in the evening</en> – <xl>
+          <li>
+            <gd>Thàinig mi dhachaidh feasgar.</gd>
+            <tr>I arrived home in the evening.</tr>
+            <ref text="617">td. 21</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <!--</section>-->
   </section>
 
 

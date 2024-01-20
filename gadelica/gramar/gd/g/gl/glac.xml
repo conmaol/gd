@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>glac</h>
+    <p><g>glac</g>
+        <vb/>
+        <en>catch</en></p>
+
+    <section>
+        <h>nouns</h>
+        <module id="breac">
+            <h>breac</h>
+            <p><g>glac ... <a href="?gd=breac">breac</a></g>
+                <en>... catches a trout</en> – <xl>
+                    <li>
+                        <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach. Cha
+                            do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
+                        <tr>Mary and James came to a burn and James started fishing. James didn’t
+                            catch a trout but Mary found a nest in the heather.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <module id="iasgaich">
+            <h>iasgaich</h>
+            <p><g><a href="?gd=iasgaich">iasgaich</a> ... agus glac ...</g>
+                <en>... fishes and catches ...</en> – <xl>
+                    <li>
+                        <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach. Cha
+                            do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
+                        <tr>Mary and James came to a burn and James started fishing. James didn’t
+                            catch a trout but Mary found a nest in the heather.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>

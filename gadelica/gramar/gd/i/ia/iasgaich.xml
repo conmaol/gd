@@ -2,7 +2,8 @@
 <module>
     <h>iasgaich</h>
     <p><g>iasgaich</g>
-        <en>do fishing, fish</en> is a <a href="?xx=verbs/verbs">verb</a>.</p>
+        <vb/>
+        <en>do fishing, fish</en></p>
 
     <section>
         <h>nouns</h>
@@ -11,7 +12,7 @@
         <module id="loch">
             <h>loch</h>
             <p><g>iasgaich ... air <a href="?gd=loch">loch</a></g>
-                <en>... does fishing on a lake</en> – <xl>
+                <en>... fishes on a lake</en> – <xl>
                     <li>
                         <gd>An robh Calum ag iasgach air an loch an dé? Bha.</gd>
                         <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
@@ -28,13 +29,25 @@
         <module id="abhainn">
             <h>abhainn</h>
             <p><g>iasgaich ... air <a href="?gd=abhainn">abhainn</a></g>
-                <en>... does fishing on a river</en> – <xl>
+                <en>... fishes on a river</en> – <xl>
                     <li>
                         <gd>Có bha ag iasgach an diugh? Bha Alasdair. Càit an robh Alasdair ag
                             iasgach? Bha e ag iasgach air an abhainn.</gd>
                         <tr>Who was fishing today? Alexander was. Where was Alexander fishing? He
                             was fishing on the river.</tr>
                         <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="allt">
+            <h>allt</h>
+            <p><g>iasgach ... air <a href="?gd=allt">allt</a></g>
+                <en>... fishes on a burn</en> – <xl>
+                    <li>
+                        <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach.</gd>
+                        <tr>Mary and James came to a burn and James started fishing.</tr>
+                        <ref text="617">td. 76</ref>
                     </li>
                 </xl>
             </p>
@@ -55,6 +68,37 @@
             </p>
         </module>
     </section>
+
+    <section>
+        <h>verbs</h>
+        <module id="glac">
+            <h>glac</h>
+            <p><g>iasgaich ... agus <a href="?gd=glac">glac</a> ...</g>
+                <en>... fishes and catches ...</en> – <xl>
+                    <li>
+                        <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach. Cha
+                            do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
+                        <tr>Mary and James came to a burn and James started fishing. James didn’t
+                            catch a trout but Mary found a nest in the heather.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="tooisich">
+            <h>tòisich</h>
+            <p><g><a href="?gd=tooisich">tòisich</a> ... air iasgach</g>
+                <en>... starts fishing</en> – <xl>
+                    <li>
+                        <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach.</gd>
+                        <tr>Mary and James came to a burn and James started fishing.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
 
     <!--<section>
         <h>adverbs</h>

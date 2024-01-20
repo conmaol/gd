@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
     <h>tòisich</h>
-    <p><g>tòisich</g>
+    <p>tòisich <vb/> <en>begin, start</en></p>
+    
+    <section>
+        <h>verbs</h>
+        <module id="iasgaich">
+            <h>iasgaich</h>
+            <p><g>tòisich ... air <a href="?gd=iasgaich">iasgach</a></g>
+                <en>... starts fishing</en> – <xl>
+                    <li>
+                        <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach.</gd>
+                        <tr>Mary and James came to a burn and James started fishing.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+    
+    
+   <!-- <p><g>tòisich</g>
         <en>start, begin, commence, inaugurate, launch, originate</en> is a (regular) <a
             href="?xx=verbs/verbs">verb</a>, derived from the noun <a href="?gd=toiseach"
                 ><g>toiseach</g></a>, and with verbal noun <g>tòiseachadh</g>
         <masc/>
         <g>tòisich</g> marks <a href="?q=verbal_aspect">inchoative</a> verbal aspect, cf. <a
             href="?gd=teann"><g>teann</g></a>
-        <en>begin, start</en>.</p>
+        <en>begin, start</en>.</p>-->
 
-    <section id="forms">
+    <!--<section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>tòisich</g> are – <ul>
                 <li><m>tòisichidh</m> – future independent ie. <en>will start</en></li>
@@ -92,7 +112,7 @@
         </section>
 
 
-        <!--
+        <!-\-
         <p>The full forms of <g>tòisich</g> are – 
             
             
@@ -260,10 +280,10 @@
             </ul>
             
         </p>
-        -->
-    </section>
+        -\->
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>dependents</h>
         <section id="deps-sbj">
             <h>subject</h>
@@ -424,7 +444,7 @@
                                     </li>
                                 </xl></li>
                         </ul>
-                        <!--
+                        <!-\-
                         <box id="air">
                             <title>tòisich air rud</title>
                             <xl>
@@ -435,7 +455,7 @@
                                 <li>3504</li>
                             </xl>
                         </box>
-                        -->
+                        -\->
                     </p>
                 </module>
                 <module id="toisich_ri_inf" status="bronze">
@@ -469,7 +489,7 @@
                             </li>
                         </xl>
                     </p>
-                    <!--
+                    <!-\-
                     <box id="ag">
                         <title>tòisich a’ dèanamh rud</title>
                         <xl>
@@ -485,7 +505,7 @@
                             <li>3505</li>
                         </xl>
                     </box>
-                    -->
+                    -\->
                 </module>
             </section>
             <section id="deps-mods">
@@ -527,9 +547,9 @@
                 </module>
             </section>
         </section>
-    </section>
+    </section>-->
 
-    <section>
+    <!--<section>
         <h>uses</h>
         <section id="uses-derivatives">
             <h>derivatives</h>
@@ -539,12 +559,12 @@
                     <en>beginning, start(ing)</en> is a masculine common noun derived from the verb
                         <g>tòisich</g>, with genitive singular <g>tòiseachaidh</g>.</p>
 
-                <!--
+                <!-\-
                 <p><g>Is e obair latha tòiseachadh.</g>
                     <en>Getting started is a day’s work.</en> [proverb]</p>
                 <p><g>tòiseachadh ùr</g>
                     <en>a fresh start</en></p>
-                    -->
+                    -\->
                 <section>
                     <h>uses</h>
                     <section>
@@ -639,6 +659,6 @@
                 </p>
             </module>
         </section>
-    </section>
+    </section>-->
 
 </module>

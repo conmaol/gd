@@ -19,6 +19,9 @@
                 <li><a href="?gd=aimsir"><g>aimsir</g></a>
                     <fem/>
                     <en>weather</en></li>
+                <li><a href="?gd=allt"><g>allt</g></a>
+                    <masc/>
+                    <en>a stream, a burn</en></li>
                 <li><a href="?gd=arbhar"><g>arbhar</g></a>
                     <masc/>
                     <en>corn</en></li>
@@ -76,6 +79,9 @@
                 <li><a href="?gd=botul"><g>botul</g></a>
                     <masc/>
                     <en>a bottle</en></li>
+                <li><a href="?gd=breac"><g>breac</g></a>
+                    <masc/>
+                    <en>a trout</en></li>
                 <li><a href="?gd=caileag"><g>caileag</g></a>
                     <fem/>
                     <en>a girl</en></li>
@@ -177,6 +183,9 @@
                 <li><a href="?gd=feasgar"><g>feasgar</g></a>
                     <masc/>
                     <en>an evening</en></li>
+                <li><a href="?gd=fraoch"><g>fraoch</g></a>
+                    <masc/>
+                    <en>heather</en></li>
                 <li><a href="?gd=gas"><g>gas</g></a>
                     <masc/>
                     <en>gas</en></li>
@@ -232,6 +241,9 @@
                     <gen/>
                     <g>mara</g>
                 </li>
+                <li><a href="?gd=nead"><g>nead</g></a>
+                    <masc/>
+                    <en>a nest</en></li>
                 <li><a href="?gd=obair"><g>obair</g></a>
                     <fem/>
                     <en>working, work</en>
@@ -241,7 +253,7 @@
                     <g>obraichean</g></li>
                 <li><a href="?gd=oord"><g>òrd</g></a>
                     <masc/>
-                    <en>hammer</en></li>
+                    <en>a hammer</en></li>
                 <li><a href="?gd=peann"><g>peann</g></a>
                     <masc/>
                     <en>a pen</en>
@@ -438,8 +450,12 @@
                     <en>leave</en></li>
                 <li><a href="?gd=faic"><g>faic</g></a>
                     <en>see</en></li>
+                <li><a href="?gd=faigh"><g>faigh</g></a>
+                    <en>get, find</en></li>
                 <li><a href="?gd=fuirich"><g>fuirich</g></a>
                     <en>wait, stay, live</en></li>
+                <li><a href="?gd=glac"><g>glac</g></a>
+                    <en>catch</en></li>
                 <li><a href="?gd=iasgaich"><g>iasgaich</g></a>
                     <en>do fishing, fish</en></li>
                 <li><a href="?gd=obair"><g>obair</g></a>
@@ -458,6 +474,8 @@
                     <en>come</en></li>
                 <li><a href="?gd=thoir"><g>thoir</g></a>
                     <en>give, take, bring</en></li>
+                <li><a href="?gd=tooisich"><g>tòisich</g></a>
+                    <en>start, begin</en></li>
             </ul>
         </p>
     </section>

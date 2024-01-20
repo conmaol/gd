@@ -1,9 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze">
+<module>
   <h>faigh</h>
-  <p><g>faigh</g>
-    <en>get</en> is an irregular verb.</p>
-  <section id="forms">
+  <p><g>faigh</g> <vb/> <en>get, find</en></p>
+  
+  <section>
+    <h>nouns</h>
+    <module id="nead">
+      <h>nead</h>
+      <p><g>faigh ... <a href="?gd=nead">nead</a></g>
+        <en>... finds a nest</en> – <xl>
+          <li>
+            <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach. Cha
+              do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
+            <tr>Mary and James came to a burn and James started fishing. James didn’t
+              catch a trout but Mary found a nest in the heather.</tr>
+            <ref text="617">td. 76</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <module id="fraoch">
+      <h>fraoch</h>
+      <p><g>faigh ... ann am <a href="?gd=fraoch">fraoch</a></g>
+        <en>... finds ... in heather</en> – <xl>
+          <li>
+            <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach. Cha
+              do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
+            <tr>Mary and James came to a burn and James started fishing. James didn’t
+              catch a trout but Mary found a nest in the heather.</tr>
+            <ref text="617">td. 76</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+  </section>
+  
+  
+  
+ 
+  <!--<section id="forms">
     <h>forms</h>
     <p>The principal parts of <g>faigh</g> are – <ul>
         <li><m>gheibh</m> – future independent ie. <en>will get</en></li>
@@ -257,7 +292,7 @@
           <li>There is an alternative dialectal verbal noun – <g>faotainn</g>.</li>
         </ol>
     </p>
-  </section>
+  </section>-->
   
   <!--
   <module id="relations">

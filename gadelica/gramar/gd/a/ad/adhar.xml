@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>adhar</h>
-    <p><g>adhar</g>
-        <en>a sky</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+    <p><g>adhar</g> <masc/>
+        <en>a sky</en></p>
     
     <section>
         <h>adjectives</h>
