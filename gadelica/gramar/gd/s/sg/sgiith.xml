@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>sgìth</h>
-    <p><g>sgìth</g>
-        <en>tired</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+    <p><g>sgìth</g> <adj/>
+        <en>tired</en></p>
 
 <section>
     <h>nouns</h>
@@ -47,6 +47,18 @@
         </module>
     </section>
     
+    <section id="other">
+        <h>other</h>
+        <p>
+            <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Bha iad glé sgìth nuair a thàinig iad dhachaidh feasgar.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] They were very tired when they came home in the evening.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
     
     
 

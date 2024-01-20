@@ -13,6 +13,10 @@
                     <masc/>
                     <en>a field</en>
                 </li>
+                <li><a href="?gd=acras"><g>acras</g></a>
+                    <masc/>
+                    <en>hunger</en>
+                </li>
                 <li><a href="?gd=adhar"><g>adhar</g></a>
                     <masc/>
                     <en>sky</en></li>
@@ -339,6 +343,10 @@
                     <masc/>
                     <en>a fire</en>
                 </li>
+                <li><a href="?gd=tolman"><g>tolman</g></a>
+                    <masc/>
+                    <en>a hillock</en>
+                </li>
                 <li><a href="?gd=traaigh"><g>tràigh</g></a>
                     <fem/>
                     <en>a beach</en></li>
@@ -467,8 +475,8 @@
                     <en>catch</en></li>
                 <li><a href="?gd=iasgaich"><g>iasgaich</g></a>
                     <en>do fishing, fish</en></li>
-            <li><a href="?gd=leum"><g>leum</g></a>
-                <en>jump</en></li>
+                <li><a href="?gd=leum"><g>leum</g></a>
+                    <en>jump</en></li>
                 <li><a href="?gd=obair"><g>obair</g></a>
                     <en>working, work</en></li>
                 <li><a href="?gd=ruig"><g>ruig</g></a>
@@ -481,6 +489,8 @@
                     <en>swim</en></li>
                 <li><a href="?gd=stad"><g>stad</g></a>
                     <en>stop</en></li>
+                <li><a href="?gd=suidh"><g>suidh</g></a>
+                    <en>sit (down)</en></li>
                 <li><a href="?gd=thig"><g>thig</g></a>
                     <en>come</en></li>
                 <li><a href="?gd=thoir"><g>thoir</g></a>
