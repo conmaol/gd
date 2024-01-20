@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
-    <h>ruith</h>
-    <p><g>ruith</g>
+    <h>leum</h>
+    <p><g>leum</g>
         <vb/>
-        <en>run</en></p>
+        <en>jump</en></p>
 
     <section>
         <h>nouns</h>
         <module id="maigheach">
             <h>maigheach</h>
-            <p><g>ruith <a href="?gd=maigheach">maigheach</a></g>
-                <en>a hare runs</en> – <xl>
+            <p><g>leum <a href="?gd=maigheach">maigheach</a></g>
+                <en>a hare jumps</en> – <xl>
                     <li>
                         <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach
                             as an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
@@ -21,32 +21,15 @@
                 </xl>
             </p>
         </module>
-        <module id="bruthach">
-            <h>bruthach</h>
-            <p><g>ruith ... air <a href="?gd=bruthach">bruthach</a></g>
-                <en>... runs on a slope</en> – <xl>
+        <module id="feur">
+            <h>feur</h>
+            <p><g>leum ... à <a href="?gd=feur">feur</a></g>
+                <en>... jumps out of grass</en> – <xl>
                     <li>
                         <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach
                             as an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
                         <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of
                             the grass and it ran swiftly up the slope.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section>
-        <h>adjectives</h>
-        <module id="luath">
-            <h>luath</h>
-            <p><g>ruith ... gu <a href="?gd=luath">luath</a></g>
-                <en>... runs quickly</en> – <xl>
-                    <li>
-                        <gd>Leum maigheach a mach as an fheur agus ruith i gu luath suas a’
-                            bhruthach.</gd>
-                        <tr>A hare jumped out of the grass and it ran swiftly up the slope.</tr>
                         <ref text="617">td. 76</ref>
                     </li>
                 </xl>

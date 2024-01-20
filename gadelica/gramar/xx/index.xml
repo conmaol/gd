@@ -82,6 +82,9 @@
                 <li><a href="?gd=breac"><g>breac</g></a>
                     <masc/>
                     <en>a trout</en></li>
+                <li><a href="?gd=bruthach"><g>bruthach</g></a>
+                    <fem/>
+                    <en>a slope</en></li>
                 <li><a href="?gd=caileag"><g>caileag</g></a>
                     <fem/>
                     <en>a girl</en></li>
@@ -183,6 +186,9 @@
                 <li><a href="?gd=feasgar"><g>feasgar</g></a>
                     <masc/>
                     <en>an evening</en></li>
+                <li><a href="?gd=feur"><g>feur</g></a>
+                    <masc/>
+                    <en>grass</en></li>
                 <li><a href="?gd=fraoch"><g>fraoch</g></a>
                     <masc/>
                     <en>heather</en></li>
@@ -228,6 +234,9 @@
                 <li><a href="?gd=maide"><g>maide</g></a>
                     <masc/>
                     <en>a stick</en></li>
+                <li><a href="?gd=maigheach"><g>maigheach</g></a>
+                    <fem/>
+                    <en>a hare</en></li>
                 <li><a href="?gd=mionaid"><g>mionaid</g></a>
                     <fem/>
                     <en>a minute</en></li>
@@ -458,6 +467,8 @@
                     <en>catch</en></li>
                 <li><a href="?gd=iasgaich"><g>iasgaich</g></a>
                     <en>do fishing, fish</en></li>
+            <li><a href="?gd=leum"><g>leum</g></a>
+                <en>jump</en></li>
                 <li><a href="?gd=obair"><g>obair</g></a>
                     <en>working, work</en></li>
                 <li><a href="?gd=ruig"><g>ruig</g></a>

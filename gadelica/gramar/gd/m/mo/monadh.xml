@@ -1,49 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>monadh</h>
-    <p><g>monadh</g> <masc/>
+    <p><g>monadh</g>
+        <masc/>
         <en>a moor</en></p>
 
     <section>
         <h>nouns</h>
-        <module id="bodach">
-            <h>bodach</h>
-            <p><g><a href="?gd=bodach">bodach</a> ann am monadh</g>
-                <en>an old man on a moor</en> – <xl>
-                    <li>
-                        <gd>Tha am bodach anns a’ mhonadh leis a’ chù.</gd>
-                        <tr>The old man is on the moor with the dog.</tr>
-                        <ref text="617">td. 21 [229]</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="caora">
-            <h>caora</h>
-            <p><g><a href="?gd=caora">caora</a> ann am monadh</g>
-                <en>a sheep on a moor</en> – <xl>
-                    <li>
-                        <gd>Bha mi anns a’ mhonadh an dé. Chunnaic mi caoraich agus crodh anns a’
-                            mhonadh.</gd>
-                        <tr>I was on the moor yesterday. I saw sheep and cattle on the moor.</tr>
-                        <ref text="617">td. 21</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="crodh">
-            <h>crodh</h>
-            <p><g><a href="?gd=crodh">crodh</a> ann am monadh</g>
-                <en>cattle on a moor</en> – <xl>
-                    <li>
-                        <gd>Bha mi anns a’ mhonadh an dé. Chunnaic mi caoraich agus crodh anns a’
-                            mhonadh.</gd>
-                        <tr>I was on the moor yesterday. I saw sheep and cattle on the moor.</tr>
-                        <ref text="617">td. 21</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <section>
+            <h>people</h>
+            <module id="bodach">
+                <h>bodach</h>
+                <p><g><a href="?gd=bodach">bodach</a> ann am monadh</g>
+                    <en>an old man on a moor</en> – <xl>
+                        <li>
+                            <gd>Tha am bodach anns a’ mhonadh leis a’ chù.</gd>
+                            <tr>The old man is on the moor with the dog.</tr>
+                            <ref text="617">td. 21 [229]</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="ciiobair">
+                <h>cìobair</h>
+                <p><g><a href="?gd=ciiobair">cìobair</a> ann am monadh</g>
+                    <en>a shepherd on a moor</en> – <xl>
+                        <li>
+                            <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
+                                fhang.</gd>
+                            <tr>When Mary and James reached the moor, the shepherds were at the
+                                fank.</tr>
+                            <ref text="617">td. 76</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+        <section>
+            <h>livestock</h>
+            <module id="caora">
+                <h>caora</h>
+                <p><g><a href="?gd=caora">caora</a> ann am monadh</g>
+                    <en>a sheep on a moor</en> – <xl>
+                        <li>
+                            <gd>Bha mi anns a’ mhonadh an dé. Chunnaic mi caoraich agus crodh anns
+                                a’ mhonadh.</gd>
+                            <tr>I was on the moor yesterday. I saw sheep and cattle on the
+                                moor.</tr>
+                            <ref text="617">td. 21</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="crodh">
+                <h>crodh</h>
+                <p><g><a href="?gd=crodh">crodh</a> ann am monadh</g>
+                    <en>cattle on a moor</en> – <xl>
+                        <li>
+                            <gd>Bha mi anns a’ mhonadh an dé. Chunnaic mi caoraich agus crodh anns
+                                a’ mhonadh.</gd>
+                            <tr>I was on the moor yesterday. I saw sheep and cattle on the
+                                moor.</tr>
+                            <ref text="617">td. 21</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
         <module id="fang">
             <h>fang</h>
             <p><g><a href="?gd=fang">fang</a> ann am monadh</g>
@@ -58,29 +81,18 @@
                 </xl>
             </p>
         </module>
-        <module id="ciiobair">
-            <h>cìobair</h>
-            <p><g><a href="?gd=ciiobair">cìobair</a> ann am monadh</g>
-                <en>a shepherd on a moor</en> – <xl>
-                    <li>
-                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
-                            fhang.</gd>
-                        <tr>When Mary and James reached the moor, the shepherds were at the
-                            fank.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+
         <module id="nead">
             <h>nead</h>
             <p><g><a href="?gd=nead">nead</a> ann am monadh</g>
                 <en>a nest on a moor</en> – <xl>
                     <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus thòisich Seumas air iasgach. Cha
-                            do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] They came to a burn and James started fishing. James didn’t
-                            catch a trout but Mary found a nest in the heather.</tr>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt
+                            agus thòisich Seumas air iasgach. Cha do ghlac Seumas breac ach fhuair
+                            Màiri nead anns an fhraoch.</gd>
+                        <tr>Mary and James were on the moor yesterday. [...] They came to a burn and
+                            James started fishing. James didn’t catch a trout but Mary found a nest
+                            in the heather.</tr>
                         <ref text="617">td. 76</ref>
                     </li>
                 </xl>
@@ -91,10 +103,12 @@
             <p><g><a href="?gd=allt">allt</a> ann am monadh</g>
                 <en>a burn on a moor</en> – <xl>
                     <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus thòisich Seumas air iasgach. Cha
-                            do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] They came to a burn and James started fishing. James didn’t
-                            catch a trout but Mary found a nest in the heather.</tr>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt
+                            agus thòisich Seumas air iasgach. Cha do ghlac Seumas breac ach fhuair
+                            Màiri nead anns an fhraoch.</gd>
+                        <tr>Mary and James were on the moor yesterday. [...] They came to a burn and
+                            James started fishing. James didn’t catch a trout but Mary found a nest
+                            in the heather.</tr>
                         <ref text="617">td. 76</ref>
                     </li>
                 </xl>
@@ -105,10 +119,54 @@
             <p><g><a href="?gd=fraoch">fraoch</a> ann am monadh</g>
                 <en>heather on a moor</en> – <xl>
                     <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus thòisich Seumas air iasgach. Cha
-                            do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] They came to a burn and James started fishing. James didn’t
-                            catch a trout but Mary found a nest in the heather.</tr>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt
+                            agus thòisich Seumas air iasgach. Cha do ghlac Seumas breac ach fhuair
+                            Màiri nead anns an fhraoch.</gd>
+                        <tr>Mary and James were on the moor yesterday. [...] They came to a burn and
+                            James started fishing. James didn’t catch a trout but Mary found a nest
+                            in the heather.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="maigheach">
+            <h>maigheach</h>
+            <p><g><a href="?gd=maigheach">maigheach</a> ann am monadh</g>
+                <en>a hare on a moor</en> – <xl>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach
+                            as an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
+                        <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of
+                            the grass and it ran swiftly up the slope.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="feur">
+            <h>feur</h>
+            <p><g><a href="?gd=feur">feur</a> ann am monadh</g>
+                <en>grass on a moor</en> – <xl>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach
+                            as an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
+                        <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of
+                            the grass and it ran swiftly up the slope.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="bruthach">
+            <h>bruthach</h>
+            <p><g><a href="?gd=bruthach">bruthach</a> ann am monadh</g>
+                <en>a slope on a moor</en> – <xl>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach
+                            as an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
+                        <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of
+                            the grass and it ran swiftly up the slope.</tr>
                         <ref text="617">td. 76</ref>
                     </li>
                 </xl>

@@ -7,6 +7,20 @@
     
     <section>
         <h>nouns</h>
+        <module id="ugh">
+            <h>ugh</h>
+            <p><g><a href="?gd=ugh">ugh</a> ann an nead</g>
+                <en>an egg in a nest</en>. <xl>
+                    <li>
+                        <gd>Fhuair Màiri nead anns an fhraoch. Bha trì uighean bòidheach anns an
+                            nead.</gd>
+                        <tr>Mary found a nest in the heather. There were three pretty eggs in the
+                            nest.</tr>
+                        <ref text="617">td. 76 [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="fraoch">
             <h>fraoch</h>
             <p><g>nead ann am <a href="?gd=fraoch">fraoch</a></g>
