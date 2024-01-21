@@ -104,6 +104,10 @@
                     <masc/>
                     <en>a head</en>
                 </li>
+                <li><a href="?gd=ceeilidh"><g>céilidh</g></a>
+                    <fem/>
+                    <en>a social gathering, a visit</en>
+                </li>
                 <li><a href="?gd=ciiobair"><g>cìobair</g></a>
                     <masc/>
                     <en>a shepherd</en></li>
@@ -264,6 +268,9 @@
                     <g>obrach</g>
                     <pl/>
                     <g>obraichean</g></li>
+                <li><a href="?gd=ooran"><g>òran</g></a>
+                    <masc/>
+                    <en>a song</en></li>
                 <li><a href="?gd=oord"><g>òrd</g></a>
                     <masc/>
                     <en>a hammer</en></li>
@@ -410,6 +417,8 @@
                     <en>black</en></li>
                 <li><a href="?gd=fada"><g>fada</g></a>
                     <en>long</en></li>
+                <li><a href="?gd=fadalach"><g>fadalach</g></a>
+                    <en>late</en></li>
                 <li><a href="?gd=fliuch"><g>fliuch</g></a>
                     <en>wet</en> – <slen/>
                     <g>flich(e)</g></li>
@@ -459,6 +468,8 @@
                     <en>look, watch</en></li>
                 <li><a href="?gd=cuir"><g>cuir</g></a>
                     <en>put, send</en></li>
+                <li><a href="?gd=cum"><g>cum</g></a>
+                    <en>keep</en></li>
                 <li><a href="?gd=deean"><g>dèan</g></a>
                     <en>do, make</en></li>
                 <li><a href="?gd=deaarrs"><g>deàrrs</g></a>

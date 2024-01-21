@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>cum</h>
+    <p><g>cum</g> <vb/>
+        <en>keep</en></p>
+    
+    <section>
+        <h>adjectives</h>
+        <module id="fadalach">
+            <h>fadalach</h>
+            <p><g>cum ... <a href="?gd=fadalach">fadalach</a></g>
+                <en>... keeps ... late</en> – <xl>
+                    <li>
+                        <gd>Chum sin mi fadalach.</gd>
+                        <tr>That kept me late.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+</module>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>céilidh</h>
+    <p><g>céilidh</g>
+        <fem/>
+        <en>a social gathering, a visit</en>
+    </p>
+
+    <section>
+        <h>nouns</h>
+        <module id="caileag">
+            <h>caileag</h>
+            <p><g><a href="?gd=caileag">caileag</a> aig céilidh</g>
+                <en>a girl at a ceilidh</en> – <xl>
+                    <li>
+                        <gd>Ghabh a’ chaileag seo òran aig a’ chéilidh.</gd>
+                        <tr>This girl sang a song at the ceilidh.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="ooran">
+            <h>òran</h>
+            <p><g><a href="?gd=ooran">òran</a> aig céilidh</g>
+                <en>a song at a ceilidh</en> – <xl>
+                    <li>
+                        <gd>Ghabh a’ chaileag seo òran aig a’ chéilidh.</gd>
+                        <tr>This girl sang a song at the ceilidh.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>
