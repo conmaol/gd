@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>cuir</h>
-    <p><g>cuir</g>
-        <en>put, send</en> is a <a href="?xx=verbs/simple_verbs">simple verb</a>.</p>
+    <p><g>cuir</g> <vb/>
+        <en>put, send</en></p>
 
     <section>
         <h>nouns</h>
-        <section>
-            <h>object</h>
+        <!--<section>
+            <h>object</h>-->
             <module id="bocsa">
                 <h>bocsa</h>
-                <p><g>cuir <a href="?gd=bocsa">bocsa</a> ...</g>
-                    <en>puts a box ...</en> – <xl>
+                <p><g>cuir ... <a href="?gd=bocsa">bocsa</a> ...</g>
+                    <en>... puts a box ...</en> – <xl>
                         <li>
                             <gd>Có chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
                             <tr>Who put the box on the table? Mary did.</tr>
@@ -20,22 +20,39 @@
                     </xl>
                 </p>
             </module>
-        </section>
-        <section>
-            <h>locative</h>
+        <module id="leabhar">
+            <h>leabhar</h>
+            <p><g>cuir ... <a href="?gd=leabhar">leabhar</a> ...</g>
+                <en>... puts a book ...</en> – <xl>
+                    <li>
+                        <gd>Chuir e an leabhar air a’ bhòrd.</gd>
+                        <tr>He put the book on the table.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <!--</section>-->
+       <!-- <section>
+            <h>locative</h>-->
             <module id="boord">
                 <h>bòrd</h>
                 <p><g>cuir ... air <a href="?gd=boord">bòrd</a> ...</g>
-                    <en>puts ... on a table</en> – <xl>
+                    <en>... puts ... on a table</en> – <xl>
                         <li>
                             <gd>Có chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
                             <tr>Who put the box on the table? Mary did.</tr>
                             <ref text="617">td. 20</ref>
                         </li>
+                        <li>
+                            <gd>Chuir e an leabhar air a’ bhòrd.</gd>
+                            <tr>He put the book on the table.</tr>
+                            <ref text="617">td. 47</ref>
+                        </li>
                     </xl>
                 </p>
             </module>
-        </section>
+        <!--</section>-->
     </section>
 
 
