@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>litir</h>
-    <p><g>litir</g> <fem/>
+    <p><g>litir</g>
+        <fem/>
         <en>a letter</en></p>
-    
-    
-</module>
 
+    <section>
+        <h>verbs</h>
+        <module id="sgriiobh">
+            <h>sgrìobh</h>
+            <p><g><a href="?gd=sgriiobh">sgrìobh</a> ... litir</g>
+                <en>... writes a letter</en> – <xl>
+                    <li>
+                        <gd>Sgrìobh mi litir gu Calum an dé.</gd>
+                        <tr>I wrote a letter to Malcolm yesterday.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>

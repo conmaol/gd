@@ -2,8 +2,8 @@
 <module>
     <h>dorus</h>
     <p><g>dorus</g>
-        <en>a door</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        <masc/>
+        <en>a door</en></p>
 
     <section>
         <h>adjectives</h>
@@ -18,10 +18,43 @@
                     </li>
                 </xl></p>
         </module>
-        <module id="fosgailte">
-            <h>fosgailte</h>
-            <p><g>dorus <a href="?gd=fosgailte">fosgailte</a></g>
-                <en>an open door</en> – <xl>
+
+    </section>
+
+    <section>
+        <h>nouns</h>
+        <module id="gille">
+            <h>gille</h>
+            <p><g><a href="?gd=gille">gille</a> aig dorus</g>
+                <en>a boy at a door</en> – <xl>
+                    <li>
+                        <gd>A bheil an gille aig an dorus? Chan eil.</gd>
+                        <tr>Is the boy at the door?</tr>
+                        <ref text="617">td. 15 [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="cuu">
+            <h>cù</h>
+            <p><g><a href="?gd=cuu">cù</a> aig dorus</g>
+                <en>a dog at a door</en> – <xl>
+                    <li>
+                        <gd>Chunnaic mi cù aig an dorus.</gd>
+                        <tr>I saw a dog at the door.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <module id="fosgail">
+            <h>fosgail</h>
+            <p><g><a href="?gd=fosgail">fosgail</a> ... dorus</g>
+                <en>... opens a door</en> – <xl>
                     <li>
                         <gd>An do chum thu an dorus fosgailte? Cha do chum.</gd>
                         <tr>Did you keep the door open? No, I didn’t.</tr>
@@ -30,44 +63,18 @@
                 </xl>
             </p>
         </module>
-    </section>
-
-    <section>
-        <h>prepositions</h>
-        <section>
-            <h>object</h>
-            <p><g>dorus</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                    >prepositions</a>.</p>
-            <module id="aig_dorus">
-                <h>... aig dorus</h>
-                <p><g>... <a href=">gd=aig">aig</a> dorus</g>
-                    <en>... at a door</en>. </p>
-                <module>
-                    <h>[duine] aig dorus</h>
-                    <p><g>[duine] aig dorus</g>
-                        <en>[a man] at a door</en> – <xl>
-                            <li>
-                                <gd>A bheil an gille aig an dorus? Chan eil.</gd>
-                                <tr>Is the boy at the door?</tr>
-                                <ref text="617">td. 15 [adapted]</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-                <module>
-                    <h>cù aig dorus</h>
-                    <p><g><a href="?gd=cuu">cù</a> aig dorus</g>
-                        <en>a dog at a door</en> – <xl>
-                            <li>
-                                <gd>Chunnaic mi cù aig an dorus.</gd>
-                                <tr>I saw a dog at the door.</tr>
-                                <ref text="617">td. 6</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
+        <module id="glas">
+            <h>glas</h>
+            <p><g><a href="?gd=glas">glas</a> ... dorus</g>
+                <en>... locks a door</en> – <xl>
+                    <li>
+                        <gd>Ghlas Màiri an dorus.</gd>
+                        <tr>Mary locked the door.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 </module>
