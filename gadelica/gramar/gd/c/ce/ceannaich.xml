@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>ceannaich</h>
+    <p><g>ceannaich</g>
+        <vb/>
+        <en>buy</en></p>
+
+    <section>
+        <h>nouns</h>
+        <module id="sgillinn">
+            <h>sgillinn</h>
+            <p><g>ceannaich ... air <a href="?gd=sgillinn">sgillinn</a></g>
+                <en>... buys ... for a penny</en> – <xl>
+                    <li>
+                        <gd>Cheannaich mi seo air sia sgillinn.</gd>
+                        <tr>I bought this for sixpence.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>

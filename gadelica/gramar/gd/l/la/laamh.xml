@@ -6,6 +6,22 @@
         <en>a hand</en></p>
 
     <section>
+        <h>nouns</h>
+        <module id="gille">
+            <h>gille</h>
+            <p><g>làmh <a href="?gd=gille">gille</a> ...</g>
+                <en>a boy’s hand</en> – <xl>
+                    <li>
+                        <gd>Nigh an gille beag a làmhan.</gd>
+                        <tr>The little boy washed his hands.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl></p>
+        </module>
+    </section>
+
+
+    <section>
         <h>verbs</h>
         <module id="geaarr">
             <h>geàrr</h>
@@ -30,6 +46,17 @@
                     </li>
                 </xl>
             </p>
+        </module>
+        <module id="nigh">
+            <h>nigh</h>
+            <p><g><a href="?gd=nigh">nigh</a> ... làmh</g>
+                <en>... washes a hand</en> – <xl>
+                    <li>
+                        <gd>Nigh an gille beag a làmhan.</gd>
+                        <tr>The little boy washed his hands.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl></p>
         </module>
     </section>
 

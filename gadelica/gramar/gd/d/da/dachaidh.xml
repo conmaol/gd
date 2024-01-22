@@ -1,30 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>dachaidh</h>
-    <p><g>dachaidh</g> <fem/>
+    <p><g>dachaidh</g>
+        <fem/>
         <en>a home</en></p>
 
     <section>
         <h>verbs</h>
         <!--<section>
             <h>locative</h>-->
-            <module id="thig">
-                <h>thig</h>
-                <p><g><a href="?gd=thig">thig</a> ... dhachaidh</g>
-                    <en>... comes home</en> – <xl>
-                        <li>
-                            <gd>Thàinig mi dhachaidh feasgar.</gd>
-                            <tr>I arrived home in the evening.</tr>
-                            <ref text="617">td. 21</ref>
-                        </li>
-                        <li>
-                            <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Bha iad glé sgìth nuair a thàinig iad dhachaidh feasgar.</gd>
-                            <tr>Mary and James were on the moor yesterday. [...] They were very tired when they came home in the evening.</tr>
-                            <ref text="617">td. 76</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
+        <module id="thig">
+            <h>thig</h>
+            <p><g><a href="?gd=thig">thig</a> ... dhachaidh</g>
+                <en>... comes home</en> – <xl>
+                    <li>
+                        <gd>Thàinig mi dhachaidh feasgar.</gd>
+                        <tr>I arrived home in the evening.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Bha iad glé sgìth
+                            nuair a thàinig iad dhachaidh feasgar.</gd>
+                        <tr>Mary and James were on the moor yesterday. [...] They were very tired
+                            when they came home in the evening.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="ruith">
+            <h>ruith</h>
+            <p><g><a href="?gd=ruith">ruith</a> ... dhachaidh</g>
+                <en>... runs home</en> – <xl>
+                    <li>
+                        <gd>Cha do dh’fhan Màiri aig a’ chladach. Ruith i dhachaidh.</gd>
+                        <tr>Mary did not stay at the shore. She ran home.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <!--</section>-->
     </section>
 

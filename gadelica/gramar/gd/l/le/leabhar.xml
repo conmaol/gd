@@ -70,6 +70,18 @@
                 </xl>
             </p>
         </module>
+        <module id="sgoil">
+            <h>sgoil</h>
+            <p><g>leabhar ann an <a href="?gd=sgoil">sgoil</a></g>
+                <en>a book in a school</en> – <xl>
+                    <li>
+                        <gd>Dh’fhàg mi mo leabhar anns an sgoil.</gd>
+                        <tr>I left my book in the school.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <!--</section>-->
     </section>
 
@@ -82,6 +94,18 @@
                     <li>
                         <gd>Chuir e an leabhar air a’ bhòrd.</gd>
                         <tr>He put the book on the table.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="faag">
+            <h>fàg</h>
+            <p><g><a href="?gd=faag">fàg</a> ... leabhar ...</g>
+                <en>... leaves a book ...</en> – <xl>
+                    <li>
+                        <gd>Dh’fhàg mi mo leabhar anns an sgoil.</gd>
+                        <tr>I left my book in the school.</tr>
                         <ref text="617">td. 47</ref>
                     </li>
                 </xl>

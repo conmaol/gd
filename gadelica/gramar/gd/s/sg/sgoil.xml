@@ -2,8 +2,8 @@
 <module>
     <h>sgoil</h>
     <p><g>sgoil</g>
-        <en>a school</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+        <fem/>
+        <en>a school</en></p>
 
     <section>
         <h>adjectives</h>
@@ -21,36 +21,61 @@
     </section>
 
     <section>
-        <h>prepositions</h>
-        <section>
-            <h>object</h>
-            <p><g>sgoil</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                >prepositions</a>.</p>
-            <module id="ann_an_sgoil">
-                <h>... ann an sgoil</h>
-                <p><g>... <a href="?gd=an^preposition">ann an</a> sgoil</g>
-                    <en>... in a school</en>. </p>
-                <module>
-                    <h>[duine] ann an sgoil</h>
-                    <p><g>[duine] ann an sgoil</g>
-                        <en>[a person] in a school</en> – <xl>
-                            <li>
-                                <gd>Cha robh a’ chaileag bheag anns an sgoil.</gd>
-                                <tr>The little girl was not in the school.</tr>
-                                <ref text="617">td. 15 [228]</ref>
-                            </li>
-                            <li>
-                                <gd>A bheil Seònaid anns an sgoil an diugh? Chan eil.</gd>
-                                <tr>Is Janet in the school today? No, she isn’t.</tr>
-                                <ref text="617">td. 14</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
+        <h>nouns</h>
+        <module id="caileag">
+            <h>caileag</h>
+            <p><g><a href="?gd=caileag">caileag</a> ann an sgoil</g>
+                <en>a girl in a school</en> – <xl>
+                    <li>
+                        <gd>Cha robh a’ chaileag bheag anns an sgoil.</gd>
+                        <tr>The little girl was not in the school.</tr>
+                        <ref text="617">td. 15 [228]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="leabhar">
+            <h>leabhar</h>
+            <p><g><a href="?gd=leabhar">leabhar</a> ann an sgoil</g>
+                <en>a book in a school</en> – <xl>
+                    <li>
+                        <gd>Dh’fhàg mi mo leabhar anns an sgoil.</gd>
+                        <tr>I left my book in the school.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
-    
+
+    <section>
+        <h>verbs</h>
+        <module id="faag">
+            <h>fàg</h>
+            <p><g><a href="?gd=faag">fàg</a> ... ann an sgoil ...</g>
+                <en>... leaves ... in a school</en> – <xl>
+                    <li>
+                        <gd>Dh’fhàg mi mo leabhar anns an sgoil.</gd>
+                        <tr>I left my book in the school.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section id="other">
+        <h>other</h>
+        <p><xl>
+                <li>
+                    <gd>A bheil Seònaid anns an sgoil an diugh? Chan eil.</gd>
+                    <tr>Is Janet in the school today? No, she isn’t.</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
     <!--<p>Examples from Gairm – <xl id="gairm">
             <li>
                 <gd>Ma rannsaicheas sinn air ais fada gu leòir chì sinn nach robh <m>sgoilean</m>

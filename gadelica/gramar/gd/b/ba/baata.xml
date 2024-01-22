@@ -2,8 +2,8 @@
 <module>
     <h>bàta</h>
     <p><g>bàta</g>
-        <en>a boat</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        <masc/>
+        <en>a boat</en></p>
 
     <section>
         <h>adjectives</h>
@@ -22,28 +22,28 @@
 
     <section>
         <h>nouns</h>
-            <module id="muir">
-                <h>muir</h>
-                <p><g>bàta air <a href="?gd=muir">muir</a></g>
-                    <en>a boat on a sea</en> – <xl>
-                        <li>
-                            <gd>Chunnaic mi bàtaichean air a’ mhuir.</gd>
-                            <tr>I saw boats on the sea.</tr>
-                            <ref text="617">td. 21</ref>
-                        </li>
-                    </xl></p>
-            </module>
-            <module id="cladach">
-                <h>cladach</h>
-                <p><g>bàta air <a href="?gd=cladach">cladach</a></g>
-                    <en>a boat on a shore</en> – <xl>
-                        <li>
-                            <gd>An robh am bàta air a’ chladach? Bha.</gd>
-                            <tr>Was the boat is on the shore? Yes, it was.</tr>
-                            <ref text="617">td. 17 [adapted]</ref>
-                        </li>
-                    </xl></p>
-            </module>
+        <module id="muir">
+            <h>muir</h>
+            <p><g>bàta air <a href="?gd=muir">muir</a></g>
+                <en>a boat on a sea</en> – <xl>
+                    <li>
+                        <gd>Chunnaic mi bàtaichean air a’ mhuir.</gd>
+                        <tr>I saw boats on the sea.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                </xl></p>
+        </module>
+        <module id="cladach">
+            <h>cladach</h>
+            <p><g>bàta air <a href="?gd=cladach">cladach</a></g>
+                <en>a boat on a shore</en> – <xl>
+                    <li>
+                        <gd>An robh am bàta air a’ chladach? Bha.</gd>
+                        <tr>Was the boat is on the shore? Yes, it was.</tr>
+                        <ref text="617">td. 17 [adapted]</ref>
+                    </li>
+                </xl></p>
+        </module>
         <module id="traaigh">
             <h>tràigh</h>
             <p><g>bàta air <a href="?gd=traaigh">tràigh</a></g>
@@ -55,40 +55,64 @@
                     </li>
                 </xl></p>
         </module>
-            <module id="duine">
-                <h>duine</h>
-                <p><g><a href="?gd=duine">duine</a> ann am bàta</g>
-                    <en>a man in a boat</en> –<xl>
-                        <li>
-                            <gd>Tha an duine anns a’ bhàta.</gd>
-                            <tr>The man is in the boat.</tr>
-                            <ref text="617">td. 17</ref>
-                        </li>
-                        <li>
-                            <gd>Cha robh duine anns a’ bhàta.</gd>
-                            <tr>There was no one in the boat.</tr>
-                            <ref text="617">td. 21</ref>
-                        </li>
-                    </xl></p>
-            </module>
+        <module id="cala">
+            <h>cala</h>
+            <p><g>bàta aig <a href="?gd=cala">cala</a></g>
+                <en>a boat in harbour</en> – <xl>
+                    <li>
+                        <gd>Stiùir Alasdair am bàta gu cala.</gd>
+                        <tr>Alexander steered the boat to harbour</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="duine">
+            <h>duine</h>
+            <p><g><a href="?gd=duine">duine</a> ann am bàta</g>
+                <en>a man in a boat</en> –<xl>
+                    <li>
+                        <gd>Tha an duine anns a’ bhàta.</gd>
+                        <tr>The man is in the boat.</tr>
+                        <ref text="617">td. 17</ref>
+                    </li>
+                    <li>
+                        <gd>Cha robh duine anns a’ bhàta.</gd>
+                        <tr>There was no one in the boat.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                </xl></p>
+        </module>
     </section>
 
     <section>
         <h>verbs</h>
         <!--<section>
             <h>object</h>-->
-            <module id="faic">
-                <h>faic</h>
-                <p><g><a href="?gd=faic">faic</a> bàta</g>
-                    <en>see a boat</en> – <xl>
-                        <li>
-                            <gd>Bha mi aig a’ chladach an diugh. Chunnaic mi bàtaichean air a’
-                                mhuir.</gd>
-                            <tr>I was at the shore today. I saw boats on the sea.</tr>
-                            <ref text="617">td. 21</ref>
-                        </li>
-                    </xl></p>
-            </module>
+        <module id="stiuuir">
+            <h>stiùir</h>
+            <p><g><a href="?gd=stiuuir">stiùir</a> ... bàta</g>
+                <en>... steers a boat</en> – <xl>
+                    <li>
+                        <gd>Stiùir Alasdair am bàta gu cala.</gd>
+                        <tr>Alexander steered the boat to harbour</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="faic">
+            <h>faic</h>
+            <p><g><a href="?gd=faic">faic</a> bàta</g>
+                <en>see a boat</en> – <xl>
+                    <li>
+                        <gd>Bha mi aig a’ chladach an diugh. Chunnaic mi bàtaichean air a’
+                            mhuir.</gd>
+                        <tr>I was at the shore today. I saw boats on the sea.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                </xl></p>
+        </module>
         <!--</section>-->
     </section>
 

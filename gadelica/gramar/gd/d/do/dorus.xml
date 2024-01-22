@@ -75,6 +75,18 @@
                 </xl>
             </p>
         </module>
+        <module id="seas">
+            <h>seas</h>
+            <p><g><a href="?gd=seas">seas</a> ... aig dorus</g> <en>... stands up at a door</en> –
+                <xl>
+                    <li>
+                        <gd>Sheas Màiri aig an dorus.</gd>
+                        <tr>Mary stood (up) at the door.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 </module>

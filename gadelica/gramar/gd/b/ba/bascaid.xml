@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>bascaid</h>
-    <p><g>bascaid</g>
-        <en>basket</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+    <p><g>bascaid</g> <fem/>
+        <en>basket</en></p>
 
     <section>
         <h>nouns</h>
@@ -13,9 +12,13 @@
                 <en>food in a basket</en> – <xl>
                     <li>
                         <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. Thug Seumas leis an
-                            t-slat-iasgaich agus thug Màiri leatha biadh ann am bascaid.</gd>
+                            t-slat-iasgaich agus thug Màiri leatha biadh ann am bascaid. [...] Nuair
+                            a bha an t-acras orra, shuidh iad air tolman agus ghabh iad am biadh a
+                            bha aig Màiri anns a’ bhascaid.</gd>
                         <tr>Mary and James were on the moor yesterday. James took the fishing rod
-                            with him and Mary took (with her) food in a basket.</tr>
+                            with him and Mary took (with her) food in a basket. [...] When they were
+                            hungry, they sat down on a hillock and they took the food that Mary had
+                            in the basket.</tr>
                         <ref text="617">td. 76</ref>
                     </li>
                 </xl>

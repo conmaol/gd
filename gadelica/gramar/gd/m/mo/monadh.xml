@@ -67,6 +67,18 @@
                 </p>
             </module>
         </section>
+        <module id="cuu">
+            <h>cù</h>
+            <p><g><a href="?gd=cuu">cù</a> ann am monadh</g>
+                <en>a dog on a moor</en> – <xl>
+                    <li>
+                        <gd>Lean an cù mi do’n mhonadh.</gd>
+                        <tr>The dog followed me onto the moor.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="fang">
             <h>fang</h>
             <p><g><a href="?gd=fang">fang</a> ann am monadh</g>
@@ -204,6 +216,18 @@
                         <tr>When Mary and James reached the moor, the shepherds were at the
                             fank.</tr>
                         <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="lean">
+            <h>lean</h>
+            <p><g><a href="?gd=lean">lean</a> ... do’n mhonadh</g>
+                <en>... follows ... onto a moor</en> – <xl>
+                    <li>
+                        <gd>Lean an cù mi do’n mhonadh.</gd>
+                        <tr>The dog followed me onto the moor.</tr>
+                        <ref text="617">td. 47</ref>
                     </li>
                 </xl>
             </p>

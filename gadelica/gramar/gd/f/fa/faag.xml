@@ -21,6 +21,18 @@
                 </xl>
             </p>
         </module>
+        <module id="leabhar">
+            <h>leabhar</h>
+            <p><g>fàg ... <a href="?gd=leabhar">leabhar</a> ...</g>
+                <en>... leaves a book ...</en> – <xl>
+                    <li>
+                        <gd>Dh’fhàg mi mo leabhar anns an sgoil.</gd>
+                        <tr>I left my book in the school.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="madainn">
             <h>madainn</h>
             <p><g>fàg ... ann am <a href="?gd=madainn">madainn</a></g>
@@ -35,8 +47,20 @@
                 </xl>
             </p>
         </module>
+        <module id="sgoil">
+            <h>sgoil</h>
+            <p><g>fàg ... ann an <a href="?gd=sgoil">sgoil</a> ...</g>
+                <en>... leaves ... in a school</en> – <xl>
+                    <li>
+                        <gd>Dh’fhàg mi mo leabhar anns an sgoil.</gd>
+                        <tr>I left my book in the school.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
-    
+
     <section>
         <h>adjectives</h>
         <module id="traath">
@@ -54,7 +78,7 @@
             </p>
         </module>
     </section>
-    
+
 </module>
 <!--<module>
     <h lang="en">fàg</h>

@@ -2,50 +2,51 @@
 <module>
     <h>cladach</h>
     <p><g>cladach</g>
-        <en>a shore</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        <masc/>
+        <en>a shore</en></p>
 
     <section>
-        <h>prepositions</h>
-        <section>
-            <h>object</h>
-            <p><g>cladach</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                    >prepositions</a>.</p>
-            <module id="air_cladach">
-                <h>... air cladach</h>
-                <p><g>... <a href="?gd=air">air</a> cladach</g>
-                    <en>... on a shore</en>. </p>
-                <module>
-                    <h>bàta air cladach</h>
-                    <p><g><a href="?gd=baata">bàta</a> air cladach</g>
-                        <en>a boat on a shore</en> – <xl>
-                            <li>
-                                <gd>Tha am bàta air a’ chladach.</gd>
-                                <tr>The boat is on the shore.</tr>
-                                <ref text="617">td. 17</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-            <module id="aig_cladach">
-                <h>... aig cladach</h>
-                <p><g>... <a href=">gd=aig">aig</a> cladach</g>
-                    <en>... at a shore</en>. </p>
-                <module>
-                    <h>[duine] aig cladach</h>
-                    <p><g>[duine] aig cladach</g>
-                        <en>[a man] at a shore</en> – <xl>
-                            <li>
-                                <gd>Bha mi aig a’ chladach an diugh.</gd>
-                                <tr>I was at the shore today.</tr>
-                                <ref text="617">td. 21</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
+        <h>nouns</h>
+        <module id="baata">
+            <h>bàta</h>
+            <p><g><a href="?gd=baata">bàta</a> air cladach</g>
+                <en>a boat on a shore</en> – <xl>
+                    <li>
+                        <gd>Tha am bàta air a’ chladach.</gd>
+                        <tr>The boat is on the shore.</tr>
+                        <ref text="617">td. 17</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <module id="fan">
+            <h>fan</h>
+            <p><g><a href="?gd=fan">fan</a> ... aig cladach</g>
+                <en>... stays at a shore</en> – <xl>
+                    <li>
+                        <gd>Cha do dh’fhan Màiri aig a’ chladach. Ruith i dhachaidh.</gd>
+                        <tr>Mary did not stay at the shore. She ran home.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section id="other">
+        <h>other</h>
+        <p><xl>
+                <li>
+                    <gd>Bha mi aig a’ chladach an diugh.</gd>
+                    <tr>I was at the shore today.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>

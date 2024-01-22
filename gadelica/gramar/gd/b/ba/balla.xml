@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>balla</h>
-    <p><g>balla</g>
-        <en>a wall</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+    <p><g>balla</g> <masc/>
+        <en>a wall</en></p>
 
     <section>
         <h>adjectives</h>
@@ -22,7 +21,8 @@
 
     <section>
         <h>nouns</h>
-        <module id="obair"> <!-- activities? -->
+        <module id="obair">
+            <!-- activities? -->
             <h>obair</h>
             <p><g><a href="?gd=obair">obair</a> air balla</g>
                 <en>working on a wall</en> – <xl>
@@ -34,7 +34,8 @@
                 </xl>
             </p>
         </module>
-        <module id="clachair"> <!-- actors? -->
+        <module id="clachair">
+            <!-- actors? -->
             <h>clachair</h>
             <p><g><a href="?gd=clachair">clachair</a> [ag obair air] balla</g>
                 <en>a mason [working on] a wall</en> – <xl>
@@ -42,6 +43,22 @@
                         <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
                         <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
                         <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <module id="sgriiobh">
+            <h>sgrìobh</h>
+            <p><g><a href="?gd=sgriiobh">sgrìobh</a> ... air balla</g>
+                <en>... writes on a wall</en> – <xl>
+                    <li>
+                        <gd>Cha do sgrìobh sinn air a’ bhalla.</gd>
+                        <tr>We didn’t write on the wall.</tr>
+                        <ref text="617">td. 47</ref>
                     </li>
                 </xl>
             </p>

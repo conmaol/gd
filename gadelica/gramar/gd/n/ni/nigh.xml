@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>nigh</h>
+    <p><g>nigh</g>
+        <vb/>
+        <en>wash</en></p>
+
+    <section>
+        <h>nouns</h>
+        <module id="gille">
+            <h>gille</h>
+            <p><g>nigh <a href="?gd=gille">gille</a> ...</g>
+                <en>a boy washes ...</en> – <xl>
+                    <li>
+                        <gd>Nigh an gille beag a làmhan.</gd>
+                        <tr>The little boy washed his hands.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl></p>
+        </module>
+        <module id="laamh">
+            <h>làmh</h>
+            <p><g>nigh ... <a href="?gd=laamh">làmh</a></g>
+                <en>... washes a hand</en> – <xl>
+                    <li>
+                        <gd>Nigh an gille beag a làmhan.</gd>
+                        <tr>The little boy washed his hands.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl></p>
+        </module>
+    </section>
+
+</module>

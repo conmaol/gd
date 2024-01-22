@@ -67,6 +67,9 @@
                 <li><a href="?gd=biiobull"><g>Bìobull</g></a>
                     <masc/>
                     <en>a Bible</en></li>
+                <li><a href="?gd=boo"><g>bó</g></a>
+                    <fem/>
+                    <en>a cow</en></li>
                 <li><a href="?gd=bocsa"><g>bocsa</g></a>
                     <masc/>
                     <en>a box</en></li>
@@ -92,6 +95,9 @@
                 <li><a href="?gd=caileag"><g>caileag</g></a>
                     <fem/>
                     <en>a girl</en></li>
+                <li><a href="?gd=cala"><g>cala</g></a>
+                    <masc/>
+                    <en>a harbour</en></li>
                 <li><a href="?gd=caora"><g>caora</g></a>
                     <fem/>
                     <en>a sheep</en>
@@ -308,6 +314,9 @@
                 <li><a href="?gd=seoomar"><g>seòmar</g></a>
                     <masc/>
                     <en>a room</en></li>
+                <li><a href="?gd=sgillinn"><g>sgillinn</g></a>
+                    <fem/>
+                    <en>a penny</en></li>
                 <li><a href="?gd=sgoil"><g>sgoil</g></a>
                     <fem/>
                     <en>a school</en>
@@ -475,6 +484,8 @@
     <section id="verbs">
         <h>verbs</h>
         <p><ul>
+                <li><a href="?gd=ceannaich"><g>ceannaich</g></a>
+                    <en>buy</en></li>
                 <li><a href="?gd=cluich"><g>cluich</g></a>
                     <en>play</en></li>
                 <li><a href="?gd=coimhead"><g>coimhead</g></a>
@@ -493,10 +504,14 @@
                     <en>see</en></li>
                 <li><a href="?gd=faigh"><g>faigh</g></a>
                     <en>get, find</en></li>
+                <li><a href="?gd=fan"><g>fan</g></a>
+                    <en>stay, remain</en></li>
                 <li><a href="?gd=fosgail"><g>fosgail</g></a>
                     <en>open</en></li>
                 <li><a href="?gd=fuirich"><g>fuirich</g></a>
                     <en>wait, stay, live</en></li>
+                <li><a href="?gd=gabh"><g>gabh</g></a>
+                    <en>take</en></li>
                 <li><a href="?gd=geaarr"><g>geàrr</g></a>
                     <en>cut</en></li>
                 <li><a href="?gd=glac"><g>glac</g></a>
@@ -505,10 +520,16 @@
                     <en>lock</en></li>
                 <li><a href="?gd=iasgaich"><g>iasgaich</g></a>
                     <en>do fishing, fish</en></li>
+                <li><a href="?gd=lean"><g>lean</g></a>
+                    <en>follow</en></li>
                 <li><a href="?gd=leum"><g>leum</g></a>
                     <en>jump</en></li>
+                <li><a href="?gd=nigh"><g>nigh</g></a>
+                    <en>wash</en></li>
                 <li><a href="?gd=obair"><g>obair</g></a>
                     <en>working, work</en></li>
+                <li><a href="?gd=reic"><g>reic</g></a>
+                    <en>sell</en></li>
                 <li><a href="?gd=ruig"><g>ruig</g></a>
                     <en>reach</en></li>
                 <li><a href="?gd=ruith"><g>ruith</g></a>
@@ -525,6 +546,8 @@
                     <en>swim</en></li>
                 <li><a href="?gd=stad"><g>stad</g></a>
                     <en>stop</en></li>
+                <li><a href="?gd=stiuuir"><g>stiùir</g></a>
+                    <en>steer</en></li>
                 <li><a href="?gd=suidh"><g>suidh</g></a>
                     <en>sit (down)</en></li>
                 <li><a href="?gd=thig"><g>thig</g></a>

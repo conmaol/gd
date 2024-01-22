@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
-    <h>seas</h>
-    <p><g>seas</g>
+    <h>reic</h>
+    <p><g>reic</g>
         <vb/>
-        <en>stand up</en></p>
-
+        <en>sell</en></p>
+    
     <section>
         <h>nouns</h>
-        <module id="dorus">
-            <h>dorus</h>
-            <p><g>seas ... aig <a href="?gd=dorus">dorus</a></g> <en>... stands up at a door</en> –
+        <module id="boo">
+            <h>bó</h>
+            <p><g>reic ... <a href="?gd=boo">bó</a></g> <en>... sells a cow</en> –
                 <xl>
                     <li>
-                        <gd>Sheas Màiri aig an dorus.</gd>
-                        <tr>Mary stood (up) at the door.</tr>
+                        <gd>Reic Calum a’ bhó.</gd>
+                        <tr>Malcolm sold the cow.</tr>
                         <ref text="617">td. 47</ref>
                     </li>
                 </xl>
             </p>
         </module>
     </section>
-
+    
+    
 </module>
+

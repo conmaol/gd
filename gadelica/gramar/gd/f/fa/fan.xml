@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>fan</h>
+    <p><g>fan</g>
+        <vb/>
+        <en>stay, remain</en></p>
+
+    <section>
+        <h>nouns</h>
+        <module id="cladach">
+            <h>cladach</h>
+            <p><g>fan ... aig <a href="?gd=cladach">cladach</a></g>
+                <en>... stays at a shore</en> – <xl>
+                    <li>
+                        <gd>Cha do dh’fhan Màiri aig a’ chladach. Ruith i dhachaidh.</gd>
+                        <tr>Mary did not stay at the shore. She ran home.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>
