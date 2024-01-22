@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>geàrr</h>
+    <p><g>geàrr</g>
+        <vb/>
+        <en>cut</en></p>
+
+    <section>
+        <h>nouns</h>
+        <module id="laamh">
+            <h>làmh</h>
+            <p><g>geàrr ... <a href="?gd=laamh">làmh</a></g>
+                <en>... cuts a hand</en> – <xl>
+                    <li>
+                        <gd>Gheàrr Alasdair a làmh.</gd>
+                        <tr>Alexander cut his hand.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>

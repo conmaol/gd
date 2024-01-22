@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>linne</h>
+    <p><g>linne</g>
+        <fem/>
+        <en>a pool</en></p>
+
+    <section>
+        <h>nouns</h>
+        <module id="breac">
+            <h>breac</h>
+            <p><g><a href="?gd=breac">breac</a> ann an linne</g>
+                <en>a trout in a pool</en> – <xl>
+                    <li>
+                        <gd>Ghlac Calum breac anns an linne seo.</gd>
+                        <tr>Malcolm caught a trout in this pool.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>

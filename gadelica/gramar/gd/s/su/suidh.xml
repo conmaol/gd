@@ -4,9 +4,21 @@
     <p><g>suidh</g>
         <vb/>
         <en>sit down</en></p>
-    
+
     <section>
         <h>nouns</h>
+        <module id="cnoc">
+            <h>cnoc</h>
+            <p><g>suidh ... air <a href="?gd=cnoc">cnoc</a></g>
+                <en>... sits down on a hill</en> – <xl>
+                    <li>
+                        <gd>Shuidh iad air a’ chnoc.</gd>
+                        <tr>They sat down on the hill.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="tolman">
             <h>tolman</h>
             <p><g>suidh ... air <a href="?gd=tolman">tolman</a></g>
@@ -26,7 +38,6 @@
             </p>
         </module>
     </section>
-    
-    
-</module>
 
+
+</module>

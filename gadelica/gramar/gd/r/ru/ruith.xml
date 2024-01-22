@@ -21,6 +21,18 @@
                 </xl>
             </p>
         </module>
+        <module id="fiadh">
+            <h>fiadh</h>
+            <p><g>ruith <a href="?gd=fiadh">fiadh</a></g>
+                <en>a deer runs</en> – <xl>
+                    <li>
+                        <gd>Ruith mi mar am fiadh.</gd>
+                        <tr>I ran like the (a?) deer.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="bruthach">
             <h>bruthach</h>
             <p><g>ruith ... air <a href="?gd=bruthach">bruthach</a></g>
