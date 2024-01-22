@@ -2,125 +2,92 @@
 <module>
   <h>faic</h>
   <p><g>faic</g>
-    <en>see</en> is an <a href="?xx=verbs/simple_verbs">irregular verb.</a></p>
+    <vb/>
+    <en>see</en></p>
+
   <section>
-    <h>nouns</h>
-    <!--<section>
-      <h>subject</h>
-      <module id="mi">
-        <h>mi</h>
-        <p><g>faic mi ...</g> <en>I see ...</en> –
-          <xl>
+    <h>subjects</h>
+    <section id="sbj-people">
+      <h>people</h>
+      <p>
+        <xl>
+          <li>
+            <gd>Chunnaic mi cù aig an dorus.</gd>
+            <tr>I saw a dog at the door.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+          <li>
+            <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
+            <tr>I saw sheep and cattle on the moor.</tr>
+            <ref text="617">td. 21</ref>
+          </li>
+          <li>
+            <gd>Chunnaic mi bàtaichean air a’ mhuir agus clann a’ snàmh anns a’ mhuir.</gd>
+            <tr>I saw boats on the sea and children swimming in the sea.</tr>
+            <ref text="617">td. 21</ref>
+          </li>
+          <li>
+            <gd>Chunnaic sinn iolair mhór an diugh.</gd>
+            <tr>We saw a big eagle today.</tr>
+            <ref text="617">td. 9 [226]</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
+
+  <section>
+    <h>objects</h>
+    <module id="clann">
+      <h>clann</h>
+      <p><g>faic ... <a href="?gd=clann">clann</a></g>
+        <en>... sees children</en> – <xl>
+          <li>
+            <gd>Chunnaic mi bàtaichean air a’ mhuir agus clann a’ snàmh anns a’ mhuir.</gd>
+            <tr>I saw boats on the sea and children swimming in the sea.</tr>
+            <ref text="617">td. 21</ref>
+          </li>
+        </xl></p>
+    </module>
+    <section>
+      <h>animals</h>
+      <module id="cuu">
+        <h>cù</h>
+        <p><g>faic ... <a href="?gd=cuu">cù</a></g>
+          <en>... sees a dog</en> – <xl>
             <li>
               <gd>Chunnaic mi cù aig an dorus.</gd>
               <tr>I saw a dog at the door.</tr>
               <ref text="617">td. 6</ref>
             </li>
+          </xl></p>
+      </module>
+      <module id="caora">
+        <h>caora</h>
+        <p><g>faic ... <a href="?gd=caora">caora</a></g>
+          <en>... sees a sheep</en> – <xl>
             <li>
               <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
               <tr>I saw sheep and cattle on the moor.</tr>
               <ref text="617">td. 21</ref>
             </li>
-            <li>
-              <gd>Chunnaic mi bàtaichean air a’ mhuir agus clann a’ snàmh anns a’ mhuir.</gd>
-              <tr>I saw boats on the sea and children swimming in the sea.</tr>
-              <ref text="617">td. 21</ref>
-            </li>
-          </xl>
-        </p>
-        <module id="sinn">
-          <h>sinn</h>
-          <p><g>faic sinn ...</g> <en>we see ...</en> –
-            <xl>
-              <li>
-                <gd>Chunnaic sinn iolair mhór an diugh.</gd>
-                <tr>We saw a big eagle today.</tr>
-                <ref text="617">td. 9 [226]</ref>
-              </li>
-            </xl>
-          </p>
-        </module>
+          </xl></p>
       </module>
-    </section>-->
-    <section>
-      <h>object</h>
-      <module id="clann">
-        <h>clann</h>
-        <p><g>faic ... <a href="?gd=clann">clann</a></g>
-          <en>sees children</en> – <xl>
+      <module id="crodh">
+        <h>crodh</h>
+        <p><g>faic ... <a href="?gd=crodh">crodh</a></g>
+          <en>... sees cattle</en> – <xl>
             <li>
-              <gd>Chunnaic mi bàtaichean air a’ mhuir agus clann a’ snàmh anns a’ mhuir.</gd>
-              <tr>I saw boats on the sea and children swimming in the sea.</tr>
+              <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
+              <tr>I saw sheep and cattle on the moor.</tr>
               <ref text="617">td. 21</ref>
             </li>
           </xl></p>
       </module>
-      <module id="cuu">
-        <h>cù</h>
-        <p><g>faic ... <a href="?gd=cuu">cù</a></g>
-          <en>sees a dog</en> – <xl>
-            <li>
-              <gd>Chunnaic mi cù aig an dorus.</gd>
-              <tr>I saw a dog at the door.</tr>
-              <ref text="617">td. 6</ref>
-            </li>
-          </xl></p>
-        <module id="caora">
-          <h>caora</h>
-          <p><g>faic ... <a href="?gd=caora">caora</a></g>
-            <en>sees a sheep</en> – <xl>
-              <li>
-                <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
-                <tr>I saw sheep and cattle on the moor.</tr>
-                <ref text="617">td. 21</ref>
-              </li>
-            </xl></p>
-          <module id="crodh">
-            <h>crodh</h>
-            <p><g>faic ... <a href="?gd=crodh">crodh</a></g>
-              <en>see cattle</en> – <xl>
-                <li>
-                  <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
-                  <tr>I saw sheep and cattle on the moor.</tr>
-                  <ref text="617">td. 21</ref>
-                </li>
-              </xl></p>
-          </module>
-        </module>
-        <module id="iolair">
-          <h>iolair</h>
-          <p><g>faic ... <a href="?gd=iolair">iolair</a></g>
-            <en>see an eagle</en> – <xl>
-              <li>
-                <gd>Chunnaic sinn iolair mhór an diugh.</gd>
-                <tr>We saw a big eagle today.</tr>
-                <ref text="617">td. 9 [226]</ref>
-              </li>
-            </xl></p>
-        </module>
-      </module>
-      <module id="baata">
-        <h>bàta</h>
-        <p><g>faic ... <a href="?gd=baata">bàta</a></g>
-          <en>see a boat</en> – <xl>
-            <li>
-              <gd>Chunnaic mi bàtaichean air a’ mhuir agus clann a’ snàmh anns a’ mhuir.</gd>
-              <tr>I saw boats on the sea and children swimming in the sea.</tr>
-              <ref text="617">td. 21</ref>
-            </li>
-          </xl></p>
-      </module>
-    </section>
-  </section>
-
-  <section>
-    <h>adverbs</h>
-    <section>
-      <h>temporal</h>
-      <module id="an_diugh">
-        <h>an diugh</h>
-        <p><g>faic ... <a href="?gd=an_diugh">an diugh</a></g>
-          <en>see ... today</en> – <xl>
+      <module id="iolair">
+        <h>iolair</h>
+        <p><g>faic ... <a href="?gd=iolair">iolair</a></g>
+          <en>... sees an eagle</en> – <xl>
             <li>
               <gd>Chunnaic sinn iolair mhór an diugh.</gd>
               <tr>We saw a big eagle today.</tr>
@@ -129,7 +96,33 @@
           </xl></p>
       </module>
     </section>
+    <module id="baata">
+      <h>bàta</h>
+      <p><g>faic ... <a href="?gd=baata">bàta</a></g>
+        <en>... sees a boat</en> – <xl>
+          <li>
+            <gd>Chunnaic mi bàtaichean air a’ mhuir agus clann a’ snàmh anns a’ mhuir.</gd>
+            <tr>I saw boats on the sea and children swimming in the sea.</tr>
+            <ref text="617">td. 21</ref>
+          </li>
+        </xl></p>
+    </module>
   </section>
+
+  <!--<section>
+    <h>times</h>
+    <module id="an_diugh">
+      <h>an diugh</h>
+      <p><g>faic ... <a href="?gd=an_diugh">an diugh</a></g>
+        <en>... sees ... today</en> – <xl>
+          <li>
+            <gd>Chunnaic sinn iolair mhór an diugh.</gd>
+            <tr>We saw a big eagle today.</tr>
+            <ref text="617">td. 9 [226]</ref>
+          </li>
+        </xl></p>
+    </module>
+  </section>-->
 
 
 
