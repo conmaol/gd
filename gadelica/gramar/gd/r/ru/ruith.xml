@@ -6,7 +6,19 @@
         <en>run</en></p>
 
     <section>
-        <h>nouns</h>
+        <h>subjects</h>
+        <module id="caileag">
+            <h>caileag</h>
+            <p><g>ruith <a href="?gd=caileag">caileag</a></g>
+                <en>a girl runs</en> – <xl>
+                    <li>
+                        <gd>An do ruith a’ chaileag do’n sgoil? Ruith.</gd>
+                        <tr>Did the girl run to the school?</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="maigheach">
             <h>maigheach</h>
             <p><g>ruith <a href="?gd=maigheach">maigheach</a></g>
@@ -33,6 +45,10 @@
                 </xl>
             </p>
         </module>
+    </section>
+
+    <section>
+        <h>routes</h>
         <module id="bruthach">
             <h>bruthach</h>
             <p><g>ruith ... air <a href="?gd=bruthach">bruthach</a></g>
@@ -47,6 +63,10 @@
                 </xl>
             </p>
         </module>
+    </section>
+    
+    <section>
+        <h>destinations</h>
         <module id="dachaidh">
             <h>dachaidh</h>
             <p><g>ruith ... <a href="?gd=dachaidh">dhachaidh</a></g>
@@ -54,6 +74,18 @@
                     <li>
                         <gd>Cha do dh’fhan Màiri aig a’ chladach. Ruith i dhachaidh.</gd>
                         <tr>Mary did not stay at the shore. She ran home.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="sgoil">
+            <h>sgoil</h>
+            <p><g>ruith ... do <a href="?gd=sgoil">sgoil</a></g>
+                <en>... runs to a school</en> – <xl>
+                    <li>
+                        <gd>An do ruith a’ chaileag do’n sgoil? Ruith.</gd>
+                        <tr>Did the girl run to the school?</tr>
                         <ref text="617">td. 47</ref>
                     </li>
                 </xl>

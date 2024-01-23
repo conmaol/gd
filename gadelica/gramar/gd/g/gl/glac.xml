@@ -6,7 +6,19 @@
         <en>catch</en></p>
 
     <section>
-        <h>nouns</h>
+        <h>objects</h>
+        <module id="iasg">
+            <h>iasg</h>
+            <p><g>glac ... <a href="?gd=iasg">iasg</a></g>
+                <en>... catches a fish</en> – <xl>
+                    <li>
+                        <gd>An do ghlac sibh iasg an raoir? Cha do ghlac.</gd>
+                        <tr>Did you catch a fish last night? No, we didn’t.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="breac">
             <h>breac</h>
             <p><g>glac ... <a href="?gd=breac">breac</a></g>

@@ -6,7 +6,7 @@
         <en>cut</en></p>
 
     <section>
-        <h>nouns</h>
+        <h>objects</h>
         <module id="laamh">
             <h>làmh</h>
             <p><g>geàrr ... <a href="?gd=laamh">làmh</a></g>
@@ -14,6 +14,19 @@
                     <li>
                         <gd>Gheàrr Alasdair a làmh.</gd>
                         <tr>Alexander cut his hand.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="caaise">
+            <h>càise</h>
+            <p><g>geàrr ... <a href="?gd=caaise">càise</a></g>
+                <en>... cuts cheese</en> – 
+                <xl>
+                    <li>
+                        <gd>Có gheàrr an càise? Gheàrr Màiri.</gd>
+                        <tr>Who cut the cheese? Mary did.</tr>
                         <ref text="617">td. 47</ref>
                     </li>
                 </xl>

@@ -51,42 +51,65 @@
 
     <section>
         <h>verbs</h>
-        <module id="fosgail">
-            <h>fosgail</h>
-            <p><g><a href="?gd=fosgail">fosgail</a> ... dorus</g>
-                <en>... opens a door</en> – <xl>
-                    <li>
-                        <gd>An do chum thu an dorus fosgailte? Cha do chum.</gd>
-                        <tr>Did you keep the door open? No, I didn’t.</tr>
-                        <ref text="617">td. 56</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="glas">
-            <h>glas</h>
-            <p><g><a href="?gd=glas">glas</a> ... dorus</g>
-                <en>... locks a door</en> – <xl>
-                    <li>
-                        <gd>Ghlas Màiri an dorus.</gd>
-                        <tr>Mary locked the door.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="seas">
-            <h>seas</h>
-            <p><g><a href="?gd=seas">seas</a> ... aig dorus</g> <en>... stands up at a door</en> –
-                <xl>
-                    <li>
-                        <gd>Sheas Màiri aig an dorus.</gd>
-                        <tr>Mary stood (up) at the door.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <section>
+            <h>object</h>
+            <module id="fosgail">
+                <h>fosgail</h>
+                <p><g><a href="?gd=fosgail">fosgail</a> ... dorus</g>
+                    <en>... opens a door</en> – <xl>
+                        <li>
+                            <gd>An do chum thu an dorus fosgailte? Cha do chum.</gd>
+                            <tr>Did you keep the door open? No, I didn’t.</tr>
+                            <ref text="617">td. 56</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="duuin">
+                <h>dùin</h>
+                <p><g><a href="?gd=duuin">dùin</a> ... dorus</g>
+                    <en>... shuts a door</en> – <xl>
+                        <li>
+                            <gd>An do dhùin thu an dorus? Dhùin.</gd>
+                            <tr>Did you close the door? Yes, I did.</tr>
+                            <ref text="617">td. 47</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="glas">
+                <h>glas</h>
+                <p><g><a href="?gd=glas">glas</a> ... dorus</g>
+                    <en>... locks a door</en> – <xl>
+                        <li>
+                            <gd>Ghlas Màiri an dorus.</gd>
+                            <tr>Mary locked the door.</tr>
+                            <ref text="617">td. 47</ref>
+                        </li>
+                        <li>
+                            <gd>An do ghlas thu an dorus? Ghlas.</gd>
+                            <tr>Did you lock the door? Yes, I did.</tr>
+                            <ref text="617">td. 47</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+        <section>
+            <h>location</h>
+            <module id="seas">
+                <h>seas</h>
+                <p><g><a href="?gd=seas">seas</a> ... aig dorus</g>
+                    <en>... stands up at a door</en> – <xl>
+                        <li>
+                            <gd>Sheas Màiri aig an dorus.</gd>
+                            <tr>Mary stood (up) at the door.</tr>
+                            <ref text="617">td. 47</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
     </section>
 
 </module>

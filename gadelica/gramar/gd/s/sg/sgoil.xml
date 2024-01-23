@@ -31,6 +31,11 @@
                         <tr>The little girl was not in the school.</tr>
                         <ref text="617">td. 15 [228]</ref>
                     </li>
+                    <li>
+                        <gd>An do ruith a’ chaileag do’n sgoil? Ruith.</gd>
+                        <tr>Did the girl run to the school?</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
                 </xl>
             </p>
         </module>
@@ -57,6 +62,18 @@
                     <li>
                         <gd>Dh’fhàg mi mo leabhar anns an sgoil.</gd>
                         <tr>I left my book in the school.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="ruith">
+            <h>ruith</h>
+            <p><g><a href="?gd=ruith">ruith</a> ... do sgoil</g>
+                <en>... runs to a school</en> – <xl>
+                    <li>
+                        <gd>An do ruith a’ chaileag do’n sgoil? Ruith.</gd>
+                        <tr>Did the girl run to the school?</tr>
                         <ref text="617">td. 47</ref>
                     </li>
                 </xl>
