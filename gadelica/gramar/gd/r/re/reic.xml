@@ -4,13 +4,13 @@
     <p><g>reic</g>
         <vb/>
         <en>sell</en></p>
-    
+
     <section>
-        <h>nouns</h>
+        <h>objects</h>
         <module id="boo">
             <h>bó</h>
-            <p><g>reic ... <a href="?gd=boo">bó</a></g> <en>... sells a cow</en> –
-                <xl>
+            <p><g>reic ... <a href="?gd=boo">bó</a></g>
+                <en>... sells a cow</en> – <xl>
                     <li>
                         <gd>Reic Calum a’ bhó.</gd>
                         <tr>Malcolm sold the cow.</tr>
@@ -19,8 +19,19 @@
                 </xl>
             </p>
         </module>
+        <module id="cuu">
+            <h>cù</h>
+            <p><g>reic ... <a href="?gd=cuu">cù</a></g>
+                <en>... sells a dog</en> – <xl>
+                    <li>
+                        <gd>An do reic thu an cù? Cha do reic.</gd>
+                        <tr>Did you sell the dog? No, I didn’t.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
-    
-    
-</module>
 
+
+</module>

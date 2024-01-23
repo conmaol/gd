@@ -6,7 +6,20 @@
         <en>sit down</en></p>
 
     <section>
-        <h>nouns</h>
+        <h>locations</h>
+        <module id="cathair">
+            <h>cathair</h>
+            <p><g>suidh ... air <a href="?gd=cathair">cathair</a></g>
+                <en>... sits down on a chair</en> – 
+                <xl>
+                    <li>
+                        <gd>Càir an do shuidh Calum? Shuidh Calum air a’ chathair.</gd>
+                        <tr>Where did Malcolm sit down? Malcolm sat down on the chair.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="cnoc">
             <h>cnoc</h>
             <p><g>suidh ... air <a href="?gd=cnoc">cnoc</a></g>

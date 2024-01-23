@@ -6,15 +6,27 @@
         <en>stand up</en></p>
 
     <section>
-        <h>nouns</h>
+        <h>locations</h>
         <module id="dorus">
             <h>dorus</h>
-            <p><g>seas ... aig <a href="?gd=dorus">dorus</a></g> <en>... stands up at a door</en> –
-                <xl>
+            <p><g>seas ... aig <a href="?gd=dorus">dorus</a></g>
+                <en>... stands up at a door</en> – <xl>
                     <li>
                         <gd>Sheas Màiri aig an dorus.</gd>
                         <tr>Mary stood (up) at the door.</tr>
                         <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="uinneag">
+            <h>uinneag</h>
+            <p><g>seas ... aig <a href="?gd=uinneag">uinneig</a></g>
+                <en>... stands up at a window</en> – <xl>
+                    <li>
+                        <gd>An do sheas Màiri aig an uinneig? Sheas.</gd>
+                        <tr>Did Mary stand (up) at the window? Yes, she did.</tr>
+                        <ref text="617">td. 47–8</ref>
                     </li>
                 </xl>
             </p>
