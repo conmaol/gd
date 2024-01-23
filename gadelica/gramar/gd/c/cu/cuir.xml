@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>cuir</h>
-    <p><g>cuir</g> <vb/>
+    <p><g>cuir</g>
+        <vb/>
         <en>put, send</en></p>
 
     <section>
-        <h>nouns</h>
-        <!--<section>
-            <h>object</h>-->
-            <module id="bocsa">
-                <h>bocsa</h>
-                <p><g>cuir ... <a href="?gd=bocsa">bocsa</a> ...</g>
-                    <en>... puts a box ...</en> – <xl>
-                        <li>
-                            <gd>Có chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
-                            <tr>Who put the box on the table? Mary did.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
+        <h>objects</h>
+        <module id="bocsa">
+            <h>bocsa</h>
+            <p><g>cuir ... <a href="?gd=bocsa">bocsa</a> ...</g>
+                <en>... puts a box ...</en> – <xl>
+                    <li>
+                        <gd>Có chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
+                        <tr>Who put the box on the table? Mary did.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="leabhar">
             <h>leabhar</h>
             <p><g>cuir ... <a href="?gd=leabhar">leabhar</a> ...</g>
@@ -32,26 +31,50 @@
                 </xl>
             </p>
         </module>
-        <!--</section>-->
-       <!-- <section>
-            <h>locative</h>-->
-            <module id="boord">
-                <h>bòrd</h>
-                <p><g>cuir ... air <a href="?gd=boord">bòrd</a> ...</g>
-                    <en>... puts ... on a table</en> – <xl>
-                        <li>
-                            <gd>Có chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
-                            <tr>Who put the box on the table? Mary did.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                        <li>
-                            <gd>Chuir e an leabhar air a’ bhòrd.</gd>
-                            <tr>He put the book on the table.</tr>
-                            <ref text="617">td. 47</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
+        <module id="crodh">
+            <h>crodh</h>
+            <p><g>cuir ... <a href="?gd=crodh">crodh</a> ...</g>
+                <en>... puts cattle ...</en> – <xl>
+                    <li>
+                        <gd>An do chuir Calum an crodh do’n mhonadh? Chuir.</gd>
+                        <tr>Did Malcolm put the cattle to the moor? Yes, he did.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    <section>
+        <h>destinations</h>
+        <module id="boord">
+            <h>bòrd</h>
+            <p><g>cuir ... air <a href="?gd=boord">bòrd</a> ...</g>
+                <en>... puts ... on a table</en> – <xl>
+                    <li>
+                        <gd>Có chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
+                        <tr>Who put the box on the table? Mary did.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Chuir e an leabhar air a’ bhòrd.</gd>
+                        <tr>He put the book on the table.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="monadh">
+            <h>monadh</h>
+            <p><g>cuir ... do <a href="?gd=monadh">mhonadh</a></g>
+                <en>... puts ... onto a moor</en> – <xl>
+                    <li>
+                        <gd>An do chuir Calum an crodh do’n mhonadh? Chuir.</gd>
+                        <tr>Did Malcolm put the cattle to the moor? Yes, he did.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <!--</section>-->
     </section>
 

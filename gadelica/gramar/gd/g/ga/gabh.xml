@@ -6,11 +6,11 @@
         <en>take</en></p>
 
     <section>
-        <h>nouns</h>
+        <h>objects</h>
         <module id="biadh">
             <h>biadh</h>
             <p><g>gabh ... <a href="?gd=biadh">biadh</a></g>
-                <en>... takes (eats?) food</en> – <xl>
+                <en>... eats food</en> – <xl>
                     <li>
                         <gd>An do ghabh thu do bhiadh? Ghabh.</gd>
                         <tr>Did you eat your food? Yes, I did.</tr>
@@ -23,7 +23,7 @@
                             bha aig Màiri anns a’ bhascaid.</gd>
                         <tr>Mary and James were on the moor yesterday. James took the fishing rod
                             with him and Mary took (with her) food in a basket. [...] When they were
-                            hungry, they sat down on a hillock and they took the food that Mary had
+                            hungry, they sat down on a hillock and they ate the food that Mary had
                             in the basket.</tr>
                         <ref text="617">td. 76</ref>
                     </li>
@@ -37,6 +37,11 @@
                     <li>
                         <gd>Ghabh a’ chaileag seo òran aig a’ chéilidh.</gd>
                         <tr>This girl sang a song at the ceilidh.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                    <li>
+                        <gd>An do ghabh thu òran? Cha do ghabh.</gd>
+                        <tr>Did you sing a dong? No, I didn’t.</tr>
                         <ref text="617">td. 47</ref>
                     </li>
                 </xl>

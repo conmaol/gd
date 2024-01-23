@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>cù</h>
-    <p><g>cù</g> <masc/>
+    <p><g>cù</g>
+        <masc/>
         <en>a dog</en></p>
 
     <section>
@@ -99,6 +100,18 @@
                 </xl>
             </p>
         </module>
+        <module id="taigh">
+            <h>taigh</h>
+            <p><g>cù aig <a href="?gd=taigh">taigh</a></g>
+                <en>a dog at a house</en> – <xl>
+                    <li>
+                        <gd>An do dh’fhàg Calum an cù aig an taigh? Dh’fhàg.</gd>
+                        <tr>Did Malcolm leave the dog at the house? Yes, he did.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="bodach">
             <h>bodach</h>
             <p><g><a href="?gd=bodach">bodach</a> le cù</g>
@@ -148,41 +161,66 @@
 
     <section>
         <h>verbs</h>
-        <module id="faic">
-            <h>faic</h>
-            <p><g><a href="?gd=faic">faic</a> ... cù</g>
-                <en>sees a dog</en> – <xl>
-                    <li>
-                        <gd>Chunnaic mi cù aig an dorus.</gd>
-                        <tr>I saw a dog at the door.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                </xl></p>
-        </module>
-        <module id="cluich">
-            <h>cluich</h>
-            <p><g><a href="?gd=cluich">cluich</a> còmhla ri cù</g>
-                <en>play with a dog</en> – <xl>
-                    <li>
-                        <gd>Nach robh Calum agus Màiri a’ cluich còmhla ris a’ chù? Cha robh.</gd>
-                        <tr>Weren’t Malcolm and Mary playing with the dog? No, they weren’t.</tr>
-                        <ref text="617">td. 21 [230]</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="lean">
-            <h>lean</h>
-            <p><g><a href="?gd=lean">lean</a> cù ...</g>
-                <en>a dog follows ...</en> – <xl>
-                    <li>
-                        <gd>Lean an cù mi do’n mhonadh.</gd>
-                        <tr>The dog followed me onto the moor.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <section>
+            <h>subject</h>
+            <module id="lean">
+                <h>lean</h>
+                <p><g><a href="?gd=lean">lean</a> cù ...</g>
+                    <en>a dog follows ...</en> – <xl>
+                        <li>
+                            <gd>Lean an cù mi do’n mhonadh.</gd>
+                            <tr>The dog followed me onto the moor.</tr>
+                            <ref text="617">td. 47</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+        <section>
+            <h>object</h>
+            <module id="faic">
+                <h>faic</h>
+                <p><g><a href="?gd=faic">faic</a> ... cù</g>
+                    <en>sees a dog</en> – <xl>
+                        <li>
+                            <gd>Chunnaic mi cù aig an dorus.</gd>
+                            <tr>I saw a dog at the door.</tr>
+                            <ref text="617">td. 6</ref>
+                        </li>
+                    </xl></p>
+            </module>
+            <module id="faag">
+                <h>fàg</h>
+                <p><g><a href="?gd=faag">fàg</a> ... cù ...</g>
+                    <en>... leaves a dog ...</en> – <xl>
+                        <li>
+                            <gd>An do dh’fhàg Calum an cù aig an taigh? Dh’fhàg.</gd>
+                            <tr>Did Malcolm leave the dog at the house? Yes, he did.</tr>
+                            <ref text="617">td. 47</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+        <section>
+            <h>comitative</h>
+            <module id="cluich">
+                <h>cluich</h>
+                <p><g><a href="?gd=cluich">cluich</a> còmhla ri cù</g>
+                    <en>play with a dog</en> – <xl>
+                        <li>
+                            <gd>Nach robh Calum agus Màiri a’ cluich còmhla ris a’ chù? Cha
+                                robh.</gd>
+                            <tr>Weren’t Malcolm and Mary playing with the dog? No, they
+                                weren’t.</tr>
+                            <ref text="617">td. 21 [230]</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+
+
     </section>
 
     <!-- <p>Examples of <g>cù</g> as the subject of a demonstrative pronoun – <ul>

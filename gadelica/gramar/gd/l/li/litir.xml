@@ -7,18 +7,26 @@
 
     <section>
         <h>verbs</h>
-        <module id="sgriiobh">
-            <h>sgrìobh</h>
-            <p><g><a href="?gd=sgriiobh">sgrìobh</a> ... litir</g>
-                <en>... writes a letter</en> – <xl>
-                    <li>
-                        <gd>Sgrìobh mi litir gu Calum an dé.</gd>
-                        <tr>I wrote a letter to Malcolm yesterday.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <section>
+            <h>object</h>
+            <module id="sgriiobh">
+                <h>sgrìobh</h>
+                <p><g><a href="?gd=sgriiobh">sgrìobh</a> ... litir</g>
+                    <en>... writes a letter</en> – <xl>
+                        <li>
+                            <gd>Sgrìobh mi litir gu Calum an dé.</gd>
+                            <tr>I wrote a letter to Malcolm yesterday.</tr>
+                            <ref text="617">td. 47</ref>
+                        </li>
+                        <li>
+                            <gd>An do sgrìobh thu an litir? Cha do sgrìobh fhathast.</gd>
+                            <tr>Did you write the letter. No, not yet.</tr>
+                            <ref text="617">td. 47</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
     </section>
 
 </module>

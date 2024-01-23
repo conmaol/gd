@@ -63,6 +63,11 @@
                                 moor.</tr>
                             <ref text="617">td. 21</ref>
                         </li>
+                        <li>
+                            <gd>An do chuir Calum an crodh do’n mhonadh? Chuir.</gd>
+                            <tr>Did Malcolm put the cattle to the moor? Yes, he did.</tr>
+                            <ref text="617">td. 47</ref>
+                        </li>
                     </xl>
                 </p>
             </module>
@@ -206,32 +211,47 @@
 
     <section>
         <h>verbs</h>
-        <module id="ruig">
-            <h>ruig</h>
-            <p><g><a href="?gd=ruig">ruig</a> ... monadh</g>
-                <en>... reaches a moor</en> – <xl>
-                    <li>
-                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
-                            fhang.</gd>
-                        <tr>When Mary and James reached the moor, the shepherds were at the
-                            fank.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="lean">
-            <h>lean</h>
-            <p><g><a href="?gd=lean">lean</a> ... do’n mhonadh</g>
-                <en>... follows ... onto a moor</en> – <xl>
-                    <li>
-                        <gd>Lean an cù mi do’n mhonadh.</gd>
-                        <tr>The dog followed me onto the moor.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <section>
+            <h>destination</h>
+            <module id="ruig">
+                <h>ruig</h>
+                <p><g><a href="?gd=ruig">ruig</a> ... monadh</g>
+                    <en>... reaches a moor</en> – <xl>
+                        <li>
+                            <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
+                                fhang.</gd>
+                            <tr>When Mary and James reached the moor, the shepherds were at the
+                                fank.</tr>
+                            <ref text="617">td. 76</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="lean">
+                <h>lean</h>
+                <p><g><a href="?gd=lean">lean</a> ... do’n mhonadh</g>
+                    <en>... follows ... onto a moor</en> – <xl>
+                        <li>
+                            <gd>Lean an cù mi do’n mhonadh.</gd>
+                            <tr>The dog followed me onto the moor.</tr>
+                            <ref text="617">td. 47</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="cuir">
+                <h>cuir</h>
+                <p><g><a href="?gd=cuir">cuir</a> ... do mhonadh</g>
+                    <en>... puts ... onto a moor</en> – <xl>
+                        <li>
+                            <gd>An do chuir Calum an crodh do’n mhonadh? Chuir.</gd>
+                            <tr>Did Malcolm put the cattle to the moor? Yes, he did.</tr>
+                            <ref text="617">td. 47</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
     </section>
 
 

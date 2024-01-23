@@ -6,7 +6,7 @@
         <en>write</en></p>
 
     <section>
-        <h>nouns</h>
+        <h>objects</h>
         <module id="litir">
             <h>litir</h>
             <p><g>sgrìobh ... <a href="?gd=litir">litir</a></g>
@@ -16,9 +16,17 @@
                         <tr>I wrote a letter to Malcolm yesterday.</tr>
                         <ref text="617">td. 47</ref>
                     </li>
+                    <li>
+                        <gd>An do sgrìobh thu an litir? Cha do sgrìobh fhathast.</gd>
+                        <tr>Did you write the letter. No, not yet.</tr>
+                        <ref text="617">td. 47</ref>
+                    </li>
                 </xl>
             </p>
         </module>
+    </section>
+    <section>
+        <h>destinations</h>
         <module id="balla">
             <h>balla</h>
             <p><g>sgrìobh ... air <a href="?gd=balla">balla</a></g> <en>... writes on a wall</en> –
