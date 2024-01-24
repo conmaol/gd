@@ -2,8 +2,8 @@
 <module>
     <h>bainne</h>
     <p><g>bainne</g>
-        <en>milk</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+        <masc/>
+        <en>milk</en></p>
 
     <section>
         <h>nouns</h>
@@ -28,7 +28,38 @@
                 </xl>
             </p>
         </module>
+        <module id="cat">
+            <h>cat</h>
+            <p><g>òl <a href="?gd=cat">cat</a> bainne</g>
+                <en>a cat drinks milk</en> – <xl>
+                    <li>
+                        <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
+                        <tr>Did the cat drink the milk? Yes, it did.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <!--</section>-->
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <section>
+            <h>object</h>
+            <module id="ool">
+                <h>òl</h>
+                <p><g><a href="?gd=ool">òl</a> ... bainne</g>
+                    <en>... drinks milk</en> – <xl>
+                        <li>
+                            <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
+                            <tr>Did the cat drink the milk? Yes, it did.</tr>
+                            <ref text="617">td. 48</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
     </section>
 
 </module>

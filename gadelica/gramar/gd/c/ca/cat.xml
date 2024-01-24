@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>cat</h>
-    <p><g>cat</g>
-        <en>a cat</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+    <p><g>cat</g> <masc/>
+        <en>a cat</en></p>
 
     <section>
         <h>adjectives</h>
@@ -105,25 +104,48 @@
                 </xl>
             </p>
         </module>
+        <module id="bainne">
+            <h>bainne</h>
+            <p><g>òl cat <a href="?gd=bainne">bainne</a></g>
+                <en>a cat drinks milk</en> – <xl>
+                    <li>
+                        <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
+                        <tr>Did the cat drink the milk? Yes, it did.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
     <section>
-        <h>verbs</h>
-        <!-- <section>
-            <h>subject</h>
-            <p><g>cat</g> can be the subject of certain <a href="?xx=verbs/verbs">verbs</a>.</p>-->
-        <module id="cluich">
-            <h>cluich</h>
-            <p><g><a href="?gd=cluich">cluich</a> cat</g>
-                <en>a cat plays</en> – <xl>
-                    <li>
-                        <gd>A bheil an cat a’ cluich còmhla ri Seònaid air an làr? Tha.</gd>
-                        <tr>Is the cat playing with Janet on the floor? Yes, he is.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                </xl></p>
-        </module>
-        <!--</section>-->
+        <h>verbs</h>        
+        <section>
+            <h>subjects</h>
+            <module id="ool">
+                <h>òl</h>
+                <p><g><a href="?gd=ool">òl</a> cat</g>
+                    <en>a cat drinks</en> – <xl>
+                        <li>
+                            <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
+                            <tr>Did the cat drink the milk? Yes, it did.</tr>
+                            <ref text="617">td. 48</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="cluich">
+                <h>cluich</h>
+                <p><g><a href="?gd=cluich">cluich</a> cat</g>
+                    <en>a cat plays</en> – <xl>
+                        <li>
+                            <gd>A bheil an cat a’ cluich còmhla ri Seònaid air an làr? Tha.</gd>
+                            <tr>Is the cat playing with Janet on the floor? Yes, he is.</tr>
+                            <ref text="617">td. 14</ref>
+                        </li>
+                    </xl></p>
+            </module>
+        </section>
     </section>
 
     <!-- <p>Examples of <g>cat</g> as the subject of a demonstrative pronoun used as a copular verb – <ul>

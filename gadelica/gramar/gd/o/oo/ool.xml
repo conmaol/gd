@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>òl</h>
+    <p><g>òl</g>
+        <vb/>
+        <en>drink</en></p>
+
+    <section>
+        <h>subjects</h>
+        <module id="cat">
+            <h>cat</h>
+            <p><g>òl <a href="?gd=cat">cat</a></g>
+                <en>a cat drinks</en> – <xl>
+                    <li>
+                        <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
+                        <tr>Did the cat drink the milk? Yes, it did.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>objects</h>
+        <module id="bainne">
+            <h>bainne</h>
+            <p><g>òl ... <a href="?gd=bainne">bainne</a></g>
+                <en>... drinks milk</en> – <xl>
+                    <li>
+                        <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
+                        <tr>Did the cat drink the milk? Yes, it did.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>
