@@ -62,6 +62,11 @@
                             <tr>Did you keep the door open? No, I didn’t.</tr>
                             <ref text="617">td. 56</ref>
                         </li>
+                        <li>
+                            <gd>Dh’fhàg Màiri an dorus fosgailte.</gd>
+                            <tr>Mary left the door open.</tr>
+                            <ref text="617">td. 237</ref>
+                        </li>
                     </xl>
                 </p>
             </module>
@@ -73,6 +78,16 @@
                             <gd>An do dhùin thu an dorus? Dhùin.</gd>
                             <tr>Did you close the door? Yes, I did.</tr>
                             <ref text="617">td. 47</ref>
+                        </li>
+                        <li>
+                            <gd>Dùin an dorus!</gd>
+                            <tr>Close the door!</tr>
+                            <ref text="617">td. 237</ref>
+                        </li>
+                        <li>
+                            <gd>An do dhùin Màiri an dorus? Cha do dhùin.</gd>
+                            <tr>Did Mary close the door? No, she didn’t.</tr>
+                            <ref text="617">td. 4237</ref>
                         </li>
                     </xl>
                 </p>
@@ -90,6 +105,18 @@
                             <gd>An do ghlas thu an dorus? Ghlas.</gd>
                             <tr>Did you lock the door? Yes, I did.</tr>
                             <ref text="617">td. 47</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="faag">
+                <h>fàg</h>
+                <p><g><a href="?gd=faag">fàg</a> ... dorus ...</g>
+                    <en>... leaves a door ...</en> – <xl>
+                        <li>
+                            <gd>Dh’fhàg Màiri an dorus fosgailte.</gd>
+                            <tr>Mary left the door open.</tr>
+                            <ref text="617">td. 237</ref>
                         </li>
                     </xl>
                 </p>

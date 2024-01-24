@@ -6,12 +6,27 @@
         <en>sit down</en></p>
 
     <section>
+        <h>subjects</h>
+        <module id="caileag">
+            <h>caileag</h>
+            <p><g>suidh <a href="?gd=caileag">caileag</a></g>
+                <en>a girl sits down</en> – <xl>
+                    <li>
+                        <gd>An do shuidh a’ chaileag aig an teine? Shuidh.</gd>
+                        <tr>Did the girl sit down by the fire? Yes, she did.</tr>
+                        <ref text="617">td. 237</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
         <h>locations</h>
         <module id="cathair">
             <h>cathair</h>
             <p><g>suidh ... air <a href="?gd=cathair">cathair</a></g>
-                <en>... sits down on a chair</en> – 
-                <xl>
+                <en>... sits down on a chair</en> – <xl>
                     <li>
                         <gd>Càir an do shuidh Calum? Shuidh Calum air a’ chathair.</gd>
                         <tr>Where did Malcolm sit down? Malcolm sat down on the chair.</tr>
@@ -46,6 +61,23 @@
                             hungry, they sat down on a hillock and they took the food that Mary had
                             in the basket.</tr>
                         <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="teine">
+            <h>teine</h>
+            <p><g>suidh ... aig <a href="?gd=teine">teine</a></g>
+                <en>... sits down by a fire</en> – <xl>
+                    <li>
+                        <gd>Suidh aig an teine!.</gd>
+                        <tr>Sit down by the fire!</tr>
+                        <ref text="617">td. 237</ref>
+                    </li>
+                    <li>
+                        <gd>An do shuidh a’ chaileag aig an teine? Shuidh.</gd>
+                        <tr>Did the girl sit down by the fire? Yes, she did.</tr>
+                        <ref text="617">td. 237</ref>
                     </li>
                 </xl>
             </p>

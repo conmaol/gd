@@ -73,6 +73,18 @@
                 </xl>
             </p>
         </module>
+        <module id="dorus">
+            <h>dorus</h>
+            <p><g>fàg ... <a href="?gd=dorus">dorus</a> ...</g> <en>... leaves a door ...</en> –
+                <xl>
+                    <li>
+                        <gd>Dh’fhàg Màiri an dorus fosgailte.</gd>
+                        <tr>Mary left the door open.</tr>
+                        <ref text="617">td. 237</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
     <section>
@@ -114,6 +126,18 @@
                         <gd>An do dh’fhàg thu do leabhar anns an sgoil? Cha do dh’fhàg. Càit an do dh’fhàg thu do leabhar? Dh’fhàg mi mo leabhar air a bhòrd.</gd>
                         <tr>Did you leave your book in the school? No, I didn’t. Where did you leave your book? I left my book on the table.</tr>
                         <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="fosgail">
+            <h>fosgail</h>
+            <p><g>fàg ... <a href="?gd=fosgail">fosgailte</a> ...</g> <en>... leaves ... open</en> –
+                <xl>
+                    <li>
+                        <gd>Dh’fhàg Màiri an dorus fosgailte.</gd>
+                        <tr>Mary left the door open.</tr>
+                        <ref text="617">td. 237</ref>
                     </li>
                 </xl>
             </p>
