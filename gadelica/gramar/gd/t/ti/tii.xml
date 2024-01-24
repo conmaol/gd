@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>tì</h>
+    <p><g>tì</g>
+        <masc/>
+        <en>tea</en></p>
+
+    <section>
+        <h>nouns</h>
+        <module id="siuucar">
+            <h>siùcar</h>
+            <p><g><a href="?gd=siuucar">siùcar</a> ann an tì</g>
+                <en>sugar in tea</en> – <xl>
+                    <li>
+                        <gd>Nach do dh’òl thu do thì? Cha do dh’òl. Cha do chuir thu siùcar
+                            ann.</gd>
+                        <tr>Didn’t you drink your tea? No, I didn’t. You didn’t put sugar in
+                            it.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <section>
+            <h>object</h>
+            <module id="ool">
+                <h>òl</h>
+                <p><g><a href="?gd=ool">òl</a> ... tì</g>
+                    <en>... drinks tea</en> – <xl>
+                        <li>
+                            <gd>Nach do dh’òl thu do thì? Cha do dh’òl. Cha do chuir thu siùcar
+                                ann.</gd>
+                            <tr>Didn’t you drink your tea? No, I didn’t. You didn’t put sugar in
+                                it.</tr>
+                            <ref text="617">td. 48</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+        <section>
+            <h>destination</h>
+            <module id="cuir">
+                <h>cuir</h>
+                <p><g><a href="?gd=cuir">cuir</a> ... ann an tì</g>
+                    <en>... puts ... in tea</en> – <xl>
+                        <li>
+                            <gd>Nach do dh’òl thu do thì? Cha do dh’òl. Cha do chuir thu siùcar
+                                ann.</gd>
+                            <tr>Didn’t you drink your tea? No, I didn’t. You didn’t put sugar in
+                                it.</tr>
+                            <ref text="617">td. 48</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+
+
+</module>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>siùcar</h>
+    <p><g>siùcar</g>
+        <masc/>
+        <en>sugar</en></p>
+
+    <section>
+        <h>nouns</h>
+        <module id="tii">
+            <h>tì</h>
+            <p><g>siùcar ann an <a href="?gd=tii">tì</a> ...</g>
+                <en>sugar in tea</en> – <xl>
+                    <li>
+                        <gd>Nach do dh’òl thu do thì? Cha do dh’òl. Cha do chuir thu siùcar
+                            ann.</gd>
+                        <tr>Didn’t you drink your tea? No, I didn’t. You didn’t put sugar in
+                            it.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <module id="cuir">
+            <h>cuir</h>
+            <p><g><a href="?gd=cuir">cuir</a> ... siùcar ...</g>
+                <en>... puts sugar ...</en> – <xl>
+                    <li>
+                        <gd>Nach do dh’òl thu do thì? Cha do dh’òl. Cha do chuir thu siùcar
+                            ann.</gd>
+                        <tr>Didn’t you drink your tea? No, I didn’t. You didn’t put sugar in
+                            it.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>

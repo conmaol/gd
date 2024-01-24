@@ -43,6 +43,34 @@
                 </xl>
             </p>
         </module>
+        <module id="uisge">
+            <h>uisge</h>
+            <p><g>cuir ... <a href="?gd=uisge">uisge</a> ...</g>
+                <en>... puts water ...</en> – <xl>
+                    <li>
+                        <gd>Nach do chuir thu uisge anns a’ choire, Iain? Chuir.</gd>
+                        <tr>Didn’t you put water in the kettle, John? Yes, I did.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="siuucar">
+            <h>siùcar</h>
+            <p><g>cuir ... <a href="?gd=siuucar">siùcar</a> ...</g>
+                <en>... puts sugar ...</en> – <xl>
+                    <li>
+                        <gd>Nach do dh’òl thu do thì? Cha do dh’òl. Cha do chuir thu siùcar
+                            ann.</gd>
+                        <tr>Didn’t you drink your tea? No, I didn’t. You didn’t put sugar in
+                            it.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+
+
     </section>
     <section>
         <h>destinations</h>
@@ -71,6 +99,32 @@
                         <gd>An do chuir Calum an crodh do’n mhonadh? Chuir.</gd>
                         <tr>Did Malcolm put the cattle to the moor? Yes, he did.</tr>
                         <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="coire">
+            <h>coire</h>
+            <p><g>cuir ... ann an <a href="?gd=coire">coire</a></g>
+                <en>... puts ... in a kettle</en> – <xl>
+                    <li>
+                        <gd>Nach do chuir thu uisge anns a’ choire, Iain? Chuir.</gd>
+                        <tr>Didn’t you put water in the kettle, John? Yes, I did.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="tii">
+            <h>tì</h>
+            <p><g>cuir ... ann an <a href="?gd=tii">tì</a> ...</g>
+                <en>... puts ... in tea</en> – <xl>
+                    <li>
+                        <gd>Nach do dh’òl thu do thì? Cha do dh’òl. Cha do chuir thu siùcar
+                            ann.</gd>
+                        <tr>Didn’t you drink your tea? No, I didn’t. You didn’t put sugar in
+                            it.</tr>
+                        <ref text="617">td. 48</ref>
                     </li>
                 </xl>
             </p>

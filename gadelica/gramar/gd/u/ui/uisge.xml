@@ -2,57 +2,75 @@
 <module>
     <h>uisge</h>
     <p><g>uisge</g>
-        <en>water</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+        <masc/>
+        <en>water</en></p>
 
     <section>
-        <h>prepositions</h>
+        <h>nouns</h>
+        <module id="coire">
+            <h>coire</h>
+            <p><g>uisge ann an <a href="?gd=coire">coire</a></g>
+                <en>water in a kettle</en>. <xl>
+                    <li>
+                        <gd>A bheil uisge anns a’ choire? Tha.</gd>
+                        <tr>Is there water in the kettle? Yes, there is.</tr>
+                        <ref text="617">td. 120</ref>
+                    </li>
+                    <li>
+                        <gd>Nach do chuir thu uisge anns a’ choire, Iain? Chuir.</gd>
+                        <tr>Didn’t you put water in the kettle, John? Yes, I did.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>verbs</h>
         <section>
-            <h>subject</h>
-            <p><g>uisge</g> can be the (deep) subject of certain <a
-                href="?xx=prepositions/prepositions">prepositions</a>.</p>
-            <module id="uisge_an">
-                <h>uisge ann an ...</h>
-                <p><g>uisge <a href="?gd=an^preposition">ann an</a> ...</g>
-                    <en>water in ...</en>.</p>
-                <module>
-                    <h>uisge ann an coire</h>
-                    <p><g>uisge ann an <a href="?gd=coire">coire</a></g>
-                        <en>water in a kettle</en>. <xl>
-                            <li>
-                                <gd>A bheil uisge anns a’ choire? Tha.</gd>
-                                <tr>Is there water in the kettle? Yes, there is.</tr>
-                                <ref text="617">td. 120</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-                <module>
-                    <h>[bi] [an t-]uisge ann</h>
-                    <p><g>[bi] [an t-]uisge ann</g> <en>[it is] raining</en> –
-                    <xl>
+            <h>object</h>
+            <module id="cuir">
+                <h>cuir</h>
+                <p><g><a href="?gd=cuir">cuir</a> ... uisge ...</g>
+                    <en>... puts water ...</en> – <xl>
                         <li>
-                            <gd>Tha an t-uisge ann.</gd>
-                            <tr>It is raining.</tr>
-                            <ref text="617">td. 12</ref>
-                        </li>
-                        <li>
-                            <gd>A bheil an t-uisge ann? Chan eil.</gd>
-                            <tr>Is it raining? No, it isn’t.</tr>
-                            <ref text="617">td. 14 [adapted]</ref>
-                        </li>
-                        <li>
-                            <gd>Chan eil uisge ann.</gd>
-                            <tr>It is not raining.</tr>
-                            <ref text="617">td. [228]</ref>
+                            <gd>Nach do chuir thu uisge anns a’ choire, Iain? Chuir.</gd>
+                            <tr>Didn’t you put water in the kettle, John? Yes, I did.</tr>
+                            <ref text="617">td. 48</ref>
                         </li>
                     </xl>
-                    </p>
-                </module>
+                </p>
             </module>
         </section>
     </section>
-    
+
+    <section id="other">
+        <h>other</h>
+        <module>
+            <h>[bi] [an t-]uisge ann</h>
+            <p><g>[bi] [an t-]uisge ann</g>
+                <en>[it is] raining</en> – <xl>
+                    <li>
+                        <gd>Tha an t-uisge ann.</gd>
+                        <tr>It is raining.</tr>
+                        <ref text="617">td. 12</ref>
+                    </li>
+                    <li>
+                        <gd>A bheil an t-uisge ann? Chan eil.</gd>
+                        <tr>Is it raining? No, it isn’t.</tr>
+                        <ref text="617">td. 14 [adapted]</ref>
+                    </li>
+                    <li>
+                        <gd>Chan eil uisge ann.</gd>
+                        <tr>It is not raining.</tr>
+                        <ref text="617">td. [228]</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
     <!--<section>
         <h>uses</h>
         <section>
