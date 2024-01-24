@@ -1,32 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
-    <h>arbhar</h>
-    <p><g>arbhar</g> <masc/>
-        <en>corn</en></p>
+    <h>buain</h>
+    <p><g>buain</g> <vb/>
+        <en>reap</en></p>
     
-    <section>
-        <h>adjectives</h>
-        <module id="abaich">
-            <h>abaich</h>
-            <p><g>arbhar <a href="?gd=abaich">abaich</a></g> <en>ripe corn</en> –
-                <xl>
-                    <li>
-                        <gd>Tha an t-arbhar abaich.</gd>
-                        <tr>The corn is ripe.</tr>
-                        <ref text="617">td. 59</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-    
-    <section>
-        <h>verbs</h>
         <section>
-            <h>object</h>
-            <module id="buain">
-                <h>buain</h>
-                <p><g><a href="?gd=buain">buain</a> ... arbhar</g> <en>... reaps corn</en> – 
+            <h>objects</h>
+            <module id="arbhar">
+                <h>arbhar</h>
+                <p><g>buain ... <a href="?gd=arbhar">arbhar</a></g> <en>... reaps corn</en> – 
                     <xl>
                         <li>
                             <gd>An e Calum a bhuain an t-arbhar? ’S e.</gd>
@@ -42,7 +24,6 @@
                 </p>
             </module>
         </section>
-    </section>
     
 </module>
 

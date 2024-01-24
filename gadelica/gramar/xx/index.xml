@@ -26,6 +26,9 @@
                 <li><a href="?gd=allt"><g>allt</g></a>
                     <masc/>
                     <en>a stream, a burn</en></li>
+                <li><a href="?gd=aodann"><g>aodann</g></a>
+                    <masc/>
+                    <en>a face</en></li>
                 <li><a href="?gd=arbhar"><g>arbhar</g></a>
                     <masc/>
                     <en>corn</en></li>
@@ -493,6 +496,8 @@
     <section id="verbs">
         <h>verbs</h>
         <p><ul>
+                <li><a href="?gd=buain"><g>buain</g></a>
+                    <en>reap</en></li>
                 <li><a href="?gd=ceannaich"><g>ceannaich</g></a>
                     <en>buy</en></li>
                 <li><a href="?gd=cluich"><g>cluich</g></a>

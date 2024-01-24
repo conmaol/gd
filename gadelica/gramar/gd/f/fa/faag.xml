@@ -53,6 +53,11 @@
                         <tr>I left my book in the school.</tr>
                         <ref text="617">td. 47</ref>
                     </li>
+                    <li>
+                        <gd>An do dh’fhàg thu do leabhar anns an sgoil? Cha do dh’fhàg. Càit an do dh’fhàg thu do leabhar? Dh’fhàg mi mo leabhar air a bhòrd.</gd>
+                        <tr>Did you leave your book in the school? No, I didn’t. Where did you leave your book? I left my book on the table.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
                 </xl>
             </p>
         </module>
@@ -81,6 +86,11 @@
                         <tr>I left my book in the school.</tr>
                         <ref text="617">td. 47</ref>
                     </li>
+                    <li>
+                        <gd>An do dh’fhàg thu do leabhar anns an sgoil? Cha do dh’fhàg. Càit an do dh’fhàg thu do leabhar? Dh’fhàg mi mo leabhar air a bhòrd.</gd>
+                        <tr>Did you leave your book in the school? No, I didn’t. Where did you leave your book? I left my book on the table.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
                 </xl>
             </p>
         </module>
@@ -92,6 +102,18 @@
                         <gd>An do dh’fhàg Calum an cù aig an taigh? Dh’fhàg.</gd>
                         <tr>Did Malcolm leave the dog at the house? Yes, he did.</tr>
                         <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="boord">
+            <h>bòrd</h>
+            <p><g>fàg ... air <a href="?gd=boord">bòrd</a> ...</g>
+                <en>... leaves ... on a table</en> – <xl>
+                    <li>
+                        <gd>An do dh’fhàg thu do leabhar anns an sgoil? Cha do dh’fhàg. Càit an do dh’fhàg thu do leabhar? Dh’fhàg mi mo leabhar air a bhòrd.</gd>
+                        <tr>Did you leave your book in the school? No, I didn’t. Where did you leave your book? I left my book on the table.</tr>
+                        <ref text="617">td. 48</ref>
                     </li>
                 </xl>
             </p>

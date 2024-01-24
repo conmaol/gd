@@ -6,7 +6,7 @@
         <en>wash</en></p>
 
     <section>
-        <h>nouns</h>
+        <h>subjects</h>
         <module id="gille">
             <h>gille</h>
             <p><g>nigh <a href="?gd=gille">gille</a> ...</g>
@@ -18,6 +18,9 @@
                     </li>
                 </xl></p>
         </module>
+    </section>
+    <section>
+        <h>objects</h>
         <module id="laamh">
             <h>làmh</h>
             <p><g>nigh ... <a href="?gd=laamh">làmh</a></g>
@@ -26,6 +29,17 @@
                         <gd>Nigh an gille beag a làmhan.</gd>
                         <tr>The little boy washed his hands.</tr>
                         <ref text="617">td. 47</ref>
+                    </li>
+                </xl></p>
+        </module>
+        <module id="aodann">
+            <h>aodann</h>
+            <p><g>nigh ... <a href="?gd=aodann">aodann</a></g>
+                <en>... washes a face</en> – <xl>
+                    <li>
+                        <gd>An do nigh thu d’aodann? Nigh.</gd>
+                        <tr>Did you wash your face? Yes, I did.</tr>
+                        <ref text="617">td. 48</ref>
                     </li>
                 </xl></p>
         </module>
