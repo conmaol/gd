@@ -41,6 +41,23 @@
                     </xl>
                 </p>
             </module>
+            <module id="reic">
+                <h>reic</h>
+                <p><g><a href="?gd=reic">reic</a> ... càr</g>
+                    <en>... sells a car</en> – <xl>
+                        <li>
+                            <gd>Reic Seumas an càr.</gd>
+                            <tr>James sold the car.</tr>
+                            <ref text="617">td. 238</ref>
+                        </li>
+                        <li>
+                            <gd>An do reic Seumas an càr? Reic.</gd>
+                            <tr>Did James sell the car? Yes, he did.</tr>
+                            <ref text="617">td. 238</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
         </section>
     </section>
 
