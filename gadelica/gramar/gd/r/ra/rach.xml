@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>rach</h>
+    <p><g>rach</g>
+        <vb/>
+        <en>go</en></p>
+    
+    <section>
+        <h>destinations</h>
+        <module id="sgoil">
+            <h>sgoil</h>
+            <p><g>rach ... do <a href="?gd=sgoil">sgoil</a></g> <en>... goes to a school</en> –
+                <xl>
+                    <li>
+                        <gd>An do dh’fhan Màiri aig an taigh an diugh? Cha do dh’fhan. Chaidh Màiri
+                            do’n sgoil anns a’ mhadainn</gd>
+                        <tr>Did Mary stay at home today? No, she didn’t. She went to school in the
+                            morning.</tr>
+                        <ref text="617">td. 237–8</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+    <section>
+        <h>times</h>
+        <module id="madainn">
+            <h>madainn</h>
+            <p><g>rach ... ann am <a href="?gd=madainn">madainn</a></g> <en>... goes ... of a morning</en> –
+                <xl>
+                    <li>
+                        <gd>An do dh’fhan Màiri aig an taigh an diugh? Cha do dh’fhan. Chaidh Màiri
+                            do’n sgoil anns a’ mhadainn</gd>
+                        <tr>Did Mary stay at home today? No, she didn’t. She went to school in the
+                            morning.</tr>
+                        <ref text="617">td. 237–8</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+</module>
+

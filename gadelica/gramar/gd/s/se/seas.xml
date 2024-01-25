@@ -31,6 +31,23 @@
                 </xl>
             </p>
         </module>
+        <module id="boord">
+            <h>bòrd</h>
+            <p><g>seas ... aig <a href="?gd=boord">bòrd</a></g>
+                <en>... stands up at a table</en> – <xl>
+                    <li>
+                        <gd>Seas aig a’ bhòrd!</gd>
+                        <tr>Stand (up) at the window!</tr>
+                        <ref text="617">td. 237</ref>
+                    </li>
+                    <li>
+                        <gd>An do sheas e aig a’ bhòrd? Sheas.</gd>
+                        <tr>Did he stand (up) at the window? Yes, he did.</tr>
+                        <ref text="617">td. 237</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 </module>

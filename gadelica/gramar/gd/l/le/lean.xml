@@ -6,7 +6,7 @@
         <en>follow</en></p>
 
     <section>
-        <h>nouns</h>
+        <h>subjects</h>
         <module id="cuu">
             <h>cù</h>
             <p><g>lean <a href="?gd=cuu">cù</a> ...</g>
@@ -19,6 +19,31 @@
                 </xl>
             </p>
         </module>
+    </section>
+
+    <section>
+        <h>objects</h>
+        <module id="caar">
+            <h>càr</h>
+            <p><g>lean ... <a href="?gd=caar">càr</a></g>
+                <en>... follows a car</en> – <xl>
+                    <li>
+                        <gd>Lean an càr sin!</gd>
+                        <tr>Follow that car!</tr>
+                        <ref text="617">td. 237</ref>
+                    </li>
+                    <li>
+                        <gd>An do lean thu an càr? Lean.</gd>
+                        <tr>Did you follow the car? Yes, I did.</tr>
+                        <ref text="617">td. 237</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>destinations</h>
         <module id="monadh">
             <h>monadh</h>
             <p><g>lean ... do’n <a href="?gd=monadh">mhonadh</a></g>

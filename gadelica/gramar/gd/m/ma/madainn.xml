@@ -25,6 +25,20 @@
 
     <section>
         <h>verbs</h>
+        <module id="rach">
+            <h>rach</h>
+            <p><g><a href="?gd=rach">rach</a> ... ann am madainn</g> <en>... goes ... of a morning</en> –
+                <xl>
+                    <li>
+                        <gd>An do dh’fhan Màiri aig an taigh an diugh? Cha do dh’fhan. Chaidh Màiri
+                            do’n sgoil anns a’ mhadainn</gd>
+                        <tr>Did Mary stay at home today? No, she didn’t. She went to school in the
+                            morning.</tr>
+                        <ref text="617">td. 237–8</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="faag">
             <h>fàg</h>
             <p><g><a href="?gd=faag">fàg</a> ... ann am madainn</g>

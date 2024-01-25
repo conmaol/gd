@@ -145,6 +145,20 @@
                     </xl>
                 </p>
             </module>
+            <module id="fan">
+                <h>fan</h>
+                <p><g><a href="?gd=fan">fan</a> ... aig taigh</g>
+                    <en>... stays at a house</en> – <xl>
+                        <li>
+                            <gd>An do dh’fhan Màiri aig an taigh an diugh? Cha do dh’fhan. Chaidh Màiri
+                                do’n sgoil anns a’ mhadainn</gd>
+                            <tr>Did Mary stay at home today? No, she didn’t. She went to school in the
+                                morning.</tr>
+                            <ref text="617">td. 237–8</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
         </section>
     </section>
 

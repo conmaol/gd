@@ -6,7 +6,7 @@
         <en>stay, remain</en></p>
 
     <section>
-        <h>nouns</h>
+        <h>locations</h>
         <module id="cladach">
             <h>cladach</h>
             <p><g>fan ... aig <a href="?gd=cladach">cladach</a></g>
@@ -15,6 +15,20 @@
                         <gd>Cha do dh’fhan Màiri aig a’ chladach. Ruith i dhachaidh.</gd>
                         <tr>Mary did not stay at the shore. She ran home.</tr>
                         <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="taigh">
+            <h>taigh</h>
+            <p><g>fan ... aig <a href="?gd=taigh">taigh</a></g>
+                <en>... stays at a house</en> – <xl>
+                    <li>
+                        <gd>An do dh’fhan Màiri aig an taigh an diugh? Cha do dh’fhan. Chaidh Màiri
+                            do’n sgoil anns a’ mhadainn</gd>
+                        <tr>Did Mary stay at home today? No, she didn’t. She went to school in the
+                            morning.</tr>
+                        <ref text="617">td. 237–8</ref>
                     </li>
                 </xl>
             </p>
