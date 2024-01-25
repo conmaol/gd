@@ -2,8 +2,8 @@
 <module>
     <h>duine</h>
     <p><g>duine</g>
-        <en>a man, a person</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple
-            common noun</a>.</p>
+        <masc/>
+        <en>a man, a person</en></p>
 
     <section>
         <h>adjectives</h>
@@ -99,22 +99,49 @@
                 </xl>
             </p>
         </module>
-
+        <module id="piiob">
+            <h>pìob</h>
+            <p><g>duine le <a href="?gd=piiob">pìob</a></g>
+                <en>a man with a pipe</en> – <xl>
+                    <li>
+                        <gd>An do las an duine a phìob? Las.</gd>
+                        <tr>Did the man light his pipe? Yes, he did.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
     <section>
         <h>verbs</h>
-        <module id="obair">
-            <h>obair</h>
-            <p><g>duine [ag] <a href="?gd=obair">obair</a></g>
-                <en>a man working</en> – <xl>
-                    <li>
-                        <gd>A bheil an duine ag obair anns an achadh?</gd>
-                        <tr>Is the man working in the field?</tr>
-                        <ref text="617">td. 14 [227]</ref>
-                    </li>
-                </xl></p>
-        </module>
+        <section>
+            <h>subject</h>
+            <module id="obair">
+                <h>obair</h>
+                <p><g>duine [ag] <a href="?gd=obair">obair</a></g>
+                    <en>a man working</en> – <xl>
+                        <li>
+                            <gd>A bheil an duine ag obair anns an achadh?</gd>
+                            <tr>Is the man working in the field?</tr>
+                            <ref text="617">td. 14 [227]</ref>
+                        </li>
+                    </xl></p>
+            </module>
+            <module id="las">
+                <h>las</h>
+                <p><g><a href="?gd=las">las</a> duine ...</g>
+                    <en>a man lights ...</en> – <xl>
+                        <li>
+                            <gd>An do las an duine a phìob? Las.</gd>
+                            <tr>Did the man light his pipe? Yes, he did.</tr>
+                            <ref text="617">td. 238</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+
     </section>
 
 

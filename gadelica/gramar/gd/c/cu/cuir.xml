@@ -66,11 +66,41 @@
                             it.</tr>
                         <ref text="617">td. 48</ref>
                     </li>
+                    <li>
+                        <gd>An do chuir thu bainne agus siùcar anns an tì? Cha do chuir.</gd>
+                        <tr>Did you put milk and sugar in the tea? No, I didn’t.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                    <li>
+                        <gd>Chuir mi siùcar anns an tì ach cha do chuir mi bainne ann.</gd>
+                        <tr>I put sugar in the tea bit I didn’t put milk in it.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                    <li>
+                        <gd>Nach do chuir thu siùcar anns an tì?</gd>
+                        <tr>Didn’t you put sugar in the tea?</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
                 </xl>
             </p>
         </module>
-
-
+        <module id="bainne">
+            <h>bainne</h>
+            <p><g>cuir ... <a href="?gd=bainne">bainne</a> ...</g>
+                <en>... puts milk ...</en> – <xl>
+                    <li>
+                        <gd>An do chuir thu bainne agus siùcar anns an tì? Cha do chuir.</gd>
+                        <tr>Did you put milk and sugar in the tea? No, I didn’t.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                    <li>
+                        <gd>Chuir mi siùcar anns an tì ach cha do chuir mi bainne ann.</gd>
+                        <tr>I put sugar in the tea bit I didn’t put milk in it.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
     <section>
         <h>destinations</h>
@@ -125,6 +155,21 @@
                         <tr>Didn’t you drink your tea? No, I didn’t. You didn’t put sugar in
                             it.</tr>
                         <ref text="617">td. 48</ref>
+                    </li>
+                    <li>
+                        <gd>An do chuir thu bainne agus siùcar anns an tì? Cha do chuir.</gd>
+                        <tr>Did you put milk and sugar in the tea? No, I didn’t.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                    <li>
+                        <gd>Chuir mi siùcar anns an tì ach cha do chuir mi bainne ann.</gd>
+                        <tr>I put sugar in the tea bit I didn’t put milk in it.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                    <li>
+                        <gd>Nach do chuir thu siùcar anns an tì?</gd>
+                        <tr>Didn’t you put sugar in the tea?</tr>
+                        <ref text="617">td. 238</ref>
                     </li>
                 </xl>
             </p>

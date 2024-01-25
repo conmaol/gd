@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>las</h>
+    <p><g>las</g>
+        <vb/>
+        <en>light</en></p>
+    
+    <section>
+        <h>subjects</h>
+        <module id="duine">
+            <h>duine</h>
+            <p><g>las <a href="?gd=duine">duine</a> ...</g>
+                <en>a man lights ...</en> – <xl>
+                    <li>
+                        <gd>An do las an duine a phìob? Las.</gd>
+                        <tr>Did the man light his pipe? Yes, he did.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+   <section>
+       <h>objects</h>
+       <module id="piiob">
+        <h>pìob</h>
+        <p><g>las ... <a href="?gd=piiob">pìob</a></g>
+            <en>... lights a pipe</en> – <xl>
+                <li>
+                    <gd>Las do phìob!</gd>
+                    <tr>Light your pipe!</tr>
+                    <ref text="617">td. 238</ref>
+                </li>
+                <li>
+                    <gd>An do las an duine a phìob? Las.</gd>
+                    <tr>Did the man light his pipe? Yes, he did.</tr>
+                    <ref text="617">td. 238</ref>
+                </li>
+            </xl>
+        </p>
+    </module>
+</section>
+    
+</module>

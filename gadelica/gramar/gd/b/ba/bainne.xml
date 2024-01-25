@@ -40,6 +40,40 @@
                 </xl>
             </p>
         </module>
+        <module id="tii">
+            <h>tì</h>
+            <p><g>bainne ann an <a href="?gd=tii">tì</a> ...</g>
+                <en>milk in tea</en> – <xl>
+                    <li>
+                        <gd>An do chuir thu bainne agus siùcar anns an tì? Cha do chuir.</gd>
+                        <tr>Did you put milk and sugar in the tea? No, I didn’t.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                    <li>
+                        <gd>Chuir mi siùcar anns an tì ach cha do chuir mi bainne ann.</gd>
+                        <tr>I put sugar in the tea bit I didn’t put milk in it.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="siuucar">
+            <h>siùcar</h>
+            <p><g>bainne agus <a href="?gd=siuucar">siùcar</a> ...</g>
+                <en>milk and sugar</en> – <xl>
+                    <li>
+                        <gd>An do chuir thu bainne agus siùcar anns an tì? Cha do chuir.</gd>
+                        <tr>Did you put milk and sugar in the tea? No, I didn’t.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                    <li>
+                        <gd>Chuir mi siùcar anns an tì ach cha do chuir mi bainne ann.</gd>
+                        <tr>I put sugar in the tea bit I didn’t put milk in it.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <!--</section>-->
     </section>
 
@@ -55,6 +89,23 @@
                             <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
                             <tr>Did the cat drink the milk? Yes, it did.</tr>
                             <ref text="617">td. 48</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="cuir">
+                <h>cuir</h>
+                <p><g><a href="?gd=cuir">cuir</a> ... bainne ...</g>
+                    <en>... puts milk ...</en> – <xl>
+                        <li>
+                            <gd>An do chuir thu bainne agus siùcar anns an tì? Cha do chuir.</gd>
+                            <tr>Did you put milk and sugar in the tea? No, I didn’t.</tr>
+                            <ref text="617">td. 238</ref>
+                        </li>
+                        <li>
+                            <gd>Chuir mi siùcar anns an tì ach cha do chuir mi bainne ann.</gd>
+                            <tr>I put sugar in the tea bit I didn’t put milk in it.</tr>
+                            <ref text="617">td. 238</ref>
                         </li>
                     </xl>
                 </p>

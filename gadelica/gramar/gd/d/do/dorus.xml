@@ -106,6 +106,11 @@
                             <tr>Did you lock the door? Yes, I did.</tr>
                             <ref text="617">td. 47</ref>
                         </li>
+                        <li>
+                            <gd>Có ghlas an dorus? Ghlas Màiri.</gd>
+                            <tr>Who locked the door? Mary did.</tr>
+                            <ref text="617">td. 238</ref>
+                        </li>
                     </xl>
                 </p>
             </module>
