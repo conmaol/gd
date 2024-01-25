@@ -2,14 +2,29 @@
 <module>
     <h>beinn</h>
     <p><g>beinn</g>
-        <en>a mountain</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        <fem/>
+        <en>a mountain</en></p>
 
     <section>
         <h>nouns</h>
+        <module id="mullach">
+            <h>mullach</h>
+            <p><g><a href="?gd=mullach">mullach</a> beinne</g>
+                <en>a summit of a mountain</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne. Bha càrn chlach air mullach na beinne.</gd>
+                        <tr>Malcolm was
+                            tired walking on the moor, but at last he reached the top of the
+                            mountain. There was a cairn of stones on the top of the mountain. </tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="cliathach">
             <h>cliathach</h>
-            <p><g>cliathach beinne</g>
+            <p><g><a href="?gd=cliathach">cliathach</a> beinne</g>
                 <en>a side of a mountain</en>. <xl>
                     <li>
                         <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
@@ -31,9 +46,23 @@
                 </xl>
             </p>
         </module>
+        <module id="monadh">
+            <h>monadh</h>
+            <p><g>beinn ann am <a href="?gd=monadh">monadh</a></g>
+                <en>a mountain on a moor</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
-<section>
+    <!--<section>
     <h>adverbs</h>
     <module id="suas">
         <h>suas</h>
@@ -46,6 +75,6 @@
             </xl>
         </p>
     </module>
-</section>
-    
+</section>-->
+
 </module>

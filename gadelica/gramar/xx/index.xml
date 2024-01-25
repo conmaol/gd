@@ -112,6 +112,9 @@
                 <li><a href="?gd=caar"><g>càr</g></a>
                     <masc/>
                     <en>a car</en></li>
+                <li><a href="?gd=caarn"><g>càrn</g></a>
+                    <masc/>
+                    <en>a cairn</en></li>
                 <li><a href="?gd=cat"><g>cat</g></a>
                     <masc/>
                     <en>a cat</en></li>
@@ -285,6 +288,10 @@
                     <en>a sea</en>
                     <gen/>
                     <g>mara</g>
+                </li>
+                <li><a href="?gd=mullach"><g>mullach</g></a>
+                    <masc/>
+                    <en>a summit, a top</en>
                 </li>
                 <li><a href="?gd=nead"><g>nead</g></a>
                     <masc/>
@@ -515,6 +522,8 @@
                     <en>play</en></li>
                 <li><a href="?gd=coimhead"><g>coimhead</g></a>
                     <en>look, watch</en></li>
+                <li><a href="?gd=coisich"><g>coisich</g></a>
+                    <en>walk</en></li>
                 <li><a href="?gd=cuir"><g>cuir</g></a>
                     <en>put, send</en></li>
                 <li><a href="?gd=cum"><g>cum</g></a>

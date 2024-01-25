@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>mullach</h>
+    <p><g>mullach</g>
+        <masc/>
+        <en>a summit, a top</en></p>
+
+    <section>
+        <h>nouns</h>
+        <module id="beinn">
+            <h>beinn</h>
+            <p><g>mullach <a href="?gd=beinn">beinne</a></g>
+                <en>a summit of a mountain</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne. Bha càrn chlach air mullach na beinne.</gd>
+                        <tr>Malcolm was
+                            tired walking on the moor, but at last he reached the top of the
+                            mountain. There was a cairn of stones on the top of the mountain. </tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="caarn">
+            <h>càrn</h>
+            <p><g><a href="?gd=caarn">càrn</a> air mullach</g>
+                <en>a cairn on a summit</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne. Bha càrn chlach air mullach na beinne.</gd>
+                        <tr>Malcolm was
+                            tired walking on the moor, but at last he reached the top of the
+                            mountain. There was a cairn of stones on the top of the mountain. </tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+
+    <section>
+        <h>verbs</h>
+        <module id="ruig">
+            <h>ruig</h>
+            <p><g><a href="?gd=ruig">ruig</a> ... mullach</g>
+                <en>... reaches a summit</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+
+</module>

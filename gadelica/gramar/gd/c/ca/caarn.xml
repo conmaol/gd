@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
-    <h>clach</h>
-    <p><g>clach</g>
-        <fem/>
-        <en>a stone</en></p>
-
-    <section>
-        <h>adjectives</h>
-        <module id="moor">
-            <h>mór</h>
-            <p><g>clach <a href="?gd=moor">mhór</a></g>
-                <en>a big stone</en> – <xl>
-                    <li>
-                        <gd>Tha na clachan sin mór.</gd>
-                        <tr>Those stones are big.</tr>
-                        <ref text="617">td. 248</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
+    <h>càrn</h>
+    <p><g>càrn</g>
+        <masc/>
+        <en>a cairn</en>.</p>
 
     <section>
         <h>nouns</h>
-        <module id="caarn">
-            <h>càrn</h>
-            <p><g><a href="?gd=caarn">càrn</a> chlach</g>
+        <module id="clach">
+            <h>clach</h>
+            <p><g>càrn <a href="?gd=clach">chlach</a></g>
                 <en>a cairn of stones</en>, <g>clach air càrn</g>
                 <en>a stone on a cairn</en> – <xl>
                     <li>
@@ -42,14 +26,28 @@
                 </xl>
             </p>
         </module>
+        <module id="mullach">
+            <h>mullach</h>
+            <p><g>càrn air <a href="?gd=mullach">mullach</a></g>
+                <en>a cairn on a summit</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne. Bha càrn chlach air mullach na beinne.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain. There was a cairn of stones on the top of the mountain. </tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
     <section>
         <h>verbs</h>
         <module id="cuir">
             <h>cuir</h>
-            <p><g><a href="?gd=cuir">cuir</a> ... clach ...</g>
-                <en>... puts a stone ...</en> – <xl>
+            <p><g><a href="?gd=cuir">cuir</a> ... air càrn</g>
+                <en>... puts ... on a cairn</en> – <xl>
                     <li>
                         <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
                             mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum
@@ -65,6 +63,5 @@
             </p>
         </module>
     </section>
-
 
 </module>

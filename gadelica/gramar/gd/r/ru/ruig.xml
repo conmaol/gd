@@ -5,7 +5,7 @@
     <en>reach</en>.</p>
 
   <section>
-    <h>nouns</h>
+    <h>objects</h>
     <!--<section>
       <h>object</h>-->
     <module id="taigh">
@@ -28,6 +28,20 @@
             <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an fhang.</gd>
             <tr>When Mary and James reached the moor, the shepherds were at the fank.</tr>
             <ref text="617">td. 76</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <module id="mullach">
+      <h>mullach</h>
+      <p><g>ruig ... <a href="?gd=mullach">mullach</a></g>
+        <en>... reaches a summit</en> – <xl>
+          <li>
+            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+              mullach na beinne.</gd>
+            <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+              the mountain.</tr>
+            <ref text="617">td. 146</ref>
           </li>
         </xl>
       </p>

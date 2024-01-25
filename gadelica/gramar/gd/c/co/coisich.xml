@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>coisich</h>
+    <p><g>coisich</g>
+        <vb/>
+        <en>walk</en></p>
+
+    <section>
+        <h>locations</h>
+        <module id="monadh">
+            <h>monadh</h>
+            <p><g>coisich ... air <a href="?gd=monadh">monadh</a></g>
+                <en>... walks on a moor</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>adjectives</h>
+        <module id="sgiith">
+            <h>sgìth</h>
+            <p><g><a href="?gd=sgiith">sgìth</a> ag coiseachd</g>
+                <en>tired walking</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+</module>

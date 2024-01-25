@@ -207,6 +207,20 @@
                 </xl>
             </p>
         </module>
+        <module id="beinn">
+            <h>beinn</h>
+            <p><g><a href="?gd=beinn">beinn</a> ann am monadh</g>
+                <en>a mountain on a moor</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
     <section>
@@ -249,6 +263,22 @@
                             <ref text="617">td. 47</ref>
                         </li>
                     </xl>
+                </p>
+            </module>
+        </section>
+        <section>
+            <h>location</h>
+            <module id="coisich">
+                <h>coisich</h>
+                <p><g><a href="?gd=coisich">coisich</a> ... air monadh</g> <en>... walks on a moor</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
                 </p>
             </module>
         </section>

@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>sgìth</h>
-    <p><g>sgìth</g> <adj/>
+    <p><g>sgìth</g>
+        <adj/>
         <en>tired</en></p>
 
-<section>
-    <h>nouns</h>
-    <module id="duine">
-        <h>duine</h>
-        <p><g><a href="?gd=duine">duine</a> sgìth</g>
-            <en>a tired man</en> – <xl>
-                <li>
-                    <gd>Tha an duine sin sgìth.</gd>
-                    <tr>That man is tired.</tr>
-                    <ref text="617">td. 79</ref>
-                </li>
-            </xl>
-        </p>
-    </module>
-</section>
-    
+    <section>
+        <h>nouns</h>
+        <module id="duine">
+            <h>duine</h>
+            <p><g><a href="?gd=duine">duine</a> sgìth</g>
+                <en>a tired man</en> – <xl>
+                    <li>
+                        <gd>Tha an duine sin sgìth.</gd>
+                        <tr>That man is tired.</tr>
+                        <ref text="617">td. 79</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
     <section>
         <h>verbs</h>
         <module id="obair">
@@ -27,8 +28,7 @@
             <p><g>sgìth [ag] <a href="?gd=obair">obair</a></g>
                 <en>tired working</en> – <xl>
                     <li>
-                        <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an
-                            achadh.</gd>
+                        <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an achadh.</gd>
                         <tr>Mary is tired. She is tired working in the field.</tr>
                         <ref text="617">td. 7</ref>
                     </li>
@@ -45,21 +45,37 @@
                 </xl>
             </p>
         </module>
+        <module id="coisich">
+            <h>coisich</h>
+            <p><g>sgìth ag <a href="?gd=coisich">coiseachd</a></g>
+                <en>tired walking</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
-    
+
     <section id="other">
         <h>other</h>
         <p>
             <xl>
                 <li>
-                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Bha iad glé sgìth nuair a thàinig iad dhachaidh feasgar.</gd>
-                    <tr>Mary and James were on the moor yesterday. [...] They were very tired when they came home in the evening.</tr>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Bha iad glé sgìth nuair a
+                        thàinig iad dhachaidh feasgar.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] They were very tired when
+                        they came home in the evening.</tr>
                     <ref text="617">td. 76</ref>
                 </li>
             </xl>
         </p>
     </section>
-    
-    
+
+
 
 </module>
