@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>fosgail</h>
-    <p><g>fosgail</g> <vb/>
+    <p><g>fosgail</g>
+        <vb/>
         <en>open</en></p>
 
     <section>
-        <h>nouns</h>
+        <h>objects</h>
         <module id="dorus">
             <h>dorus</h>
             <p><g>fosgail ... <a href="?gd=dorus">dorus</a></g>
@@ -25,5 +26,32 @@
         </module>
     </section>
 
+    <section>
+        <h>verbs</h>
+        <module id="faag">
+            <h>fàg</h>
+            <p><g><a href="?gd=faag">fàg</a> ... fosgailte</g>
+                <en>... leaves ... open</en> – <xl>
+                    <li>
+                        <gd>Dh’fhàg Màiri an dorus fosgailte.</gd>
+                        <tr>Mary left the door open.</tr>
+                        <ref text="617">td. 237</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="cum">
+            <h>cum</h>
+            <p><g><a href="?gd=cum">cum</a> ... fosgailte</g>
+                <en>... keeps ... open</en> – <xl>
+                    <li>
+                        <gd>An do chum thu an dorus fosgailte? Cha do chum.</gd>
+                        <tr>Did you keep the door open? No, I didn’t.</tr>
+                        <ref text="617">td. 56</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
 
 </module>

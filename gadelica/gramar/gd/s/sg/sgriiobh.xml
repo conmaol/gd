@@ -39,6 +39,18 @@
                 </xl>
             </p>
         </module>
+        <module id="dachaidh">
+            <h>dachaidh</h>
+            <p><g>sgrìobh ... <a href="?gd=dachaidh">dhachaidh</a></g>
+                <en>... writes home</en> – <xl>
+                    <li>
+                        <gd>An do sgrìobh Calum dhachaidh? Cha do sgrìobh.</gd>
+                        <tr>Did Calum write home? No, he didn’t.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 

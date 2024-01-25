@@ -16,6 +16,11 @@
                         <tr>The dog followed me onto the moor.</tr>
                         <ref text="617">td. 47</ref>
                     </li>
+                    <li>
+                        <gd>An do lean an cù dhachaidh thu? Lean.</gd>
+                        <tr>Did the dog follow you home? Yes, it did.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
                 </xl>
             </p>
         </module>
@@ -52,6 +57,18 @@
                         <gd>Lean an cù mi do’n mhonadh.</gd>
                         <tr>The dog followed me onto the moor.</tr>
                         <ref text="617">td. 47</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="dachaidh">
+            <h>dachaidh</h>
+            <p><g>lean ... <a href="?gd=dachaidh">dhachaidh</a></g>
+                <en>... follows ... home</en> – <xl>
+                    <li>
+                        <gd>An do lean an cù dhachaidh thu? Lean.</gd>
+                        <tr>Did the dog follow you home? Yes, it did.</tr>
+                        <ref text="617">td. 238</ref>
                     </li>
                 </xl>
             </p>

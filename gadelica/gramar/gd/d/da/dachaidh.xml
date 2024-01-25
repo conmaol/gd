@@ -45,6 +45,30 @@
                 </xl>
             </p>
         </module>
+        <module id="lean">
+            <h>lean</h>
+            <p><g><a href="?gd=lean">lean</a> ... dhachaidh</g>
+                <en>... follows home</en> – <xl>
+                    <li>
+                        <gd>An do lean an cù dhachaidh thu? Lean.</gd>
+                        <tr>Did the dog follow you home? Yes, it did.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="sgriiobh">
+            <h>sgrìobh</h>
+            <p><g><a href="?gd=sgriiobh">sgrìobh</a> ... dhachaidh</g>
+                <en>... writes home</en> – <xl>
+                    <li>
+                        <gd>An do sgrìobh Calum dhachaidh? Cha do sgrìobh.</gd>
+                        <tr>Did Calum write home? No, he didn’t.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <!--</section>-->
     </section>
 

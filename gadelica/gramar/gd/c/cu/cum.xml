@@ -6,54 +6,49 @@
         <en>keep</en></p>
 
     <section>
-        <h>objects</h>
-        <module id="dorus">
-            <h>dorus</h>
-            <p><g>cum ... <a href="?gd=dorus">dorus</a> ...</g>
-                <en>... keeps a door ...</en> – <xl>
-                    <li>
-                        <gd>An do chum thu an dorus fosgailte? Cha do chum.</gd>
-                        <tr>Did you keep the door open? No, I didn’t.</tr>
-                        <ref text="617">td. 56</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <h>causatives</h>
+        <section>
+            <h>objects</h>
+            <module id="dorus">
+                <h>dorus</h>
+                <p><g>cum ... <a href="?gd=dorus">dorus</a> ...</g>
+                    <en>... keeps a door ...</en> – <xl>
+                        <li>
+                            <gd>An do chum thu an dorus fosgailte? Cha do chum.</gd>
+                            <tr>Did you keep the door open? No, I didn’t.</tr>
+                            <ref text="617">td. 56</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+        <section>
+            <h>adjectives</h>
+            <module id="fadalach">
+                <h>fadalach</h>
+                <p><g>cum ... <a href="?gd=fadalach">fadalach</a></g>
+                    <en>... keeps ... late</en> – <xl>
+                        <li>
+                            <gd>Chum sin mi fadalach.</gd>
+                            <tr>That kept me late.</tr>
+                            <ref text="617">td. 47</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="fosgail">
+                <h>fosgail</h>
+                <p><g>cum ... <a href="?gd=fosgail">fosgailte</a></g>
+                    <en>... keeps ... open</en> – <xl>
+                        <li>
+                            <gd>An do chum thu an dorus fosgailte? Cha do chum.</gd>
+                            <tr>Did you keep the door open? No, I didn’t.</tr>
+                            <ref text="617">td. 56</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
     </section>
-
-    <section>
-        <h>adjectives</h>
-        <module id="fadalach">
-            <h>fadalach</h>
-            <p><g>cum ... <a href="?gd=fadalach">fadalach</a></g>
-                <en>... keeps ... late</en> – <xl>
-                    <li>
-                        <gd>Chum sin mi fadalach.</gd>
-                        <tr>That kept me late.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section>
-        <h>verbs</h>
-        <module id="fosgail">
-            <h>fosgail</h>
-            <p><g>cum ... <a href="?gd=fosgail">fosgailte</a></g>
-                <en>... keeps ... open</en> – <xl>
-                    <li>
-                        <gd>An do chum thu an dorus fosgailte? Cha do chum.</gd>
-                        <tr>Did you keep the door open? No, I didn’t.</tr>
-                        <ref text="617">td. 56</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-
-
 
 </module>
