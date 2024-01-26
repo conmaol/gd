@@ -26,6 +26,9 @@
                 <li><a href="?gd=allt"><g>allt</g></a>
                     <masc/>
                     <en>a stream, a burn</en></li>
+                <li><a href="?gd=anail"><g>anail</g></a>
+                    <fem/>
+                    <en>a breath, a rest</en></li>
                 <li><a href="?gd=aodann"><g>aodann</g></a>
                     <masc/>
                     <en>a face</en></li>
@@ -387,6 +390,10 @@
                     <masc/>
                     <en>a house</en>
                 </li>
+                <li><a href="?gd=taobh"><g>taobh</g></a>
+                    <masc/>
+                    <en>a side</en>
+                </li>
                 <li><a href="?gd=teas"><g>teas</g></a>
                     <masc/>
                     <en>heat</en>
@@ -560,6 +567,8 @@
                     <en>light</en></li>
                 <li><a href="?gd=lean"><g>lean</g></a>
                     <en>follow</en></li>
+                <li><a href="?gd=leig"><g>leig</g></a>
+                    <en>let, allow</en></li>
                 <li><a href="?gd=leum"><g>leum</g></a>
                     <en>jump</en></li>
                 <li><a href="?gd=nigh"><g>nigh</g></a>
