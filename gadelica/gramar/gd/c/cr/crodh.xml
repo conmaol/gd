@@ -6,6 +6,30 @@
         <en>cattle</en></p>
 
     <section>
+        <h>adjectives</h>
+        <module id="blaath">
+            <h>blàth</h>
+            <p><g>crodh <a href="?gd=blaath">blàth</a></g>
+                <en>warm cattle</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                            deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
+                            seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
+                            mhonaidh.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain. [...] It was a beautiful day and the sun was shining.
+                            [...] The cattle were warm with the heat of the sun and they were
+                            standing in the little lakes which were here and there throughout the
+                            moor.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
         <h>nouns</h>
         <module id="monadh">
             <h>monadh</h>
@@ -36,11 +60,52 @@
                     </li>
                 </xl>
             </p>
+            <p><g>crodh ann an loch</g>
+                <en>cattle in a lake</en>
+                <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
+                            e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
+                            a’ deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha
+                            iad ’nan seasamh anns na lochan beaga a bha an siud ’s an seo air
+                            feadh a’ mhonaidh.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the
+                            top of the mountain. [...] It was a beautiful day and the sun was
+                            shining. [...] The cattle were warm with the heat of the sun and
+                            they were standing in the little lakes which were here and there
+                            throughout the moor.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
         </module>
     </section>
 
     <section>
         <h>verbs</h>
+        <section>
+            <h>subject</h>
+            <module id="seas">
+                <h>seas</h>
+                <p><g><a href="?gd=seas">seas</a> crodh</g>
+                    <en>cattle stand up</en> – <xl>
+                        <li>
+                            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
+                                e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
+                                a’ deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha
+                                iad ’nan seasamh anns na lochan beaga a bha an siud ’s an seo air
+                                feadh a’ mhonaidh.</gd>
+                            <tr>Malcolm was tired walking on the moor, but at last he reached the
+                                top of the mountain. [...] It was a beautiful day and the sun was
+                                shining. [...] The cattle were warm with the heat of the sun and
+                                they were standing in the little lakes which were here and there
+                                throughout the moor.</tr>
+                            <ref text="617">td. 146</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
         <section>
             <h>object</h>
             <module id="cuir">

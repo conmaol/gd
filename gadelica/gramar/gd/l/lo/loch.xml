@@ -6,6 +6,30 @@
         noun</a>.</p>
 
     <section>
+        <h>adjectives</h>
+        <module id="beag">
+            <h>beag</h>
+            <p><g>loch <a href="?gd=beag">beag</a></g>
+                <en>a small lake</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                            deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
+                            seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
+                            mhonaidh.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain. [...] It was a beautiful day and the sun was shining.
+                            [...] The cattle were warm with the heat of the sun and they were
+                            standing in the little lakes which were here and there throughout the
+                            moor.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
         <h>verbs</h>
         <section>
             <h>locative</h>
@@ -26,40 +50,62 @@
                     </xl>
                 </p>
             </module>
+            <module id="seas">
+                <h>seas</h>
+                <p><g><a href="?gd=seas">seas</a> ... ann an loch</g>
+                    <en>... stands in a lake</en> – <xl>
+                        <li>
+                            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
+                                e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
+                                a’ deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha
+                                iad ’nan seasamh anns na lochan beaga a bha an siud ’s an seo air
+                                feadh a’ mhonaidh.</gd>
+                            <tr>Malcolm was tired walking on the moor, but at last he reached the
+                                top of the mountain. [...] It was a beautiful day and the sun was
+                                shining. [...] The cattle were warm with the heat of the sun and
+                                they were standing in the little lakes which were here and there
+                                throughout the moor.</tr>
+                            <ref text="617">td. 146</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
         </section>
     </section>
 
 
     <section>
-        <h>prepositions</h>
-        <section>
-            <h>object</h>
-            <p><g>loch</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                    >prepositions</a>.</p>
-            <module id="air_loch">
-                <h>... air loch</h>
-                <p><g>... <a href="?gd=air">air</a> loch</g>
-                    <en>... on a lake</en>. </p>
-                
-                <module>
-                    <h>faisg air loch</h>
-                    <p><g><a href="?gd=faisg">faisg</a> air loch</g>
-                        <en>near a lake</en>.</p>
-                    <module>
-                        <h>[bi] crodh faisg air loch</h>
-                        <p><g>[bi] <a href="?gd=crodh">crodh</a> faisg air loch</g>
-                            <en>cattle [are] near a lake</en> – <xl>
-                                <li>
-                                    <gd>Bha an crodh faisg air an loch.</gd>
-                                    <tr>The cattle were near the lake.</tr>
-                                    <ref text="617">td. 21</ref>
-                                </li>
-                            </xl>
-                        </p>
-                    </module>
-                </module>
-            </module>
-        </section>
+        <h>nouns</h>
+        <module id="crodh">
+            <h>crodh</h>
+            <p><g><a href="?gd=crodh">crodh</a> faisg air loch</g>
+                <en>cattle near a lake</en> – <xl>
+                    <li>
+                        <gd>Bha an crodh faisg air an loch.</gd>
+                        <tr>The cattle were near the lake.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                </xl>
+            </p>
+            <p><g>crodh ann an loch</g>
+                <en>cattle in a lake</en>
+                <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                            deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
+                            seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
+                            mhonaidh.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain. [...] It was a beautiful day and the sun was shining.
+                            [...] The cattle were warm with the heat of the sun and they were
+                            standing in the little lakes which were here and there throughout the
+                            moor.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 

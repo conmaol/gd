@@ -6,28 +6,63 @@
         noun</a>.</p>
 
     <section>
-        <h>prepositions</h>
-        <section>
-            <h>subject</h>
-            <p><g>teas</g> can be the (deep) subject of certain <a
-                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
-            <module id="teas_an">
-                <h>teas ann an ...</h>
-                <p><g>teas <a href="?gd=an^preposition">ann an</a> ...</g>
-                    <en>heat in ...</en>.</p>
-                <module>
-                    <h>teas ann an teine</h>
-                    <p><g>teas ann an <a href="?gd=teine">teine</a></g>
-                    <en>heat in a fire</en> – <xl>
-                        <li>
-                            <gd>Tha teas anns an teine.</gd>
-                            <tr>There is heat in the fire.</tr>
-                            <ref text="617">td. 6</ref>
-                        </li>
-                    </xl>
-                </p></module>
-            </module>
-        </section>
+        <h>nouns</h>
+        <module id="teine">
+            <h>teine</h>
+            <p><g>teas ann an <a href="?gd=teine">teine</a></g>
+                <en>heat in a fire</en> – <xl>
+                    <li>
+                        <gd>Tha teas anns an teine.</gd>
+                        <tr>There is heat in the fire.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="grian">
+            <h>grian</h>
+            <p><g>teas <a href="?gd=grian">gréine</a></g>
+                <en>heat of a sun</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                            deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
+                            seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
+                            mhonaidh.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain. [...] It was a beautiful day and the sun was shining.
+                            [...] The cattle were warm with the heat of the sun and they were
+                            standing in the little lakes which were here and there throughout the
+                            moor.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>adjectives</h>
+        <module id="blaath">
+            <h>blàth</h>
+            <p><g><a href="?gd=blaath">blàth</a> le teas</g>
+                <en>warm with heat</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                            deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
+                            seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
+                            mhonaidh.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain. [...] It was a beautiful day and the sun was shining.
+                            [...] The cattle were warm with the heat of the sun and they were
+                            standing in the little lakes which were here and there throughout the
+                            moor.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 </module>

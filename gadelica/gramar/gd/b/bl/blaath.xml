@@ -6,6 +6,26 @@
 
     <section>
         <h>nouns</h>
+        <module id="crodh">
+            <h>crodh</h>
+            <p><g><a href="?gd=crodh">crodh</a> blàth</g>
+                <en>warm cattle</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                            deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
+                            seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
+                            mhonaidh.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain. [...] It was a beautiful day and the sun was shining.
+                            [...] The cattle were warm with the heat of the sun and they were
+                            standing in the little lakes which were here and there throughout the
+                            moor.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="seoomar">
             <h>seòmar</h>
             <p><g><a href="?gd=seoomar">seòmar</a> blàth</g>
@@ -33,8 +53,10 @@
                         <ref text="617">td. 14 [228] [adapted]</ref>
                     </li>
                     <li>
-                        <gd>Dh’ fhàg Màiri agus Seumas an taigh tràth anns a’ mhadainn. Bha an latha blàth, agus bha na h-eòin a’ seinn anns na craobhan.</gd>
-                        <tr>Mary and James left the house early in the morning. The day was warm, and the birds were singing in the trees.</tr>
+                        <gd>Dh’ fhàg Màiri agus Seumas an taigh tràth anns a’ mhadainn. Bha an latha
+                            blàth, agus bha na h-eòin a’ seinn anns na craobhan.</gd>
+                        <tr>Mary and James left the house early in the morning. The day was warm,
+                            and the birds were singing in the trees.</tr>
                         <ref text="617">td. 76 [adapted]</ref>
                     </li>
                 </xl>
@@ -60,6 +82,26 @@
                         <gd>Bha an aimsir blàth am bliadhna.</gd>
                         <tr>The weather was warm this year.</tr>
                         <ref text="617">td. 62</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="teas">
+            <h>teas</h>
+            <p><g>blàth le <a href="?gd=teas">teas</a></g>
+                <en>warm with heat</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                            deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
+                            seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
+                            mhonaidh.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain. [...] It was a beautiful day and the sun was shining.
+                            [...] The cattle were warm with the heat of the sun and they were
+                            standing in the little lakes which were here and there throughout the
+                            moor.</tr>
+                        <ref text="617">td. 146</ref>
                     </li>
                 </xl>
             </p>
