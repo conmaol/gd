@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>toilich</h>
+    <p><g>toilich</g>
+        <vb/>
+        <en>please</en></p>
+
+
+    <section>
+        <h>objects</h>
+        <p>
+            <xl>
+                <li>
+                    <gd>Bha Calum a nise toilichte gu leòr.</gd>
+                    <tr>Malcolm was now pleased enough.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+
+</module>

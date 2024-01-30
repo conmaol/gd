@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>grian</h>
-    <p><g>grian</g>
-        <en>a sun</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+    <p><g>grian</g> <fem/>
+        <en>a sun</en></p>
 
     <section>
         <h>verbs</h>
@@ -17,6 +16,15 @@
                             <gd>Bha latha briagha ann agus bha a’ ghrian a’ deàrrsadh.</gd>
                             <tr>It was a beautiful day and the sun was shining.</tr>
                             <ref text="617">td 21</ref>
+                        </li>
+                        <li>
+                            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
+                                e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
+                                a’ deàrrsadh. Cha robh neul anns an adhar.</gd>
+                            <tr>Malcolm was tired walking on the moor, but at last he reached the
+                                top of the mountain. [...] It was a beautiful day and the sun was
+                                shining. There wasn’t a cloud in the sky.</tr>
+                            <ref text="617">td. 146</ref>
                         </li>
                     </xl></p>
             </module>
