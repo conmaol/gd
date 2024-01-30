@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>éisd</h>
+    <p><g>éisd</g>
+        <vb/>
+        <en>listen</en></p>
+
+    <section>
+        <h>pseudo-objects</h>
+        <module id="eun">
+        <h>eun</h>
+        <p><g>éisd ri <a href="?gd=eun">eun</a></g>
+            <en>listen to a bird</en> – <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                        deàrrsadh. Cha robh neul anns an adhar. Bha an uiseag a’ seinn os cionn a
+                        chinn agus bha na h-eòin a’ ceileireadh am measg nan creag. ’S toigh le
+                        Calum a bhith ag éisdeachd ris na h-eòin.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. [...] It was a beautiful day and the sun was shining. There wasn’t
+                        a cloud in the sky. The lark was singing above his head and the birds were
+                        warbling among the rocks. Calum likes to listen to the birds.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
+    </module></section>
+
+
+</module>

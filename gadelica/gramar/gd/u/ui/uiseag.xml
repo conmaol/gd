@@ -1,9 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>uiseag</h>
-    <p><g>uiseag</g> <masc/>
+    <p><g>uiseag</g>
+        <masc/>
         <en>a lark</en></p>
-    
-    
-</module>
 
+    <section>
+        <h>verbs</h>
+        <section>
+            <h>subject</h>
+            <module id="seinn">
+                <h>seinn</h>
+                <p><g><a href="?gd=seinn">seinn</a> uiseag</g>
+                    <en>a lark sings</en> – <xl>
+                        <li>
+                            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
+                                e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
+                                a’ deàrrsadh. Cha robh neul anns an adhar. Bha an uiseag a’ seinn os
+                                cionn a chinn agus bha na h-eòin a’ ceileireadh am measg nan
+                                creag.</gd>
+                            <tr>Malcolm was tired walking on the moor, but at last he reached the
+                                top of the mountain. [...] It was a beautiful day and the sun was
+                                shining. There wasn’t a cloud in the sky. The lark was singing above
+                                his head and the birds were warbling among the rocks.</tr>
+                            <ref text="617">td. 146</ref>
+                        </li>
+                    </xl></p>
+            </module>
+        </section>
+    </section>
+
+    <section>
+        <h>nouns</h>
+            <module id="ceann">
+                <h>ceann</h>
+                <p><g>uiseag os <a href="?gd=ceann">cionn</a> ...</g>
+                    <en>a lark above ...</en> – <xl>
+                        <li>
+                            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
+                                e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
+                                a’ deàrrsadh. Cha robh neul anns an adhar. Bha an uiseag a’ seinn os
+                                cionn a chinn agus bha na h-eòin a’ ceileireadh am measg nan
+                                creag.</gd>
+                            <tr>Malcolm was tired walking on the moor, but at last he reached the
+                                top of the mountain. [...] It was a beautiful day and the sun was
+                                shining. There wasn’t a cloud in the sky. The lark was singing above
+                                his head and the birds were warbling among the rocks.</tr>
+                            <ref text="617">td. 146</ref>
+                        </li>
+                    </xl></p>
+            </module>
+    </section>
+    
+
+</module>

@@ -2,8 +2,8 @@
 <module>
   <h>ceann</h>
   <p><g>ceann</g>
-    <en>a head</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-    noun</a>.</p>
+    <masc/>
+    <en>a head</en></p>
 
   <section>
     <h>adjectives</h>
@@ -32,28 +32,55 @@
   </section>
 
   <section>
-    <h>prepositions</h>
-    <section>
-      <h>subject</h>
-      <p><g>ceann</g> can be the (deep) subject of certain <a href="?xx=prepositions/prepositions"
-          >prepositions</a>.</p>
-      <module id="ceann_air">
-        <h>ceann air ...</h>
-        <p><g>ceann <a href="?gd=air">air</a> ...</g>
-          <en>a head on ..., ... having a head</en>.</p>
-        <module>
-          <h>ceann air [duine]</h>
-          <p><g>ceann air [duine]</g>
-            <en>a head on [a man], [a man] having a head</en> – <xl>
-              <li>
-                <gd>Bha ceann mór air Seumas.</gd>
-                <tr>James had a big head.</tr>
-                <ref text="617">td. 14 [adapted]</ref>
-              </li>
-            </xl>
-          </p>
-        </module>
-      </module>
+    <h>nouns</h>
+    <module id="uiseag">
+      <h>uiseag</h>
+      <p><g><a href="?gd=uiseag">uiseag</a> os cionn ...</g> <en>a lark above ...</en> –
+        <xl>
+          <li>
+            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
+              e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
+              a’ deàrrsadh. Cha robh neul anns an adhar. Bha an uiseag a’ seinn os
+              cionn a chinn agus bha na h-eòin a’ ceileireadh am measg nan
+              creag.</gd>
+            <tr>Malcolm was tired walking on the moor, but at last he reached the
+              top of the mountain. [...] It was a beautiful day and the sun was
+              shining. There wasn’t a cloud in the sky. The lark was singing above
+              his head and the birds were warbling among the rocks.</tr>
+            <ref text="617">td. 146</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <module id="ceann">
+      <h>ceann</h>
+      <p><g>[os] cionn cinn</g> <en>above a head</en> –
+        <xl>
+          <li>
+            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
+              e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
+              a’ deàrrsadh. Cha robh neul anns an adhar. Bha an uiseag a’ seinn os
+              cionn a chinn agus bha na h-eòin a’ ceileireadh am measg nan
+              creag.</gd>
+            <tr>Malcolm was tired walking on the moor, but at last he reached the
+              top of the mountain. [...] It was a beautiful day and the sun was
+              shining. There wasn’t a cloud in the sky. The lark was singing above
+              his head and the birds were warbling among the rocks.</tr>
+            <ref text="617">td. 146</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <section id="other">
+      <h>other</h>
+      <p><xl>
+          <li>
+            <gd>Bha ceann mór air Seumas.</gd>
+            <tr>James had a big head.</tr>
+            <ref text="617">td. 14 [adapted]</ref>
+          </li>
+        </xl>
+      </p>
     </section>
   </section>
 

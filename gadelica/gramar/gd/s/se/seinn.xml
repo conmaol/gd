@@ -5,7 +5,7 @@
         <en>sing</en></p>
     
     <section>
-        <h>nouns</h>
+        <h>subjects</h>
         <module id="eun">
             <h>eun</h>
             <p><g>seinn <a href="?gd=eun">eun</a></g> <en>a bird sings</en> –
@@ -17,6 +17,24 @@
                     </li>
                 </xl>
             </p>
+        </module>
+        <module id="uiseag">
+            <h>uiseag</h>
+            <p><g>seinn <a href="?gd=uiseag">uiseag</a></g>
+                <en>a lark sings</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
+                            e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
+                            a’ deàrrsadh. Cha robh neul anns an adhar. Bha an uiseag a’ seinn os
+                            cionn a chinn agus bha na h-eòin a’ ceileireadh am measg nan
+                            creag.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the
+                            top of the mountain. [...] It was a beautiful day and the sun was
+                            shining. There wasn’t a cloud in the sky. The lark was singing above
+                            his head and the birds were warbling among the rocks.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl></p>
         </module>
     </section>
     

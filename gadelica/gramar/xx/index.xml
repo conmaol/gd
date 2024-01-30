@@ -279,9 +279,6 @@
                 <li><a href="?gd=maigheach"><g>maigheach</g></a>
                     <fem/>
                     <en>a hare</en></li>
-                <li><a href="?gd=measg"><g>measg</g></a>
-                    <masc/>
-                    <en>midst</en></li>
                 <li><a href="?gd=mionaid"><g>mionaid</g></a>
                     <fem/>
                     <en>a minute</en></li>
@@ -396,10 +393,10 @@
                     <masc/>
                     <en>a house</en>
                 </li>
-                <li><a href="?gd=taobh"><g>taobh</g></a>
+                <!--<li><a href="?gd=taobh"><g>taobh</g></a>
                     <masc/>
                     <en>a side</en>
-                </li>
+                </li>-->
                 <li><a href="?gd=teas"><g>teas</g></a>
                     <masc/>
                     <en>heat</en>
@@ -552,7 +549,7 @@
                     <en>shine</en></li>
                 <li><a href="?gd=duuin"><g>dùin</g></a>
                     <en>close, shut</en></li>
-                <li><a href="?gd=eeist"><g>éist</g></a>
+                <li><a href="?gd=eeisd"><g>éisd</g></a>
                     <en>listen</en></li>
                 <li><a href="?gd=faag"><g>fàg</g></a>
                     <en>leave</en></li>
