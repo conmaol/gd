@@ -39,6 +39,24 @@
                 </xl>
             </p>
         </module>
+        <module id="torman">
+            <h>torman</h>
+            <p><g><a href="?gd=torman">torman</a> uillt</g>
+                <en>a stream’s murmur(ing)</en> – <xl>
+                    <li>
+                        <gd>Bha an crodh blàth le teas na gréine agus bha iad ’nan seasamh anns na
+                            lochan beaga a bha an siud ’s an seo air feadh a’ mhonaidh. Bha na
+                            h-uain bheaga a’ leum agus a’ cluich mu thimcheall am màthraichean. Bha
+                            torman an uillt a’ dèanamh ciùil ann an cluais Chaluim bhig.</gd>
+                        <tr>The cattle were warm with the heat of the sun and they were standing in
+                            the little lakes which were here and there throughout the moor. The
+                            little lambs were jumping and playing about their mothers. The murmur of
+                            the burn was making music in little Malcolm’s ear.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 

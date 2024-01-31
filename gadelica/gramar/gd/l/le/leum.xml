@@ -6,7 +6,7 @@
         <en>jump</en></p>
 
     <section>
-        <h>nouns</h>
+        <h>subjects</h>
         <module id="maigheach">
             <h>maigheach</h>
             <p><g>leum <a href="?gd=maigheach">maigheach</a></g>
@@ -21,6 +21,26 @@
                 </xl>
             </p>
         </module>
+        <module id="uan">
+            <h>uan</h>
+            <p><g>leum <a href="?gd=uan">uan</a></g>
+                <en>a lamb jumps</en> – <xl>
+                    <li>
+                        <gd>Bha an crodh blàth le teas na gréine agus bha iad ’nan seasamh anns na
+                            lochan beaga a bha an siud ’s an seo air feadh a’ mhonaidh. Bha na
+                            h-uain bheaga a’ leum agus a’ cluich mu thimcheall am màthraichean.</gd>
+                        <tr>The cattle were warm with the heat of the sun and they were standing in
+                            the little lakes which were here and there throughout the moor. The
+                            little lambs were jumping and playing about their mothers.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>locations</h>
         <module id="feur">
             <h>feur</h>
             <p><g>leum ... à <a href="?gd=feur">feur</a></g>

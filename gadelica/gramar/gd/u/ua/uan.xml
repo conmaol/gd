@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>uan</h>
-    <p><g>uan</g> <masc/>
+    <p><g>uan</g>
+        <masc/>
         <en>a lamb</en></p>
-    
+
+    <section>
+        <h>adjectives</h>
+        <module id="beag">
+            <h>beag</h>
+            <p><g>uan <a href="?gd=beag">beag</a></g>
+                <en>a little lamb</en> – <xl>
+                    <li>
+                        <gd>Bha an crodh blàth le teas na gréine agus bha iad ’nan seasamh anns na
+                            lochan beaga a bha an siud ’s an seo air feadh a’ mhonaidh. Bha na
+                            h-uain bheaga a’ leum agus a’ cluich mu thimcheall am màthraichean.</gd>
+                        <tr>The cattle were warm with the heat of the sun and they were standing in
+                            the little lakes which were here and there throughout the moor. The
+                            little lambs were jumping and playing about their mothers.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
     <section>
         <h>nouns</h>
         <module id="monadh">
@@ -70,30 +91,82 @@
                 </xl>
             </p>
         </module>
-    </section>
-    
-    <section>
-        <h>verbs</h>
-        <!--<section>
-            <h>object</h>-->
-        <module id="coimhead">
-            <h>coimhead</h>
-            <p><g><a href="?gd=coimhead">coimhead</a> ... air uan</g>
-                <en>... looks at a lamb</en> –<xl>
+        <module id="maathair">
+            <h>màthair</h>
+            <p><g><a href="?gd=maathair">màthair</a> uain</g>
+                <en>a lamb’s mother</en> – <xl>
                     <li>
-                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
-                            fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
-                            air na h-uain.</gd>
-                        <tr>When Mary and James reached the moor, the shepherds were at the fank and
-                            Mary stopped for a minute or two looking at the sheep and at the
-                            lambs.</tr>
-                        <ref text="617">td. 76</ref>
+                        <gd>Bha an crodh blàth le teas na gréine agus bha iad ’nan seasamh anns na
+                            lochan beaga a bha an siud ’s an seo air feadh a’ mhonaidh. Bha na
+                            h-uain bheaga a’ leum agus a’ cluich mu thimcheall am màthraichean.</gd>
+                        <tr>The cattle were warm with the heat of the sun and they were standing in
+                            the little lakes which were here and there throughout the moor. The
+                            little lambs were jumping and playing about their mothers.</tr>
+                        <ref text="617">td. 146</ref>
                     </li>
                 </xl>
             </p>
         </module>
-        <!--</section>-->
     </section>
-    
-</module>
 
+    <section>
+        <h>verbs</h>
+        <section>
+            <h>subject</h>
+            <module id="leum">
+                <h>leum</h>
+                <p><g><a href="?gd=leum">leum</a> uan</g>
+                    <en>a lamb jumps</en> – <xl>
+                        <li>
+                            <gd>Bha an crodh blàth le teas na gréine agus bha iad ’nan seasamh anns
+                                na lochan beaga a bha an siud ’s an seo air feadh a’ mhonaidh. Bha
+                                na h-uain bheaga a’ leum agus a’ cluich mu thimcheall am
+                                màthraichean.</gd>
+                            <tr>The cattle were warm with the heat of the sun and they were standing
+                                in the little lakes which were here and there throughout the moor.
+                                The little lambs were jumping and playing about their mothers.</tr>
+                            <ref text="617">td. 146</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="cluich">
+                <h>cluich</h>
+                <p><g><a href="?gd=cluich">cluich</a> uan</g>
+                    <en>a lamb plays</en> – <xl>
+                        <li>
+                            <gd>Bha an crodh blàth le teas na gréine agus bha iad ’nan seasamh anns
+                                na lochan beaga a bha an siud ’s an seo air feadh a’ mhonaidh. Bha
+                                na h-uain bheaga a’ leum agus a’ cluich mu thimcheall am
+                                màthraichean.</gd>
+                            <tr>The cattle were warm with the heat of the sun and they were standing
+                                in the little lakes which were here and there throughout the moor.
+                                The little lambs were jumping and playing about their mothers.</tr>
+                            <ref text="617">td. 146</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+        <section>
+            <h>pseudo-object</h>
+            <module id="coimhead">
+                <h>coimhead</h>
+                <p><g><a href="?gd=coimhead">coimhead</a> ... air uan</g>
+                    <en>... looks at a lamb</en> –<xl>
+                        <li>
+                            <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
+                                fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich
+                                agus air na h-uain.</gd>
+                            <tr>When Mary and James reached the moor, the shepherds were at the fank
+                                and Mary stopped for a minute or two looking at the sheep and at the
+                                lambs.</tr>
+                            <ref text="617">td. 76</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+
+</module>

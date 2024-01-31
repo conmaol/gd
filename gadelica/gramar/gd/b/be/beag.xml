@@ -50,6 +50,14 @@
                     </li>
                 </xl>
             </p>
+            <p>Also –<xl>
+                    <li>
+                        <gd>Bha torman an uillt a’ dèanamh ciùil ann an cluais Chaluim bhig.</gd>
+                        <tr>The murmur of the burn was making music in little Malcolm’s ear.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
         </module>
         <!--<module id="duine_beag">
             <h>[duine] beag</h>
@@ -89,6 +97,22 @@
                         <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
                         <tr>Malcolm has a big black dog but Mary has a pretty little cat.</tr>
                         <ref text="617">td. 25</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="uan">
+            <h>uan</h>
+            <p><g><a href="?gd=uan">uan</a> beag</g>
+                <en>a little lamb</en> – <xl>
+                    <li>
+                        <gd>Bha an crodh blàth le teas na gréine agus bha iad ’nan seasamh anns na
+                            lochan beaga a bha an siud ’s an seo air feadh a’ mhonaidh. Bha na
+                            h-uain bheaga a’ leum agus a’ cluich mu thimcheall am màthraichean.</gd>
+                        <tr>The cattle were warm with the heat of the sun and they were standing in
+                            the little lakes which were here and there throughout the moor. The
+                            little lambs were jumping and playing about their mothers.</tr>
+                        <ref text="617">td. 146</ref>
                     </li>
                 </xl>
             </p>

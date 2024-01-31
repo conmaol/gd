@@ -129,6 +129,10 @@
                     <fem/>
                     <en>a social gathering, a visit</en>
                 </li>
+                <li><a href="?gd=ceool"><g>ceòl</g></a>
+                    <masc/>
+                    <en>music</en>
+                </li>
                 <li><a href="?gd=ciiobair"><g>cìobair</g></a>
                     <masc/>
                     <en>a shepherd</en></li>
@@ -150,6 +154,9 @@
                 <li><a href="?gd=cliathach"><g>cliathach</g></a>
                     <fem/>
                     <en>a side</en></li>
+                <li><a href="?gd=cluas"><g>cluas</g></a>
+                    <fem/>
+                    <en>an ear</en></li>
                 <li><a href="?gd=cnoc"><g>cnoc</g></a>
                     <masc/>
                     <en>a hill</en>
@@ -412,6 +419,10 @@
                 <li><a href="?gd=tolman"><g>tolman</g></a>
                     <masc/>
                     <en>a hillock</en>
+                </li>
+                <li><a href="?gd=torman"><g>torman</g></a>
+                    <masc/>
+                    <en>a murmur</en>
                 </li>
                 <li><a href="?gd=traaigh"><g>tràigh</g></a>
                     <fem/>

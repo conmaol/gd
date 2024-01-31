@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>torman</h>
+    <p><g>torman</g>
+        <masc/>
+        <en>a murmur</en></p>
+
+    <section>
+        <h>nouns</h>
+        <module id="allt">
+            <h>allt</h>
+            <p><g>torman <a href="?gd=allt">uillt</a></g>
+                <en>a stream’s murmur(ing)</en> – <xl>
+                    <li>
+                        <gd>Bha an crodh blàth le teas na gréine agus bha iad ’nan seasamh anns na
+                            lochan beaga a bha an siud ’s an seo air feadh a’ mhonaidh. Bha na
+                            h-uain bheaga a’ leum agus a’ cluich mu thimcheall am màthraichean. Bha
+                            torman an uillt a’ dèanamh ciùil ann an cluais Chaluim bhig.</gd>
+                        <tr>The cattle were warm with the heat of the sun and they were standing in
+                            the little lakes which were here and there throughout the moor. The
+                            little lambs were jumping and playing about their mothers. The murmur of
+                            the burn was making music in little Malcolm’s ear.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="ceool">
+            <h>ceòl</h>
+            <p><g>dèan torman <a href="?gd=ceool">ceòl</a></g>
+                <en>a murmur(ing) makes music</en> – <xl>
+                    <li>
+                        <gd>Bha an crodh blàth le teas na gréine agus bha iad ’nan seasamh anns na
+                            lochan beaga a bha an siud ’s an seo air feadh a’ mhonaidh. Bha na
+                            h-uain bheaga a’ leum agus a’ cluich mu thimcheall am màthraichean. Bha
+                            torman an uillt a’ dèanamh ciùil ann an cluais Chaluim bhig.</gd>
+                        <tr>The cattle were warm with the heat of the sun and they were standing in
+                            the little lakes which were here and there throughout the moor. The
+                            little lambs were jumping and playing about their mothers. The murmur of
+                            the burn was making music in little Malcolm’s ear.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="cluas">
+            <h>cluas</h>
+            <p><g>torman ann an <a href="?gd=cluas">cluais</a></g>
+                <en>a murmur(ing) in an ear</en> – <xl>
+                    <li>
+                        <gd>Bha an crodh blàth le teas na gréine agus bha iad ’nan seasamh anns na
+                            lochan beaga a bha an siud ’s an seo air feadh a’ mhonaidh. Bha na
+                            h-uain bheaga a’ leum agus a’ cluich mu thimcheall am màthraichean. Bha
+                            torman an uillt a’ dèanamh ciùil ann an cluais Chaluim bhig.</gd>
+                        <tr>The cattle were warm with the heat of the sun and they were standing in
+                            the little lakes which were here and there throughout the moor. The
+                            little lambs were jumping and playing about their mothers. The murmur of
+                            the burn was making music in little Malcolm’s ear.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+
+
+
+</module>
