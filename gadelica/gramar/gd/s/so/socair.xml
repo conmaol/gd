@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>socair</h>
+    <p><g>socair</g>
+        <fem/>
+        <en>leisure</en></p>
+    
+    <section>
+        <h>verbs</h>
+        <module id="tearnaich">
+            <h>tearnaich</h>
+            <p><g><a href="?gd=tearnaich">tearnaich</a> ... air a s[h]ocair</g>
+                <en>... descends leisurely</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum
+                            clach air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil analach.
+                            [...] An ceann greise dh’éirich Calum ’na sheasamh agus thearnaich e a’
+                            bheinn air a shocair.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain. There was a cairn of stones on the top of the mountain.
+                            Calum put a stone onto the cairn and he sat down beside the cairn having
+                            a rest. [...] After a while Malcolm rose up and he descended the
+                            mountain leisurely.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+</module>
+
