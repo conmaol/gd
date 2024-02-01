@@ -2,13 +2,14 @@
 <module>
     <h>fada</h>
     <p><g>fada</g>
-        <en>long</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+        <adj/>
+        <en>long</en></p>
 
     <section>
-        <h>themes</h>
+        <h>nouns</h>
         <module id="sraaid">
             <h>sràid</h>
-            <p><g><a href="?gd=sraaid">sràid</a> fada</g>
+            <p><g><a href="?gd=sraaid">sràid</a> fhada</g>
                 <en>a long street</en> – <xl>
                     <li>
                         <gd>Tha an t-sràid seo fada.</gd>
@@ -20,7 +21,7 @@
         </module>
         <module id="slighe">
             <h>slighe</h>
-            <p><g><a href="?gd=slighe">slighe</a> fada</g>
+            <p><g><a href="?gd=slighe">slighe</a> fhada</g>
                 <en>a long journey/way</en> – <xl>
                     <li>
                         <gd>Chan eile an t-slighe fada.</gd>
@@ -38,6 +39,31 @@
                         <gd>Bha an t-astar fada agus tha sinn sgìth.</gd>
                         <tr>The distance was long and we are tired.</tr>
                         <ref text="617">td. 60</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <module id="eeirich">
+            <h>éirich</h>
+            <p><g>fada gun <a href="?gd=eeirich">éiridh</a></g>
+                <en>late in rising</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
+                            ri dhol do’n sgoil. Dh’éirich Màiri aig deich mionaidean an déidh
+                            seachd, ach cha do dh’éirich Calum gus an robh e fichead mionaid gu
+                            ochd. Ged a bha Calum fada gun éiridh, cha tug e ach cairteal na
+                            h-uarach air faighinn deiseil, agus thàinig e a nuas an staidhre gu a
+                            bhracaist aig cóig mionaidean gu ochd.</gd>
+                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
+                            the school. Mary rose at ten minutes past seven, but Malcolm didn’t rise
+                            until it was twenty minutes to eight. Although Calum was late in rising,
+                            he only took a quarter of an hour to get ready, and he came downstairs
+                            to his breakfast a five minutes to eight.</tr>
+                        <ref text="617">td. 182-3</ref>
                     </li>
                 </xl>
             </p>

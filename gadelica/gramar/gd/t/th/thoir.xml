@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
   <h>thoir</h>
-  <p><g>thoir</g>
-    <en>give, take, bring</en> is an <a href="?xx=verbs/simple_verbs">irregular verb</a>.</p>
+  <p><g>thoir</g> <vb/>
+    <en>give, take, bring</en></p>
 
   <section>
     <h>nouns</h>
@@ -30,6 +30,25 @@
             <tr>Mary and James were on the moor yesterday. James took the fishing rod with him and
               Mary took (with her) food in a basket.</tr>
             <ref text="617">td. 76</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <module id="uair">
+      <h>uair</h>
+      <p><g>thoir ... <a href="?gd=uair">uair</a> air ...</g>
+        <en>... takes an hour to ...</en> – <xl>
+          <li>
+            <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad ri dhol do’n
+              sgoil. Dh’éirich Màiri aig deich mionaidean an déidh seachd, ach cha do dh’éirich
+              Calum gus an robh e fichead mionaid gu ochd. Ged a bha Calum fada gun éiridh, cha tug
+              e ach cairteal na h-uarach air faighinn deiseil, agus thàinig e a nuas an staidhre gu
+              a bhracaist aig cóig mionaidean gu ochd.</gd>
+            <tr>Mary and Malcolm rose early in the morning today, for they had to go to the school.
+              Mary rose at ten minutes past seven, but Malcolm didn’t rise until it was twenty
+              minutes to eight. Although Calum was late in rising, he only took a quarter of an hour
+              to get ready, and he came downstairs to his breakfast a five minutes to eight.</tr>
+            <ref text="617">td. 182-3</ref>
           </li>
         </xl>
       </p>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>uair</h>
+    <p><g>uair</g>
+        <vb/>
+        <en>an hour</en></p>
+
+    <section>
+        <h>nouns</h>
+        <module id="cairteal">
+            <h>cairteal</h>
+            <p><g><a href="?gd=cairteal">cairteal</a> na h-uarach</g>
+                <en>a quarter of an hour</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
+                            ri dhol do’n sgoil. Dh’éirich Màiri aig deich mionaidean an déidh
+                            seachd, ach cha do dh’éirich Calum gus an robh e fichead mionaid gu
+                            ochd. Ged a bha Calum fada gun éiridh, cha tug e ach cairteal na
+                            h-uarach air faighinn deiseil, agus thàinig e a nuas an staidhre gu a
+                            bhracaist aig cóig mionaidean gu ochd.</gd>
+                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
+                            the school. Mary rose at ten minutes past seven, but Malcolm didn’t rise
+                            until it was twenty minutes to eight. Although Calum was late in rising,
+                            he only took a quarter of an hour to get ready, and he came downstairs
+                            to his breakfast a five minutes to eight.</tr>
+                        <ref text="617">td. 182-3</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <section>
+            <h>object</h>
+            <module id="thoir">
+                <h>thoir</h>
+                <p><g><a href="?gd=thoir">thoir</a> ... uair air ...</g>
+                    <en>... takes an hour to ...</en> – <xl>
+                        <li>
+                            <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha
+                                iad ri dhol do’n sgoil. Dh’éirich Màiri aig deich mionaidean an
+                                déidh seachd, ach cha do dh’éirich Calum gus an robh e fichead
+                                mionaid gu ochd. Ged a bha Calum fada gun éiridh, cha tug e ach
+                                cairteal na h-uarach air faighinn deiseil, agus thàinig e a nuas an
+                                staidhre gu a bhracaist aig cóig mionaidean gu ochd.</gd>
+                            <tr>Mary and Malcolm rose early in the morning today, for they had to go
+                                to the school. Mary rose at ten minutes past seven, but Malcolm
+                                didn’t rise until it was twenty minutes to eight. Although Calum was
+                                late in rising, he only took a quarter of an hour to get ready, and
+                                he came downstairs to his breakfast a five minutes to eight.</tr>
+                            <ref text="617">td. 182-3</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+
+</module>

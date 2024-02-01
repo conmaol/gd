@@ -101,6 +101,9 @@
                 <li><a href="?gd=caileag"><g>caileag</g></a>
                     <fem/>
                     <en>a girl</en></li>
+                <li><a href="?gd=cairteal"><g>cairteal</g></a>
+                    <masc/>
+                    <en>a quarter</en></li>
                 <li><a href="?gd=caaise"><g>càise</g></a>
                     <masc/>
                     <en>cheese</en></li>
@@ -436,6 +439,9 @@
                 <li><a href="?gd=tubhailte"><g>tubhailte</g></a>
                     <fem/>
                     <en>a tablecloth</en></li>
+                <li><a href="?gd=uair"><g>uair</g></a>
+                    <fem/>
+                    <en>an hour</en></li>
                 <li><a href="?gd=uamh"><g>uamh</g></a>
                     <fem/>
                     <en>a cave</en></li>
@@ -485,6 +491,8 @@
                     <en>round</en></li>
                 <li><a href="?gd=dearg"><g>dearg</g></a>
                     <en>red</en></li>
+                <li><a href="?gd=deiseil"><g>deiseil</g></a>
+                    <en>ready</en></li>
                 <li><a href="?gd=domhain"><g>domhain</g></a>
                     <en>deep</en></li>
                 <li><a href="?gd=donn"><g>donn</g></a>
@@ -529,6 +537,8 @@
                     <en>hot</en></li>
                 <li><a href="?gd=trang"><g>trang</g></a>
                     <en>busy</en></li>
+                <li><a href="?gd=traath"><g>tràth</g></a>
+                    <en>early</en></li>
                 <li><a href="?gd=trom"><g>trom</g></a>
                     <en>heavy</en> – <slen/>
                     <g>truim(e)</g></li>

@@ -18,6 +18,16 @@
                             the morning.</tr>
                         <ref text="617">td. 76</ref>
                     </li>
+                    <li>
+                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
+                            ri dhol do’n sgoil. Dh’éirich Màiri aig deich mionaidean an déidh
+                            seachd, ach cha do dh’éirich Calum gus an robh e fichead mionaid gu
+                            ochd.</gd>
+                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
+                            the school. Mary rose at ten minutes past seven, but Malcolm didn’t rise
+                            until it was twenty minutes to eight.</tr>
+                        <ref text="617">td. 182–3</ref>
+                    </li>
                 </xl>
             </p>
         </module>
@@ -49,6 +59,20 @@
                         <tr>Mary and James were on the moor yesterday. [...] They left home early in
                             the morning.</tr>
                         <ref text="617">td. 76</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="eeirich">
+            <h>éirich</h>
+            <p><g><a href="?gd=eeirich">éirich</a> ... ann am madainn</g>
+                <en>... rises of a morning</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
+                            ri dhol do’n sgoil.</gd>
+                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
+                            the school.</tr>
+                        <ref text="617">td. 182–3</ref>
                     </li>
                 </xl>
             </p>
