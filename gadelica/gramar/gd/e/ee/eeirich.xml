@@ -6,6 +6,92 @@
         <en>rise, get up</en></p>
 
     <section>
+        <h>subjects</h>
+        <section>
+            <h>people</h>
+            <section id="other">
+                <h>other</h>
+                <p>
+                    <xl>
+                        <li>
+                            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
+                                e mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir
+                                Calum clach air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil
+                                analach. [...] An ceann greise dh’éirich Calum ’na sheasamh agus
+                                thearnaich e a’ bheinn air a shocair.</gd>
+                            <tr>Malcolm was tired walking on the moor, but at last he reached the
+                                top of the mountain. There was a cairn of stones on the top of the
+                                mountain. Calum put a stone onto the cairn and he sat down beside
+                                the cairn having a rest. [...] After a while Malcolm rose up and he
+                                descended the mountain leisurely.</tr>
+                            <ref text="617">td. 146</ref>
+                        </li>
+                        <li>
+                            <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha
+                                iad ri dhol do’n sgoil. Dh’éirich Màiri aig deich mionaidean an
+                                déidh seachd, ach cha do dh’éirich Calum gus an robh e fichead
+                                mionaid gu ochd.</gd>
+                            <tr>Mary and Malcolm rose early in the morning today, for they had to go
+                                to the school. Mary rose at ten minutes past seven, but Malcolm
+                                didn’t rise until it was twenty minutes to eight.</tr>
+                            <ref text="617">td. 182–3</ref>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+        </section>
+    </section>
+
+    <section>
+        <h>times</h>
+        <module id="traath">
+            <h>tràth</h>
+            <p><g>éirich ... <a href="?gd=traath">tràth</a></g>
+                <en>... rises early</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
+                            ri dhol do’n sgoil.</gd>
+                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
+                            the school.</tr>
+                        <ref text="617">td. 182–3</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="madainn">
+            <h>madainn</h>
+            <p><g>éirich ... ann am <a href="?gd=madainn">madainn</a></g>
+                <en>... rises of a morning</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
+                            ri dhol do’n sgoil.</gd>
+                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
+                            the school.</tr>
+                        <ref text="617">td. 182–3</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="mionaid">
+            <h>mionaid</h>
+            <p><g>éirich ... aig ... <a href="?gd=mionaid">mionaidean</a> ...</g>
+                <en>... rises at ... minutes ...</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
+                            ri dhol do’n sgoil. Dh’éirich Màiri aig deich mionaidean an déidh
+                            seachd, ach cha do dh’éirich Calum gus an robh e fichead mionaid gu
+                            ochd.</gd>
+                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
+                            the school. Mary rose at ten minutes past seven, but Malcolm didn’t rise
+                            until it was twenty minutes to eight.</tr>
+                        <ref text="617">td. 182–3</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
         <h>verbs</h>
         <module id="seas">
             <h>seas</h>

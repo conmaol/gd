@@ -4,13 +4,39 @@
     <p><g>rach</g>
         <vb/>
         <en>go</en></p>
-    
+
+    <section>
+        <h>subjects</h>
+        <section>
+            <h>people</h>
+            <section id="other">
+                <h>other</h>
+                <p><xl>
+                        <li>
+                            <gd>An do dh’fhan Màiri aig an taigh an diugh? Cha do dh’fhan. Chaidh
+                                Màiri do’n sgoil anns a’ mhadainn</gd>
+                            <tr>Did Mary stay at home today? No, she didn’t. She went to school in
+                                the morning.</tr>
+                            <ref text="617">td. 237–8</ref>
+                        </li>
+                        <li>
+                            <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha
+                                iad ri dhol do’n sgoil.</gd>
+                            <tr>Mary and Malcolm rose early in the morning today, for they had to go
+                                to the school.</tr>
+                            <ref text="617">td. 182–3</ref>
+                        </li>
+                    </xl></p>
+            </section>
+        </section>
+    </section>
+
     <section>
         <h>destinations</h>
         <module id="sgoil">
             <h>sgoil</h>
-            <p><g>rach ... do <a href="?gd=sgoil">sgoil</a></g> <en>... goes to a school</en> –
-                <xl>
+            <p><g>rach ... do <a href="?gd=sgoil">sgoil</a></g>
+                <en>... goes to a school</en> – <xl>
                     <li>
                         <gd>An do dh’fhan Màiri aig an taigh an diugh? Cha do dh’fhan. Chaidh Màiri
                             do’n sgoil anns a’ mhadainn</gd>
@@ -18,17 +44,24 @@
                             morning.</tr>
                         <ref text="617">td. 237–8</ref>
                     </li>
+                    <li>
+                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
+                            ri dhol do’n sgoil.</gd>
+                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
+                            the school.</tr>
+                        <ref text="617">td. 182–3</ref>
+                    </li>
                 </xl>
             </p>
         </module>
     </section>
-    
+
     <section>
         <h>times</h>
         <module id="madainn">
             <h>madainn</h>
-            <p><g>rach ... ann am <a href="?gd=madainn">madainn</a></g> <en>... goes ... of a morning</en> –
-                <xl>
+            <p><g>rach ... ann am <a href="?gd=madainn">madainn</a></g>
+                <en>... goes ... of a morning</en> – <xl>
                     <li>
                         <gd>An do dh’fhan Màiri aig an taigh an diugh? Cha do dh’fhan. Chaidh Màiri
                             do’n sgoil anns a’ mhadainn</gd>
@@ -40,6 +73,5 @@
             </p>
         </module>
     </section>
-    
-</module>
 
+</module>

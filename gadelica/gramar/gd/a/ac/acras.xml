@@ -6,6 +6,32 @@
         <en>hunger</en></p>
 
     <section>
+        <h>adjectives</h>
+        <module id="moor">
+            <h>mór</h>
+            <p><g>acras <a href="?gd=moor">mór</a></g>
+                <en>a great hunger</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum
+                            clach air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil analach.
+                            [...] An ceann greise dh’éirich Calum ’na sheasamh agus thearnaich e a’
+                            bheinn air a shocair. Chòrd an latha gu math ris ach bha an t-acras mór
+                            air nuair a ràinig e an taigh.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain. There was a cairn of stones on the top of the mountain.
+                            Calum put a stone onto the cairn and he sat down beside the cairn having
+                            a rest. [...] After a while Malcolm rose up and he descended the
+                            mountain leisurely. He enjoyed the day well but he was very hungry when
+                            he reached the house.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
         <h>nouns</h>
         <module id="biadh">
             <h>biadh</h>
