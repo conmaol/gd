@@ -38,6 +38,9 @@
                 <li><a href="?gd=astar"><g>astar</g></a>
                     <masc/>
                     <en>distance</en></li>
+                <li><a href="?gd=athair"><g>athair</g></a>
+                    <masc/>
+                    <en>a father</en></li>
                 <li><a href="?gd=baile"><g>baile</g></a>
                     <masc/>
                     <en>a town</en>
@@ -86,6 +89,9 @@
                     <masc/>
                     <en>a table</en>
                 </li>
+                <li><a href="?gd=bracaist"><g>bracaist</g></a>
+                    <fem/>
+                    <en>a breakfast</en></li>
                 <li><a href="?gd=brot"><g>brot</g></a>
                     <masc/>
                     <en>soup, broth</en></li>
@@ -390,6 +396,9 @@
                 <li><a href="?gd=sroon"><g>sròn</g></a>
                     <fem/>
                     <en>a nose</en></li>
+                <li><a href="?gd=staidhre"><g>staidhre</g></a>
+                    <fem/>
+                    <en>a staircase, stairs</en></li>
                 <li><a href="?gd=suugh"><g>sùgh</g></a>
                     <masc/>
                     <en>soup, juice</en></li>
