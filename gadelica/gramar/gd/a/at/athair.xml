@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>athair</h>
-    <p><g>athair</g> <masc/>
+    <p><g>athair</g>
+        <masc/>
         <en>a father</en></p>
-    
-    
-    
-</module>
 
+    <section>
+        <h>nouns</h>
+        <module id="clann">
+            <h>clann</h>
+            <p><g>athair <a href="?gd=clann">cloinne</a></g>
+                <en>a father of children</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the
+                            morning.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <section>
+            <h>subject</h>
+            <module id="eeirich">
+                <h>éirich</h>
+                <p><g><a href="?gd=eeirich">éirich</a> athair</g>
+                    <en>a father rises</en> – <xl>
+                        <li>
+                            <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean
+                                sa’ mhadainn.</gd>
+                            <tr>The children’s father and mother rose at six o’ clock in the
+                                morning.</tr>
+                            <ref text="617">td. 183</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+    </section>
+</module>

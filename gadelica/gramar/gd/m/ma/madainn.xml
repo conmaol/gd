@@ -6,6 +6,24 @@
         <en>a morning</en></p>
 
     <section>
+        <h>nouns</h>
+        <module id="uair">
+            <h>uair</h>
+            <p><g>aig ... <a href="?gd=uair">uairean</a> ann am madainn</g>
+                <en>at ... o’clock of a morning</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the
+                            morning.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
         <h>adjectives</h>
         <module id="traath">
             <h>tràth</h>
@@ -37,8 +55,8 @@
         <h>verbs</h>
         <module id="rach">
             <h>rach</h>
-            <p><g><a href="?gd=rach">rach</a> ... ann am madainn</g> <en>... goes ... of a morning</en> –
-                <xl>
+            <p><g><a href="?gd=rach">rach</a> ... ann am madainn</g>
+                <en>... goes ... of a morning</en> – <xl>
                     <li>
                         <gd>An do dh’fhan Màiri aig an taigh an diugh? Cha do dh’fhan. Chaidh Màiri
                             do’n sgoil anns a’ mhadainn</gd>
@@ -73,6 +91,13 @@
                         <tr>Mary and Malcolm rose early in the morning today, for they had to go to
                             the school.</tr>
                         <ref text="617">td. 182–3</ref>
+                    </li>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the
+                            morning.</tr>
+                        <ref text="617">td. 183</ref>
                     </li>
                 </xl>
             </p>

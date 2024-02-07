@@ -2,9 +2,41 @@
 <module>
     <h>clann</h>
     <p><g>clann</g>
-        <en>children</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
-    
+        <fem/>
+        <en>children</en></p>
+
+    <section>
+        <h>nouns</h>
+        <module id="athair">
+            <h>athair</h>
+            <p><g><a href="?gd=athair">athair</a> cloinne</g>
+                <en>a father of children</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the
+                            morning.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="maathair">
+            <h>màthair</h>
+            <p><g><a href="?gd=maathair">màthair</a> cloinne</g>
+                <en>a mother of children</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the
+                            morning.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
     <section>
         <h>verbs</h>
         <section>
@@ -36,6 +68,5 @@
             </module>
         </section>
     </section>
-    
-</module>
 
+</module>

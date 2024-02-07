@@ -28,6 +28,20 @@
                 </xl>
             </p>
         </module>
+        <module id="madainn">
+            <h>madainn</h>
+            <p><g>aig ... uairean ann am <a href="?gd=madainn">madainn</a></g>
+                <en>at ... o’clock of a morning</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the
+                            morning.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
     <section>
@@ -51,6 +65,23 @@
                                 late in rising, he only took a quarter of an hour to get ready, and
                                 he came downstairs to his breakfast a five minutes to eight.</tr>
                             <ref text="617">td. 182-3</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
+        <section>
+            <h>time</h>
+            <module id="eeirich">
+                <h>éirich</h>
+                <p><g><a href="?gd=eeirich">éirich</a> ... aig ... uairean ...</g>
+                    <en>... rises at ... o’clock ...</en> – <xl>
+                        <li>
+                            <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean
+                                sa’ mhadainn.</gd>
+                            <tr>The children’s father and mother rose at six o’ clock in the
+                                morning.</tr>
+                            <ref text="617">td. 183</ref>
                         </li>
                     </xl>
                 </p>

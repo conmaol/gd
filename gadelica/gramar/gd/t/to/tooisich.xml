@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>tòisich</h>
-    <p>tòisich <vb/> <en>begin, start</en></p>
-    
+    <p>tòisich <vb/>
+        <en>begin, start</en></p>
+
+
     <section>
-        <h>verbs</h>
+        <h>subjects</h>
+        <module id="maathair">
+            <h>màthair</h>
+            <p><g>tòisich <a href="?gd=maathair">màthair</a> ...</g>
+                <en>a mother starts ...</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
+                            leth-uair an déidh sia.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the morning.
+                            Their mother started on the housework at twenty minutes past six, and
+                            their father went out to feed the cattle at half past six.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+
+    <section>
+        <h>pseudo-objects</h>
         <module id="iasgaich">
             <h>iasgaich</h>
             <p><g>tòisich ... air <a href="?gd=iasgaich">iasgach</a></g>
@@ -17,11 +41,48 @@
                 </xl>
             </p>
         </module>
+        <module id="obair">
+            <h>obair</h>
+            <p><g>tòisich ... air <a href="?gd=obair">obair</a></g>
+                <en>... starts on some work</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
+                            leth-uair an déidh sia.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the morning.
+                            Their mother started on the housework at twenty minutes past six, and
+                            their father went out to feed the cattle at half past six.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
-    
-    
-    
-   <!-- <p><g>tòisich</g>
+
+    <section>
+        <h>times</h>
+        <module id="mionaid">
+            <h>mionaid</h>
+            <p><g>tòisich ... aig ... <a href="?gd=mionaid">mionaid</a> ...</g>
+                <en>... starts at ... minutes ...</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
+                            leth-uair an déidh sia.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the morning.
+                            Their mother started on the housework at twenty minutes past six, and
+                            their father went out to feed the cattle at half past six.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+
+    <!-- <p><g>tòisich</g>
         <en>start, begin, commence, inaugurate, launch, originate</en> is a (regular) <a
             href="?xx=verbs/verbs">verb</a>, derived from the noun <a href="?gd=toiseach"
                 ><g>toiseach</g></a>, and with verbal noun <g>tòiseachadh</g>

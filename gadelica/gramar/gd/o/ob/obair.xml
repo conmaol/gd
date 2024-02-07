@@ -2,13 +2,11 @@
 <module>
     <h>obair</h>
     <p><g>obair</g>
-        <en>working, work</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        <fem/>
+        <en>working, work</en></p>
 
     <section>
-        <h>nouns</h>
-        <!--<section>
-            <h>subject</h>-->
+        <h>subjects</h>
         <module id="clachair">
             <h>clachair</h>
             <p><g><a href="?gd=clachair">clachair</a> [ag] obair</g>
@@ -45,9 +43,27 @@
                 </xl>
             </p>
         </module>
-        <!--</section>-->
-        <!-- <section>
-            <h>object</h>-->
+        <module id="maathair">
+            <h>màthair</h>
+            <p><g><a href="?gd=maathair">màthair</a> [ag] obair</g>
+                <en>a mother working</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
+                            leth-uair an déidh sia.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the morning.
+                            Their mother started on the housework at twenty minutes past six, and
+                            their father went out to feed the cattle at half past six.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>pseudo-objects</h>
         <module id="balla">
             <h>balla</h>
             <p><g>obair air <a href="?gd=balla">balla</a></g>
@@ -60,7 +76,9 @@
                 </xl>
             </p>
         </module>
-        <!--</section>-->
+    </section>
+    <section>
+        <h>locations</h>
         <module id="achadh">
             <h>achadh</h>
             <p><g>obair ann an <a href="?gd=achadh">achadh</a></g>
@@ -88,7 +106,25 @@
                 </xl>
             </p>
         </module>
-        <module id="fad">
+        <module id="taigh">
+            <h>taigh</h>
+            <p><g>obair <a href="?gd=taigh">thighe</a></g>
+                <en>housework</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
+                            leth-uair an déidh sia.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the morning.
+                            Their mother started on the housework at twenty minutes past six, and
+                            their father went out to feed the cattle at half past six.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    <!--<module id="fad">
             <h>fad</h>
             <p><g>obair <a href="?gd=fad">fad</a> ...</g>
                 <en>working all ... long</en> – <xl>
@@ -99,11 +135,10 @@
                     </li>
                 </xl>
             </p>
-        </module>
-    </section>
+        </module>-->
 
     <section>
-        <h>states</h>
+        <h>adjectives</h>
         <module id="trang">
             <h>trang</h>
             <p><g>obair gu <a href="?gd=trang">trang</a></g>
@@ -163,11 +198,32 @@
                 </xl></p>
         </module>
     </section>
-
+    
     <section>
+        <h>verbs</h>
+        <module id="tooisich">
+            <h>tòisich</h>
+            <p><g><a href="?gd=tooisich">tòisich</a> ... air obair</g>
+                <en>... starts on some work</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
+                            leth-uair an déidh sia.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the morning.
+                            Their mother started on the housework at twenty minutes past six, and
+                            their father went out to feed the cattle at half past six.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+    <!--<section>
         <h>adverbs</h>
-        <!--<section>
-            <h>temporal</h>-->
+        <!-\-<section>
+            <h>temporal</h>-\->
         <module id="an_dee">
             <h>an dé</h>
             <p><g>obair <a href="?gd=an_dee">an dé</a></g>
@@ -179,8 +235,8 @@
                     </li>
                 </xl></p>
         </module>
-        <!--</section>-->
-    </section>
+        <!-\-</section>-\->
+    </section>-->
 
 
     <!-- <li>

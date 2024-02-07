@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>mionaid</h>
-    <p><g>mionaid</g> <fem/>
+    <p><g>mionaid</g>
+        <fem/>
         <en>a minute</en></p>
-    
+
     <section>
         <h>verbs</h>
         <module id="stad">
@@ -44,24 +45,42 @@
             <p><g><a href="?gd=thig">thig</a> ... aig ... mionaidean ...</g>
                 <en>... comes at ... minutes ...</en> – <xl>
                     <li>
-                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad ri dhol do’n
-                            sgoil. Dh’éirich Màiri aig deich mionaidean an déidh seachd, ach cha do dh’éirich
-                            Calum gus an robh e fichead mionaid gu ochd. Ged a bha Calum fada gun éiridh, cha tug
-                            e ach cairteal na h-uarach air faighinn deiseil, agus thàinig e a nuas an staidhre gu
-                            a bhracaist aig cóig mionaidean gu ochd. Thàinig Màiri a nuas an staidhre aig deich
-                            mionaidean gu ochd.</gd>
-                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to the school.
-                            Mary rose at ten minutes past seven, but Malcolm didn’t rise until it was twenty
-                            minutes to eight. Although Calum was late in rising, he only took a quarter of an hour
-                            to get ready, and he came downstairs to his breakfast at five minutes to eight. Mary
-                            came downstairs at ten minutes to eight.</tr>
+                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
+                            ri dhol do’n sgoil. Dh’éirich Màiri aig deich mionaidean an déidh
+                            seachd, ach cha do dh’éirich Calum gus an robh e fichead mionaid gu
+                            ochd. Ged a bha Calum fada gun éiridh, cha tug e ach cairteal na
+                            h-uarach air faighinn deiseil, agus thàinig e a nuas an staidhre gu a
+                            bhracaist aig cóig mionaidean gu ochd. Thàinig Màiri a nuas an staidhre
+                            aig deich mionaidean gu ochd.</gd>
+                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
+                            the school. Mary rose at ten minutes past seven, but Malcolm didn’t rise
+                            until it was twenty minutes to eight. Although Calum was late in rising,
+                            he only took a quarter of an hour to get ready, and he came downstairs
+                            to his breakfast at five minutes to eight. Mary came downstairs at ten
+                            minutes to eight.</tr>
                         <ref text="617">td. 182-3</ref>
                     </li>
                 </xl>
             </p>
         </module>
+        <module id="tooisich">
+            <h>tòisich</h>
+            <p><g><a href="?gd=tooisich">tòisich</a> ... aig ... mionaid ...</g>
+                <en>... starts at ... minutes ...</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
+                            leth-uair an déidh sia.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the morning.
+                            Their mother started on the housework at twenty minutes past six, and
+                            their father went out to feed the cattle at half past six.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
-    
-    
-</module>
 
+
+</module>

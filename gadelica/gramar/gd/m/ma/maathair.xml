@@ -7,6 +7,23 @@
 
     <section>
         <h>nouns</h>
+        <module id="clann">
+            <h>clann</h>
+            <p><g>màthair <a href="?gd=clann">cloinne</a></g>
+                <en>a mother of children</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
+                            leth-uair an déidh sia.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the morning.
+                            Their mother started on the housework at twenty minutes past six, and
+                            their father went out to feed the cattle at half past six.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
         <module id="uan">
             <h>uan</h>
             <p><g>màthair <a href="?gd=uan">uain</a></g>
@@ -23,6 +40,63 @@
                 </xl>
             </p>
         </module>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <section>
+            <h>subject</h>
+            <module id="eeirich">
+                <h>éirich</h>
+                <p><g><a href="?gd=eeirich">éirich</a> màthair</g>
+                    <en>a mother rises</en> – <xl>
+                        <li>
+                            <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean
+                                sa’ mhadainn.</gd>
+                            <tr>The children’s father and mother rose at six o’ clock in the
+                                morning.</tr>
+                            <ref text="617">td. 183</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="tooisich">
+                <h>tòisich</h>
+                <p><g><a href="?gd=tooisich">tòisich</a> màthair ...</g>
+                    <en>a mother starts ...</en> – <xl>
+                        <li>
+                            <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean
+                                sa’ mhadainn. Thòisich am màthair air obair an taighe aig fichead
+                                mionaid an déidh sia, agus chaidh an athair a mach a bhiadhadh a’
+                                chrùidh aig leth-uair an déidh sia.</gd>
+                            <tr>The children’s father and mother rose at six o’ clock in the
+                                morning. Their mother started on the housework at twenty minutes
+                                past six, and their father went out to feed the cattle at half past
+                                six.</tr>
+                            <ref text="617">td. 183</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="obair">
+                <h>obair</h>
+                <p><g>màthair [ag] <a href="?gd=obair">obair</a></g>
+                    <en>a mother working</en> – <xl>
+                        <li>
+                            <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean
+                                sa’ mhadainn. Thòisich am màthair air obair an taighe aig fichead
+                                mionaid an déidh sia, agus chaidh an athair a mach a bhiadhadh a’
+                                chrùidh aig leth-uair an déidh sia.</gd>
+                            <tr>The children’s father and mother rose at six o’ clock in the
+                                morning. Their mother started on the housework at twenty minutes
+                                past six, and their father went out to feed the cattle at half past
+                                six.</tr>
+                            <ref text="617">td. 183</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+        </section>
     </section>
 
 </module>
