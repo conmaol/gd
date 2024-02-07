@@ -7,6 +7,24 @@
         <en>leave</en></p>
 
     <section>
+        <h>subjects</h>
+        <module id="clann">
+            <h>clann</h>
+            <p><g>fàg <a href="?gd=clann">clann</a> ...</g>
+                <en>children leave ...</en> – <xl>
+                    <li>
+                        <gd>’S e an Dùdlachd a bha ann agus bha e fhathast dorcha nuair a dh’fhàg a’
+                            chlann an taigh.</gd>
+                        <tr>It was December and it was still dark when the children left the
+                            house.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
         <h>objects</h>
         <module id="taigh">
             <h>taigh</h>
@@ -23,6 +41,13 @@
                         <gd>Bha an latha fuar agus cha do dh’fhàg sinn an taigh.</gd>
                         <tr>The day was cold and we didn’t leave the house.</tr>
                         <ref text="617">td. 238</ref>
+                    </li>
+                    <li>
+                        <gd>’S e an Dùdlachd a bha ann agus bha e fhathast dorcha nuair a dh’fhàg a’
+                            chlann an taigh.</gd>
+                        <tr>It was December and it was still dark when the children left the
+                            house.</tr>
+                        <ref text="617">td. 183</ref>
                     </li>
                 </xl>
             </p>
@@ -182,10 +207,10 @@
 
 
 
-    
 
 
-    
+
+
 
 
 

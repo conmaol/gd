@@ -41,6 +41,20 @@
         <h>verbs</h>
         <section>
             <h>subject</h>
+            <module id="faag">
+                <h>fàg</h>
+                <p><g><a href="?gd=faag">fàg</a> clann ...</g>
+                    <en>children leave ...</en> – <xl>
+                        <li>
+                            <gd>’S e an Dùdlachd a bha ann agus bha e fhathast dorcha nuair a
+                                dh’fhàg a’ chlann an taigh.</gd>
+                            <tr>It was December and it was still dark when the children left the
+                                house.</tr>
+                            <ref text="617">td. 183</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
             <module id="snaamh">
                 <h>snàmh</h>
                 <p><g><a href="?gd=snaamh">snàmh</a> clann</g>

@@ -28,6 +28,24 @@
                 </xl>
             </p>
         </module>
+        <module id="leth">
+            <h>leth</h>
+            <p><g><a href="?gd=leth">leth</a> uair</g>
+                <en>a half (of an) hour</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
+                            leth-uair an déidh sia.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the morning.
+                            Their mother started on the housework at twenty minutes past six, and
+                            their father went out to feed the cattle at half past six.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        
         <module id="madainn">
             <h>madainn</h>
             <p><g>aig ... uairean ann am <a href="?gd=madainn">madainn</a></g>
@@ -81,6 +99,23 @@
                                 sa’ mhadainn.</gd>
                             <tr>The children’s father and mother rose at six o’ clock in the
                                 morning.</tr>
+                            <ref text="617">td. 183</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <module id="rach">
+                <h>rach</h>
+                <p><g><a href="?gd=rach">rach</a> ... aig ... uair ...</g>
+                    <en>... goes ... at ... o’clock ...</en> – <xl>
+                        <li>
+                            <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                                mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                                déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
+                                leth-uair an déidh sia.</gd>
+                            <tr>The children’s father and mother rose at six o’ clock in the morning.
+                                Their mother started on the housework at twenty minutes past six, and
+                                their father went out to feed the cattle at half past six.</tr>
                             <ref text="617">td. 183</ref>
                         </li>
                     </xl>

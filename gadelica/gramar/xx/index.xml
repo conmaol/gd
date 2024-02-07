@@ -278,6 +278,10 @@
                     <masc/>
                     <en>a book</en>
                 </li>
+                <li><a href="?gd=leth"><g>leth</g></a>
+                    <masc/>
+                    <en>a half</en>
+                </li>
                 <li><a href="?gd=linne"><g>linne</g></a>
                     <fem/>
                     <en>a pool</en>
@@ -551,6 +555,8 @@
                 <li><a href="?gd=trom"><g>trom</g></a>
                     <en>heavy</en> – <slen/>
                     <g>truim(e)</g></li>
+                <li><a href="?gd=ullamh"><g>ullamh</g></a>
+                    <en>ready</en></li>
                 <li><a href="?gd=fosgailte"><g>fosgailte</g></a>
                     <en>open</en>, <a href="?gd=cunnartach"><g>cunnartach</g></a></li>
             </ul>
@@ -560,6 +566,8 @@
     <section id="verbs">
         <h>verbs</h>
         <p><ul>
+                <li><a href="?gd=biadh^verb"><g>biadh</g></a>
+                    <en>feed</en></li>
                 <li><a href="?gd=buain"><g>buain</g></a>
                     <en>reap</en></li>
                 <li><a href="?gd=ceannaich"><g>ceannaich</g></a>

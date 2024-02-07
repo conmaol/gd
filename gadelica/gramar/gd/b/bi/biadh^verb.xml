@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>biadh</h>
+    <p><g>biadh</g>
+        <vb/>
+        <en>feed</en></p>
+
+    <section>
+        <h>subjects</h>
+        <module id="athair">
+            <h>athair</h>
+            <p><g>biadh <a href="?gd=athair">athair</a> ...</g>
+                <en>a father feeds ...</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
+                            leth-uair an déidh sia.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the morning.
+                            Their mother started on the housework at twenty minutes past six, and
+                            their father went out to feed the cattle at half past six.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>objects</h>
+        <module id="crodh">
+            <h>crodh</h>
+            <p><g>biadh <a href="?gd=crodh">crodh</a> ...</g>
+                <en>... feeds cattle</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
+                            leth-uair an déidh sia.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the morning.
+                            Their mother started on the housework at twenty minutes past six, and
+                            their father went out to feed the cattle at half past six.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>purpose</h>
+        <module id="rach">
+            <h>rach</h>
+            <p><g><a href="?gd=rach">rach</a> ... a bhiadhadh ...</g>
+                <en>... goes to feed ...</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
+                            leth-uair an déidh sia.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the morning.
+                            Their mother started on the housework at twenty minutes past six, and
+                            their father went out to feed the cattle at half past six.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+
+</module>

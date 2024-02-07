@@ -64,16 +64,16 @@
                 <en>cattle in a lake</en>
                 <xl>
                     <li>
-                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
-                            e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
-                            a’ deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha
-                            iad ’nan seasamh anns na lochan beaga a bha an siud ’s an seo air
-                            feadh a’ mhonaidh.</gd>
-                        <tr>Malcolm was tired walking on the moor, but at last he reached the
-                            top of the mountain. [...] It was a beautiful day and the sun was
-                            shining. [...] The cattle were warm with the heat of the sun and
-                            they were standing in the little lakes which were here and there
-                            throughout the moor.</tr>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                            deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
+                            seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
+                            mhonaidh.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain. [...] It was a beautiful day and the sun was shining.
+                            [...] The cattle were warm with the heat of the sun and they were
+                            standing in the little lakes which were here and there throughout the
+                            moor.</tr>
                         <ref text="617">td. 146</ref>
                     </li>
                 </xl>
@@ -108,6 +108,24 @@
         </section>
         <section>
             <h>object</h>
+            <module id="biadh">
+                <h>biadh</h>
+                <p><g><a href="?gd=biadh^verb">biadh</a> crodh ...</g>
+                    <en>... feeds cattle</en> – <xl>
+                        <li>
+                            <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean
+                                sa’ mhadainn. Thòisich am màthair air obair an taighe aig fichead
+                                mionaid an déidh sia, agus chaidh an athair a mach a bhiadhadh a’
+                                chrùidh aig leth-uair an déidh sia.</gd>
+                            <tr>The children’s father and mother rose at six o’ clock in the
+                                morning. Their mother started on the housework at twenty minutes
+                                past six, and their father went out to feed the cattle at half past
+                                six.</tr>
+                            <ref text="617">td. 183</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
             <module id="cuir">
                 <h>cuir</h>
                 <p><g><a href="?gd=cuir">cuir</a> ... crodh ...</g>

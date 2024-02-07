@@ -7,18 +7,41 @@
 
     <section>
         <h>subjects</h>
-        <module id="caileag">
-            <h>caileag</h>
-            <p><g>suidh <a href="?gd=caileag">caileag</a></g>
-                <en>a girl sits down</en> – <xl>
-                    <li>
-                        <gd>An do shuidh a’ chaileag aig an teine? Shuidh.</gd>
-                        <tr>Did the girl sit down by the fire? Yes, she did.</tr>
-                        <ref text="617">td. 237</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <section>
+            <h>people</h>
+            <module id="caileag">
+                <h>caileag</h>
+                <p><g>suidh <a href="?gd=caileag">caileag</a></g>
+                    <en>a girl sits down</en> – <xl>
+                        <li>
+                            <gd>An do shuidh a’ chaileag aig an teine? Shuidh.</gd>
+                            <tr>Did the girl sit down by the fire? Yes, she did.</tr>
+                            <ref text="617">td. 237</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
+            <section id="other">
+                <h>other</h>
+                <p>
+                    <xl>
+                        <li>
+                            <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha
+                                iad ri dhol do’n sgoil. [...] Dh’éirich athair na cloinne agus
+                                màthair na cloinne aig sia uairean sa’ mhadainn. [...] Bha am
+                                bracaist ullamh aig cóig mionaidean gu ochd, agus shuidh iad uile
+                                aig a’ bhòrd aig ochd uairean.</gd>
+                            <tr>Mary and Malcolm rose early in the morning today, for they had to go
+                                to the school. [...] The children’s father and mother rose at six o’
+                                clock in the morning. [...] Their breakfast was ready at five
+                                minutes to eight, and they all sat down at the table at eight
+                                o’clock.</tr>
+                            <ref text="617">td. 183</ref>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+        </section>
     </section>
 
     <section>
@@ -84,8 +107,8 @@
         </module>
         <module id="carn">
             <h>càrn</h>
-            <p><g>suidh ... ri taobh <a href="?gd=caarn">cùirn</a> ...</g> <en>... sits down beside a cairn</en> –
-                <xl>
+            <p><g>suidh ... ri taobh <a href="?gd=caarn">cùirn</a> ...</g>
+                <en>... sits down beside a cairn</en> – <xl>
                     <li>
                         <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
                             mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum
@@ -100,6 +123,26 @@
                 </xl>
             </p>
         </module>
+        <module id="boord">
+            <h>bòrd</h>
+            <p><g>suidh ... aig <a href="?gd=boord">bòrd</a></g>
+                <en>... sits down at a table</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
+                            ri dhol do’n sgoil. [...] Dh’éirich athair na cloinne agus màthair na
+                            cloinne aig sia uairean sa’ mhadainn. [...] Bha am bracaist ullamh aig
+                            cóig mionaidean gu ochd, agus shuidh iad uile aig a’ bhòrd aig ochd
+                            uairean.</gd>
+                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
+                            the school. [...] The children’s father and mother rose at six o’ clock
+                            in the morning. [...] Their breakfast was ready at five minutes to
+                            eight, and they all sat down at the table at eight o’clock.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+
     </section>
 
 

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>ullamh</h>
+    <p><g>ullamh</g>
+        <adj/>
+        <en>ready</en></p>
+
+    <section>
+        <h>nouns</h>
+        <module id="bracaist">
+            <h>bracaist</h>
+            <p><g>[bi] <a href="?gd=bracaist">bracaist</a> ullamh</g> <en>a breakfast [is] ready</en> –
+                <xl>
+                    <li>
+                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
+                            ri dhol do’n sgoil. [...] Dh’éirich athair na cloinne agus màthair na
+                            cloinne aig sia uairean sa’ mhadainn. [...] Bha am bracaist ullamh aig
+                            cóig mionaidean gu ochd, agus shuidh iad uile aig a’ bhòrd aig ochd
+                            uairean.</gd>
+                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
+                            the school. [...] The children’s father and mother rose at six o’ clock
+                            in the morning. [...] Their breakfast was ready at five minutes to
+                            eight, and they all sat down at the table at eight o’clock.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+
+</module>

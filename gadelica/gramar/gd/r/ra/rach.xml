@@ -9,6 +9,24 @@
         <h>subjects</h>
         <section>
             <h>people</h>
+            <module id="athair">
+                <h>athair</h>
+                <p><g>rach <a href="?gd=athair">athair</a> ...</g>
+                    <en>a father goes ...</en> – <xl>
+                        <li>
+                            <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean
+                                sa’ mhadainn. Thòisich am màthair air obair an taighe aig fichead
+                                mionaid an déidh sia, agus chaidh an athair a mach a bhiadhadh a’
+                                chrùidh aig leth-uair an déidh sia.</gd>
+                            <tr>The children’s father and mother rose at six o’ clock in the
+                                morning. Their mother started on the housework at twenty minutes
+                                past six, and their father went out to feed the cattle at half past
+                                six.</tr>
+                            <ref text="617">td. 183</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
             <section id="other">
                 <h>other</h>
                 <p><xl>
@@ -89,6 +107,23 @@
                         <tr>Did Mary stay at home today? No, she didn’t. She went to school in the
                             morning.</tr>
                         <ref text="617">td. 237–8</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="uair">
+            <h>uair</h>
+            <p><g>rach ... aig ... <a href="?gd=uair">uair</a> ...</g>
+                <en>... goes ... at ... o’clock ...</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
+                            leth-uair an déidh sia.</gd>
+                        <tr>The children’s father and mother rose at six o’ clock in the morning.
+                            Their mother started on the housework at twenty minutes past six, and
+                            their father went out to feed the cattle at half past six.</tr>
+                        <ref text="617">td. 183</ref>
                     </li>
                 </xl>
             </p>

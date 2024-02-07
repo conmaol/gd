@@ -44,6 +44,25 @@
                 </xl>
             </p>
         </module>
+        <module id="bracaist">
+            <h>bracaist</h>
+            <p><g><a href="?gd=bracaist">bracaist</a> aig bòrd</g> <en>a breakfast at a table</en> –
+                <xl>
+                    <li>
+                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
+                            ri dhol do’n sgoil. [...] Dh’éirich athair na cloinne agus màthair na
+                            cloinne aig sia uairean sa’ mhadainn. [...] Bha am bracaist ullamh aig
+                            cóig mionaidean gu ochd, agus shuidh iad uile aig a’ bhòrd aig ochd
+                            uairean.</gd>
+                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
+                            the school. [...] The children’s father and mother rose at six o’ clock
+                            in the morning. [...] Their breakfast was ready at five minutes to
+                            eight, and they all sat down at the table at eight o’clock.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
     <section>
@@ -96,6 +115,25 @@
                         <gd>An do sheas e aig a’ bhòrd? Sheas.</gd>
                         <tr>Did he stand (up) at the window? Yes, he did.</tr>
                         <ref text="617">td. 237</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+        <module id="suidh">
+            <h>suidh</h>
+            <p><g><a href="?gd=suidh">suidh</a> ... aig bòrd</g>
+                <en>... sits down at a table</en> – <xl>
+                    <li>
+                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
+                            ri dhol do’n sgoil. [...] Dh’éirich athair na cloinne agus màthair na
+                            cloinne aig sia uairean sa’ mhadainn. [...] Bha am bracaist ullamh aig
+                            cóig mionaidean gu ochd, agus shuidh iad uile aig a’ bhòrd aig ochd
+                            uairean.</gd>
+                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
+                            the school. [...] The children’s father and mother rose at six o’ clock
+                            in the morning. [...] Their breakfast was ready at five minutes to
+                            eight, and they all sat down at the table at eight o’clock.</tr>
+                        <ref text="617">td. 183</ref>
                     </li>
                 </xl>
             </p>

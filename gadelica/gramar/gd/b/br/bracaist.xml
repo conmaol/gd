@@ -6,7 +6,53 @@
         <en>a breakfast</en></p>
 
     <section>
-        <h>verbs</h>
+        <h>properties</h>
+        <module id="ullamh">
+            <h>ullamh</h>
+            <p><g>[bi] bracaist <a href="?gd=ullamh">ullamh</a></g> <en>a breakfast [is] ready</en> –
+                <xl>
+                    <li>
+                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
+                            ri dhol do’n sgoil. [...] Dh’éirich athair na cloinne agus màthair na
+                            cloinne aig sia uairean sa’ mhadainn. [...] Bha am bracaist ullamh aig
+                            cóig mionaidean gu ochd, agus shuidh iad uile aig a’ bhòrd aig ochd
+                            uairean.</gd>
+                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
+                            the school. [...] The children’s father and mother rose at six o’ clock
+                            in the morning. [...] Their breakfast was ready at five minutes to
+                            eight, and they all sat down at the table at eight o’clock.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+    <section>
+        <h>locations</h>
+        <module id="boord">
+            <h>bòrd</h>
+            <p><g>bracaist aig <a href="?gd=boord">bòrd</a></g> <en>a breakfast at a table</en> –
+                <xl>
+                    <li>
+                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
+                            ri dhol do’n sgoil. [...] Dh’éirich athair na cloinne agus màthair na
+                            cloinne aig sia uairean sa’ mhadainn. [...] Bha am bracaist ullamh aig
+                            cóig mionaidean gu ochd, agus shuidh iad uile aig a’ bhòrd aig ochd
+                            uairean.</gd>
+                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
+                            the school. [...] The children’s father and mother rose at six o’ clock
+                            in the morning. [...] Their breakfast was ready at five minutes to
+                            eight, and they all sat down at the table at eight o’clock.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+    
+    <section>
+        <h>actions</h>
         <module id="thig">
             <h>thig</h>
             <p><g><a href="?gd=thig">thig</a> ... gu bracaist</g>
