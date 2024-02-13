@@ -106,17 +106,22 @@
         <h>verbs</h>
         <!--<section>
             <h>object</h>-->
-            <module id="faic">
-                <h>faic</h>
-                <p><g><a href="?gd=faic">faic</a> ... caora</g>
-                    <en>... sees a sheep</en> – <xl>
-                        <li>
-                            <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
-                            <tr>I saw sheep and cattle on the moor.</tr>
-                            <ref text="617">td. 21</ref>
-                        </li>
-                    </xl></p>
-            </module>
+        <module id="faic">
+            <h>faic</h>
+            <p><g><a href="?gd=faic">faic</a> ... caora</g>
+                <en>... sees a sheep</en> – <xl>
+                    <li>
+                        <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
+                        <tr>I saw sheep and cattle on the moor.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                    <li>
+                        <gd>Am faca tu na caoraich? Chunnaic.</gd>
+                        <tr>Did you see the sheep? Yes, I did.</tr>
+                        <ref text="617">td. 177</ref>
+                    </li>
+                </xl></p>
+        </module>
         <module id="coimhead">
             <h>coimhead</h>
             <p><g><a href="?gd=coimhead">coimhead</a> ... air caora</g>

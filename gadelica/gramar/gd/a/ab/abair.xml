@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>abair</h>
+    <p><g>abair</g>
+        <vb/>
+        <en>say, tell</en></p>
+
+    <section>
+        <h>actors</h>
+        <p>First person – <xl>
+                <li>
+                    <gd>An abair mi sin ri Calum? Abraidh, ach chan abair thu e ri Iain.</gd>
+                    <tr>Shall I say that to Calum? Yes, but you will not say it to John.</tr>
+                    <ref text="617">td. 177</ref>
+                </li>
+            </xl>
+        </p>
+        <p>Second person – <xl>
+                <li>
+                    <gd>Abair ri Iain gu faic mi e am màireach.</gd>
+                    <tr>Tell John that I will see him tomorrow.</tr>
+                    <ref text="617">td. 177</ref>
+                </li>
+            </xl>
+        </p>
+        <p>Third person – <xl>
+                <li>
+                    <gd>An dubhairt iad gu robh iad a’ tighinn dhachaidh an nochd? Thubhairt.</gd>
+                    <tr>Did they say that they were coming home tonight? Yes, they did.</tr>
+                    <ref text="617">td. 177</ref>
+                </li>
+                <li>
+                    <gd>Their iad gu bheil iad sgìth.</gd>
+                    <tr>They will say that they are tired.</tr>
+                    <ref text="617">td. 177</ref>
+                </li>
+                <li>
+                    <gd>Cha dubhairt e facal rium.</gd>
+                    <tr>He didn’t say a word to me.</tr>
+                    <ref text="617">td. 177</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+    <section>
+        <h>messages</h>
+        <p><g>abair ... gu(n) ...</g>
+            <en>... says that ...</en> – <xl>
+                <li>
+                    <gd>Abair ri Iain gu faic mi e am màireach.</gd>
+                    <tr>Tell John that I will see him tomorrow.</tr>
+                    <ref text="617">td. 177</ref>
+                </li>
+                <li>
+                    <gd>An dubhairt iad gu robh iad a’ tighinn dhachaidh an nochd? Thubhairt.</gd>
+                    <tr>Did they say that they were coming home tonight? Yes, they did.</tr>
+                    <ref text="617">td. 177</ref>
+                </li>
+                <li>
+                    <gd>Their iad gu bheil iad sgìth.</gd>
+                    <tr>They will say that they are tired.</tr>
+                    <ref text="617">td. 177</ref>
+                </li>
+            </xl>
+        </p>
+        <p>Pronouns – <xl>
+                <li>
+                    <gd>An abair mi sin ri Calum? Abraidh, ach chan abair thu e ri Iain.</gd>
+                    <tr>Shall I say that to Calum? Yes, but you will not say it to John.</tr>
+                    <ref text="617">td. 177</ref>
+                </li>
+            </xl>
+        </p>
+        <module id="facal">
+            <h>facal</h>
+            <p><g>abair ... <a href="?gd=facal">facal</a></g>
+                <en>... says a word</en> – <xl>
+                    <li>
+                        <gd>Cha dubhairt e facal rium.</gd>
+                        <tr>He didn’t say a word to me.</tr>
+                        <ref text="617">td. 177</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+    <section>
+        <h>addressees</h>
+        <p><g>abair ... ri ...</g>
+            <en>... says to ..., ... tells ...</en> – <xl>
+                <li>
+                    <gd>Abair ri Iain gu faic mi e am màireach.</gd>
+                    <tr>Tell John that I will see him tomorrow.</tr>
+                    <ref text="617">td. 177</ref>
+                </li>
+                <li>
+                    <gd>An abair mi sin ri Calum? Abraidh, ach chan abair thu e ri Iain.</gd>
+                    <tr>Shall I say that to Calum? Yes, but you will not say it to John.</tr>
+                    <ref text="617">td. 177</ref>
+                </li>
+                <li>
+                    <gd>Cha dubhairt e facal rium.</gd>
+                    <tr>He didn’t say a word to me.</tr>
+                    <ref text="617">td. 177</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+</module>

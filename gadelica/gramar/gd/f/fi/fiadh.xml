@@ -19,6 +19,18 @@
                 </xl>
             </p>
         </module>
+        <module id="faic">
+            <h>faic</h>
+            <p><g><a href="?gd=faic">faic</a> ... fiadh</g>
+                <en>... sees a deer</en> – <xl>
+                    <li>
+                        <gd>Am faca tu na féidh? Chan fhaca.</gd>
+                        <tr>Did you see the deer? No, I didn’t.</tr>
+                        <ref text="617">td. 177</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 </module>

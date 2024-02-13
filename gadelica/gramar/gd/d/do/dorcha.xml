@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>dorcha</h>
-    <p><g>dorcha</g>
-        <en>dark</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+    <p><g>dorcha</g> <adj/>
+        <en>dark</en></p>
 
     <section>
-        <h>themes</h>
+        <h>subjects</h>
         <module id="adhar">
             <h>adhar</h>
             <p><g><a href="?gd=adhar">adhar</a> dorcha</g>
@@ -30,6 +30,19 @@
                 </xl>
             </p>
         </module>
+        <section id="other">
+            <h>other</h>
+            <p><xl>
+                    <li>
+                        <gd>’S e an Dùdlachd a bha ann agus bha e fhathast dorcha nuair a dh’fhàg a’
+                            chlann an taigh.</gd>
+                        <tr>It was December and it was still dark when the children left the
+                            house.</tr>
+                        <ref text="617">td. 183</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
     </section>
 
 </module>

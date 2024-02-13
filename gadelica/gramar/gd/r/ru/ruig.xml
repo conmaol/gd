@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
   <h>ruig</h>
-  <p><g>ruig</g> <vb/>
+  <p><g>ruig</g>
+    <vb/>
     <en>reach</en>.</p>
+
+  <section>
+    <h>subjects</h>
+    <module id="clann">
+      <h>clann</h>
+      <p><g>ruig <a href="?gd=clann">clann</a> ...</g>
+        <en>children reach ...</en> – <xl>
+          <li>
+            <gd>’S e an Dùdlachd a bha ann agus bha e fhathast dorcha nuair a dh’fhàg a’ chlann an
+              taigh, ach ràinig iad an sgoil gu sàbhailte aig cóig mionaidean gu naoi.</gd>
+            <tr>It was December and it was still dark when the children left the house, but they
+              reached the school safely at five minutes to nine.</tr>
+            <ref text="617">td. 183</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+  </section>
 
   <section>
     <h>objects</h>
@@ -18,19 +37,31 @@
             <ref text="617">td. 21</ref>
           </li>
           <li>
-            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-              mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum
-              clach air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil analach.
-              [...] An ceann greise dh’éirich Calum ’na sheasamh agus thearnaich e a’
-              bheinn air a shocair. Chòrd an latha gu math ris ach bha an t-acras mór
-              air nuair a ràinig e an taigh.</gd>
-            <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-              the mountain. There was a cairn of stones on the top of the mountain.
-              Calum put a stone onto the cairn and he sat down beside the cairn having
-              a rest. [...] After a while Malcolm rose up and he descended the
-              mountain leisurely. He enjoyed the day well but he was very hungry when
-              he reached the house.</tr>
+            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e mullach na
+              beinne. Bha càrn chlach air mullach na beinne. Chuir Calum clach air a’ chàrn agus
+              shuidh e ri taobh a’ chùirn a’ leigeil analach. [...] An ceann greise dh’éirich Calum
+              ’na sheasamh agus thearnaich e a’ bheinn air a shocair. Chòrd an latha gu math ris ach
+              bha an t-acras mór air nuair a ràinig e an taigh.</gd>
+            <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+              mountain. There was a cairn of stones on the top of the mountain. Calum put a stone
+              onto the cairn and he sat down beside the cairn having a rest. [...] After a while
+              Malcolm rose up and he descended the mountain leisurely. He enjoyed the day well but
+              he was very hungry when he reached the house.</tr>
             <ref text="617">td. 146</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+    <module id="sgoil">
+      <h>sgoil</h>
+      <p><g>ruig ... <a href="?gd=sgoil">sgoil</a></g>
+        <en>... reaches a school</en> – <xl>
+          <li>
+            <gd>’S e an Dùdlachd a bha ann agus bha e fhathast dorcha nuair a dh’fhàg a’ chlann an
+              taigh, ach ràinig iad an sgoil gu sàbhailte aig cóig mionaidean gu naoi.</gd>
+            <tr>It was December and it was still dark when the children left the house, but they
+              reached the school safely at five minutes to nine.</tr>
+            <ref text="617">td. 183</ref>
           </li>
         </xl>
       </p>
@@ -52,10 +83,10 @@
       <p><g>ruig ... <a href="?gd=mullach">mullach</a></g>
         <en>... reaches a summit</en> – <xl>
           <li>
-            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-              mullach na beinne.</gd>
-            <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-              the mountain.</tr>
+            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e mullach na
+              beinne.</gd>
+            <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+              mountain.</tr>
             <ref text="617">td. 146</ref>
           </li>
         </xl>
@@ -64,6 +95,23 @@
     <!--</section>-->
   </section>
 
+  <section>
+    <h>manners</h>
+    <module id="saabhailte">
+      <h>sàbhailte</h>
+      <p><g>ruig ... gu <a href="?gd=saabhailte">sàbhailte</a></g>
+        <en>... reaches ... safely</en> – <xl>
+          <li>
+            <gd>’S e an Dùdlachd a bha ann agus bha e fhathast dorcha nuair a dh’fhàg a’ chlann an
+              taigh, ach ràinig iad an sgoil gu sàbhailte aig cóig mionaidean gu naoi.</gd>
+            <tr>It was December and it was still dark when the children left the house, but they
+              reached the school safely at five minutes to nine.</tr>
+            <ref text="617">td. 183</ref>
+          </li>
+        </xl>
+      </p>
+    </module>
+  </section>
 
 
 

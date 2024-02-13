@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>facal</h>
+    <p><g>facal</g>
+        <masc/>
+        <en>a word</en></p>
+
+    <section>
+        <h>verbs</h>
+        <module id="abair">
+            <h>abair</h>
+            <p><g><a href="?gd=facal">abair</a> ... facal</g>
+                <en>... says a word</en> – <xl>
+                    <li>
+                        <gd>Cha dubhairt e facal rium.</gd>
+                        <tr>He didn’t say a word to me.</tr>
+                        <ref text="617">td. 177</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
+    </section>
+
+
+</module>

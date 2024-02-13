@@ -542,6 +542,8 @@
                     <en>good</en></li>
                 <li><a href="?gd=moor"><g>mór</g></a>
                     <en>big, large, great</en></li>
+                <li><a href="?gd=saabhailte"><g>sàbhailte</g></a>
+                    <en>safe</en></li>
                 <li><a href="?gd=salach"><g>salach</g></a>
                     <en>dirty</en></li>
                 <li><a href="?gd=sgiith"><g>sgìth</g></a>
@@ -566,6 +568,8 @@
     <section id="verbs">
         <h>verbs</h>
         <p><ul>
+                <li><a href="?gd=abair"><g>abair</g></a>
+                    <en>say, tell</en></li>
                 <li><a href="?gd=biadh^verb"><g>biadh</g></a>
                     <en>feed</en></li>
                 <li><a href="?gd=buain"><g>buain</g></a>
