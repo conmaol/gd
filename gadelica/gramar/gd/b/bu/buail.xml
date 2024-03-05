@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>buail</h>
+    <p><g>buail</g>
+        <vb/>
+        <en>hit, strike</en></p>
+
+    <section>
+        <h>subjects</h>
+        <section id="sbj-people">
+            <h>people</h>
+            <p>Examples with second person pronouns – <xl>
+                    <li>
+                        <gd>An do bhuail thu an cù? Bhuail.</gd>
+                        <tr>Did you strike the dog? Yes, I did.</tr>
+                        <ref text="617">td. 44</ref>
+                    </li>
+                    <li>
+                        <gd>Nach do bhuail thu an cù? Cha do bhuail.</gd>
+                        <tr>Didn’t you strike the dog? No, I didn’t.</tr>
+                        <ref text="617">td. 44</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with third person pronouns – <xl>
+                    <li>
+                        <gd>An do bhuail e an gille le bata? Bhuail.</gd>
+                        <tr>Did he strike the boy with a stick? Yes, he did.</tr>
+                        <ref text="617">td. 44</ref>
+                    </li>
+                    <li>
+                        <gd>An do bhuail i an gille le cloich? Cha do bhuail.</gd>
+                        <tr>Did she strike the boy with a stone? No, she didn’t.</tr>
+                        <ref text="617">td. 44</ref>
+                    </li>
+                    <li>
+                        <gd>Cha do bhuail i an gille.</gd>
+                        <tr>She didn’t strike the boy.</tr>
+                        <ref text="617">td. 44</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>objects</h>
+        <section id="obj-people">
+            <h>people</h>
+            <p><g>buail ... <a href="?gd=gille">gille</a></g>
+                <en>... strikes a boy</en> –<xl>
+                    <li>
+                        <gd>An do bhuail e an gille le bata? Bhuail.</gd>
+                        <tr>Did he strike the boy with a stick? Yes, he did.</tr>
+                        <ref text="617">td. 44</ref>
+                    </li>
+                    <li>
+                        <gd>An do bhuail i an gille le cloich? Cha do bhuail.</gd>
+                        <tr>Did she strike the boy with a stone? No, she didn’t.</tr>
+                        <ref text="617">td. 44</ref>
+                    </li>
+                    <li>
+                        <gd>Cha do bhuail i an gille.</gd>
+                        <tr>She didn’t strike the boy.</tr>
+                        <ref text="617">td. 44</ref>
+                    </li>
+                </xl></p>
+        </section>
+        <section id="obj-animals">
+            <h>animals</h>
+            <p><g>buail ... <a href="?gd=cuu">cù</a></g>
+                <en>... strikes a dog</en> – <xl>
+                    <li>
+                        <gd>An do bhuail thu an cù? Bhuail.</gd>
+                        <tr>Did you strike the dog? Yes, I did.</tr>
+                        <ref text="617">td. 44</ref>
+                    </li>
+                    <li>
+                        <gd>Nach do bhuail thu an cù? Cha do bhuail.</gd>
+                        <tr>Didn’t you strike the dog? No, I didn’t.</tr>
+                        <ref text="617">td. 44</ref>
+                    </li>
+                </xl></p>
+        </section>
+    </section>
+
+    <section>
+        <h>instruments</h>
+        <section id="instr-things">
+            <h>things</h>
+            <p><g>buail ... le <a href="?gd=bata">bata</a></g>
+                <en>... strikes ... with a stick</en> – <xl>
+                    <li>
+                        <gd>An do bhuail e an gille le bata? Bhuail.</gd>
+                        <tr>Did he strike the boy with a stick? Yes, he did.</tr>
+                        <ref text="617">td. 44</ref>
+                    </li>
+                </xl>
+            </p>
+            <p><g>buail ... le <a href="?gd=clach">cloich</a></g>
+                <en>... strikes ... with a stone</en> – <xl>
+                    <li>
+                        <gd>An do bhuail i an gille le cloich? Cha do bhuail.</gd>
+                        <tr>Did she strike the boy with a stone? No, she didn’t.</tr>
+                        <ref text="617">td. 44</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+</module>
