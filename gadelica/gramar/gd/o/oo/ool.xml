@@ -7,10 +7,23 @@
 
     <section>
         <h>subjects</h>
-        <module id="cat">
-            <h>cat</h>
-            <p><g>òl <a href="?gd=cat">cat</a></g>
-                <en>a cat drinks</en> – <xl>
+        <section id="sbj-people">
+            <h>people</h>
+            <p>Examples with second person pronouns – <xl>
+                    <li>
+                        <gd>Nach do dh’òl thu do thì? Cha do dh’òl. Cha do chuir thu siùcar
+                            ann.</gd>
+                        <tr>Didn’t you drink your tea? No, I didn’t. You didn’t put sugar in
+                            it.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="sbj-animals">
+            <h>animals</h>
+            <p><g>òl <a href="?gd=cat">cat</a> ...</g>
+                <en>a cat drinks ...</en> – <xl>
                     <li>
                         <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
                         <tr>Did the cat drink the milk? Yes, it did.</tr>
@@ -18,35 +31,34 @@
                     </li>
                 </xl>
             </p>
-        </module>
+        </section>
     </section>
 
     <section>
         <h>objects</h>
-        <module id="bainne">
-            <h>bainne</h>
+        <section id="obj-food">
+            <h>food</h>
             <p><g>òl ... <a href="?gd=bainne">bainne</a></g>
                 <en>... drinks milk</en> – <xl>
                     <li>
-                        <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
-                        <tr>Did the cat drink the milk? Yes, it did.</tr>
-                        <ref text="617">td. 48</ref>
+                        <gd>Cha do dh’òl an cat am bainne.</gd>
+                        <tr>The cat didn’t drink the milk.</tr>
+                        <ref text="617">td. 48 [adapted]</ref>
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="tii">
-            <h>tì</h>
             <p><g>òl ... <a href="?gd=tii">tì</a></g>
                 <en>... drinks tea</en> – <xl>
                     <li>
-                        <gd>Nach do dh’òl thu do thì? Cha do dh’òl. Cha do chuir thu siùcar ann.</gd>
-                        <tr>Didn’t you drink your tea? No, I didn’t. You didn’t put sugar in it.</tr>
+                        <gd>Nach do dh’òl thu do thì? Cha do dh’òl. Cha do chuir thu siùcar
+                            ann.</gd>
+                        <tr>Didn’t you drink your tea? No, I didn’t. You didn’t put sugar in
+                            it.</tr>
                         <ref text="617">td. 48</ref>
                     </li>
                 </xl>
             </p>
-        </module>
+        </section>
     </section>
 
 </module>

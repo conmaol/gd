@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <h>bata</h>
+    <p><g>bata</g>
+        <masc/>
+        <en>a stick</en></p>
+    
+    <p><g><a href="?gd=buail">buail</a> ... le bata</g>
+        <en>... strikes ... with a stick</en> – <xl>
+            <li>
+                <gd>An do bhuail e an gille le bata? Bhuail.</gd>
+                <tr>Did he strike the boy with a stick? Yes, he did.</tr>
+                <ref text="617">td. 44</ref>
+            </li>
+        </xl>
+    </p>
+    
+</module>
+

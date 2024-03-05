@@ -64,6 +64,19 @@
                 </xl>
             </p>
         </module>
+        
+        <module id="buail">
+            <h>buail</h>
+            <p><g><a href="?gd=buail">buail</a> ... le cloich</g>
+                <en>... strikes ... with a stone</en> – <xl>
+                    <li>
+                        <gd>An do bhuail i an gille le cloich? Cha do bhuail.</gd>
+                        <tr>Did she strike the boy with a stone? No, she didn’t.</tr>
+                        <ref text="617">td. 44</ref>
+                    </li>
+                </xl>
+            </p>
+        </module>
     </section>
 
 

@@ -7,54 +7,98 @@
         <en>leave</en></p>
 
     <section>
-        <h>subjects</h>
-        <module id="clann">
-            <h>clann</h>
-            <p><g>fàg <a href="?gd=clann">clann</a> ...</g>
-                <en>children leave ...</en> – <xl>
-                    <li>
-                        <gd>’S e an Dùdlachd a bha ann agus bha e fhathast dorcha nuair a dh’fhàg a’
-                            chlann an taigh.</gd>
-                        <tr>It was December and it was still dark when the children left the
-                            house.</tr>
-                        <ref text="617">td. 183</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section>
-        <h>objects</h>
-        <module id="taigh">
-            <h>taigh</h>
-            <p><g>fàg ... <a href="?gd=taigh">taigh</a></g>
-                <en>... leaves a house</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Dh’ fhàg iad an taigh
-                            tràth anns a’ mhadainn.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] They left home early in
-                            the morning.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                    <li>
-                        <gd>Bha an latha fuar agus cha do dh’fhàg sinn an taigh.</gd>
-                        <tr>The day was cold and we didn’t leave the house.</tr>
-                        <ref text="617">td. 238</ref>
-                    </li>
-                    <li>
-                        <gd>’S e an Dùdlachd a bha ann agus bha e fhathast dorcha nuair a dh’fhàg a’
-                            chlann an taigh.</gd>
-                        <tr>It was December and it was still dark when the children left the
-                            house.</tr>
-                        <ref text="617">td. 183</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section>
+        <h>intransitive</h>
+        <p><g>fàg</g> can be used as a (pseudo-)intransitive verb expressing ‘departure’ from inside
+            a place – <xl>
+                <li>
+                    <gd>Dh’fhàg a’ chaileag an eaglais.</gd>
+                    <tr>The girl left the church.</tr>
+                    <ref text=""/>
+                </li>
+            </xl>
+        </p>
+        <section id="intr-sbj">
+            <h>subjects</h>
+            <section>
+                <h>people</h>
+                <p>Common nouns – <ul>
+                        <li><g>fàg <a href="?gd=clann">clann</a> ...</g>
+                            <en>children leave ...</en> – <xl>
+                                <li>
+                                    <gd>’S e an Dùdlachd a bha ann agus bha e fhathast dorcha nuair
+                                        a dh’fhàg a’ chlann an taigh.</gd>
+                                    <tr>It was December and it was still dark when the children left
+                                        the house.</tr>
+                                    <ref text="617">td. 183</ref>
+                                </li>
+                            </xl></li>
+                    </ul>
+                </p>
+                <p>Other examples – <ul>
+                        <li>proper nouns – <xl>
+                                <li>
+                                    <gd>Nach do dh’fhàg Màiri an taigh? Dh’fhàg.</gd>
+                                    <tr>Didn’t Mary leave the house? Yes, she did.</tr>
+                                    <ref text="617">td. 44</ref>
+                                </li>
+                            </xl></li>
+                        <li>first person pronouns – <xl>
+                                <li>
+                                    <gd>Bha an latha fuar agus cha do dh’fhàg sinn an taigh.</gd>
+                                    <tr>The day was cold and we didn’t leave the house.</tr>
+                                    <ref text="617">td. 238</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>third person pronouns – <xl>
+                                <li>
+                                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Dh’ fhàg
+                                        iad an taigh tràth anns a’ mhadainn.</gd>
+                                    <tr>Mary and James were on the moor yesterday. [...] They left
+                                        home early in the morning.</tr>
+                                    <ref text="617">td. 76</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </section>
+        </section>
+        <section id="intr-obj">
+            <h>objects</h>
+            <section>
+                <h>buildings</h>
+                <p><g>fàg ... <a href="?gd=taigh">taigh</a></g>
+                    <en>... leaves a house</en> – <xl>
+                        <li>
+                            <gd>Nach do dh’fhàg Màiri an taigh? Dh’fhàg.</gd>
+                            <tr>Didn’t Mary leave the house? Yes, she did.</tr>
+                            <ref text="617">td. 44</ref>
+                        </li>
+                        <li>
+                            <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Dh’ fhàg iad an
+                                taigh tràth anns a’ mhadainn.</gd>
+                            <tr>Mary and James were on the moor yesterday. [...] They left home
+                                early in the morning.</tr>
+                            <ref text="617">td. 76</ref>
+                        </li>
+                        <li>
+                            <gd>Bha an latha fuar agus cha do dh’fhàg sinn an taigh.</gd>
+                            <tr>The day was cold and we didn’t leave the house.</tr>
+                            <ref text="617">td. 238</ref>
+                        </li>
+                        <li>
+                            <gd>’S e an Dùdlachd a bha ann agus bha e fhathast dorcha nuair a
+                                dh’fhàg a’ chlann an taigh.</gd>
+                            <tr>It was December and it was still dark when the children left the
+                                house.</tr>
+                            <ref text="617">td. 183</ref>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+        </section>
+        <!--<section>
         <h>times</h>
         <section>
             <h>nouns</h>
@@ -90,14 +134,69 @@
                 </p>
             </module>
         </section>
+    </section>-->
     </section>
 
     <section>
-        <h>causatives</h>
-        <section>
+        <h>transitive</h>
+        <p><g>fàg</g> can also be used as a (proper) transitive verb expressing ‘abandonment’ of
+            something or someone somewhere – <xl>
+                <li>
+                    <gd>Dh’fhàg a’ chaileag a Bìobull anns an eaglais.</gd>
+                    <tr>The girl left her Bible in the church.</tr>
+                    <ref text=""/>
+                </li>
+            </xl>
+        </p>
+        <section id="trans-sbj">
+            <h>subjects</h>
+            <section>
+                <h>people</h>
+                <p>Some examples – <ul>
+                        <li>proper nouns – <xl>
+                                <li>
+                                    <gd>An do dh’fhàg Calum an cù aig an taigh? Dh’fhàg.</gd>
+                                    <tr>Did Malcolm leave the dog at the house? Yes, he did.</tr>
+                                    <ref text="617">td. 47</ref>
+                                </li>
+                            </xl>
+                        </li>
+                        <li>first and second person pronouns – <xl>
+                                <li>
+                                    <gd>Dh’fhàg mi mo leabhar anns an sgoil.</gd>
+                                    <tr>I left my book in the school.</tr>
+                                    <ref text="617">td. 47</ref>
+                                </li>
+                                <li>
+                                    <gd>An do dh’fhàg thu do leabhar anns an sgoil? Cha do dh’fhàg.
+                                        Càit an do dh’fhàg thu do leabhar? Dh’fhàg mi mo leabhar air
+                                        a bhòrd.</gd>
+                                    <tr>Did you leave your book in the school? No, I didn’t. Where
+                                        did you leave your book? I left my book on the table.</tr>
+                                    <ref text="617">td. 48</ref>
+                                </li>
+                            </xl>
+                        </li>
+                    </ul>
+                </p>
+            </section>
+        </section>
+        <section id="trans-obj">
             <h>objects</h>
-            <module id="leabhar">
-                <h>leabhar</h>
+            <section>
+                <h>animals</h>
+                <p><g>fàg ... <a href="?gd=cuu">cù</a> ...</g>
+                    <en>... leaves a dog ...</en> – <xl>
+                        <li>
+                            <gd>An do dh’fhàg Calum an cù aig an taigh? Dh’fhàg.</gd>
+                            <tr>Did Malcolm leave the dog at the house? Yes, he did.</tr>
+                            <ref text="617">td. 47</ref>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+            <section>
+                <h>artifacts</h>
                 <p><g>fàg ... <a href="?gd=leabhar">leabhar</a> ...</g>
                     <en>... leaves a book ...</en> – <xl>
                         <li>
@@ -114,11 +213,14 @@
                         </li>
                     </xl>
                 </p>
-            </module>
-            <module id="cuu">
-                <h>cù</h>
-                <p><g>fàg ... <a href="?gd=cuu">cù</a> ...</g>
-                    <en>... leaves a dog ...</en> – <xl>
+            </section>
+        </section>
+        <section id="trans-loc">
+            <h>locatives</h>
+            <section>
+                <h>buildings</h>
+                <p><g>fàg ... aig <a href="?gd=taigh">taigh</a> ...</g>
+                    <en>... leaves ... at a house</en> – <xl>
                         <li>
                             <gd>An do dh’fhàg Calum an cù aig an taigh? Dh’fhàg.</gd>
                             <tr>Did Malcolm leave the dog at the house? Yes, he did.</tr>
@@ -126,24 +228,6 @@
                         </li>
                     </xl>
                 </p>
-            </module>
-            <module id="dorus">
-                <h>dorus</h>
-                <p><g>fàg ... <a href="?gd=dorus">dorus</a> ...</g>
-                    <en>... leaves a door ...</en> – <xl>
-                        <li>
-                            <gd>Dh’fhàg Màiri an dorus fosgailte.</gd>
-                            <tr>Mary left the door open.</tr>
-                            <ref text="617">td. 237</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
-        <section>
-            <h>locations</h>
-            <module id="sgoil">
-                <h>sgoil</h>
                 <p><g>fàg ... ann an <a href="?gd=sgoil">sgoil</a> ...</g>
                     <en>... leaves ... in a school</en> – <xl>
                         <li>
@@ -160,39 +244,70 @@
                         </li>
                     </xl>
                 </p>
-            </module>
-            <module id="taigh-loc">
-                <h>taigh</h>
-                <p><g>fàg ... aig <a href="?gd=taigh">taigh</a> ...</g>
-                    <en>... leaves ... at a house</en> – <xl>
-                        <li>
-                            <gd>An do dh’fhàg Calum an cù aig an taigh? Dh’fhàg.</gd>
-                            <tr>Did Malcolm leave the dog at the house? Yes, he did.</tr>
-                            <ref text="617">td. 47</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-            <module id="boord">
-                <h>bòrd</h>
+            </section>
+            <section>
+                <h>furniture</h>
                 <p><g>fàg ... air <a href="?gd=boord">bòrd</a> ...</g>
                     <en>... leaves ... on a table</en> – <xl>
                         <li>
                             <gd>An do dh’fhàg thu do leabhar anns an sgoil? Cha do dh’fhàg. Càit an
-                                do dh’fhàg thu do leabhar? Dh’fhàg mi mo leabhar air a bhòrd.</gd>
+                                do dh’fhàg thu do leabhar? Dh’fhàg mi mo leabhar air a’ bhòrd.</gd>
                             <tr>Did you leave your book in the school? No, I didn’t. Where did you
                                 leave your book? I left my book on the table.</tr>
                             <ref text="617">td. 48</ref>
                         </li>
                     </xl>
                 </p>
-            </module>
+            </section>
         </section>
+
         <section>
-            <h>adjectives</h>
-            <module id="fosgail">
-                <h>fosgail</h>
-                <p><g>fàg ... <a href="?gd=fosgail">fosgailte</a> ...</g>
+            <h>abstract</h>
+            <p>The (proper) transitive use of <g>fàg</g> can be extended to express the more
+                abstract notion of something or someone being left to remain in some state,
+                typically using an adjective – <xl>
+                    <li>
+                        <gd>Dh’fhàg a’ chaileag uinneag fosgailte.</gd>
+                        <tr>The girl left a window open.</tr>
+                        <ref text=""/>
+                    </li>
+                </xl>
+            </p>
+            <section id="trans-abstr-sbj">
+                <h>subjects</h>
+                <section>
+                    <h>people</h>
+                    <p>Some examples – <ul>
+                            <li>proper nouns – <xl>
+                                    <li>
+                                        <gd>Dh’fhàg Màiri an dorus fosgailte.</gd>
+                                        <tr>Mary left the door open.</tr>
+                                        <ref text="617">td. 237</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
+                    </p>
+                </section>
+            </section>
+            <section id="trans-abstr-obj">
+                <h>objects</h>
+                <section>
+                    <h>things</h>
+                    <p><g>fàg ... <a href="?gd=dorus">dorus</a> ...</g>
+                        <en>... leaves a door ...</en> – <xl>
+                            <li>
+                                <gd>Dh’fhàg Màiri an dorus fosgailte.</gd>
+                                <tr>Mary left the door open.</tr>
+                                <ref text="617">td. 237</ref>
+                            </li>
+                        </xl>
+                    </p>
+                </section>
+            </section>
+            <section id="trans-abs-adj">
+                <h>adjectives</h>
+                <p><g>fàg ... <a href="?gd=fosgail">fosgailte</a></g>
                     <en>... leaves ... open</en> – <xl>
                         <li>
                             <gd>Dh’fhàg Màiri an dorus fosgailte.</gd>
@@ -201,18 +316,9 @@
                         </li>
                     </xl>
                 </p>
-            </module>
+            </section>
         </section>
     </section>
-
-
-
-
-
-
-
-
-
 
 </module>
 <!--<module>

@@ -218,6 +218,23 @@
                     </xl>
                 </p>
             </module>
+            <module id="buail">
+                <h>buail</h>
+                <p><g><a href="?gd=buail">buail</a> ... cù</g>
+                    <en>... strikes a dog</en> – <xl>
+                        <li>
+                            <gd>An do bhuail thu an cù? Bhuail.</gd>
+                            <tr>Did you strike the dog? Yes, I did.</tr>
+                            <ref text="617">td. 44</ref>
+                        </li>
+                        <li>
+                            <gd>Nach do bhuail thu an cù? Cha do bhuail.</gd>
+                            <tr>Didn’t you strike the dog? No, I didn’t.</tr>
+                            <ref text="617">td. 44</ref>
+                        </li>
+                    </xl>
+                </p>
+            </module>
         </section>
         <section>
             <h>comitative</h>
