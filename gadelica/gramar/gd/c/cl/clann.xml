@@ -6,80 +6,71 @@
         <en>children</en></p>
 
     <section>
-        <h>nouns</h>
-        <module id="athair">
-            <h>athair</h>
-            <p><g><a href="?gd=athair">athair</a> cloinne</g>
-                <en>a father of children</en> – <xl>
+        <h>verbs</h>
+        <section id="verbs-sbj">
+            <h>subject</h>
+            <p><g><a href="?gd=faag">fàg</a> clann ...</g>
+                <en>children leave ...</en> – <xl>
                     <li>
-                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
-                            mhadainn.</gd>
-                        <tr>The children’s father and mother rose at six o’ clock in the
-                            morning.</tr>
+                        <gd>’S e an Dùdlachd a bha ann agus bha e fhathast dorcha nuair a dh’fhàg a’
+                            chlann an taigh.</gd>
+                        <tr>It was December and it was still dark when the children left the
+                            house.</tr>
                         <ref text="617">td. 183</ref>
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="maathair">
-            <h>màthair</h>
-            <p><g><a href="?gd=maathair">màthair</a> cloinne</g>
-                <en>a mother of children</en> – <xl>
+            <p><g><a href="?gd=snaamh">snàmh</a> clann</g>
+                <en>children swim</en> – <xl>
                     <li>
-                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
-                            mhadainn.</gd>
-                        <tr>The children’s father and mother rose at six o’ clock in the
-                            morning.</tr>
-                        <ref text="617">td. 183</ref>
+                        <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
+                        <tr>I saw children swimming in the sea.</tr>
+                        <ref text="617">td. 21</ref>
                     </li>
-                </xl>
-            </p>
-        </module>
+                </xl></p>
+        </section>
+        <section id="verbs-obj">
+            <h>object</h>
+            <p><g><a href="?gd=faic">faic</a> ... clann</g>
+                <en>sees children</en> – <xl>
+                    <li>
+                        <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
+                        <tr>I saw children swimming in the sea.</tr>
+                        <ref text="617">td. 21</ref>
+                    </li>
+                </xl></p>
+        </section>
     </section>
 
     <section>
-        <h>verbs</h>
-        <section>
-            <h>subject</h>
-            <module id="faag">
-                <h>fàg</h>
-                <p><g><a href="?gd=faag">fàg</a> clann ...</g>
-                    <en>children leave ...</en> – <xl>
+        <h>nouns</h>
+        <section id="nouns-spr">
+            <h>specifier</h>
+            <section>
+                <h>people</h>
+                <p><g><a href="?gd=athair">athair</a> cloinne</g>
+                    <en>a father of children</en> – <xl>
                         <li>
-                            <gd>’S e an Dùdlachd a bha ann agus bha e fhathast dorcha nuair a
-                                dh’fhàg a’ chlann an taigh.</gd>
-                            <tr>It was December and it was still dark when the children left the
-                                house.</tr>
+                            <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean
+                                sa’ mhadainn.</gd>
+                            <tr>The children’s father and mother rose at six o’ clock in the
+                                morning.</tr>
                             <ref text="617">td. 183</ref>
                         </li>
                     </xl>
                 </p>
-            </module>
-            <module id="snaamh">
-                <h>snàmh</h>
-                <p><g><a href="?gd=snaamh">snàmh</a> clann</g>
-                    <en>children swim</en> – <xl>
+                <p><g><a href="?gd=maathair">màthair</a> cloinne</g>
+                    <en>a mother of children</en> – <xl>
                         <li>
-                            <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
-                            <tr>I saw children swimming in the sea.</tr>
-                            <ref text="617">td. 21</ref>
+                            <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean
+                                sa’ mhadainn.</gd>
+                            <tr>The children’s father and mother rose at six o’ clock in the
+                                morning.</tr>
+                            <ref text="617">td. 183</ref>
                         </li>
-                    </xl></p>
-            </module>
-        </section>
-        <section>
-            <h>object</h>
-            <module id="faic">
-                <h>faic</h>
-                <p><g><a href="?gd=faic">faic</a> ... clann</g>
-                    <en>sees children</en> – <xl>
-                        <li>
-                            <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
-                            <tr>I saw children swimming in the sea.</tr>
-                            <ref text="617">td. 21</ref>
-                        </li>
-                    </xl></p>
-            </module>
+                    </xl>
+                </p>
+            </section>
         </section>
     </section>
 

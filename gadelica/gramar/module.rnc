@@ -17,7 +17,7 @@ Section = element section {
 # TEXT
 TextContent = (
      text
-  |  element g { TextContent+ } # Gaelic term (bold, indexed)
+  |  element g { attribute href { xsd:anyURI }? , TextContent+ } # Gaelic term (bold, indexed)
   |  element m { TextContent+ } # highlight
   |  element emph { TextContent+ }
   |  element a { attribute href { xsd:anyURI } , TextContent+ }

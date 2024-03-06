@@ -9,7 +9,7 @@
         <h>subjects</h>
         <section id="sbj-people">
             <h>people</h>
-            <p>Examples with second person pronouns – <xl>
+            <p>Examples with first and second person pronouns – <xl>
                     <li>
                         <gd>An do bhuail thu an cù? Bhuail.</gd>
                         <tr>Did you strike the dog? Yes, I did.</tr>
@@ -85,7 +85,7 @@
     </section>
 
     <section>
-        <h>instruments</h>
+        <h>instrumentals</h>
         <section id="instr-things">
             <h>things</h>
             <p><g>buail ... le <a href="?gd=bata">bata</a></g>

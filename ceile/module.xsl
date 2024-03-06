@@ -141,6 +141,13 @@
     </mark>
   </xsl:template>
 
+  <xsl:template match="g[@href]">
+    <a href="{@href}">
+      <strong>
+        <xsl:apply-templates/>
+      </strong>
+    </a>
+  </xsl:template>
   <xsl:template match="g">
     <strong>
       <xsl:apply-templates/>
@@ -190,10 +197,20 @@
     </span>
   </xsl:template>
 
+  <xsl:template match="module/p[1]/masc">
+    <a href="?xx=nouns/nouns">
+      <em>masc.</em>
+    </a>
+  </xsl:template>
   <xsl:template match="masc">
     <em>masc.</em>
   </xsl:template>
 
+  <xsl:template match="module/p[1]/fem">
+    <a href="?xx=nouns/nouns">
+      <em>fem.</em>
+    </a>
+  </xsl:template>
   <xsl:template match="fem">
     <em>fem.</em>
   </xsl:template>
@@ -206,6 +223,11 @@
     <em>adv.</em>
   </xsl:template>
 
+  <xsl:template match="module/p[1]/vb">
+    <a href="?xx=verbs/verbs">
+      <em>vb.</em>
+    </a>
+  </xsl:template>
   <xsl:template match="vb">
     <em>vb.</em>
   </xsl:template>
