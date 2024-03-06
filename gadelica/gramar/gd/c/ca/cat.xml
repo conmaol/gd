@@ -1,87 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>cat</h>
-    <p><g>cat</g> <masc/>
+    <p><g>cat</g>
+        <masc/>
         <en>a cat</en></p>
 
     <section>
         <h>adjectives</h>
-        <module id="beag">
-            <h>beag</h>
-            <p><g>cat <a href="?gd=beag">beag</a></g>
-                <en>a little cat</en> – <xl>
+        <section id="adj-sbj">
+            <h>subject</h>
+            <section id="adj-sbj-size">
+                <h>size</h>
+                <p><g>cat <a href="?gd=beag">beag</a></g>
+                    <en>a little cat</en> – <xl>
+                        <li>
+                            <gd>Tha an cat beag bàn aig an teine.</gd>
+                            <tr>The little white cat is by the fire.</tr>
+                            <ref text="617">td. 9</ref>
+                        </li>
+                        <li>
+                            <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
+                            <tr>Malcolm has a big black dog but Mary has a beautiful little
+                                cat.</tr>
+                            <ref text="617">td. 25</ref>
+                        </li>
+                    </xl></p>
+                <p><g>cat <a href="?gd=moor">mór</a></g>
+                    <en>a big cat</en> – <xl>
+                        <li>
+                            <gd>A bheil an cat mór? Chan eil.</gd>
+                            <tr>Is the cat big? No, it isn’t.</tr>
+                            <ref text="617">td. 15</ref>
+                        </li>
+                    </xl></p>
+            </section>
+            <section id="adj-sbj-colour">
+                <h>colour</h>
+                <p><g>cat <a href="?gd=baan">bàn</a></g>
+                    <en>a white cat</en> – <xl>
+                        <li>
+                            <gd>Tha an cat bàn.</gd>
+                            <tr>The cat is white.</tr>
+                            <ref text="617">td. 6</ref>
+                        </li>
+                        <li>
+                            <gd>Tha an cat beag bàn aig an teine.</gd>
+                            <tr>The little white cat is by the fire.</tr>
+                            <ref text="617">td. 9</ref>
+                        </li>
+                        <li>
+                            <gd>Càit a bheil an cat bàn an diugh?</gd>
+                            <tr>Where is the white cat today?</tr>
+                            <ref text="617">td. 14</ref>
+                        </li>
+                        <li>
+                            <gd>Tha cù dubh aig Calum ach tha cat bàn aig Seònaid.</gd>
+                            <tr>Malcolm has a black dog but Janet has a white cat.</tr>
+                            <ref text="617">td. 23</ref>
+                        </li>
+                        <li>
+                            <gd>Seo an cat bàn.</gd>
+                            <tr>This is the white cat.</tr>
+                            <ref text="617">232</ref>
+                        </li>
+                    </xl></p>
+            </section>
+            <section id="adj-sbj-other">
+                <h>other</h>
+                <p><g>cat <a href="?gd=booidheach">bòidheach</a></g>
+                    <en>a pretty cat</en> – <xl>
+                        <li>
+                            <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
+                            <tr>Malcolm has a big black dog but Mary has a pretty little cat.</tr>
+                            <ref text="617">td. 25</ref>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+        </section>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <section id="verbs-sbj">
+            <h>subject</h>
+            <p><g><a href="?gd=ool">òl</a> cat ...</g>
+                <en>a cat drinks ...</en> – <xl>
                     <li>
-                        <gd>Tha an cat beag bàn aig an teine.</gd>
-                        <tr>The little white cat is by the fire.</tr>
-                        <ref text="617">td. 9</ref>
-                    </li>
-                    <li>
-                        <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
-                        <tr>Malcolm has a big black dog but Mary has a beautiful little cat.</tr>
-                        <ref text="617">td. 25</ref>
-                    </li>
-                </xl></p>
-        </module>
-        <module id="moor">
-            <h>mór</h>
-            <p><g>cat <a href="?gd=moor">mór</a></g>
-                <en>a big cat</en> – <xl>
-                    <li>
-                        <gd>A bheil an cat mór? Chan eil.</gd>
-                        <tr>Is the cat big? No, it isn’t.</tr>
-                        <ref text="617">td. 15</ref>
-                    </li>
-                </xl></p>
-        </module>
-        <module id="baan">
-            <h>bàn</h>
-            <p><g>cat <a href="?gd=baan">bàn</a></g>
-                <en>a white cat</en> – <xl>
-                    <li>
-                        <gd>Tha an cat bàn.</gd>
-                        <tr>The cat is white.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                    <li>
-                        <gd>Tha an cat beag bàn aig an teine.</gd>
-                        <tr>The little white cat is by the fire.</tr>
-                        <ref text="617">td. 9</ref>
-                    </li>
-                    <li>
-                        <gd>Càit a bheil an cat bàn an diugh?</gd>
-                        <tr>Where is the white cat today?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>Tha cù dubh aig Calum ach tha cat bàn aig Seònaid.</gd>
-                        <tr>Malcolm has a black dog but Janet has a white cat.</tr>
-                        <ref text="617">td. 23</ref>
-                    </li>
-                    <li>
-                        <gd>Seo an cat bàn.</gd>
-                        <tr>This is the white cat.</tr>
-                        <ref text="617">232</ref>
-                    </li>
-                </xl></p>
-        </module>
-        <module id="booidheach">
-            <h>bòidheach</h>
-            <p><g>cat <a href="?gd=booidheach">bòidheach</a></g>
-                <en>a pretty cat</en> – <xl>
-                    <li>
-                        <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
-                        <tr>Malcolm has a big black dog but Mary has a pretty little cat.</tr>
-                        <ref text="617">td. 25</ref>
+                        <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
+                        <tr>Did the cat drink the milk? Yes, it did.</tr>
+                        <ref text="617">td. 48</ref>
                     </li>
                 </xl>
             </p>
-        </module>
+            <p><g><a href="?gd=cluich">cluich</a> cat</g>
+                <en>a cat plays</en> – <xl>
+                    <li>
+                        <gd>A bheil an cat a’ cluich còmhla ri Seònaid air an làr? Tha.</gd>
+                        <tr>Is the cat playing with Janet on the floor? Yes, he is.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl></p>
+        </section>
     </section>
 
     <section>
         <h>nouns</h>
-        <module id="teine">
-            <h>teine</h>
+        <section id="nouns-sbj">
+            <h>subject</h>
             <p><g>cat aig <a href="?gd=teine">teine</a></g>
                 <en>a cat at/by a fire</en>– <xl>
                     <li>
@@ -91,9 +117,6 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="poca">
-            <h>poca</h>
             <p><g>cat ann am <a href="?gd=poca">poca</a></g>
                 <en>a cat in a sack</en> – <xl>
                     <li>
@@ -103,29 +126,11 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="bainne">
-            <h>bainne</h>
-            <p><g>òl cat <a href="?gd=bainne">bainne</a></g>
-                <en>a cat drinks milk</en> – <xl>
-                    <li>
-                        <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
-                        <tr>Did the cat drink the milk? Yes, it did.</tr>
-                        <ref text="617">td. 48</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section>
-        <h>verbs</h>        
-        <section>
-            <h>subjects</h>
-            <module id="ool">
-                <h>òl</h>
-                <p><g><a href="?gd=ool">òl</a> cat</g>
-                    <en>a cat drinks</en> – <xl>
+        </section>
+        <section id="nouns-coord">
+            <h>coordinate</h>
+                <p><g>òl cat <a href="?gd=bainne">bainne</a></g>
+                    <en>a cat drinks milk</en> – <xl>
                         <li>
                             <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
                             <tr>Did the cat drink the milk? Yes, it did.</tr>
@@ -133,20 +138,10 @@
                         </li>
                     </xl>
                 </p>
-            </module>
-            <module id="cluich">
-                <h>cluich</h>
-                <p><g><a href="?gd=cluich">cluich</a> cat</g>
-                    <en>a cat plays</en> – <xl>
-                        <li>
-                            <gd>A bheil an cat a’ cluich còmhla ri Seònaid air an làr? Tha.</gd>
-                            <tr>Is the cat playing with Janet on the floor? Yes, he is.</tr>
-                            <ref text="617">td. 14</ref>
-                        </li>
-                    </xl></p>
-            </module>
         </section>
     </section>
+
+
 
     <!-- <p>Examples of <g>cat</g> as the subject of a demonstrative pronoun used as a copular verb – <ul>
             <li>pre-specified – <ul>
