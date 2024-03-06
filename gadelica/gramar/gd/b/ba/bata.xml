@@ -5,15 +5,21 @@
         <masc/>
         <en>a stick</en></p>
     
-    <p><g><a href="?gd=buail">buail</a> ... le bata</g>
-        <en>... strikes ... with a stick</en> – <xl>
-            <li>
-                <gd>An do bhuail e an gille le bata? Bhuail.</gd>
-                <tr>Did he strike the boy with a stick? Yes, he did.</tr>
-                <ref text="617">td. 44</ref>
-            </li>
-        </xl>
-    </p>
-    
+    <section>
+        <h>verbs</h>
+        <section id="verbs-instr">
+            <h>instrumental</h>
+            <p><g><a href="?gd=buail">buail</a> ... le bata</g>
+                <en>... strikes ... with a stick</en> – <xl>
+                    <li>
+                        <gd>An do bhuail e an gille le bata? Bhuail.</gd>
+                        <tr>Did he strike the boy with a stick? Yes, he did.</tr>
+                        <ref text="617">td. 44</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
 </module>
 
