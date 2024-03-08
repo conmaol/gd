@@ -6,208 +6,181 @@
         <en>a house</en>.</p>
 
     <section>
-        <h>states</h>
-        <section>
-            <h>subject / figure</h>
-            <section id="states-props">
-                <h>properties</h>
-                <section id="states-props-size">
-                    <h>size</h>
-                    <p><g>taigh <a href="?gd=moor">mór</a></g>
-                        <en>a big house</en> – <xl>
-                            <li>
-                                <gd>Tha taigh mór air a’ chnoc.</gd>
-                                <tr>There is a big house on the hill.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                            <li>
-                                <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc
-                                    àrd.</gd>
-                                <tr>Where is the big house? The big house is on the tall hill.</tr>
-                                <ref text="617">td. 21 [229]</ref>
-                            </li>
-                        </xl></p>
-                </section>
-                <section id="states-props-colour">
-                    <h>colour</h>
-                    <p><g>taigh <a href="?gd=geal">geal</a></g>
-                        <en>a white house</en> – <xl>
-                            <li>
-                                <gd>Cha b’ann geal a bha an taigh.</gd>
-                                <tr>The house was not white.</tr>
-                                <ref text="617">td. 33</ref>
-                            </li>
-                        </xl></p>
-                </section>
-            </section>
-            <section id="states-locs">
-                <h>locations</h>
-                <p><g>taigh air <a href="?gd=cnoc">cnoc</a></g>
-                    <en>a house on a hill</en>
-                    <xl>
-                        <li>
-                            <gd>Tha taigh mór air a’ chnoc.</gd>
-                            <tr>There is a big house on the hill.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                        <li>
-                            <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc àrd.</gd>
-                            <tr>Where is the big house? The big house is on the tall hill.</tr>
-                            <ref text="617">td. 21 [229]</ref>
-                        </li>
-                    </xl>
-                </p>
-            </section>
-        </section>
-        <section>
-            <h>ground</h>
-            <p><g><a href="?gd=cat">cat</a> ann an taigh</g>
-                <en>a cat in a house</en> – <xl>
+        <h>adjectives</h>
+        <section id="adjectives-size">
+            <h>size</h>
+            <p><g>taigh <a href="?gd=moor">mór</a></g>
+                <en>a big house</en> – <xl>
                     <li>
-                        <gd>A bheil an cat anns an taigh còmhla ri Seònaid?</gd>
-                        <tr>Is the cat in the house with Janet?</tr>
-                        <ref text="617">td. 15 [227]</ref>
+                        <gd>Tha taigh mór air a’ chnoc.</gd>
+                        <tr>There is a big house on the hill.</tr>
+                        <ref text="617">td. 20</ref>
                     </li>
-                </xl>
-            </p>
-            <p><g><a href="?gd=cuu">cù</a> aig taigh</g>
-                <en>a dog at a house</en> – <xl>
                     <li>
-                        <gd>An do dh’fhàg Calum an cù aig an taigh? Dh’fhàg.</gd>
-                        <tr>Did Malcolm leave the dog at the house? Yes, he did.</tr>
-                        <ref text="617">td. 47</ref>
+                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc àrd.</gd>
+                        <tr>Where is the big house? The big house is on the tall hill.</tr>
+                        <ref text="617">td. 21 [229]</ref>
                     </li>
-                </xl>
-            </p>
+                </xl></p>
         </section>
-        
-    </section>
-
-    <section>
-        <h>verbs</h>
-        <section id="verbs-loc">
-            <h>locative</h>
-            <section id="verbs-loc-all">
-                <h>allative</h>
-                <p><g><a href="?gd=ruig">ruig</a> taigh</g>
-                    <en>... reaches a house</en> – <xl>
-                        <li>
-                            <gd>Bha mi sgìth nuair a ràinig mi an taigh.</gd>
-                            <tr>I was tired when I arrived home.</tr>
-                            <ref text="617">td. 21</ref>
-                        </li>
-                        <li>
-                            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
-                                e mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir
-                                Calum clach air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil
-                                analach. [...] An ceann greise dh’éirich Calum ’na sheasamh agus
-                                thearnaich e a’ bheinn air a shocair. Chòrd an latha gu math ris ach
-                                bha an t-acras mór air nuair a ràinig e an taigh.</gd>
-                            <tr>Malcolm was tired walking on the moor, but at last he reached the
-                                top of the mountain. There was a cairn of stones on the top of the
-                                mountain. Calum put a stone onto the cairn and he sat down beside
-                                the cairn having a rest. [...] After a while Malcolm rose up and he
-                                descended the mountain leisurely. He enjoyed the day well but he was
-                                very hungry when he reached the house.</tr>
-                            <ref text="617">td. 146</ref>
-                        </li>
-                    </xl></p>
-            </section>
-            <section id="verbs-loc-abl">
-                <h>ablative</h>
-                <p><g><a href="?gd=faag">fàg</a> taigh</g>
-                    <en>... leaves a house</en> – <xl>
-                        <li>
-                            <gd>Nach do dh’fhàg Màiri an taigh? Dh’fhàg.</gd>
-                            <tr>Didn’t Mary leave the house? Yes, she did.</tr>
-                            <ref text="617">td. 44</ref>
-                        </li>
-                        <li>
-                            <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Dh’ fhàg iad an
-                                taigh tràth anns a’ mhadainn.</gd>
-                            <tr>Mary and James were on the moor yesterday. [...] They left home
-                                early in the morning.</tr>
-                            <ref text="617">td. 76</ref>
-                        </li>
-                        <li>
-                            <gd>Bha an latha fuar agus cha do dh’fhàg sinn an taigh.</gd>
-                            <tr>The day was cold and we didn’t leave the house.</tr>
-                            <ref text="617">td. 238</ref>
-                        </li>
-                        <li>
-                            <gd>’S e an Dùdlachd a bha ann agus bha e fhathast dorcha nuair a
-                                dh’fhàg a’ chlann an taigh.</gd>
-                            <tr>It was December and it was still dark when the children left the
-                                house.</tr>
-                            <ref text="617">td. 183</ref>
-                        </li>
-                    </xl>
-                </p>
-            </section>
-            <section id="verbs-loc-iness">
-                <h>inessive</h>
-                <p><g><a href="?gd=cluich">cluich</a> ann an taigh</g>
-                    <en>... plays in a house</en> – <xl>
-                        <li>
-                            <gd>Cha robh sinn a’ cluich anns an taigh.</gd>
-                            <tr>We were not playing in the house.</tr>
-                            <ref text="617">td. 21 [230]</ref>
-                        </li>
-                    </xl></p>
-                <p><g><a href="?gd=obair">obair</a> thighe</g>
-                    <en>housework</en> – <xl>
-                        <li>
-                            <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean
-                                sa’ mhadainn. Thòisich am màthair air obair an taighe aig fichead
-                                mionaid an déidh sia, agus chaidh an athair a mach a bhiadhadh a’
-                                chrùidh aig leth-uair an déidh sia.</gd>
-                            <tr>The children’s father and mother rose at six o’ clock in the
-                                morning. Their mother started on the housework at twenty minutes
-                                past six, and their father went out to feed the cattle at half past
-                                six.</tr>
-                            <ref text="617">td. 183</ref>
-                        </li>
-                    </xl>
-                </p>
-            </section>
-            <section id="verbs-loc-adess">
-                <h>adessive</h>
-                <p><g><a href="?gd=faag">fàg</a> ... aig taigh</g>
-                    <en>... leaves ... at a house</en> – <xl>
-                        <li>
-                            <gd>An do dh’fhàg Calum an cù aig an taigh? Dh’fhàg.</gd>
-                            <tr>Did Malcolm leave the dog at the house? Yes, he did.</tr>
-                            <ref text="617">td. 47</ref>
-                        </li>
-                    </xl>
-                </p>
-                <p><g><a href="?gd=fan">fan</a> ... aig taigh</g>
-                    <en>... stays at a house</en> – <xl>
-                        <li>
-                            <gd>An do dh’fhan Màiri aig an taigh an diugh? Cha do dh’fhan. Chaidh
-                                Màiri do’n sgoil anns a’ mhadainn</gd>
-                            <tr>Did Mary stay at home today? No, she didn’t. She went to school in
-                                the morning.</tr>
-                            <ref text="617">td. 237–8</ref>
-                        </li>
-                    </xl>
-                </p>
-            </section>
+        <section id="adjectives-colour">
+            <h>colour</h>
+            <p><g>taigh <a href="?gd=geal">geal</a></g>
+                <en>a white house</en> – <xl>
+                    <li>
+                        <gd>Cha b’ann geal a bha an taigh.</gd>
+                        <tr>The house was not white.</tr>
+                        <ref text="617">td. 33</ref>
+                    </li>
+                </xl></p>
         </section>
     </section>
 
-
-
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <section>
-            <h>subject</h>
+        <p><g>taigh air <a href="?gd=cnoc">cnoc</a></g>
+            <en>a house on a hill</en>
+            <xl>
+                <li>
+                    <gd>Tha taigh mór air a’ chnoc.</gd>
+                    <tr>There is a big house on the hill.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+                <li>
+                    <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc àrd.</gd>
+                    <tr>Where is the big house? The big house is on the tall hill.</tr>
+                    <ref text="617">td. 21 [229]</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=cat">cat</a> ann an taigh</g>
+            <en>a cat in a house</en> – <xl>
+                <li>
+                    <gd>A bheil an cat anns an taigh còmhla ri Seònaid?</gd>
+                    <tr>Is the cat in the house with Janet?</tr>
+                    <ref text="617">td. 15 [227]</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=cuu">cù</a> aig taigh</g>
+            <en>a dog at a house</en> – <xl>
+                <li>
+                    <gd>An do dh’fhàg Calum an cù aig an taigh? Dh’fhàg.</gd>
+                    <tr>Did Malcolm leave the dog at the house? Yes, he did.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
 
-        </section>
-        <section>
-            <h>object</h>
-            
-        </section>
+    <section id="verbs">
+        <h>verbs</h>
+        <!--<section id="verbs-loc">
+            <h>locative</h>-->
+        <!--<section id="verbs-loc-all">
+                <h>allative</h>-->
+        <p><g><a href="?gd=ruig">ruig</a> taigh</g>
+            <en>... reaches a house</en> – <xl>
+                <li>
+                    <gd>Bha mi sgìth nuair a ràinig mi an taigh.</gd>
+                    <tr>I was tired when I arrived home.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum clach
+                        air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil analach. [...] An
+                        ceann greise dh’éirich Calum ’na sheasamh agus thearnaich e a’ bheinn air a
+                        shocair. Chòrd an latha gu math ris ach bha an t-acras mór air nuair a
+                        ràinig e an taigh.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. There was a cairn of stones on the top of the mountain. Calum put
+                        a stone onto the cairn and he sat down beside the cairn having a rest. [...]
+                        After a while Malcolm rose up and he descended the mountain leisurely. He
+                        enjoyed the day well but he was very hungry when he reached the house.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl></p>
+        <!--</section>-->
+        <!--<section id="verbs-loc-abl">
+                <h>ablative</h>-->
+        <p><g><a href="?gd=faag">fàg</a> taigh</g>
+            <en>... leaves a house</en> – <xl>
+                <li>
+                    <gd>Nach do dh’fhàg Màiri an taigh? Dh’fhàg.</gd>
+                    <tr>Didn’t Mary leave the house? Yes, she did.</tr>
+                    <ref text="617">td. 44</ref>
+                </li>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Dh’ fhàg iad an taigh
+                        tràth anns a’ mhadainn.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] They left home early in the
+                        morning.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+                <li>
+                    <gd>Bha an latha fuar agus cha do dh’fhàg sinn an taigh.</gd>
+                    <tr>The day was cold and we didn’t leave the house.</tr>
+                    <ref text="617">td. 238</ref>
+                </li>
+                <li>
+                    <gd>’S e an Dùdlachd a bha ann agus bha e fhathast dorcha nuair a dh’fhàg a’
+                        chlann an taigh.</gd>
+                    <tr>It was December and it was still dark when the children left the house.</tr>
+                    <ref text="617">td. 183</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
+        <!--<section id="verbs-loc-iness">
+                <h>inessive</h>-->
+        <p><g><a href="?gd=cluich">cluich</a> ann an taigh</g>
+            <en>... plays in a house</en> – <xl>
+                <li>
+                    <gd>Cha robh sinn a’ cluich anns an taigh.</gd>
+                    <tr>We were not playing in the house.</tr>
+                    <ref text="617">td. 21 [230]</ref>
+                </li>
+            </xl></p>
+        <p><g><a href="?gd=obair">obair</a> thighe</g>
+            <en>housework</en> – <xl>
+                <li>
+                    <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                        mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                        déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig leth-uair
+                        an déidh sia.</gd>
+                    <tr>The children’s father and mother rose at six o’ clock in the morning. Their
+                        mother started on the housework at twenty minutes past six, and their father
+                        went out to feed the cattle at half past six.</tr>
+                    <ref text="617">td. 183</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
+        <!--<section id="verbs-loc-adess">
+                <h>adessive</h>-->
+        <p><g><a href="?gd=faag">fàg</a> ... aig taigh</g>
+            <en>... leaves ... at a house</en> – <xl>
+                <li>
+                    <gd>An do dh’fhàg Calum an cù aig an taigh? Dh’fhàg.</gd>
+                    <tr>Did Malcolm leave the dog at the house? Yes, he did.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=fan">fan</a> ... aig taigh</g>
+            <en>... stays at a house</en> – <xl>
+                <li>
+                    <gd>An do dh’fhan Màiri aig an taigh an diugh? Cha do dh’fhan. Chaidh Màiri do’n
+                        sgoil anns a’ mhadainn</gd>
+                    <tr>Did Mary stay at home today? No, she didn’t. She went to school in the
+                        morning.</tr>
+                    <ref text="617">td. 237–8</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
+        <!--</section>-->
     </section>
 
     <section id="other">

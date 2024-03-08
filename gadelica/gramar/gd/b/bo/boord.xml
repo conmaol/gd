@@ -5,10 +5,10 @@
         <masc/>
         <en>a table, a board</en></p>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section id="verbs-loc">
-            <h>locative</h>
+        <!--<section id="verbs-loc">
+            <h>locative</h>-->
             <p><g><a href="?gd=cuir">cuir</a> ... air bòrd</g>
                 <en>... puts ... on a table</en> – <xl>
                     <li>
@@ -63,13 +63,13 @@
                     </li>
                 </xl>
             </p>
-        </section>
+        <!--</section>-->
     </section>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <section id="nouns-loc">
-            <h>locative</h>
+        <!--<section id="nouns-loc">
+            <h>locative</h>-->
             <p><g><a href="?gd=leabhar">leabhar</a> air bòrd</g>
                 <en>a book on a table</en> – <xl>
                     <li>
@@ -117,7 +117,7 @@
                     </li>
                 </xl>
             </p>
-        </section>
+        <!--</section>-->
     </section>
 
 

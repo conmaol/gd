@@ -5,10 +5,10 @@
         <masc/>
         <en>a stick</en></p>
     
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section id="verbs-instr">
-            <h>instrumental</h>
+        <!--<section id="verbs-instr">
+            <h>instrumental</h>-->
             <p><g><a href="?gd=buail">buail</a> ... le bata</g>
                 <en>... strikes ... with a stick</en> – <xl>
                     <li>
@@ -18,7 +18,7 @@
                     </li>
                 </xl>
             </p>
-        </section>
+        <!--</section>-->
     </section>
 
 </module>

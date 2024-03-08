@@ -7,9 +7,9 @@
 
     <section>
         <h>adjectives</h>
-        <section id="adj-sbj">
-            <h>subject</h>
-            <section>
+        <!--<section id="adj-sbj">
+            <h>subject</h>-->
+            <section id="adjectives-size">
                 <h>size</h>
                 <p><g>clach <a href="?gd=moor">mhór</a></g>
                     <en>a big stone</en> – <xl>
@@ -21,49 +21,13 @@
                     </xl>
                 </p>
             </section>
-        </section>
+        <!--</section>-->
     </section>
 
-
-
-    <section>
-        <h>verbs</h>
-        <section id="verbs-obj">
-            <h>object</h>
-            <p><g><a href="?gd=cuir">cuir</a> ... clach ...</g>
-                <en>... puts a stone ...</en> – <xl>
-                    <li>
-                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-                            mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum
-                            clach air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil
-                            analach.</gd>
-                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-                            the mountain. There was a cairn of stones on the top of the mountain.
-                            Calum put a stone onto the cairn and he sat down beside the cairn having
-                            a rest.</tr>
-                        <ref text="617">td. 146</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <section id="verbs-instr">
-            <h>instrumental</h>
-            <p><g><a href="?gd=buail">buail</a> ... le cloich</g>
-                <en>... strikes ... with a stone</en> – <xl>
-                    <li>
-                        <gd>An do bhuail i an gille le cloich? Cha do bhuail.</gd>
-                        <tr>Did she strike the boy with a stone? No, she didn’t.</tr>
-                        <ref text="617">td. 44</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-    </section>
-
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <section id="nouns-spr">
-            <h>specifier</h>
+        <!--<section id="nouns-spr">
+            <h>specifier</h>-->
             <p><g><a href="?gd=caarn">càrn</a> chlach</g>
                 <en>a cairn of stones</en>, <g>clach air càrn</g>
                 <en>a stone on a cairn</en> – <xl>
@@ -80,7 +44,43 @@
                     </li>
                 </xl>
             </p>
-        </section>
+        <!--</section>-->
     </section>
+
+    <section id="verbs">
+        <h>verbs</h>
+        <!--<section id="verbs-obj">
+            <h>object</h>-->
+            <p><g><a href="?gd=cuir">cuir</a> ... clach ...</g>
+                <en>... puts a stone ...</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum
+                            clach air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil
+                            analach.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain. There was a cairn of stones on the top of the mountain.
+                            Calum put a stone onto the cairn and he sat down beside the cairn having
+                            a rest.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        <!--</section>-->
+        <!--<section id="verbs-instr">
+            <h>instrumental</h>-->
+            <p><g><a href="?gd=buail">buail</a> ... le cloich</g>
+                <en>... strikes ... with a stone</en> – <xl>
+                    <li>
+                        <gd>An do bhuail i an gille le cloich? Cha do bhuail.</gd>
+                        <tr>Did she strike the boy with a stone? No, she didn’t.</tr>
+                        <ref text="617">td. 44</ref>
+                    </li>
+                </xl>
+            </p>
+        <!--</section>-->
+    </section>
+
+    
 
 </module>
