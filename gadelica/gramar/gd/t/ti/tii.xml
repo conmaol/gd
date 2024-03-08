@@ -6,6 +6,53 @@
         <en>tea</en></p>
 
     <section>
+        <h>states</h>
+        <section id="states-locatives">
+            <h>locatives</h>
+            <p><g><a href="?gd=siuucar">siùcar</a> ann an tì</g> <!-- as ground -->
+                <en>sugar in tea</en> – <xl>
+                    <li>
+                        <gd>Nach do dh’òl thu do thì? Cha do dh’òl. Cha do chuir thu siùcar
+                            ann.</gd>
+                        <tr>Didn’t you drink your tea? No, I didn’t. You didn’t put sugar in
+                            it.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                    <li>
+                        <gd>An do chuir thu bainne agus siùcar anns an tì? Cha do chuir.</gd>
+                        <tr>Did you put milk and sugar in the tea? No, I didn’t.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                    <li>
+                        <gd>Chuir mi siùcar anns an tì ach cha do chuir mi bainne ann.</gd>
+                        <tr>I put sugar in the tea bit I didn’t put milk in it.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                    <li>
+                        <gd>Nach do chuir thu siùcar anns an tì?</gd>
+                        <tr>Didn’t you put sugar in the tea?</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                </xl>
+            </p>
+            <p><g><a href="?gd=bainne">bainne</a> ann an tì</g>
+                <en>milk in tea</en> – <xl>
+                    <li>
+                        <gd>An do chuir thu bainne agus siùcar anns an tì? Cha do chuir.</gd>
+                        <tr>Did you put milk and sugar in the tea? No, I didn’t.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                    <li>
+                        <gd>Chuir mi siùcar anns an tì ach cha do chuir mi bainne ann.</gd>
+                        <tr>I put sugar in the tea bit I didn’t put milk in it.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
         <h>verbs</h>
         <section id="verbs-obj">
             <h>object</h>
@@ -52,51 +99,6 @@
         </section>
     </section>
 
-    <section>
-        <h>nouns</h>
-        <section id="nouns-loc">
-            <h>locative</h>
-            <p><g><a href="?gd=siuucar">siùcar</a> ann an tì</g>
-                <en>sugar in tea</en> – <xl>
-                    <li>
-                        <gd>Nach do dh’òl thu do thì? Cha do dh’òl. Cha do chuir thu siùcar
-                            ann.</gd>
-                        <tr>Didn’t you drink your tea? No, I didn’t. You didn’t put sugar in
-                            it.</tr>
-                        <ref text="617">td. 48</ref>
-                    </li>
-                    <li>
-                        <gd>An do chuir thu bainne agus siùcar anns an tì? Cha do chuir.</gd>
-                        <tr>Did you put milk and sugar in the tea? No, I didn’t.</tr>
-                        <ref text="617">td. 238</ref>
-                    </li>
-                    <li>
-                        <gd>Chuir mi siùcar anns an tì ach cha do chuir mi bainne ann.</gd>
-                        <tr>I put sugar in the tea bit I didn’t put milk in it.</tr>
-                        <ref text="617">td. 238</ref>
-                    </li>
-                    <li>
-                        <gd>Nach do chuir thu siùcar anns an tì?</gd>
-                        <tr>Didn’t you put sugar in the tea?</tr>
-                        <ref text="617">td. 238</ref>
-                    </li>
-                </xl>
-            </p>
-            <p><g><a href="?gd=bainne">bainne</a> ann an tì</g>
-                <en>milk in tea</en> – <xl>
-                    <li>
-                        <gd>An do chuir thu bainne agus siùcar anns an tì? Cha do chuir.</gd>
-                        <tr>Did you put milk and sugar in the tea? No, I didn’t.</tr>
-                        <ref text="617">td. 238</ref>
-                    </li>
-                    <li>
-                        <gd>Chuir mi siùcar anns an tì ach cha do chuir mi bainne ann.</gd>
-                        <tr>I put sugar in the tea bit I didn’t put milk in it.</tr>
-                        <ref text="617">td. 238</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-    </section>
+   
 
 </module>

@@ -6,10 +6,46 @@
         <en>milk</en></p>
 
     <section>
-        <h>verbs</h>
-        <section id="verbs-obj">
-            <h>object</h>
-            <p><g><a href="?gd=ool">òl</a> ... bainne</g>
+        <h>states</h>
+        <section id="states-locatives">
+            <h>locatives</h>
+            <p><g>bainne ann am <a href="?gd=botul">botul</a></g>
+                <!-- as figure -->
+                <en>milk in a bottle</en> – <xl>
+                    <li>
+                        <gd>Tha bainne anns a’ bhotul.</gd>
+                        <tr>There is milk in the bottle.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Nach robh bainne anns a’ bhotul? Bha.</gd>
+                        <tr>Wasn’t there milk in the bottle? Yes, there was.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                </xl>
+            </p>
+            <p><g>bainne ann an <a href="?gd=tii">tì</a></g>
+                <en>milk in tea</en> – <xl>
+                    <li>
+                        <gd>An do chuir thu bainne agus siùcar anns an tì? Cha do chuir.</gd>
+                        <tr>Did you put milk and sugar in the tea? No, I didn’t.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                    <li>
+                        <gd>Chuir mi siùcar anns an tì ach cha do chuir mi bainne ann.</gd>
+                        <tr>I put sugar in the tea bit I didn’t put milk in it.</tr>
+                        <ref text="617">td. 238</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section>
+        <h>actions</h>
+        <section id="actions-affectives">
+            <h>affectives</h>
+            <p><g><a href="?gd=ool">òl</a> ... bainne</g> <!-- as ground (patient) -->
                 <en>... drinks milk</en> – <xl>
                     <li>
                         <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
@@ -35,40 +71,12 @@
         </section>
     </section>
 
+
+
     <section>
         <h>nouns</h>
-        <section id="nouns-sbj">
-            <h>subject</h>
-            <p><g>bainne ann am <a href="?gd=botul">botul</a></g>
-                <en>milk in a bottle</en> – <xl>
-                    <li>
-                        <gd>Tha bainne anns a’ bhotul.</gd>
-                        <tr>There is milk in the bottle.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                    <li>
-                        <gd>Nach robh bainne anns a’ bhotul? Bha.</gd>
-                        <tr>Wasn’t there milk in the bottle? Yes, there was.</tr>
-                        <ref text="617">td. 21 [229]</ref>
-                    </li>
-                </xl>
-            </p>
-            <p><g>bainne ann an <a href="?gd=tii">tì</a> ...</g>
-                <en>milk in tea</en> – <xl>
-                    <li>
-                        <gd>An do chuir thu bainne agus siùcar anns an tì? Cha do chuir.</gd>
-                        <tr>Did you put milk and sugar in the tea? No, I didn’t.</tr>
-                        <ref text="617">td. 238</ref>
-                    </li>
-                    <li>
-                        <gd>Chuir mi siùcar anns an tì ach cha do chuir mi bainne ann.</gd>
-                        <tr>I put sugar in the tea bit I didn’t put milk in it.</tr>
-                        <ref text="617">td. 238</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <section id="nouns-crd">
+
+        <section>
             <h>coordinate</h>
             <section>
                 <h>animals</h>

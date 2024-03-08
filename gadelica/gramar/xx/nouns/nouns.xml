@@ -92,15 +92,15 @@
           <masc/>
           <en>a table</en>
         </li>
+        <li><g href="?gd=botul">botul</g>
+          <masc/>
+          <en>a bottle</en></li>
         <!--<li><a href="?gd=bracaist"><g>bracaist</g></a>
           <fem/>
           <en>a breakfast</en></li>
         <li><a href="?gd=brot"><g>brot</g></a>
           <masc/>
           <en>soup, broth</en></li>
-        <li><a href="?gd=botul"><g>botul</g></a>
-          <masc/>
-          <en>a bottle</en></li>
         <li><a href="?gd=breac"><g>breac</g></a>
           <masc/>
           <en>a trout</en></li>
@@ -377,9 +377,11 @@
         <li><a href="?gd=siiol"><g>sìol</g></a>
           <masc/>
           <en>a seed, seed(s)</en></li>
-        <li><a href="?gd=siuucar"><g>suùcar</g></a>
+          -->
+        <li><g href="?gd=siuucar">siùcar</g>
           <masc/>
           <en>sugar</en></li>
+        <!--
         <li><a href="?gd=slat"><g>slat</g></a>
           <fem/>
           <en>a rod</en></li>
@@ -509,7 +511,9 @@
           <ul>
             <li>artifacts – <g href="?gd=leabhar">leabhar</g>
               <masc/>
-              <en>a book</en>
+              <en>a book</en>, <g href="?gd=botul">botul</g>
+              <masc/>
+              <en>a bottle</en>
               <ul>
                 <li>furniture – <g href="?gd=boord">bòrd</g>
                   <masc/>
@@ -524,7 +528,9 @@
               </ul>
             </li>
             <li>food – <g href="?gd=bainne">bainne</g>
-              <masc/><en>milk</en>, <g href="?gd=tii">tì</g>
+              <masc/><en>milk</en>, <g href="?gd=siuucar">siùcar</g>
+              <masc/>
+              <en>sugar</en>, <g href="?gd=tii">tì</g>
               <masc/>
               <en>tea</en></li>
           </ul>

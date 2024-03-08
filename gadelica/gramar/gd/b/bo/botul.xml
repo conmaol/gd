@@ -2,41 +2,42 @@
 <module>
     <h>botul</h>
     <p><g>botul</g>
-        <en>a bottle</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        <masc/>
+        <en>a bottle</en></p>
 
     <section>
-        <h>nouns</h>
-       <!-- <section>
-            <h>object</h>
-            <p><g>botul</g> can be the object of certain <a href="?xx=prepositions/prepositions"
-                >prepositions</a>.</p>-->
-                <module id="bainne">
-                    <h>bainne</h>
-                    <p><g><a href="?gd=bainne">bainne</a> ann am botul</g>
-                        <en>milk in a bottle</en> – <xl>
-                            <li>
-                                <gd>A bheil rud sam bith anns a’ bhotul? Tha. Dé tha anns a’
-                                    bhotul? Tha bainne anns a’ bhotul.</gd>
-                                <tr>Is there anything in the bottle? Yes, there is. What is
-                                    in the bottle? There is milk in the bottle.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>
-                            <li>
-                                <gd>Nach robh bainne anns a’ bhotul? Bha.</gd>
-                                <tr>Wasn’t there milk in the bottle? Yes, there was.</tr>
-                                <ref text="617">td. 21 [229]</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-        <!--</section>-->
+        <h>states</h>
+        <section>
+            <h>locatives</h>
+            <p><g><a href="?gd=bainne">bainne</a> ann am botul</g> <!-- as ground -->
+                <en>milk in a bottle</en> – <xl>
+                    <li>
+                        <gd>A bheil rud sam bith anns a’ bhotul? Tha. Dé tha anns a’ bhotul? Tha
+                            bainne anns a’ bhotul.</gd>
+                        <tr>Is there anything in the bottle? Yes, there is. What is in the bottle?
+                            There is milk in the bottle.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                    <li>
+                        <gd>Nach robh bainne anns a’ bhotul? Bha.</gd>
+                        <tr>Wasn’t there milk in the bottle? Yes, there was.</tr>
+                        <ref text="617">td. 21 [229]</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>other</h>
+            <p>
+                <xl>
+                    <li>
+                        <gd>Dé tha seo? Tha botul.</gd>
+                        <tr>What is that? It’s a bottle.</tr>
+                        <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
     </section>
-    
-                           <!-- <li>
-                                <gd>Dé tha seo? Tha botul.</gd>
-                                <tr>What is that? It’s a bottle.</tr>
-                                <ref text="617">td. 20</ref>
-                            </li>-->
 
 </module>
