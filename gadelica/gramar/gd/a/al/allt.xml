@@ -5,87 +5,74 @@
         <masc/>
         <en>a stream, a burn</en></p>
 
-    <section>
-        <h>nouns</h>
-        <module id="monadh">
-            <h>monadh</h>
-            <p><g>allt ann am <a href="?gd=monadh">monadh</a></g>
-                <en>a burn on a moor</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt
-                            agus thòisich Seumas air iasgach. Cha do ghlac Seumas breac ach fhuair
-                            Màiri nead anns an fhraoch.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] They came to a burn and
-                            James started fishing. James didn’t catch a trout but Mary found a nest
-                            in the heather.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="breac">
-            <h>breac</h>
-            <p><g><a href="?gd=breac">breac</a> ann an allt</g>
-                <en>a trout in a burn</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt
-                            agus thòisich Seumas air iasgach. Cha do ghlac Seumas breac ach fhuair
-                            Màiri nead anns an fhraoch.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] They came to a burn and
-                            James started fishing. James didn’t catch a trout but Mary found a nest
-                            in the heather.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="torman">
-            <h>torman</h>
-            <p><g><a href="?gd=torman">torman</a> uillt</g>
-                <en>a stream’s murmur(ing)</en> – <xl>
-                    <li>
-                        <gd>Bha an crodh blàth le teas na gréine agus bha iad ’nan seasamh anns na
-                            lochan beaga a bha an siud ’s an seo air feadh a’ mhonaidh. Bha na
-                            h-uain bheaga a’ leum agus a’ cluich mu thimcheall am màthraichean. Bha
-                            torman an uillt a’ dèanamh ciùil ann an cluais Chaluim bhig.</gd>
-                        <tr>The cattle were warm with the heat of the sun and they were standing in
-                            the little lakes which were here and there throughout the moor. The
-                            little lambs were jumping and playing about their mothers. The murmur of
-                            the burn was making music in little Malcolm’s ear.</tr>
-                        <ref text="617">td. 146</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <module id="iasgaich">
-            <h>iasgaich</h>
-            <p><g><a href="?gd=iasgaich">iasgaich</a> ... air allt</g>
-                <en>... fishes on a burn</en> – <xl>
-                    <li>
-                        <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach.</gd>
-                        <tr>Mary and James came to a burn and James started fishing.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="thig">
-            <h>thig</h>
-            <p><g><a href="?gd=thig">thig</a> ... gu allt</g>
-                <en>... comes to a burn</en> – <xl>
-                    <li>
-                        <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach.</gd>
-                        <tr>Mary and James came to a burn and James started fishing.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g><a href="?gd=iasgaich">iasgaich</a> ... air allt</g>
+            <en>... fishes on a burn</en> – <xl>
+                <li>
+                    <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach.</gd>
+                    <tr>Mary and James came to a burn and James started fishing.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=thig">thig</a> ... gu allt</g>
+            <en>... comes to a burn</en> – <xl>
+                <li>
+                    <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach.</gd>
+                    <tr>Mary and James came to a burn and James started fishing.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
     </section>
+
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g>allt ann am <a href="?gd=monadh">monadh</a></g>
+            <en>a burn on a moor</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus
+                        thòisich Seumas air iasgach. Cha do ghlac Seumas breac ach fhuair Màiri nead
+                        anns an fhraoch.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] They came to a burn and
+                        James started fishing. James didn’t catch a trout but Mary found a nest in
+                        the heather.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=breac">breac</a> ann an allt</g>
+            <en>a trout in a burn</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus
+                        thòisich Seumas air iasgach. Cha do ghlac Seumas breac ach fhuair Màiri nead
+                        anns an fhraoch.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] They came to a burn and
+                        James started fishing. James didn’t catch a trout but Mary found a nest in
+                        the heather.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=torman">torman</a> uillt</g>
+            <en>a stream’s murmur(ing)</en> – <xl>
+                <li>
+                    <gd>Bha an crodh blàth le teas na gréine agus bha iad ’nan seasamh anns na
+                        lochan beaga a bha an siud ’s an seo air feadh a’ mhonaidh. Bha na h-uain
+                        bheaga a’ leum agus a’ cluich mu thimcheall am màthraichean. Bha torman an
+                        uillt a’ dèanamh ciùil ann an cluais Chaluim bhig.</gd>
+                    <tr>The cattle were warm with the heat of the sun and they were standing in the
+                        little lakes which were here and there throughout the moor. The little lambs
+                        were jumping and playing about their mothers. The murmur of the burn was
+                        making music in little Malcolm’s ear.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+
+
 
 </module>

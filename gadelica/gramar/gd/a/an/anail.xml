@@ -3,12 +3,10 @@
     <h>anail</h>
     <p><g>anail</g>
         <fem/>
-        <en>a breath, a rest</en>.</p>
+        <en>a breath, a rest</en></p>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <module id="leig">
-        <h>leig</h>
         <p><g><a href="?gd=leig">leig</a> ... anail</g>
             <en>... has a rest</en> – <xl>
                 <li>
@@ -22,6 +20,6 @@
                 </li>
             </xl>
         </p>
-    </module></section>
+    </section>
 
 </module>

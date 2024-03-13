@@ -5,39 +5,33 @@
         <masc/>
         <en>a sky</en></p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="dorcha">
-            <h>dorcha</h>
-            <p><g>adhar <a href="?gd=dorcha">dorcha</a></g>
-                <en>a dark sky</en> – <xl>
-                    <li>
-                        <gd>Tha an t-adhar a’ coimhead dorcha an diugh.</gd>
-                        <tr>The sky is looking dark today.</tr>
-                        <ref text="617">td. 59</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g>adhar <a href="?gd=dorcha">dorcha</a></g>
+            <en>a dark sky</en> – <xl>
+                <li>
+                    <gd>Tha an t-adhar a’ coimhead dorcha an diugh.</gd>
+                    <tr>The sky is looking dark today.</tr>
+                    <ref text="617">td. 59</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
-
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <module id="neul">
-            <h>neul</h>
-            <p><g><a href="?gd=neul">neul</a> ann an adhar</g> <en>a cloud in a sky</en> – <xl>
-                    <li>
-                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-                            mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
-                            deàrrsadh. Cha robh neul anns an adhar.</gd>
-                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-                            the mountain. [...] It was a beautiful day and the sun was shining.
-                            There wasn’t a cloud in the sky.</tr>
-                        <ref text="617">td. 146</ref>
-                    </li>
-                </xl></p>
-        </module>
+        <p><g><a href="?gd=neul">neul</a> ann an adhar</g>
+            <en>a cloud in a sky</en> – <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                        deàrrsadh. Cha robh neul anns an adhar.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. [...] It was a beautiful day and the sun was shining. There wasn’t
+                        a cloud in the sky.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl></p>
     </section>
 
 

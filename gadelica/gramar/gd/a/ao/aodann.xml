@@ -5,22 +5,19 @@
         <masc/>
         <en>face</en></p>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section>
-            <h>object</h>
-            <module id="nigh">
-                <h>nigh</h>
-                <p><g><a href="?gd=nigh">nigh</a> ... aodann</g>
-                    <en>... washes a face</en> – <xl>
-                        <li>
-                            <gd>An do nigh thu d’aodann? Nigh.</gd>
-                            <tr>Did you wash your face? Yes, I did.</tr>
-                            <ref text="617">td. 48</ref>
-                        </li>
-                    </xl></p>
-            </module>
-        </section>
+        <!--<section>
+            <h>object</h>-->
+        <p><g><a href="?gd=nigh">nigh</a> ... aodann</g>
+            <en>... washes a face</en> – <xl>
+                <li>
+                    <gd>An do nigh thu d’aodann? Nigh.</gd>
+                    <tr>Did you wash your face? Yes, I did.</tr>
+                    <ref text="617">td. 48</ref>
+                </li>
+            </xl></p>
+        <!--</section>-->
     </section>
 
 </module>

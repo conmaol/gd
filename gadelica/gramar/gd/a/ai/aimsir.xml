@@ -2,36 +2,29 @@
 <module>
     <h>aimsir</h>
     <p><g>aimsir</g>
-        <en>weather</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        <fem/>
+        <en>weather</en></p>
 
-    <section>
-        <h>states</h>
-        <module id="math">
-            <h>math</h>
-            <p><g>aimsir <a href="?gd=math">mhath</a></g>
-                <en>good weather</en> – <xl>
-                    <li>
-                        <gd>Bithidh Calum anns a’ mhonadh am màireach ma bhitheas an aimsir
-                            math.</gd>
-                        <tr>Malcolm will be on the moor tomorrow if the weather is good.</tr>
-                        <ref text="617">td. 239–40</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="blaath">
-            <h>blàth</h>
-            <p><g>aimsir <a href="?gd=blaath">bhlàth</a></g>
-                <en>warm weather</en> – <xl>
-                    <li>
-                        <gd>Bha an aimsir blàth am bliadhna.</gd>
-                        <tr>The weather was warm this year.</tr>
-                        <ref text="617">td. 62</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+    <section id="adjs">
+        <h>adjectives</h>
+        <p><g>aimsir <a href="?gd=math">mhath</a></g>
+            <en>good weather</en> – <xl>
+                <li>
+                    <gd>Bithidh Calum anns a’ mhonadh am màireach ma bhitheas an aimsir math.</gd>
+                    <tr>Malcolm will be on the moor tomorrow if the weather is good.</tr>
+                    <ref text="617">td. 239–40</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>aimsir <a href="?gd=blaath">bhlàth</a></g>
+            <en>warm weather</en> – <xl>
+                <li>
+                    <gd>Bha an aimsir blàth am bliadhna.</gd>
+                    <tr>The weather was warm this year.</tr>
+                    <ref text="617">td. 62</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>
