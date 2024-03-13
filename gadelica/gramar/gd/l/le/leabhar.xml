@@ -5,121 +5,121 @@
         <masc/>
         <en>book</en></p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <section id="adj-sbj">
-            <h>subject</h>
-            <section id="adj-sbj-colour">
-                <h>colour</h>
-                <p><g>leabhar <a href="?gd=dearg">dearg</a></g>
-                    <en>a red book</en> – <xl>
-                        <li>
-                            <gd>A Mhàiri, ann an leatsa a tha an leabhar dearg seo? Chan an. Sin an
-                                leabhar aig Seumas. ’S ann gorm a tha an leabhar agamsa.</gd>
-                            <tr>Mary – is this read book yours? No, it isn’t. That is James’ book.
-                                My book is blue.</tr>
-                            <ref text="617">td. 33</ref>
-                        </li>
-                    </xl>
-                </p>
-                <p><g>leabhar <a href="?gd=gorm">gorm</a></g>
-                    <en>a blue book</en> – <xl>
-                        <li>
-                            <gd>A Mhàiri, ann an leatsa a tha an leabhar dearg seo? Chan an. Sin an
-                                leabhar aig Seumas. ’S ann gorm a tha an leabhar agamsa.</gd>
-                            <tr>Mary – is this read book yours? No, it isn’t. That is James’ book.
-                                My book is blue.</tr>
-                            <ref text="617">td. 33</ref>
-                        </li>
-                    </xl>
-                </p>
-            </section>
-        </section>
+        <!--<section id="adj-sbj">
+            <h>subject</h>-->
+        <!--<section id="adj-sbj-colour">
+                <h>colour</h>-->
+        <p><g>leabhar <a href="?gd=dearg">dearg</a></g>
+            <en>a red book</en> – <xl>
+                <li>
+                    <gd>A Mhàiri, ann an leatsa a tha an leabhar dearg seo? Chan an. Sin an leabhar
+                        aig Seumas. ’S ann gorm a tha an leabhar agamsa.</gd>
+                    <tr>Mary – is this read book yours? No, it isn’t. That is James’ book. My book
+                        is blue.</tr>
+                    <ref text="617">td. 33</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>leabhar <a href="?gd=gorm">gorm</a></g>
+            <en>a blue book</en> – <xl>
+                <li>
+                    <gd>A Mhàiri, ann an leatsa a tha an leabhar dearg seo? Chan an. Sin an leabhar
+                        aig Seumas. ’S ann gorm a tha an leabhar agamsa.</gd>
+                    <tr>Mary – is this read book yours? No, it isn’t. That is James’ book. My book
+                        is blue.</tr>
+                    <ref text="617">td. 33</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
+        <!--</section>-->
     </section>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section id="verbs-obj">
-            <h>object</h>
-            <p><g><a href="?gd=cuir">cuir</a> ... leabhar ...</g>
-                <en>... puts a book ...</en> – <xl>
-                    <li>
-                        <gd>Chuir e an leabhar air a’ bhòrd.</gd>
-                        <tr>He put the book on the table.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-            <p><g><a href="?gd=faag">fàg</a> ... leabhar ...</g>
-                <en>... leaves a book ...</en> – <xl>
-                    <li>
-                        <gd>Dh’fhàg mi mo leabhar anns an sgoil.</gd>
-                        <tr>I left my book in the school.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                    <li>
-                        <gd>An do dh’fhàg thu do leabhar anns an sgoil? Cha do dh’fhàg. Càit an do
-                            dh’fhàg thu do leabhar? Dh’fhàg mi mo leabhar air a bhòrd.</gd>
-                        <tr>Did you leave your book in the school? No, I didn’t. Where did you leave
-                            your book? I left my book on the table.</tr>
-                        <ref text="617">td. 48</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
+        <!--<section id="verbs-obj">
+            <h>object</h>-->
+        <p><g><a href="?gd=cuir">cuir</a> ... leabhar ...</g>
+            <en>... puts a book ...</en> – <xl>
+                <li>
+                    <gd>Chuir e an leabhar air a’ bhòrd.</gd>
+                    <tr>He put the book on the table.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=faag">fàg</a> ... leabhar ...</g>
+            <en>... leaves a book ...</en> – <xl>
+                <li>
+                    <gd>Dh’fhàg mi mo leabhar anns an sgoil.</gd>
+                    <tr>I left my book in the school.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+                <li>
+                    <gd>An do dh’fhàg thu do leabhar anns an sgoil? Cha do dh’fhàg. Càit an do
+                        dh’fhàg thu do leabhar? Dh’fhàg mi mo leabhar air a bhòrd.</gd>
+                    <tr>Did you leave your book in the school? No, I didn’t. Where did you leave
+                        your book? I left my book on the table.</tr>
+                    <ref text="617">td. 48</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
     </section>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <section id="nouns-locs">
-            <h>locatives</h>
-            <p><g>leabhar air <a href="?gd=boord">bòrd</a></g>
-                <en>a book on a table</en> – <xl>
-                    <li>
-                        <gd>Càit a bheil an leabhar? Tha an leabhar air a’ bhòrd.</gd>
-                        <tr>Where is the book? The book is on the table.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                    <li>
-                        <gd>Chuir e an leabhar air a’ bhòrd.</gd>
-                        <tr>He put the book on the table.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                    <li>
-                        <gd>An do dh’fhàg thu do leabhar anns an sgoil? Cha do dh’fhàg. Càit an do
-                            dh’fhàg thu do leabhar? Dh’fhàg mi mo leabhar air a bhòrd.</gd>
-                        <tr>Did you leave your book in the school? No, I didn’t. Where did you leave
-                            your book? I left my book on the table.</tr>
-                        <ref text="617">td. 48</ref>
-                    </li>
-                </xl>
-            </p>
-            <p><g>leabhar ann am <a href="?gd=bocsa">bocsa</a></g>
-                <en>a book in a box</en> – <xl>
-                    <li>
-                        <gd>Nach robh leabhar anns a’ bhocsa sin? Bha, bha Bìobull ann.</gd>
-                        <tr>Wasn’t there a book in that box? Yes, there was a Bible (in it).</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-            <p><g>leabhar ann an <a href="?gd=sgoil">sgoil</a></g>
-                <en>a book in a school</en> – <xl>
-                    <li>
-                        <gd>Dh’fhàg mi mo leabhar anns an sgoil.</gd>
-                        <tr>I left my book in the school.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                    <li>
-                        <gd>An do dh’fhàg thu do leabhar anns an sgoil? Cha do dh’fhàg. Càit an do
-                            dh’fhàg thu do leabhar? Dh’fhàg mi mo leabhar air a bhòrd.</gd>
-                        <tr>Did you leave your book in the school? No, I didn’t. Where did you leave
-                            your book? I left my book on the table.</tr>
-                        <ref text="617">td. 48</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
+        <!--<section id="nouns-locs">
+            <h>locatives</h>-->
+        <p><g>leabhar air <a href="?gd=boord">bòrd</a></g>
+            <en>a book on a table</en> – <xl>
+                <li>
+                    <gd>Càit a bheil an leabhar? Tha an leabhar air a’ bhòrd.</gd>
+                    <tr>Where is the book? The book is on the table.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+                <li>
+                    <gd>Chuir e an leabhar air a’ bhòrd.</gd>
+                    <tr>He put the book on the table.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+                <li>
+                    <gd>An do dh’fhàg thu do leabhar anns an sgoil? Cha do dh’fhàg. Càit an do
+                        dh’fhàg thu do leabhar? Dh’fhàg mi mo leabhar air a bhòrd.</gd>
+                    <tr>Did you leave your book in the school? No, I didn’t. Where did you leave
+                        your book? I left my book on the table.</tr>
+                    <ref text="617">td. 48</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>leabhar ann am <a href="?gd=bocsa">bocsa</a></g>
+            <en>a book in a box</en> – <xl>
+                <li>
+                    <gd>Nach robh leabhar anns a’ bhocsa sin? Bha, bha Bìobull ann.</gd>
+                    <tr>Wasn’t there a book in that box? Yes, there was a Bible (in it).</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>leabhar ann an <a href="?gd=sgoil">sgoil</a></g>
+            <en>a book in a school</en> – <xl>
+                <li>
+                    <gd>Dh’fhàg mi mo leabhar anns an sgoil.</gd>
+                    <tr>I left my book in the school.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+                <li>
+                    <gd>An do dh’fhàg thu do leabhar anns an sgoil? Cha do dh’fhàg. Càit an do
+                        dh’fhàg thu do leabhar? Dh’fhàg mi mo leabhar air a bhòrd.</gd>
+                    <tr>Did you leave your book in the school? No, I didn’t. Where did you leave
+                        your book? I left my book on the table.</tr>
+                    <ref text="617">td. 48</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
     </section>
 
 </module>

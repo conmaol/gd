@@ -6,17 +6,18 @@
     <h>list of nouns</h>
     <p>
       <ul>
-        <!--<li><a href="?gd=abhainn"><g>abhainn</g></a>
+        <li><g href="?gd=abhainn">abhainn</g>
           <fem/>
           <en>a river</en></li>
-        <li><a href="?gd=achadh"><g>achadh</g></a>
+        <li><g href="?gd=achadh">achadh</g>
           <masc/>
           <en>a field</en>
         </li>
-        <li><a href="?gd=acras"><g>acras</g></a>
+        <li><g href="?gd=acras">acras</g>
           <masc/>
           <en>hunger</en>
         </li>
+        <!--
         <li><a href="?gd=adhar"><g>adhar</g></a>
           <masc/>
           <en>sky</en></li>
@@ -503,7 +504,11 @@
           <en>a cat</en>, <g href="?gd=cuu">cù</g>
           <masc/>
           <en>a dog</en></li>
-        <li>things – <g href="?gd=bata">bata</g>
+        <li>things – <g href="?gd=abhainn">abhainn</g>
+          <fem/>
+          <en>a river</en>, <g href="?gd=achadh">achadh</g>
+          <masc/>
+          <en>a field</en>, <g href="?gd=bata">bata</g>
           <masc/>
           <en>a stick</en>, <g href="?gd=clach">clach</g>
           <fem/>
@@ -535,6 +540,10 @@
               <en>tea</en></li>
           </ul>
         </li>
+        <li>other – <g href="?gd=acras">acras</g>
+          <masc/>
+          <en>hunger</en>
+        </li>
       </ul>
     </p>
   </section>
@@ -543,9 +552,7 @@
     <h>nouns – old list</h>
     <p>
       <ul>
-        <li><a href="?gd=abhainn"><g>abhainn</g></a>
-          <fem/>
-          <en>a river</en></li>
+
         <li><a href="?gd=achadh"><g>achadh</g></a>
           <masc/>
           <en>a field</en>

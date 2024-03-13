@@ -5,12 +5,12 @@
         <masc/>
         <en>a boy</en></p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <section id="adj-sbj">
-            <h>subject</h>
-            <section id="adj-sbj-size">
-                <h>size</h>
+        <!--<section id="adj-sbj">
+            <h>subject</h>-->
+            <!--<section id="adj-sbj-size">
+                <h>size</h>-->
                 <p><g>gille <a href="?gd=beag">beag</a></g>
                     <en>a little boy</en> – <xl>
                         <li>
@@ -47,10 +47,10 @@
                             <ref text="617">td. 15</ref>
                         </li>
                     </xl></p>
-            </section>
-        </section>
-        <section id="adj-obj">
-            <h>object</h>
+            <!--</section>-->
+        <!--</section>-->
+        <!--<section id="adj-obj">
+            <h>object</h>-->
             <p><g><a href="?gd=ceaarr">ceàrr</a> air gille</g>
                 <en>wrong with a boy</en> – <xl>
                     <li>
@@ -60,13 +60,13 @@
                     </li>
                 </xl>
             </p>
-        </section>
+        <!--</section>-->
     </section>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section id="verbs-sbj">
-            <h>subject</h>
+        <!--<section id="verbs-sbj">
+            <h>subject</h>-->
             <p><g><a href="?gd=cluich">cluich</a> gille</g>
                 <en>a boy plays</en> – <xl>
                     <li>
@@ -83,9 +83,9 @@
                         <ref text="617">td. 47</ref>
                     </li>
                 </xl></p>
-        </section>
-        <section id="verbs-obj">
-            <h>object</h>
+        <!--</section>-->
+        <!--<section id="verbs-obj">
+            <h>object</h>-->
             <p><g><a href="?gd=buail">buail</a> ... gille</g>
                 <en>... strikes a boy</en> – <xl>
                     <li>
@@ -104,13 +104,13 @@
                         <ref text="617">td. 44</ref>
                     </li>
                 </xl></p>
-        </section>
+        <!--</section>-->
     </section>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <section id="nouns-sbj">
-            <h>subject</h>
+        <!--<section id="nouns-sbj">
+            <h>subject</h>-->
             <p><g>gille aig <a href="?gd=dorus">dorus</a></g>
                 <en>a boy at a door</en> – <xl>
                     <li>
@@ -129,9 +129,9 @@
                     </li>
                 </xl>
             </p>
-        </section>
-        <section id="nouns-spr">
-            <h>specifier</h>
+        <!--</section>-->
+        <!--<section id="nouns-spr">
+            <h>specifier</h>-->
             <p><g><a href="?gd=laamh">làmh</a> gille ...</g>
                 <en>a boy’s hand</en> – <xl>
                     <li>
@@ -140,7 +140,7 @@
                         <ref text="617">td. 47</ref>
                     </li>
                 </xl></p>
-        </section>
+        <!--</section>-->
     </section>
 
     

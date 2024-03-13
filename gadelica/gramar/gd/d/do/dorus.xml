@@ -5,133 +5,133 @@
         <masc/>
         <en>a door</en></p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <section id="adj-sbj">
-            <h>subject</h>
-            <p><g>dorus <a href="?gd=moor">mór</a></g>
-                <en>a large door</en> – <xl>
-                    <li>
-                        <gd>Tha an dorus mór.</gd>
-                        <tr>The door is big.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                </xl></p>
-        </section>
+        <!--<section id="adj-sbj">
+            <h>subject</h>-->
+        <p><g>dorus <a href="?gd=moor">mór</a></g>
+            <en>a large door</en> – <xl>
+                <li>
+                    <gd>Tha an dorus mór.</gd>
+                    <tr>The door is big.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+            </xl></p>
+        <!--</section>-->
     </section>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section id="verbs-obj">
-            <h>object</h>
-            <p><g><a href="?gd=fosgail">fosgail</a> ... dorus</g>
-                <en>... opens a door</en> – <xl>
-                    <li>
-                        <gd>An do chum thu an dorus fosgailte? Cha do chum.</gd>
-                        <tr>Did you keep the door open? No, I didn’t.</tr>
-                        <ref text="617">td. 56</ref>
-                    </li>
-                    <li>
-                        <gd>Dh’fhàg Màiri an dorus fosgailte.</gd>
-                        <tr>Mary left the door open.</tr>
-                        <ref text="617">td. 237</ref>
-                    </li>
-                </xl>
-            </p>
-            <p><g><a href="?gd=duuin">dùin</a> ... dorus</g>
-                <en>... shuts a door</en> – <xl>
-                    <li>
-                        <gd>An do dhùin thu an dorus? Dhùin.</gd>
-                        <tr>Did you close the door? Yes, I did.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                    <li>
-                        <gd>Dùin an dorus!</gd>
-                        <tr>Close the door!</tr>
-                        <ref text="617">td. 237</ref>
-                    </li>
-                    <li>
-                        <gd>An do dhùin Màiri an dorus? Cha do dhùin.</gd>
-                        <tr>Did Mary close the door? No, she didn’t.</tr>
-                        <ref text="617">td. 4237</ref>
-                    </li>
-                </xl>
-            </p>
-            <p><g><a href="?gd=glas">glas</a> ... dorus</g>
-                <en>... locks a door</en> – <xl>
-                    <li>
-                        <gd>Ghlas Màiri an dorus.</gd>
-                        <tr>Mary locked the door.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                    <li>
-                        <gd>An do ghlas thu an dorus? Ghlas.</gd>
-                        <tr>Did you lock the door? Yes, I did.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                    <li>
-                        <gd>Có ghlas an dorus? Ghlas Màiri.</gd>
-                        <tr>Who locked the door? Mary did.</tr>
-                        <ref text="617">td. 238</ref>
-                    </li>
-                </xl>
-            </p>
-            <p><g><a href="?gd=faag">fàg</a> ... dorus ...</g>
-                <en>... leaves a door ...</en> – <xl>
-                    <li>
-                        <gd>Dh’fhàg Màiri an dorus fosgailte.</gd>
-                        <tr>Mary left the door open.</tr>
-                        <ref text="617">td. 237</ref>
-                    </li>
-                </xl>
-            </p>
-            <p><g><a href="?gd=cum">cum</a> ... dorus ...</g>
-                <en>... keeps a door ...</en> – <xl>
-                    <li>
-                        <gd>An do chum thu an dorus fosgailte? Cha do chum.</gd>
-                        <tr>Did you keep the door open? No, I didn’t.</tr>
-                        <ref text="617">td. 56</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
-        <section id="verb-loc">
-            <h>locative</h>
-            <p><g><a href="?gd=seas">seas</a> ... aig dorus</g>
-                <en>... stands up at a door</en> – <xl>
-                    <li>
-                        <gd>Sheas Màiri aig an dorus.</gd>
-                        <tr>Mary stood (up) at the door.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
+        <!--<section id="verbs-obj">
+            <h>object</h>-->
+        <p><g><a href="?gd=fosgail">fosgail</a> ... dorus</g>
+            <en>... opens a door</en> – <xl>
+                <li>
+                    <gd>An do chum thu an dorus fosgailte? Cha do chum.</gd>
+                    <tr>Did you keep the door open? No, I didn’t.</tr>
+                    <ref text="617">td. 56</ref>
+                </li>
+                <li>
+                    <gd>Dh’fhàg Màiri an dorus fosgailte.</gd>
+                    <tr>Mary left the door open.</tr>
+                    <ref text="617">td. 237</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=duuin">dùin</a> ... dorus</g>
+            <en>... shuts a door</en> – <xl>
+                <li>
+                    <gd>An do dhùin thu an dorus? Dhùin.</gd>
+                    <tr>Did you close the door? Yes, I did.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+                <li>
+                    <gd>Dùin an dorus!</gd>
+                    <tr>Close the door!</tr>
+                    <ref text="617">td. 237</ref>
+                </li>
+                <li>
+                    <gd>An do dhùin Màiri an dorus? Cha do dhùin.</gd>
+                    <tr>Did Mary close the door? No, she didn’t.</tr>
+                    <ref text="617">td. 4237</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=glas">glas</a> ... dorus</g>
+            <en>... locks a door</en> – <xl>
+                <li>
+                    <gd>Ghlas Màiri an dorus.</gd>
+                    <tr>Mary locked the door.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+                <li>
+                    <gd>An do ghlas thu an dorus? Ghlas.</gd>
+                    <tr>Did you lock the door? Yes, I did.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+                <li>
+                    <gd>Có ghlas an dorus? Ghlas Màiri.</gd>
+                    <tr>Who locked the door? Mary did.</tr>
+                    <ref text="617">td. 238</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=faag">fàg</a> ... dorus ...</g>
+            <en>... leaves a door ...</en> – <xl>
+                <li>
+                    <gd>Dh’fhàg Màiri an dorus fosgailte.</gd>
+                    <tr>Mary left the door open.</tr>
+                    <ref text="617">td. 237</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=cum">cum</a> ... dorus ...</g>
+            <en>... keeps a door ...</en> – <xl>
+                <li>
+                    <gd>An do chum thu an dorus fosgailte? Cha do chum.</gd>
+                    <tr>Did you keep the door open? No, I didn’t.</tr>
+                    <ref text="617">td. 56</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
+        <!--<section id="verb-loc">
+            <h>locative</h>-->
+        <p><g><a href="?gd=seas">seas</a> ... aig dorus</g>
+            <en>... stands up at a door</en> – <xl>
+                <li>
+                    <gd>Sheas Màiri aig an dorus.</gd>
+                    <tr>Mary stood (up) at the door.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
     </section>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <section id="nouns-loc">
-            <h>locative</h>
-            <p><g><a href="?gd=gille">gille</a> aig dorus</g>
-                <en>a boy at a door</en> – <xl>
-                    <li>
-                        <gd>A bheil an gille aig an dorus? Chan eil.</gd>
-                        <tr>Is the boy at the door?</tr>
-                        <ref text="617">td. 15 [adapted]</ref>
-                    </li>
-                </xl>
-            </p>
-            <p><g><a href="?gd=cuu">cù</a> aig dorus</g>
-                <en>a dog at a door</en> – <xl>
-                    <li>
-                        <gd>Chunnaic mi cù aig an dorus.</gd>
-                        <tr>I saw a dog at the door.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                </xl>
-            </p>
-        </section>
+        <!-- <section id="nouns-loc">
+            <h>locative</h>-->
+        <p><g><a href="?gd=gille">gille</a> aig dorus</g>
+            <en>a boy at a door</en> – <xl>
+                <li>
+                    <gd>A bheil an gille aig an dorus? Chan eil.</gd>
+                    <tr>Is the boy at the door?</tr>
+                    <ref text="617">td. 15 [adapted]</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=cuu">cù</a> aig dorus</g>
+            <en>a dog at a door</en> – <xl>
+                <li>
+                    <gd>Chunnaic mi cù aig an dorus.</gd>
+                    <tr>I saw a dog at the door.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
     </section>
 
 </module>

@@ -2,15 +2,13 @@
 <module>
     <h>achadh</h>
     <p><g>achadh</g>
-        <en>a field</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        <masc/>
+        <en>a field</en></p>
 
-    <section>
-        <h>nouns</h>
-        <module id="obair">
-            <h>obair</h>
-            <p><g><a href="?gd=obair">obair</a> ann an achadh</g> <en>working in a field</en> –
-            <xl>
+    <section id="verbs">
+        <h>verbs</h>
+        <p><g><a href="?gd=obair">obair</a> ann an achadh</g>
+            <en>working in a field</en> – <xl>
                 <li>
                     <gd>A bheil Dòmhnall ag obair anns an achadh an diugh? Tha.</gd>
                     <tr>Is Donald working in the field today? Yes, he is.</tr>
@@ -27,15 +25,12 @@
                     <ref text="617">td. 7 [adapted]</ref>
                 </li>
             </xl>
-            </p>
-        </module>
+        </p>
     </section>
 
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <module id="tuathanach">
-            <h>tuathanach</h>
             <p><g><a href="?gd=tuathanach">tuathanach</a> ann an achadh</g>
                 <en>a farmer in a field</en> – <xl>
                     <li>
@@ -45,9 +40,6 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="caileag">
-            <h>caileag</h>
             <p><g><a href="?gd=caileag">caileag</a> ann an achadh</g>
                 <en>a girl in a field</en> – <xl>
                     <li>
@@ -57,9 +49,6 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="cuu">
-            <h>cù</h>
             <p><g><a href="?gd=cuu">cù</a> ann an achadh</g>
                 <en>a dog in a field</en> – <xl>
                     <li>
@@ -69,11 +58,10 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        
-        
-       
-                <!--<module>
+
+
+
+        <!--<module>
                     <h>[duine ag] obair ann an achadh</h>
                     <p><g>[duine ag] <a href="?gd=obair">obair</a> ann an achadh</g>
                         <en>[a man] working in a field</en> – <xl>
@@ -90,6 +78,6 @@
                         </xl>
                     </p>
                 </module>-->
-        </section>
+    </section>
 
 </module>

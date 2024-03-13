@@ -5,12 +5,12 @@
         <masc/>
         <en>a dog</en></p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <section id="adj-sbj">
-            <h>subject</h>
-            <section id="adj-sbj-size">
-                <h>size</h>
+        <!--<section id="adj-sbj">
+            <h>subject</h>-->
+            <!--<section id="adj-sbj-size">
+                <h>size</h>-->
                 <p><g>cù <a href="?gd=moor">mór</a></g>
                     <en>a big dog</en> – <xl>
                         <li>
@@ -24,9 +24,9 @@
                             <ref text="617">td. 25</ref>
                         </li>
                     </xl></p>
-            </section>
-            <section id="adj-sbj-colour">
-                <h>colour</h>
+            <!--</section>-->
+            <!--<section id="adj-sbj-colour">
+                <h>colour</h>-->
                 <p><g>cù <a href="?gd=dubh">dubh</a></g>
                     <en>a black dog</en> – <xl>
                         <li>
@@ -45,9 +45,9 @@
                             <ref text="617">td. 25</ref>
                         </li>
                     </xl></p>
-            </section>
-            <section id="adj-sbj-other">
-                <h>other</h>
+            <!--</section>-->
+            <!--<section id="adj-sbj-other">
+                <h>other</h>-->
                 <p><g>cù <a href="?gd=luath">luath</a></g>
                     <en>a swift dog</en> – <xl>
                         <li>
@@ -56,8 +56,8 @@
                             <ref text="617">td. 14</ref>
                         </li>
                     </xl></p>
-            </section>
-        </section>
+            <!--</section>-->
+        <!--</section>-->
     </section>
 
     <!--<section>
@@ -81,10 +81,10 @@
         </module>
     </section>-->
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section id="verbs-sbj">
-            <h>subject</h>
+        <!--<section id="verbs-sbj">
+            <h>subject</h>-->
             <p><g><a href="?gd=lean">lean</a> cù ...</g>
                 <en>a dog follows ...</en> – <xl>
                     <li>
@@ -99,9 +99,9 @@
                     </li>
                 </xl>
             </p>
-        </section>
-        <section id="verbs-obj">
-            <h>object</h>
+        <!--</section>-->
+       <!-- <section id="verbs-obj">
+            <h>object</h>-->
             <p><g><a href="?gd=faic">faic</a> ... cù</g>
                 <en>sees a dog</en> – <xl>
                     <li>
@@ -142,9 +142,9 @@
                     </li>
                 </xl>
             </p>
-        </section>
-        <section id="verbs-comit">
-            <h>comitative</h>
+        <!--</section>-->
+        <!--<section id="verbs-comit">
+            <h>comitative</h>-->
             <p><g><a href="?gd=cluich">cluich</a> còmhla ri cù</g>
                 <en>play with a dog</en> – <xl>
                     <li>
@@ -154,13 +154,13 @@
                     </li>
                 </xl>
             </p>
-        </section>
+        <!--</section>-->
     </section>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <section id="nouns-sbj">
-            <h>subject</h>
+        <!--<section id="nouns-sbj">
+            <h>subject</h>-->
             <p><g>cù ann an <a href="?gd=achadh">achadh</a></g>
                 <en>a dog in a field</en> – <xl>
                     <li>
@@ -202,9 +202,9 @@
                     </li>
                 </xl>
             </p>
-        </section>
-        <section id="nouns-comit">
-            <h>comitative</h>
+        <!--</section>-->
+        <!--<section id="nouns-comit">
+            <h>comitative</h>-->
             <p><g><a href="?gd=bodach">bodach</a> le cù</g>
                 <en>an old man with a dog</en> – <xl>
                     <li>
@@ -223,7 +223,7 @@
                     </li>
                 </xl>
             </p>
-        </section>
+        <!--</section>-->
     </section>
 
 

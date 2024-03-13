@@ -2,33 +2,30 @@
 <module>
     <h>abhainn</h>
     <p><g>abhainn</g>
-        <en>a river</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        <fem/>
+        <en>a river</en></p>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
         <!--<section>
             <h>locative</h>-->
-            <module id="iasgaich">
-                <h>iasgaich</h>
-                <p><g><a href="?gd=iasgaich">iasgaich</a> ... air abhainn</g>
-                    <en>... does fishing on a river</en> – <xl>
-                        <li>
-                            <gd>Có bha ag iasgach an diugh? Bha Alasdair. Càit an robh Alasdair
-                                ag iasgach? Bha e ag iasgach air an abhainn.</gd>
-                            <tr>Who was fishing today? Alexander was. Where was Alexander
-                                fishing? He was fishing on the river.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
+        <p><g><a href="?gd=iasgaich">iasgaich</a> ... air abhainn</g>
+            <en>... does fishing on a river</en> – <xl>
+                <li>
+                    <gd>Có bha ag iasgach an diugh? Bha Alasdair. Càit an robh Alasdair ag iasgach?
+                        Bha e ag iasgach air an abhainn.</gd>
+                    <tr>Who was fishing today? Alexander was. Where was Alexander fishing? He was
+                        fishing on the river.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+        </p>
         <!--</section>-->
     </section>
-    
 
-    
-    
-    
+
+
+
+
 
 </module>

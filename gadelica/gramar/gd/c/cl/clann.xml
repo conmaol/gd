@@ -5,10 +5,10 @@
         <fem/>
         <en>children</en></p>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section id="verbs-sbj">
-            <h>subject</h>
+        <!--<section id="verbs-sbj">
+            <h>subject</h>-->
             <p><g><a href="?gd=faag">fàg</a> clann ...</g>
                 <en>children leave ...</en> – <xl>
                     <li>
@@ -28,9 +28,9 @@
                         <ref text="617">td. 21</ref>
                     </li>
                 </xl></p>
-        </section>
-        <section id="verbs-obj">
-            <h>object</h>
+        <!--</section>-->
+        <!--<section id="verbs-obj">
+            <h>object</h>-->
             <p><g><a href="?gd=faic">faic</a> ... clann</g>
                 <en>sees children</en> – <xl>
                     <li>
@@ -39,15 +39,15 @@
                         <ref text="617">td. 21</ref>
                     </li>
                 </xl></p>
-        </section>
+        <!--</section>-->
     </section>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <section id="nouns-spr">
-            <h>specifier</h>
-            <section>
-                <h>people</h>
+       <!-- <section id="nouns-spr">
+            <h>specifier</h>-->
+            <!--<section>
+                <h>people</h>-->
                 <p><g><a href="?gd=athair">athair</a> cloinne</g>
                     <en>a father of children</en> – <xl>
                         <li>
@@ -59,7 +59,7 @@
                         </li>
                     </xl>
                 </p>
-                <p><g><a href="?gd=maathair">màthair</a> cloinne</g>
+                <p><g><a href="?gd=maathair">màthair</a> c[h]loinne</g>
                     <en>a mother of children</en> – <xl>
                         <li>
                             <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean
@@ -70,8 +70,8 @@
                         </li>
                     </xl>
                 </p>
-            </section>
-        </section>
+            <!--</section>-->
+        <!--</section>-->
     </section>
 
 </module>

@@ -5,42 +5,12 @@
         <masc/>
         <en>a house</en>.</p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <section id="adjectives-size">
-            <h>size</h>
-            <p><g>taigh <a href="?gd=moor">mór</a></g>
-                <en>a big house</en> – <xl>
-                    <li>
-                        <gd>Tha taigh mór air a’ chnoc.</gd>
-                        <tr>There is a big house on the hill.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                    <li>
-                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc àrd.</gd>
-                        <tr>Where is the big house? The big house is on the tall hill.</tr>
-                        <ref text="617">td. 21 [229]</ref>
-                    </li>
-                </xl></p>
-        </section>
-        <section id="adjectives-colour">
-            <h>colour</h>
-            <p><g>taigh <a href="?gd=geal">geal</a></g>
-                <en>a white house</en> – <xl>
-                    <li>
-                        <gd>Cha b’ann geal a bha an taigh.</gd>
-                        <tr>The house was not white.</tr>
-                        <ref text="617">td. 33</ref>
-                    </li>
-                </xl></p>
-        </section>
-    </section>
-
-    <section id="nouns">
-        <h>nouns</h>
-        <p><g>taigh air <a href="?gd=cnoc">cnoc</a></g>
-            <en>a house on a hill</en>
-            <xl>
+        <!--<section id="adjectives-size">
+            <h>size</h>-->
+        <p><g>taigh <a href="?gd=moor">mór</a></g>
+            <en>a big house</en> – <xl>
                 <li>
                     <gd>Tha taigh mór air a’ chnoc.</gd>
                     <tr>There is a big house on the hill.</tr>
@@ -51,26 +21,19 @@
                     <tr>Where is the big house? The big house is on the tall hill.</tr>
                     <ref text="617">td. 21 [229]</ref>
                 </li>
-            </xl>
-        </p>
-        <p><g><a href="?gd=cat">cat</a> ann an taigh</g>
-            <en>a cat in a house</en> – <xl>
+            </xl></p>
+        <!--</section>-->
+        <!--<section id="adjectives-colour">
+            <h>colour</h>-->
+        <p><g>taigh <a href="?gd=geal">geal</a></g>
+            <en>a white house</en> – <xl>
                 <li>
-                    <gd>A bheil an cat anns an taigh còmhla ri Seònaid?</gd>
-                    <tr>Is the cat in the house with Janet?</tr>
-                    <ref text="617">td. 15 [227]</ref>
+                    <gd>Cha b’ann geal a bha an taigh.</gd>
+                    <tr>The house was not white.</tr>
+                    <ref text="617">td. 33</ref>
                 </li>
-            </xl>
-        </p>
-        <p><g><a href="?gd=cuu">cù</a> aig taigh</g>
-            <en>a dog at a house</en> – <xl>
-                <li>
-                    <gd>An do dh’fhàg Calum an cù aig an taigh? Dh’fhàg.</gd>
-                    <tr>Did Malcolm leave the dog at the house? Yes, he did.</tr>
-                    <ref text="617">td. 47</ref>
-                </li>
-            </xl>
-        </p>
+            </xl></p>
+        <!--</section>-->
     </section>
 
     <section id="verbs">
@@ -181,6 +144,43 @@
         </p>
         <!--</section>-->
         <!--</section>-->
+    </section>
+
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g>taigh air <a href="?gd=cnoc">cnoc</a></g>
+            <en>a house on a hill</en>
+            <xl>
+                <li>
+                    <gd>Tha taigh mór air a’ chnoc.</gd>
+                    <tr>There is a big house on the hill.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+                <li>
+                    <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc àrd.</gd>
+                    <tr>Where is the big house? The big house is on the tall hill.</tr>
+                    <ref text="617">td. 21 [229]</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=cat">cat</a> ann an taigh</g>
+            <en>a cat in a house</en> – <xl>
+                <li>
+                    <gd>A bheil an cat anns an taigh còmhla ri Seònaid?</gd>
+                    <tr>Is the cat in the house with Janet?</tr>
+                    <ref text="617">td. 15 [227]</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=cuu">cù</a> aig taigh</g>
+            <en>a dog at a house</en> – <xl>
+                <li>
+                    <gd>An do dh’fhàg Calum an cù aig an taigh? Dh’fhàg.</gd>
+                    <tr>Did Malcolm leave the dog at the house? Yes, he did.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
     <section id="other">
