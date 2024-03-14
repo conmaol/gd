@@ -4,10 +4,8 @@
     <p><g>arbhar</g> <masc/>
         <en>corn</en></p>
     
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="abaich">
-            <h>abaich</h>
             <p><g>arbhar <a href="?gd=abaich">abaich</a></g> <en>ripe corn</en> –
                 <xl>
                     <li>
@@ -17,15 +15,12 @@
                     </li>
                 </xl>
             </p>
-        </module>
     </section>
     
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section>
-            <h>object</h>
-            <module id="buain">
-                <h>buain</h>
+        <!--<section>
+            <h>object</h>-->
                 <p><g><a href="?gd=buain">buain</a> ... arbhar</g> <en>... reaps corn</en> – 
                     <xl>
                         <li>
@@ -40,8 +35,7 @@
                         </li>
                     </xl>
                 </p>
-            </module>
-        </section>
+        <!--</section>-->
     </section>
     
 </module>

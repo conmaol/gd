@@ -1,68 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>balla</h>
-    <p><g>balla</g> <masc/>
+    <p><g>balla</g>
+        <masc/>
         <en>a wall</en></p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="aard">
-            <h>àrd</h>
-            <p><g>balla <a href="?gd=aard">àrd</a></g>
-                <en>a high wall</en> – <xl>
-                    <li>
-                        <gd>Tha am balla àrd.</gd>
-                        <tr>The wall is high.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl></p>
-        </module>
+        <p><g>balla <a href="?gd=aard">àrd</a></g>
+            <en>a high wall</en> – <xl>
+                <li>
+                    <gd>Tha am balla àrd.</gd>
+                    <tr>The wall is high.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl></p>
     </section>
 
-    <section>
-        <h>nouns</h>
-        <module id="obair">
-            <!-- activities? -->
-            <h>obair</h>
-            <p><g><a href="?gd=obair">obair</a> air balla</g>
-                <en>working on a wall</en> – <xl>
-                    <li>
-                        <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
-                        <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="clachair">
-            <!-- actors? -->
-            <h>clachair</h>
-            <p><g><a href="?gd=clachair">clachair</a> [ag obair air] balla</g>
-                <en>a mason [working on] a wall</en> – <xl>
-                    <li>
-                        <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
-                        <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <module id="sgriiobh">
-            <h>sgrìobh</h>
-            <p><g><a href="?gd=sgriiobh">sgrìobh</a> ... air balla</g>
-                <en>... writes on a wall</en> – <xl>
-                    <li>
-                        <gd>Cha do sgrìobh sinn air a’ bhalla.</gd>
-                        <tr>We didn’t write on the wall.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g><a href="?gd=obair">obair</a> air balla</g>
+            <en>working on a wall</en> – <xl>
+                <li>
+                    <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
+                    <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=sgriiobh">sgrìobh</a> ... air balla</g>
+            <en>... writes on a wall</en> – <xl>
+                <li>
+                    <gd>Cha do sgrìobh sinn air a’ bhalla.</gd>
+                    <tr>We didn’t write on the wall.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g><a href="?gd=clachair">clachair</a> [ag obair air] balla</g>
+            <en>a mason [working on] a wall</en> – <xl>
+                <li>
+                    <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
+                    <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>

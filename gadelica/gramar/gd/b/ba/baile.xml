@@ -2,28 +2,25 @@
 <module>
     <h>baile</h>
     <p><g>baile</g>
-        <en>a town, a village, a township</en> is a masculine <a
-            href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
+        <masc/>
+        <en>a town, a village, a township</en></p>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <module id="bodach">
-            <h>bodach</h>
-            <p><g><a href="?gd=bodach">bodach</a> ann am baile</g>
-                <en>an old man in a town</en> – <xl>
-                    <li>
-                        <gd>An robh am bodach anns a’ bhaile? Bha.</gd>
-                        <tr>Was the old man in the town? Yes, he was.</tr>
-                        <ref text="617">td. 21 [229]</ref>
-                    </li>
-                    <!--<li>
+        <p><g><a href="?gd=bodach">bodach</a> ann am baile</g>
+            <en>an old man in a town</en> – <xl>
+                <li>
+                    <gd>An robh am bodach anns a’ bhaile? Bha.</gd>
+                    <tr>Was the old man in the town? Yes, he was.</tr>
+                    <ref text="617">td. 21 [229]</ref>
+                </li>
+                <!--<li>
                                 <gd>Tha Màiri anns a’ bhaile an diugh.</gd>
                                 <tr>Mary is in the town today.</tr>
                                 <ref text="617">td. 20 [adapted]</ref>
                             </li>-->
-                </xl>
-            </p>
-        </module>
+            </xl>
+        </p>
     </section>
 
 

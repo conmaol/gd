@@ -32,41 +32,41 @@
         <li><g href="?gd=aodann">aodann</g>
           <masc/>
           <en>a face</en></li>
-        <!--
-        <li><a href="?gd=arbhar"><g>arbhar</g></a>
+        <li><g href="?gd=arbhar">arbhar</g>
           <masc/>
           <en>corn</en></li>
-        <li><a href="?gd=astar"><g>astar</g></a>
+        <li><g href="?gd=astar">astar</g>
           <masc/>
           <en>distance</en></li>
-        <li><a href="?gd=athair"><g>athair</g></a>
+        <li><g href="?gd=athair">athair</g>
           <masc/>
           <en>a father</en></li>
-        <li><a href="?gd=baile"><g>baile</g></a>
+        <li><g href="?gd=baile">baile</g>
           <masc/>
           <en>a town</en>
-        </li>-->
+        </li>
         <li><g href="?gd=bainne">bainne</g>
           <masc/>
           <en>milk</en></li>
-        <!--<li><a href="?gd=balach"><g>balach</g></a>
+        <li><g href="?gd=balach">balach</g>
           <masc/>
           <en>a boy</en></li>
-        <li><a href="?gd=balla"><g>balla</g></a>
+        <li><g href="?gd=balla">balla</g>
           <masc/>
           <en>a wall</en>
         </li>
-        <li><a href="?gd=bascaid"><g>bascaid</g></a>
+        <li><g href="?gd=bascaid">bascaid</g>
           <fem/>
-          <en>basket</en></li>-->
+          <en>basket</en></li>
         <li><g href="?gd=bata">bata</g>
           <masc/>
           <en>a stick</en></li>
-        <!--<li><a href="?gd=baata"><g>bàta</g></a>
+        <li><g href="?gd=baata">bàta</g>
           <masc/>
           <en>a boat</en>
           <pl/>
           <g>bàtaichean</g></li>
+        <!--
         <li><a href="?gd=beinn"><g>beinn</g></a>
           <fem/>
           <en>a mountain</en>
@@ -490,13 +490,18 @@
     <h>taxonomy of nouns</h>
     <p>
       <ul>
-        <li>people – <g href="?gd=gille">gille</g>
+        <li>people – <g href="?gd=balach">balach</g>
+          <masc/>
+          <en>a boy</en>, <g href="?gd=gille">gille</g>
           <masc/>
           <en>a boy</en>
           <ul>
             <li>aggregates – <g href="?gd=clann">clann</g>
               <fem/>
               <en>children</en></li>
+            <li>relations – <g href="?gd=athair">athair</g>
+              <masc/>
+              <en>a father</en></li>
           </ul>
         </li>
         <li>animals – <g href="?gd=cat">cat</g>
@@ -512,17 +517,25 @@
           <masc/>
           <en>a stream, a burn</en>, <g href="?gd=aodann">aodann</g>
           <masc/>
-          <en>a face</en>, <g href="?gd=bata">bata</g>
+          <en>a face</en>, <g href="?gd=baile">baile</g>
+          <masc/>
+          <en>a town</en>, <g href="?gd=bata">bata</g>
           <masc/>
           <en>a stick</en>, <g href="?gd=clach">clach</g>
           <fem/>
           <en>a stone</en>
           <ul>
-            <li>artifacts – <g href="?gd=leabhar">leabhar</g>
+            <li>artifacts – <g href="?gd=balla">balla</g>
               <masc/>
-              <en>a book</en>, <g href="?gd=botul">botul</g>
+              <en>a wall</en>, <g href="?gd=bascaid">bascaid</g>
+              <fem/>
+              <en>basket</en>, <g href="?gd=baata">bàta</g>
               <masc/>
-              <en>a bottle</en>
+              <en>a boat</en>, <g href="?gd=botul">botul</g>
+              <masc/>
+              <en>a bottle</en>, <g href="?gd=leabhar">leabhar</g>
+              <masc/>
+              <en>a book</en>
               <ul>
                 <li>furniture – <g href="?gd=boord">bòrd</g>
                   <masc/>
@@ -541,7 +554,13 @@
               <masc/>
               <en>sugar</en>, <g href="?gd=tii">tì</g>
               <masc/>
-              <en>tea</en></li>
+              <en>tea</en>
+              <ul>
+                <li>crops – <g href="?gd=arbhar">arbhar</g>
+                  <masc/>
+                  <en>corn</en></li>
+              </ul>
+            </li>
           </ul>
         </li>
         <li>other – <g href="?gd=acras">acras</g>
@@ -552,7 +571,9 @@
           <fem/>
           <en>weather</en>, <g href="?gd=anail">anail</g>
           <fem/>
-          <en>a breath, a rest</en>
+          <en>a breath, a rest</en>, <g href="?gd=astar">astar</g>
+          <masc/>
+          <en>distance</en>
         </li>
       </ul>
     </p>

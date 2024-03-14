@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>astar</h>
-    <p><g>astar</g>
-        <en>a distance, a speed</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+    <p><g>astar</g> <masc/>
+        <en>distance, speed</en></p>
     
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="fada">
-            <h>fada</h>
             <p><g>astar <a href="?gd=fada">fada</a></g>
                 <en>a long distance</en> – <xl>
                     <li>
@@ -18,9 +15,7 @@
                     </li>
                 </xl>
             </p>
-        </module>
     </section>
-    
-    
+        
 </module>
 
