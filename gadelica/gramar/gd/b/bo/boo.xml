@@ -5,20 +5,17 @@
         <fem/>
         <en>a cow</en></p>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <module id="reic">
-            <h>reic</h>
-            <p><g><a href="?gd=reic">reic</a> ... bó</g>
-                <en>... sells a cow</en> – <xl>
-                    <li>
-                        <gd>Reic Calum a’ bhó.</gd>
-                        <tr>Malcolm sold the cow.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g><a href="?gd=reic">reic</a> ... bó</g>
+            <en>... sells a cow</en> – <xl>
+                <li>
+                    <gd>Reic Calum a’ bhó.</gd>
+                    <tr>Malcolm sold the cow.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>

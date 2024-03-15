@@ -66,29 +66,28 @@
           <en>a boat</en>
           <pl/>
           <g>bàtaichean</g></li>
-        <!--
-        <li><a href="?gd=beinn"><g>beinn</g></a>
+        <li><g href="?gd=beinn">beinn</g>
           <fem/>
           <en>a mountain</en>
           <gen/>
           <g>beinne</g></li>
-        <li><a href="?gd=biadh"><g>biadh</g></a>
+        <li><g href="?gd=biadh">biadh</g>
           <masc/>
           <en>food</en>
           <gen/>
           <g>bìdh</g></li>
-        <li><a href="?gd=biiobull"><g>Bìobull</g></a>
+        <li><g href="?gd=biiobull">Bìobull</g>
           <masc/>
           <en>a Bible</en></li>
-        <li><a href="?gd=boo"><g>bó</g></a>
+        <li><g href="?gd=boo">bó</g>
           <fem/>
           <en>a cow</en></li>
-        <li><a href="?gd=bocsa"><g>bocsa</g></a>
+        <li><g href="?gd=bocsa">bocsa</g>
           <masc/>
           <en>a box</en></li>
-        <li><a href="?gd=bodach"><g>bodach</g></a>
+        <li><g href="?gd=bodach">bodach</g>
           <masc/>
-          <en>an old man</en></li>-->
+          <en>an old man</en></li>
         <li><g href="?gd=boord">bòrd</g>
           <masc/>
           <en>a table</en>
@@ -96,18 +95,20 @@
         <li><g href="?gd=botul">botul</g>
           <masc/>
           <en>a bottle</en></li>
-        <!--<li><a href="?gd=bracaist"><g>bracaist</g></a>
+        <li><g href="?gd=bracaist">bracaist</g>
           <fem/>
           <en>a breakfast</en></li>
-        <li><a href="?gd=brot"><g>brot</g></a>
+        <li><g href="?gd=brot">brot</g>
           <masc/>
           <en>soup, broth</en></li>
-        <li><a href="?gd=breac"><g>breac</g></a>
+        <li><g href="?gd=breac">breac</g>
           <masc/>
           <en>a trout</en></li>
-        <li><a href="?gd=bruthach"><g>bruthach</g></a>
+        <li><g href="?gd=bruthach">bruthach</g>
           <fem/>
           <en>a slope</en></li>
+
+        <!--
         <li><a href="?gd=caileag"><g>caileag</g></a>
           <fem/>
           <en>a girl</en></li>
@@ -492,7 +493,9 @@
       <ul>
         <li>people – <g href="?gd=balach">balach</g>
           <masc/>
-          <en>a boy</en>, <g href="?gd=gille">gille</g>
+          <en>a boy</en>, <g href="?gd=bodach">bodach</g>
+          <masc/>
+          <en>an old man</en>, <g href="?gd=gille">gille</g>
           <masc/>
           <en>a boy</en>
           <ul>
@@ -504,7 +507,11 @@
               <en>a father</en></li>
           </ul>
         </li>
-        <li>animals – <g href="?gd=cat">cat</g>
+        <li>animals – <g href="?gd=boo">bó</g>
+          <fem/>
+          <en>a cow</en>, <g href="?gd=breac">breac</g>
+          <masc/>
+          <en>a trout</en>, <g href="?gd=cat">cat</g>
           <masc/>
           <en>a cat</en>, <g href="?gd=cuu">cù</g>
           <masc/>
@@ -521,7 +528,11 @@
           <masc/>
           <en>a town</en>, <g href="?gd=bata">bata</g>
           <masc/>
-          <en>a stick</en>, <g href="?gd=clach">clach</g>
+          <en>a stick</en>, <g href="?gd=beinn">beinn</g>
+          <fem/>
+          <en>a mountain</en>, <g href="?gd=bruthach">bruthach</g>
+          <fem/>
+          <en>a slope</en>, <g href="?gd=clach">clach</g>
           <fem/>
           <en>a stone</en>
           <ul>
@@ -531,7 +542,11 @@
               <fem/>
               <en>basket</en>, <g href="?gd=baata">bàta</g>
               <masc/>
-              <en>a boat</en>, <g href="?gd=botul">botul</g>
+              <en>a boat</en>, <g href="?gd=biiobull">Bìobull</g>
+              <masc/>
+              <en>a Bible</en>, <g href="?gd=bocsa">bocsa</g>
+              <masc/>
+              <en>a box</en>, <g href="?gd=botul">botul</g>
               <masc/>
               <en>a bottle</en>, <g href="?gd=leabhar">leabhar</g>
               <masc/>
@@ -550,7 +565,13 @@
               </ul>
             </li>
             <li>food – <g href="?gd=bainne">bainne</g>
-              <masc/><en>milk</en>, <g href="?gd=siuucar">siùcar</g>
+              <masc/><en>milk</en>, <g href="?gd=biadh">biadh</g>
+              <masc/>
+              <en>food</en>, <g href="?gd=bracaist">bracaist</g>
+              <fem/>
+              <en>a breakfast</en>, <g href="?gd=brot">brot</g>
+              <masc/>
+              <en>soup, broth</en>, <g href="?gd=siuucar">siùcar</g>
               <masc/>
               <en>sugar</en>, <g href="?gd=tii">tì</g>
               <masc/>

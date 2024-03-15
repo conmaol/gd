@@ -2,27 +2,25 @@
 <module>
     <h>Bìobull</h>
     <p><g>Bìobull</g>
-        <en>a Bible</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        <masc/>
+        <en>a Bible</en></p>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
         <!--<section>
             <h>subject</h>
             <p><g>Bìobull</g> can be the (deep) subject of certain <a
                     href="?xx=prepositions/prepositions">prepositions</a>.</p>-->
-                <module id="bocsa">
-                    <h>bocsa</h>
-                    <p><g>Bìobull ann am <a href="?gd=bocsa">bocsa</a></g>
-                    <en>a Bible in a box</en> – <xl>
-                        <li>
-                            <gd>Nach robh leabhar anns a’ bhocsa sin? Bha. Bha Bìobull ann.</gd>
-                            <tr>Wasn’t there a book in that box? Yes, there was. There was a Bible
-                                (in it).</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                    </xl>
-                </p></module>
+        <p><g>Bìobull ann am <a href="?gd=bocsa">bocsa</a></g>
+            <en>a Bible in a box</en> – <xl>
+                <li>
+                    <gd>Nach robh leabhar anns a’ bhocsa sin? Bha. Bha Bìobull ann.</gd>
+                    <tr>Wasn’t there a book in that box? Yes, there was. There was a Bible (in
+                        it).</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+        </p>
         <!--</section>-->
     </section>
 

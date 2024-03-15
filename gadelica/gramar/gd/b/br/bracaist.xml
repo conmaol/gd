@@ -5,75 +5,66 @@
         <fem/>
         <en>a breakfast</en></p>
 
-    <section>
-        <h>properties</h>
-        <module id="ullamh">
-            <h>ullamh</h>
-            <p><g>[bi] bracaist <a href="?gd=ullamh">ullamh</a></g> <en>a breakfast [is] ready</en> –
-                <xl>
-                    <li>
-                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
-                            ri dhol do’n sgoil. [...] Dh’éirich athair na cloinne agus màthair na
-                            cloinne aig sia uairean sa’ mhadainn. [...] Bha am bracaist ullamh aig
-                            cóig mionaidean gu ochd, agus shuidh iad uile aig a’ bhòrd aig ochd
-                            uairean.</gd>
-                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
-                            the school. [...] The children’s father and mother rose at six o’ clock
-                            in the morning. [...] Their breakfast was ready at five minutes to
-                            eight, and they all sat down at the table at eight o’clock.</tr>
-                        <ref text="617">td. 183</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+    <section id="adjs">
+        <h>adjectives</h>
+        <p><g>[bi] bracaist <a href="?gd=ullamh">ullamh</a></g>
+            <en>a breakfast [is] ready</en> – <xl>
+                <li>
+                    <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad ri
+                        dhol do’n sgoil. [...] Dh’éirich athair na cloinne agus màthair na cloinne
+                        aig sia uairean sa’ mhadainn. [...] Bha am bracaist ullamh aig cóig
+                        mionaidean gu ochd, agus shuidh iad uile aig a’ bhòrd aig ochd uairean.</gd>
+                    <tr>Mary and Malcolm rose early in the morning today, for they had to go to the
+                        school. [...] The children’s father and mother rose at six o’ clock in the
+                        morning. [...] Their breakfast was ready at five minutes to eight, and they
+                        all sat down at the table at eight o’clock.</tr>
+                    <ref text="617">td. 183</ref>
+                </li>
+            </xl>
+        </p>
     </section>
-    
-    <section>
-        <h>locations</h>
-        <module id="boord">
-            <h>bòrd</h>
-            <p><g>bracaist aig <a href="?gd=boord">bòrd</a></g> <en>a breakfast at a table</en> –
-                <xl>
-                    <li>
-                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
-                            ri dhol do’n sgoil. [...] Dh’éirich athair na cloinne agus màthair na
-                            cloinne aig sia uairean sa’ mhadainn. [...] Bha am bracaist ullamh aig
-                            cóig mionaidean gu ochd, agus shuidh iad uile aig a’ bhòrd aig ochd
-                            uairean.</gd>
-                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
-                            the school. [...] The children’s father and mother rose at six o’ clock
-                            in the morning. [...] Their breakfast was ready at five minutes to
-                            eight, and they all sat down at the table at eight o’clock.</tr>
-                        <ref text="617">td. 183</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+
+    <section id="verbs">
+        <h>verbs</h>
+        <p><g><a href="?gd=thig">thig</a> ... gu bracaist</g>
+            <en>... comes for breakfast</en> – <xl>
+                <li>
+                    <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad ri
+                        dhol do’n sgoil. Dh’éirich Màiri aig deich mionaidean an déidh seachd, ach
+                        cha do dh’éirich Calum gus an robh e fichead mionaid gu ochd. Ged a bha
+                        Calum fada gun éiridh, cha tug e ach cairteal na h-uarach air faighinn
+                        deiseil, agus thàinig e a nuas an staidhre gu a bhracaist aig cóig
+                        mionaidean gu ochd.</gd>
+                    <tr>Mary and Malcolm rose early in the morning today, for they had to go to the
+                        school. Mary rose at ten minutes past seven, but Malcolm didn’t rise until
+                        it was twenty minutes to eight. Although Calum was late in rising, he only
+                        took a quarter of an hour to get ready, and he came downstairs to his
+                        breakfast at five minutes to eight.</tr>
+                    <ref text="617">td. 182-3</ref>
+                </li>
+            </xl>
+        </p>
     </section>
-    
-    <section>
-        <h>actions</h>
-        <module id="thig">
-            <h>thig</h>
-            <p><g><a href="?gd=thig">thig</a> ... gu bracaist</g>
-                <en>... comes for breakfast</en> – <xl>
-                    <li>
-                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
-                            ri dhol do’n sgoil. Dh’éirich Màiri aig deich mionaidean an déidh
-                            seachd, ach cha do dh’éirich Calum gus an robh e fichead mionaid gu
-                            ochd. Ged a bha Calum fada gun éiridh, cha tug e ach cairteal na
-                            h-uarach air faighinn deiseil, agus thàinig e a nuas an staidhre gu a
-                            bhracaist aig cóig mionaidean gu ochd.</gd>
-                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
-                            the school. Mary rose at ten minutes past seven, but Malcolm didn’t rise
-                            until it was twenty minutes to eight. Although Calum was late in rising,
-                            he only took a quarter of an hour to get ready, and he came downstairs
-                            to his breakfast at five minutes to eight.</tr>
-                        <ref text="617">td. 182-3</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g>bracaist aig <a href="?gd=boord">bòrd</a></g>
+            <en>a breakfast at a table</en> – <xl>
+                <li>
+                    <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad ri
+                        dhol do’n sgoil. [...] Dh’éirich athair na cloinne agus màthair na cloinne
+                        aig sia uairean sa’ mhadainn. [...] Bha am bracaist ullamh aig cóig
+                        mionaidean gu ochd, agus shuidh iad uile aig a’ bhòrd aig ochd uairean.</gd>
+                    <tr>Mary and Malcolm rose early in the morning today, for they had to go to the
+                        school. [...] The children’s father and mother rose at six o’ clock in the
+                        morning. [...] Their breakfast was ready at five minutes to eight, and they
+                        all sat down at the table at eight o’clock.</tr>
+                    <ref text="617">td. 183</ref>
+                </li>
+            </xl>
+        </p>
     </section>
+
+
 
 </module>

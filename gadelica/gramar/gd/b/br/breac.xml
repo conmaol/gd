@@ -5,76 +5,61 @@
         <masc/>
         <en>a trout</en></p>
 
-
-    <section>
-        <h>nouns</h>
-        <module id="allt">
-            <h>allt</h>
-            <p><g>breac ann an <a href="?gd=allt">allt</a></g>
-                <en>a trout in a burn</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt
-                            agus thòisich Seumas air iasgach. Cha do ghlac Seumas breac ach fhuair
-                            Màiri nead anns an fhraoch.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] They came to a burn and
-                            James started fishing. James didn’t catch a trout but Mary found a nest
-                            in the heather.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="linne">
-            <h>linne</h>
-            <p><g>breac ann an <a href="?gd=linne">linne</a></g>
-                <en>a trout in a pool</en> – <xl>
-                    <li>
-                        <gd>Ghlac Calum breac anns an linne seo.</gd>
-                        <tr>Malcolm caught a trout in this pool.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <module id="glac">
-            <h>glac</h>
-            <p><g><a href="?gd=glac">glac</a> ... breac</g>
-                <en>... catches a trout</en> – <xl>
-                    <li>
-                        <gd>Ghlac Calum breac anns an linne seo.</gd>
-                        <tr>Malcolm caught a trout in this pool.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                    <li>
-                        <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach. Cha
-                            do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
-                        <tr>Mary and James came to a burn and James started fishing. James didn’t
-                            catch a trout but Mary found a nest in the heather.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="iasgaich">
-            <h>iasgaich</h>
-            <p><g><a href="?gd=iasgaich">iasgaich</a> ... breac</g>
-                <en>fishing ... trout</en> – <xl>
-                    <li>
-                        <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach. Cha
-                            do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
-                        <tr>Mary and James came to a burn and James started fishing. James didn’t
-                            catch a trout but Mary found a nest in the heather.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g><a href="?gd=glac">glac</a> ... breac</g>
+            <en>... catches a trout</en> – <xl>
+                <li>
+                    <gd>Ghlac Calum breac anns an linne seo.</gd>
+                    <tr>Malcolm caught a trout in this pool.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+                <li>
+                    <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach. Cha do
+                        ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
+                    <tr>Mary and James came to a burn and James started fishing. James didn’t catch
+                        a trout but Mary found a nest in the heather.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=iasgaich">iasgaich</a> ... [airson] breac</g>
+            <en>... fishes [for] trout</en> – <xl>
+                <li>
+                    <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach. Cha do
+                        ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
+                    <tr>Mary and James came to a burn and James started fishing. James didn’t catch
+                        a trout but Mary found a nest in the heather.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g>breac ann an <a href="?gd=allt">allt</a></g>
+            <en>a trout in a burn</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus
+                        thòisich Seumas air iasgach. Cha do ghlac Seumas breac ach fhuair Màiri nead
+                        anns an fhraoch.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] They came to a burn and
+                        James started fishing. James didn’t catch a trout but Mary found a nest in
+                        the heather.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>breac ann an <a href="?gd=linne">linne</a></g>
+            <en>a trout in a pool</en> – <xl>
+                <li>
+                    <gd>Ghlac Calum breac anns an linne seo.</gd>
+                    <tr>Malcolm caught a trout in this pool.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
 
 </module>

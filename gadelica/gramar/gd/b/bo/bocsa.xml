@@ -2,17 +2,31 @@
 <module>
     <h>bocsa</h>
     <p><g>bocsa</g>
-        <en>a box</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+        <masc/>
+        <en>a box</en></p>
 
-    <section>
+    <section id="verbs">
+        <h>verbs</h>
+        <!-- <section>
+            <h>object</h>-->
+        <p><g><a href="?gd=cuir">cuir</a> ... bocsa ...</g>
+            <en>... puts a box ...</en> – <xl>
+                <li>
+                    <gd>Có chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
+                    <tr>Who put the box on the table? Mary did.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl></p>
+        <!--</section>-->
+    </section>
+
+
+    <section id="nouns">
         <h>nouns</h>
         <!--<section>
             <h>subject</h>
             <p><g>bocsa</g> can be the (deep) subject of certain <a
                     href="?xx=prepositions/prepositions">prepositions</a>.</p>-->
-        <module id="boord">
-            <h>bocsa</h>
             <p><g>bocsa air <a href="?gd=boord">bòrd</a></g>
                 <en>a box on a table</en> – <xl>
                     <li>
@@ -27,14 +41,11 @@
                     </li>
                 </xl>
             </p>
-        </module>
         <!--</section>-->
         <!-- <section>
             <h>object</h>
             <p><g>bocsa</g> can be the object of certain <a href="?xx=prepositions/prepositions"
                     >prepositions</a>.</p>-->
-        <module id="ugh">
-            <h>ugh</h>
             <p><g><a href="?gd=ugh">ugh</a> ann am bocsa</g>
                 <en>an egg in a box</en> – <xl>
                     <li>
@@ -44,9 +55,6 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="leabhar">
-            <h>leabhar</h>
             <p><g><a href="?gd=leabhar">leabhar</a> ann am bocsa</g>
                 <en>a book in a box</en> – <xl>
                     <li>
@@ -57,9 +65,6 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="biiobull">
-            <h>Bìobull</h>
             <p><g><a href="?gd=biiobull">Bìobull</a> ann am bocsa</g>
                 <en>a Bible in a box</en> – <xl>
                     <li>
@@ -70,30 +75,8 @@
                     </li>
                 </xl>
             </p>
-        </module>
         <!--</section>-->
     </section>
-
-    <section>
-        <h>verbs</h>
-       <!-- <section>
-            <h>object</h>-->
-            <module id="cuir">
-                <h>cuir</h>
-                <p><g><a href="?gd=cuir">cuir</a> bocsa ...</g>
-                    <en>puts a box ...</en> – <xl>
-                        <li>
-                            <gd>Có chuir am bocsa air a’ bhòrd? Chuir Màiri.</gd>
-                            <tr>Who put the box on the table? Mary did.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                    </xl></p>
-            </module>
-        <!--</section>-->
-    </section>
-
-
-
 
 
 
