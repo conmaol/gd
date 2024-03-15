@@ -5,23 +5,20 @@
         <masc/>
         <en>cheese</en></p>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section>
-            <h>object</h>
-            <module id="geaarr">
-                <h>geàrr</h>
-                <p><g><a href="?gd=ceaarr">geàrr</a> ... càise</g>
-                    <en>... cuts cheese</en> – <xl>
-                        <li>
-                            <gd>Có gheàrr an càise? Gheàrr Màiri.</gd>
-                            <tr>Who cut the cheese? Mary did.</tr>
-                            <ref text="617">td. 47</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
+        <!-- <section>
+            <h>object</h>-->
+        <p><g><a href="?gd=ceaarr">geàrr</a> ... càise</g>
+            <en>... cuts cheese</en> – <xl>
+                <li>
+                    <gd>Có gheàrr an càise? Gheàrr Màiri.</gd>
+                    <tr>Who cut the cheese? Mary did.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
     </section>
 
 

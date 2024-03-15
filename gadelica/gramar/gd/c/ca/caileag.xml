@@ -1,135 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>caileag</h>
-    <p><g>caileag</g> <fem/>
+    <p><g>caileag</g>
+        <fem/>
         <en>a girl</en></p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="beag">
-            <h>beag</h>
-            <p><g>caileag <a href="?gd=beag">bheag</a></g>
-                <en>a little girl</en> – <xl>
-                    <li>
-                        <gd>Bha a’ chaileag bheag anns an sgoil.</gd>
-                        <tr>The little girl was in the school.</tr>
-                        <ref text="617">td. 15 [228]</ref>
-                    </li>
-                </xl></p>
-        </module>
+        <p><g>caileag <a href="?gd=beag">bheag</a></g>
+            <en>a little girl</en> – <xl>
+                <li>
+                    <gd>Bha a’ chaileag bheag anns an sgoil.</gd>
+                    <tr>The little girl was in the school.</tr>
+                    <ref text="617">td. 15 [228]</ref>
+                </li>
+            </xl></p>
     </section>
 
-    <section>
-        <h>nouns</h>
-        <module id="sgoil">
-            <h>sgoil</h>
-            <p><g>caileag ann an <a href="?gd=sgoil">sgoil</a></g>
-                <en>a girl in a school</en> – <xl>
-                    <li>
-                        <gd>Bha a’ chaileag bheag anns an sgoil.</gd>
-                        <tr>The little girl was in the school.</tr>
-                        <ref text="617">td. 15 [228]</ref>
-                    </li>
-                    <li>
-                        <gd>An do ruith a’ chaileag do’n sgoil? Ruith.</gd>
-                        <tr>Did the girl run to the school?</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="coota">
-            <h>còta</h>
-            <p>
-                <g><a href="?gd=coota">còta</a> air caileag</g>
-                <en>a coat on a girl, a girl with a coat on</en> – <xl>
-                    <li>
-                        <gd>Tha còta dubh air a’ chaileig seo ach ’s e còta dearg a tha air
-                            Màiri.</gd>
-                        <tr>This girl has a black coat on but it’s a red coat that Mary has on.</tr>
-                        <ref text="617">td. 40</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="ooran">
-            <h>òran</h>
-            <p><g>gabh caileag <a href="?gd=ooran">òran</a></g>
-                <en>a girl sings a song</en> – <xl>
-                    <li>
-                        <gd>Ghabh a’ chaileag seo òran aig a’ chéilidh.</gd>
-                        <tr>This girl sang a song at the ceilidh.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="ceeilidh">
-            <h>céilidh</h>
-            <p><g>caileag aig <a href="?gd=ceeilidh">céilidh</a></g>
-                <en>a girl at a ceilidh</en> – <xl>
-                    <li>
-                        <gd>Ghabh a’ chaileag seo òran aig a’ chéilidh.</gd>
-                        <tr>This girl sang a song at the ceilidh.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="teine">
-            <h>teine</h>
-            <p><g>caileag aig <a href="?gd=teine">teine</a></g>
-                <en>a girl at a fire</en> – <xl>
-                    <li>
-                        <gd>An do shuidh a’ chaileag aig an teine? Shuidh.</gd>
-                        <tr>Did the girl sit down by the fire? Yes, she did.</tr>
-                        <ref text="617">td. 237</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section>
-            <h>subject</h>
-            <module id="cluich">
-                <h>cluich</h>
-                <p><g><a href="?gd=cluich">cluich</a> caileag</g>
-                    <en>a girl plays</en> – <xl>
-                        <li>
-                            <gd>Tha a’ chaileag a’ cluich.</gd>
-                            <tr>The girl is playing.</tr>
-                            <ref text="617">td. 15 [adapted]</ref>
-                        </li>
-                    </xl></p>
-            </module>
-            <module id="ruith">
-                <h>ruith</h>
-                <p><g><a href="?gd=ruith">ruith</a> caileag</g>
-                    <en>a girl runs</en> – <xl>
-                        <li>
-                            <gd>An do ruith a’ chaileag do’n sgoil? Ruith.</gd>
-                            <tr>Did the girl run to the school?</tr>
-                            <ref text="617">td. 47</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-            <module id="suidh">
-                <h>suidh</h>
-                <p><g><a href="?gd=suidh">suidh</a> caileag</g>
-                    <en>a girl sits down</en> – <xl>
-                        <li>
-                            <gd>An do shuidh a’ chaileag aig an teine? Shuidh.</gd>
-                            <tr>Did the girl sit down by the fire? Yes, she did.</tr>
-                            <ref text="617">td. 237</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
+        <!-- <section>
+            <h>subject</h>-->
+        <p><g><a href="?gd=cluich">cluich</a> caileag</g>
+            <en>a girl plays</en> – <xl>
+                <li>
+                    <gd>Tha a’ chaileag a’ cluich.</gd>
+                    <tr>The girl is playing.</tr>
+                    <ref text="617">td. 15 [adapted]</ref>
+                </li>
+            </xl></p>
+        <p><g><a href="?gd=ruith">ruith</a> caileag</g>
+            <en>a girl runs</en> – <xl>
+                <li>
+                    <gd>An do ruith a’ chaileag do’n sgoil? Ruith.</gd>
+                    <tr>Did the girl run to the school?</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=suidh">suidh</a> caileag</g>
+            <en>a girl sits down</en> – <xl>
+                <li>
+                    <gd>An do shuidh a’ chaileag aig an teine? Shuidh.</gd>
+                    <tr>Did the girl sit down by the fire? Yes, she did.</tr>
+                    <ref text="617">td. 237</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
     </section>
+
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g>caileag ann an <a href="?gd=sgoil">sgoil</a></g>
+            <en>a girl in a school</en> – <xl>
+                <li>
+                    <gd>Bha a’ chaileag bheag anns an sgoil.</gd>
+                    <tr>The little girl was in the school.</tr>
+                    <ref text="617">td. 15 [228]</ref>
+                </li>
+                <li>
+                    <gd>An do ruith a’ chaileag do’n sgoil? Ruith.</gd>
+                    <tr>Did the girl run to the school?</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+        <p>
+            <g><a href="?gd=coota">còta</a> air caileag</g>
+            <en>a coat on a girl, a girl with a coat on</en> – <xl>
+                <li>
+                    <gd>Tha còta dubh air a’ chaileig seo ach ’s e còta dearg a tha air Màiri.</gd>
+                    <tr>This girl has a black coat on but it’s a red coat that Mary has on.</tr>
+                    <ref text="617">td. 40</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>gabh caileag <a href="?gd=ooran">òran</a></g>
+            <en>a girl sings a song</en> – <xl>
+                <li>
+                    <gd>Ghabh a’ chaileag seo òran aig a’ chéilidh.</gd>
+                    <tr>This girl sang a song at the ceilidh.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>caileag aig <a href="?gd=ceeilidh">céilidh</a></g>
+            <en>a girl at a ceilidh</en> – <xl>
+                <li>
+                    <gd>Ghabh a’ chaileag seo òran aig a’ chéilidh.</gd>
+                    <tr>This girl sang a song at the ceilidh.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>caileag aig <a href="?gd=teine">teine</a></g>
+            <en>a girl at a fire</en> – <xl>
+                <li>
+                    <gd>An do shuidh a’ chaileag aig an teine? Shuidh.</gd>
+                    <tr>Did the girl sit down by the fire? Yes, she did.</tr>
+                    <ref text="617">td. 237</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+
 
 </module>

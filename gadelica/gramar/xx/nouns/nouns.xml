@@ -107,17 +107,16 @@
         <li><g href="?gd=bruthach">bruthach</g>
           <fem/>
           <en>a slope</en></li>
-
-        <!--
-        <li><a href="?gd=caileag"><g>caileag</g></a>
+        <li><g href="?gd=caileag">caileag</g>
           <fem/>
           <en>a girl</en></li>
-        <li><a href="?gd=cairteal"><g>cairteal</g></a>
+        <li><g href="?gd=cairteal">cairteal</g>
           <masc/>
           <en>a quarter</en></li>
-        <li><a href="?gd=caaise"><g>càise</g></a>
+        <li><g href="?gd=caaise">càise</g>
           <masc/>
           <en>cheese</en></li>
+        <!--
         <li><a href="?gd=cala"><g>cala</g></a>
           <masc/>
           <en>a harbour</en></li>
@@ -495,7 +494,9 @@
           <masc/>
           <en>a boy</en>, <g href="?gd=bodach">bodach</g>
           <masc/>
-          <en>an old man</en>, <g href="?gd=gille">gille</g>
+          <en>an old man</en>, <g href="?gd=caileag">caileag</g>
+          <fem/>
+          <en>a girl</en>, <g href="?gd=gille">gille</g>
           <masc/>
           <en>a boy</en>
           <ul>
@@ -571,7 +572,9 @@
               <fem/>
               <en>a breakfast</en>, <g href="?gd=brot">brot</g>
               <masc/>
-              <en>soup, broth</en>, <g href="?gd=siuucar">siùcar</g>
+              <en>soup, broth</en>, <g href="?gd=caaise">càise</g>
+              <masc/>
+              <en>cheese</en>, <g href="?gd=siuucar">siùcar</g>
               <masc/>
               <en>sugar</en>, <g href="?gd=tii">tì</g>
               <masc/>
@@ -594,7 +597,9 @@
           <fem/>
           <en>a breath, a rest</en>, <g href="?gd=astar">astar</g>
           <masc/>
-          <en>distance</en>
+          <en>distance</en>, <g href="?gd=cairteal">cairteal</g>
+          <masc/>
+          <en>a quarter</en>
         </li>
       </ul>
     </p>
