@@ -6,37 +6,31 @@
         <en>a social gathering, a visit</en>
     </p>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <module id="caileag">
-            <h>caileag</h>
-            <p><g><a href="?gd=caileag">caileag</a> aig céilidh</g>
-                <en>a girl at a ceilidh</en> – <xl>
-                    <li>
-                        <gd>Ghabh a’ chaileag seo òran aig a’ chéilidh.</gd>
-                        <tr>This girl sang a song at the ceilidh.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="ooran">
-            <h>òran</h>
-            <p><g><a href="?gd=ooran">òran</a> aig céilidh</g>
-                <en>a song at a ceilidh</en> – <xl>
-                    <li>
-                        <gd>Ghabh a’ chaileag seo òran aig a’ chéilidh.</gd>
-                        <tr>This girl sang a song at the ceilidh.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                    <li>
-                        <gd>Có ghabh òran aig a’ chéilidh? Ghabh Alasdair.</gd>
-                        <tr>Who ang a song at the ceilidh? Alexander did.</tr>
-                        <ref text="617">td. 48</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g><a href="?gd=caileag">caileag</a> aig céilidh</g>
+            <en>a girl at a ceilidh</en> – <xl>
+                <li>
+                    <gd>Ghabh a’ chaileag seo òran aig a’ chéilidh.</gd>
+                    <tr>This girl sang a song at the ceilidh.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=ooran">òran</a> aig céilidh</g>
+            <en>a song at a ceilidh</en> – <xl>
+                <li>
+                    <gd>Ghabh a’ chaileag seo òran aig a’ chéilidh.</gd>
+                    <tr>This girl sang a song at the ceilidh.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+                <li>
+                    <gd>Có ghabh òran aig a’ chéilidh? Ghabh Alasdair.</gd>
+                    <tr>Who ang a song at the ceilidh? Alexander did.</tr>
+                    <ref text="617">td. 48</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>

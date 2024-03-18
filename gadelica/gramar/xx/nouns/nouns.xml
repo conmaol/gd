@@ -136,19 +136,19 @@
         <li><g href="?gd=cathair">cathair</g>
           <fem/>
           <en>a chair</en></li>
-        <!--
-        <li><a href="?gd=ceann"><g>ceann</g></a>
+        <li><g href="?gd=ceann">ceann</g>
           <masc/>
           <en>a head</en>
         </li>
-        <li><a href="?gd=ceeilidh"><g>céilidh</g></a>
+        <li><g href="?gd=ceeilidh">céilidh</g>
           <fem/>
           <en>a social gathering, a visit</en>
         </li>
-        <li><a href="?gd=ceool"><g>ceòl</g></a>
+        <li><g href="?gd=ceool">ceòl</g>
           <masc/>
           <en>music</en>
         </li>
+        <!--
         <li><a href="?gd=ciiobair"><g>cìobair</g></a>
           <masc/>
           <en>a shepherd</en></li>-->
@@ -539,7 +539,9 @@
           <fem/>
           <en>a slope</en>, <g href="?gd=caladh">caladh</g>
           <masc/>
-          <en>a harbour</en>, <g href="?gd=clach">clach</g>
+          <en>a harbour</en>, <g href="?gd=ceann">ceann</g>
+          <masc/>
+          <en>a head</en>, <g href="?gd=clach">clach</g>
           <fem/>
           <en>a stone</en>
           <ul>
@@ -611,7 +613,11 @@
           <masc/>
           <en>distance</en>, <g href="?gd=cairteal">cairteal</g>
           <masc/>
-          <en>a quarter</en>
+          <en>a quarter</en>, <g href="?gd=ceeilidh">céilidh</g>
+          <fem/>
+          <en>a social gathering, a visit</en>, <g href="?gd=ceool">ceòl</g>
+          <masc/>
+          <en>music</en>
         </li>
       </ul>
     </p>

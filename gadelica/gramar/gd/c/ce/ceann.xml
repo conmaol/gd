@@ -5,72 +5,56 @@
     <masc/>
     <en>a head</en></p>
 
-  <section>
+  <section id="adjs">
     <h>adjectives</h>
-    <module id="moor">
-      <h>mór</h>
-      <p><g>ceann <a href="?gd=moor">mór</a></g>
-        <en>a large head</en> – <xl>
-          <li>
-            <gd>Bha ceann mór air Seumas.</gd>
-            <tr>James had a big head.</tr>
-            <ref text="617">td. 14 [adapted]</ref>
-          </li>
-        </xl></p>
-    </module>
-    <module id="goirt">
-      <h>goirt</h>
-      <p><g>ceann <a href="?gd=goirt">goirt</a></g>
-        <en>a sore head</en> – <xl>
-          <li>
-            <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
-            <tr>What is wrong with this boy? His head is sore.</tr>
-            <ref text="617">td. 20</ref>
-          </li>
-        </xl></p>
-    </module>
+    <p><g>ceann <a href="?gd=moor">mór</a></g>
+      <en>a large head</en> – <xl>
+        <li>
+          <gd>Bha ceann mór air Seumas.</gd>
+          <tr>James had a big head.</tr>
+          <ref text="617">td. 14 [adapted]</ref>
+        </li>
+      </xl></p>
+    <p><g>ceann <a href="?gd=goirt">goirt</a></g>
+      <en>a sore head</en> – <xl>
+        <li>
+          <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt.</gd>
+          <tr>What is wrong with this boy? His head is sore.</tr>
+          <ref text="617">td. 20</ref>
+        </li>
+      </xl></p>
   </section>
 
-  <section>
+  <section id="nouns">
     <h>nouns</h>
-    <module id="uiseag">
-      <h>uiseag</h>
-      <p><g><a href="?gd=uiseag">uiseag</a> os cionn ...</g> <en>a lark above ...</en> –
-        <xl>
-          <li>
-            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
-              e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
-              a’ deàrrsadh. Cha robh neul anns an adhar. Bha an uiseag a’ seinn os
-              cionn a chinn agus bha na h-eòin a’ ceileireadh am measg nan
-              creag.</gd>
-            <tr>Malcolm was tired walking on the moor, but at last he reached the
-              top of the mountain. [...] It was a beautiful day and the sun was
-              shining. There wasn’t a cloud in the sky. The lark was singing above
-              his head and the birds were warbling among the rocks.</tr>
-            <ref text="617">td. 146</ref>
-          </li>
-        </xl>
-      </p>
-    </module>
-    <module id="ceann">
-      <h>ceann</h>
-      <p><g>[os] cionn cinn</g> <en>above a head</en> –
-        <xl>
-          <li>
-            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
-              e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
-              a’ deàrrsadh. Cha robh neul anns an adhar. Bha an uiseag a’ seinn os
-              cionn a chinn agus bha na h-eòin a’ ceileireadh am measg nan
-              creag.</gd>
-            <tr>Malcolm was tired walking on the moor, but at last he reached the
-              top of the mountain. [...] It was a beautiful day and the sun was
-              shining. There wasn’t a cloud in the sky. The lark was singing above
-              his head and the birds were warbling among the rocks.</tr>
-            <ref text="617">td. 146</ref>
-          </li>
-        </xl>
-      </p>
-    </module>
+    <p><g><a href="?gd=uiseag">uiseag</a> os cionn ...</g>
+      <en>a lark above ...</en> – <xl>
+        <li>
+          <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e mullach na
+            beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’ deàrrsadh. Cha robh neul anns
+            an adhar. Bha an uiseag a’ seinn os cionn a chinn agus bha na h-eòin a’ ceileireadh am
+            measg nan creag.</gd>
+          <tr>Malcolm was tired walking on the moor, but at last he reached the top of the mountain.
+            [...] It was a beautiful day and the sun was shining. There wasn’t a cloud in the sky.
+            The lark was singing above his head and the birds were warbling among the rocks.</tr>
+          <ref text="617">td. 146</ref>
+        </li>
+      </xl>
+    </p>
+    <p><g>[os] cionn cinn</g>
+      <en>above a head</en> – <xl>
+        <li>
+          <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e mullach na
+            beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’ deàrrsadh. Cha robh neul anns
+            an adhar. Bha an uiseag a’ seinn os cionn a chinn agus bha na h-eòin a’ ceileireadh am
+            measg nan creag.</gd>
+          <tr>Malcolm was tired walking on the moor, but at last he reached the top of the mountain.
+            [...] It was a beautiful day and the sun was shining. There wasn’t a cloud in the sky.
+            The lark was singing above his head and the birds were warbling among the rocks.</tr>
+          <ref text="617">td. 146</ref>
+        </li>
+      </xl>
+    </p>
     <section id="other">
       <h>other</h>
       <p><xl>
