@@ -133,6 +133,9 @@
         <li><g href="?gd=cat">cat</g>
           <masc/>
           <en>a cat</en></li>
+        <li><g href="?gd=cathair">cathair</g>
+          <fem/>
+          <en>a chair</en></li>
         <!--
         <li><a href="?gd=ceann"><g>ceann</g></a>
           <masc/>
@@ -560,7 +563,9 @@
               <ul>
                 <li>furniture – <g href="?gd=boord">bòrd</g>
                   <masc/>
-                  <en>a table</en>, <g href="?gd=dorus">dorus</g>
+                  <en>a table</en>, <g href="?gd=cathair">cathair</g>
+                  <fem/>
+                  <en>a chair</en>, <g href="?gd=dorus">dorus</g>
                   <masc/>
                   <en>a door</en> (?)</li>
                 <li>buildings – <g href="?gd=caarn">càrn</g>

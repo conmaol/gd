@@ -3,43 +3,65 @@
     <h>càrn</h>
     <p><g>càrn</g>
         <masc/>
-        <en>a cairn</en>.</p>
+        <en>a cairn</en></p>
 
-    <section>
+    <section id="verbs">
+        <h>verbs</h>
+        <p><g><a href="?gd=cuir">cuir</a> ... air càrn</g>
+            <en>... puts ... on a cairn</en> – <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum clach
+                        air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil analach.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. There was a cairn of stones on the top of the mountain. Calum put
+                        a stone onto the cairn and he sat down beside the cairn having a rest.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=suidh">suidh</a> ... ri taobh cùirn ...</g>
+            <en>... sits down beside a cairn</en> – <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum clach
+                        air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil analach.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. There was a cairn of stones on the top of the mountain. Calum put
+                        a stone onto the cairn and he sat down beside the cairn having a rest.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+    <section id="nouns">
         <h>nouns</h>
-        <module id="clach">
-            <h>clach</h>
-            <p><g>càrn <a href="?gd=clach">chlach</a></g>
-                <en>a cairn of stones</en>, <g>clach air càrn</g>
-                <en>a stone on a cairn</en> – <xl>
-                    <li>
-                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-                            mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum
-                            clach air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil
-                            analach.</gd>
-                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-                            the mountain. There was a cairn of stones on the top of the mountain.
-                            Calum put a stone onto the cairn and he sat down beside the cairn having
-                            a rest.</tr>
-                        <ref text="617">td. 146</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="mullach">
-            <h>mullach</h>
-            <p><g>càrn air <a href="?gd=mullach">mullach</a></g>
-                <en>a cairn on a summit</en> – <xl>
-                    <li>
-                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-                            mullach na beinne. Bha càrn chlach air mullach na beinne.</gd>
-                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-                            the mountain. There was a cairn of stones on the top of the mountain. </tr>
-                        <ref text="617">td. 146</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g>càrn <a href="?gd=clach">chlach</a></g>
+            <en>a cairn of stones</en>, <g>clach air càrn</g>
+            <en>a stone on a cairn</en> – <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum clach
+                        air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil analach.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. There was a cairn of stones on the top of the mountain. Calum put
+                        a stone onto the cairn and he sat down beside the cairn having a rest.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>càrn air <a href="?gd=mullach">mullach</a></g>
+            <en>a cairn on a summit</en> – <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. Bha càrn chlach air mullach na beinne.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. There was a cairn of stones on the top of the mountain. </tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
         <!--<module id="taobh">
             <h>taobh</h>
             <p><g><a href="?gd=taobh">taobh</a> cùirn</g>
@@ -58,46 +80,6 @@
                 </xl>
             </p>
         </module>-->
-    </section>
-
-    <section>
-        <h>verbs</h>
-        <module id="cuir">
-            <h>cuir</h>
-            <p><g><a href="?gd=cuir">cuir</a> ... air càrn</g>
-                <en>... puts ... on a cairn</en> – <xl>
-                    <li>
-                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-                            mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum
-                            clach air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil
-                            analach.</gd>
-                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-                            the mountain. There was a cairn of stones on the top of the mountain.
-                            Calum put a stone onto the cairn and he sat down beside the cairn having
-                            a rest.</tr>
-                        <ref text="617">td. 146</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="suidh">
-            <h>suidh</h>
-            <p><g><a href="?gd=suidh">suidh</a> ... ri taobh cùirn ...</g> <en>... sits down beside a cairn</en> –
-                <xl>
-                    <li>
-                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-                            mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum
-                            clach air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil
-                            analach.</gd>
-                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-                            the mountain. There was a cairn of stones on the top of the mountain.
-                            Calum put a stone onto the cairn and he sat down beside the cairn having
-                            a rest.</tr>
-                        <ref text="617">td. 146</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
     </section>
 
 </module>

@@ -5,140 +5,113 @@
         <fem/>
         <en>a sheep</en></p>
 
-    <section>
-        <h>nouns</h>
-        <module id="beinn">
-            <h>beinn</h>
-            <p><g>caora air <a href="?gd=beinn">beinn</a></g>
-                <en>a sheep on a mountain</en> – <xl>
-                    <li>
-                        <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
-                        <tr>The sheep were up on the side of the mountain.</tr>
-                        <ref text="617">td. 21</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="monadh">
-            <h>monadh</h>
-            <p><g>caora ann am <a href="?gd=monadh">monadh</a> ...</g>
-                <en>a sheep on a moor</en> – <xl>
-                    <li>
-                        <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
-                        <tr>I saw sheep and cattle on the moor.</tr>
-                        <ref text="617">td. 21</ref>
-                    </li>
-                    <li>
-                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
-                            fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
-                            air na h-uain.</gd>
-                        <tr>When Mary and James reached the moor, the shepherds were at the fank and
-                            Mary stopped for a minute or two looking at the sheep and at the
-                            lambs.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="crodh">
-            <h>crodh</h>
-            <p><g>caoraich agus <a href="?gd=crodh">crodh</a></g>
-                <en>sheep and cattle</en> – <xl>
-                    <li>
-                        <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
-                        <tr>I saw sheep and cattle on the moor.</tr>
-                        <ref text="617">td. 21</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="uan">
-            <h>uan</h>
-            <p><g>caora agus <a href="?gd=uan">uan</a></g>
-                <en>a sheep and a lamb</en> – <xl>
-                    <li>
-                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
-                            fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
-                            air na h-uain.</gd>
-                        <tr>When Mary and James reached the moor, the shepherds were at the fank and
-                            Mary stopped for a minute or two looking at the sheep and at the
-                            lambs.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="ciiobair">
-            <h>cìobair</h>
-            <p><g>caora agus <a href="?gd=ciiobair">cìobair</a></g>
-                <en>a sheep and a shepherd</en> – <xl>
-                    <li>
-                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
-                            fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
-                            air na h-uain.</gd>
-                        <tr>When Mary and James reached the moor, the shepherds were at the fank and
-                            Mary stopped for a minute or two looking at the sheep and at the
-                            lambs.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="fang">
-            <h>fang</h>
-            <p><g>caora ann am <a href="?gd=fang">fang</a></g>
-                <en>a sheep in a fank</en> – <xl>
-                    <li>
-                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
-                            fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
-                            air na h-uain.</gd>
-                        <tr>When Mary and James reached the moor, the shepherds were at the fank and
-                            Mary stopped for a minute or two looking at the sheep and at the
-                            lambs.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section>
+    <section id="verbs">
         <h>verbs</h>
         <!--<section>
             <h>object</h>-->
-        <module id="faic">
-            <h>faic</h>
-            <p><g><a href="?gd=faic">faic</a> ... caora</g>
-                <en>... sees a sheep</en> – <xl>
-                    <li>
-                        <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
-                        <tr>I saw sheep and cattle on the moor.</tr>
-                        <ref text="617">td. 21</ref>
-                    </li>
-                    <li>
-                        <gd>Am faca tu na caoraich? Chunnaic.</gd>
-                        <tr>Did you see the sheep? Yes, I did.</tr>
-                        <ref text="617">td. 177</ref>
-                    </li>
-                </xl></p>
-        </module>
-        <module id="coimhead">
-            <h>coimhead</h>
-            <p><g><a href="?gd=coimhead">coimhead</a> ... air caora</g>
-                <en>... looks at a sheep</en> –<xl>
-                    <li>
-                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
-                            fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
-                            air na h-uain.</gd>
-                        <tr>When Mary and James reached the moor, the shepherds were at the fank and
-                            Mary stopped for a minute or two looking at the sheep and at the
-                            lambs.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g><a href="?gd=faic">faic</a> ... caora</g>
+            <en>... sees a sheep</en> – <xl>
+                <li>
+                    <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
+                    <tr>I saw sheep and cattle on the moor.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+                <li>
+                    <gd>Am faca tu na caoraich? Chunnaic.</gd>
+                    <tr>Did you see the sheep? Yes, I did.</tr>
+                    <ref text="617">td. 177</ref>
+                </li>
+            </xl></p>
+        <p><g><a href="?gd=coimhead">coimhead</a> ... air caora</g>
+            <en>... looks at a sheep</en> –<xl>
+                <li>
+                    <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an fhang
+                        agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus air na
+                        h-uain.</gd>
+                    <tr>When Mary and James reached the moor, the shepherds were at the fank and
+                        Mary stopped for a minute or two looking at the sheep and at the lambs.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
         <!--</section>-->
     </section>
+
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g>caora air <a href="?gd=beinn">beinn</a></g>
+            <en>a sheep on a mountain</en> – <xl>
+                <li>
+                    <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
+                    <tr>The sheep were up on the side of the mountain.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>caora ann am <a href="?gd=monadh">monadh</a> ...</g>
+            <en>a sheep on a moor</en> – <xl>
+                <li>
+                    <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
+                    <tr>I saw sheep and cattle on the moor.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+                <li>
+                    <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an fhang
+                        agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus air na
+                        h-uain.</gd>
+                    <tr>When Mary and James reached the moor, the shepherds were at the fank and
+                        Mary stopped for a minute or two looking at the sheep and at the lambs.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>caoraich agus <a href="?gd=crodh">crodh</a></g>
+            <en>sheep and cattle</en> – <xl>
+                <li>
+                    <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
+                    <tr>I saw sheep and cattle on the moor.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>caora agus <a href="?gd=uan">uan</a></g>
+            <en>a sheep and a lamb</en> – <xl>
+                <li>
+                    <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an fhang
+                        agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus air na
+                        h-uain.</gd>
+                    <tr>When Mary and James reached the moor, the shepherds were at the fank and
+                        Mary stopped for a minute or two looking at the sheep and at the lambs.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>caora agus <a href="?gd=ciiobair">cìobair</a></g>
+            <en>a sheep and a shepherd</en> – <xl>
+                <li>
+                    <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an fhang
+                        agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus air na
+                        h-uain.</gd>
+                    <tr>When Mary and James reached the moor, the shepherds were at the fank and
+                        Mary stopped for a minute or two looking at the sheep and at the lambs.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>caora ann am <a href="?gd=fang">fang</a></g>
+            <en>a sheep in a fank</en> – <xl>
+                <li>
+                    <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an fhang
+                        agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus air na
+                        h-uain.</gd>
+                    <tr>When Mary and James reached the moor, the shepherds were at the fank and
+                        Mary stopped for a minute or two looking at the sheep and at the lambs.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+
 
 </module>

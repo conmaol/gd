@@ -5,60 +5,51 @@
         <masc/>
         <en>a car</en></p>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section>
-            <h>subject</h>
-            <module id="stad">
-                <h>stad</h>
-                <p><g><a href="?gd=stad">stad</a> càr</g>
-                    <en>a car stops</en> – <xl>
-                        <li>
-                            <gd>Shìn e a mach a làmh agus stad an càr.</gd>
-                            <tr>He stretched out his hand and the car stopped.</tr>
-                            <ref text="617">td. 47</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
-        <section>
-            <h>object</h>
-            <module id="lean">
-                <h>lean</h>
-                <p><g><a href="?gd=lean">lean</a> ... càr</g>
-                    <en>... follows a car</en> – <xl>
-                        <li>
-                            <gd>Lean an càr sin!</gd>
-                            <tr>Follow that car!</tr>
-                            <ref text="617">td. 237</ref>
-                        </li>
-                        <li>
-                            <gd>An do lean thu an càr? Lean.</gd>
-                            <tr>Did you follow the car? Yes, I did.</tr>
-                            <ref text="617">td. 237</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-            <module id="reic">
-                <h>reic</h>
-                <p><g><a href="?gd=reic">reic</a> ... càr</g>
-                    <en>... sells a car</en> – <xl>
-                        <li>
-                            <gd>Reic Seumas an càr.</gd>
-                            <tr>James sold the car.</tr>
-                            <ref text="617">td. 238</ref>
-                        </li>
-                        <li>
-                            <gd>An do reic Seumas an càr? Reic.</gd>
-                            <tr>Did James sell the car? Yes, he did.</tr>
-                            <ref text="617">td. 238</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
+        <!-- <section>
+            <h>subject</h>-->
+        <p><g><a href="?gd=stad">stad</a> càr</g>
+            <en>a car stops</en> – <xl>
+                <li>
+                    <gd>Shìn e a mach a làmh agus stad an càr.</gd>
+                    <tr>He stretched out his hand and the car stopped.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
+        <!--<section>
+            <h>object</h>-->
+        <p><g><a href="?gd=lean">lean</a> ... càr</g>
+            <en>... follows a car</en> – <xl>
+                <li>
+                    <gd>Lean an càr sin!</gd>
+                    <tr>Follow that car!</tr>
+                    <ref text="617">td. 237</ref>
+                </li>
+                <li>
+                    <gd>An do lean thu an càr? Lean.</gd>
+                    <tr>Did you follow the car? Yes, I did.</tr>
+                    <ref text="617">td. 237</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=reic">reic</a> ... càr</g>
+            <en>... sells a car</en> – <xl>
+                <li>
+                    <gd>Reic Seumas an càr.</gd>
+                    <tr>James sold the car.</tr>
+                    <ref text="617">td. 238</ref>
+                </li>
+                <li>
+                    <gd>An do reic Seumas an càr? Reic.</gd>
+                    <tr>Did James sell the car? Yes, he did.</tr>
+                    <ref text="617">td. 238</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
     </section>
 
 

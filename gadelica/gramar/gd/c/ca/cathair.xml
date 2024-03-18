@@ -5,23 +5,20 @@
         <fem/>
         <en>chair</en></p>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section>
-            <h>location</h>
-            <module id="suidh">
-                <h>suidh</h>
-                <p><g><a href="?gd=suidh">suidh</a> ... air cathair</g>
-                    <en>... sits down on a chair</en> – <xl>
-                        <li>
-                            <gd>Càir an do shuidh Calum? Shuidh Calum air a’ chathair.</gd>
-                            <tr>Where did Malcolm sit down? Malcolm sat down on the chair.</tr>
-                            <ref text="617">td. 47</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
+        <!--<section>
+            <h>location</h>-->
+        <p><g><a href="?gd=suidh">suidh</a> ... air cathair</g>
+            <en>... sits down on a chair</en> – <xl>
+                <li>
+                    <gd>Càir an do shuidh Calum? Shuidh Calum air a’ chathair.</gd>
+                    <tr>Where did Malcolm sit down? Malcolm sat down on the chair.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
     </section>
 
 </module>
