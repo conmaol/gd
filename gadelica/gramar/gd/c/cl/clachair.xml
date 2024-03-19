@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>clachair</h>
-    <p><g>clachair</g>
-        <en>a stonemason</en> is a masculine <a href="?xx=nouns/common_nouns">common noun</a>.</p>
+    <p><g>clachair</g> <masc/>
+        <en>a stonemason</en></p>
 
     <section>
         <h>nouns</h>
