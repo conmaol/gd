@@ -5,36 +5,30 @@
         <masc/>
         <en>a shore</en></p>
 
-    <section>
-        <h>nouns</h>
-        <module id="baata">
-            <h>bàta</h>
-            <p><g><a href="?gd=baata">bàta</a> air cladach</g>
-                <en>a boat on a shore</en> – <xl>
-                    <li>
-                        <gd>Tha am bàta air a’ chladach.</gd>
-                        <tr>The boat is on the shore.</tr>
-                        <ref text="617">td. 17</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+    <section id="verbs">
+        <h>verbs</h>
+        <p><g><a href="?gd=fan">fan</a> ... aig cladach</g>
+            <en>... stays at a shore</en> – <xl>
+                <li>
+                    <gd>Cha do dh’fhan Màiri aig a’ chladach. Ruith i dhachaidh.</gd>
+                    <tr>Mary did not stay at the shore. She ran home.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
-    <section>
-        <h>verbs</h>
-        <module id="fan">
-            <h>fan</h>
-            <p><g><a href="?gd=fan">fan</a> ... aig cladach</g>
-                <en>... stays at a shore</en> – <xl>
-                    <li>
-                        <gd>Cha do dh’fhan Màiri aig a’ chladach. Ruith i dhachaidh.</gd>
-                        <tr>Mary did not stay at the shore. She ran home.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g><a href="?gd=baata">bàta</a> air cladach</g>
+            <en>a boat on a shore</en> – <xl>
+                <li>
+                    <gd>Tha am bàta air a’ chladach.</gd>
+                    <tr>The boat is on the shore.</tr>
+                    <ref text="617">td. 17</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
     <section id="other">

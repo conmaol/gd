@@ -5,29 +5,25 @@
         <masc/>
         <en>a village</en></p>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section>
-            <h>locative</h>
-            <module id="fuirich">
-                <h>fuirich</h>
-                <p><g><a href="?gd=fuirich">fuirich</a> ann an clachan</g>
-                    <en>lives in a village</en> – <xl>
-                        <li>
-                            <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach anns a’
-                                chlachan.</gd>
-                            <tr>Where do you live? I live in the village.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                        <li>
-                            <gd>Nach robh Calum a’ fuireach anns a’ chlachan? Bha gu dearbh.</gd>
-                            <tr>Wasn’t Calum living in the village? Yes, indeed he was.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
+        <!--<section>
+            <h>locative</h>-->
+        <p><g><a href="?gd=fuirich">fuirich</a> ann an clachan</g>
+            <en>lives in a village</en> – <xl>
+                <li>
+                    <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach anns a’ chlachan.</gd>
+                    <tr>Where do you live? I live in the village.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+                <li>
+                    <gd>Nach robh Calum a’ fuireach anns a’ chlachan? Bha gu dearbh.</gd>
+                    <tr>Wasn’t Calum living in the village? Yes, indeed he was.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
     </section>
 
 </module>

@@ -176,22 +176,21 @@
           <masc/>
           <en>a hill</en>
         </li>
-        <!--
-        <li><a href="?gd=coire"><g>coire</g></a>
+        <li><g href="?gd=coire">coire</g>
           <masc/>
           <en>a kettle</en></li>
-        <li><a href="?gd=coota"><g>còta</g></a>
+        <li><g href="?gd=coota">còta</g>
           <masc/>
           <en>a coat</en></li>
-        <li><a href="?gd=craobh"><g>craobh</g></a>
+        <li><g href="?gd=craobh">craobh</g>
           <fem/>
           <en>a tree</en></li>
-        <li><a href="?gd=creag"><g>creag</g></a>
+        <li><g href="?gd=creag">creag</g>
           <fem/>
           <en>a rock</en></li>
-        <li><a href="?gd=crodh"><g>crodh</g></a>
+        <li><g href="?gd=crodh">crodh</g>
           <masc/>
-          <en>cattle</en></li>-->
+          <en>cattle</en></li>
         <li><g href="?gd=cuu">cù</g>
           <masc/>
           <en>a dog</en>
@@ -524,7 +523,13 @@
           <fem/>
           <en>a sheep</en>, <g href="?gd=cuu">cù</g>
           <masc/>
-          <en>a dog</en></li>
+          <en>a dog</en>
+          <ul>
+            <li>aggregates – <g href="?gd=crodh">crodh</g>
+              <masc/>
+              <en>cattle</en></li>
+          </ul>
+        </li>
         <li>things – <g href="?gd=abhainn">abhainn</g>
           <fem/>
           <en>a river</en>, <g href="?gd=achadh">achadh</g>
@@ -557,7 +562,11 @@
           <fem/>
           <en>an ear</en>, <g href="?gd=cnoc">cnoc</g>
           <masc/>
-          <en>a hill</en>
+          <en>a hill</en>, <g href="?gd=craobh">craobh</g>
+          <fem/>
+          <en>a tree</en>, <g href="?gd=creag">creag</g>
+          <fem/>
+          <en>a rock</en>
           <ul>
             <li>artifacts – <g href="?gd=balla">balla</g>
               <masc/>
@@ -573,7 +582,11 @@
               <masc/>
               <en>a bottle</en>, <g href="?gd=caar">càr</g>
               <masc/>
-              <en>a car</en>, <g href="?gd=leabhar">leabhar</g>
+              <en>a car</en>, <g href="?gd=coire">coire</g>
+              <masc/>
+              <en>a kettle</en>, <g href="?gd=coota">còta</g>
+              <masc/>
+              <en>a coat</en>, <g href="?gd=leabhar">leabhar</g>
               <masc/>
               <en>a book</en>
               <ul>

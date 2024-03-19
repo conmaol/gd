@@ -5,61 +5,52 @@
         <masc/>
         <en>a hill</en></p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="aard">
-            <h>àrd</h>
-            <p><g>cnoc <a href="?gd=aard">àrd</a></g>
-                <en>a tall hill</en> – <xl>
-                    <li>
-                        <gd>Tha an cnoc seo àrd.</gd>
-                        <tr>This hill is high.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                    <li>
-                        <gd>Tha an taigh mór air a’ chnoc àrd.</gd>
-                        <tr>The big house is on the tall hill.</tr>
-                        <ref text="617">td. 21 [229]</ref>
-                    </li>
-                </xl></p>
-        </module>
+        <p><g>cnoc <a href="?gd=aard">àrd</a></g>
+            <en>a tall hill</en> – <xl>
+                <li>
+                    <gd>Tha an cnoc seo àrd.</gd>
+                    <tr>This hill is high.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+                <li>
+                    <gd>Tha an taigh mór air a’ chnoc àrd.</gd>
+                    <tr>The big house is on the tall hill.</tr>
+                    <ref text="617">td. 21 [229]</ref>
+                </li>
+            </xl></p>
     </section>
 
-    <section>
-        <h>nouns</h>
-        <module id="taigh">
-            <h>taigh</h>
-            <p><g><a href="?gd=taigh">taigh</a> air cnoc</g>
-                <en>a house on a hill</en> – <xl>
-                    <li>
-                        <gd>Dé tha air a’ chnoc? Tha taigh mór air a’ chnoc.</gd>
-                        <tr>What is on the hill? There is a big house on the hill.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                    <li>
-                        <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc àrd.</gd>
-                        <tr>Where is the big house? The big house is on the tall hill.</tr>
-                        <ref text="617">td. 21 [229]</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <module id="suidh">
-            <h>suidh</h>
-            <p><g><a href="?gd=suidh">suidh</a> ... air cnoc</g>
-                <en>... sits down on a hill</en> – <xl>
-                    <li>
-                        <gd>Shuidh iad air a’ chnoc.</gd>
-                        <tr>They sat down on the hill.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g><a href="?gd=suidh">suidh</a> ... air cnoc</g>
+            <en>... sits down on a hill</en> – <xl>
+                <li>
+                    <gd>Shuidh iad air a’ chnoc.</gd>
+                    <tr>They sat down on the hill.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g><a href="?gd=taigh">taigh</a> air cnoc</g>
+            <en>a house on a hill</en> – <xl>
+                <li>
+                    <gd>Dé tha air a’ chnoc? Tha taigh mór air a’ chnoc.</gd>
+                    <tr>What is on the hill? There is a big house on the hill.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+                <li>
+                    <gd>Càit a bheil an taigh mór? Tha an taigh mór air a’ chnoc àrd.</gd>
+                    <tr>Where is the big house? The big house is on the tall hill.</tr>
+                    <ref text="617">td. 21 [229]</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>

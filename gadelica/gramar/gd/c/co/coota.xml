@@ -2,15 +2,15 @@
 <module>
     <h>còta</h>
     <p><g>còta</g>
-        <en>a coat</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        <masc/>
+        <en>a coat</en></p>
 
     <section>
         <h>states</h>
         <module id="moor">
             <h>mór</h>
-            <p><g>còta <a href="?gd=moor">mór</a></g> <en>a big coat</en> –
-                <xl>
+            <p><g>còta <a href="?gd=moor">mór</a></g>
+                <en>a big coat</en> – <xl>
                     <li>
                         <gd>Tha còta mór air an t-saighdear.</gd>
                         <tr>The soldier has a big coat on.</tr>

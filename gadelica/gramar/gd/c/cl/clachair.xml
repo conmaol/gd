@@ -1,35 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>clachair</h>
-    <p><g>clachair</g> <masc/>
+    <p><g>clachair</g>
+        <masc/>
         <en>a stonemason</en></p>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <module id="obair">
-            <h>obair</h>
-            <p><g>clachair [ag] <a href="?gd=obair">obair</a></g>
-                <en>a mason working</en> – <xl>
-                    <li>
-                        <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
-                        <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="balla">
-            <h>balla</h>
-            <p><g>clachair [ag obair air] <a href="?gd=balla">balla</a></g>
-                <en>a mason [working on] a wall</en> – <xl>
-                    <li>
-                        <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
-                        <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g>clachair [ag] <a href="?gd=obair">obair</a></g>
+            <en>a mason working</en> – <xl>
+                <li>
+                    <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
+                    <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>clachair [ag obair air] <a href="?gd=balla">balla</a></g>
+            <en>a mason [working on] a wall</en> – <xl>
+                <li>
+                    <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
+                    <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>

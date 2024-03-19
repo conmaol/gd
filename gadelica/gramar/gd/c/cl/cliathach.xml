@@ -5,20 +5,17 @@
         <fem/>
         <en>a side</en></p>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <module id="beinn">
-            <h>beinn</h>
-            <p><g>cliathach <a href="?gd=beinn">beinne</a></g>
-                <en>a side of a mountain</en> – <xl>
-                    <li>
-                        <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
-                        <tr>The sheep were up on the side of the mountain.</tr>
-                        <ref text="617">td. 21</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g>cliathach <a href="?gd=beinn">beinne</a></g>
+            <en>a side of a mountain</en> – <xl>
+                <li>
+                    <gd>Bha na caoraich shuas air cliathach na beinne.</gd>
+                    <tr>The sheep were up on the side of the mountain.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>
