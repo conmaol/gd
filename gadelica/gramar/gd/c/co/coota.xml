@@ -5,66 +5,50 @@
         <masc/>
         <en>a coat</en></p>
 
-    <section>
-        <h>states</h>
-        <module id="moor">
-            <h>mór</h>
-            <p><g>còta <a href="?gd=moor">mór</a></g>
-                <en>a big coat</en> – <xl>
-                    <li>
-                        <gd>Tha còta mór air an t-saighdear.</gd>
-                        <tr>The soldier has a big coat on.</tr>
-                        <ref text="617">td. 245</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="dubh">
-            <h>dubh</h>
-            <p><g>còta <a href="?gd=dubh">dubh</a></g>
-                <en>a black coat</en> – <xl>
-                    <li>
-                        <gd>Tha còta dubh air a’ chaileig seo ach ’s e còta dearg a tha air
-                            Màiri.</gd>
-                        <tr>This girl has a black coat on but it’s a red coat that Mary has on.</tr>
-                        <ref text="617">td. 40</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="donn">
-            <h>donn</h>
-            <p><g>còta <a href="?gd=donn">donn</a></g>
-                <en>a brown coat</en> – <xl>
-                    <li>
-                        <gd>Tha còta donn air an t-saighdear.</gd>
-                        <tr>The soldier has a brown coat on.</tr>
-                        <ref text="617">td. 65</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="dearg">
-            <h>dearg</h>
-            <p><g>còta <a href="?gd=dearg">dearg</a></g>
-                <en>a red coat</en> – <xl>
-                    <li>
-                        <gd>Tha còta dubh air a’ chaileig seo ach ’s e còta dearg a tha air
-                            Màiri.</gd>
-                        <tr>This girl has a black coat on but it’s a red coat that Mary has on.</tr>
-                        <ref text="617">td. 40</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+    <section id="adjs">
+        <h>adjectives</h>
+        <p><g>còta <a href="?gd=moor">mór</a></g>
+            <en>a big coat</en> – <xl>
+                <li>
+                    <gd>Tha còta mór air an t-saighdear.</gd>
+                    <tr>The soldier has a big coat on.</tr>
+                    <ref text="617">td. 245</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>còta <a href="?gd=dubh">dubh</a></g>
+            <en>a black coat</en> – <xl>
+                <li>
+                    <gd>Tha còta dubh air a’ chaileig seo ach ’s e còta dearg a tha air Màiri.</gd>
+                    <tr>This girl has a black coat on but it’s a red coat that Mary has on.</tr>
+                    <ref text="617">td. 40</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>còta <a href="?gd=donn">donn</a></g>
+            <en>a brown coat</en> – <xl>
+                <li>
+                    <gd>Tha còta donn air an t-saighdear.</gd>
+                    <tr>The soldier has a brown coat on.</tr>
+                    <ref text="617">td. 65</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>còta <a href="?gd=dearg">dearg</a></g>
+            <en>a red coat</en> – <xl>
+                <li>
+                    <gd>Tha còta dubh air a’ chaileig seo ach ’s e còta dearg a tha air Màiri.</gd>
+                    <tr>This girl has a black coat on but it’s a red coat that Mary has on.</tr>
+                    <ref text="617">td. 40</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
         <!--<section>
             <h>subject</h>-->
-        <module id="duine">
-            <h>duine</h>
             <p><g>còta air <a href="?gd=duine">duine</a></g>
                 <en>a coat on a man, a man with a coat on</en> – <xl>
                     <li>
@@ -74,9 +58,6 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="caileag">
-            <h>caileag</h>
             <p><g>còta air <a href="?gd=caileag">caileag</a></g>
                 <en>a coat on a girl, a girl with a coat on</en> – <xl>
                     <li>
@@ -87,7 +68,6 @@
                     </li>
                 </xl>
             </p>
-        </module>
         <!--</section>-->
     </section>
 

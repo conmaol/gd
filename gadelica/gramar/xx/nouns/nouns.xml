@@ -197,20 +197,21 @@
           <slen/>
           <g>coin</g>
         </li>
-        <!--<li><a href="?gd=dachaidh"><g>dachaidh</g></a>
+        <li><g href="?gd=dachaidh">dachaidh</g>
           <fem/>
           <en>a home</en></li>
-        <li><a href="?gd=dath"><g>dath</g></a>
+        <li><g href="?gd=dath">dath</g>
           <masc/>
-          <en>a colour</en></li>-->
+          <en>a colour</en></li>
         <li><g href="?gd=dorus">dorus</g>
           <masc/>
           <en>a door</en>
         </li>
-        <!--<li><a href="?gd=duine"><g>duine</g></a>
+        <li><g href="?gd=duine">duine</g>
           <masc/>
           <en>a man</en>
         </li>
+        <!--
         <li><a href="?gd=each"><g>each</g></a>
           <masc/>
           <en>a horse</en></li>
@@ -501,7 +502,9 @@
           <masc/>
           <en>a shepherd</en>, <g href="?gd=clachair">clachair</g>
           <masc/>
-          <en>a stonemason</en>, <g href="?gd=gille">gille</g>
+          <en>a stonemason</en>, <g href="?gd=duine">duine</g>
+          <masc/>
+          <en>a man</en>, <g href="?gd=gille">gille</g>
           <masc/>
           <en>a boy</en>
           <ul>
@@ -599,7 +602,9 @@
                   <en>a door</en> (?)</li>
                 <li>buildings – <g href="?gd=caarn">càrn</g>
                   <masc/>
-                  <en>a cairn</en>, <g href="?gd=sgoil">sgoil</g>
+                  <en>a cairn</en>, <g href="?gd=dachaidh">dachaidh</g>
+                  <fem/>
+                  <en>a home</en>, <g href="?gd=sgoil">sgoil</g>
                   <fem/>
                   <en>a school</en>, <g href="?gd=taigh">taigh</g>
                   <masc/>
@@ -644,7 +649,9 @@
           <fem/>
           <en>a social gathering, a visit</en>, <g href="?gd=ceool">ceòl</g>
           <masc/>
-          <en>music</en>
+          <en>music</en>, <g href="?gd=dath">dath</g>
+          <masc/>
+          <en>a colour</en>
         </li>
       </ul>
     </p>

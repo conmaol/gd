@@ -5,63 +5,53 @@
         <masc/>
         <en>a kettle</en></p>
 
-    <section>
-        <h>nouns</h>
-        <section>
-            <h>locations</h>
-            <module id="gas">
-                <h>gas</h>
-                <p><g>coire air <a href="?gd=gas">gas</a></g>
-                    <en>a kettle on a gas fire/ring/burner</en> – <xl>
-                        <li>
-                            <gd>Càit a bheil an coire? Tha an coire air a’ ghas.</gd>
-                            <tr>Where is the kettle? The kettle is on the gas.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
-        <section>
-            <h>location</h>
-            <module id="coire">
-                <h>coire</h>
-                <p><g><a href="?gd=uisge">uisge</a> ann an coire</g>
-                    <en>water in a kettle</en> – <xl>
-                        <li>
-                            <gd>A bheil uisge anns a’ choire? Tha.</gd>
-                            <tr>Is there water in the kettle? Yes, there is.</tr>
-                            <ref text="617">td. 120</ref>
-                        </li>
-                        <li>
-                            <gd>Nach do chuir thu uisge anns a’ choire, Iain? Chuir.</gd>
-                            <tr>Didn’t you put water in the kettle, John? Yes, I did.</tr>
-                            <ref text="617">td. 48</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
-    </section>
-
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section>
-            <h>destination</h>
-            <module id="cuir">
-                <h>cuir</h>
-                <p><g><a href="?gd=cuir">cuir</a> ... ann an coire</g>
-                    <en>... puts ... in a kettle</en> – <xl>
-                        <li>
-                            <gd>Nach do chuir thu uisge anns a’ choire, Iain? Chuir.</gd>
-                            <tr>Didn’t you put water in the kettle, John? Yes, I did.</tr>
-                            <ref text="617">td. 48</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
+        <!--<section>
+            <h>destination</h>-->
+        <p><g><a href="?gd=cuir">cuir</a> ... ann an coire</g>
+            <en>... puts ... in a kettle</en> – <xl>
+                <li>
+                    <gd>Nach do chuir thu uisge anns a’ choire, Iain? Chuir.</gd>
+                    <tr>Didn’t you put water in the kettle, John? Yes, I did.</tr>
+                    <ref text="617">td. 48</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
     </section>
 
+    <section id="nouns">
+        <h>nouns</h>
+        <!--<section>
+            <h>locations</h>-->
+        <p><g>coire air <a href="?gd=gas">gas</a></g>
+            <en>a kettle on a gas fire/ring/burner</en> – <xl>
+                <li>
+                    <gd>Càit a bheil an coire? Tha an coire air a’ ghas.</gd>
+                    <tr>Where is the kettle? The kettle is on the gas.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
+        <!--<section>
+            <h>location</h>-->
+        <p><g><a href="?gd=uisge">uisge</a> ann an coire</g>
+            <en>water in a kettle</en> – <xl>
+                <li>
+                    <gd>A bheil uisge anns a’ choire? Tha.</gd>
+                    <tr>Is there water in the kettle? Yes, there is.</tr>
+                    <ref text="617">td. 120</ref>
+                </li>
+                <li>
+                    <gd>Nach do chuir thu uisge anns a’ choire, Iain? Chuir.</gd>
+                    <tr>Didn’t you put water in the kettle, John? Yes, I did.</tr>
+                    <ref text="617">td. 48</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
+    </section>
 
 </module>
