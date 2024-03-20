@@ -5,55 +5,46 @@
         <masc/>
         <en>grass</en></p>
 
-
-    <section>
-        <h>nouns</h>
-        <module id="maigheach">
-            <h>maigheach</h>
-            <p><g><a href="?gd=feur">maigheach</a> ann am feur</g>
-                <en>a hare in grass</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach
-                            as an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of
-                            the grass and it ran swiftly up the slope.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="monadh">
-            <h>monadh</h>
-            <p><g>feur ann am <a href="?gd=monadh">monadh</a></g>
-                <en>grass on a moor</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach
-                            as an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of
-                            the grass and it ran swiftly up the slope.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <module id="leum">
-            <h>leum</h>
-            <p><g>leum ... à <a href="?gd=feur">feur</a></g>
-                <en>... jumps out of grass</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach
-                            as an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of
-                            the grass and it ran swiftly up the slope.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g>leum ... à <a href="?gd=feur">feur</a></g>
+            <en>... jumps out of grass</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach as
+                        an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of the
+                        grass and it ran swiftly up the slope.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
     </section>
+
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g><a href="?gd=feur">maigheach</a> ann am feur</g>
+            <en>a hare in grass</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach as
+                        an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of the
+                        grass and it ran swiftly up the slope.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>feur ann am <a href="?gd=monadh">monadh</a></g>
+            <en>grass on a moor</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach as
+                        an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of the
+                        grass and it ran swiftly up the slope.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
 
 </module>

@@ -5,10 +5,8 @@
         <masc/>
         <en>a word</en></p>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <module id="abair">
-            <h>abair</h>
             <p><g><a href="?gd=facal">abair</a> ... facal</g>
                 <en>... says a word</en> – <xl>
                     <li>
@@ -18,7 +16,6 @@
                     </li>
                 </xl>
             </p>
-        </module>
     </section>
 
 

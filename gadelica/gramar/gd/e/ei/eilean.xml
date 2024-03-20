@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>eilean</h>
-    <p><g>eilean</g>
-        <en>an island</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
-    
-    <section>
+    <p><g>eilean</g> <masc/>
+        <en>an island</en></p>
+
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="moor">
-            <h>mór</h>
-            <p><g>eilean <a href="?gd=moor">mór</a></g>
-                <en>a big island</en> – <xl>
-                    <li>
-                        <gd>Tha an t-eilean mór.</gd>
-                        <tr>The island is big.</tr>
-                        <ref text="617">td. 243</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g>eilean <a href="?gd=moor">mór</a></g>
+            <en>a big island</en> – <xl>
+                <li>
+                    <gd>Tha an t-eilean mór.</gd>
+                    <tr>The island is big.</tr>
+                    <ref text="617">td. 243</ref>
+                </li>
+            </xl>
+        </p>
     </section>
-    
-    
+
 </module>
-
-

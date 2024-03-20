@@ -2,33 +2,20 @@
 <module>
     <h>gual</h>
     <p><g>gual</g>
-        <en>coal</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+        <masc/>
+        <en>coal</en></p>
 
-    <section>
-        <h>prepositions</h>
-        <section>
-            <h>subject</h>
-            <p><g>gual</g> can be the (deep) subject of certain <a
-                    href="?xx=prepositions/prepositions">prepositions</a>.</p>
-            <module id="gual_air">
-                <h>gual air ...</h>
-                <p><g>gual <a href="?gd=air">air</a> ...</g>
-                    <en>coal on ...</en>.</p>
-                <module>
-                    <h>gual air teine</h>
-                    <p><g>gual air <a href="?gd=teine">teine</a></g>
-                        <en>coal on a fire</en>. <xl>
-                            <li>
-                                <gd>Tha gual air an teine.</gd>
-                                <tr>There is coal on the fire.</tr>
-                                <ref text="617">td. 14</ref>
-                            </li>
-                        </xl>
-                    </p>
-                </module>
-            </module>
-        </section>
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g>gual air <a href="?gd=teine">teine</a></g>
+            <en>coal on a fire</en>. <xl>
+                <li>
+                    <gd>Tha gual air an teine.</gd>
+                    <tr>There is coal on the fire.</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
     <!--<xl>

@@ -5,122 +5,98 @@
         <masc/>
         <en>a bird</en></p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="beag">
-            <h>beag</h>
-            <p><g>eun <a href="?gd=beag">beag</a></g>
-                <en>a little bird</en> – <xl>
-                    <li>
-                        <gd>Chunnaic mi eun beag ann an craoibh agus iolair air creig.</gd>
-                        <tr>I saw a little bird in a tree and an eagle on a rock.</tr>
-                        <ref text="617">td. 236</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g>eun <a href="?gd=beag">beag</a></g>
+            <en>a little bird</en> – <xl>
+                <li>
+                    <gd>Chunnaic mi eun beag ann an craoibh agus iolair air creig.</gd>
+                    <tr>I saw a little bird in a tree and an eagle on a rock.</tr>
+                    <ref text="617">td. 236</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
-    <section>
-        <h>nouns</h>
-        <module id="craobh">
-            <h>craobh</h>
-            <p><g>eun ann an <a href="?gd=craobh">craoibh</a></g>
-                <en>a bird in a tree</en> – <xl>
-                    <li>
-                        <gd>Dh’ fhàg Màiri agus Seumas an taigh tràth anns a’ mhadainn. Bha an latha
-                            blàth, agus bha na h-eòin a’ seinn anns na craobhan.</gd>
-                        <tr>Mary and James left the house early in the morning. The day was warm,
-                            and the birds were singing in the trees.</tr>
-                        <ref text="617">td. 76 [adapted]</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="creag">
-            <h>creag</h>
-            <p><g>eun am measg <a href="?gd=creag">chreag</a></g>
-                <en>a bird among rocks</en> – <xl>
-                    <li>
-                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-                            mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
-                            deàrrsadh. Cha robh neul anns an adhar. Bha an uiseag a’ seinn os cionn
-                            a chinn agus bha na h-eòin a’ ceileireadh am measg nan creag.</gd>
-                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-                            the mountain. [...] It was a beautiful day and the sun was shining.
-                            There wasn’t a cloud in the sky. The lark was singing above his head and
-                            the birds were warbling among the rocks.</tr>
-                        <ref text="617">td. 146</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section>
-            <h>subject</h>
-            <module id="seinn">
-                <h>seinn</h>
-                <p><g><a href="?gd=seinn">seinn</a> eun</g>
-                    <en>a bird sings</en> – <xl>
-                        <li>
-                            <gd>Dh’ fhàg Màiri agus Seumas an taigh tràth anns a’ mhadainn. Bha an
-                                latha blàth, agus bha na h-eòin a’ seinn anns na craobhan.</gd>
-                            <tr>Mary and James left the house early in the morning. The day was
-                                warm, and the birds were singing in the trees.</tr>
-                            <ref text="617">td. 76 [adapted]</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-            <module id="ceileir">
-                <h>ceileir</h>
-                <p><g><a href="?gd=ceileir">ceileir</a> eun</g>
-                    <en>a bird warbles</en> – <xl>
-                        <li>
-                            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
-                                e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
-                                a’ deàrrsadh. Cha robh neul anns an adhar. Bha an uiseag a’ seinn os
-                                cionn a chinn agus bha na h-eòin a’ ceileireadh am measg nan
-                                creag.</gd>
-                            <tr>Malcolm was tired walking on the moor, but at last he reached the
-                                top of the mountain. [...] It was a beautiful day and the sun was
-                                shining. There wasn’t a cloud in the sky. The lark was singing above
-                                his head and the birds were warbling among the rocks.</tr>
-                            <ref text="617">td. 146</ref>
-                        </li>
-                    </xl></p>
-            </module>
-        </section>
-        <section>
-            <h>pseudo-object</h>
-            <module id="eeisd">
-                <h>éisd</h>
-                <p><g><a href="?gd=eeisd">éisd</a> ri eun</g>
-                    <en>listen to a bird</en> – <xl>
-                        <li>
-                            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
-                                e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
-                                a’ deàrrsadh. Cha robh neul anns an adhar. Bha an uiseag a’ seinn os
-                                cionn a chinn agus bha na h-eòin a’ ceileireadh am measg nan creag.
-                                ’S toigh le Calum a bhith ag éisdeachd ris na h-eòin.</gd>
-                            <tr>Malcolm was tired walking on the moor, but at last he reached the
-                                top of the mountain. [...] It was a beautiful day and the sun was
-                                shining. There wasn’t a cloud in the sky. The lark was singing above
-                                his head and the birds were warbling among the rocks. Calum likes to
-                                listen to the birds.</tr>
-                            <ref text="617">td. 146</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
+        <!--<section>
+            <h>subject</h>-->
+        <p><g><a href="?gd=seinn">seinn</a> eun</g>
+            <en>a bird sings</en> – <xl>
+                <li>
+                    <gd>Dh’ fhàg Màiri agus Seumas an taigh tràth anns a’ mhadainn. Bha an latha
+                        blàth, agus bha na h-eòin a’ seinn anns na craobhan.</gd>
+                    <tr>Mary and James left the house early in the morning. The day was warm, and
+                        the birds were singing in the trees.</tr>
+                    <ref text="617">td. 76 [adapted]</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=ceileir">ceileir</a> eun</g>
+            <en>a bird warbles</en> – <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                        deàrrsadh. Cha robh neul anns an adhar. Bha an uiseag a’ seinn os cionn a
+                        chinn agus bha na h-eòin a’ ceileireadh am measg nan creag.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. [...] It was a beautiful day and the sun was shining. There wasn’t
+                        a cloud in the sky. The lark was singing above his head and the birds were
+                        warbling among the rocks.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl></p>
+        <!--</section>-->
+        <!--<section>
+            <h>pseudo-object</h>-->
+        <p><g><a href="?gd=eeisd">éisd</a> ... ri eun</g>
+            <en>... listens to a bird</en> – <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                        deàrrsadh. Cha robh neul anns an adhar. Bha an uiseag a’ seinn os cionn a
+                        chinn agus bha na h-eòin a’ ceileireadh am measg nan creag. ’S toigh le
+                        Calum a bhith ag éisdeachd ris na h-eòin.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. [...] It was a beautiful day and the sun was shining. There wasn’t
+                        a cloud in the sky. The lark was singing above his head and the birds were
+                        warbling among the rocks. Calum likes to listen to the birds.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
     </section>
 
-
-
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g>eun ann an <a href="?gd=craobh">craoibh</a></g>
+            <en>a bird in a tree</en> – <xl>
+                <li>
+                    <gd>Dh’ fhàg Màiri agus Seumas an taigh tràth anns a’ mhadainn. Bha an latha
+                        blàth, agus bha na h-eòin a’ seinn anns na craobhan.</gd>
+                    <tr>Mary and James left the house early in the morning. The day was warm, and
+                        the birds were singing in the trees.</tr>
+                    <ref text="617">td. 76 [adapted]</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>eun am measg <a href="?gd=creag">chreag</a></g>
+            <en>a bird among rocks</en> – <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                        deàrrsadh. Cha robh neul anns an adhar. Bha an uiseag a’ seinn os cionn a
+                        chinn agus bha na h-eòin a’ ceileireadh am measg nan creag.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. [...] It was a beautiful day and the sun was shining. There wasn’t
+                        a cloud in the sky. The lark was singing above his head and the birds were
+                        warbling among the rocks.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
 
 </module>

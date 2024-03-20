@@ -2,41 +2,35 @@
 <module>
     <h>falt</h>
     <p><g>falt</g>
-        <en>hair</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+        <masc/>
+        <en>hair</en></p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="dubh">
-            <h>dubh</h>
-            <p><g>falt <a href="?gd=dubh">dubh</a></g>
-                <en>black hair</en> – <xl>
-                    <li>
-                        <gd>Tha falt dubh air Calum ach tha falt bàn air Màiri.</gd>
-                        <tr>Calum has black hair but Mary has fair hair.</tr>
-                        <ref text="617">td. 9</ref>
-                    </li>
-                </xl></p>
-        </module>
-        <module id="baan">
-            <h>bàn</h>
-            <p><g>falt <a href="?gd=baan">bàn</a></g>
-                <en>fair hair</en> – <xl>
-                    <li>
-                        <gd>A bheil falt bàn air Seumas? Chan eil.</gd>
-                        <tr>Does James have fair hair? No, he doesn’t.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>Tha falt dubh air Calum ach tha falt bàn air Màiri.</gd>
-                        <tr>Calum has black hair but Mary has fair hair.</tr>
-                        <ref text="617">td. 9</ref>
-                    </li>
-                </xl></p>
-        </module>
+        <p><g>falt <a href="?gd=dubh">dubh</a></g>
+            <en>black hair</en> – <xl>
+                <li>
+                    <gd>Tha falt dubh air Calum ach tha falt bàn air Màiri.</gd>
+                    <tr>Calum has black hair but Mary has fair hair.</tr>
+                    <ref text="617">td. 9</ref>
+                </li>
+            </xl></p>
+        <p><g>falt <a href="?gd=baan">bàn</a></g>
+            <en>fair hair</en> – <xl>
+                <li>
+                    <gd>A bheil falt bàn air Seumas? Chan eil.</gd>
+                    <tr>Does James have fair hair? No, he doesn’t.</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+                <li>
+                    <gd>Tha falt dubh air Calum ach tha falt bàn air Màiri.</gd>
+                    <tr>Calum has black hair but Mary has fair hair.</tr>
+                    <ref text="617">td. 9</ref>
+                </li>
+            </xl></p>
     </section>
 
-    <section>
+    <!--<section>
         <h>prepositions</h>
         <section>
             <h>subject</h>
@@ -66,6 +60,6 @@
 
             </module>
         </section>
-    </section>
+    </section>-->
 
 </module>

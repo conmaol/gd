@@ -4,57 +4,51 @@
     <p><g>fraoch</g>
         <masc/>
         <en>heather</en></p>
-    
-    <section>
-        <h>nouns</h>
-        <module id="monadh">
-            <h>monadh</h>
-            <p><g>fraoch ann am <a href="?gd=monadh">monadh</a></g>
-                <en>heather on a moor</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus thòisich Seumas air iasgach. Cha
-                            do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] They came to a burn and James started fishing. James didn’t
-                            catch a trout but Mary found a nest in the heather.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="nead">
-            <h>nead</h>
-            <p><g><a href="?gd=nead">nead</a> ann am fraoch</g>
-                <en>a nest in heather</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus thòisich Seumas air iasgach. Cha
-                            do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] They came to a burn and James started fishing. James didn’t
-                            catch a trout but Mary found a nest in the heather.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-    
-    <section>
-        <h>verbs</h>
-        <module id="faigh">
-            <h>faigh</h>
-            <p><g><a href="?gd=faigh">faigh</a> ... ann am fraoch</g>
-                <en>... finds ... in heather</en> – <xl>
-                    <li>
-                        <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach. Cha
-                            do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
-                        <tr>Mary and James came to a burn and James started fishing. James didn’t
-                            catch a trout but Mary found a nest in the heather.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-    
-    
-</module>
 
+    <section id="verbs">
+        <h>verbs</h>
+        <p><g><a href="?gd=faigh">faigh</a> ... ann am fraoch</g>
+            <en>... finds ... in heather</en> – <xl>
+                <li>
+                    <gd>Thàinig Màiri agus Seumas gu allt agus thòisich Seumas air iasgach. Cha do
+                        ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
+                    <tr>Mary and James came to a burn and James started fishing. James didn’t catch
+                        a trout but Mary found a nest in the heather.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g>fraoch ann am <a href="?gd=monadh">monadh</a></g>
+            <en>heather on a moor</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus
+                        thòisich Seumas air iasgach. Cha do ghlac Seumas breac ach fhuair Màiri nead
+                        anns an fhraoch.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] They came to a burn and
+                        James started fishing. James didn’t catch a trout but Mary found a nest in
+                        the heather.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=nead">nead</a> ann am fraoch</g>
+            <en>a nest in heather</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus
+                        thòisich Seumas air iasgach. Cha do ghlac Seumas breac ach fhuair Màiri nead
+                        anns an fhraoch.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] They came to a burn and
+                        James started fishing. James didn’t catch a trout but Mary found a nest in
+                        the heather.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+
+</module>

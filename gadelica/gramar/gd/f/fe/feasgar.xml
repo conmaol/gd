@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>feasgar</h>
-    <p><g>feasgar</g> <masc/>
+    <p><g>feasgar</g>
+        <masc/>
         <en>an evening</en></p>
-    
-    <section>
+
+    <section id="verbs">
         <h>verbs</h>
-       <!-- <section>
+        <!-- <section>
             <h>temporal</h>-->
-            <module id="thig">
-                <h>thig</h>
-                <p><g><a href="?gd=thig">thig</a> ... feasgar</g> <en>... comes in the evening</en> –
-                    <xl>
-                        <li>
-                            <gd>Thàinig mi dhachaidh feasgar.</gd>
-                            <tr>I arrived home in the evening.</tr>
-                            <ref text="617">td. 21</ref>
-                        </li>
-                        <li>
-                            <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Bha iad glé sgìth nuair a thàinig iad dhachaidh feasgar.</gd>
-                            <tr>Mary and James were on the moor yesterday. [...] They were very tired when they came home in the evening.</tr>
-                            <ref text="617">td. 76</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
+        <p><g><a href="?gd=thig">thig</a> ... feasgar</g>
+            <en>... comes in the evening</en> – <xl>
+                <li>
+                    <gd>Thàinig mi dhachaidh feasgar.</gd>
+                    <tr>I arrived home in the evening.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Bha iad glé sgìth nuair a
+                        thàinig iad dhachaidh feasgar.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] They were very tired when
+                        they came home in the evening.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
         <!--</section>-->
     </section>
-    
-</module>
 
+</module>

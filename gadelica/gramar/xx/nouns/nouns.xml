@@ -211,57 +211,61 @@
           <masc/>
           <en>a man</en>
         </li>
-        <!--
-        <li><a href="?gd=each"><g>each</g></a>
+        <li><g href="?gd=each">each</g>
           <masc/>
           <en>a horse</en></li>
-        <li><a href="?gd=eallach"><g>eallach</g></a>
+        <li><g href="?gd=eallach">eallach</g>
           <masc/>
           <en>a burden, a load</en></li>
-        <li><a href="?gd=eilean"><g>eilean</g></a>
+        <li><g href="?gd=eilean">eilean</g>
           <masc/>
           <en>an island</en></li>
-        <li><a href="?gd=eun"><g>eun</g></a>
+        <li><g href="?gd=eun">eun</g>
           <masc/>
           <en>a bird</en></li>
-        <li><a href="?gd=falt"><g>falt</g></a>
+        <li><g href="?gd=facal">facal</g>
+          <masc/>
+          <en>a word</en>
+        </li>
+        <li><g href="?gd=falt">falt</g>
           <masc/>
           <en>hair</en>
         </li>
-        <li><a href="?gd=fang"><g>fang</g></a>
+        <li><g href="?gd=fang">fang</g>
           <masc/>
           <en>a fank, a sheep fold</en></li>
-        <li><a href="?gd=fear"><g>fear</g></a>
+        <li><g href="?gd=fear">fear</g>
           <masc/>
           <en>a man</en>
         </li>
-        <li><a href="?gd=feasgar"><g>feasgar</g></a>
+        <li><g href="?gd=feasgar">feasgar</g>
           <masc/>
           <en>an evening</en></li>
-        <li><a href="?gd=feur"><g>feur</g></a>
+        <li><g href="?gd=feur">feur</g>
           <masc/>
           <en>grass</en></li>
-        <li><a href="?gd=fiadh"><g>fiadh</g></a>
+        <li><g href="?gd=fiadh">fiadh</g>
           <masc/>
           <en>a deer</en></li>
-        <li><a href="?gd=fraoch"><g>fraoch</g></a>
+        <li><g href="?gd=fraoch">fraoch</g>
           <masc/>
           <en>heather</en></li>
-        <li><a href="?gd=gas"><g>gas</g></a>
+        <li><g href="?gd=gas">gas</g>
           <masc/>
           <en>gas</en></li>
-        <li><a href="?gd=gealach"><g>gealach</g></a>
+        <li><g href="?gd=gealach">gealach</g>
           <fem/>
-          <en>a moon</en></li>-->
+          <en>a moon</en></li>
         <li><g href="?gd=gille">gille</g>
           <masc/>
           <en>a boy</en></li>
-        <!-- <li><a href="?gd=grian"><g>grian</g></a>
+        <li><g href="?gd=grian">grian</g>
           <fem/>
           <en>a sun</en></li>
-        <li><a href="?gd=gual"><g>gual</g></a>
+        <li><g href="?gd=gual">gual</g>
           <masc/>
           <en>coal</en></li>
+        <!--
         <li><a href="?gd=iarmailt"><g>iarmailt</g></a>
           <fem/>
           <en>a sky, a firmament</en></li>
@@ -504,6 +508,8 @@
           <masc/>
           <en>a stonemason</en>, <g href="?gd=duine">duine</g>
           <masc/>
+          <en>a man</en>, <g href="?gd=fear">fear</g>
+          <masc/>
           <en>a man</en>, <g href="?gd=gille">gille</g>
           <masc/>
           <en>a boy</en>
@@ -526,7 +532,13 @@
           <fem/>
           <en>a sheep</en>, <g href="?gd=cuu">cù</g>
           <masc/>
-          <en>a dog</en>
+          <en>a dog</en>, <g href="?gd=each">each</g>
+          <masc/>
+          <en>a horse</en>, <g href="?gd=eun">eun</g>
+          <masc/>
+          <en>a bird</en>, <g href="?gd=fiadh">fiadh</g>
+          <masc/>
+          <en>a deer</en>
           <ul>
             <li>aggregates – <g href="?gd=crodh">crodh</g>
               <masc/>
@@ -569,7 +581,21 @@
           <fem/>
           <en>a tree</en>, <g href="?gd=creag">creag</g>
           <fem/>
-          <en>a rock</en>
+          <en>a rock</en>, <g href="?gd=eilean">eilean</g>
+          <masc/>
+          <en>an island</en>, <g href="?gd=falt">falt</g>
+          <masc/>
+          <en>hair</en>, <g href="?gd=feur">feur</g>
+          <masc/>
+          <en>grass</en>, <g href="?gd=fraoch">fraoch</g>
+          <masc/>
+          <en>heather</en>, <g href="?gd=gealach">gealach</g>
+          <fem/>
+          <en>a moon</en>, <g href="?gd=grian">grian</g>
+          <fem/>
+          <en>a sun</en>, <g href="?gd=gual">gual</g>
+          <masc/>
+          <en>coal</en>
           <ul>
             <li>artifacts – <g href="?gd=balla">balla</g>
               <masc/>
@@ -604,7 +630,9 @@
                   <masc/>
                   <en>a cairn</en>, <g href="?gd=dachaidh">dachaidh</g>
                   <fem/>
-                  <en>a home</en>, <g href="?gd=sgoil">sgoil</g>
+                  <en>a home</en>, <g href="?gd=fang">fang</g>
+                  <masc/>
+                  <en>a fank, a sheep fold</en>, <g href="?gd=sgoil">sgoil</g>
                   <fem/>
                   <en>a school</en>, <g href="?gd=taigh">taigh</g>
                   <masc/>
@@ -651,7 +679,15 @@
           <masc/>
           <en>music</en>, <g href="?gd=dath">dath</g>
           <masc/>
-          <en>a colour</en>
+          <en>a colour</en>, <g href="?gd=eallach">eallach</g>
+          <masc/>
+          <en>a burden, a load</en>, <g href="?gd=facal">facal</g>
+          <masc/>
+          <en>a word</en>, <g href="?gd=feasgar">feasgar</g>
+          <masc/>
+          <en>an evening</en>, <g href="?gd=gas">gas</g>
+          <masc/>
+          <en>gas</en>
         </li>
       </ul>
     </p>

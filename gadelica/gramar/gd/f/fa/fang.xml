@@ -5,68 +5,52 @@
         <masc/>
         <en>a sheep fold, a fank</en></p>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <module id="ciiobair">
-            <h>cìobair</h>
-            <p><g><a href="?gd=ciiobair">cìobair</a> aig fang</g>
-                <en>a shepherd at a fank</en> – <xl>
-                    <li>
-                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
-                            fhang.</gd>
-                        <tr>When Mary and James reached the moor, the shepherds were at the
-                            fank.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="monadh">
-            <h>monadh</h>
-            <p><g>fang ann am <a href="?gd=monadh">monadh</a></g>
-                <en>a fank on a moor</en> – <xl>
-                    <li>
-                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
-                            fhang.</gd>
-                        <tr>When Mary and James reached the moor, the shepherds were at the
-                            fank.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="caora">
-            <h>caora</h>
-            <p><g><a href="?gd=caora">caora</a> ann am fang</g>
-                <en>a sheep in a fank</en> – <xl>
-                    <li>
-                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
-                            fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
-                            air na h-uain.</gd>
-                        <tr>When Mary and James reached the moor, the shepherds were at the fank and
-                            Mary stopped for a minute or two looking at the sheep and at the
-                            lambs.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="uan">
-            <h>uan</h>
-            <p><g><a href="?gd=uan">uan</a> ann am fang</g>
-                <en>a lamb in a fank</en> – <xl>
-                    <li>
-                        <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
-                            fhang agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus
-                            air na h-uain.</gd>
-                        <tr>When Mary and James reached the moor, the shepherds were at the fank and
-                            Mary stopped for a minute or two looking at the sheep and at the
-                            lambs.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g><a href="?gd=ciiobair">cìobair</a> aig fang</g>
+            <en>a shepherd at a fank</en> – <xl>
+                <li>
+                    <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
+                        fhang.</gd>
+                    <tr>When Mary and James reached the moor, the shepherds were at the fank.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>fang ann am <a href="?gd=monadh">monadh</a></g>
+            <en>a fank on a moor</en> – <xl>
+                <li>
+                    <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an
+                        fhang.</gd>
+                    <tr>When Mary and James reached the moor, the shepherds were at the fank.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=caora">caora</a> ann am fang</g>
+            <en>a sheep in a fank</en> – <xl>
+                <li>
+                    <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an fhang
+                        agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus air na
+                        h-uain.</gd>
+                    <tr>When Mary and James reached the moor, the shepherds were at the fank and
+                        Mary stopped for a minute or two looking at the sheep and at the lambs.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=uan">uan</a> ann am fang</g>
+            <en>a lamb in a fank</en> – <xl>
+                <li>
+                    <gd>Nuair a ràinig Màiri agus Seumas am monadh, bha na cìobairean aig an fhang
+                        agus stad Màiri mionaid no dhà a’ coimhead air na caoraich agus air na
+                        h-uain.</gd>
+                    <tr>When Mary and James reached the moor, the shepherds were at the fank and
+                        Mary stopped for a minute or two looking at the sheep and at the lambs.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>
