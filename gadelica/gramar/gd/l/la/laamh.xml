@@ -5,59 +5,47 @@
         <fem/>
         <en>a hand</en></p>
 
-    <section>
-        <h>nouns</h>
-        <module id="gille">
-            <h>gille</h>
-            <p><g>làmh <a href="?gd=gille">gille</a> ...</g>
-                <en>a boy’s hand</en> – <xl>
-                    <li>
-                        <gd>Nigh an gille beag a làmhan.</gd>
-                        <tr>The little boy washed his hands.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl></p>
-        </module>
-    </section>
-
-
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <module id="geaarr">
-            <h>geàrr</h>
-            <p><g><a href="?gd=geaarr">geàrr</a> ... làmh</g>
-                <en>... cuts a hand</en> – <xl>
-                    <li>
-                        <gd>Gheàrr Alasdair a làmh.</gd>
-                        <tr>Alexander cut his hand.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="siin">
-            <h>sìn</h>
-            <p><g><a href="?gd=siin">sìn</a> ... làmh</g>
-                <en>... stretches (out) a hand</en> – <xl>
-                    <li>
-                        <gd>Shìn e a mach a làmh agus stad an càr.</gd>
-                        <tr>He stretched out his hand and the car stopped.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="nigh">
-            <h>nigh</h>
-            <p><g><a href="?gd=nigh">nigh</a> ... làmh</g>
-                <en>... washes a hand</en> – <xl>
-                    <li>
-                        <gd>Nigh an gille beag a làmhan.</gd>
-                        <tr>The little boy washed his hands.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl></p>
-        </module>
+        <p><g><a href="?gd=geaarr">geàrr</a> ... làmh</g>
+            <en>... cuts a hand</en> – <xl>
+                <li>
+                    <gd>Gheàrr Alasdair a làmh.</gd>
+                    <tr>Alexander cut his hand.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=siin">sìn</a> ... làmh</g>
+            <en>... stretches (out) a hand</en> – <xl>
+                <li>
+                    <gd>Shìn e a mach a làmh agus stad an càr.</gd>
+                    <tr>He stretched out his hand and the car stopped.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=nigh">nigh</a> ... làmh</g>
+            <en>... washes a hand</en> – <xl>
+                <li>
+                    <gd>Nigh an gille beag a làmhan.</gd>
+                    <tr>The little boy washed his hands.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl></p>
     </section>
+
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g>làmh <a href="?gd=gille">gille</a> ...</g>
+            <en>a boy’s hand</en> – <xl>
+                <li>
+                    <gd>Nigh an gille beag a làmhan.</gd>
+                    <tr>The little boy washed his hands.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl></p>
+    </section>
+
 
 </module>

@@ -2,32 +2,29 @@
 <module>
     <h>làr</h>
     <p><g>làr</g>
-        <en>a floor</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        <masc/>
+        <en>a floor</en></p>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <module id="cluich">
-            <h>cluich</h>
-            <p><g><a href="?gd=cluich">cluich</a> air làr</g>
-                <en>plays on a floor</en> – <xl>
-                    <li>
-                        <gd>Tha Seònaid a’ cluich air an làr.</gd>
-                        <tr>Janet is playing on the floor.</tr>
-                        <ref text="617">td. 14 [adapted]</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil an cat a’ cluich còmhla ri Seònaid air an làr?</gd>
-                        <tr>Is the cat playing with Janet on the floor?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>Có tha a’ cluich air an làr?</gd>
-                        <tr>Who is playing on the floor?</tr>
-                        <ref text="617">td. 15</ref>
-                    </li>
-                </xl></p>
-        </module>
+        <p><g><a href="?gd=cluich">cluich</a> air làr</g>
+            <en>plays on a floor</en> – <xl>
+                <li>
+                    <gd>Tha Seònaid a’ cluich air an làr.</gd>
+                    <tr>Janet is playing on the floor.</tr>
+                    <ref text="617">td. 14 [adapted]</ref>
+                </li>
+                <li>
+                    <gd>A bheil an cat a’ cluich còmhla ri Seònaid air an làr?</gd>
+                    <tr>Is the cat playing with Janet on the floor?</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+                <li>
+                    <gd>Có tha a’ cluich air an làr?</gd>
+                    <tr>Who is playing on the floor?</tr>
+                    <ref text="617">td. 15</ref>
+                </li>
+            </xl></p>
     </section>
 
 </module>

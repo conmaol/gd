@@ -5,55 +5,48 @@
         <fem/>
         <en>a sun</en></p>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section>
-            <h>subject</h>
-            <module id="deeaars">
-                <h>deàrrs</h>
-                <p><g><a href="?gd=deaarrs">deàrrs</a> grian</g>
-                    <en>a sun shines</en> – <xl>
-                        <li>
-                            <gd>Bha latha briagha ann agus bha a’ ghrian a’ deàrrsadh.</gd>
-                            <tr>It was a beautiful day and the sun was shining.</tr>
-                            <ref text="617">td 21</ref>
-                        </li>
-                        <li>
-                            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
-                                e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
-                                a’ deàrrsadh. Cha robh neul anns an adhar.</gd>
-                            <tr>Malcolm was tired walking on the moor, but at last he reached the
-                                top of the mountain. [...] It was a beautiful day and the sun was
-                                shining. There wasn’t a cloud in the sky.</tr>
-                            <ref text="617">td. 146</ref>
-                        </li>
-                    </xl></p>
-            </module>
-        </section>
+        <!--<section>
+            <h>subject</h>-->
+        <p><g><a href="?gd=deaarrs">deàrrs</a> grian</g>
+            <en>a sun shines</en> – <xl>
+                <li>
+                    <gd>Bha latha briagha ann agus bha a’ ghrian a’ deàrrsadh.</gd>
+                    <tr>It was a beautiful day and the sun was shining.</tr>
+                    <ref text="617">td 21</ref>
+                </li>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                        deàrrsadh. Cha robh neul anns an adhar.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. [...] It was a beautiful day and the sun was shining. There wasn’t
+                        a cloud in the sky.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl></p>
+        <!--</section>-->
     </section>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <module id="teas">
-            <h>grian</h>
-            <p><g><a href="?gd=teas">teas</a> gréine</g>
-                <en>heat of a sun</en> – <xl>
-                    <li>
-                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-                            mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
-                            deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
-                            seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
-                            mhonaidh.</gd>
-                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-                            the mountain. [...] It was a beautiful day and the sun was shining.
-                            [...] The cattle were warm with the heat of the sun and they were
-                            standing in the little lakes which were here and there throughout the
-                            moor.</tr>
-                        <ref text="617">td. 146</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g><a href="?gd=teas">teas</a> gréine</g>
+            <en>heat of a sun</en> – <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                        deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
+                        seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
+                        mhonaidh.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. [...] It was a beautiful day and the sun was shining. [...] The
+                        cattle were warm with the heat of the sun and they were standing in the
+                        little lakes which were here and there throughout the moor.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>

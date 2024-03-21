@@ -5,83 +5,71 @@
         <masc/>
         <en>a day</en></p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="math">
-            <h>math</h>
-            <p><g>latha <a href="?gd=math">math</a></g>
-                <en>a good day</en> – <xl>
-                    <li>
-                        <gd>Tha latha math ann an diugh.</gd>
-                        <tr>It’s a good day today.</tr>
-                        <ref text="617">td. 12</ref>
-                    </li>
-                    <li>
-                        <gd>Ma bhitheas latha math ann am màireach, thèid sinn do’n mhonadh.</gd>
-                        <tr>If it is a good day tomorrow, we shall go to the moor.</tr>
-                        <ref text="617">td. 50</ref>
-                    </li>
-                </xl></p>
-        </module>
-        <module id="briagha">
-            <h>briagha</h>
-            <p><g>latha <a href="?gd=briagha">briagha</a></g>
-                <en>a beautiful day</en> – <xl>
-                    <li>
-                        <gd>Tha latha briagha blàth ann.</gd>
-                        <tr>It is a beautiful warm day.</tr>
-                        <ref text="617">td. 14 [228]</ref>
-                    </li>
-                    <li>
-                        <gd>Bha latha briagha ann agus bha a’ ghrian a’ deàrrsadh.</gd>
-                        <tr>It was a beautiful day and the sun was shining.</tr>
-                        <ref text="617">td 21</ref>
-                    </li>
-                    <li>
-                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-                            mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
-                            deàrrsadh. Cha robh neul anns an adhar.</gd>
-                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-                            the mountain. [...] It was a beautiful day and the sun was shining.
-                            There wasn’t a cloud in the sky.</tr>
-                        <ref text="617">td. 146</ref>
-                    </li>
-                </xl></p>
-        </module>
-        <module id="blaath">
-            <h>blàth</h>
-            <p><g>latha <a href="?gd=blaath">blàth</a></g>
-                <en>a warm day</en> – <xl>
-                    <li>
-                        <gd>Tha latha briagha blàth ann.</gd>
-                        <tr>It is a beautiful warm day.</tr>
-                        <ref text="617">td. 14 [228]</ref>
-                    </li>
-                    <li>
-                        <gd>Dh’ fhàg Màiri agus Seumas an taigh tràth anns a’ mhadainn. Bha an latha
-                            blàth, agus bha na h-eòin a’ seinn anns na craobhan.</gd>
-                        <tr>Mary and James left the house early in the morning. The day was warm,
-                            and the birds were singing in the trees.</tr>
-                        <ref text="617">td. 76 [adapted]</ref>
-                    </li>
-                </xl></p>
-        </module>
-        <module id="fuar">
-            <h>fuar</h>
-            <p><g>latha <a href="?gd=fuar">fuar</a></g>
-                <en>a cold day</en> – <xl>
-                    <li>
-                        <gd>A bheil an latha fuar?</gd>
-                        <tr>Is the day cold?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>Bha an latha fuar agus cha do dh’fhàg sinn an taigh.</gd>
-                        <tr>The day was cold and we did not leave the house.</tr>
-                        <ref text="617">td. 238</ref>
-                    </li>
-                </xl></p>
-        </module>
+        <p><g>latha <a href="?gd=math">math</a></g>
+            <en>a good day</en> – <xl>
+                <li>
+                    <gd>Tha latha math ann an diugh.</gd>
+                    <tr>It’s a good day today.</tr>
+                    <ref text="617">td. 12</ref>
+                </li>
+                <li>
+                    <gd>Ma bhitheas latha math ann am màireach, thèid sinn do’n mhonadh.</gd>
+                    <tr>If it is a good day tomorrow, we shall go to the moor.</tr>
+                    <ref text="617">td. 50</ref>
+                </li>
+            </xl></p>
+        <p><g>latha <a href="?gd=briagha">briagha</a></g>
+            <en>a beautiful day</en> – <xl>
+                <li>
+                    <gd>Tha latha briagha blàth ann.</gd>
+                    <tr>It is a beautiful warm day.</tr>
+                    <ref text="617">td. 14 [228]</ref>
+                </li>
+                <li>
+                    <gd>Bha latha briagha ann agus bha a’ ghrian a’ deàrrsadh.</gd>
+                    <tr>It was a beautiful day and the sun was shining.</tr>
+                    <ref text="617">td 21</ref>
+                </li>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                        deàrrsadh. Cha robh neul anns an adhar.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. [...] It was a beautiful day and the sun was shining. There wasn’t
+                        a cloud in the sky.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl></p>
+        <p><g>latha <a href="?gd=blaath">blàth</a></g>
+            <en>a warm day</en> – <xl>
+                <li>
+                    <gd>Tha latha briagha blàth ann.</gd>
+                    <tr>It is a beautiful warm day.</tr>
+                    <ref text="617">td. 14 [228]</ref>
+                </li>
+                <li>
+                    <gd>Dh’ fhàg Màiri agus Seumas an taigh tràth anns a’ mhadainn. Bha an latha
+                        blàth, agus bha na h-eòin a’ seinn anns na craobhan.</gd>
+                    <tr>Mary and James left the house early in the morning. The day was warm, and
+                        the birds were singing in the trees.</tr>
+                    <ref text="617">td. 76 [adapted]</ref>
+                </li>
+            </xl></p>
+        <p><g>latha <a href="?gd=fuar">fuar</a></g>
+            <en>a cold day</en> – <xl>
+                <li>
+                    <gd>A bheil an latha fuar?</gd>
+                    <tr>Is the day cold?</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+                <li>
+                    <gd>Bha an latha fuar agus cha do dh’fhàg sinn an taigh.</gd>
+                    <tr>The day was cold and we did not leave the house.</tr>
+                    <ref text="617">td. 238</ref>
+                </li>
+            </xl></p>
     </section>
 
     <!--<section>
@@ -120,61 +108,54 @@
         </section>
     </section>-->
 
-    <section>
+    <section id="verbs">
+        <h>verbs</h>
+        <!--<section>
+            <h>subject</h>-->
+        <p><g><a href="?gd=coord">còrd</a> latha ri ...</g>
+            <en>... enjoys a day, a day agrees with ...</en> – <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum clach
+                        air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil analach. [...] An
+                        ceann greise dh’éirich Calum ’na sheasamh agus thearnaich e a’ bheinn air a
+                        shocair. Chòrd an latha gu math ris ach bha an t-acras mór air nuair a
+                        ràinig e an taigh.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. There was a cairn of stones on the top of the mountain. Calum put
+                        a stone onto the cairn and he sat down beside the cairn having a rest. [...]
+                        After a while Malcolm rose up and he descended the mountain leisurely. He
+                        enjoyed the day well but he was very hungry when he reached the house.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
+    </section>
+
+    <section id="nouns">
         <h>nouns</h>
         <!--<p><g>latha</g> can be the specifier of certain other nouns.</p>-->
         <!--<section>
             <h>specifier</h>-->
-        <module id="fad">
-            <h>fad</h>
-            <p><g><a href="?gd=fad">fad</a> [an] latha</g>
-                <en>length of the day, all day long</en> – <xl>
-                    <li>
-                        <gd>An robh an gille seo anns an sgoil an diugh? Cha robh, bha e anns an
-                            taigh fad an latha.</gd>
-                        <tr>Was this boy in the school today? No, he was in the house all day
-                            long.</tr>
-                        <ref text="617">td. 20 [adapted]</ref>
-                    </li>
-                    <li>
-                        <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
-                        <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g><a href="?gd=fad">fad</a> [an] latha</g>
+            <en>length of the day, all day long</en> – <xl>
+                <li>
+                    <gd>An robh an gille seo anns an sgoil an diugh? Cha robh, bha e anns an taigh
+                        fad an latha.</gd>
+                    <tr>Was this boy in the school today? No, he was in the house all day long.</tr>
+                    <ref text="617">td. 20 [adapted]</ref>
+                </li>
+                <li>
+                    <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
+                    <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+        </p>
         <!-- </section>-->
     </section>
 
-    <section>
-        <h>verbs</h>
-        <section>
-            <h>subject</h>
-            <module id="coord">
-                <h>còrd</h>
-                <p><g><a href="?gd=coord">còrd</a> latha ri ...</g>
-                    <en>... enjoys a day, a day agrees with ...</en> – <xl>
-                        <li>
-                            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
-                                e mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir
-                                Calum clach air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil
-                                analach. [...] An ceann greise dh’éirich Calum ’na sheasamh agus
-                                thearnaich e a’ bheinn air a shocair. Chòrd an latha gu math ris ach
-                                bha an t-acras mór air nuair a ràinig e an taigh.</gd>
-                            <tr>Malcolm was tired walking on the moor, but at last he reached the
-                                top of the mountain. There was a cairn of stones on the top of the
-                                mountain. Calum put a stone onto the cairn and he sat down beside
-                                the cairn having a rest. [...] After a while Malcolm rose up and he
-                                descended the mountain leisurely. He enjoyed the day well but he was
-                                very hungry when he reached the house.</tr>
-                            <ref text="617">td. 146</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
-    </section>
 
 
     <!--<section>

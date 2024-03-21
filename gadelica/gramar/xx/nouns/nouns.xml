@@ -265,26 +265,25 @@
         <li><g href="?gd=gual">gual</g>
           <masc/>
           <en>coal</en></li>
-        <!--
-        <li><a href="?gd=iarmailt"><g>iarmailt</g></a>
+        <li><g href="?gd=iarmailt">iarmailt</g>
           <fem/>
           <en>a sky, a firmament</en></li>
-        <li><a href="?gd=iasg"><g>iasg</g></a>
+        <li><g href="?gd=iasg">iasg</g>
           <masc/>
           <en>a fish</en></li>
-        <li><a href="?gd=iolair"><g>iolair</g></a>
+        <li><g href="?gd=iolair">iolair</g>
           <fem/>
           <en>an eagle</en></li>
-        <li><a href="?gd=laamh"><g>làmh</g></a>
+        <li><g href="?gd=laamh">làmh</g>
           <fem/>
           <en>a hand</en></li>
-        <li><a href="?gd=laar"><g>làr</g></a>
+        <li><g href="?gd=laar">làr</g>
           <masc/>
           <en>a floor</en></li>
-        <li><a href="?gd=latha"><g>latha</g></a>
+        <li><g href="?gd=latha">latha</g>
           <masc/>
           <en>a day</en>
-        </li>-->
+        </li>
         <li><g href="?gd=leabhar">leabhar</g>
           <masc/>
           <en>a book</en>
@@ -538,7 +537,11 @@
           <masc/>
           <en>a bird</en>, <g href="?gd=fiadh">fiadh</g>
           <masc/>
-          <en>a deer</en>
+          <en>a deer</en>, <g href="?gd=iasg">iasg</g>
+          <masc/>
+          <en>a fish</en>, <g href="?gd=iolair">iolair</g>
+          <fem/>
+          <en>an eagle</en>
           <ul>
             <li>aggregates – <g href="?gd=crodh">crodh</g>
               <masc/>
@@ -595,7 +598,9 @@
           <fem/>
           <en>a sun</en>, <g href="?gd=gual">gual</g>
           <masc/>
-          <en>coal</en>
+          <en>coal</en>, <g href="?gd=laamh">làmh</g>
+          <fem/>
+          <en>a hand</en>
           <ul>
             <li>artifacts – <g href="?gd=balla">balla</g>
               <masc/>
@@ -625,7 +630,9 @@
                   <fem/>
                   <en>a chair</en>, <g href="?gd=dorus">dorus</g>
                   <masc/>
-                  <en>a door</en> (?)</li>
+                  <en>a door</en> (?), <g href="?gd=laar">làr</g>
+                  <masc/>
+                  <en>a floor</en> (?)</li>
                 <li>buildings – <g href="?gd=caarn">càrn</g>
                   <masc/>
                   <en>a cairn</en>, <g href="?gd=dachaidh">dachaidh</g>
@@ -687,7 +694,11 @@
           <masc/>
           <en>an evening</en>, <g href="?gd=gas">gas</g>
           <masc/>
-          <en>gas</en>
+          <en>gas</en>, <g href="?gd=iarmailt">iarmailt</g>
+          <fem/>
+          <en>a sky, a firmament</en>, <g href="?gd=latha">latha</g>
+          <masc/>
+          <en>a day</en>
         </li>
       </ul>
     </p>

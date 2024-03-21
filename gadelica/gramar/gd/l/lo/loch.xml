@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>loch</h>
-    <p><g>loch</g>
-        <en>lake</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+    <p><g>loch</g> <masc/>
+        <en>lake</en></p>
 
     <section>
         <h>adjectives</h>
