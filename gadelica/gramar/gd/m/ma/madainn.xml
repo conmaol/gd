@@ -5,103 +5,85 @@
         <fem/>
         <en>a morning</en></p>
 
-    <section>
-        <h>nouns</h>
-        <module id="uair">
-            <h>uair</h>
-            <p><g>aig ... <a href="?gd=uair">uairean</a> ann am madainn</g>
-                <en>at ... o’clock of a morning</en> – <xl>
-                    <li>
-                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
-                            mhadainn.</gd>
-                        <tr>The children’s father and mother rose at six o’ clock in the
-                            morning.</tr>
-                        <ref text="617">td. 183</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="traath">
-            <h>tràth</h>
-            <p><g><a href="?gd=traath">tràth</a> ann am madainn</g>
-                <en>early of a morning</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Dh’ fhàg iad an taigh
-                            tràth anns a’ mhadainn.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] They left home early in
-                            the morning.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                    <li>
-                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
-                            ri dhol do’n sgoil. Dh’éirich Màiri aig deich mionaidean an déidh
-                            seachd, ach cha do dh’éirich Calum gus an robh e fichead mionaid gu
-                            ochd.</gd>
-                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
-                            the school. Mary rose at ten minutes past seven, but Malcolm didn’t rise
-                            until it was twenty minutes to eight.</tr>
-                        <ref text="617">td. 182–3</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g><a href="?gd=traath">tràth</a> ann am madainn</g>
+            <en>early of a morning</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Dh’ fhàg iad an taigh
+                        tràth anns a’ mhadainn.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] They left home early in the
+                        morning.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+                <li>
+                    <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad ri
+                        dhol do’n sgoil. Dh’éirich Màiri aig deich mionaidean an déidh seachd, ach
+                        cha do dh’éirich Calum gus an robh e fichead mionaid gu ochd.</gd>
+                    <tr>Mary and Malcolm rose early in the morning today, for they had to go to the
+                        school. Mary rose at ten minutes past seven, but Malcolm didn’t rise until
+                        it was twenty minutes to eight.</tr>
+                    <ref text="617">td. 182–3</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <module id="rach">
-            <h>rach</h>
-            <p><g><a href="?gd=rach">rach</a> ... ann am madainn</g>
-                <en>... goes ... of a morning</en> – <xl>
-                    <li>
-                        <gd>An do dh’fhan Màiri aig an taigh an diugh? Cha do dh’fhan. Chaidh Màiri
-                            do’n sgoil anns a’ mhadainn</gd>
-                        <tr>Did Mary stay at home today? No, she didn’t. She went to school in the
-                            morning.</tr>
-                        <ref text="617">td. 237–8</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="faag">
-            <h>fàg</h>
-            <p><g><a href="?gd=faag">fàg</a> ... ann am madainn</g>
-                <en>... leaves ... of a morning</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Dh’ fhàg iad an taigh
-                            tràth anns a’ mhadainn.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] They left home early in
-                            the morning.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="eeirich">
-            <h>éirich</h>
-            <p><g><a href="?gd=eeirich">éirich</a> ... ann am madainn</g>
-                <en>... rises of a morning</en> – <xl>
-                    <li>
-                        <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad
-                            ri dhol do’n sgoil.</gd>
-                        <tr>Mary and Malcolm rose early in the morning today, for they had to go to
-                            the school.</tr>
-                        <ref text="617">td. 182–3</ref>
-                    </li>
-                    <li>
-                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
-                            mhadainn.</gd>
-                        <tr>The children’s father and mother rose at six o’ clock in the
-                            morning.</tr>
-                        <ref text="617">td. 183</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g><a href="?gd=rach">rach</a> ... ann am madainn</g>
+            <en>... goes ... of a morning</en> – <xl>
+                <li>
+                    <gd>An do dh’fhan Màiri aig an taigh an diugh? Cha do dh’fhan. Chaidh Màiri do’n
+                        sgoil anns a’ mhadainn</gd>
+                    <tr>Did Mary stay at home today? No, she didn’t. She went to school in the
+                        morning.</tr>
+                    <ref text="617">td. 237–8</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=faag">fàg</a> ... ann am madainn</g>
+            <en>... leaves ... of a morning</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Dh’ fhàg iad an taigh
+                        tràth anns a’ mhadainn.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] They left home early in the
+                        morning.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=eeirich">éirich</a> ... ann am madainn</g>
+            <en>... rises of a morning</en> – <xl>
+                <li>
+                    <gd>Dh’éirich Màiri agus Calum tràth anns a’ mhadainn an diugh, oir bha iad ri
+                        dhol do’n sgoil.</gd>
+                    <tr>Mary and Malcolm rose early in the morning today, for they had to go to the
+                        school.</tr>
+                    <ref text="617">td. 182–3</ref>
+                </li>
+                <li>
+                    <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                        mhadainn.</gd>
+                    <tr>The children’s father and mother rose at six o’ clock in the morning.</tr>
+                    <ref text="617">td. 183</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g>aig ... <a href="?gd=uair">uairean</a> ann am madainn</g>
+            <en>at ... o’clock of a morning</en> – <xl>
+                <li>
+                    <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                        mhadainn.</gd>
+                    <tr>The children’s father and mother rose at six o’ clock in the morning.</tr>
+                    <ref text="617">td. 183</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
     <section id="other">

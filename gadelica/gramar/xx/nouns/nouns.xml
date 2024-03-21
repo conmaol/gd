@@ -303,33 +303,36 @@
           <masc/>
           <en>a lake</en>
         </li>
-        <!--
-        <li><a href="?gd=madainn"><g>madainn</g></a>
+        <li><g href="?gd=madainn">madainn</g>
           <fem/>
           <en>a morning</en></li>
-        <li><a href="?gd=maide"><g>maide</g></a>
+        <li><g href="?gd=maathair">màthair</g>
+          <fem/>
+          <en>a mother</en></li>
+        <li><g href="?gd=maide">maide</g>
           <masc/>
           <en>a stick</en></li>
-        <li><a href="?gd=maigheach"><g>maigheach</g></a>
+        <li><g href="?gd=maigheach">maigheach</g>
           <fem/>
           <en>a hare</en></li>
-        <li><a href="?gd=mionaid"><g>mionaid</g></a>
+        <li><g href="?gd=mionaid">mionaid</g>
           <fem/>
           <en>a minute</en></li>
-        <li><a href="?gd=monadh"><g>monadh</g></a>
+        <li><g href="?gd=monadh">monadh</g>
           <masc/>
           <en>a moor</en>
         </li>
-        <li><a href="?gd=muir"><g>muir</g></a>
+        <li><g href="?gd=muir">muir</g>
           <fem/>
           <en>a sea</en>
           <gen/>
           <g>mara</g>
         </li>
-        <li><a href="?gd=mullach"><g>mullach</g></a>
+        <li><g href="?gd=mullach">mullach</g>
           <masc/>
           <en>a summit, a top</en>
         </li>
+        <!--
         <li><a href="?gd=nead"><g>nead</g></a>
           <masc/>
           <en>a nest</en></li>
@@ -522,7 +525,9 @@
               <en>children</en></li>
             <li>relations – <g href="?gd=athair">athair</g>
               <masc/>
-              <en>a father</en></li>
+              <en>a father</en>, <g href="?gd=maathair">màthair</g>
+              <fem/>
+              <en>a mother</en></li>
           </ul>
         </li>
         <li>animals – <g href="?gd=boo">bó</g>
@@ -545,7 +550,9 @@
           <masc/>
           <en>a fish</en>, <g href="?gd=iolair">iolair</g>
           <fem/>
-          <en>an eagle</en>
+          <en>an eagle</en>, <g href="?gd=maigheach">maigheach</g>
+          <fem/>
+          <en>a hare</en>
           <ul>
             <li>aggregates – <g href="?gd=crodh">crodh</g>
               <masc/>
@@ -608,7 +615,15 @@
           <fem/>
           <en>a pool</en>, <g href="?gd=loch">loch</g>
           <masc/>
-          <en>a lake</en>
+          <en>a lake</en>, <g href="?gd=maide">maide</g>
+          <masc/>
+          <en>a stick</en>, <g href="?gd=monadh">monadh</g>
+          <masc/>
+          <en>a moor</en>, <g href="?gd=muir">muir</g>
+          <fem/>
+          <en>a sea</en>, <g href="?gd=mullach">mullach</g>
+          <masc/>
+          <en>a summit, a top</en>
           <ul>
             <li>artifacts – <g href="?gd=balla">balla</g>
               <masc/>
@@ -710,7 +725,11 @@
           <masc/>
           <en>a day</en>, <g href="?gd=leth">leth</g>
           <masc/>
-          <en>a half</en>, </li>
+          <en>a half</en>, <g href="?gd=madainn">madainn</g>
+          <fem/>
+          <en>a morning</en>, <g href="?gd=mionaid">mionaid</g>
+          <fem/>
+          <en>a minute</en></li>
       </ul>
     </p>
   </section>

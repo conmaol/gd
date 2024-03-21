@@ -5,98 +5,80 @@
         <fem/>
         <en>a mother</en></p>
 
-    <section>
-        <h>nouns</h>
-        <module id="clann">
-            <h>clann</h>
-            <p><g>màthair <a href="?gd=clann">cloinne</a></g>
-                <en>a mother of children</en> – <xl>
-                    <li>
-                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
-                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
-                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
-                            leth-uair an déidh sia.</gd>
-                        <tr>The children’s father and mother rose at six o’ clock in the morning.
-                            Their mother started on the housework at twenty minutes past six, and
-                            their father went out to feed the cattle at half past six.</tr>
-                        <ref text="617">td. 183</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="uan">
-            <h>uan</h>
-            <p><g>màthair <a href="?gd=uan">uain</a></g>
-                <en>a lamb’s mother</en> – <xl>
-                    <li>
-                        <gd>Bha an crodh blàth le teas na gréine agus bha iad ’nan seasamh anns na
-                            lochan beaga a bha an siud ’s an seo air feadh a’ mhonaidh. Bha na
-                            h-uain bheaga a’ leum agus a’ cluich mu thimcheall am màthraichean.</gd>
-                        <tr>The cattle were warm with the heat of the sun and they were standing in
-                            the little lakes which were here and there throughout the moor. The
-                            little lambs were jumping and playing about their mothers.</tr>
-                        <ref text="617">td. 146</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+    <section id="verbs">
+        <h>verbs</h>
+        <!--<section>
+            <h>subject</h>-->
+        <p><g><a href="?gd=eeirich">éirich</a> màthair</g>
+            <en>a mother rises</en> – <xl>
+                <li>
+                    <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                        mhadainn.</gd>
+                    <tr>The children’s father and mother rose at six o’ clock in the morning.</tr>
+                    <ref text="617">td. 183</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=tooisich">tòisich</a> màthair ...</g>
+            <en>a mother starts ...</en> – <xl>
+                <li>
+                    <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                        mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                        déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig leth-uair
+                        an déidh sia.</gd>
+                    <tr>The children’s father and mother rose at six o’ clock in the morning. Their
+                        mother started on the housework at twenty minutes past six, and their father
+                        went out to feed the cattle at half past six.</tr>
+                    <ref text="617">td. 183</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>màthair [ag] <a href="?gd=obair">obair</a></g>
+            <en>a mother working</en> – <xl>
+                <li>
+                    <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                        mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                        déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig leth-uair
+                        an déidh sia.</gd>
+                    <tr>The children’s father and mother rose at six o’ clock in the morning. Their
+                        mother started on the housework at twenty minutes past six, and their father
+                        went out to feed the cattle at half past six.</tr>
+                    <ref text="617">td. 183</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
     </section>
 
-    <section>
-        <h>verbs</h>
-        <section>
-            <h>subject</h>
-            <module id="eeirich">
-                <h>éirich</h>
-                <p><g><a href="?gd=eeirich">éirich</a> màthair</g>
-                    <en>a mother rises</en> – <xl>
-                        <li>
-                            <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean
-                                sa’ mhadainn.</gd>
-                            <tr>The children’s father and mother rose at six o’ clock in the
-                                morning.</tr>
-                            <ref text="617">td. 183</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-            <module id="tooisich">
-                <h>tòisich</h>
-                <p><g><a href="?gd=tooisich">tòisich</a> màthair ...</g>
-                    <en>a mother starts ...</en> – <xl>
-                        <li>
-                            <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean
-                                sa’ mhadainn. Thòisich am màthair air obair an taighe aig fichead
-                                mionaid an déidh sia, agus chaidh an athair a mach a bhiadhadh a’
-                                chrùidh aig leth-uair an déidh sia.</gd>
-                            <tr>The children’s father and mother rose at six o’ clock in the
-                                morning. Their mother started on the housework at twenty minutes
-                                past six, and their father went out to feed the cattle at half past
-                                six.</tr>
-                            <ref text="617">td. 183</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-            <module id="obair">
-                <h>obair</h>
-                <p><g>màthair [ag] <a href="?gd=obair">obair</a></g>
-                    <en>a mother working</en> – <xl>
-                        <li>
-                            <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean
-                                sa’ mhadainn. Thòisich am màthair air obair an taighe aig fichead
-                                mionaid an déidh sia, agus chaidh an athair a mach a bhiadhadh a’
-                                chrùidh aig leth-uair an déidh sia.</gd>
-                            <tr>The children’s father and mother rose at six o’ clock in the
-                                morning. Their mother started on the housework at twenty minutes
-                                past six, and their father went out to feed the cattle at half past
-                                six.</tr>
-                            <ref text="617">td. 183</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g>màthair <a href="?gd=clann">cloinne</a></g>
+            <en>a mother of children</en> – <xl>
+                <li>
+                    <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                        mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                        déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig leth-uair
+                        an déidh sia.</gd>
+                    <tr>The children’s father and mother rose at six o’ clock in the morning. Their
+                        mother started on the housework at twenty minutes past six, and their father
+                        went out to feed the cattle at half past six.</tr>
+                    <ref text="617">td. 183</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>màthair <a href="?gd=uan">uain</a></g>
+            <en>a lamb’s mother</en> – <xl>
+                <li>
+                    <gd>Bha an crodh blàth le teas na gréine agus bha iad ’nan seasamh anns na
+                        lochan beaga a bha an siud ’s an seo air feadh a’ mhonaidh. Bha na h-uain
+                        bheaga a’ leum agus a’ cluich mu thimcheall am màthraichean.</gd>
+                    <tr>The cattle were warm with the heat of the sun and they were standing in the
+                        little lakes which were here and there throughout the moor. The little lambs
+                        were jumping and playing about their mothers.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>

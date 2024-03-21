@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>muir</h>
-    <p><g>muir</g>
-        <en>a sea</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple common
-        noun</a>.</p>
+    <p><g>muir</g> <fem/>
+        <en>a sea</en></p>
     <section>
         <h>nouns</h>
         <section>

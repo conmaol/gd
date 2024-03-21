@@ -5,100 +5,82 @@
         <fem/>
         <en>a hare</en></p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="luath">
-            <h>luath</h>
-            <p><g>maigheach <a href="?gd=luath">luath</a></g>
-                <en>a fast hare</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach
-                            as an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of
-                            the grass and it ran swiftly up the slope.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g>maigheach <a href="?gd=luath">luath</a></g>
+            <en>a fast hare</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach as
+                        an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of the
+                        grass and it ran swiftly up the slope.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
-    <section>
-        <h>nouns</h>
-        <module id="feur">
-            <h>feur</h>
-            <p><g>maigheach ann am <a href="?gd=feur">feur</a></g>
-                <en>a hare in grass</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach
-                            as an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of
-                            the grass and it ran swiftly up the slope.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="monadh">
-            <h>monadh</h>
-            <p><g>maigheach ann am <a href="?gd=monadh">monadh</a></g>
-                <en>a hare on a moor</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach
-                            as an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of
-                            the grass and it ran swiftly up the slope.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="bruthach">
-            <h>bruthach</h>
-            <p><g>maigheach air <a href="?gd=bruthach">bruthach</a></g>
-                <en>a hare on a slope</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach
-                            as an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of
-                            the grass and it ran swiftly up the slope.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <module id="leum">
-            <h>leum</h>
-            <p><g><a href="?gd=leum">leum</a> maigheach</g>
-                <en>a hare jumps</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach
-                            as an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of
-                            the grass and it ran swiftly up the slope.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="ruith">
-            <h>ruith</h>
-            <p><g><a href="?gd=ruith">ruith</a> maigheach</g>
-                <en>a hare runs</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach
-                            as an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of
-                            the grass and it ran swiftly up the slope.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g><a href="?gd=leum">leum</a> maigheach</g>
+            <en>a hare jumps</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach as
+                        an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of the
+                        grass and it ran swiftly up the slope.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=ruith">ruith</a> maigheach</g>
+            <en>a hare runs</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach as
+                        an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of the
+                        grass and it ran swiftly up the slope.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g>maigheach ann am <a href="?gd=feur">feur</a></g>
+            <en>a hare in grass</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach as
+                        an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of the
+                        grass and it ran swiftly up the slope.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>maigheach ann am <a href="?gd=monadh">monadh</a></g>
+            <en>a hare on a moor</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach as
+                        an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of the
+                        grass and it ran swiftly up the slope.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>maigheach air <a href="?gd=bruthach">bruthach</a></g>
+            <en>a hare on a slope</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Leum maigheach a mach as
+                        an fheur agus ruith i gu luath suas a’ bhruthach.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] A hare jumped out of the
+                        grass and it ran swiftly up the slope.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>
