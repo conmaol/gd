@@ -5,25 +5,22 @@
         <masc/>
         <en>a half</en></p>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <module id="uair">
-            <h>uair</h>
-            <p><g>leth <a href="?gd=uair">uair</a></g>
-                <en>a half (of an) hour</en> – <xl>
-                    <li>
-                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
-                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
-                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
-                            leth-uair an déidh sia.</gd>
-                        <tr>The children’s father and mother rose at six o’ clock in the morning.
-                            Their mother started on the housework at twenty minutes past six, and
-                            their father went out to feed the cattle at half past six.</tr>
-                        <ref text="617">td. 183</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g>leth <a href="?gd=uair">uair</a></g>
+            <en>a half (of an) hour</en> – <xl>
+                <li>
+                    <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                        mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                        déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig leth-uair
+                        an déidh sia.</gd>
+                    <tr>The children’s father and mother rose at six o’ clock in the morning. Their
+                        mother started on the housework at twenty minutes past six, and their father
+                        went out to feed the cattle at half past six.</tr>
+                    <ref text="617">td. 183</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>

@@ -288,18 +288,22 @@
           <masc/>
           <en>a book</en>
         </li>
-        <!-- <li><a href="?gd=leth"><g>leth</g></a>
+        <li><g href="?gd=leth">leth</g>
           <masc/>
           <en>a half</en>
         </li>
-        <li><a href="?gd=linne"><g>linne</g></a>
+        <li><g href="?gd=linne">linne</g>
           <fem/>
           <en>a pool</en>
         </li>
-        <li><a href="?gd=loch"><g>loch</g></a>
+        <li><g href="?gd=litir">litir</g>
+          <fem/>
+          <en>a letter</en></li>
+        <li><g href="?gd=loch">loch</g>
           <masc/>
           <en>a lake</en>
         </li>
+        <!--
         <li><a href="?gd=madainn"><g>madainn</g></a>
           <fem/>
           <en>a morning</en></li>
@@ -600,7 +604,11 @@
           <masc/>
           <en>coal</en>, <g href="?gd=laamh">làmh</g>
           <fem/>
-          <en>a hand</en>
+          <en>a hand</en>, <g href="?gd=linne">linne</g>
+          <fem/>
+          <en>a pool</en>, <g href="?gd=loch">loch</g>
+          <masc/>
+          <en>a lake</en>
           <ul>
             <li>artifacts – <g href="?gd=balla">balla</g>
               <masc/>
@@ -622,7 +630,9 @@
               <masc/>
               <en>a coat</en>, <g href="?gd=leabhar">leabhar</g>
               <masc/>
-              <en>a book</en>
+              <en>a book</en>, <g href="?gd=litir">litir</g>
+              <fem/>
+              <en>a letter</en>
               <ul>
                 <li>furniture – <g href="?gd=boord">bòrd</g>
                   <masc/>
@@ -698,8 +708,9 @@
           <fem/>
           <en>a sky, a firmament</en>, <g href="?gd=latha">latha</g>
           <masc/>
-          <en>a day</en>
-        </li>
+          <en>a day</en>, <g href="?gd=leth">leth</g>
+          <masc/>
+          <en>a half</en>, </li>
       </ul>
     </p>
   </section>

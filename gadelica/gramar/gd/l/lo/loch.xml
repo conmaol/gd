@@ -1,130 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>loch</h>
-    <p><g>loch</g> <masc/>
+    <p><g>loch</g>
+        <masc/>
         <en>lake</en></p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="beag">
-            <h>beag</h>
-            <p><g>loch <a href="?gd=beag">beag</a></g>
-                <en>a small lake</en> – <xl>
-                    <li>
-                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-                            mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
-                            deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
-                            seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
-                            mhonaidh.</gd>
-                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-                            the mountain. [...] It was a beautiful day and the sun was shining.
-                            [...] The cattle were warm with the heat of the sun and they were
-                            standing in the little lakes which were here and there throughout the
-                            moor.</tr>
-                        <ref text="617">td. 146</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g>loch <a href="?gd=beag">beag</a></g>
+            <en>a small lake</en> – <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                        deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
+                        seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
+                        mhonaidh.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. [...] It was a beautiful day and the sun was shining. [...] The
+                        cattle were warm with the heat of the sun and they were standing in the
+                        little lakes which were here and there throughout the moor.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <section>
-            <h>locative</h>
-            <module id="iasgaich">
-                <h>iasgaich</h>
-                <p><g><a href="?gd=iasgaich">iasgaich</a> ... air loch</g>
-                    <en>... does fishing on a lake</en> – <xl>
-                        <li>
-                            <gd>An robh Calum ag iasgach air an loch an dé? Bha.</gd>
-                            <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                        <li>
-                            <gd>Có bha ag iasgach air an loch? Bha Calum.</gd>
-                            <tr>Who was fishing on the lake? Calum was.</tr>
-                            <ref text="617">td. 20</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-            <module id="seas">
-                <h>seas</h>
-                <p><g><a href="?gd=seas">seas</a> ... ann an loch</g>
-                    <en>... stands in a lake</en> – <xl>
-                        <li>
-                            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig
-                                e mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian
-                                a’ deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha
-                                iad ’nan seasamh anns na lochan beaga a bha an siud ’s an seo air
-                                feadh a’ mhonaidh.</gd>
-                            <tr>Malcolm was tired walking on the moor, but at last he reached the
-                                top of the mountain. [...] It was a beautiful day and the sun was
-                                shining. [...] The cattle were warm with the heat of the sun and
-                                they were standing in the little lakes which were here and there
-                                throughout the moor.</tr>
-                            <ref text="617">td. 146</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
+        <!--<section>
+            <h>locative</h>-->
+        <p><g><a href="?gd=iasgaich">iasgaich</a> ... air loch</g>
+            <en>... does fishing on a lake</en> – <xl>
+                <li>
+                    <gd>An robh Calum ag iasgach air an loch an dé? Bha.</gd>
+                    <tr>Was Malcolm fishing on the lake yesterday? Yes, he was.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+                <li>
+                    <gd>Có bha ag iasgach air an loch? Bha Calum.</gd>
+                    <tr>Who was fishing on the lake? Calum was.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=seas">seas</a> ... ann an loch</g>
+            <en>... stands in a lake</en> – <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                        deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
+                        seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
+                        mhonaidh.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. [...] It was a beautiful day and the sun was shining. [...] The
+                        cattle were warm with the heat of the sun and they were standing in the
+                        little lakes which were here and there throughout the moor.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
     </section>
 
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
-        <module id="crodh">
-            <h>crodh</h>
-            <p><g><a href="?gd=crodh">crodh</a> faisg air loch</g>
-                <en>cattle near a lake</en> – <xl>
-                    <li>
-                        <gd>Bha an crodh faisg air an loch.</gd>
-                        <tr>The cattle were near the lake.</tr>
-                        <ref text="617">td. 21</ref>
-                    </li>
-                </xl>
-            </p>
-            <p><g>crodh ann an loch</g>
-                <en>cattle in a lake</en>
-                <xl>
-                    <li>
-                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-                            mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
-                            deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
-                            seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
-                            mhonaidh.</gd>
-                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-                            the mountain. [...] It was a beautiful day and the sun was shining.
-                            [...] The cattle were warm with the heat of the sun and they were
-                            standing in the little lakes which were here and there throughout the
-                            moor.</tr>
-                        <ref text="617">td. 146</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="monadh">
-            <h>monadh</h>
-            <p><g>loch ann am <a href="?gd=monadh">monadh</a></g>
-                <en>a lake on a moor</en> – <xl>
-                    <li>
-                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-                            mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
-                            deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
-                            seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
-                            mhonaidh.</gd>
-                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-                            the mountain. [...] It was a beautiful day and the sun was shining.
-                            [...] The cattle were warm with the heat of the sun and they were
-                            standing in the little lakes which were here and there throughout the
-                            moor.</tr>
-                        <ref text="617">td. 146</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g><a href="?gd=crodh">crodh</a> faisg air loch</g>
+            <en>cattle near a lake</en> – <xl>
+                <li>
+                    <gd>Bha an crodh faisg air an loch.</gd>
+                    <tr>The cattle were near the lake.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>crodh ann an loch</g>
+            <en>cattle in a lake</en>
+            <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                        deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
+                        seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
+                        mhonaidh.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. [...] It was a beautiful day and the sun was shining. [...] The
+                        cattle were warm with the heat of the sun and they were standing in the
+                        little lakes which were here and there throughout the moor.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>loch ann am <a href="?gd=monadh">monadh</a></g>
+            <en>a lake on a moor</en> – <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne. [...] Bha latha briagha ann agus bha a’ ghrian a’
+                        deàrrsadh. [...] Bha an crodh blàth le teas na gréine agus bha iad ’nan
+                        seasamh anns na lochan beaga a bha an siud ’s an seo air feadh a’
+                        mhonaidh.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain. [...] It was a beautiful day and the sun was shining. [...] The
+                        cattle were warm with the heat of the sun and they were standing in the
+                        little lakes which were here and there throughout the moor.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 
