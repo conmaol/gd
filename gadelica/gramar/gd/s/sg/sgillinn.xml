@@ -4,22 +4,18 @@
     <p><g>sgillinn</g>
         <fem/>
         <en>a penny</en></p>
-    
-    <section>
-        <h>verbs</h>
-        <module id="ceannaich">
-            <h>ceannaich</h>
-            <p><g><a href="?gd=ceannaich">ceannaich</a> ... air sgillinn</g>
-                <en>... buys ... for a penny</en> – <xl>
-                    <li>
-                        <gd>Cheannaich mi seo air sia sgillinn.</gd>
-                        <tr>I bought this for sixpence.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-    
-</module>
 
+    <section id="verbs">
+        <h>verbs</h>
+        <p><g><a href="?gd=ceannaich">ceannaich</a> ... air sgillinn</g>
+            <en>... buys ... for a penny</en> – <xl>
+                <li>
+                    <gd>Cheannaich mi seo air sia sgillinn.</gd>
+                    <tr>I bought this for sixpence.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+</module>

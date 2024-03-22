@@ -2,13 +2,11 @@
 <module>
     <h>samhradh</h>
     <p><g>samhradh</g>
-        <en>a summer</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
-    
-    <section>
-        <h>states</h>
-        <module id="blaath">
-        <h>blàth</h>
+        <masc/>
+        <en>a summer</en></p>
+
+    <section id="adjs">
+        <h>adjectives</h>
         <p><g>samhradh <a href="?gd=blaath">blàth</a></g>
             <en>a warm summer</en> – <xl>
                 <li>
@@ -18,8 +16,6 @@
                 </li>
             </xl>
         </p>
-    </module></section>
-    
-    
-</module>
+    </section>
 
+</module>

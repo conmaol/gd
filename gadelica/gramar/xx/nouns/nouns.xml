@@ -360,23 +360,26 @@
           <masc/>
           <en>a thing</en>
         </li>
-        <!--
-        <li><a href="?gd=samhradh"><g>samhradh</g></a>
+        <li><g href="?gd=samhradh">samhradh</g>
           <masc/>
           <en>a summer</en></li>
-        <li><a href="?gd=saoghal"><g>saoghal</g></a>
+        <li><g href="?gd=saor^n">saor</g>
+          <masc/>
+          <en>a carpenter, a joiner</en></li>
+        <li><g href="?gd=saoghal">saoghal</g>
           <masc/>
           <en>a world</en></li>
-        <li><a href="?gd=seoomar"><g>seòmar</g></a>
+        <li><g href="?gd=seoomar">seòmar</g>
           <masc/>
           <en>a room</en></li>
-        <li><a href="?gd=sgillinn"><g>sgillinn</g></a>
+        <li><g href="?gd=sgillinn">sgillinn</g>
           <fem/>
-          <en>a penny</en></li>-->
+          <en>a penny</en></li>
         <li><g href="?gd=sgoil">sgoil</g>
           <fem/>
           <en>a school</en>
         </li>
+
         <!--<li><a href="?gd=siide"><g>sìde</g></a>
           <fem/>
           <en>weather</en></li>
@@ -511,7 +514,9 @@
           <masc/>
           <en>a man</en>, <g href="?gd=gille">gille</g>
           <masc/>
-          <en>a boy</en>
+          <en>a boy</en>, <g href="?gd=saor^n">saor</g>
+          <masc/>
+          <en>a carpenter, a joiner</en>
           <ul>
             <li>aggregates – <g href="?gd=clann">clann</g>
               <fem/>
@@ -618,7 +623,9 @@
           <masc/>
           <en>a summit, a top</en>, <g href="?gd=nead">nead</g>
           <masc/>
-          <en>a nest</en>
+          <en>a nest</en>, <g href="?gd=sgillinn">sgillinn</g>
+          <fem/>
+          <en>a penny</en>
           <ul>
             <li>artifacts – <g href="?gd=balla">balla</g>
               <masc/>
@@ -667,7 +674,9 @@
                   <fem/>
                   <en>a home</en>, <g href="?gd=fang">fang</g>
                   <masc/>
-                  <en>a fank, a sheep fold</en>, <g href="?gd=sgoil">sgoil</g>
+                  <en>a fank, a sheep fold</en>, <g href="?gd=seoomar">seòmar</g>
+                  <masc/>
+                  <en>a room</en>, <g href="?gd=sgoil">sgoil</g>
                   <fem/>
                   <en>a school</en>, <g href="?gd=taigh">taigh</g>
                   <masc/>
@@ -738,7 +747,11 @@
           <masc/>
           <en>a song</en>, <g href="?gd=rud">rud</g>
           <masc/>
-          <en>a thing</en></li>
+          <en>a thing</en>, <g href="?gd=samhradh">samhradh</g>
+          <masc/>
+          <en>a summer</en>, <g href="?gd=saoghal">saoghal</g>
+          <masc/>
+          <en>a world</en></li>
       </ul>
     </p>
   </section>

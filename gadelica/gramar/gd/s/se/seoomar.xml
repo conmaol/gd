@@ -2,38 +2,32 @@
 <module>
     <h>seòmar</h>
     <p><g>seòmar</g>
-        <en>a room</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        <masc/>
+        <en>a room</en></p>
 
-    <section>
-        <h>states</h>
-        <module id="moor">
-            <h>mór</h>
-            <p><g>seòmar <a href="?gd=moor">mór</a></g>
-                <en>a large room</en> – <xl>
-                    <li>
-                        <gd>Tha an seòmar seo mór.</gd>
-                        <tr>This room is big.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                </xl></p>
-        </module>
-        <module id="blaath">
-            <h>blàth</h>
-            <p><g>seòmar <a href="?gd=blaath">blàth</a></g>
-                <en>a warm room</en> – <xl>
-                    <li>
-                        <gd>Tha an seòmar glè bhlàth.</gd>
-                        <tr>The room is very warm.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil an seòmar seo blàth? Chan eil.</gd>
-                        <tr>Is this room warm? No, it isn’t.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                </xl></p>
-        </module>
+    <section id="adjs">
+        <h>adjectives</h>
+        <p><g>seòmar <a href="?gd=moor">mór</a></g>
+            <en>a large room</en> – <xl>
+                <li>
+                    <gd>Tha an seòmar seo mór.</gd>
+                    <tr>This room is big.</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+            </xl></p>
+        <p><g>seòmar <a href="?gd=blaath">blàth</a></g>
+            <en>a warm room</en> – <xl>
+                <li>
+                    <gd>Tha an seòmar glè bhlàth.</gd>
+                    <tr>The room is very warm.</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+                <li>
+                    <gd>A bheil an seòmar seo blàth? Chan eil.</gd>
+                    <tr>Is this room warm? No, it isn’t.</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+            </xl></p>
     </section>
 
 </module>

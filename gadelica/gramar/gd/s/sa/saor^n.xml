@@ -2,35 +2,33 @@
 <module>
     <h>saor</h>
     <p><g>saor</g>
-        <en>a joiner, a carpenter</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple
-            common noun</a>.</p>
+        <masc/>
+        <en>a joiner, a carpenter</en></p>
 
-    <section>
-        <h>activities</h>
-        <module id="trang">
-            <h>trang</h>
-            <p><g>saor <a href="?gd=trang">trang</a></g>
-                <en>a busy joiner</en> – <xl>
-                    <li>
-                        <gd>Tha an saor trang ag obair air an taigh.</gd>
-                        <tr>The joiner is busy working on the house.</tr>
-                        <ref text="617">td. 65</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="obair">
-            <h>obair</h>
-            <p><g>saor [ag] <a href="?gd=obair">obair</a></g>
-                <en>a carpenter working</en> – <xl>
-                    <li>
-                        <gd>Tha an saor trang ag obair air an taigh.</gd>
-                        <tr>The joiner is busy working on the house.</tr>
-                        <ref text="617">td. 65</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+    <section id="adjectives">
+        <h>adjectives</h>
+        <p><g>saor <a href="?gd=trang">trang</a></g>
+            <en>a busy joiner</en> – <xl>
+                <li>
+                    <gd>Tha an saor trang ag obair air an taigh.</gd>
+                    <tr>The joiner is busy working on the house.</tr>
+                    <ref text="617">td. 65</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+    <section id="verbs">
+        <h>verbs</h>
+        <p><g>saor [ag] <a href="?gd=obair">obair</a></g>
+            <en>a carpenter working</en> – <xl>
+                <li>
+                    <gd>Tha an saor trang ag obair air an taigh.</gd>
+                    <tr>The joiner is busy working on the house.</tr>
+                    <ref text="617">td. 65</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 
