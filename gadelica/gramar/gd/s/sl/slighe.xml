@@ -2,13 +2,11 @@
 <module>
     <h>slighe</h>
     <p><g>slighe</g>
-        <en>a way, a journey</en> is a feminine <a href="?xx=nouns/simple_common_nouns">simple
-            common noun</a>.</p>
+        <fem/>
+        <en>a way, a journey</en></p>
 
-   <section>
-       <h>states</h>
-       <module id="fada">
-        <h>fada</h>
+    <section id="adjs">
+        <h>adjectives</h>
         <p><g>slighe <a href="?gd=fada">fada</a></g>
             <en>a long journey/way</en> – <xl>
                 <li>
@@ -18,6 +16,6 @@
                 </li>
             </xl>
         </p>
-    </module></section>
+    </section>
 
 </module>

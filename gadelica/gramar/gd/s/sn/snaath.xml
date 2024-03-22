@@ -2,22 +2,20 @@
 <module>
     <h>snàth</h>
     <p><g>snàth</g>
-        <en>a thread</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
+        <masc/>
+        <en>a thread</en></p>
 
-    <section>
-        <h>states</h>
-        <module id="dearg">
-            <h>dearg</h>
-            <p><g>snàth <a href="?gd=dearg">dearg</a></g>
-                <en>a red thread</en> – <xl>
-                    <li>
-                        <gd>Tha an snàth seo dearg.</gd>
-                        <tr>This thread is red.</tr>
-                        <ref text="617">td. 245</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+    <section id="adjs">
+        <h>adjectives</h>
+        <p><g>snàth <a href="?gd=dearg">dearg</a></g>
+            <en>a red thread</en> – <xl>
+                <li>
+                    <gd>Tha an snàth seo dearg.</gd>
+                    <tr>This thread is red.</tr>
+                    <ref text="617">td. 245</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>
