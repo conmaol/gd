@@ -2,24 +2,20 @@
 <module>
     <h>òrd</h>
     <p><g>òrd</g>
-        <en>a hammer</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
-    
-    <section>
-        <h>adjectives</h>
-        <module id="trom">
-            <h>trom</h>
-            <p><g>òrd <a href="?gd=trom">trom</a></g>
-                <en>a heavy hammer</en> – <xl>
-                    <li>
-                        <gd>Tha an t-òrd trom.</gd>
-                        <tr>The hammer is heavy.</tr>
-                        <ref text="617">td. 243</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-    
-</module>
+        <masc/>
+        <en>a hammer</en></p>
 
+    <section id="adjs">
+        <h>adjectives</h>
+        <p><g>òrd <a href="?gd=trom">trom</a></g>
+            <en>a heavy hammer</en> – <xl>
+                <li>
+                    <gd>Tha an t-òrd trom.</gd>
+                    <tr>The hammer is heavy.</tr>
+                    <ref text="617">td. 243</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+</module>

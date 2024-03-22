@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>rud</h>
-    <p><g>rud</g>
-        <en>a thing</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+    <p><g>rud</g> <masc/>
+        <en>a thing</en></p>
 
     <p>Examples of <g>rud</g> as the subject of the predicative verb <a href="?gd=bi"><g>bi</g></a>
         – <ul>

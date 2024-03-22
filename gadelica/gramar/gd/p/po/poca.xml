@@ -2,56 +2,47 @@
 <module>
     <h>poca</h>
     <p><g>poca</g>
-        <en>a sack, a bag</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+        <masc/>
+        <en>a sack, a bag</en></p>
 
-    <section>
-        <h>predicates</h>
-        <module id="trom">
-            <h>trom</h>
-            <p><g>poca <a href="?gd=trom">trom</a></g>
-                <en>a heavy sack</en> – <xl>
-                    <li>
-                        <gd>Tha am poca trom leis an t-sìol.</gd>
-                        <tr>The sack is heavy with the seed(s).</tr>
-                        <ref text="617">td. 66</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+    <section id="adjs">
+        <h>adjectives</h>
+        <p><g>poca <a href="?gd=trom">trom</a></g>
+            <en>a heavy sack</en> – <xl>
+                <li>
+                    <gd>Tha am poca trom leis an t-sìol.</gd>
+                    <tr>The sack is heavy with the seed(s).</tr>
+                    <ref text="617">td. 66</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
-    <section>
-        <h>themes</h>
-        <module id="cat">
-            <h>cat</h>
-            <p><g><a href="?gd=cat">cat</a> ann am poca</g>
-                <en>a cat in a sack</en> – <xl>
-                    <li>
-                        <gd>Tha an cat anns a’ phoca.</gd>
-                        <tr>The cat is in the sack.</tr>
-                        <ref text="617">td. 21 [229]</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="siiol">
-            <h>sìol</h>
-            <p><g><a href="?gd=siiol">sìol</a> ann am poca</g>
-                <en>seeds in a sack</en> – <xl>
-                    <li>
-                        <gd>Tha an sìol anns a’ phoca.</gd>
-                        <tr>The seed is in the sack.</tr>
-                        <ref text="617">td. 66</ref>
-                    </li>
-                    <li>
-                        <gd>Tha am poca trom leis an t-sìol.</gd>
-                        <tr>The sack is heavy with the seed(s).</tr>
-                        <ref text="617">td. 66</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g><a href="?gd=cat">cat</a> ann am poca</g>
+            <en>a cat in a sack</en> – <xl>
+                <li>
+                    <gd>Tha an cat anns a’ phoca.</gd>
+                    <tr>The cat is in the sack.</tr>
+                    <ref text="617">td. 21 [229]</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=siiol">sìol</a> ann am poca</g>
+            <en>seeds in a sack</en> – <xl>
+                <li>
+                    <gd>Tha an sìol anns a’ phoca.</gd>
+                    <tr>The seed is in the sack.</tr>
+                    <ref text="617">td. 66</ref>
+                </li>
+                <li>
+                    <gd>Tha am poca trom leis an t-sìol.</gd>
+                    <tr>The sack is heavy with the seed(s).</tr>
+                    <ref text="617">td. 66</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>

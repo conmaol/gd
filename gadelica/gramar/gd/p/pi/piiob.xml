@@ -5,41 +5,36 @@
         <fem/>
         <en>pipe</en></p>
 
-    <section>
-        <h>nouns</h>
-        <module id="duine">
-            <h>duine</h>
-            <p><g><a href="?gd=duine">duine</a> le pìob</g>
-                <en>a man with a pipe</en> – <xl>
-                    <li>
-                        <gd>An do las an duine a phìob? Las.</gd>
-                        <tr>Did the man light his pipe? Yes, he did.</tr>
-                        <ref text="617">td. 238</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+    <section id="verbs">
+        <h>verbs</h>
+        <p><g><a href="?gd=las">las</a> ... pìob</g>
+            <en>... lights a pipe</en> – <xl>
+                <li>
+                    <gd>Las do phìob!</gd>
+                    <tr>Light your pipe!</tr>
+                    <ref text="617">td. 238</ref>
+                </li>
+                <li>
+                    <gd>An do las an duine a phìob? Las.</gd>
+                    <tr>Did the man light his pipe? Yes, he did.</tr>
+                    <ref text="617">td. 238</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
-    <section>
-        <h>verbs</h>
-        <module id="las">
-            <h>las</h>
-            <p><g><a href="?gd=las">las</a> ... pìob</g>
-                <en>... lights a pipe</en> – <xl>
-                    <li>
-                        <gd>Las do phìob!</gd>
-                        <tr>Light your pipe!</tr>
-                        <ref text="617">td. 238</ref>
-                    </li>
-                    <li>
-                        <gd>An do las an duine a phìob? Las.</gd>
-                        <tr>Did the man light his pipe? Yes, he did.</tr>
-                        <ref text="617">td. 238</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g><a href="?gd=duine">duine</a> le pìob</g>
+            <en>a man with a pipe</en> – <xl>
+                <li>
+                    <gd>An do las an duine a phìob? Las.</gd>
+                    <tr>Did the man light his pipe? Yes, he did.</tr>
+                    <ref text="617">td. 238</ref>
+                </li>
+            </xl>
+        </p>
     </section>
+
 
 </module>

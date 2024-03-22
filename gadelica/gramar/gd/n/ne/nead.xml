@@ -4,70 +4,63 @@
     <p><g>nead</g>
         <masc/>
         <en>a nest</en></p>
-    
-    <section>
-        <h>nouns</h>
-        <module id="ugh">
-            <h>ugh</h>
-            <p><g><a href="?gd=ugh">ugh</a> ann an nead</g>
-                <en>an egg in a nest</en>. <xl>
-                    <li>
-                        <gd>Fhuair Màiri nead anns an fhraoch. Bha trì uighean bòidheach anns an
-                            nead.</gd>
-                        <tr>Mary found a nest in the heather. There were three pretty eggs in the
-                            nest.</tr>
-                        <ref text="617">td. 76 [adapted]</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="fraoch">
-            <h>fraoch</h>
-            <p><g>nead ann am <a href="?gd=fraoch">fraoch</a></g>
-                <en>a nest in heather</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus thòisich Seumas air iasgach. Cha
-                            do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] They came to a burn and James started fishing. James didn’t
-                            catch a trout but Mary found a nest in the heather.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="monadh">
-            <h>monadh</h>
-            <p><g>nead ann am <a href="?gd=monadh">monadh</a></g>
-                <en>a nest on a moor</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus thòisich Seumas air iasgach. Cha
-                            do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] They came to a burn and James started fishing. James didn’t
-                            catch a trout but Mary found a nest in the heather.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-    
-    <section>
-        <h>verbs</h>
-        <module id="faigh">
-            <h>faigh</h>
-            <p><g><a href="?gd=faigh">faigh</a> ... nead</g>
-                <en>... finds a nest</en> – <xl>
-                    <li>
-                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus thòisich Seumas air iasgach. Cha
-                            do ghlac Seumas breac ach fhuair Màiri nead anns an fhraoch.</gd>
-                        <tr>Mary and James were on the moor yesterday. [...] They came to a burn and James started fishing. James didn’t
-                            catch a trout but Mary found a nest in the heather.</tr>
-                        <ref text="617">td. 76</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-    
-</module>
 
+    <section id="verbs">
+        <h>verbs</h>
+        <p><g><a href="?gd=faigh">faigh</a> ... nead</g>
+            <en>... finds a nest</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus
+                        thòisich Seumas air iasgach. Cha do ghlac Seumas breac ach fhuair Màiri nead
+                        anns an fhraoch.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] They came to a burn and
+                        James started fishing. James didn’t catch a trout but Mary found a nest in
+                        the heather.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g><a href="?gd=ugh">ugh</a> ann an nead</g>
+            <en>an egg in a nest</en>. <xl>
+                <li>
+                    <gd>Fhuair Màiri nead anns an fhraoch. Bha trì uighean bòidheach anns an
+                        nead.</gd>
+                    <tr>Mary found a nest in the heather. There were three pretty eggs in the
+                        nest.</tr>
+                    <ref text="617">td. 76 [adapted]</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>nead ann am <a href="?gd=fraoch">fraoch</a></g>
+            <en>a nest in heather</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus
+                        thòisich Seumas air iasgach. Cha do ghlac Seumas breac ach fhuair Màiri nead
+                        anns an fhraoch.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] They came to a burn and
+                        James started fishing. James didn’t catch a trout but Mary found a nest in
+                        the heather.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>nead ann am <a href="?gd=monadh">monadh</a></g>
+            <en>a nest on a moor</en> – <xl>
+                <li>
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Thàinig iad gu allt agus
+                        thòisich Seumas air iasgach. Cha do ghlac Seumas breac ach fhuair Màiri nead
+                        anns an fhraoch.</gd>
+                    <tr>Mary and James were on the moor yesterday. [...] They came to a burn and
+                        James started fishing. James didn’t catch a trout but Mary found a nest in
+                        the heather.</tr>
+                    <ref text="617">td. 76</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+</module>

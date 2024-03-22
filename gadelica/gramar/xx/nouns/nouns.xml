@@ -332,42 +332,35 @@
           <masc/>
           <en>a summit, a top</en>
         </li>
-        <!--
-        <li><a href="?gd=nead"><g>nead</g></a>
+        <li><g href="?gd=nead">nead</g>
           <masc/>
           <en>a nest</en></li>
-        <li><a href="?gd=neul"><g>neul</g></a>
+        <li><g href="?gd=neul">neul</g>
           <masc/>
           <en>a cloud</en></li>
-        <li><a href="?gd=obair"><g>obair</g></a>
-          <fem/>
-          <en>working, work</en>
-          <gen/>
-          <g>obrach</g>
-          <pl/>
-          <g>obraichean</g></li>
-        <li><a href="?gd=ooran"><g>òran</g></a>
+        <li><g href="?gd=ooran">òran</g>
           <masc/>
           <en>a song</en></li>
-        <li><a href="?gd=oord"><g>òrd</g></a>
+        <li><g href="?gd=oord">òrd</g>
           <masc/>
           <en>a hammer</en></li>
-        <li><a href="?gd=peann"><g>peann</g></a>
+        <li><g href="?gd=peann">peann</g>
           <masc/>
           <en>a pen</en>
         </li>
-        <li><a href="?gd=piiob"><g>pìob</g></a>
+        <li><g href="?gd=piiob">pìob</g>
           <fem/>
           <en>a pipe</en>
         </li>
-        <li><a href="?gd=poca"><g>poca</g></a>
+        <li><g href="?gd=poca">poca</g>
           <masc/>
           <en>a sack, a bag</en>
         </li>
-        <li><a href="?gd=rud"><g>rud</g></a>
+        <li><g href="?gd=rud">rud</g>
           <masc/>
           <en>a thing</en>
         </li>
+        <!--
         <li><a href="?gd=samhradh"><g>samhradh</g></a>
           <masc/>
           <en>a summer</en></li>
@@ -623,7 +616,9 @@
           <fem/>
           <en>a sea</en>, <g href="?gd=mullach">mullach</g>
           <masc/>
-          <en>a summit, a top</en>
+          <en>a summit, a top</en>, <g href="?gd=nead">nead</g>
+          <masc/>
+          <en>a nest</en>
           <ul>
             <li>artifacts – <g href="?gd=balla">balla</g>
               <masc/>
@@ -647,7 +642,15 @@
               <masc/>
               <en>a book</en>, <g href="?gd=litir">litir</g>
               <fem/>
-              <en>a letter</en>
+              <en>a letter</en>, <g href="?gd=oord">òrd</g>
+              <masc/>
+              <en>a hammer</en>, <g href="?gd=peann">peann</g>
+              <masc/>
+              <en>a pen</en>, <g href="?gd=piiob">pìob</g>
+              <fem/>
+              <en>a pipe</en>, <g href="?gd=poca">poca</g>
+              <masc/>
+              <en>a sack, a bag</en>
               <ul>
                 <li>furniture – <g href="?gd=boord">bòrd</g>
                   <masc/>
@@ -729,7 +732,13 @@
           <fem/>
           <en>a morning</en>, <g href="?gd=mionaid">mionaid</g>
           <fem/>
-          <en>a minute</en></li>
+          <en>a minute</en>, <g href="?gd=neul">neul</g>
+          <masc/>
+          <en>a cloud</en>, <g href="?gd=ooran">òran</g>
+          <masc/>
+          <en>a song</en>, <g href="?gd=rud">rud</g>
+          <masc/>
+          <en>a thing</en></li>
       </ul>
     </p>
   </section>

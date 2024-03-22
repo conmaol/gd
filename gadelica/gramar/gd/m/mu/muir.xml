@@ -1,44 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>muir</h>
-    <p><g>muir</g> <fem/>
+    <p><g>muir</g>
+        <fem/>
         <en>a sea</en></p>
-    <section>
-        <h>nouns</h>
-        <section>
-            <h>locative</h>
-            <module id="baata">
-                <h>bàta</h>
-                <p><g><a href="?gd=baata">bàta</a> air muir</g>
-                    <en>a boat on a sea</en> – <xl>
-                        <li>
-                            <gd>Chunnaic mi bàtaichean air a’ mhuir.</gd>
-                            <tr>I saw boats on the sea.</tr>
-                            <ref text="617">td. 21</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
+
+    <section id="verbs">
+        <h>verbs</h>
+        <!--<section>
+            <h>locative</h>-->
+        <p><g><a href="?gd=snaamh">snàmh</a> ann am muir</g>
+            <en>swims in a sea</en> – <xl>
+                <li>
+                    <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
+                    <tr>I saw children swimming in the sea.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
     </section>
 
-    <section>
-        <h>verbs</h>
-        <section>
-            <h>locative</h>
-            <module id="snaamh">
-                <h>snàmh</h>
-                <p><g><a href="?gd=snaamh">snàmh</a> ann am muir</g>
-                    <en>swims in a sea</en> – <xl>
-                        <li>
-                            <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
-                            <tr>I saw children swimming in the sea.</tr>
-                            <ref text="617">td. 21</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </section>
+    <section id="nouns">
+        <h>nouns</h>
+        <!--<section>
+            <h>locative</h>-->
+        <p><g><a href="?gd=baata">bàta</a> air muir</g>
+            <en>a boat on a sea</en> – <xl>
+                <li>
+                    <gd>Chunnaic mi bàtaichean air a’ mhuir.</gd>
+                    <tr>I saw boats on the sea.</tr>
+                    <ref text="617">td. 21</ref>
+                </li>
+            </xl>
+        </p>
+        <!--</section>-->
     </section>
 
 </module>
