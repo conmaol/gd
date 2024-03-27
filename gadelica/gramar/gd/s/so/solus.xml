@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>solus</h>
-    <p><g>solus</g>
-        <en>a light, light</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+    <p><g>solus</g> <masc/>
+        <en>a light, light</en></p>
     
     <section>
         <h>states</h>

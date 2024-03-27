@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>sùgh</h>
-    <p><g>sùgh</g>
-        <en>soup, juice</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
-            noun</a>.</p>
+    <p><g>sùgh</g> <masc/>
+        <en>soup, juice</en></p>
     
     <section>
         <h>states</h>

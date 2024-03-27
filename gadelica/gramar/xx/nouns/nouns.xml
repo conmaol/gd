@@ -379,30 +379,28 @@
           <fem/>
           <en>a school</en>
         </li>
-mmm
-        <!--<li><a href="?gd=siide"><g>sìde</g></a>
+        <li><g href="?gd=siide">sìde</g>
           <fem/>
           <en>weather</en></li>
-        <li><a href="?gd=siiol"><g>sìol</g></a>
+        <li><g href="?gd=siiol">sìol</g>
           <masc/>
           <en>a seed, seed(s)</en></li>
-          -->
         <li><g href="?gd=siuucar">siùcar</g>
           <masc/>
           <en>sugar</en></li>
-        <!--
-        <li><a href="?gd=slat"><g>slat</g></a>
+        <li><g href="?gd=slat">slat</g>
           <fem/>
           <en>a rod</en></li>
-        <li><a href="?gd=slighe"><g>slighe</g></a>
+        <li><g href="?gd=slighe">slighe</g>
           <fem/>
           <en>a way, a journey</en></li>
-        <li><a href="?gd=sloc"><g>sloc</g></a>
+        <li><g href="?gd=sloc">sloc</g>
           <masc/>
           <en>a pit, a hollow</en></li>
-        <li><a href="?gd=snaath"><g>snàth</g></a>
+        <li><g href="?gd=snaath">snàth</g>
           <masc/>
           <en>a thread</en></li>
+        <!--
         <li><a href="?gd=socair"><g>socair</g></a>
           <fem/>
           <en>leisure</en></li>
@@ -625,7 +623,11 @@ mmm
           <masc/>
           <en>a nest</en>, <g href="?gd=sgillinn">sgillinn</g>
           <fem/>
-          <en>a penny</en>
+          <en>a penny</en>, <g href="?gd=siiol">sìol</g>
+          <masc/>
+          <en>a seed, seed(s)</en>, <g href="?gd=sloc">sloc</g>
+          <masc/>
+          <en>a pit, a hollow</en>
           <ul>
             <li>artifacts – <g href="?gd=balla">balla</g>
               <masc/>
@@ -657,7 +659,11 @@ mmm
               <fem/>
               <en>a pipe</en>, <g href="?gd=poca">poca</g>
               <masc/>
-              <en>a sack, a bag</en>
+              <en>a sack, a bag</en>, <g href="?gd=slat">slat</g>
+              <fem/>
+              <en>a rod</en>, <g href="?gd=snaath">snàth</g>
+              <masc/>
+              <en>a thread</en>
               <ul>
                 <li>furniture – <g href="?gd=boord">bòrd</g>
                   <masc/>
@@ -751,7 +757,11 @@ mmm
           <masc/>
           <en>a summer</en>, <g href="?gd=saoghal">saoghal</g>
           <masc/>
-          <en>a world</en></li>
+          <en>a world</en>, <g href="?gd=siide">sìde</g>
+          <fem/>
+          <en>weather</en>, <g href="?gd=slighe">slighe</g>
+          <fem/>
+          <en>a way, a journey</en></li>
       </ul>
     </p>
   </section>
