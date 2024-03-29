@@ -2,50 +2,46 @@
 <module>
     <h>tuathanach</h>
     <p><g>tuathanach</g>
-        <en>a farmer</en> is a masculine <a href="?xx=nouns/common_nouns">common noun</a>.</p>
+        <masc/>
+        <en>a farmer</en></p>
 
-    <section>
-        <h>activities</h>
-        <module id="trang">
-            <h>trang</h>
-            <p><g>tuathanach <a href="?gd=trang">trang</a></g>
-                <en>a busy farmer</en> – <xl>
-                    <li>
-                        <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
-                        <tr>The farmers were working busily in the field yesterday.</tr>
-                        <ref text="617">td. 75</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="obair">
-            <h>obair</h>
-            <p><g>tuathanach ag <a href="?gd=obair">obair</a></g>
-                <en>a farmer working </en> – <xl>
-                    <li>
-                        <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
-                        <tr>The farmers were working busily in the field yesterday.</tr>
-                        <ref text="617">td. 75</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+    <section id="adjectives">
+        <h>adjectives</h>
+        <p><g>tuathanach <a href="?gd=trang">trang</a></g>
+            <en>a busy farmer</en> – <xl>
+                <li>
+                    <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
+                    <tr>The farmers were working busily in the field yesterday.</tr>
+                    <ref text="617">td. 75</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
-    <section>
-        <h>states</h>
-        <module id="achadh">
-            <h>achadh</h>
-            <p><g>tuathanach ann an <a href="?gd=achadh">achadh</a></g>
-                <en>a farmer in a field</en> – <xl>
-                    <li>
-                        <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
-                        <tr>The farmers were working busily in the field yesterday.</tr>
-                        <ref text="617">td. 75</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+    <section id="verbs">
+        <h>verbs</h>
+        <p><g>tuathanach ag <a href="?gd=obair">obair</a></g>
+            <en>a farmer working </en> – <xl>
+                <li>
+                    <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
+                    <tr>The farmers were working busily in the field yesterday.</tr>
+                    <ref text="617">td. 75</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g>tuathanach ann an <a href="?gd=achadh">achadh</a></g>
+            <en>a farmer in a field</en> – <xl>
+                <li>
+                    <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
+                    <tr>The farmers were working busily in the field yesterday.</tr>
+                    <ref text="617">td. 75</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 

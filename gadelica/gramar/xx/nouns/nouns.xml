@@ -447,23 +447,24 @@
           <masc/>
           <en>tea</en>
         </li>
-        <!--<li><a href="?gd=tolman"><g>tolman</g></a>
+        <li><g href="?gd=tolman">tolman</g>
           <masc/>
           <en>a hillock</en>
         </li>
-        <li><a href="?gd=torman"><g>torman</g></a>
+        <li><g href="?gd=torman">torman</g>
           <masc/>
           <en>a murmur</en>
         </li>
-        <li><a href="?gd=traaigh"><g>tràigh</g></a>
+        <li><g href="?gd=traaigh">tràigh</g>
           <fem/>
           <en>a beach</en></li>
-        <li><a href="?gd=tuathanach"><g>tuathanach</g></a>
+        <li><g href="?gd=tuathanach">tuathanach</g>
           <masc/>
           <en>a farmer</en></li>
-        <li><a href="?gd=tubhailte"><g>tubhailte</g></a>
+        <li><g href="?gd=tubhailte">tubhailte</g>
           <fem/>
           <en>a tablecloth</en></li>
+        <!--
         <li><a href="?gd=uair"><g>uair</g></a>
           <fem/>
           <en>an hour</en></li>
@@ -513,7 +514,9 @@
           <masc/>
           <en>a boy</en>, <g href="?gd=saor^n">saor</g>
           <masc/>
-          <en>a carpenter, a joiner</en>
+          <en>a carpenter, a joiner</en>, <g href="?gd=tuathanach">tuathanach</g>
+          <masc/>
+          <en>a farmer</en>
           <ul>
             <li>aggregates – <g href="?gd=clann">clann</g>
               <fem/>
@@ -634,7 +637,11 @@
           <fem/>
           <en>an eye</en>, <g href="?gd=teine">teine</g>
           <masc/>
-          <en>a fire</en>
+          <en>a fire</en>, <g href="?gd=tolman">tolman</g>
+          <masc/>
+          <en>a hillock</en>, <g href="?gd=traaigh">tràigh</g>
+          <fem/>
+          <en>a beach</en>
           <ul>
             <li>artifacts – <g href="?gd=balla">balla</g>
               <masc/>
@@ -670,7 +677,9 @@
               <fem/>
               <en>a rod</en>, <g href="?gd=snaath">snàth</g>
               <masc/>
-              <en>a thread</en>
+              <en>a thread</en>, <g href="?gd=tubhailte">tubhailte</g>
+              <fem/>
+              <en>a tablecloth</en>
               <ul>
                 <li>furniture – <g href="?gd=boord">bòrd</g>
                   <masc/>
@@ -780,7 +789,9 @@
           <masc/>
           <en>a light, light</en>, <g href="?gd=teas">teas</g>
           <masc/>
-          <en>heat</en>
+          <en>heat</en>, <g href="?gd=torman">torman</g>
+          <masc/>
+          <en>a murmur</en>
         </li>
       </ul>
     </p>
