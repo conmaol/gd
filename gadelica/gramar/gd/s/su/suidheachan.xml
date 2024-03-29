@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>suidheachan</h>
-    <p><g>suidheachan</g> <masc/>
+    <p><g>suidheachan</g>
+        <masc/>
         <en>a seat</en></p>
-    
-    <module id="aard">
-        <h>àrd</h>
+
+    <section id="adjs">
+        <h>adjectives</h>
         <p><g>suidheachan <a href="?gd=aard">àrd</a></g>
             <en>a high seat</en> – <xl>
                 <li>
@@ -15,7 +16,6 @@
                 </li>
             </xl>
         </p>
-    </module>
-    
-</module>
+    </section>
 
+</module>

@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>sùgh</h>
-    <p><g>sùgh</g> <masc/>
+    <p><g>sùgh</g>
+        <masc/>
         <en>soup, juice</en></p>
-    
-    <section>
-        <h>states</h>
-        <module id="math">
-            <h>math</h>
-            <p><g>sùgh <a href="?gd=math">math</a></g> <en>good soup</en> –
-                <xl>
-                    <li>
-                        <gd>Tha an sùgh seo math.</gd>
-                        <tr>This soup is good.</tr>
-                        <ref text="617">td. 245</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+
+    <section id="adjs">
+        <h>adjectives</h>
+        <p><g>sùgh <a href="?gd=math">math</a></g>
+            <en>good soup</en> – <xl>
+                <li>
+                    <gd>Tha an sùgh seo math.</gd>
+                    <tr>This soup is good.</tr>
+                    <ref text="617">td. 245</ref>
+                </li>
+            </xl>
+        </p>
     </section>
-    
+
 </module>
-
-

@@ -5,117 +5,95 @@
         <masc/>
         <en>a fire</en></p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="moor">
-            <h>mór</h>
-            <p><g>teine <a href="?gd=moor">mór</a></g>
-                <en>a big fire</en> – <xl>
-                    <li>
-                        <gd>Tha an teine mór.</gd>
-                        <tr>The fire is big.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                </xl></p>
-        </module>
+        <p><g>teine <a href="?gd=moor">mór</a></g>
+            <en>a big fire</en> – <xl>
+                <li>
+                    <gd>Tha an teine mór.</gd>
+                    <tr>The fire is big.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+            </xl></p>
     </section>
 
-    <section>
-        <h>nouns</h>
-        <module id="caileag">
-            <h>caileag</h>
-            <p><g><a href="?gd=caileag">caileag</a> aig teine</g>
-                <en>a girl at a fire</en> – <xl>
-                    <li>
-                        <gd>An do shuidh a’ chaileag aig an teine? Shuidh.</gd>
-                        <tr>Did the girl sit down by the fire? Yes, she did.</tr>
-                        <ref text="617">td. 237</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="cat">
-            <h>cat</h>
-            <p><g><a href="?gd=cat">cat</a> aig teine</g>
-                <en>a cat at a fire</en> – <xl>
-                    <li>
-                        <gd>Tha an cat aig an teine.</gd>
-                        <tr>The cat is by the fire.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="cuu">
-            <h>cù</h>
-            <p><g><a href="?gd=cuu">cù</a> aig teine</g>
-                <en>a dog at a fire</en> – <xl>
-                    <li>
-                        <gd>A bheil an cù aig an teine? Tha.</gd>
-                        <tr>Is the dog by the fire? Yes, it is.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="gual">
-            <h>gual</h>
-            <p><g><a href="?gd=gual">gual</a> air teine</g>
-                <en>coal on a fire</en> – <xl>
-                    <li>
-                        <gd>Dè tha air an teine? Tha gual air an teine.</gd>
-                        <tr>What is on the fire? There is coal on the fire.</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="teas">
-            <h>teas</h>
-            <p><g><a href="?gd=teas">teas</a> ann an teine</g>
-                <en>heat in a fire</en> – <xl>
-                    <li>
-                        <gd>Tha teas anns an teine.</gd>
-                        <tr>There is heat in the fire.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <module id="tog">
-            <h>tog</h>
-            <p><g><a href="?gd=tog">tog</a> ... teine</g>
-                <en>... sets a fire</en> – <xl>
-                    <li>
-                        <gd>Thog Seumas an teine anns a’ mhadainn.</gd>
-                        <tr>James set the fire in the morning.</tr>
-                        <ref text="617">td. 47</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="suidh">
-            <h>suidh</h>
-            <p><g><a href="?gd=suidh">suidh</a> ... aig teine</g>
-                <en>... sits down by a fire</en> – <xl>
-                    <li>
-                        <gd>Suidh aig an teine!.</gd>
-                        <tr>Sit down by the fire!</tr>
-                        <ref text="617">td. 237</ref>
-                    </li>
-                    <li>
-                        <gd>An do shuidh a’ chaileag aig an teine? Shuidh.</gd>
-                        <tr>Did the girl sit down by the fire? Yes, she did.</tr>
-                        <ref text="617">td. 237</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g><a href="?gd=tog">tog</a> ... teine</g>
+            <en>... sets a fire</en> – <xl>
+                <li>
+                    <gd>Thog Seumas an teine anns a’ mhadainn.</gd>
+                    <tr>James set the fire in the morning.</tr>
+                    <ref text="617">td. 47</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=suidh">suidh</a> ... aig teine</g>
+            <en>... sits down by a fire</en> – <xl>
+                <li>
+                    <gd>Suidh aig an teine!.</gd>
+                    <tr>Sit down by the fire!</tr>
+                    <ref text="617">td. 237</ref>
+                </li>
+                <li>
+                    <gd>An do shuidh a’ chaileag aig an teine? Shuidh.</gd>
+                    <tr>Did the girl sit down by the fire? Yes, she did.</tr>
+                    <ref text="617">td. 237</ref>
+                </li>
+            </xl>
+        </p>
     </section>
+
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g><a href="?gd=caileag">caileag</a> aig teine</g>
+            <en>a girl at a fire</en> – <xl>
+                <li>
+                    <gd>An do shuidh a’ chaileag aig an teine? Shuidh.</gd>
+                    <tr>Did the girl sit down by the fire? Yes, she did.</tr>
+                    <ref text="617">td. 237</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=cat">cat</a> aig teine</g>
+            <en>a cat at a fire</en> – <xl>
+                <li>
+                    <gd>Tha an cat aig an teine.</gd>
+                    <tr>The cat is by the fire.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=cuu">cù</a> aig teine</g>
+            <en>a dog at a fire</en> – <xl>
+                <li>
+                    <gd>A bheil an cù aig an teine? Tha.</gd>
+                    <tr>Is the dog by the fire? Yes, it is.</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=gual">gual</a> air teine</g>
+            <en>coal on a fire</en> – <xl>
+                <li>
+                    <gd>Dè tha air an teine? Tha gual air an teine.</gd>
+                    <tr>What is on the fire? There is coal on the fire.</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=teas">teas</a> ann an teine</g>
+            <en>heat in a fire</en> – <xl>
+                <li>
+                    <gd>Tha teas anns an teine.</gd>
+                    <tr>There is heat in the fire.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+
 
 
 </module>

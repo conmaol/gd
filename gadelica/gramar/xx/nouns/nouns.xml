@@ -435,14 +435,14 @@
                     <masc/>
                     <en>a side</en>
                 </li>-->
-        <!--<li><a href="?gd=teas"><g>teas</g></a>
+        <li><g href="?gd=teas">teas</g>
           <masc/>
           <en>heat</en>
         </li>
-        <li><a href="?gd=teine"><g>teine</g></a>
+        <li><g href="?gd=teine">teine</g>
           <masc/>
           <en>a fire</en>
-        </li>-->
+        </li>
         <li><g href="?gd=tii">tì</g>
           <masc/>
           <en>tea</en>
@@ -632,7 +632,9 @@
           <fem/>
           <en>a nose</en>, <g href="?gd=suuil">sùil</g>
           <fem/>
-          <en>an eye</en>
+          <en>an eye</en>, <g href="?gd=teine">teine</g>
+          <masc/>
+          <en>a fire</en>
           <ul>
             <li>artifacts – <g href="?gd=balla">balla</g>
               <masc/>
@@ -776,7 +778,10 @@
           <fem/>
           <en>leisure</en>, <g href="?gd=solus">solus</g>
           <masc/>
-          <en>a light, light</en></li>
+          <en>a light, light</en>, <g href="?gd=teas">teas</g>
+          <masc/>
+          <en>heat</en>
+        </li>
       </ul>
     </p>
   </section>
