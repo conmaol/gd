@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>sròn</h>
-    <p><g>sròn</g> <fem/>
+    <p><g>sròn</g>
+        <fem/>
         <en>a nose</en></p>
-    
-    <section>
-        <h>states</h>
-        <module id="moor">
-            <h>mór</h>
-            <p><g>sròn <a href="?gd=moor">mhór</a></g>
-                <en>a big nose</en> – <xl>
-                    <li>
-                        <gd>Tha an t-sròn aig Calum mór.</gd>
-                        <tr>Calum has a big nose.</tr>
-                        <ref text="617">td. 69</ref>
-                    </li>
-                </xl>
-            </p>
-        </module></section>
-    
-</module>
 
+    <section id="adjectives">
+        <h>adjectives</h>
+        <p><g>sròn <a href="?gd=moor">mhór</a></g>
+            <en>a big nose</en> – <xl>
+                <li>
+                    <gd>Tha an t-sròn aig Calum mór.</gd>
+                    <tr>Calum has a big nose.</tr>
+                    <ref text="617">td. 69</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+</module>

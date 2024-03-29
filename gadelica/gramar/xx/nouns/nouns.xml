@@ -400,34 +400,33 @@
         <li><g href="?gd=snaath">snàth</g>
           <masc/>
           <en>a thread</en></li>
-        <!--
-        <li><a href="?gd=socair"><g>socair</g></a>
+        <li><g href="?gd=socair">socair</g>
           <fem/>
           <en>leisure</en></li>
-        <li><a href="?gd=solus"><g>solus</g></a>
+        <li><g href="?gd=solus">solus</g>
           <masc/>
           <en>a light, light</en></li>
-        <li><a href="?gd=sraaid"><g>sràid</g></a>
+        <li><g href="?gd=sraaid">sràid</g>
           <fem/>
           <en>a street</en></li>
-        <li><a href="?gd=sroon"><g>sròn</g></a>
+        <li><g href="?gd=sroon">sròn</g>
           <fem/>
           <en>a nose</en></li>
-        <li><a href="?gd=staidhre"><g>staidhre</g></a>
+        <li><g href="?gd=staidhre">staidhre</g>
           <fem/>
           <en>a staircase, stairs</en></li>
-        <li><a href="?gd=suugh"><g>sùgh</g></a>
+        <li><g href="?gd=suugh">sùgh</g>
           <masc/>
           <en>soup, juice</en></li>
-        <li><a href="?gd=suidheachan"><g>suidheachan</g></a>
+        <li><g href="?gd=suidheachan">suidheachan</g>
           <masc/>
           <en>a seat</en></li>
-        <li><a href="?gd=suuil"><g>sùil</g></a>
+        <li><g href="?gd=suuil">sùil</g>
           <fem/>
           <en>an eye</en>
           <gen/>
           <g>sùla</g>
-        </li>-->
+        </li>
         <li><g href="?gd=taigh">taigh</g>
           <masc/>
           <en>a house</en>
@@ -627,7 +626,13 @@
           <masc/>
           <en>a seed, seed(s)</en>, <g href="?gd=sloc">sloc</g>
           <masc/>
-          <en>a pit, a hollow</en>
+          <en>a pit, a hollow</en>, <g href="?gd=sraaid">sràid</g>
+          <fem/>
+          <en>a street</en>, <g href="?gd=sroon">sròn</g>
+          <fem/>
+          <en>a nose</en>, <g href="?gd=suuil">sùil</g>
+          <fem/>
+          <en>an eye</en>
           <ul>
             <li>artifacts – <g href="?gd=balla">balla</g>
               <masc/>
@@ -673,7 +678,11 @@
                   <masc/>
                   <en>a door</en> (?), <g href="?gd=laar">làr</g>
                   <masc/>
-                  <en>a floor</en> (?)</li>
+                  <en>a floor</en> (?), <g href="?gd=staidhre">staidhre</g>
+                  <fem/>
+                  <en>a staircase, stairs</en> (?), <g href="?gd=suidheachan">suidheachan</g>
+                  <masc/>
+                  <en>a seat</en></li>
                 <li>buildings – <g href="?gd=caarn">càrn</g>
                   <masc/>
                   <en>a cairn</en>, <g href="?gd=dachaidh">dachaidh</g>
@@ -700,7 +709,9 @@
               <masc/>
               <en>cheese</en>, <g href="?gd=siuucar">siùcar</g>
               <masc/>
-              <en>sugar</en>, <g href="?gd=tii">tì</g>
+              <en>sugar</en>, <g href="?gd=suugh">sùgh</g>
+              <masc/>
+              <en>soup, juice</en>, <g href="?gd=tii">tì</g>
               <masc/>
               <en>tea</en>
               <ul>
@@ -761,7 +772,11 @@
           <fem/>
           <en>weather</en>, <g href="?gd=slighe">slighe</g>
           <fem/>
-          <en>a way, a journey</en></li>
+          <en>a way, a journey</en>, <g href="?gd=socair">socair</g>
+          <fem/>
+          <en>leisure</en>, <g href="?gd=solus">solus</g>
+          <masc/>
+          <en>a light, light</en></li>
       </ul>
     </p>
   </section>

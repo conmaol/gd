@@ -30,4 +30,17 @@
             </xl></p>
     </section>
 
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g><a href="?gd=solus">solus</a> ann an seòmar</g>
+            <en>light in a room</en> – <xl>
+                <li>
+                    <gd>Tha solus math anns an t-seòmar seo.</gd>
+                    <tr>There is good light in this room.</tr>
+                    <ref text="617">td. 245</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
 </module>

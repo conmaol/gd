@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>solus</h>
-    <p><g>solus</g> <masc/>
+    <p><g>solus</g>
+        <masc/>
         <en>a light, light</en></p>
-    
-    <section>
-        <h>states</h>
-        <module id="solus">
-        <h>solus</h>
-        <p><g>solus <a href="?gd=math">math</a></g> <en>good light</en> –
-            <xl>
+
+    <section id="adjs">
+        <h>adjectives</h>
+        <p><g>solus <a href="?gd=math">math</a></g>
+            <en>good light</en> – <xl>
                 <li>
                     <gd>Tha solus math anns an t-seòmar seo.</gd>
                     <tr>There is good light in this room.</tr>
@@ -17,7 +16,19 @@
                 </li>
             </xl>
         </p>
-    </module></section>
-    
-</module>
+    </section>
 
+    <section id="nouns">
+        <h>nouns</h>
+        <p><g>solus ann an <a href="?gd=seoomar">seòmar</a></g>
+            <en>light in a room</en> – <xl>
+                <li>
+                    <gd>Tha solus math anns an t-seòmar seo.</gd>
+                    <tr>There is good light in this room.</tr>
+                    <ref text="617">td. 245</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+</module>

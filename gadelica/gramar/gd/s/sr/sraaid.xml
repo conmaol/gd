@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>sràid</h>
-    <p><g>sràid</g> <fem/>
+    <p><g>sràid</g>
+        <fem/>
         <en>a street</en></p>
-    
-    <section>
-        <h>states</h>
-        <module id="fada">
-            <h>fada</h>
-            <p><g>sràid <a href="?gd=fada">fada</a></g>
-                <en>a long street</en> – <xl>
-                    <li>
-                        <gd>Tha an t-sràid seo fada.</gd>
-                        <tr>This street is long.</tr>
-                        <ref text="617">td. 68</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-    
-</module>
 
+    <section id="adjectives">
+        <h>adjectives</h>
+        <p><g>sràid <a href="?gd=fada">fhada</a></g>
+            <en>a long street</en> – <xl>
+                <li>
+                    <gd>Tha an t-sràid seo fada.</gd>
+                    <tr>This street is long.</tr>
+                    <ref text="617">td. 68</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+</module>
