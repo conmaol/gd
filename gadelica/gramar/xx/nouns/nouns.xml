@@ -464,30 +464,29 @@
         <li><g href="?gd=tubhailte">tubhailte</g>
           <fem/>
           <en>a tablecloth</en></li>
-        <!--
-        <li><a href="?gd=uair"><g>uair</g></a>
+        <li><g href="?gd=uair">uair</g>
           <fem/>
           <en>an hour</en></li>
-        <li><a href="?gd=uamh"><g>uamh</g></a>
+        <li><g href="?gd=uamh">uamh</g>
           <fem/>
           <en>a cave</en></li>
-        <li><a href="?gd=uan"><g>uan</g></a>
+        <li><g href="?gd=uan">uan</g>
           <masc/>
           <en>a lamb</en></li>
-        <li><a href="?gd=ugh"><g>ugh</g></a>
+        <li><g href="?gd=ugh">ugh</g>
           <masc/>
           <en>an egg</en>
           <pl/>
           <g>uighean</g></li>
-        <li><a href="?gd=uinneag"><g>uinneag</g></a>
+        <li><g href="?gd=uinneag">uinneag</g>
           <fem/>
           <en>a window</en></li>
-        <li><a href="?gd=uiseag"><g>uiseag</g></a>
+        <li><g href="?gd=uiseag">uiseag</g>
           <fem/>
           <en>a lark</en></li>
-        <li><a href="?gd=uisge"><g>uisge</g></a>
+        <li><g href="?gd=uisge">uisge</g>
           <masc/>
-          <en>water</en></li>-->
+          <en>water</en></li>
       </ul>
     </p>
   </section>
@@ -550,7 +549,11 @@
           <fem/>
           <en>an eagle</en>, <g href="?gd=maigheach">maigheach</g>
           <fem/>
-          <en>a hare</en>
+          <en>a hare</en>, <g href="?gd=uan">uan</g>
+          <masc/>
+          <en>a lamb</en>, <g href="?gd=uiseag">uiseag</g>
+          <fem/>
+          <en>a lark</en>
           <ul>
             <li>aggregates – <g href="?gd=crodh">crodh</g>
               <masc/>
@@ -641,7 +644,13 @@
           <masc/>
           <en>a hillock</en>, <g href="?gd=traaigh">tràigh</g>
           <fem/>
-          <en>a beach</en>
+          <en>a beach</en>, <g href="?gd=uamh">uamh</g>
+          <fem/>
+          <en>a cave</en>, <g href="?gd=ugh">ugh</g>
+          <masc/>
+          <en>an egg</en>, <g href="?gd=uisge">uisge</g>
+          <masc/>
+          <en>water</en>
           <ul>
             <li>artifacts – <g href="?gd=balla">balla</g>
               <masc/>
@@ -693,7 +702,9 @@
                   <fem/>
                   <en>a staircase, stairs</en> (?), <g href="?gd=suidheachan">suidheachan</g>
                   <masc/>
-                  <en>a seat</en></li>
+                  <en>a seat</en>, <g href="?gd=uinneag">uinneag</g>
+                  <fem/>
+                  <en>a window</en></li>
                 <li>buildings – <g href="?gd=caarn">càrn</g>
                   <masc/>
                   <en>a cairn</en>, <g href="?gd=dachaidh">dachaidh</g>
@@ -791,7 +802,9 @@
           <masc/>
           <en>heat</en>, <g href="?gd=torman">torman</g>
           <masc/>
-          <en>a murmur</en>
+          <en>a murmur</en>, <g href="?gd=uair">uair</g>
+          <fem/>
+          <en>an hour</en>
         </li>
       </ul>
     </p>
