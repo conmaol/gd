@@ -1,8 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
   <h>adjectives</h>
-  <p>Adjectives are words which encode attributes, properties and qualities of those entities which
-    are described by <a href="?xx=nouns/nouns">nouns</a>.</p>
+
+  <section id="adjectives">
+    <h>list of adjectives</h>
+    <p><ul>
+        <li><a href="?gd=abaich"><g>abaich</g></a>
+          <en>ripe</en></li>
+        <li><a href="?gd=aard"><g>àrd</g></a>
+          <en>high, tall</en></li>
+        <li><g href="?gd=baan">bàn</g>
+          <en>pale</en></li>
+        <li><g href="?gd=beag">beag</g>
+          <en>small, little</en> – <slen/>
+          <g>big(e)</g></li>
+        <li><a href="?gd=blaath"><g>blàth</g></a>
+          <en>warm</en></li>
+        <li><a href="?gd=booidheach"><g>bòidheach</g></a>
+          <en>pretty</en>
+          <slen/> bòidhich(e)</li>
+        <li><a href="?gd=briagha"><g>briagha</g></a>
+          <en>fine, beautiful, lovely</en></li>
+        <li><a href="?gd=ceaarr"><g>ceàrr</g></a>
+          <en>wrong</en></li>
+        <li><a href="?gd=cruinn"><g>cruinn</g></a>
+          <en>round</en></li>
+        <li><a href="?gd=dearg"><g>dearg</g></a>
+          <en>red</en></li>
+        <li><a href="?gd=deiseil"><g>deiseil</g></a>
+          <en>ready</en></li>
+        <li><a href="?gd=domhain"><g>domhain</g></a>
+          <en>deep</en></li>
+        <li><a href="?gd=donn"><g>donn</g></a>
+          <en>brown</en>
+          <slen/> duinn(e)</li>
+        <li><a href="?gd=dorcha"><g>dorcha</g></a>
+          <en>dark</en></li>
+        <li><g href="?gd=dubh">dubh</g>
+          <en>black</en></li>
+        <li><a href="?gd=fada"><g>fada</g></a>
+          <en>long</en></li>
+        <li><a href="?gd=fadalach"><g>fadalach</g></a>
+          <en>late</en></li>
+        <li><a href="?gd=fliuch"><g>fliuch</g></a>
+          <en>wet</en> – <slen/>
+          <g>flich(e)</g></li>
+        <li><a href="?gd=fuar"><g>fuar</g></a>
+          <en>cold</en> – <slen/>
+          <g>fuair(e)</g></li>
+        <li><a href="?gd=geal"><g>geal</g></a>
+          <en>white</en> – <slen/>
+          <g>gil(e)</g></li>
+        <li><a href="?gd=glas"><g>glas</g></a>
+          <en>grey</en></li>
+        <li><a href="?gd=goirt"><g>goirt</g></a>
+          <en>sore</en></li>
+        <li><a href="?gd=gorm"><g>gorm</g></a>
+          <en>blue, green</en> – <slen/> guirm(e)</li>
+        <li><a href="?gd=laan"><g>làn</g></a>
+          <en>full</en></li>
+        <li><a href="?gd=luath"><g>luath</g></a>
+          <en>swift, fast</en></li>
+        <li><a href="?gd=math"><g>math</g></a>
+          <en>good</en></li>
+        <li><g href="?gd=moor">mór</g>
+          <en>big, large, great</en></li>
+        <li><a href="?gd=saabhailte"><g>sàbhailte</g></a>
+          <en>safe</en></li>
+        <li><a href="?gd=salach"><g>salach</g></a>
+          <en>dirty</en></li>
+        <li><a href="?gd=sgiith"><g>sgìth</g></a>
+          <en>tired</en></li>
+        <li><a href="?gd=teth"><g>teth</g></a>
+          <en>hot</en></li>
+        <li><a href="?gd=trang"><g>trang</g></a>
+          <en>busy</en></li>
+        <li><a href="?gd=traath"><g>tràth</g></a>
+          <en>early</en></li>
+        <li><a href="?gd=trom"><g>trom</g></a>
+          <en>heavy</en> – <slen/>
+          <g>truim(e)</g></li>
+        <li><a href="?gd=ullamh"><g>ullamh</g></a>
+          <en>ready</en></li>
+        <li><a href="?gd=fosgailte"><g>fosgailte</g></a>
+          <en>open</en>, <a href="?gd=cunnartach"><g>cunnartach</g></a></li>
+      </ul>
+    </p>
+  </section>
+
+
+  <!--<p>Adjectives are words which encode attributes, properties and qualities of those entities which
+    are described by <a href="?xx=nouns/nouns">nouns</a>.</p>-->
   <!--<p> For example –
     <ul>
       <li><m>mór</m>
@@ -31,7 +119,7 @@
   </p>
   -->
 
-  <section>
+  <!--<section>
     <h>dependents</h>
     <section id="deps-spr">
       <h>specifier</h>
@@ -51,11 +139,11 @@
           </li>
         </xl>
       </p>
-      <!-- gradable adjectives only? -->
+      <!-\- gradable adjectives only? -\->
     </section>
   </section>
-
-  <section>
+-->
+  <!--<section>
     <h>uses</h>
     <section id="uses-pred">
       <h>predicate</h>
@@ -87,8 +175,8 @@
           </li>
         </xl>
       </p>
-      <!--<p>Some examples with plural subjects – <xl> </xl>
-      </p>-->
+      <!-\-<p>Some examples with plural subjects – <xl> </xl>
+      </p>-\->
       <p>Note that more than one adjective can appear alongside each other as predicates – <xl>
           <li>
             <gd>Tha Màiri <m>beag bàn</m>.</gd>
@@ -158,13 +246,13 @@
           </li>
         </xl></p>
     </section>
-  </section>
+  </section>-->
 
-  <section id="derivation">
+  <!--<section id="derivation">
     <h>derivation</h>
-    <p>List of <a href="?xx=adjectives/simple_adjectives">simple adjectives</a>.</p>
+    <p>List of <a href="?xx=adjectives/simple_adjectives">simple adjectives</a>.</p>-->
 
-    <!--<p>Adjectives can be divided into three groups, depending on how they are formed – <ul>
+  <!--<p>Adjectives can be divided into three groups, depending on how they are formed – <ul>
         <li><!-\-<a href="?xx=adjectives/derived_adjectives">-\->Derived adjectives<!-\-</a>-\-> are
           formed from other adjectives, nouns or verbs – <g>ciall</g>
           <fem/>
@@ -192,7 +280,7 @@
           <en>wet</en>.</li>
       </ul>
     </p>-->
-  </section>
+  <!--</section>-->
 
 
 

@@ -1,16 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>bi</h>
-    <p><g>bi</g>
+
+    <p>Adjectives –<xl>
+            <li>
+                <gd>Tha an <a href="?gd=cuu">cù</a>
+                    <a href="?gd=dubh">dubh</a>.</gd>
+                <tr>The dog is black.</tr>
+                <ref text="617">td. 6</ref>
+                <note>‘cù’ is the subject of ‘tha’ (and ‘an’ is the specifier of ‘cù’); ‘dubh’ is
+                    the predicate of ‘tha’.</note>
+            </li>
+            <li>
+                <gd>Tha an <a href="?gd=cat">cat</a>
+                    <a href="?gd=baan">bàn</a>.</gd>
+                <tr>The cat is white.</tr>
+                <ref text="617">td. 6</ref>
+            </li>
+            <li>
+                <gd>Tha an <a href="?gd=cuu">cù</a>
+                    <a href="?gd=moor">mòr</a>.</gd>
+                <tr>The dog is big.</tr>
+                <ref text="617">td. 6</ref>
+            </li>
+            <li>
+                <gd>Tha an <a href="?gd=cat">cat</a>
+                    <a href="?gd=beag">beag</a>.</gd>
+                <tr>The cat is small.</tr>
+                <ref text="617">td. 6</ref>
+            </li>
+        
+        </xl></p>
+    <p>Prepositions –
+        <xl>
+            <li>
+                <gd>Tha an <a href="?gd=cuu">cù</a> dubh <a href="?gd=aig">aig</a> an <a href="?gd=dorus">dorus</a>.</gd>
+                <tr>The black dog is at the door.</tr>
+                <ref text="617">td. 9</ref>
+            </li>
+        </xl>
+    </p>
+
+
+    <!--<p><g>bi</g>
         <en>be</en> is the predicative <a href="?xx=verbs/verbs">verb</a>. Its main forms are – <ul>
             <li>present – <g>tha</g>, <g>·</g>(<g>bh</g>)<g>eil</g></li>
             <li>past – <g>bha</g>, <g>·robh</g></li>
-            <!--<li><g>bidh</g> – future independent active</li>
-            <li><g>bhiodh</g> – conditional independent active</li>-->
+            <!-\-<li><g>bidh</g> – future independent active</li>
+            <li><g>bhiodh</g> – conditional independent active</li>-\->
         </ul>
-    </p>
+    </p>-->
 
-    <section>
+    <!--<section>
         <h>dependents</h>
         <p>In general, forms of <g>bi</g> take both a subject and a predicate – <xl>
                 <li>
@@ -322,11 +363,11 @@
                                     <tr>This (one) is hot.</tr>
                                     <ref text="617">td. 15</ref>
                                 </li>
-                                <!--<li>
+                                <!-\-<li>
                 <gd>Dé tha seo? Tha botul.</gd>
                 <tr>What is this? It’s a bottle.</tr>
                 <ref text="617">td. 20</ref>
-              </li>-->
+              </li>-\->
                             </xl>
                         </li>
                     </ul>
@@ -420,7 +461,7 @@
                         </li>
                     </xl>
                 </p>
-                <!--<p>Some examples with a definite article pre-specifier – <ul>
+                <!-\-<p>Some examples with a definite article pre-specifier – <ul>
           <li>older pedagogical examples – <xl id="adj-older-pedag">
             <li>
               <gd><m>Bha</m> an latha <m>brèagha blàth</m> is thug an athair leis Iain agus Anna
@@ -431,7 +472,7 @@
             </li>
           </xl></li>
         </ul>
-        </p>-->
+        </p>-\->
             </section>
             <section id="deps-pred-prep">
                 <h>prepositions</h>
@@ -462,7 +503,7 @@
                             <ref text="617">td. 6</ref>
                         </li>
                     </xl></p>
-                <!--<p>Older pedagogical examples – <xl id="loc-older-pedag">
+                <!-\-<p>Older pedagogical examples – <xl id="loc-older-pedag">
             <li>
               <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu <m>m’athair a tha air falbh</m>.</gd>
               <tr>My mother is writing a letter to my father who is away.</tr>
@@ -482,7 +523,7 @@
               <ref text="621">td. 6</ref>
             </li>
           </xl>
-        </p>-->
+        </p>-\->
                 <p>Some examples with the progressive particle (pseudo-preposition) <a href="?gd=ag"
                             ><g>ag</g></a> – <xl>
                         <li>
@@ -502,7 +543,7 @@
                             <ref text="617">td. 20</ref>
                         </li>
                     </xl></p>
-                <!--<p>Older pedagogical examples – <xl id="prog-older-pedag">
+                <!-\-<p>Older pedagogical examples – <xl id="prog-older-pedag">
             <li>
               <gd><m>Tha mo mhàthair a’ sgrìobhadh</m> litreach gu m’athair a tha air falbh.
                 Thubhairt mo mhàthair, “An téid thu do bhocsa nan litrichean leis an litir seo,
@@ -534,7 +575,7 @@
               <ref text="621">td. 6</ref>
             </li>
           </xl>
-          </p>-->
+          </p>-\->
                 <p>Some examples with adverbs and interrogatives – <xl>
                         <li>
                             <gd>Càit a bheil an cù? Tha e còmhla ri Calum.</gd>
@@ -612,7 +653,7 @@
             </p>
         </section>
 
-        <!--<section id="sbj">
+        <!-\-<section id="sbj">
       <h>subject</h>
       <p>Older pedagogical examples – <xl id="sbj-older-pedag">
           <li>
@@ -647,10 +688,10 @@
           </li>
         </xl>
       </p>
+    </section>-\->
     </section>-->
-    </section>
 
-    <section>
+    <!--<section>
         <h>uses</h>
         <module id="tha">
             <h>tha</h>
@@ -974,7 +1015,7 @@
                         tha</g>.</p>
             </module>
         </module>
-    </section>
+    </section>-->
 
 
 
@@ -1036,7 +1077,7 @@
   </ulx>
 -->
 
-    <section id="etymology">
+    <!--<section id="etymology">
         <h>etymology</h>
         <section>
             <h>Old Gaelic</h>
@@ -1184,7 +1225,7 @@
 
         </section>
 
-    </section>
+    </section>-->
 
     <!--<section id="forms">
         <h>forms</h>

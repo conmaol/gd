@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>bàn</h>
-    <p><g>bàn</g>
-        <en>white, pale, light, fair</en> is a <a href="?xx=adjectives/simple_adjectives">simple
-            adjective</a>.</p>
+    <p><g>bàn</g> <adj/>
+        <en>white, pale, light, fair</en></p>
 
-    <section>
+    <section id="nouns">
         <h>nouns</h>
         <!--<module id="person_baan">
             <h>[duine] bàn</h>
@@ -24,10 +23,14 @@
                 </xl>
             </p>
         </module>-->
-        <module id="cat">
-            <h>cat</h>
+        
             <p><g><a href="?gd=cat">cat</a> bàn</g>
                 <en>a white cat</en> – <xl>
+                    <li>
+                        <gd>Tha an cat bàn.</gd>
+                        <tr>The cat is white.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
                     <li>
                         <gd>A bheil an cat bàn? Chan eil.</gd>
                         <tr>Is the cat white? No, it isn’t.</tr>
@@ -50,9 +53,7 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="falt">
-            <h>falt</h>
+        
             <p><g><a href="?gd=falt">falt</a> bàn</g>
                 <en>fair hair</en> – <xl>
                     <li>
@@ -62,7 +63,6 @@
                     </li>
                 </xl>
             </p>
-        </module>
     </section>
 
 </module>

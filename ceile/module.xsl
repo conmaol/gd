@@ -125,7 +125,9 @@
 
   <xsl:template match="gd/a">
     <a href="{@href}" style="color: #556b2f; text-decoration: none;">
-      <strong><xsl:apply-templates/></strong>
+      <strong>
+        <xsl:apply-templates/>
+      </strong>
     </a>
   </xsl:template>
 
@@ -222,7 +224,9 @@
   </xsl:template>
 
   <xsl:template match="adj">
-    <em>adj.</em>
+    <a href="?xx=adjectives/adjectives">
+      <em>adj.</em>
+    </a>
   </xsl:template>
 
   <xsl:template match="adv">

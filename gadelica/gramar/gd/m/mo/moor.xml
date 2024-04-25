@@ -27,9 +27,10 @@
           </li>
         </xl>
       </p>-->
-    <module id="gille">
-      <h>gille</h>
-      <p><g><a href="?gd=gille">gille</a> mór</g>
+    
+      <section id="nouns-people">
+        <h>people</h>
+        <p><g><a href="?gd=gille">gille</a> mór</g>
         <en>a big boy</en> – <xl>
           <li>
             <gd>Tha an gille mór.</gd>
@@ -37,12 +38,12 @@
             <ref text="617">td. 15</ref>
           </li>
         </xl>
-      </p>
-    </module>
+      </p></section>
     <!--</module>-->
-    <module id="cuu">
-      <h>cù</h>
-      <p><g><a href="?gd=cuu">cù</a> mór</g>
+    
+      <section id="nouns-animals">
+        <h>animals</h>
+        <p><g><a href="?gd=cuu">cù</a> mór</g>
         <en>a large dog</en> – <xl>
           <li>
             <gd>Tha an cù mòr.</gd>
@@ -56,9 +57,7 @@
           </li>
         </xl>
       </p>
-    </module>
-    <module id="cat">
-      <h>cat</h>
+    
       <p><g><a href="?gd=cat">cat</a> mór</g>
         <en>a large cat</en> – <xl>
           <li>
@@ -68,9 +67,7 @@
           </li>
         </xl>
       </p>
-    </module>
-    <module id="iolair">
-      <h>iolair</h>
+    
       <p><g><a href="?gd=iolair">iolair</a> mhór</g>
         <en>a large eagle</en> – <xl>
           <li>
@@ -79,8 +76,10 @@
             <ref text="617">td. 9 [226]</ref>
           </li>
         </xl>
-      </p>
-    </module>
+      </p></section>
+    
+    
+    
     <module id="ceann">
       <h>ceann</h>
       <p><g><a href="?gd=ceann">ceann</a> mór</g>
