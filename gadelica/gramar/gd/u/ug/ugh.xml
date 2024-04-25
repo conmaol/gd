@@ -1,55 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>ugh</h>
-    <p><g>ugh</g> <masc/>
+    <p><g>ugh</g>
+        <masc/>
         <en>an egg</en></p>
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="booidheach">
-            <h>bòidheach</h>
-            <p><g>ugh <a href="?gd=booidheach">bòidheach</a></g> <en>a pretty egg</en> –
-                <xl>
-                    <li>
-                        <gd>Fhuair Màiri nead anns an fhraoch. Bha trì uighean bòidheach anns an
-                            nead.</gd>
-                        <tr>Mary found a nest in the heather. There were three pretty eggs in the
-                            nest.</tr>
-                        <ref text="617">td. 76 [adapted]</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g>ugh <a href="?gd=booidheach">bòidheach</a></g>
+            <en>a pretty egg</en> – <xl>
+                <li>
+                    <gd>Fhuair Màiri nead anns an fhraoch. Bha trì uighean bòidheach anns an
+                        nead.</gd>
+                    <tr>Mary found a nest in the heather. There were three pretty eggs in the
+                        nest.</tr>
+                    <ref text="617">td. 76 [adapted]</ref>
+                </li>
+            </xl>
+        </p>
     </section>
-    
-    <section>
+
+    <section id="nouns">
         <h>nouns</h>
-        <module id="bocsa">
-            <h>bocsa</h>
-            <p><g>ugh ann am <a href="?gd=bocsa">bocsa</a></g>
-                <en>an egg in a box</en>. <xl>
-                    <li>
-                        <gd>Dé tha anns a’ bhocsa sin? Tha uighean anns a’ bhocsa.</gd>
-                        <tr>What is in that box? There are eggs in the box.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="nead">
-            <h>nead</h>
-            <p><g>ugh ann an <a href="?gd=nead">nead</a></g>
-                <en>an egg in a nest</en>. <xl>
-                    <li>
-                        <gd>Fhuair Màiri nead anns an fhraoch. Bha trì uighean bòidheach anns an
-                            nead.</gd>
-                        <tr>Mary found a nest in the heather. There were three pretty eggs in the
-                            nest.</tr>
-                        <ref text="617">td. 76 [adapted]</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g>ugh ann am <a href="?gd=bocsa">bocsa</a></g>
+            <en>an egg in a box</en>. <xl>
+                <li>
+                    <gd>Dé tha anns a’ bhocsa sin? Tha uighean anns a’ bhocsa.</gd>
+                    <tr>What is in that box? There are eggs in the box.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>ugh ann an <a href="?gd=nead">nead</a></g>
+            <en>an egg in a nest</en>. <xl>
+                <li>
+                    <gd>Fhuair Màiri nead anns an fhraoch. Bha trì uighean bòidheach anns an
+                        nead.</gd>
+                    <tr>Mary found a nest in the heather. There were three pretty eggs in the
+                        nest.</tr>
+                    <ref text="617">td. 76 [adapted]</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>
