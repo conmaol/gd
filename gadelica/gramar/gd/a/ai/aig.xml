@@ -5,7 +5,8 @@
   <p><g>aig</g>
     <en>at</en> is the (non-leniting) adessive <a href="?xx=prepositions/prepositions"
       >preposition</a>.</p>
-  <section id="forms">
+
+  <!--<section id="forms">
     <h>forms</h>
     <section id="indefinite">
       <h>indefinite</h>
@@ -104,8 +105,32 @@
         </ul>
       </p>
     </section>
+  </section>-->
+
+  <section id="nouns">
+    <h>nouns</h>
+    <p><g>aig <a href="?gd=dorus">dorus</a></g>
+      <en>at a door</en> – <xl>
+        <li>
+          <gd>Tha an cù dubh aig an dorus.</gd>
+          <tr>The black dog is at the door.</tr>
+          <ref text="617">td. 9</ref>
+        </li>
+        <li>
+          <gd>Tha an gille aig an dorus.</gd>
+          <tr>The boy is at the door.</tr>
+          <ref text="617">td. 15</ref>
+        </li>
+        <li>
+          <gd>Chunnaic mi cù aig an dorus.</gd>
+          <tr>I saw a dog at the door.</tr>
+          <ref text="617">td. 6</ref>
+        </li>
+      </xl></p>
   </section>
-  <section>
+
+
+  <!--<section>
     <h>dependents</h>
     <section id="complement">
       <h>complement</h>
@@ -127,9 +152,9 @@
             <ref text="617">td. 14 [227]</ref>
           </li>
         </xl>
-      </p>
+      </p>-->
 
-      <!--
+  <!--
       <p>These complements can belong to a number of different semantic classes.</p>
       <section id="comp-human">
         <h>humans</h>
@@ -501,11 +526,11 @@
       </section>
       -->
 
-    </section>
+  <!--  </section>
   </section>
+-->
 
-
-  <section>
+  <!--<section>
     <h>uses</h>
     <section id="uses-pred">
       <h>predicate</h>
@@ -530,8 +555,8 @@
           </li>
         </xl>
       </p>
-
-      <!--
+-->
+  <!--
       <p>One common use of the preposition <g>aig</g> is to introduce the predicate of the verb <a
           href="?gd=bi"><g>bi</g></a> – <ul>
           <li><m>Tha</m> Seònaid <m>aig</m> an taigh sholais. <en>Shona is at the
@@ -596,8 +621,10 @@
             </li>
           </ul></p>
       -->
-    </section>
-    <!--<section id="uses-pred-possession">
+
+  <!--</section>-->
+
+  <!--<section id="uses-pred-possession">
         <h>possession</h>
         <p>Predicative <g>aig</g> can be used to state the possessor of an entity – <ul>
             <li>Cò aige a tha am bàta seo? <en>Whose is this boat?</en>
@@ -816,7 +843,7 @@
           </ul>
         </p>
       </section>-->
-    <!--<section id="uses-pred-temporal">
+  <!--<section id="uses-pred-temporal">
         <h>temporal</h>
         <p>Predicative <g>aig</g> can be used to state the location of an event in clock time – <ul>
             <li>Cùine a bhios a’ choinneamh? / Dè an uair a bhios a’ choinneamh? <en>When / at what
@@ -876,7 +903,9 @@
           </ul>
         </p>
       </section>-->
-  </section>
+
+  <!-- </section>
+-->
 
   <!--<section id="uses-comp">
       <h>complement</h>

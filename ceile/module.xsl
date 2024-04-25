@@ -123,6 +123,12 @@
 
   <!-- text content -->
 
+  <xsl:template match="gd/a">
+    <a href="{@href}" style="color: #556b2f; text-decoration: none;">
+      <strong><xsl:apply-templates/></strong>
+    </a>
+  </xsl:template>
+
   <xsl:template match="a">
     <a href="{@href}">
       <xsl:apply-templates/>
@@ -142,7 +148,7 @@
   </xsl:template>
 
   <xsl:template match="g[@href]">
-    <a href="{@href}">
+    <a href="{@href}" style="text-decoration:none;">
       <strong>
         <xsl:apply-templates/>
       </strong>

@@ -2,13 +2,13 @@
 <module>
     <h>personal pronouns</h>
     <p>Personal pronouns are <a href="?xx=nouns/pronouns">pronouns</a> – <ul>
-            <li><a href="?gd=mi">mi</a></li>
-            <li><a href="?gd=thu">thu</a></li>
-            <li><a href="?gd=i_">i</a></li>
-            <li><a href="?gd=e_">e</a></li>
-            <li><a href="?gd=sinn">sinn</a></li>
-            <li><a href="?gd=sibh">sibh</a></li>
-            <li><a href="?gd=iad">iad</a></li>
+            <li><g href="?gd=mi">mi</g></li>
+            <li><g href="?gd=thu">thu</g></li>
+            <li><g href="?gd=i_">i</g></li>
+            <li><g href="?gd=e_">e</g></li>
+            <li><g href="?gd=sinn">sinn</g></li>
+            <li><g href="?gd=sibh">sibh</g></li>
+            <li><g href="?gd=iad">iad</g></li>
         </ul>
     </p>
 </module>

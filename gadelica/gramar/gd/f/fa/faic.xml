@@ -87,7 +87,7 @@
       <h>animals</h>
       <p>Examples with singular common nouns (individual animals) – <xl>
           <li>
-            <gd>Chunnaic mi cù aig an dorus.</gd>
+            <gd>Chunnaic mi cù aig an <a href="?gd=dorus">dorus</a>.</gd>
             <tr>I saw a dog at the door.</tr>
             <ref text="617">td. 6</ref>
           </li>
@@ -143,7 +143,7 @@
     <h>locatives</h>
     <p>Examples with object locatives – <xl>
         <li>
-          <gd>Chunnaic mi cù aig an dorus.</gd>
+          <gd>Chunnaic mi cù aig an <a href="?gd=dorus">dorus</a>.</gd>
           <tr>I saw a dog at the door.</tr>
           <ref text="617">td. 6</ref>
         </li>

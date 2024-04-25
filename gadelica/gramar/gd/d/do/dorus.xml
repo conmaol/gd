@@ -113,21 +113,17 @@
         <h>nouns</h>
         <!-- <section id="nouns-loc">
             <h>locative</h>-->
-        <p><g><a href="?gd=gille">gille</a> aig dorus</g>
-            <en>a boy at a door</en> – <xl>
+        <p><g>... <a href="?gd=aig">aig</a> dorus</g>
+            <en>at a door</en> – <xl>
                 <li>
-                    <gd>A bheil an gille aig an dorus? Chan eil.</gd>
-                    <tr>Is the boy at the door?</tr>
-                    <ref text="617">td. 15 [adapted]</ref>
-                </li>
-            </xl>
-        </p>
-        <p><g><a href="?gd=cuu">cù</a> aig dorus</g>
-            <en>a dog at a door</en> – <xl>
-                <li>
-                    <gd>Chunnaic mi cù aig an dorus.</gd>
+                    <gd>Chunnaic mi <a href="?gd=cuu">cù</a> aig an dorus.</gd>
                     <tr>I saw a dog at the door.</tr>
                     <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>A bheil an <a href="?gd=gille">gille</a> aig an dorus? Chan eil.</gd>
+                    <tr>Is the boy at the door?</tr>
+                    <ref text="617">td. 15 [adapted]</ref>
                 </li>
             </xl>
         </p>

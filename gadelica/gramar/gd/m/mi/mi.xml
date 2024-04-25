@@ -6,10 +6,10 @@
             pronoun</a>.</p>
 
     <section>
-        <h>uses</h>
-        <section id="uses-sbj">
+        <h>verbs</h>
+        <section id="verbs-sbj">
             <h>subject</h>
-            <p><g>mi</g> can be used as the subject of a verb.</p>
+            <!--<p><g>mi</g> can be used as the subject of a verb.</p>-->
             <p>Examples with <a href="?gd=bi"><g>bi</g></a>
                 <en>be</en> – <xl>
                     <li>
@@ -48,7 +48,7 @@
             </p>
             <p>Examples with other verbs – <xl>
                     <li>
-                        <gd>Chunnaic mi cù aig an dorus.</gd>
+                        <gd><a href="?gd=faic">Chunnaic</a> mi cù aig an dorus.</gd>
                         <tr>I saw a dog at the door.</tr>
                         <ref text="617">td. 6</ref>
                     </li>

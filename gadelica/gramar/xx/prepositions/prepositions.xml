@@ -55,7 +55,7 @@
   </p>
 
 
-  <section>
+  <!--<section>
     <h>dependents</h>
     <section id="complement">
       <h>complement</h>
@@ -92,9 +92,9 @@
         </xl>
       </p>
     </section>
-  </section>
+  </section>-->
 
-  <section>
+  <!--<section>
     <h>uses</h>
     <section id="uses-pred">
       <h>predicate</h>
@@ -152,7 +152,7 @@
       </p>
     </section>
 
-  </section>
+  </section>-->
 
 
 
