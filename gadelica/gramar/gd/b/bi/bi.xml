@@ -19,6 +19,7 @@
                     </li>
                 </xl>
             </p>
+            <!-- first and second person pronouns, third person pronouns -->
             <p>Conjoined examples – <xl>
                     <li>
                         <gd>Tha Màiri <a href="?gd=agus">agus</a> Calum ag obair anns an achadh an
@@ -83,7 +84,7 @@
                 </xl></p>
             <p>Examples with size adjectives –<xl>
                     <li>
-                        <gd>Tha an cù <a href="?gd=moor">mòr</a> ach tha an cat <a href="?gd=beag"
+                        <gd>Tha an cù <a href="?gd=moor">mór</a> ach tha an cat <a href="?gd=beag"
                                 >beag</a>.</gd>
                         <tr>The dog is big but the cat is small.</tr>
                         <ref text="617">td. 6</ref>
@@ -144,7 +145,7 @@
     </section>
 
 
-<!-- uses - 
+    <!-- uses - 
     
     matrix
     
@@ -158,10 +159,33 @@
 
     <section id="uses">
         <h>uses</h>
-        <p>Conjoined examples – <xl>
+        <p>Examples as a main verb – <xl>
                 <li>
-                    <gd>Tha an dorus mór agus tha an teine mór.</gd>
+                    <gd>Tha Màiri beag.</gd>
+                    <tr>Mary is small.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>Tha an cù dubh aig an dorus.</gd>
+                    <tr>The black dog is at the door.</tr>
+                    <ref text="617">td. 9</ref>
+                </li>
+                <li>
+                    <gd>Tha Calum ag obair.</gd>
+                    <tr>Malcolm is working.</tr>
+                    <ref text="617">td. 6–7</ref>
+                </li>
+            </xl>
+        </p>
+        <p>Examples with a sentential conjunction – <xl>
+                <li>
+                    <gd>Tha an dorus mór <a href="?gd=agus">agus</a> tha an teine mór.</gd>
                     <tr>The door is big and the fire is big.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>Tha Màiri beag <a href="?gd=ach">ach</a> tha Calum mór.</gd>
+                    <tr>Mary is small but Malcolm is big.</tr>
                     <ref text="617">td. 6</ref>
                 </li>
             </xl>
