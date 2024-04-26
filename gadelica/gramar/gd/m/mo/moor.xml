@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
   <h>mór</h>
-  <p><g>mór</g> <adj/>
+  <p><g>mór</g>
+    <adj/>
     <en>big, large, great</en></p>
 
   <section>
@@ -27,10 +28,10 @@
           </li>
         </xl>
       </p>-->
-    
-      <section id="nouns-people">
-        <h>people</h>
-        <p><g><a href="?gd=gille">gille</a> mór</g>
+
+    <section id="nouns-people">
+      <h>people</h>
+      <p><g><a href="?gd=gille">gille</a> mór</g>
         <en>a big boy</en> – <xl>
           <li>
             <gd>Tha an gille mór.</gd>
@@ -38,12 +39,13 @@
             <ref text="617">td. 15</ref>
           </li>
         </xl>
-      </p></section>
+      </p>
+    </section>
     <!--</module>-->
-    
-      <section id="nouns-animals">
-        <h>animals</h>
-        <p><g><a href="?gd=cuu">cù</a> mór</g>
+
+    <section id="nouns-animals">
+      <h>animals</h>
+      <p><g><a href="?gd=cuu">cù</a> mór</g>
         <en>a large dog</en> – <xl>
           <li>
             <gd>Tha an cù mòr.</gd>
@@ -57,7 +59,6 @@
           </li>
         </xl>
       </p>
-    
       <p><g><a href="?gd=cat">cat</a> mór</g>
         <en>a large cat</en> – <xl>
           <li>
@@ -67,7 +68,6 @@
           </li>
         </xl>
       </p>
-    
       <p><g><a href="?gd=iolair">iolair</a> mhór</g>
         <en>a large eagle</en> – <xl>
           <li>
@@ -76,10 +76,31 @@
             <ref text="617">td. 9 [226]</ref>
           </li>
         </xl>
-      </p></section>
-    
-    
-    
+      </p>
+    </section>
+
+    <section id="nouns-other">
+      <h>other</h>
+      <p><g><a href="?gd=dorus">dorus</a> mór</g>
+        <en>a large door</en> – <xl>
+          <li>
+            <gd>Tha an dorus mór.</gd>
+            <tr>The door is big.</tr>
+            <ref text="617">td. 6 [adapted]</ref>
+          </li>
+        </xl>
+      </p>
+      <p><g><a href="?gd=teine">teine</a> mór</g>
+        <en>a large fire</en> – <xl>
+          <li>
+            <gd>Tha an teine mór.</gd>
+            <tr>The fire is big.</tr>
+            <ref text="617">td. 6 [adapted]</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+
     <module id="ceann">
       <h>ceann</h>
       <p><g><a href="?gd=ceann">ceann</a> mór</g>
@@ -130,8 +151,8 @@
     </module>
     <module id="uamh">
       <h>uamh</h>
-      <p><g><a href="?gd=uamh">uamh</a> mhór</g> <en>a big cave</en> –
-        <xl>
+      <p><g><a href="?gd=uamh">uamh</a> mhór</g>
+        <en>a big cave</en> – <xl>
           <li>
             <gd>Tha an uamh seo mór.</gd>
             <tr>This cave is big.</tr>
@@ -142,8 +163,8 @@
     </module>
     <module id="coota">
       <h>còta</h>
-      <p><g><a href="?gd=coota">còta</a> mór</g> <en>a big coat</en> –
-        <xl>
+      <p><g><a href="?gd=coota">còta</a> mór</g>
+        <en>a big coat</en> – <xl>
           <li>
             <gd>Tha còta mór air an t-saighdear.</gd>
             <tr>The soldier has a big coat on.</tr>
@@ -187,30 +208,7 @@
           </li>
         </xl></p>
     </module>
-    <module id="dorus">
-      <h>dorus</h>
-      <p><g><a href="?gd=dorus">dorus</a> mór</g>
-        <en>a large door</en> – <xl>
-          <li>
-            <gd>Tha an dorus mór.</gd>
-            <tr>The door is big.</tr>
-            <ref text="617">td. 6</ref>
-          </li>
-        </xl>
-      </p>
-    </module>
-    <module id="teine">
-      <h>teine</h>
-      <p><g><a href="?gd=teine">teine</a> mór</g>
-        <en>a large fire</en> – <xl>
-          <li>
-            <gd>Tha an teine mór.</gd>
-            <tr>The fire is big.</tr>
-            <ref text="617">td. 6</ref>
-          </li>
-        </xl>
-      </p>
-    </module>
+
     <module id="eallach">
       <h>eallach</h>
       <p><g><a href="?gd=eallach">eallach</a> mór</g>
@@ -228,24 +226,22 @@
       <p><g><a href="?gd=acras">acras</a> mór</g>
         <en>a great hunger</en> – <xl>
           <li>
-            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-              mullach na beinne. Bha càrn chlach air mullach na beinne. Chuir Calum
-              clach air a’ chàrn agus shuidh e ri taobh a’ chùirn a’ leigeil analach.
-              [...] An ceann greise dh’éirich Calum ’na sheasamh agus thearnaich e a’
-              bheinn air a shocair. Chòrd an latha gu math ris ach bha an t-acras mór
-              air nuair a ràinig e an taigh.</gd>
-            <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-              the mountain. There was a cairn of stones on the top of the mountain.
-              Calum put a stone onto the cairn and he sat down beside the cairn having
-              a rest. [...] After a while Malcolm rose up and he descended the
-              mountain leisurely. He enjoyed the day well but he was very hungry when
-              he reached the house.</tr>
+            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e mullach na
+              beinne. Bha càrn chlach air mullach na beinne. Chuir Calum clach air a’ chàrn agus
+              shuidh e ri taobh a’ chùirn a’ leigeil analach. [...] An ceann greise dh’éirich Calum
+              ’na sheasamh agus thearnaich e a’ bheinn air a shocair. Chòrd an latha gu math ris ach
+              bha an t-acras mór air nuair a ràinig e an taigh.</gd>
+            <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+              mountain. There was a cairn of stones on the top of the mountain. Calum put a stone
+              onto the cairn and he sat down beside the cairn having a rest. [...] After a while
+              Malcolm rose up and he descended the mountain leisurely. He enjoyed the day well but
+              he was very hungry when he reached the house.</tr>
             <ref text="617">td. 146</ref>
           </li>
         </xl>
       </p>
     </module>
-    
+
   </section>
 
 

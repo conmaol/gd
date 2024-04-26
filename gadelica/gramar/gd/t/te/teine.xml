@@ -12,7 +12,7 @@
                 <li>
                     <gd>Tha an teine mór.</gd>
                     <tr>The fire is big.</tr>
-                    <ref text="617">td. 6</ref>
+                    <ref text="617">td. 6 [adapted]</ref>
                 </li>
             </xl></p>
     </section>
@@ -46,33 +46,35 @@
 
     <section id="nouns">
         <h>nouns</h>
-        <p><g><a href="?gd=caileag">caileag</a> aig teine</g>
-            <en>a girl at a fire</en> – <xl>
-                <li>
-                    <gd>An do shuidh a’ chaileag aig an teine? Shuidh.</gd>
-                    <tr>Did the girl sit down by the fire? Yes, she did.</tr>
-                    <ref text="617">td. 237</ref>
-                </li>
-            </xl>
+        <p><g>... <a href="?gd=aig">aig</a> teine</g>
+            <en>... at a fire</en> – <ul>
+                <li><g><a href="?gd=caileag">caileag</a> aig teine</g>
+                    <en>a girl at a fire</en> – <xl>
+                        <li>
+                            <gd>An do shuidh a’ chaileag aig an teine? Shuidh.</gd>
+                            <tr>Did the girl sit down by the fire? Yes, she did.</tr>
+                            <ref text="617">td. 237</ref>
+                        </li>
+                    </xl></li>
+                <li><g><a href="?gd=cat">cat</a> aig teine</g>
+                    <en>a cat at a fire</en> – <xl>
+                        <li>
+                            <gd>Tha an cat aig an teine.</gd>
+                            <tr>The cat is by the fire.</tr>
+                            <ref text="617">td. 6</ref>
+                        </li>
+                    </xl></li>
+                <li><g><a href="?gd=cuu">cù</a> aig teine</g>
+                    <en>a dog at a fire</en> – <xl>
+                        <li>
+                            <gd>A bheil an cù aig an teine? Tha.</gd>
+                            <tr>Is the dog by the fire? Yes, it is.</tr>
+                            <ref text="617">td. 14</ref>
+                        </li>
+                    </xl></li>
+            </ul>
         </p>
-        <p><g><a href="?gd=cat">cat</a> aig teine</g>
-            <en>a cat at a fire</en> – <xl>
-                <li>
-                    <gd>Tha an cat aig an teine.</gd>
-                    <tr>The cat is by the fire.</tr>
-                    <ref text="617">td. 6</ref>
-                </li>
-            </xl>
-        </p>
-        <p><g><a href="?gd=cuu">cù</a> aig teine</g>
-            <en>a dog at a fire</en> – <xl>
-                <li>
-                    <gd>A bheil an cù aig an teine? Tha.</gd>
-                    <tr>Is the dog by the fire? Yes, it is.</tr>
-                    <ref text="617">td. 14</ref>
-                </li>
-            </xl>
-        </p>
+
         <p><g><a href="?gd=gual">gual</a> air teine</g>
             <en>coal on a fire</en> – <xl>
                 <li>
@@ -82,14 +84,17 @@
                 </li>
             </xl>
         </p>
-        <p><g><a href="?gd=teas">teas</a> ann an teine</g>
-            <en>heat in a fire</en> – <xl>
-                <li>
-                    <gd>Tha teas anns an teine.</gd>
-                    <tr>There is heat in the fire.</tr>
-                    <ref text="617">td. 6</ref>
-                </li>
-            </xl>
+        <p><g>... <a href="?gd=an^preposition">ann an</a> teine</g>
+            <en>... in a fire</en> – <ul>
+                <li><g><a href="?gd=teas">teas</a> ann an teine</g>
+                    <en>heat in a fire</en> – <xl>
+                        <li>
+                            <gd>Tha teas anns an teine.</gd>
+                            <tr>There is heat in the fire.</tr>
+                            <ref text="617">td. 6</ref>
+                        </li>
+                    </xl></li>
+            </ul>
         </p>
     </section>
 

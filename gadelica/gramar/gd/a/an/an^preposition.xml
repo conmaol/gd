@@ -4,9 +4,24 @@
   <p><g>an</g>
     <en>in(side), within</en> is the (non-leniting) inessive <a href="?xx=prepositions/prepositions"
       >preposition</a>.</p>
+
+  <section id="nouns">
+    <h>nouns</h>
+    <p><g>... ann an <a href="?gd=teine">teine</a></g>
+      <en>... in a fire</en> –<xl>
+        <li>
+          <gd>Tha teas anns an teine.</gd>
+          <tr>There is heat in the fire.</tr>
+          <ref text="617">td. 6</ref>
+        </li>
+      </xl></p>
+  </section>
+
+
+
   <!--<p>The inessive preposition should not be confused with other uses of the particle <a
       href="?gd=an"><g>an</g></a>.</p>-->
-  <section id="forms">
+  <!--<section id="forms">
     <h>forms</h>
     <section id="indefinite">
       <h>indefinite</h>
@@ -38,7 +53,7 @@
           <li><m>anns na h-</m>aislingean <en>in the dreams</en></li>
         </ul>
       </p>
-      <!--<p><ed>Add note on ‘anns a-màireach’, ‘anns a h-uile ...’, ‘anns a bheil ...’</ed></p>-->
+      <!-\-<p><ed>Add note on ‘anns a-màireach’, ‘anns a h-uile ...’, ‘anns a bheil ...’</ed></p>-\->
       <p>Note the following commonly used, fused forms – <ul>
           <li><m>san</m> taigh <en>in the house</en> ≈ <g>anns an</g> taigh</li>
           <li><m>sa</m> bhaile <en>in the town</en> ≈ <g>anns a’</g> bhaile</li>
@@ -119,9 +134,9 @@
         </ul>
       </p>
     </section>
-  </section>
+  </section>-->
 
-  <section>
+  <!--<section>
     <h>dependents</h>
     <section id="deps-comp">
       <h>complement</h>
@@ -192,7 +207,7 @@
         </xl>
       </p>
 
-      <!-- <p>These complements can belong to a number of different semantic classes.</p>
+      <!-\- <p>These complements can belong to a number of different semantic classes.</p>
       <section id="deps-comp-human">
         <h>humans</h>
       </section>
@@ -204,9 +219,9 @@
           <li><g>ann an <a href="?gd=làmh">làimh</a></g>
             <en>in someone’s hand</en></li>
         </ul>
-      </p>-->
+      </p>-\->
 
-      <!--<module id="countries">
+      <!-\-<module id="countries">
         <h>with names of countries</h>
         <h lang="gd">...</h>
         <p>Biblical examples – <xl id="basic-exs">
@@ -225,8 +240,8 @@
         </p>
 
       </module>
--->
-      <!--<module id="towns">
+-\->
+      <!-\-<module id="towns">
         <h>with names of towns and cities</h>
         <p>Examples from Gairm – <xl id="gairm">
             <li>
@@ -241,13 +256,13 @@
             </li>
           </xl>
         </p>
-      </module>-->
+      </module>-\->
       <p>cf. <g>... sam <a href="?gd=bith">bith</a></g>
         <en>some, any</en></p>
     </section>
-  </section>
+  </section>-->
 
-  <section>
+  <!--<section>
     <h>uses</h>
 
     <section id="uses-pred">
@@ -384,7 +399,7 @@
     <section id="uses-mod">
       <h>modifier</h>
 
-      <!--<p><g>an</g> can be used to introduce a modifier of a noun – <ul>
+      <!-\-<p><g>an</g> can be used to introduce a modifier of a noun – <ul>
           <li>older pedagogical examples – <xl id="an-older-pedag">
               <li>
                 <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh. Thubhairt mo
@@ -401,7 +416,7 @@
             </xl>
           </li>
         </ul>
-      </p>-->
+      </p>-\->
       <p><g>an</g> can be used to introduce a locative modifier of a verb (or verbal noun).</p>
       <p>Some examples – <xl>
           <li>
@@ -435,7 +450,7 @@
             <ref text="617">td. 9 [226]</ref>
           </li>
         </xl>
-        <!--<ul>
+        <!-\-<ul>
           <li>older pedagogical examples – <xl id="an-verb-older-pedag">
               <li>
                 <gd>Bha an latha brèagha blàth is <m>thug</m> an athair leis Iain agus Anna <m>anns
@@ -446,12 +461,12 @@
               </li>
             </xl>
           </li>
-        </ul>-->
+        </ul>-\->
       </p>
       <p>Noun modifier – cf. <g>... sam <a href="?gd=bith">bith</a></g>
         <en>some, any</en></p>
     </section>
-  </section>
+  </section>-->
 
   <!--
   <hr/>

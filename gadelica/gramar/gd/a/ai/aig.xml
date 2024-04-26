@@ -109,8 +109,8 @@
 
   <section id="nouns">
     <h>nouns</h>
-    <p><g>aig <a href="?gd=dorus">dorus</a></g>
-      <en>at a door</en> – <xl>
+    <p><g>... aig <a href="?gd=dorus">dorus</a></g>
+      <en>... at a door</en> – <xl>
         <li>
           <gd>Tha an cù dubh aig an dorus.</gd>
           <tr>The black dog is at the door.</tr>
@@ -127,6 +127,15 @@
           <ref text="617">td. 6</ref>
         </li>
       </xl></p>
+    <p><g>... aig <a href="?gd=teine">teine</a></g>
+      <en>... at a fire</en> – <xl>
+        <li>
+          <gd>Tha an cat aig an teine.</gd>
+          <tr>The cat is by the fire.</tr>
+          <ref text="617">td. 6</ref>
+        </li>
+      </xl>
+    </p>
   </section>
 
 
