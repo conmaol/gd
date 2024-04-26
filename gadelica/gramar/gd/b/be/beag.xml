@@ -9,60 +9,59 @@
         <h>nouns</h>
         <section id="nouns-people">
             <h>people</h>
-            <module id="caileag">
-                <h>caileag</h>
-                <p><g><a href="?gd=caileag">caileag</a> bheag</g>
-                    <en>a little girl</en> – <xl>
-                        <li>
-                            <gd>Tha a’ chaileag beag.</gd>
-                            <tr>The girl is small.</tr>
-                            <ref text="617">td. 15</ref>
-                        </li>
-                        <li>
-                            <gd>Chan eil a’ chaileag bheag anns an sgoil.</gd>
-                            <tr>The little girl is not in the school.</tr>
-                            <ref text="617">td 14 [228]</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-            <module id="gille">
-                <h>gille</h>
-                <p><g><a href="?gd=gille">gille</a> beag</g>
-                    <en>a little boy</en> – <xl>
-                        <li>
-                            <gd>Càit a bheil an gille beag an diugh?</gd>
-                            <tr>Where is the little boy today?</tr>
-                            <ref text="617">td. 14</ref>
-                        </li>
-                        <li>
-                            <gd>Có tha anns a’ chraoibh? Tha an gille beag.</gd>
-                            <tr>Who is in the tree? The little boy is.</tr>
-                            <ref text="617">td. 40</ref>
-                        </li>
-                        <li>
-                            <gd>Nigh an gille beag a làmhan.</gd>
-                            <tr>The little boy washed his hands.</tr>
-                            <ref text="617">td. 47</ref>
-                        </li>
-                        <li>
-                            <gd>An do sheas an gille beag aig an uinneig? Sheas.</gd>
-                            <tr>Did the little boy stand at the window? Yes, he did.</tr>
-                            <ref text="617">td. 54</ref>
-                        </li>
-                    </xl>
-                </p>
-                <p>Also –<xl>
-                        <li>
-                            <gd>Bha torman an uillt a’ dèanamh ciùil ann an cluais Chaluim
-                                bhig.</gd>
-                            <tr>The murmur of the burn was making music in little Malcolm’s
-                                ear.</tr>
-                            <ref text="617">td. 146</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
+            <p>Examples with proper nouns – <xl>
+                    <li>
+                        <gd>Tha Màiri beag.</gd>
+                        <tr>Mary is small.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Bha torman an uillt a’ dèanamh ciùil ann an cluais Chaluim bhig.</gd>
+                        <tr>The murmur of the burn was making music in little Malcolm’s ear.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with common nouns – <ul>
+                    <li><g><a href="?gd=caileag">caileag</a> bheag</g>
+                        <en>a little girl</en> – <xl>
+                            <li>
+                                <gd>Tha a’ chaileag beag.</gd>
+                                <tr>The girl is small.</tr>
+                                <ref text="617">td. 15</ref>
+                            </li>
+                            <li>
+                                <gd>Chan eil a’ chaileag bheag anns an sgoil.</gd>
+                                <tr>The little girl is not in the school.</tr>
+                                <ref text="617">td 14 [228]</ref>
+                            </li>
+                        </xl></li>
+                    <li><g><a href="?gd=gille">gille</a> beag</g>
+                        <en>a little boy</en> – <xl>
+                            <li>
+                                <gd>Càit a bheil an gille beag an diugh?</gd>
+                                <tr>Where is the little boy today?</tr>
+                                <ref text="617">td. 14</ref>
+                            </li>
+                            <li>
+                                <gd>Có tha anns a’ chraoibh? Tha an gille beag.</gd>
+                                <tr>Who is in the tree? The little boy is.</tr>
+                                <ref text="617">td. 40</ref>
+                            </li>
+                            <li>
+                                <gd>Nigh an gille beag a làmhan.</gd>
+                                <tr>The little boy washed his hands.</tr>
+                                <ref text="617">td. 47</ref>
+                            </li>
+                            <li>
+                                <gd>An do sheas an gille beag aig an uinneig? Sheas.</gd>
+                                <tr>Did the little boy stand at the window? Yes, he did.</tr>
+                                <ref text="617">td. 54</ref>
+                            </li>
+                        </xl></li>
+                </ul>
+            </p>
+            <p> </p>
         </section>
         <!--<module id="duine_beag">
             <h>[duine] beag</h>

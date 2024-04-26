@@ -30,13 +30,25 @@
                 <ref text="617">td. 6</ref>
             </li>
             <li>
-                <gd>Tha an dorus mór.</gd>
+                <gd>Tha an <a href="?gd=dorus">dorus</a>
+                    <a href="?gd=moor">mór</a>.</gd>
                 <tr>The door is big.</tr>
                 <ref text="617">td. 6 [adapted]</ref>
             </li>
             <li>
-                <gd>Tha an teine mór.</gd>
+                <gd>Tha an <a href="?gd=teine">teine</a>
+                    <a href="?gd=moor">mór</a>.</gd>
                 <tr>The fire is big.</tr>
+                <ref text="617">td. 6</ref>
+            </li>
+            <li>
+                <gd>Tha Màiri <a href="?gd=beag">beag</a>.</gd>
+                <tr>Mary is small.</tr>
+                <ref text="617">td. 6</ref>
+            </li>
+            <li>
+                <gd>Tha Calum <a href="?gd=moor">mór</a>.</gd>
+                <tr>Malcolm is big.</tr>
                 <ref text="617">td. 6</ref>
             </li>
         </xl></p>
@@ -54,7 +66,8 @@
                 <ref text="617">td. 6</ref>
             </li>
             <li>
-                <gd>Tha <a href="?gd=teas">teas</a> <a href="?gd=an^preposition">anns</a> an <a href="?gd=teine">teine</a>.</gd>
+                <gd>Tha <a href="?gd=teas">teas</a>
+                    <a href="?gd=an^preposition">anns</a> an <a href="?gd=teine">teine</a>.</gd>
                 <tr>There is heat in the fire.</tr>
                 <ref text="617">td. 6</ref>
             </li>

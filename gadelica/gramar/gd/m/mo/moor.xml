@@ -31,14 +31,24 @@
 
     <section id="nouns-people">
       <h>people</h>
-      <p><g><a href="?gd=gille">gille</a> mór</g>
-        <en>a big boy</en> – <xl>
+      <p>Examples with proper nouns – <xl>
           <li>
-            <gd>Tha an gille mór.</gd>
-            <tr>The boy is big.</tr>
-            <ref text="617">td. 15</ref>
+            <gd>Tha Calum mór.</gd>
+            <tr>Malcolm is big.</tr>
+            <ref text="617">td. 6</ref>
           </li>
         </xl>
+      </p>
+      <p>Examples with common nouns – <ul>
+          <li><g><a href="?gd=gille">gille</a> mór</g>
+            <en>a big boy</en> – <xl>
+              <li>
+                <gd>Tha an gille mór.</gd>
+                <tr>The boy is big.</tr>
+                <ref text="617">td. 15</ref>
+              </li>
+            </xl></li>
+        </ul>
       </p>
     </section>
     <!--</module>-->
