@@ -7,8 +7,34 @@
 
     <section>
         <h>subjects</h>
-        <module id="clachair">
-            <h>clachair</h>
+        <section id="sbjs-people">
+            <h>people</h>
+            <p>Examples with proper nouns – <xl>
+                    <li>
+                        <gd>Tha Màiri <a href="?gd=ag">ag</a> obair.</gd>
+                        <tr>Mary is working</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Calum <a href="?gd=ag">ag</a> obair.</gd>
+                        <tr>Malcolm is working</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with conjoined subjects – <xl>
+                    <li>
+                        <gd>Tha Màiri agus Calum <a href="?gd=ag">ag</a> obair.</gd>
+                        <tr>Mary and Malcolm are working</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+                        <tr>Mary and Malcolm are working in the field today.</tr>
+                        <ref text="617">td. 6–7</ref>
+                    </li>
+                </xl>
+            </p>
             <p><g><a href="?gd=clachair">clachair</a> [ag] obair</g>
                 <en>a mason working</en> – <xl>
                     <li>
@@ -18,9 +44,7 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="saor">
-            <h>saor</h>
+
             <p><g><a href="?gd=saor^n">saor</a> [ag] obair</g>
                 <en>a carpenter working</en> – <xl>
                     <li>
@@ -30,9 +54,7 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="tuathanach">
-            <h>tuathanach</h>
+
             <p><g><a href="?gd=tuathanach">tuathanach</a> [ag] obair</g>
                 <en>a farmer working</en> – <xl>
                     <li>
@@ -42,9 +64,7 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="maathair">
-            <h>màthair</h>
+
             <p><g><a href="?gd=maathair">màthair</a> [ag] obair</g>
                 <en>a mother working</en> – <xl>
                     <li>
@@ -59,70 +79,77 @@
                     </li>
                 </xl>
             </p>
-        </module>
+        </section>
     </section>
 
-    <section>
+    <section id="objs">
         <h>pseudo-objects</h>
-        <module id="balla">
-            <h>balla</h>
-            <p><g>obair air <a href="?gd=balla">balla</a></g>
-                <en>working on a wall</en> – <xl>
-                    <li>
-                        <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
-                        <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
-                        <ref text="617">td. 20</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+        <p><g>obair air <a href="?gd=balla">balla</a></g>
+            <en>working on a wall</en> – <xl>
+                <li>
+                    <gd>An robh an clachair ag obair air a’ bhalla fad an latha an dé? Bha.</gd>
+                    <tr>Was the mason working on the wall all day yesterday? Yes, he was.</tr>
+                    <ref text="617">td. 20</ref>
+                </li>
+            </xl>
+        </p>
     </section>
-    <section>
-        <h>locations</h>
-        <module id="achadh">
-            <h>achadh</h>
-            <p><g>obair ann an <a href="?gd=achadh">achadh</a></g>
-                <en>working on a wall</en> – <xl>
-                    <li>
-                        <gd>An robh Màiri agus Calum ag obair anns an achadh? Bha.</gd>
-                        <tr>Were Mary and Malcolm working in the field? Yes, they were.</tr>
-                        <ref text="617">td. 6–7 [adapted]</ref>
-                    </li>
-                    <li>
-                        <gd>Tha Seumas sgìth: tha e ag obair gu trang anns an achadh.</gd>
-                        <tr>James is tired: he is working busily in the field.</tr>
-                        <ref text="617">td. 7 [adapted]</ref>
-                    </li>
-                    <li>
-                        <gd>Tha Seònaid sgìth ag obair anns an achadh.</gd>
-                        <tr>Janet is tired working in the field.</tr>
-                        <ref text="617">td. 7 [adapted]</ref>
-                    </li>
-                    <li>
-                        <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
-                        <tr>The farmers were working busily in the field yesterday.</tr>
-                        <ref text="617">td. 75</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="taigh">
-            <h>taigh</h>
-            <p><g>obair <a href="?gd=taigh">thighe</a></g>
-                <en>housework</en> – <xl>
-                    <li>
-                        <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
-                            mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
-                            déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig
-                            leth-uair an déidh sia.</gd>
-                        <tr>The children’s father and mother rose at six o’ clock in the morning.
-                            Their mother started on the housework at twenty minutes past six, and
-                            their father went out to feed the cattle at half past six.</tr>
-                        <ref text="617">td. 183</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+
+    <section id="locatives">
+        <h>locatives</h>
+        <p><g>obair ann an <a href="?gd=achadh">achadh</a></g>
+            <en>working in a field</en> – <xl>
+                <li>
+                    <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+                    <tr>Mary and Malcolm are working in the field today.</tr>
+                    <ref text="617">td. 6–7</ref>
+                </li>
+                <li>
+                    <gd>An robh Màiri agus Calum ag obair anns an achadh? Bha.</gd>
+                    <tr>Were Mary and Malcolm working in the field? Yes, they were.</tr>
+                    <ref text="617">td. 6–7 [adapted]</ref>
+                </li>
+                <li>
+                    <gd>Tha Seumas sgìth: tha e ag obair gu trang anns an achadh.</gd>
+                    <tr>James is tired: he is working busily in the field.</tr>
+                    <ref text="617">td. 7 [adapted]</ref>
+                </li>
+                <li>
+                    <gd>Tha Seònaid sgìth ag obair anns an achadh.</gd>
+                    <tr>Janet is tired working in the field.</tr>
+                    <ref text="617">td. 7 [adapted]</ref>
+                </li>
+                <li>
+                    <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
+                    <tr>The farmers were working busily in the field yesterday.</tr>
+                    <ref text="617">td. 75</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>obair <a href="?gd=an_diugh">an diugh</a></g>
+            <en>working today</en> – <xl>
+                <li>
+                    <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+                    <tr>Mary and Malcolm are working in the field today.</tr>
+                    <ref text="617">td. 6–7</ref>
+                </li>
+            </xl>
+        </p>
+
+        <p><g>obair <a href="?gd=taigh">thighe</a></g>
+            <en>housework</en> – <xl>
+                <li>
+                    <gd>Dh’éirich athair na cloinne agus màthair na cloinne aig sia uairean sa’
+                        mhadainn. Thòisich am màthair air obair an taighe aig fichead mionaid an
+                        déidh sia, agus chaidh an athair a mach a bhiadhadh a’ chrùidh aig leth-uair
+                        an déidh sia.</gd>
+                    <tr>The children’s father and mother rose at six o’ clock in the morning. Their
+                        mother started on the housework at twenty minutes past six, and their father
+                        went out to feed the cattle at half past six.</tr>
+                    <ref text="617">td. 183</ref>
+                </li>
+            </xl>
+        </p>
     </section>
     <!--<module id="fad">
             <h>fad</h>
@@ -137,69 +164,63 @@
             </p>
         </module>-->
 
-    <section>
+    <section id="adjs">
         <h>adjectives</h>
-        <module id="trang">
-            <h>trang</h>
-            <p><g>obair gu <a href="?gd=trang">trang</a></g>
-                <en>working busily/hard</en> – <xl>
-                    <li>
-                        <gd>Tha Seumas sgìth: tha e ag obair gu trang anns an achadh.</gd>
-                        <tr>James is tired: he is working busily in the field.</tr>
-                        <ref text="617">td. 7 [adapted]</ref>
-                    </li>
-                    <li>
-                        <gd>Bha sinn trang ag obair.</gd>
-                        <tr>We were busy working.</tr>
-                        <ref text="617">td. 9 [adapted]</ref>
-                    </li>
-                    <li>
-                        <gd>Tha an saor trang ag obair air an taigh.</gd>
-                        <tr>The joiner is busy working on the house.</tr>
-                        <ref text="617">td. 65</ref>
-                    </li>
-                    <li>
-                        <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
-                        <tr>The farmers were working busily in the field yesterday.</tr>
-                        <ref text="617">td. 75</ref>
-                    </li>
-                </xl></p>
-        </module>
-        <module id="sgiith">
-            <h>sgìth</h>
-            <p><g><a href="?gd=sgiith">sgìth</a> [ag] obair</g>
-                <en>tired working</en> – <xl>
-                    <li>
-                        <gd>Tha Seumas sgìth: tha e ag obair gu trang anns an achadh.</gd>
-                        <tr>James is tired: he is working busily in the field.</tr>
-                        <ref text="617">td. 7 [adapted]</ref>
-                    </li>
-                    <li>
-                        <gd>Tha Seònaid sgìth ag obair anns an achadh.</gd>
-                        <tr>Janet is tired working in the field.</tr>
-                        <ref text="617">td. 7 [adapted]</ref>
-                    </li>
-                    <li>
-                        <gd>Tha mi sgìth le obair.</gd>
-                        <tr>I am tired with work.</tr>
-                        <ref text="617">td. 244</ref>
-                    </li>
-                </xl></p>
-        </module>
-        <module id="trom">
-            <h>trom</h>
-            <p><g>obair <a href="?gd=trom">throm</a></g>
-                <en>heavy work</en> – <xl>
-                    <li>
-                        <gd>Tha an obair sin trom.</gd>
-                        <tr>That work is heavy.</tr>
-                        <ref text="617">td. 62</ref>
-                    </li>
-                </xl></p>
-        </module>
+
+        <p><g>obair gu <a href="?gd=trang">trang</a></g>
+            <en>working busily/hard</en> – <xl>
+                <li>
+                    <gd>Tha Seumas sgìth: tha e ag obair gu trang anns an achadh.</gd>
+                    <tr>James is tired: he is working busily in the field.</tr>
+                    <ref text="617">td. 7 [adapted]</ref>
+                </li>
+                <li>
+                    <gd>Bha sinn trang ag obair.</gd>
+                    <tr>We were busy working.</tr>
+                    <ref text="617">td. 9 [adapted]</ref>
+                </li>
+                <li>
+                    <gd>Tha an saor trang ag obair air an taigh.</gd>
+                    <tr>The joiner is busy working on the house.</tr>
+                    <ref text="617">td. 65</ref>
+                </li>
+                <li>
+                    <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
+                    <tr>The farmers were working busily in the field yesterday.</tr>
+                    <ref text="617">td. 75</ref>
+                </li>
+            </xl></p>
+
+        <p><g><a href="?gd=sgiith">sgìth</a> [ag] obair</g>
+            <en>tired working</en> – <xl>
+                <li>
+                    <gd>Tha Seumas sgìth: tha e ag obair gu trang anns an achadh.</gd>
+                    <tr>James is tired: he is working busily in the field.</tr>
+                    <ref text="617">td. 7 [adapted]</ref>
+                </li>
+                <li>
+                    <gd>Tha Seònaid sgìth ag obair anns an achadh.</gd>
+                    <tr>Janet is tired working in the field.</tr>
+                    <ref text="617">td. 7 [adapted]</ref>
+                </li>
+                <li>
+                    <gd>Tha mi sgìth le obair.</gd>
+                    <tr>I am tired with work.</tr>
+                    <ref text="617">td. 244</ref>
+                </li>
+            </xl></p>
+
+        <p><g>obair <a href="?gd=trom">throm</a></g>
+            <en>heavy work</en> – <xl>
+                <li>
+                    <gd>Tha an obair sin trom.</gd>
+                    <tr>That work is heavy.</tr>
+                    <ref text="617">td. 62</ref>
+                </li>
+            </xl></p>
     </section>
-    
-    <section>
+
+    <section id="verbs">
         <h>verbs</h>
         <module id="tooisich">
             <h>tòisich</h>
@@ -219,7 +240,7 @@
             </p>
         </module>
     </section>
-    
+
     <!--<section>
         <h>adverbs</h>
         <!-\-<section>

@@ -2,85 +2,249 @@
 <module>
     <h>bi</h>
 
-    <p>Adjectives –<xl>
-            <li>
-                <gd>Tha an <a href="?gd=cuu">cù</a>
-                    <a href="?gd=dubh">dubh</a>.</gd>
-                <tr>The dog is black.</tr>
-                <ref text="617">td. 6</ref>
-                <note>‘cù’ is the subject of ‘tha’ (and ‘an’ is the specifier of ‘cù’); ‘dubh’ is
-                    the predicate of ‘tha’.</note>
-            </li>
-            <li>
-                <gd>Tha an <a href="?gd=cat">cat</a>
-                    <a href="?gd=baan">bàn</a>.</gd>
-                <tr>The cat is white.</tr>
-                <ref text="617">td. 6</ref>
-            </li>
-            <li>
-                <gd>Tha an <a href="?gd=cuu">cù</a>
-                    <a href="?gd=moor">mòr</a>.</gd>
-                <tr>The dog is big.</tr>
-                <ref text="617">td. 6</ref>
-            </li>
-            <li>
-                <gd>Tha an <a href="?gd=cat">cat</a>
-                    <a href="?gd=beag">beag</a>.</gd>
-                <tr>The cat is small.</tr>
-                <ref text="617">td. 6</ref>
-            </li>
-            <li>
-                <gd>Tha an <a href="?gd=dorus">dorus</a>
-                    <a href="?gd=moor">mór</a>.</gd>
-                <tr>The door is big.</tr>
-                <ref text="617">td. 6 [adapted]</ref>
-            </li>
-            <li>
-                <gd>Tha an <a href="?gd=teine">teine</a>
-                    <a href="?gd=moor">mór</a>.</gd>
-                <tr>The fire is big.</tr>
-                <ref text="617">td. 6</ref>
-            </li>
-            <li>
-                <gd>Tha Màiri <a href="?gd=beag">beag</a>.</gd>
-                <tr>Mary is small.</tr>
-                <ref text="617">td. 6</ref>
-            </li>
-            <li>
-                <gd>Tha Calum <a href="?gd=moor">mór</a>.</gd>
-                <tr>Malcolm is big.</tr>
-                <ref text="617">td. 6</ref>
-            </li>
-        </xl></p>
-    <p>Prepositions – <xl>
-            <li>
-                <gd>Tha an <a href="?gd=cuu">cù</a> dubh <a href="?gd=aig">aig</a> an <a
-                        href="?gd=dorus">dorus</a>.</gd>
-                <tr>The black dog is at the door.</tr>
-                <ref text="617">td. 9</ref>
-            </li>
-            <li>
-                <gd>Tha an <a href="?gd=cat">cat</a>
-                    <a href="?gd=aig">aig</a> an <a href="?gd=teine">teine</a>.</gd>
-                <tr>The cat is by the fire.</tr>
-                <ref text="617">td. 6</ref>
-            </li>
-            <li>
-                <gd>Tha <a href="?gd=teas">teas</a>
-                    <a href="?gd=an^preposition">anns</a> an <a href="?gd=teine">teine</a>.</gd>
-                <tr>There is heat in the fire.</tr>
-                <ref text="617">td. 6</ref>
-            </li>
-        </xl>
-    </p>
-    <p>Conjoined examples – <xl>
-            <li>
-                <gd>Tha an dorus mór agus tha an teine mór.</gd>
-                <tr>The door is big and the fire is big.</tr>
-                <ref text="617">td. 6</ref>
-            </li>
-        </xl>
-    </p>
+    <section>
+        <h>subjects</h>
+        <section id="sbjs-people">
+            <h>people</h>
+            <p><xl>
+                    <li>
+                        <gd>Tha Màiri <a href="?gd=beag">beag</a>.</gd>
+                        <tr>Mary is small.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Calum <a href="?gd=moor">mór</a>.</gd>
+                        <tr>Malcolm is big.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                <li>
+                    <gd>Tha Màiri <a href="?gd=ag">ag</a>
+                        <a href="?gd=obair">obair</a>.</gd>
+                    <tr>Mary is working.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>Tha Calum <a href="?gd=ag">ag</a>
+                        <a href="?gd=obair">obair</a>.</gd>
+                    <tr>Malcolm is working.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>Tha Màiri agus Calum ag obair.</gd>
+                    <tr>Mary and Malcolm are working.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+                    <tr>Mary and Malcolm are working in the field today.</tr>
+                    <ref text="617">td. 6–7</ref>
+                </li>
+                </xl>
+            </p>
+        </section>
+        <section id="sbjs-animals">
+            <h>animals</h>
+            <p><xl>
+                    <li>
+                        <gd>Tha an <a href="?gd=cuu">cù</a>
+                            <a href="?gd=dubh">dubh</a>.</gd>
+                        <tr>The dog is black.</tr>
+                        <ref text="617">td. 6</ref>
+                        <note>‘cù’ is the subject of ‘tha’ (and ‘an’ is the specifier of ‘cù’);
+                            ‘dubh’ is the predicate of ‘tha’.</note>
+                    </li>
+                    <li>
+                        <gd>Tha an <a href="?gd=cat">cat</a>
+                            <a href="?gd=baan">bàn</a>.</gd>
+                        <tr>The cat is white.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an <a href="?gd=cuu">cù</a>
+                            <a href="?gd=moor">mòr</a>.</gd>
+                        <tr>The dog is big.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an <a href="?gd=cat">cat</a>
+                            <a href="?gd=beag">beag</a>.</gd>
+                        <tr>The cat is small.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl></p>
+        </section>
+        <section id="sbjs-inanimates">
+            <h>inanimates</h>
+            <p>
+                <xl>
+                    <li>
+                        <gd>Tha an <a href="?gd=dorus">dorus</a>
+                            <a href="?gd=moor">mór</a>.</gd>
+                        <tr>The door is big.</tr>
+                        <ref text="617">td. 6 [adapted]</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an <a href="?gd=teine">teine</a>
+                            <a href="?gd=moor">mór</a>.</gd>
+                        <tr>The fire is big.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an <a href="?gd=cuu">cù</a> dubh <a href="?gd=aig">aig</a> an <a
+                                href="?gd=dorus">dorus</a>.</gd>
+                        <tr>The black dog is at the door.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an <a href="?gd=cat">cat</a>
+                            <a href="?gd=aig">aig</a> an <a href="?gd=teine">teine</a>.</gd>
+                        <tr>The cat is by the fire.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="sbjs-abstract">
+            <h>abstract</h>
+            <p>
+                <xl>
+                    <li>
+                        <gd>Tha <a href="?gd=teas">teas</a>
+                            <a href="?gd=an^preposition">anns</a> an <a href="?gd=teine"
+                            >teine</a>.</gd>
+                        <tr>There is heat in the fire.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
+    <section id="preds">
+        <h>predicates</h>
+        <section id="adjs">
+            <h>adjectives</h>
+            <p>Adjectives –<xl>
+                    <li>
+                        <gd>Tha an <a href="?gd=cuu">cù</a>
+                            <a href="?gd=dubh">dubh</a>.</gd>
+                        <tr>The dog is black.</tr>
+                        <ref text="617">td. 6</ref>
+                        <note>‘cù’ is the subject of ‘tha’ (and ‘an’ is the specifier of ‘cù’);
+                            ‘dubh’ is the predicate of ‘tha’.</note>
+                    </li>
+                    <li>
+                        <gd>Tha an <a href="?gd=cat">cat</a>
+                            <a href="?gd=baan">bàn</a>.</gd>
+                        <tr>The cat is white.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an <a href="?gd=cuu">cù</a>
+                            <a href="?gd=moor">mòr</a>.</gd>
+                        <tr>The dog is big.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an <a href="?gd=cat">cat</a>
+                            <a href="?gd=beag">beag</a>.</gd>
+                        <tr>The cat is small.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an <a href="?gd=dorus">dorus</a>
+                            <a href="?gd=moor">mór</a>.</gd>
+                        <tr>The door is big.</tr>
+                        <ref text="617">td. 6 [adapted]</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an <a href="?gd=teine">teine</a>
+                            <a href="?gd=moor">mór</a>.</gd>
+                        <tr>The fire is big.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Màiri <a href="?gd=beag">beag</a>.</gd>
+                        <tr>Mary is small.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Calum <a href="?gd=moor">mór</a>.</gd>
+                        <tr>Malcolm is big.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl></p>
+        </section>
+        <section id="preps">
+            <h>prepositions</h>
+            <p>Prepositions – <xl>
+                    <li>
+                        <gd>Tha an <a href="?gd=cuu">cù</a> dubh <a href="?gd=aig">aig</a> an <a
+                                href="?gd=dorus">dorus</a>.</gd>
+                        <tr>The black dog is at the door.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an <a href="?gd=cat">cat</a>
+                            <a href="?gd=aig">aig</a> an <a href="?gd=teine">teine</a>.</gd>
+                        <tr>The cat is by the fire.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <a href="?gd=teas">teas</a>
+                            <a href="?gd=an^preposition">anns</a> an <a href="?gd=teine"
+                            >teine</a>.</gd>
+                        <tr>There is heat in the fire.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="progs">
+            <h>progressive aspect</h>
+            <p>Progressive examples – <xl>
+                    <li>
+                        <gd>Tha Màiri <a href="?gd=ag">ag</a>
+                            <a href="?gd=obair">obair</a>.</gd>
+                        <tr>Mary is working.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Calum <a href="?gd=ag">ag</a>
+                            <a href="?gd=obair">obair</a>.</gd>
+                        <tr>Malcolm is working.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Màiri agus Calum ag obair.</gd>
+                        <tr>Mary and Malcolm are working.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+                        <tr>Mary and Malcolm are working in the field today.</tr>
+                        <ref text="617">td. 6–7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+
+
+    </section>
+
+
+
+    <section id="other">
+        <h>other</h>
+        <p>Conjoined examples – <xl>
+                <li>
+                    <gd>Tha an dorus mór agus tha an teine mór.</gd>
+                    <tr>The door is big and the fire is big.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
 
 
     <!--<p><g>bi</g>

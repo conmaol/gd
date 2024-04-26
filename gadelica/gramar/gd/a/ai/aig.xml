@@ -2,9 +2,8 @@
 <module>
   <!-- start at G12W ch. 10 -->
   <h>aig</h>
-  <p><g>aig</g>
-    <en>at</en> is the (non-leniting) adessive <a href="?xx=prepositions/prepositions"
-      >preposition</a>.</p>
+  <p><g>aig</g> <prep/>
+    <en>at</en></p>
 
   <!--<section id="forms">
     <h>forms</h>
@@ -107,8 +106,8 @@
     </section>
   </section>-->
 
-  <section id="nouns">
-    <h>nouns</h>
+  <section id="comps">
+    <h>complements</h>
     <p><g>... aig <a href="?gd=dorus">dorus</a></g>
       <en>... at a door</en> – <xl>
         <li>

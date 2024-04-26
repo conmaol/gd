@@ -243,7 +243,7 @@
   </xsl:template>
 
   <xsl:template match="prep">
-    <em>prep.</em>
+    <a href="?xx=prepositions/prepositions"><em>prep.</em></a>
   </xsl:template>
 
   <xsl:template match="etc">
