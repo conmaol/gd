@@ -5,31 +5,30 @@
         <en>you, thou</en> is the second person singular <a href="?xx=nouns/personal_pronouns"
             >personal pronoun</a>.</p>
 
-
     <section>
-        <h>uses</h>
-        <section id="uses-sbj">
+        <h>verbs</h>
+        <section id="verbs-sbj">
             <h>subject</h>
-            <p><g>thu</g> can be used as the subject of a verb.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+            <!--<p><g>thu</g> can be used as the subject of a verb.</p>-->
+            <p>Examples with the predicative verb <g href="?gd=bi">bi</g>
                 <en>be</en> – <xl>
                     <li>
-                        <gd>Tha <m>thu</m> trang.</gd>
+                        <gd>Tha thu trang.</gd>
                         <tr>You are busy.</tr>
                         <ref text="617">td. 7</ref>
                     </li>
                     <li>
-                        <gd>A bheil <m>thu</m> ag obair? Chan eil.</gd>
+                        <gd>A bheil thu ag obair? Chan eil.</gd>
                         <tr>Are you working? No, I’m not.</tr>
                         <ref text="617">td. 9 [226] [adapted]</ref>
                     </li>
                     <li>
-                        <gd>An robh <m>thu</m> sgìth? Bha.</gd>
+                        <gd>An robh thu sgìth? Bha.</gd>
                         <tr>Were you tired? Yes, I was.</tr>
                         <ref text="617">td. 16</ref>
                     </li>
                     <li>
-                        <gd>Càit a bheil <m>thu</m> a’ fuireach? Tha mi a’ fuireach anns a’ chlachan.</gd>
+                        <gd>Càit a bheil thu a’ fuireach? Tha mi a’ fuireach anns a’ chlachan.</gd>
                         <tr>Where do you live? I live in the village.</tr>
                         <ref text="617">td. 20</ref>
                     </li>

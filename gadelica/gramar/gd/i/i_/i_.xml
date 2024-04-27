@@ -2,18 +2,18 @@
 <module>
     <h>i</h>
     <p><g>i</g>
-        <en>she, her</en> is the feminine singular <a href="?xx=nouns/personal_pronouns">personal
+        <en>she, her</en> is the feminine singular (third person) <a href="?xx=nouns/personal_pronouns">personal
             pronoun</a>.</p>
 
     <section>
-        <h>uses</h>
-        <section>
+        <h>verbs</h>
+        <section id="verbs-sbj">
             <h>subject</h>
-            <p><g>i</g> can be used as the subject of a verb.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+            <!--<p><g>i</g> can be used as the subject of a verb.</p>-->
+            <p>Examples with the predicative verb <g href="?gd=bi">bi</g>
                 <en>be</en> – <xl>
                     <li>
-                        <gd>Tha Màiri sgìth. Tha <m>i</m> sgìth ag obair anns an achadh.</gd>
+                        <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an achadh.</gd>
                         <tr>Mary is tired.</tr>
                         <ref text="617">td. 7</ref>
                     </li>

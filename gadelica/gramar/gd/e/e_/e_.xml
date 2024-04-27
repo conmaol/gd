@@ -2,19 +2,18 @@
 <module>
   <h>e</h>
   <p><g>e</g>
-    <en>he, him, it</en> is the masculine singular <a href="?xx=nouns/personal_pronouns">personal
+    <en>he, him, it</en> is the masculine singular (third person) <a href="?xx=nouns/personal_pronouns">personal
       pronoun</a>.</p>
 
-
   <section>
-    <h>uses</h>
-    <section id="sbj">
+    <h>verbs</h>
+    <section id="verbs-sbj">
       <h>subject</h>
-      <p><g>e</g> can be used as the subject of a verb.</p>
-      <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+      <!--<p><g>e</g> can be used as the subject of a verb.</p>-->
+      <p>Examples with the predicative verb <g href="?gd=bi">bi</g>
         <en>be</en> – <xl>
           <li>
-            <gd>Tha Calum sgìth – tha <m>e</m> ag obair gu trang anns an achadh.</gd>
+            <gd>Tha Calum sgìth – tha e ag obair gu trang anns an achadh.</gd>
             <tr>Malcolm is tired – he is working busily in the field.</tr>
             <ref text="617">td. 7</ref>
           </li>
@@ -35,7 +34,7 @@
             <ref text="617">td. 14</ref>
           </li>
           <li>
-            <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh <m>e</m> anns an sgoil
+            <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an sgoil
               an diugh? Cha robh, bha <m>e</m> anns an taigh fad an latha.</gd>
             <tr>What is wrong with this boy? His head is sore. Was he in the school today? No, he
               was in the house all day long.</tr>
@@ -43,21 +42,21 @@
           </li>
           <li>
             <gd>Có bha ag iasgach an diugh? Bha Alasdair. Càit an robh Alasdair ag iasgach?
-              Bha <m>e</m> ag iasgach air an abhainn.</gd>
+              Bha e ag iasgach air an abhainn.</gd>
             <tr>Who was fishing today? Alexander was. Where was Alexander fishing? He was fishing on
               the river.</tr>
             <ref text="617">td. 20</ref>
           </li>
         </xl>
       </p>
-      <p>Impersonal (pleonastic) examples – <xl>
+      <p>Non-referential examples – <xl>
           <li>
-            <gd>Tha <m>e</m> fuar an diugh.</gd>
+            <gd>Tha e fuar an diugh.</gd>
             <tr>It is cold today.</tr>
             <ref text="617">td. 7</ref>
           </li>
           <li>
-            <gd>Chan eil <m>e</m> fuar an diugh.</gd>
+            <gd>Chan eil e fuar an diugh.</gd>
             <tr>It is not cold today.</tr>
             <ref text="617">td. 11</ref>
           </li>

@@ -19,6 +19,30 @@
                     </li>
                 </xl>
             </p>
+            <p>Examples with first and second person pronouns – <xl>
+                    <li>
+                        <gd>Tha <a href="?gd=mi">mi</a> trang.</gd>
+                        <tr>I am busy.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <a href="?gd=thu">thu</a> trang.</gd>
+                        <tr>You are busy.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <a href="?gd=sinn">sinn</a> trang.</gd>
+                        <tr>We are busy.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <a href="?gd=sibh">sibh</a> trang ag obair anns an achadh agus tha
+                                <a href="?gd=sibh">sibh</a> sgìth.</gd>
+                        <tr>You are busy working in the field and you are tired.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
             <!-- first and second person pronouns, third person pronouns -->
             <p>Examples with third person pronouns – <xl>
                     <li>
@@ -37,6 +61,12 @@
                         <gd>Tha Calum sgìth: tha <a href="?gd=e_">e</a> ag obair gu trang anns an
                             achadh.</gd>
                         <tr>Malcolm is tired: he is aorking busily in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <a href="?gd=iad">iad</a> fuar ag obair anns an achadh an
+                            diugh.</gd>
+                        <tr>They are cold working in the field today.</tr>
                         <ref text="617">td. 7</ref>
                     </li>
                 </xl>
@@ -88,6 +118,14 @@
                     </li>
                 </xl>
             </p>
+            <p>Non-referential – <xl>
+                    <li>
+                        <gd>Tha <a href="?gd=e_">e</a> fuar an diugh.</gd>
+                        <tr>It is cold today.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
         </section>
     </section>
 
@@ -134,6 +172,12 @@
                         <gd>Tha Màiri <a href="?gd=sgiith">sgìth</a>. Tha i sgìth ag obair anns an
                             achadh.</gd>
                         <tr>Mary is tired. She is tired working in the the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha iad <a href="?gd=fuar">fuar</a> ag obair anns an achadh an
+                            diugh.</gd>
+                        <tr>They are cold working in the field today.</tr>
                         <ref text="617">td. 7</ref>
                     </li>
                 </xl>
@@ -186,6 +230,16 @@
                         <tr>She is tired working in the the field.</tr>
                         <ref text="617">td. 7</ref>
                     </li>
+                    <li>
+                        <gd>Tha sibh trang ag obair anns an achadh agus tha sibh sgìth.</gd>
+                        <tr>You are busy working in the field and you are tired.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha iad fuar ag obair anns an achadh an diugh.</gd>
+                        <tr>They are cold working in the field today.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
                 </xl></p>
         </section>
     </section>
@@ -203,6 +257,16 @@
                         obair anns an achadh.</gd>
                     <tr>Mary and Malcolm are busy today: they are working in the field.</tr>
                     <ref text="617">td 7</ref>
+                </li>
+                <li>
+                    <gd>Tha iad fuar ag obair anns an achadh an diugh.</gd>
+                    <tr>They are cold working in the field today.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha e fuar an diugh.</gd>
+                    <tr>It is cold today.</tr>
+                    <ref text="617">td. 7</ref>
                 </li>
             </xl>
         </p>
@@ -244,6 +308,16 @@
                     <tr>Mary is tired. She is tired working in the the field.</tr>
                     <ref text="617">td. 7</ref>
                 </li>
+                <li>
+                    <gd>Tha mi trang.</gd>
+                    <tr>I am busy.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha e fuar an diugh.</gd>
+                    <tr>It is cold today.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
             </xl>
         </p>
         <p>Examples with a sentential conjunction – <xl>
@@ -256,6 +330,11 @@
                     <gd>Tha Màiri beag <a href="?gd=ach">ach</a> tha Calum mór.</gd>
                     <tr>Mary is small but Malcolm is big.</tr>
                     <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>Tha sibh trang ag obair anns an achadh agus tha sibh sgìth.</gd>
+                    <tr>You are busy working in the field and you are tired.</tr>
+                    <ref text="617">td. 7</ref>
                 </li>
             </xl>
         </p>

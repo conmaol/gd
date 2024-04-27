@@ -1,14 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>personal pronouns</h>
-    <p>Personal pronouns are <a href="?xx=nouns/pronouns">pronouns</a> – <ul>
-            <li><g href="?gd=mi">mi</g></li>
-            <li><g href="?gd=thu">thu</g></li>
-            <li><g href="?gd=i_">i</g></li>
-            <li><g href="?gd=e_">e</g></li>
-            <li><g href="?gd=sinn">sinn</g></li>
-            <li><g href="?gd=sibh">sibh</g></li>
-            <li><g href="?gd=iad">iad</g></li>
+    <p>Personal pronouns are a kind of <a href="?xx=nouns/pronouns">pronoun</a></p>
+    <p>First person – <ul>
+            <li>[singular] <g href="?gd=mi">mi</g>
+                <en>I, me</en></li>
+            <li>[plural] <g href="?gd=sinn">sinn</g>
+                <en>we, us</en></li>
+        </ul>
+    </p>
+    <p>Second person – <ul>
+            <li>[singular] <g href="?gd=thu">thu</g>
+                <en>you</en></li>
+            <li>[plural] <g href="?gd=sibh">sibh</g>
+                <en>you</en></li>
+        </ul>
+    </p>
+    <p>Third person – <ul>
+            <li>[feminine] <g href="?gd=i_">i</g>
+                <en>she, her, it</en></li>
+            <li>[masculine] <g href="?gd=e_">e</g>
+                <en>he, him, it</en></li>
+            <li>[plural] <g href="?gd=iad">iad</g>
+                <en>they, them</en></li>
         </ul>
     </p>
 </module>

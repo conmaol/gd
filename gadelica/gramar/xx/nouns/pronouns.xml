@@ -1,12 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>pronouns</h>
-    <p>Pronouns are <!--<a href="?xx=nouns/nouns">-->noun<!--</a>-->-like words which typically refer to
-        specific entities identifiable from context – <ul>
-            <li><a href="?xx=nouns/personal_pronouns">personal pronouns</a> – <b>mi</b>, <b>thu</b>, <b>i</b>, <b>e</b>, <b>sinn</b>,
-                    <b>sibh</b>, <b>iad</b></li>
-            <li><a href="?xx=nouns/demonstrative_pronouns">demonstrative pronouns</a> – <b>seo</b>,
-                    <b>sin</b>, <b>siud</b></li>
+    <p><!--Pronouns are <!-\-<a href="?xx=nouns/nouns">-\->noun<!-\-</a>-\->-like words which typically refer to
+        specific entities identifiable from context--> Types of pronoun – <ul>
+            <li><a href="?xx=nouns/personal_pronouns">personal pronouns</a> – <g>mi</g>
+                <en>I, me</en>, <g>thu</g>
+                <en>you</en>, <g>i</g>
+                <en>she, her, it</en>, <g>e</g>
+                <en>he, him, it</en>, <g>sinn</g>
+                <en>we, us</en>, <g>sibh</g>
+                <en>you</en>, <g>iad</g>
+                <en>they, them</en></li>
+            <li><a href="?xx=nouns/demonstrative_pronouns">demonstrative pronouns</a> – <g>seo</g>
+                <en>this</en>, <g>sin</g>
+                <en>that</en>, <g>siud</g>
+                <en>that (over there)</en></li>
         </ul>
     </p>
 </module>

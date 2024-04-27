@@ -2,30 +2,30 @@
 <module>
     <h>iad</h>
     <p><g>iad</g>
-        <en>they, them</en> is the third person plural singular <a
-            href="?xx=nouns/personal_pronouns">personal pronoun</a>.</p>
+        <en>they, them</en> is the third person plural <a href="?xx=nouns/personal_pronouns"
+            >personal pronoun</a>.</p>
 
     <section>
-        <h>uses</h>
-        <section id="uses-sbj">
+        <h>verbs</h>
+        <section id="verbs-sbj">
             <h>subject</h>
-            <p><g>iad</g> can be used as the subject of a verb.</p>
-            <p>Examples with <a href="?gd=bi"><g>bi</g></a>
+            <!--<p><g>iad</g> can be used as the subject of a verb.</p>-->
+            <p>Examples with the predicative verb <g href="?gd=bi">bi</g>
                 <en>be</en> – <xl>
                     <li>
-                        <gd>Tha <m>iad</m> fuar ag obair anns an achadh an diugh.</gd>
-                        <tr>They are cold working in the field today.</tr>
-                        <ref text="617">td. 7</ref>
-                    </li>
-                    <li>
-                        <gd>Tha Màiri agus Calum trang an diugh – tha <m>iad</m> ag obair anns an
+                        <gd>Tha Màiri agus Calum trang an diugh – tha iad ag obair anns an
                             achadh.</gd>
                         <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
                         <ref text="617">td. 7</ref>
                     </li>
                     <li>
-                        <gd>Nach robh Calum agus Màiri a’ cluich còmhla ris a’ chù? Cha robh,
-                            bha <m>iad</m> anns a’ bhaile.</gd>
+                        <gd>Tha iad fuar ag obair anns an achadh an diugh.</gd>
+                        <tr>They are cold working in the field today.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Nach robh Calum agus Màiri a’ cluich còmhla ris a’ chù? Cha robh, bha
+                                iad anns a’ bhaile.</gd>
                         <tr>Weren’t Malcolm and Mary playing with the dog? No, they weren’t, they
                             were in the town.</tr>
                         <ref text="617">td. 21 [230]</ref>
