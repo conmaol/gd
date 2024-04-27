@@ -20,6 +20,27 @@
                 </xl>
             </p>
             <!-- first and second person pronouns, third person pronouns -->
+            <p>Examples with third person pronouns – <xl>
+                    <li>
+                        <gd>Tha Màiri agus Calum trang an diugh: tha <a href="?gd=iad">iad</a> ag
+                            obair anns an achadh.</gd>
+                        <tr>Mary and Malcolm are busy today: they are working in the field.</tr>
+                        <ref text="617">td 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Màiri sgìth. Tha <a href="?gd=i_">i</a> sgìth ag obair anns an
+                            achadh.</gd>
+                        <tr>Mary is tired. She is tired working in the the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Calum sgìth: tha <a href="?gd=e_">e</a> ag obair gu trang anns an
+                            achadh.</gd>
+                        <tr>Malcolm is tired: he is aorking busily in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
             <p>Conjoined examples – <xl>
                     <li>
                         <gd>Tha Màiri <a href="?gd=agus">agus</a> Calum ag obair anns an achadh an
@@ -102,8 +123,23 @@
                         <ref text="617">td. 6</ref>
                     </li>
                 </xl></p>
+            <p>Examples with other adjectives – <xl>
+                    <li>
+                        <gd>Tha Màiri agus Calum <a href="?gd=trang">trang</a> an diugh: tha iad ag
+                            obair anns an achadh.</gd>
+                        <tr>Mary and Malcolm are busy today: they are working in the field.</tr>
+                        <ref text="617">td 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Màiri <a href="?gd=sgiith">sgìth</a>. Tha i sgìth ag obair anns an
+                            achadh.</gd>
+                        <tr>Mary is tired. She is tired working in the the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
         </section>
-        <section id="preps">
+        <section id="preds-preps">
             <h>prepositions</h>
             <p>Examples with <g href="?gd=aig">aig</g>
                 <en>at</en> – <xl>
@@ -129,7 +165,7 @@
                 </xl>
             </p>
         </section>
-        <section id="progs">
+        <section id="preds-progs">
             <h>progressive aspect</h>
             <p>cf. the progressive marker <g href="?gd=ag">ag</g>.</p>
             <p>Examples with activities – <xl>
@@ -142,8 +178,36 @@
                 </xl>
             </p>
         </section>
+        <section id="preds-other">
+            <h>other</h>
+            <p>Examples with more than one predicate – <xl>
+                    <li>
+                        <gd>Tha i sgìth ag obair anns an achadh.</gd>
+                        <tr>She is tired working in the the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl></p>
+        </section>
     </section>
 
+    <section id="adverbials">
+        <h>adverbials</h>
+        <p>Examples – <xl>
+                <li>
+                    <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+                    <tr>Mary and Malcolm are working in the field today.</tr>
+                    <ref text="617">td. 6–7</ref>
+                </li>
+                <li>
+                    <gd>Tha Màiri agus Calum trang <a href="?gd=an_diugh">an diugh</a>: tha iad ag
+                        obair anns an achadh.</gd>
+                    <tr>Mary and Malcolm are busy today: they are working in the field.</tr>
+                    <ref text="617">td 7</ref>
+                </li>
+            </xl>
+        </p>
+
+    </section>
 
     <!-- uses - 
     
@@ -174,6 +238,11 @@
                     <gd>Tha Calum ag obair.</gd>
                     <tr>Malcolm is working.</tr>
                     <ref text="617">td. 6–7</ref>
+                </li>
+                <li>
+                    <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an achadh.</gd>
+                    <tr>Mary is tired. She is tired working in the the field.</tr>
+                    <ref text="617">td. 7</ref>
                 </li>
             </xl>
         </p>
