@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>bàn</h>
-    <p><g>bàn</g> <adj/>
+    <p><g>bàn</g>
+        <adj/>
         <en>white, pale, light, fair</en></p>
 
     <section id="nouns">
@@ -23,46 +24,59 @@
                 </xl>
             </p>
         </module>-->
-        
-            <p><g><a href="?gd=cat">cat</a> bàn</g>
-                <en>a white cat</en> – <xl>
-                    <li>
-                        <gd>Tha an cat bàn.</gd>
-                        <tr>The cat is white.</tr>
-                        <ref text="617">td. 6</ref>
-                    </li>
-                    <li>
-                        <gd>A bheil an cat bàn? Chan eil.</gd>
-                        <tr>Is the cat white? No, it isn’t.</tr>
-                        <ref text="617">td. 15</ref>
-                    </li>
-                    <li>
-                        <gd>Càit a bheil an cat bàn an diugh?</gd>
-                        <tr>Where is the white cat today?</tr>
-                        <ref text="617">td. 14</ref>
-                    </li>
-                    <li>
-                        <gd>Tha cù dubh aig Calum ach tha cat bàn aig Seònaid.</gd>
-                        <tr>Malcolm has a black dog but Janet has a white cat.</tr>
-                        <ref text="617">td. 23</ref>
-                    </li>
-                    <li>
-                        <gd>Seo an cat bàn.</gd>
-                        <tr>This is the white cat.</tr>
-                        <ref text="617">232</ref>
-                    </li>
-                </xl>
-            </p>
-        
-            <p><g><a href="?gd=falt">falt</a> bàn</g>
-                <en>fair hair</en> – <xl>
-                    <li>
-                        <gd>A bheil falt bàn air Seumas?</gd>
-                        <tr>Does James have fair hair?</tr>
-                        <ref text="617">td. 13–14</ref>
-                    </li>
-                </xl>
-            </p>
+
+        <p><g><a href="?gd=cat">cat</a> bàn</g>
+            <en>a white cat</en> – <xl>
+                <li>
+                    <gd>Tha an cat bàn.</gd>
+                    <tr>The cat is white.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>A bheil an cat bàn? Chan eil.</gd>
+                    <tr>Is the cat white? No, it isn’t.</tr>
+                    <ref text="617">td. 15</ref>
+                </li>
+                <li>
+                    <gd>Càit a bheil an cat bàn an diugh?</gd>
+                    <tr>Where is the white cat today?</tr>
+                    <ref text="617">td. 14</ref>
+                </li>
+                <li>
+                    <gd>Tha cù dubh aig Calum ach tha cat bàn aig Seònaid.</gd>
+                    <tr>Malcolm has a black dog but Janet has a white cat.</tr>
+                    <ref text="617">td. 23</ref>
+                </li>
+                <li>
+                    <gd>Seo an cat bàn.</gd>
+                    <tr>This is the white cat.</tr>
+                    <ref text="617">232</ref>
+                </li>
+            </xl>
+        </p>
+
+        <p><g><a href="?gd=falt">falt</a> bàn</g>
+            <en>fair hair</en> – <xl>
+                <li>
+                    <gd>A bheil falt bàn air Seumas?</gd>
+                    <tr>Does James have fair hair?</tr>
+                    <ref text="617">td. 13–14</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+    <section id="adjs">
+        <h>adjectives</h>
+        <p><g>bàn agus <a href="?gd=dubh">dubh</a></g>
+            <en>white and black</en> – <xl>
+                <li>
+                    <gd>Tha an cù dubh ach tha an cat bàn.</gd>
+                    <tr>The dog is black but the cat is white.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>

@@ -50,6 +50,20 @@
             </xl>
         </p>
     </section>
+    
+    <section id="adjs">
+        <h>adjectives</h>
+        <p><g><a href="?gd=baan">bàn</a> agus dubh</g>
+            <en>white and black</en> – <xl>
+                <li>
+                    <gd>Tha an cù dubh ach tha an cat bàn.</gd>
+                    <tr>The dog is black but the cat is white.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+    
 
 
 

@@ -160,6 +160,19 @@
         </module>
     </section>
 
+    <section id="adjs">
+        <h>adjectives</h>
+        <p><g><a href="?gd=moor">mór</a> agus beag</g>
+            <en>big and small</en> – <xl>
+                <li>
+                    <gd>Tha an cù mór ach tha an cat beag.</gd>
+                    <tr>The dog is big but the cat is small.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
     <!--
     <section>
         <h>gauff</h>

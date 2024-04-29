@@ -240,6 +240,22 @@
             </xl>
         </p>
         <!--</section>-->
+
+        <p><g>cù agus <a href="?gd=cat">cat</a></g>
+            <en>a dog and a cat</en> – <xl>
+                <li>
+                    <gd>Tha an cù dubh ach tha an cat bàn.</gd>
+                    <tr>The dog is black but the cat is white.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>Tha an cù mór ach tha an cat beag.</gd>
+                    <tr>The dog is big but the cat is small.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+            </xl>
+        </p>
+
     </section>
 
 
