@@ -10,22 +10,41 @@
             post-1970s writing.</p>
     </section>-->
 
-    <section>
+    <section id="verbs">
         <h>verbs</h>
-        <p><g><a href="?gd=obair">obair</a> an diugh</g>
-            <en>working today</en> – <xl>
+        <p>Examples with the predicative verb <g href="?gd=bi">bi</g>
+            <en>be</en> – <xl>
                 <li>
                     <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
                     <tr>Mary and Malcolm are working in the field today.</tr>
                     <ref text="617">td. 6–7</ref>
                 </li>
+                <li>
+                    <gd>Tha Màiri agus Calum trang an diugh.</gd>
+                    <tr>Mary and Malcolm are busy today.</tr>
+                    <ref text="617">td 7 [adapted]</ref>
+                </li>
+                <li>
+                    <gd>Tha e fuar an diugh.</gd>
+                    <tr>It is cold today.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha iad fuar ag obair anns an achadh an diugh.</gd>
+                    <tr>They are cold working in the field today.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
             </xl>
         </p>
-        
+
+
+
+
+
         <!--<section>
             <h>temporal</h>-->
-            
-                <p><g><a href="?gd=faic">faic</a> ... an diugh</g>
+
+        <!-- <p><g><a href="?gd=faic">faic</a> ... an diugh</g>
                     <en>see ... today</en> – <xl>
                         <li>
                             <gd>Chunnaic sinn iolair mhór an diugh.</gd>
@@ -42,7 +61,7 @@
                             He was fishing on the river.</tr>
                         <ref text="617">td. 20</ref>
                     </li>
-                </xl></p>
+                </xl></p>-->
         <!--</section>-->
     </section>
 

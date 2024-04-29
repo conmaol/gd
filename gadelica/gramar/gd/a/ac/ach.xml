@@ -4,7 +4,23 @@
   <p><g>ach</g>
     <en>but</en> is a conjunction.</p>
 
-  <section>
+  <p>Examples conjoining independent clauses – <xl>
+      <li>
+        <gd>Tha an cù <a href="?gd=dubh">dubh</a> ach tha an cat <a href="?gd=baan">bàn</a>.</gd>
+        <tr>The dog is black but the cat is white.</tr>
+        <ref text="617">td. 6</ref>
+      </li>
+      <li>
+        <gd>Tha Màiri <a href="?gd=beag">beag</a> ach tha Calum <a href="?gd=moor">mór</a>.</gd>
+        <tr>Mary is small but Malcolm is big.</tr>
+        <ref text="617">td. 6</ref>
+      </li>
+    </xl>
+  </p>
+  <p>cf. <g href="?gd=agus">agus</g> <en>and</en>.</p>
+
+
+  <!--<section>
     <h>dependents</h>
     <section id="deps-verb">
       <h>independent verb forms</h>
@@ -36,25 +52,25 @@
           </li>
         </xl></p>
     </section>
-  </section>
+  </section>-->
 
-  <section>
+  <!--<section>
     <h>uses</h>
     <section id="uses-root">
       <h>root</h>
       <p>When conjoining independent verb forms, <g>ach</g> constitutes the root of a sentence –<xl>
           <li>
-            <gd>Tha an cù dubh <m>ach</m> tha an cat bàn.</gd>
+            <gd>Tha an cù dubh ach tha an cat bàn.</gd>
             <tr>The dog is black but the cat is white.</tr>
             <ref text="617">td. 6</ref>
           </li>
           <li>
-            <gd>Tha an cù mòr <m>ach</m> tha an cat beag.</gd>
+            <gd>Tha an cù mòr ach tha an cat beag.</gd>
             <tr>The dog is big but the cat is small.</tr>
             <ref text="617">td. 6</ref>
           </li>
           <li>
-            <gd>Tha Màiri beag <m>ach</m> tha Calum mór.</gd>
+            <gd>Tha Màiri beag ach tha Calum mór.</gd>
             <tr>Mary is small but Malcolm is big.</tr>
             <ref text="617">td. 6</ref>
           </li>
@@ -70,7 +86,7 @@
           </li>
         </xl></p>
     </section>
-  </section>
+  </section>-->
 
 
 

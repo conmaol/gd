@@ -1,34 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>ag</h>
-    <p><g>ag</g> is a special form of the adessive preposition <a href="?gd=aig"><g>aig</g></a>,
-        used before verbal nouns in the progressive construction.</p>
+    <!--<p><g>ag</g> is a special form of the adessive preposition </a>,
+        used before verbal nouns in the progressive construction.</p>-->
+    <p>cf. <g href="?gd=aig">aig</g>
+        <prep/>
+        <en>at</en>.</p>
 
-    <p>Some examples – <xl>
-            <li>
-                <gd>Tha Màiri ag <a href="?gd=obair">obair</a>.</gd>
-                <tr>Mary is working</tr>
-                <ref text="617">td. 6</ref>
-            </li>
-            <li>
-                <gd>Tha Calum ag <a href="?gd=obair">obair</a>.</gd>
-                <tr>Malcolm is working</tr>
-                <ref text="617">td. 6</ref>
-            </li>
-            <li>
-                <gd>Tha Màiri agus Calum ag obair.</gd>
-                <tr>Mary and Malcolm are working</tr>
-                <ref text="617">td. 6</ref>
-            </li>
-            <li>
-                <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
-                <tr>Mary and Malcolm are working in the field today.</tr>
-                <ref text="617">td. 6–7</ref>
-            </li>
-        </xl>
-    </p>
+    <section id="comps">
+        <h>complements</h>
+        <p>Examples with activities – <xl>
+                <li>
+                    <gd>Tha Màiri agus Calum ag <a href="?gd=obair">obair</a> anns an achadh an
+                        diugh.</gd>
+                    <tr>Mary and Malcolm are working in the field today.</tr>
+                    <ref text="617">td. 6–7</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
 
-    <section>
+    <!--<section>
         <h>dependents</h>
         <section id="deps-comp">
             <h>complement</h>
@@ -59,17 +51,19 @@
             </p>
         </section>
     </section>
-
+-->
     <section>
         <h>uses</h>
         <section id="uses-pred">
             <h>predicate</h>
-            <p>The progressive particle <g>ag</g> can function as the predicate of <a href="?gd=bi"
-                        ><g>bi</g></a>
+            <p>cf. <g href="?gd=bi">bi</g>
                 <en>be</en>.</p>
+            <!--<p>The progressive particle <g>ag</g> can function as the predicate of <a href="?gd=bi"
+                        ><g>bi</g></a>
+                <en>be</en>.</p>-->
             <p>Some present tense examples – <xl>
                     <li>
-                        <gd>Tha Calum <m>ag</m> obair.</gd>
+                        <gd>Tha Calum ag obair.</gd>
                         <tr>Malcolm is working.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
@@ -97,6 +91,14 @@
                         <gd>Có bha <m>ag</m> iasgach air an loch? Bha Calum.</gd>
                         <tr>Who was fishing on the lake? Calum was.</tr>
                         <ref text="617">td. 20</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Some examples as a joint predicate – <xl>
+                    <li>
+                        <gd>Tha iad fuar ag obair anns an achadh an diugh.</gd>
+                        <tr>They are cold working in the field today.</tr>
+                        <ref text="617">td. 7</ref>
                     </li>
                 </xl>
             </p>

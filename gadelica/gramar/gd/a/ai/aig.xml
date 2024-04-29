@@ -2,7 +2,8 @@
 <module>
   <!-- start at G12W ch. 10 -->
   <h>aig</h>
-  <p><g>aig</g> <prep/>
+  <p><g>aig</g>
+    <prep/>
     <en>at</en></p>
 
   <!--<section id="forms">
@@ -106,35 +107,42 @@
     </section>
   </section>-->
 
-  <section id="comps">
+  <section>
     <h>complements</h>
-    <p><g>... aig <a href="?gd=dorus">dorus</a></g>
-      <en>... at a door</en> – <xl>
-        <li>
-          <gd>Tha an cù dubh aig an dorus.</gd>
-          <tr>The black dog is at the door.</tr>
-          <ref text="617">td. 9</ref>
-        </li>
-        <li>
-          <gd>Tha an gille aig an dorus.</gd>
-          <tr>The boy is at the door.</tr>
-          <ref text="617">td. 15</ref>
-        </li>
-        <li>
-          <gd>Chunnaic mi cù aig an dorus.</gd>
-          <tr>I saw a dog at the door.</tr>
-          <ref text="617">td. 6</ref>
-        </li>
-      </xl></p>
-    <p><g>... aig <a href="?gd=teine">teine</a></g>
-      <en>... at a fire</en> – <xl>
-        <li>
-          <gd>Tha an cat aig an teine.</gd>
-          <tr>The cat is by the fire.</tr>
-          <ref text="617">td. 6</ref>
-        </li>
-      </xl>
-    </p>
+    <section id="comps-nouns">
+      <h>nouns</h>
+      <p><g>... aig <a href="?gd=dorus">dorus</a></g>
+        <en>... at a door</en> – <xl>
+          <li>
+            <gd>Tha an cù dubh aig an dorus.</gd>
+            <tr>The black dog is at the door.</tr>
+            <ref text="617">td. 9</ref>
+          </li>
+          <li>
+            <gd>Tha an gille aig an dorus.</gd>
+            <tr>The boy is at the door.</tr>
+            <ref text="617">td. 15</ref>
+          </li>
+          <li>
+            <gd>Chunnaic mi cù aig an dorus.</gd>
+            <tr>I saw a dog at the door.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+        </xl></p>
+      <p><g>... aig <a href="?gd=teine">teine</a></g>
+        <en>... at a fire</en> – <xl>
+          <li>
+            <gd>Tha an cat aig an teine.</gd>
+            <tr>The cat is by the fire.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+    <section id="comps-verbs">
+      <h>verbs</h>
+      <p>cf. <g href="?gd=ag">ag</g> [progressive particle].</p>
+    </section>
   </section>
 
 
