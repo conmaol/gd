@@ -263,6 +263,11 @@
           <tr>The dog is big but the cat is small.</tr>
           <ref text="617">td. 6</ref>
         </li>
+        <li>
+          <gd>Tha Màiri beag ach tha Calum mór.</gd>
+          <tr>Mary is small but Malcolm is big.</tr>
+          <ref text="617">td. 6</ref>
+        </li>
       </xl>
     </p>
   </section>

@@ -253,6 +253,11 @@
                     <tr>The dog is big but the cat is small.</tr>
                     <ref text="617">td. 6</ref>
                 </li>
+                <li>
+                    <gd>Tha an cù aig an dorus agus tha an cat aig an teine.</gd>
+                    <tr>The dog is at the door and the cat is by the fire.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
             </xl>
         </p>
 

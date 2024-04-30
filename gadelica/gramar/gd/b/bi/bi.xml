@@ -336,7 +336,12 @@
                     <tr>You are busy working in the field and you are tired.</tr>
                     <ref text="617">td. 7</ref>
                 </li>
-            </xl>
+            <li>
+                <gd>Tha an cù aig an dorus agus tha an cat aig an teine.</gd>
+                <tr>The dog is at the door and the cat is by the fire.</tr>
+                <ref text="617">td. 6</ref>
+            </li>
+        </xl>
         </p>
     </section>
 
