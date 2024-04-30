@@ -2,7 +2,8 @@
 <module>
     <h>trang</h>
     <p><g>trang</g>
-        <en>busy</en> is a <a href="?xx=adjectives/simple_adjectives">simple adjective</a>.</p>
+        <adj/>
+        <en>busy</en></p>
 
     <!--<section>
         <h>nouns</h>
@@ -39,74 +40,125 @@
 
     <section>
         <h>nouns</h>
-        <module id="duine">
-            <h>duine</h>
-            <p><g><a href="?gd=duine">duine</a> trang</g>
-                <en>a busy man</en> – <xl>
+        <section id="nouns-people">
+            <h>people</h>
+            <p>Examples with proper nouns – <xl>
                     <li>
-                        <gd>Tha an duine seo trang.</gd>
-                        <tr>This man is busy.</tr>
-                        <ref text="617">td. 79</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="saor">
-            <h>saor</h>
-            <p><g><a href="?gd=saor^n">saor</a> trang</g>
-                <en>a busy joiner</en> – <xl>
-                    <li>
-                        <gd>Tha an saor trang ag obair air an taigh.</gd>
-                        <tr>The joiner is busy working on the house.</tr>
-                        <ref text="617">td. 65</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-        <module id="tuathanach">
-            <h>tuathanach</h>
-            <p><g><a href="?gd=tuathanach">tuathanach</a> trang</g>
-                <en>a busy farmer</en> – <xl>
-                    <li>
-                        <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
-                        <tr>The farmers were working busily in the field yesterday.</tr>
-                        <ref text="617">td. 75</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-
-    <section>
-        <h>verbs</h>
-        <module id="obair">
-            <h>obair</h>
-            <p><g><a href="?gd=obair">obair</a> gu trang</g>
-                <en>working busily/hard</en> – <xl>
-                    <li>
-                        <gd>Tha Calum sgìth – tha e ag obair gu trang anns an achadh.</gd>
+                        <gd>Tha <a href="?gd=Calum">Calum</a> sgìth – tha e ag obair gu trang anns
+                            an achadh.</gd>
                         <tr>Malcolm is tired – he is working busily in the field.</tr>
                         <ref text="617">td. 7</ref>
                     </li>
                     <li>
-                        <gd>Bha sinn trang ag obair.</gd>
-                        <tr>We were busy working.</tr>
-                        <ref text="617">td. 9 [adapted]</ref>
+                        <gd>Tha <a href="?gd=maairi">Màiri</a> agus <a href="?gd=calum">Calum</a>
+                            trang an diugh – tha iad ag obair anns an achadh.</gd>
+                        <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with first and second person pronouns – <xl>
+                    <li>
+                        <gd>Tha <a href="?gd=mi">mi</a> trang.</gd>
+                        <tr>I am busy.</tr>
+                        <ref text="617">td. 7</ref>
                     </li>
                     <li>
-                        <gd>Tha an saor trang ag obair air an taigh.</gd>
+                        <gd>Tha <a href="?gd=sinn">sinn</a> trang.</gd>
+                        <tr>We are busy.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <a href="?gd=thu">thu</a> trang.</gd>
+                        <tr>You are busy.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha <a href="?gd=sibh">sibh</a> trang ag obair anns an achadh agus tha
+                            sibh sgìth.</gd>
+                        <tr>You are busy working in the field and you are tired.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with common nouns – <xl>
+                    <li>
+                        <gd>Tha an <a href="?gd=duine">duine</a> seo trang.</gd>
+                        <tr>This man is busy.</tr>
+                        <ref text="617">td. 79</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an <a href="?gd=saor^n">saor</a> trang ag obair air an taigh.</gd>
                         <tr>The joiner is busy working on the house.</tr>
                         <ref text="617">td. 65</ref>
                     </li>
                     <li>
-                        <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
+                        <gd>Bha na <a href="?gd=tuathanach">tuathanaich</a> ag obair gu trang anns
+                            an achadh an dé.</gd>
                         <tr>The farmers were working busily in the field yesterday.</tr>
                         <ref text="617">td. 75</ref>
                     </li>
                 </xl>
             </p>
-        </module>
+        </section>
+    </section>
+
+
+    <section id="verbs">
+        <h>verbs</h>
+        <p><g><a href="?gd=obair">obair</a> gu trang</g>
+            <en>working busily/hard</en>, <g>trang ag <a href="?gd=obair">obair</a></g>
+            <en>busy working</en> – <xl>
+                <li>
+                    <gd>Tha Calum sgìth – tha e ag obair gu trang anns an achadh.</gd>
+                    <tr>Malcolm is tired – he is working busily in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha Màiri agus Calum trang an diugh – tha iad ag obair anns an achadh.</gd>
+                    <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha sibh trang ag obair anns an achadh agus tha sibh sgìth.</gd>
+                    <tr>You are busy working in the field and you are tired.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <!--<li>
+                    <gd>Bha sinn trang ag obair.</gd>
+                    <tr>We were busy working.</tr>
+                    <ref text="617">td. 9 [adapted]</ref>
+                </li>
+                <li>
+                    <gd>Tha an saor trang ag obair air an taigh.</gd>
+                    <tr>The joiner is busy working on the house.</tr>
+                    <ref text="617">td. 65</ref>
+                </li>
+                <li>
+                    <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
+                    <tr>The farmers were working busily in the field yesterday.</tr>
+                    <ref text="617">td. 75</ref>
+                </li>-->
+            </xl>
+        </p>
+    </section>
+
+    <section id="adjs">
+        <h>adjectives</h>
+        <p><g>trang agus <a href="?gd=sgiith">sgìth</a></g> <en>busy and tired</en> –
+            <xl>
+                <li>
+                    <gd>Tha Calum sgìth – tha e ag obair gu trang anns an achadh.</gd>
+                    <tr>Malcolm is tired – he is working busily in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha sibh trang ag obair anns an achadh agus tha sibh sgìth.</gd>
+                    <tr>You are busy working in the field and you are tired.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
 </module>

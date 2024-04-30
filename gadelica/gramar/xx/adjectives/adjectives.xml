@@ -69,11 +69,11 @@
           <en>safe</en></li>
         <li><a href="?gd=salach"><g>salach</g></a>
           <en>dirty</en></li>
-        <li><a href="?gd=sgiith"><g>sgìth</g></a>
+        <li><g href="?gd=sgiith">sgìth</g>
           <en>tired</en></li>
         <li><a href="?gd=teth"><g>teth</g></a>
           <en>hot</en></li>
-        <li><a href="?gd=trang"><g>trang</g></a>
+        <li><g href="?gd=trang">trang</g>
           <en>busy</en></li>
         <li><a href="?gd=traath"><g>tràth</g></a>
           <en>early</en></li>
