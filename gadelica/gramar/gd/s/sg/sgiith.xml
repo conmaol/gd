@@ -7,75 +7,108 @@
 
     <section>
         <h>nouns</h>
-        <module id="duine">
-            <h>duine</h>
-            <p><g><a href="?gd=duine">duine</a> sgìth</g>
-                <en>a tired man</en> – <xl>
+        <section id="nouns-people">
+            <h>people</h>
+            <p>Examples with proper nouns – <xl>
                     <li>
-                        <gd>Tha an duine sin sgìth.</gd>
-                        <tr>That man is tired.</tr>
-                        <ref text="617">td. 79</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section>
-        <h>verbs</h>
-        <module id="obair">
-            <h>obair</h>
-            <p><g>sgìth [ag] <a href="?gd=obair">obair</a></g>
-                <en>tired working</en> – <xl>
-                    <li>
-                        <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an achadh.</gd>
+                        <gd>Tha <a href="?gd=maairi">Màiri</a> sgìth. Tha i sgìth ag obair anns an
+                            achadh.</gd>
                         <tr>Mary is tired. She is tired working in the field.</tr>
                         <ref text="617">td. 7</ref>
                     </li>
                     <li>
-                        <gd>Tha Seumas sgìth: tha e ag obair gu trang anns an achadh.</gd>
-                        <tr>James is tired: he is working busily in the field.</tr>
-                        <ref text="617">td. 7 [adapted]</ref>
-                    </li>
-                    <li>
-                        <gd>Tha mi sgìth le obair.</gd>
-                        <tr>I am tired with work.</tr>
-                        <ref text="617">td. 244</ref>
+                        <gd>Tha <a href="?gd=calum">Calum</a> sgìth: tha e ag obair gu trang anns an
+                            achadh.</gd>
+                        <tr>Malcolm is tired: he is working busily in the field.</tr>
+                        <ref text="617">td. 7</ref>
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="coisich">
-            <h>coisich</h>
-            <p><g>sgìth ag <a href="?gd=coisich">coiseachd</a></g>
-                <en>tired walking</en> – <xl>
+            <p>Examples with third person pronouns – <xl>
                     <li>
-                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-                            mullach na beinne.</gd>
-                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
-                            the mountain.</tr>
-                        <ref text="617">td. 146</ref>
+                        <gd>Tha Màiri sgìth. Tha <a href="?gd=i_">i</a> sgìth ag obair anns an
+                            achadh.</gd>
+                        <tr>Mary is tired. She is tired working in the field.</tr>
+                        <ref text="617">td. 7</ref>
                     </li>
-                </xl>
-            </p>
-        </module>
-    </section>
-
-    <section id="other">
-        <h>other</h>
-        <p>
-            <xl>
                 <li>
-                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Bha iad glé sgìth nuair a
+                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Bha <a href="?gd=iad">iad</a> glé sgìth nuair a
                         thàinig iad dhachaidh feasgar.</gd>
                     <tr>Mary and James were on the moor yesterday. [...] They were very tired when
                         they came home in the evening.</tr>
                     <ref text="617">td. 76</ref>
                 </li>
+                    <li>
+                        <gd>Their <a href="?gd=iad">iad</a> gu bheil iad sgìth.</gd>
+                        <tr>They will say that they are tired.</tr>
+                        <ref text="617">td. 177</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with common nouns – <xl>
+                    <li>
+                        <gd>Tha an <a href="?gd=duine">duine</a> sin sgìth.</gd>
+                        <tr>That man is tired.</tr>
+                        <ref text="617">td. 79</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+
+    </section>
+
+    <section id="verbs">
+        <h>verbs</h>
+        <p><g>sgìth [ag] <a href="?gd=obair">obair</a></g>
+            <en>tired working</en> – <xl>
                 <li>
-                    <gd>Their iad gu bheil iad sgìth.</gd>
-                    <tr>They will say that they are tired.</tr>
-                    <ref text="617">td. 177</ref>
+                    <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an achadh.</gd>
+                    <tr>Mary is tired. She is tired working in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha Calum sgìth: tha e ag obair gu trang anns an achadh.</gd>
+                    <tr>Malcolm is tired: he is working busily in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha sibh trang ag obair anns an achadh agus tha sibh sgìth.</gd>
+                    <tr>You are busy working in the field and you are tired.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha mi sgìth le obair.</gd>
+                    <tr>I am tired with work.</tr>
+                    <ref text="617">td. 244</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g>sgìth a’ <a href="?gd=coisich">coiseachd</a></g>
+            <en>tired walking</en> – <xl>
+                <li>
+                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                        mullach na beinne.</gd>
+                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                        mountain.</tr>
+                    <ref text="617">td. 146</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+    <section id="adjs">
+        <h>adjectives</h>
+        <p><g><a href="?gd=trang">trang</a> agus sgìth</g>
+            <en>busy and tired</en> – <xl>
+                <li>
+                    <gd>Tha Calum sgìth – tha e ag obair gu trang anns an achadh.</gd>
+                    <tr>Malcolm is tired – he is working busily in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha sibh trang ag obair anns an achadh agus tha sibh sgìth.</gd>
+                    <tr>You are busy working in the field and you are tired.</tr>
+                    <ref text="617">td. 7</ref>
                 </li>
             </xl>
         </p>
