@@ -24,6 +24,15 @@
                     </li>
                 </xl>
             </p>
+            <p>Examples with first and second person pronouns – <xl>
+                    <li>
+                        <gd>Tha sibh trang ag obair anns an achadh agus tha
+                            <a href="?gd=sibh">sibh</a> sgìth.</gd>
+                        <tr>You are busy working in the field and you are tired.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
             <p>Examples with third person pronouns – <xl>
                     <li>
                         <gd>Tha Màiri sgìth. Tha <a href="?gd=i_">i</a> sgìth ag obair anns an
@@ -31,13 +40,13 @@
                         <tr>Mary is tired. She is tired working in the field.</tr>
                         <ref text="617">td. 7</ref>
                     </li>
-                <li>
-                    <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Bha <a href="?gd=iad">iad</a> glé sgìth nuair a
-                        thàinig iad dhachaidh feasgar.</gd>
-                    <tr>Mary and James were on the moor yesterday. [...] They were very tired when
-                        they came home in the evening.</tr>
-                    <ref text="617">td. 76</ref>
-                </li>
+                    <li>
+                        <gd>Bha Màiri agus Seumas anns a’ mhonadh an dé. [...] Bha <a href="?gd=iad"
+                                >iad</a> glé sgìth nuair a thàinig iad dhachaidh feasgar.</gd>
+                        <tr>Mary and James were on the moor yesterday. [...] They were very tired
+                            when they came home in the evening.</tr>
+                        <ref text="617">td. 76</ref>
+                    </li>
                     <li>
                         <gd>Their <a href="?gd=iad">iad</a> gu bheil iad sgìth.</gd>
                         <tr>They will say that they are tired.</tr>
@@ -54,7 +63,15 @@
                 </xl>
             </p>
         </section>
-
+        <p><g>sgìth ann an <a href="?gd=achadh">achadh</a></g> <en>tired in a field</en> –
+            <xl>
+                <li>
+                    <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an achadh.</gd>
+                    <tr>Mary is tired. She is tired working in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+            </xl>
+        </p>
     </section>
 
     <section id="verbs">

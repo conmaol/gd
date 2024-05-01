@@ -11,17 +11,48 @@
             <h>people</h>
             <p>Examples with proper nouns – <xl>
                     <li>
-                        <gd>Tha Màiri <a href="?gd=ag">ag</a> obair.</gd>
+                        <gd>Tha <a href="?gd=maairi">Màiri</a> ag obair.</gd>
                         <tr>Mary is working</tr>
                         <ref text="617">td. 6</ref>
                     </li>
                     <li>
-                        <gd>Tha Calum <a href="?gd=ag">ag</a> obair.</gd>
+                        <gd>Tha <a href="?gd=calum">Calum</a> ag obair.</gd>
                         <tr>Malcolm is working</tr>
                         <ref text="617">td. 6</ref>
                     </li>
                 </xl>
             </p>
+            <p>Examples with first and second person pronouns – <xl>
+                    <li>
+                        <gd>Tha <a href="?gd=sibh">sibh</a> trang ag obair anns an achadh agus tha
+                            sibh sgìth.</gd>
+                        <tr>You are busy working in the field and you are tired.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+            <p>Examples with third person pronouns – <xl>
+                    <li>
+                        <gd>Tha Màiri sgìth. Tha <a href="?gd=i_">i</a> sgìth ag obair anns an
+                            achadh.</gd>
+                        <tr>Mary is tired. She is tired working in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Calum sgìth: tha <a href="?gd=e_">e</a> ag obair gu trang anns an
+                            achadh.</gd>
+                        <tr>Malcolm is tired: he is working busily in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Màiri agus Calum trang an diugh – tha <a href="?gd=iad">iad</a> ag
+                            obair anns an achadh.</gd>
+                        <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+
             <p>Examples with conjoined subjects – <xl>
                     <li>
                         <gd>Tha Màiri agus Calum <a href="?gd=ag">ag</a> obair.</gd>
@@ -170,9 +201,19 @@
         <p><g>obair gu <a href="?gd=trang">trang</a></g>
             <en>working busily/hard</en> – <xl>
                 <li>
-                    <gd>Tha Seumas sgìth: tha e ag obair gu trang anns an achadh.</gd>
-                    <tr>James is tired: he is working busily in the field.</tr>
-                    <ref text="617">td. 7 [adapted]</ref>
+                    <gd>Tha Màiri agus Calum trang an diugh – tha iad ag obair anns an achadh.</gd>
+                    <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha Calum sgìth: tha e ag obair gu trang anns an achadh.</gd>
+                    <tr>Malcolm is tired: he is working busily in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha sibh trang ag obair anns an achadh agus tha sibh sgìth.</gd>
+                    <tr>You are busy working in the field and you are tired.</tr>
+                    <ref text="617">td. 7</ref>
                 </li>
                 <li>
                     <gd>Bha sinn trang ag obair.</gd>
@@ -194,9 +235,19 @@
         <p><g><a href="?gd=sgiith">sgìth</a> [ag] obair</g>
             <en>tired working</en> – <xl>
                 <li>
-                    <gd>Tha Seumas sgìth: tha e ag obair gu trang anns an achadh.</gd>
-                    <tr>James is tired: he is working busily in the field.</tr>
-                    <ref text="617">td. 7 [adapted]</ref>
+                    <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an achadh.</gd>
+                    <tr>Mary is tired. She is tired working in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha Calum sgìth: tha e ag obair gu trang anns an achadh.</gd>
+                    <tr>Malcolm is tired: he is working busily in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha sibh trang ag obair anns an achadh agus tha sibh sgìth.</gd>
+                    <tr>You are busy working in the field and you are tired.</tr>
+                    <ref text="617">td. 7</ref>
                 </li>
                 <li>
                     <gd>Tha Seònaid sgìth ag obair anns an achadh.</gd>
@@ -209,6 +260,16 @@
                     <ref text="617">td. 244</ref>
                 </li>
             </xl></p>
+
+        <p><g><a href="?gd=fuar">fuar</a> [ag] obair</g>
+            <en>cold working</en> – <xl>
+                <li>
+                    <gd>Tha iad fuar ag obair anns an achadh an diugh.</gd>
+                    <tr>They are cold working in the field today.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+            </xl>
+        </p>
 
         <p><g>obair <a href="?gd=trom">throm</a></g>
             <en>heavy work</en> – <xl>

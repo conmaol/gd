@@ -78,8 +78,9 @@
           <en>jump</en></li>
         <li><a href="?gd=nigh"><g>nigh</g></a>
           <en>wash</en></li>
-        <li><a href="?gd=obair"><g>obair</g></a>
-          <en>working, work</en></li>-->
+          -->
+        <li><g href="?gd=obair">obair</g> <fem/>
+          <en>working, work</en></li>
         <li><g href="?gd=ool">òl</g>
           <en>drink</en></li>
         <!--<li><a href="?gd=rach"><g>rach</g></a>

@@ -84,5 +84,36 @@
                     </p>
                 </module>-->
     </section>
-
+    
+    <section id="adjs">
+        <h>adjectives</h>
+        <p><g><a href="?gd=fuar">fuar</a> ann an achadh</g> <en>cold in a field</en> –
+        <xl>
+            <li>
+                <gd>Tha iad fuar ag obair anns an achadh an diugh.</gd>
+                <tr>They are cold working in the field today.</tr>
+                <ref text="617">td. 7</ref>
+            </li>
+        </xl>
+        </p>
+        <p><g><a href="?gd=trang">trang</a> ann an achadh</g> <en>busy in a field</en> –
+            <xl>
+                <li>
+                    <gd>Tha Màiri agus Calum trang an diugh – tha iad ag obair anns an achadh.</gd>
+                    <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=sgiith">sgìth</a> ann an achadh</g> <en>tired in a field</en> –
+            <xl>
+                <li>
+                    <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an achadh.</gd>
+                    <tr>Mary is tired. She is tired working in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+    
 </module>

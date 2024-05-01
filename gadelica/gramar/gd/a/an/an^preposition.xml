@@ -1,31 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
   <h>an</h>
-  <p><g>an</g> <prep/>
+  <p><g>an</g>
+    <prep/>
     <en>in(side), within</en></p>
 
   <section id="comps">
     <h>complements</h>
-    <p><g>... ann an <a href="?gd=teine">teine</a></g>
-      <en>... in a fire</en> –<xl>
-        <li>
-          <gd>Tha teas anns an teine.</gd>
-          <tr>There is heat in the fire.</tr>
-          <ref text="617">td. 6</ref>
-        </li>
-      </xl></p>
-    <p><g>... ann an <a href="?gd=achadh">achadh</a></g>
-      <en>... in a field</en> –<xl>
-        <li>
-          <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
-          <tr>Mary and Malcolm are working in the field today.</tr>
-          <ref text="617">td. 6–7</ref>
-        </li>
-      </xl>
-    </p>
+    <section>
+      <h>nouns</h>
+      <p><g>... ann an <a href="?gd=teine">teine</a></g>
+        <en>... in a fire</en> –<xl>
+          <li>
+            <gd>Tha teas anns an teine.</gd>
+            <tr>There is heat in the fire.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+        </xl></p>
+      <p><g>... ann an <a href="?gd=achadh">achadh</a></g>
+        <en>... in a field</en> –<xl>
+          <li>
+            <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+            <tr>Mary and Malcolm are working in the field today.</tr>
+            <ref text="617">td. 6–7</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
   </section>
 
-
+  <section>
+    <h>uses</h>
+    <section id="uses-loc">
+      <h>locative</h>
+      <p><g><a href="?gd=obair">obair</a> ann an ...</g>
+        <en>working in ...</en> –<xl>
+          <li>
+            <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+            <tr>Mary and Malcolm are working in the field today.</tr>
+            <ref text="617">td. 6–7</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+  </section>
 
   <!--<p>The inessive preposition should not be confused with other uses of the particle <a
       href="?gd=an"><g>an</g></a>.</p>-->
