@@ -810,7 +810,19 @@
     </p>
   </section>
 
-  
+  <section id="proper">
+    <h>list of proper nouns</h>
+    <p>
+      <ul>
+        <li><g href="?gd=calum">Calum</g>
+          <masc/>
+          <en>Malcolm</en></li>
+        <li><g href="?gd=maairi">Màiri</g>
+          <masc/>
+          <en>Mary</en></li>
+      </ul>
+    </p>
+  </section>
 
 
 

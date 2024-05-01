@@ -2,10 +2,121 @@
 <module>
     <h>Calum</h>
     <p><g>Calum</g>
-        <en>Malcolm</en> is a masculine <a href="?xx=nouns/anthroponymic_proper_nouns">anthroponymic
-            proper noun</a>.</p>
+        <masc/>
+        <en>Malcolm</en></p>
 
-    <section id="forms">
+    <section>
+        <h>adjectives</h>
+        <p>
+            <xl>
+                <li>
+                    <gd>Tha Calum <a href="?gd=moor">mór</a>.</gd>
+                    <tr>Malcolm is big.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>Tha Màiri beag ach tha Calum mór.</gd>
+                    <tr>Mary is small but Malcolm is big.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>Tha Màiri agus Calum <a href="?gd=trang">trang</a> an diugh – tha iad ag
+                        obair anns an achadh.</gd>
+                    <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha Calum <a href="?gd=sgiith">sgìth</a>: tha e ag obair gu <a
+                            href="?gd=trang">trang</a> anns an achadh.</gd>
+                    <tr>Malcolm is tired: he is working busily in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+    <section>
+        <h>verbs</h>
+        <p>
+            <xl>
+                <li>
+                    <gd>Tha Calum ag obair.</gd>
+                    <tr>Malcolm is working</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>Tha Màiri agus Calum ag obair.</gd>
+                    <tr>Mary and Malcolm are working</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+                    <tr>Mary and Malcolm are working in the field today.</tr>
+                    <ref text="617">td. 6–7</ref>
+                </li>
+                <li>
+                    <gd>Tha Màiri agus Calum trang an diugh – tha iad ag obair anns an achadh.</gd>
+                    <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+                <li>
+                    <gd>Tha Calum sgìth: tha e ag obair gu trang anns an achadh.</gd>
+                    <tr>Malcolm is tired: he is working busily in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+
+
+    <section>
+        <h>nouns</h>
+        <p>
+            <xl>
+                <li>
+                    <gd>Tha <a href="?gd=maairi">Màiri</a> beag ach tha Calum mór.</gd>
+                    <tr>Mary is small but Malcolm is big.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>Tha Màiri agus Calum ag obair.</gd>
+                    <tr>Mary and Malcolm are working</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+                <li>
+                    <gd>Tha Màiri agus Calum ag obair anns an achadh an diugh.</gd>
+                    <tr>Mary and Malcolm are working in the field today.</tr>
+                    <ref text="617">td. 6–7</ref>
+                </li>
+                <li>
+                    <gd>Tha Màiri agus Calum trang an diugh – tha iad ag obair anns an achadh.</gd>
+                    <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+            </xl>
+        </p>
+        <p>
+            <xl>
+                <li>
+                    <gd>Tha Màiri agus Calum ag obair anns an <a href="?gd=achadh">achadh</a> an diugh.</gd>
+                    <tr>Mary and Malcolm are working in the field today.</tr>
+                    <ref text="617">td. 6–7</ref>
+                </li>
+                <li>
+                    <gd>Tha Màiri agus Calum trang an diugh – tha iad ag obair anns an achadh.</gd>
+                    <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
+                    <ref text="617">td. 7</ref>
+                </li>
+            </xl>
+        </p>
+    </section>
+
+
+
+
+
+    <!-- <section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>Calum</g> are – <ul>
                 <li><m>Calum</m> – nominative/dative (singular)</li>
@@ -14,8 +125,8 @@
             </ul>
         </p>
     </section>
-
-    <section>
+-->
+    <!--<section>
         <h>dependents</h>
         <section id="deps-bare">
             <h>bare</h>
@@ -53,7 +164,7 @@
                 </xl>
             </p>
         </section>
-    </section>
+    </section>-->
 
     <section>
         <h>uses</h>
@@ -108,8 +219,10 @@
                         <ref text="617">td. 15 [228] [adapted]</ref>
                     </li>
                     <li>
-                        <gd>Nach robh <m>Calum agus Màiri</m> a’ cluich còmhla ris a’ chù? Cha robh, bha iad anns a’ bhaile.</gd>
-                        <tr>Weren’t Malcolm and Mary playing with the dog? No, they weren’t, they were in the town.</tr>
+                        <gd>Nach robh <m>Calum agus Màiri</m> a’ cluich còmhla ris a’ chù? Cha robh,
+                            bha iad anns a’ bhaile.</gd>
+                        <tr>Weren’t Malcolm and Mary playing with the dog? No, they weren’t, they
+                            were in the town.</tr>
                         <ref text="617">td. 21 [230]</ref>
                     </li>
                 </xl>
