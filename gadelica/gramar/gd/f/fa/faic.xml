@@ -5,60 +5,93 @@
     <vb/>
     <en>see</en></p>
 
+  <section>
+    <h>nouns</h>
+    <section id="people">
+      <h>people</h>
+      <section>
+        <h>subject</h>
+        <p>Examples with first and second person pronouns – <ul>
+            <li>first person - <ul>
+                <li>singular <g href="?gd=mi">mi</g>
+                  <en>I, me</en> – <xl>
+                    <li>
+                      <gd>Chunnaic mi cù aig an dorus.</gd>
+                      <tr>I saw a dog at the door.</tr>
+                      <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                      <gd>Abair ri Iain gu faic mi e am màireach.</gd>
+                      <tr>Tell John that I will see (meet?) him tomorrow.</tr>
+                      <ref text="617">td. 177</ref>
+                    </li>
+                  </xl>
+                </li>
+                <li>plural <g href="?gd=sinn">sinn</g>
+                  <en>we, us</en> – <xl>
+                    <li>
+                      <gd>Chunnaic sinn iolair mhór an diugh.</gd>
+                      <tr>We saw a big eagle today.</tr>
+                      <ref text="617">td. 9 [226]</ref>
+                    </li>
+                  </xl>
+                </li>
+              </ul>
+            </li>
+            <li>second person <g href="?gd=thu">thu</g> – <xl>
+                <li>
+                  <gd>Am faca tu na féidh? Chan fhaca.</gd>
+                  <tr>Did you see the deer? No, I didn’t.</tr>
+                  <ref text="617">td. 177</ref>
+                </li>
+                <li>
+                  <gd>Am faca tu na caoraich? Chunnaic.</gd>
+                  <tr>Did you see the sheep? Yes, I did.</tr>
+                  <ref text="617">td. 177</ref>
+                </li>
+              </xl>
+            </li>
+          </ul>
+        </p>
+      </section>
+      <section>
+        <h>object</h>
+        <p>Examples with third person pronouns – <xl>
+            <li>
+              <gd>Abair ri Iain gu faic mi <a href="?gd=e_">e</a> am màireach.</gd>
+              <tr>Tell John that I will see (meet?) him tomorrow.</tr>
+              <ref text="617">td. 177</ref>
+            </li>
+          </xl>
+        </p>
+        <p>Examples with plural (or collective) common nouns (groups/aggregates of people) – <xl>
+            <li>
+              <gd>Chunnaic mi <a href="?gd=clann">clann</a> a’ snàmh anns a’ mhuir.</gd>
+              <tr>I saw children swimming in the sea.</tr>
+              <ref text="617">td. 21 [adapted]</ref>
+            </li>
+          </xl>
+        </p>
+      </section>
+
+    </section>
+    <section>
+      <h>animals</h>
+    </section>
+    <section>
+      <h>things</h>
+    </section>
+
+
+
+  </section>
+
+
   <section id="sbjs">
     <h>subjects</h>
     <section id="sbjs-people">
       <h>people</h>
-      <p>Examples with first and second person pronouns – <ul>
-          <li>first person - <ul>
-              <li>singular <g href="?gd=mi">mi</g> – <xl>
-                  <li>
-                    <gd>Chunnaic mi cù aig an dorus.</gd>
-                    <tr>I saw a dog at the door.</tr>
-                    <ref text="617">td. 6</ref>
-                  </li>
-                  <li>
-                    <gd>Chunnaic mi caoraich agus crodh anns a’ mhonadh.</gd>
-                    <tr>I saw sheep and cattle on the moor.</tr>
-                    <ref text="617">td. 21</ref>
-                  </li>
-                  <li>
-                    <gd>Chunnaic mi bàtaichean air a’ mhuir agus clann a’ snàmh anns a’ mhuir.</gd>
-                    <tr>I saw boats on the sea and children swimming in the sea.</tr>
-                    <ref text="617">td. 21</ref>
-                  </li>
-                  <li>
-                    <gd>Abair ri Iain gu faic mi e am màireach.</gd>
-                    <tr>Tell John that I will see (meet?) him tomorrow.</tr>
-                    <ref text="617">td. 177</ref>
-                  </li>
-                </xl>
-              </li>
-              <li>plural <g href="?gd=sinn">sinn</g> – <xl>
-                  <li>
-                    <gd>Chunnaic sinn iolair mhór an diugh.</gd>
-                    <tr>We saw a big eagle today.</tr>
-                    <ref text="617">td. 9 [226]</ref>
-                  </li>
-                </xl>
-              </li>
-            </ul>
-          </li>
-          <li>second person <g href="?gd=thu">thu</g> – <xl>
-              <li>
-                <gd>Am faca tu na féidh? Chan fhaca.</gd>
-                <tr>Did you see the deer? No, I didn’t.</tr>
-                <ref text="617">td. 177</ref>
-              </li>
-              <li>
-                <gd>Am faca tu na caoraich? Chunnaic.</gd>
-                <tr>Did you see the sheep? Yes, I did.</tr>
-                <ref text="617">td. 177</ref>
-              </li>
-            </xl>
-          </li>
-        </ul>
-      </p>
+
     </section>
   </section>
 
@@ -66,22 +99,7 @@
     <h>objects</h>
     <section id="objs-people">
       <h>people</h>
-      <p>Examples with third person pronouns – <xl>
-          <li>
-            <gd>Abair ri Iain gu faic mi e am màireach.</gd>
-            <tr>Tell John that I will see (meet?) him tomorrow.</tr>
-            <ref text="617">td. 177</ref>
-          </li>
-        </xl>
-      </p>
-      <p>Examples with plural (or collective) common nouns (groups/aggregates of people) – <xl>
-          <li>
-            <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
-            <tr>I saw children swimming in the sea.</tr>
-            <ref text="617">td. 21 [adapted]</ref>
-          </li>
-        </xl>
-      </p>
+
     </section>
     <section id="objs-animals">
       <h>animals</h>

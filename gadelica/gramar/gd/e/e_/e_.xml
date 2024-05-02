@@ -2,8 +2,8 @@
 <module>
   <h>e</h>
   <p><g>e</g>
-    <en>he, him, it</en> is the masculine singular (third person) <a href="?xx=nouns/personal_pronouns">personal
-      pronoun</a>.</p>
+    <en>he, him, it</en> is the masculine singular (third person) <a
+      href="?xx=nouns/personal_pronouns">personal pronoun</a>.</p>
 
   <section>
     <h>verbs</h>
@@ -34,18 +34,28 @@
             <ref text="617">td. 14</ref>
           </li>
           <li>
-            <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an sgoil
-              an diugh? Cha robh, bha <m>e</m> anns an taigh fad an latha.</gd>
+            <gd>Dé tha ceàrr air a’ ghille seo? Tha a cheann goirt. An robh e anns an sgoil an
+              diugh? Cha robh, bha <m>e</m> anns an taigh fad an latha.</gd>
             <tr>What is wrong with this boy? His head is sore. Was he in the school today? No, he
               was in the house all day long.</tr>
             <ref text="617">td. 20</ref>
           </li>
           <li>
-            <gd>Có bha ag iasgach an diugh? Bha Alasdair. Càit an robh Alasdair ag iasgach?
-              Bha e ag iasgach air an abhainn.</gd>
+            <gd>Có bha ag iasgach an diugh? Bha Alasdair. Càit an robh Alasdair ag iasgach? Bha e ag
+              iasgach air an abhainn.</gd>
             <tr>Who was fishing today? Alexander was. Where was Alexander fishing? He was fishing on
               the river.</tr>
             <ref text="617">td. 20</ref>
+          </li>
+          <li>
+            <gd>An do <a href="?gd=buail">bhuail</a> e an gille le bata? Bhuail.</gd>
+            <tr>Did he strike the boy with a stick? Yes, he did.</tr>
+            <ref text="617">td. 44</ref>
+          </li>
+          <li>
+            <gd>Abair ri Iain gu <a href="?gd=faic">faic</a> mi e am màireach.</gd>
+            <tr>Tell John that I will see (meet?) him tomorrow.</tr>
+            <ref text="617">td. 177</ref>
           </li>
         </xl>
       </p>

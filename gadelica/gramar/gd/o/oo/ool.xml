@@ -6,21 +6,21 @@
         <en>drink</en></p>
 
     <section>
-        <h>subjects</h>
-        <section id="sbj-people">
+        <h>nouns</h>
+        <section id="people">
             <h>people</h>
             <p>Examples with second person pronouns – <xl>
-                    <li>
-                        <gd>Nach do dh’òl thu do thì? Cha do dh’òl. Cha do chuir thu siùcar
-                            ann.</gd>
-                        <tr>Didn’t you drink your tea? No, I didn’t. You didn’t put sugar in
-                            it.</tr>
-                        <ref text="617">td. 48</ref>
-                    </li>
-                </xl>
+                <li>
+                    <gd>Nach do dh’òl <a href="?gd=thu">thu</a> do thì? Cha do dh’òl. Cha do chuir thu siùcar
+                        ann.</gd>
+                    <tr>Didn’t you drink your tea? No, I didn’t. You didn’t put sugar in
+                        it.</tr>
+                    <ref text="617">td. 48</ref>
+                </li>
+            </xl>
             </p>
         </section>
-        <section id="sbj-animals">
+        <section id="animals">
             <h>animals</h>
             <p><g>òl <a href="?gd=cat">cat</a> ...</g>
                 <en>a cat drinks ...</en> – <xl>
@@ -32,12 +32,8 @@
                 </xl>
             </p>
         </section>
-    </section>
-
-    <section>
-        <h>objects</h>
-        <section id="obj-food">
-            <h>food</h>
+        <section id="liquids">
+            <h>liquids</h>
             <p><g>òl ... <a href="?gd=bainne">bainne</a></g>
                 <en>... drinks milk</en> – <xl>
                     <li>
