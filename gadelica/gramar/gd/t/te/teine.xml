@@ -7,14 +7,17 @@
 
     <section id="adjs">
         <h>adjectives</h>
-        <p><g>teine <a href="?gd=moor">mór</a></g>
-            <en>a big fire</en> – <xl>
-                <li>
-                    <gd>Tha an teine mór.</gd>
-                    <tr>The fire is big.</tr>
-                    <ref text="617">td. 6 [adapted]</ref>
-                </li>
-            </xl></p>
+        <section>
+            <h>size</h>
+            <p><g>teine <a href="?gd=moor">mór</a></g>
+                <en>a big fire</en> – <xl>
+                    <li>
+                        <gd>Tha an teine mór.</gd>
+                        <tr>The fire is big.</tr>
+                        <ref text="617">td. 6 [adapted]</ref>
+                    </li>
+                </xl></p>
+        </section>
     </section>
 
     <section id="verbs">

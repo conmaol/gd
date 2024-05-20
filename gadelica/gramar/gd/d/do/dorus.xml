@@ -7,17 +7,17 @@
 
     <section id="adjs">
         <h>adjectives</h>
-        <!--<section id="adj-sbj">
-            <h>subject</h>-->
-        <p><g>dorus <a href="?gd=moor">mór</a></g>
-            <en>a large door</en> – <xl>
-                <li>
-                    <gd>Tha an dorus mór.</gd>
-                    <tr>The door is big.</tr>
-                    <ref text="617">td. 6 [adapted]</ref>
-                </li>
-            </xl></p>
-        <!--</section>-->
+        <section>
+            <h>size</h>
+            <p><g>dorus <a href="?gd=moor">mór</a></g>
+                <en>a large door</en> – <xl>
+                    <li>
+                        <gd>Tha an dorus mór.</gd>
+                        <tr>The door is big.</tr>
+                        <ref text="617">td. 6 [adapted]</ref>
+                    </li>
+                </xl></p>
+        </section>
     </section>
 
     <section id="verbs">
@@ -132,14 +132,14 @@
                 </li>
             </xl>
         </p>
-        <p><g>dorus agus <a href="?gd=teine">teine</a></g> <en>a door and a fire</en> –
-        <xl>
-            <li>
-                <gd>Tha an cù aig an dorus agus tha an cat aig an teine.</gd>
-                <tr>The dog is at the door and the cat is by the fire.</tr>
-                <ref text="617">td. 6</ref>
-            </li>
-        </xl>
+        <p><g>dorus agus <a href="?gd=teine">teine</a></g>
+            <en>a door and a fire</en> – <xl>
+                <li>
+                    <gd>Tha an cù aig an dorus agus tha an cat aig an teine.</gd>
+                    <tr>The dog is at the door and the cat is by the fire.</tr>
+                    <ref text="617">td. 6</ref>
+                </li>
+            </xl>
         </p>
         <!--</section>-->
     </section>

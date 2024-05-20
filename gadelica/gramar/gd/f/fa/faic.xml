@@ -128,9 +128,23 @@
             <tr>I saw a dog at the door.</tr>
             <ref text="617">td. 6</ref>
           </li>
+          <li>
+            <gd>Chunnaic mi bàtaichean air a’ <a href="?gd=muir">mhuir</a>.</gd>
+            <tr>I saw boats on the sea.</tr>
+            <ref text="617">td. 21 [adapted]</ref>
+          </li>
+        <li>
+          <gd>Chunnaic mi clann a’ snàmh anns a’ mhuir.</gd>
+          <tr>I saw children swimming in the sea.</tr>
+          <ref text="617">td. 21 [adapted]</ref>
+        </li>
+          <li>
+            <gd>Chunnaic mi caoraich agus crodh anns a’ <a href="?gd=monadh">mhonadh</a>.</gd>
+            <tr>I saw sheep and cattle on the moor.</tr>
+            <ref text="617">td. 21</ref>
+          </li>
         </xl>
       </p>
-
     </section>
   </section>
 

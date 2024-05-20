@@ -5,6 +5,47 @@
         <masc/>
         <en>a field</en></p>
 
+    <section id="adjs">
+        <h>adjectives</h>
+        <section>
+            <h>temperature</h>
+            <p><g><a href="?gd=fuar">fuar</a> ann an achadh</g>
+                <en>cold in a field</en> – <xl>
+                    <li>
+                        <gd>Tha iad fuar ag obair anns an achadh an diugh.</gd>
+                        <tr>They are cold working in the field today.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>energy</h>
+            <p><g><a href="?gd=sgiith">sgìth</a> ann an achadh</g>
+                <en>tired in a field</en> – <xl>
+                    <li>
+                        <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an achadh.</gd>
+                        <tr>Mary is tired. She is tired working in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section>
+            <h>behaviour</h>
+            <p><g><a href="?gd=trang">trang</a> ann an achadh</g>
+                <en>busy in a field</en> – <xl>
+                    <li>
+                        <gd>Tha Màiri agus Calum trang an diugh – tha iad ag obair anns an
+                            achadh.</gd>
+                        <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+    </section>
+
     <section id="verbs">
         <h>verbs</h>
         <p><g><a href="?gd=obair">obair</a> ann an achadh</g>
@@ -36,33 +77,33 @@
 
     <section id="nouns">
         <h>nouns</h>
-            <p><g><a href="?gd=tuathanach">tuathanach</a> ann an achadh</g>
-                <en>a farmer in a field</en> – <xl>
-                    <li>
-                        <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
-                        <tr>The farmers were working busily in the field yesterday.</tr>
-                        <ref text="617">td. 75</ref>
-                    </li>
-                </xl>
-            </p>
-            <p><g><a href="?gd=caileag">caileag</a> ann an achadh</g>
-                <en>a girl in a field</en> – <xl>
-                    <li>
-                        <gd>Nach robh a’ chaileag anns an achadh? Cha robh.</gd>
-                        <tr>Wasn’t the girl in the field? No, she wasn’t.</tr>
-                        <ref text="617">td. 11 [adapted]</ref>
-                    </li>
-                </xl>
-            </p>
-            <p><g><a href="?gd=cuu">cù</a> ann an achadh</g>
-                <en>a dog in a field</en> – <xl>
-                    <li>
-                        <gd>Bha an cù anns an achadh.</gd>
-                        <tr>The dog was in the field.</tr>
-                        <ref text="617">td. 11 [adapted]</ref>
-                    </li>
-                </xl>
-            </p>
+        <p><g><a href="?gd=tuathanach">tuathanach</a> ann an achadh</g>
+            <en>a farmer in a field</en> – <xl>
+                <li>
+                    <gd>Bha na tuathanaich ag obair gu trang anns an achadh an dé.</gd>
+                    <tr>The farmers were working busily in the field yesterday.</tr>
+                    <ref text="617">td. 75</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=caileag">caileag</a> ann an achadh</g>
+            <en>a girl in a field</en> – <xl>
+                <li>
+                    <gd>Nach robh a’ chaileag anns an achadh? Cha robh.</gd>
+                    <tr>Wasn’t the girl in the field? No, she wasn’t.</tr>
+                    <ref text="617">td. 11 [adapted]</ref>
+                </li>
+            </xl>
+        </p>
+        <p><g><a href="?gd=cuu">cù</a> ann an achadh</g>
+            <en>a dog in a field</en> – <xl>
+                <li>
+                    <gd>Bha an cù anns an achadh.</gd>
+                    <tr>The dog was in the field.</tr>
+                    <ref text="617">td. 11 [adapted]</ref>
+                </li>
+            </xl>
+        </p>
 
 
 
@@ -84,36 +125,7 @@
                     </p>
                 </module>-->
     </section>
-    
-    <section id="adjs">
-        <h>adjectives</h>
-        <p><g><a href="?gd=fuar">fuar</a> ann an achadh</g> <en>cold in a field</en> –
-        <xl>
-            <li>
-                <gd>Tha iad fuar ag obair anns an achadh an diugh.</gd>
-                <tr>They are cold working in the field today.</tr>
-                <ref text="617">td. 7</ref>
-            </li>
-        </xl>
-        </p>
-        <p><g><a href="?gd=trang">trang</a> ann an achadh</g> <en>busy in a field</en> –
-            <xl>
-                <li>
-                    <gd>Tha Màiri agus Calum trang an diugh – tha iad ag obair anns an achadh.</gd>
-                    <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
-                    <ref text="617">td. 7</ref>
-                </li>
-            </xl>
-        </p>
-        <p><g><a href="?gd=sgiith">sgìth</a> ann an achadh</g> <en>tired in a field</en> –
-            <xl>
-                <li>
-                    <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an achadh.</gd>
-                    <tr>Mary is tired. She is tired working in the field.</tr>
-                    <ref text="617">td. 7</ref>
-                </li>
-            </xl>
-        </p>
-    </section>
-    
+
+
+
 </module>

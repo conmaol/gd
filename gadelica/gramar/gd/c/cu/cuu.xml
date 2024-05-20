@@ -9,64 +9,64 @@
         <h>adjectives</h>
         <!--<section id="adj-sbj">
             <h>subject</h>-->
-        <!--<section id="adj-sbj-size">
-                <h>size</h>-->
-        <p><g>cù <a href="?gd=moor">mór</a></g>
-            <en>a big dog</en> – <xl>
-                <li>
-                    <gd>Tha an cù mòr.</gd>
-                    <tr>The dog is big.</tr>
-                    <ref text="617">td. 6</ref>
-                </li>
-                <li>
-                    <gd>Chan eil an cù mòr.</gd>
-                    <tr>The dog is not big.</tr>
-                    <ref text="617">td. 6 [adapted]</ref>
-                </li>
-                <li>
-                    <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
-                    <tr>Malcolm has a big black dog but Mary has a pretty little cat.</tr>
-                    <ref text="617">td. 25</ref>
-                </li>
-            </xl></p>
-        <!--</section>-->
-        <!--<section id="adj-sbj-colour">
-                <h>colour</h>-->
-        <p><g>cù <a href="?gd=dubh">dubh</a></g>
-            <en>a black dog</en> – <xl>
-                <li>
-                    <gd>Tha an cù dubh.</gd>
-                    <tr>The dog is black.</tr>
-                    <ref text="617">td. 6</ref>
-                </li>
-                <li>
-                    <gd>Chan eil an cù dubh anns an achadh an diugh.</gd>
-                    <tr>The black dog is not in the field today.</tr>
-                    <ref text="617">td. 14 [227]</ref>
-                </li>
-                <li>
-                    <gd>Tha cù dubh aig Calum ach tha cat bàn aig Seònaid.</gd>
-                    <tr>Malcolm has a black dog but Janet has a white cat.</tr>
-                    <ref text="617">td. 23</ref>
-                </li>
-                <li>
-                    <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
-                    <tr>Malcolm has a big black dog but Mary has a pretty little cat.</tr>
-                    <ref text="617">td. 25</ref>
-                </li>
-            </xl></p>
-        <!--</section>-->
-        <!--<section id="adj-sbj-other">
-                <h>other</h>-->
-        <p><g>cù <a href="?gd=luath">luath</a></g>
-            <en>a swift dog</en> – <xl>
-                <li>
-                    <gd>A bheil an cù luath? Chan eil.</gd>
-                    <tr>Is the dog swift? No, it isn’t.</tr>
-                    <ref text="617">td. 14</ref>
-                </li>
-            </xl></p>
-        <!--</section>-->
+        <section> <!--id="adj-sbj-size"-->
+            <h>size</h>
+            <p><g>cù <a href="?gd=moor">mór</a></g>
+                <en>a big dog</en> – <xl>
+                    <li>
+                        <gd>Tha an cù mòr.</gd>
+                        <tr>The dog is big.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Chan eil an cù mòr.</gd>
+                        <tr>The dog is not big.</tr>
+                        <ref text="617">td. 6 [adapted]</ref>
+                    </li>
+                    <li>
+                        <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
+                        <tr>Malcolm has a big black dog but Mary has a pretty little cat.</tr>
+                        <ref text="617">td. 25</ref>
+                    </li>
+                </xl></p>
+        </section>
+        <section> <!--id="adj-sbj-colour"-->
+            <h>colour</h>
+            <p><g>cù <a href="?gd=dubh">dubh</a></g>
+                <en>a black dog</en> – <xl>
+                    <li>
+                        <gd>Tha an cù dubh.</gd>
+                        <tr>The dog is black.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Chan eil an cù dubh anns an achadh an diugh.</gd>
+                        <tr>The black dog is not in the field today.</tr>
+                        <ref text="617">td. 14 [227]</ref>
+                    </li>
+                    <li>
+                        <gd>Tha cù dubh aig Calum ach tha cat bàn aig Seònaid.</gd>
+                        <tr>Malcolm has a black dog but Janet has a white cat.</tr>
+                        <ref text="617">td. 23</ref>
+                    </li>
+                    <li>
+                        <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
+                        <tr>Malcolm has a big black dog but Mary has a pretty little cat.</tr>
+                        <ref text="617">td. 25</ref>
+                    </li>
+                </xl></p>
+        </section>
+        <section> <!--id="adj-sbj-behaviour"-->
+            <h>behaviour</h>
+            <p><g>cù <a href="?gd=luath">luath</a></g>
+                <en>a swift dog</en> – <xl>
+                    <li>
+                        <gd>A bheil an cù luath? Chan eil.</gd>
+                        <tr>Is the dog swift? No, it isn’t.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl></p>
+        </section>
         <!--</section>-->
     </section>
 

@@ -9,78 +9,81 @@
         <h>adjectives</h>
         <!--<section id="adj-sbj">
             <h>subject</h>-->
-        <!-- <section id="adj-sbj-size">
-            <h>size</h>-->
-        <p><g>cat <a href="?gd=beag">beag</a></g>
-            <en>a little cat</en> – <xl>
-                <li>
-                    <gd>Tha an cat beag.</gd>
-                    <tr>The cat is small.</tr>
-                    <ref text="617">td. 6</ref>
-                </li>
-                <li>
-                    <gd>Tha an cat beag bàn aig an teine.</gd>
-                    <tr>The little white cat is by the fire.</tr>
-                    <ref text="617">td. 9</ref>
-                </li>
-                <li>
-                    <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
-                    <tr>Malcolm has a big black dog but Mary has a beautiful little cat.</tr>
-                    <ref text="617">td. 25</ref>
-                </li>
-            </xl></p>
-        <p><g>cat <a href="?gd=moor">mór</a></g>
-            <en>a big cat</en> – <xl>
-                <li>
-                    <gd>A bheil an cat mór? Chan eil.</gd>
-                    <tr>Is the cat big? No, it isn’t.</tr>
-                    <ref text="617">td. 15</ref>
-                </li>
-            </xl></p>
-        <!--</section>-->
-        <!--<section id="adj-sbj-colour">
-            <h>colour</h>-->
-        <p><g>cat <a href="?gd=baan">bàn</a></g>
-            <en>a white cat</en> – <xl>
-                <li>
-                    <gd>Tha an cat bàn.</gd>
-                    <tr>The cat is white.</tr>
-                    <ref text="617">td. 6</ref>
-                </li>
-                <li>
-                    <gd>Tha an cat beag bàn aig an teine.</gd>
-                    <tr>The little white cat is by the fire.</tr>
-                    <ref text="617">td. 9</ref>
-                </li>
-                <li>
-                    <gd>Càit a bheil an cat bàn an diugh?</gd>
-                    <tr>Where is the white cat today?</tr>
-                    <ref text="617">td. 14</ref>
-                </li>
-                <li>
-                    <gd>Tha cù dubh aig Calum ach tha cat bàn aig Seònaid.</gd>
-                    <tr>Malcolm has a black dog but Janet has a white cat.</tr>
-                    <ref text="617">td. 23</ref>
-                </li>
-                <li>
-                    <gd>Seo an cat bàn.</gd>
-                    <tr>This is the white cat.</tr>
-                    <ref text="617">232</ref>
-                </li>
-            </xl></p>
-        <!--</section>-->
-        <!--<section id="adj-sbj-other">
-            <h>other</h>-->
-        <p><g>cat <a href="?gd=booidheach">bòidheach</a></g>
-            <en>a pretty cat</en> – <xl>
-                <li>
-                    <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
-                    <tr>Malcolm has a big black dog but Mary has a pretty little cat.</tr>
-                    <ref text="617">td. 25</ref>
-                </li>
-            </xl>
-        </p>
-        <!--</section>-->
+        <section>
+            <!--id="adj-sbj-size">-->
+            <h>size</h>
+            <p><g>cat <a href="?gd=beag">beag</a></g>
+                <en>a little cat</en> – <xl>
+                    <li>
+                        <gd>Tha an cat beag.</gd>
+                        <tr>The cat is small.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an cat beag bàn aig an teine.</gd>
+                        <tr>The little white cat is by the fire.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                    <li>
+                        <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
+                        <tr>Malcolm has a big black dog but Mary has a beautiful little cat.</tr>
+                        <ref text="617">td. 25</ref>
+                    </li>
+                </xl></p>
+            <p><g>cat <a href="?gd=moor">mór</a></g>
+                <en>a big cat</en> – <xl>
+                    <li>
+                        <gd>A bheil an cat mór? Chan eil.</gd>
+                        <tr>Is the cat big? No, it isn’t.</tr>
+                        <ref text="617">td. 15</ref>
+                    </li>
+                </xl></p>
+        </section>
+        <section>
+            <!--id="adj-sbj-colour">-->
+            <h>colour</h>
+            <p><g>cat <a href="?gd=baan">bàn</a></g>
+                <en>a white cat</en> – <xl>
+                    <li>
+                        <gd>Tha an cat bàn.</gd>
+                        <tr>The cat is white.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an cat beag bàn aig an teine.</gd>
+                        <tr>The little white cat is by the fire.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                    <li>
+                        <gd>Càit a bheil an cat bàn an diugh?</gd>
+                        <tr>Where is the white cat today?</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                    <li>
+                        <gd>Tha cù dubh aig Calum ach tha cat bàn aig Seònaid.</gd>
+                        <tr>Malcolm has a black dog but Janet has a white cat.</tr>
+                        <ref text="617">td. 23</ref>
+                    </li>
+                    <li>
+                        <gd>Seo an cat bàn.</gd>
+                        <tr>This is the white cat.</tr>
+                        <ref text="617">232</ref>
+                    </li>
+                </xl></p>
+        </section>
+        <section>
+            <!--id="adj-sbj-other">-->
+            <h>aesthetics</h>
+            <p><g>cat <a href="?gd=booidheach">bòidheach</a></g>
+                <en>a pretty cat</en> – <xl>
+                    <li>
+                        <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
+                        <tr>Malcolm has a big black dog but Mary has a pretty little cat.</tr>
+                        <ref text="617">td. 25</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
         <!--</section>-->
     </section>
 
