@@ -5,52 +5,66 @@
         <adj/>
         <en>black</en></p>
 
-    <section id="nouns">
+    <section>
         <h>nouns</h>
-        <p><g><a href="?gd=cuu">cù</a> dubh</g>
-            <en>a black dog</en> – <xl>
-                <li>
-                    <gd>A bheil an cù dubh? Tha.</gd>
-                    <tr>Is the dog black? Yes, it is.</tr>
-                    <ref text="617">td. 13</ref>
-                </li>
-                <li>
-                    <gd>Chan eil an cù dubh anns an achadh an diugh.</gd>
-                    <tr>The black dog is not in the field today.</tr>
-                    <ref text="617">td. 14 [227]</ref>
-                </li>
-                <li>
-                    <gd>Tha cù dubh aig Calum ach tha cat bàn aig Seònaid.</gd>
-                    <tr>Malcolm has a black dog but Janet has a white cat.</tr>
-                    <ref text="617">td. 23</ref>
-                </li>
-                <li>
-                    <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
-                    <tr>Malcolm has a big black dog but Mary has a pretty little cat.</tr>
-                    <ref text="617">td. 25</ref>
-                </li>
-            </xl>
-        </p>
-        <p><g><a href="?gd=falt">falt</a> dubh</g>
-            <en>black hair</en> – <xl>
-                <li>
-                    <gd>Tha falt dubh air Calum.</gd>
-                    <tr>Calum has black hair.</tr>
-                    <ref text="617">td. 9 [adapted]</ref>
-                </li>
-            </xl>
-        </p>
-        <p><g><a href="?gd=coota">còta</a> dubh</g>
-            <en>a black coat</en> – <xl>
-                <li>
-                    <gd>Tha còta dubh air a’ chaileig seo ach ’s e còta dearg a tha air Màiri.</gd>
-                    <tr>This girl has a black coat on but it’s a red coat that Mary has on.</tr>
-                    <ref text="617">td. 40</ref>
-                </li>
-            </xl>
-        </p>
+        <section id="nouns-people">
+            <h>people</h>
+            <section id="nouns-people-body-parts">
+                <h>body parts</h>
+                <p><g><a href="?gd=falt">falt</a> dubh</g>
+                    <en>black hair</en> – <xl>
+                        <li>
+                            <gd>Tha falt dubh air Calum.</gd>
+                            <tr>Calum has black hair.</tr>
+                            <ref text="617">td. 9 [adapted]</ref>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+            <section id="nouns-people-clothing">
+                <h>clothing</h>
+                <p><g><a href="?gd=coota">còta</a> dubh</g>
+                    <en>a black coat</en> – <xl>
+                        <li>
+                            <gd>Tha còta dubh air a’ chaileig seo ach ’s e còta dearg a tha air
+                                Màiri.</gd>
+                            <tr>This girl has a black coat on but it’s a red coat that Mary has
+                                on.</tr>
+                            <ref text="617">td. 40</ref>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+        </section>
+        <section id="nouns-animals">
+            <h>animals</h>
+            <p><g><a href="?gd=cuu">cù</a> dubh</g>
+                <en>a black dog</en> – <xl>
+                    <li>
+                        <gd>A bheil an cù dubh? Tha.</gd>
+                        <tr>Is the dog black? Yes, it is.</tr>
+                        <ref text="617">td. 13</ref>
+                    </li>
+                    <li>
+                        <gd>Chan eil an cù dubh anns an achadh an diugh.</gd>
+                        <tr>The black dog is not in the field today.</tr>
+                        <ref text="617">td. 14 [227]</ref>
+                    </li>
+                    <li>
+                        <gd>Tha cù dubh aig Calum ach tha cat bàn aig Seònaid.</gd>
+                        <tr>Malcolm has a black dog but Janet has a white cat.</tr>
+                        <ref text="617">td. 23</ref>
+                    </li>
+                    <li>
+                        <gd>Tha cù mór dubh aig Calum ach tha cat beag bòidheach aig Màiri.</gd>
+                        <tr>Malcolm has a big black dog but Mary has a pretty little cat.</tr>
+                        <ref text="617">td. 25</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
     </section>
-    
+
     <section id="adjs">
         <h>adjectives</h>
         <p><g><a href="?gd=baan">bàn</a> agus dubh</g>
@@ -63,7 +77,7 @@
             </xl>
         </p>
     </section>
-    
+
 
 
 

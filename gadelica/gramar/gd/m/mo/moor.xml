@@ -50,9 +50,60 @@
             </xl></li>
         </ul>
       </p>
+      <section id="nouns-people-body-parts">
+        <h>body parts</h>
+        <p><g><a href="?gd=ceann">ceann</a> mór</g>
+          <en>a large head</en> – <xl>
+            <li>
+              <gd>A bheil ceann mór air Seumas? Tha.</gd>
+              <tr>Does James have a big head? Yes, he does.</tr>
+              <ref text="617">td. 14</ref>
+            </li>
+          </xl>
+        </p>
+        <p><g><a href="?gd=sroon">sròn</a> mhór</g>
+          <en>a big nose</en> – <xl>
+            <li>
+              <gd>Tha an t-sròn aig Calum mór.</gd>
+              <tr>Calum has a big nose.</tr>
+              <ref text="617">td. 69</ref>
+            </li>
+          </xl>
+        </p>
+      </section>
+      <section id="nouns-people-clothing">
+        <h>clothing</h>
+        <p><g><a href="?gd=coota">còta</a> mór</g>
+          <en>a big coat</en> – <xl>
+            <li>
+              <gd>Tha còta mór air an t-saighdear.</gd>
+              <tr>The soldier has a big coat on.</tr>
+              <ref text="617">td. 245</ref>
+            </li>
+          </xl>
+        </p>
+      </section>
+      <section id="nouns-people-physical-states">
+        <h>physical states</h>
+        <p><g><a href="?gd=acras">acras</a> mór</g>
+          <en>a great hunger</en> – <xl>
+            <li>
+              <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e mullach na
+                beinne. Bha càrn chlach air mullach na beinne. Chuir Calum clach air a’ chàrn agus
+                shuidh e ri taobh a’ chùirn a’ leigeil analach. [...] An ceann greise dh’éirich
+                Calum ’na sheasamh agus thearnaich e a’ bheinn air a shocair. Chòrd an latha gu math
+                ris ach bha an t-acras mór air nuair a ràinig e an taigh.</gd>
+              <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
+                mountain. There was a cairn of stones on the top of the mountain. Calum put a stone
+                onto the cairn and he sat down beside the cairn having a rest. [...] After a while
+                Malcolm rose up and he descended the mountain leisurely. He enjoyed the day well but
+                he was very hungry when he reached the house.</tr>
+              <ref text="617">td. 146</ref>
+            </li>
+          </xl>
+        </p>
+      </section>
     </section>
-    <!--</module>-->
-
     <section id="nouns-animals">
       <h>animals</h>
       <p><g><a href="?gd=cuu">cù</a> mór</g>
@@ -89,17 +140,81 @@
       </p>
     </section>
 
-    <section id="nouns-other">
-      <h>other</h>
-      <p><g><a href="?gd=dorus">dorus</a> mór</g>
-        <en>a large door</en> – <xl>
+    <section id="nouns-buildings">
+      <h>buildings</h>
+      <p><g><a href="?gd=taigh">taigh</a> mór</g>
+        <en>a large house</en> – <xl>
           <li>
-            <gd>Tha an dorus mór.</gd>
-            <tr>The door is big.</tr>
-            <ref text="617">td. 6 [adapted]</ref>
+            <gd>Dé tha air a’ chnoc? Tha taigh mór air a’ chnoc.</gd>
+            <tr>What is on the hill? There is a big house on the hill.</tr>
+            <ref text="617">td. 20</ref>
           </li>
         </xl>
       </p>
+      <p><g><a href="?gd=sgoil">sgoil</a> mór</g>
+        <en>a large school</en> – <xl>
+          <li>
+            <gd>A bheil an sgoil mór? Chan eil.</gd>
+            <tr>Is the school big? No, it isn’t.</tr>
+            <ref text="617">td. 14</ref>
+          </li>
+        </xl>
+      </p>
+      <section id="nouns-buildings-parts">
+        <h>parts</h>
+        <p><g><a href="?gd=seoomar">seòmar</a> mór</g>
+          <en>a large room</en> – <xl>
+            <li>
+              <gd>Tha an seòmar seo mór.</gd>
+              <tr>This room is big.</tr>
+              <ref text="617">td. 14</ref>
+            </li>
+          </xl></p>
+        <p><g><a href="?gd=dorus">dorus</a> mór</g>
+          <en>a large door</en> – <xl>
+            <li>
+              <gd>Tha an dorus mór.</gd>
+              <tr>The door is big.</tr>
+              <ref text="617">td. 6 [adapted]</ref>
+            </li>
+          </xl>
+        </p>
+      </section>
+    </section>
+
+    <section id="nouns-geography">
+      <h>geography</h>
+      <p><g><a href="?gd=clach">clach</a> mhór</g>
+        <en>a big stone</en> – <xl>
+          <li>
+            <gd>Tha na clachan sin mór.</gd>
+            <tr>Those stones are big.</tr>
+            <ref text="617">td. 248</ref>
+          </li>
+        </xl>
+      </p>
+      <p><g><a href="?gd=eilean">eilean</a> mór</g>
+        <en>a large island</en> – <xl>
+          <li>
+            <gd>Tha an t-eilean mór.</gd>
+            <tr>The island is big.</tr>
+            <ref text="617">td. 243</ref>
+          </li>
+        </xl>
+      </p>
+      <p><g><a href="?gd=uamh">uamh</a> mhór</g>
+        <en>a big cave</en> – <xl>
+          <li>
+            <gd>Tha an uamh seo mór.</gd>
+            <tr>This cave is big.</tr>
+            <ref text="617">td. 62</ref>
+          </li>
+        </xl>
+      </p>
+    </section>
+
+    <section id="nouns-other">
+      <h>other</h>
       <p><g><a href="?gd=teine">teine</a> mór</g>
         <en>a large fire</en> – <xl>
           <li>
@@ -111,113 +226,9 @@
       </p>
     </section>
 
-    <module id="ceann">
-      <h>ceann</h>
-      <p><g><a href="?gd=ceann">ceann</a> mór</g>
-        <en>a large head</en> – <xl>
-          <li>
-            <gd>A bheil ceann mór air Seumas? Tha.</gd>
-            <tr>Does James have a big head? Yes, he does.</tr>
-            <ref text="617">td. 14</ref>
-          </li>
-        </xl>
-      </p>
-    </module>
-    <module id="sroon">
-      <h>sròn</h>
-      <p><g><a href="?gd=sroon">sròn</a> mhór</g>
-        <en>a big nose</en> – <xl>
-          <li>
-            <gd>Tha an t-sròn aig Calum mór.</gd>
-            <tr>Calum has a big nose.</tr>
-            <ref text="617">td. 69</ref>
-          </li>
-        </xl>
-      </p>
-    </module>
-    <module id="clach">
-      <h>clach</h>
-      <p><g><a href="?gd=clach">clach</a> mhór</g>
-        <en>a big stone</en> – <xl>
-          <li>
-            <gd>Tha na clachan sin mór.</gd>
-            <tr>Those stones are big.</tr>
-            <ref text="617">td. 248</ref>
-          </li>
-        </xl>
-      </p>
-    </module>
-    <module id="eilean">
-      <h>eilean</h>
-      <p><g><a href="?gd=eilean">eilean</a> mór</g>
-        <en>a large island</en> – <xl>
-          <li>
-            <gd>Tha an t-eilean mór.</gd>
-            <tr>The island is big.</tr>
-            <ref text="617">td. 243</ref>
-          </li>
-        </xl>
-      </p>
-    </module>
-    <module id="uamh">
-      <h>uamh</h>
-      <p><g><a href="?gd=uamh">uamh</a> mhór</g>
-        <en>a big cave</en> – <xl>
-          <li>
-            <gd>Tha an uamh seo mór.</gd>
-            <tr>This cave is big.</tr>
-            <ref text="617">td. 62</ref>
-          </li>
-        </xl>
-      </p>
-    </module>
-    <module id="coota">
-      <h>còta</h>
-      <p><g><a href="?gd=coota">còta</a> mór</g>
-        <en>a big coat</en> – <xl>
-          <li>
-            <gd>Tha còta mór air an t-saighdear.</gd>
-            <tr>The soldier has a big coat on.</tr>
-            <ref text="617">td. 245</ref>
-          </li>
-        </xl>
-      </p>
-    </module>
-    <module id="taigh">
-      <h>taigh</h>
-      <p><g><a href="?gd=taigh">taigh</a> mór</g>
-        <en>a large house</en> – <xl>
-          <li>
-            <gd>Dé tha air a’ chnoc? Tha taigh mór air a’ chnoc.</gd>
-            <tr>What is on the hill? There is a big house on the hill.</tr>
-            <ref text="617">td. 20</ref>
-          </li>
-        </xl>
-      </p>
-    </module>
-    <module id="sgoil">
-      <h>sgoil</h>
-      <p><g><a href="?gd=sgoil">sgoil</a> mór</g>
-        <en>a large school</en> – <xl>
-          <li>
-            <gd>A bheil an sgoil mór? Chan eil.</gd>
-            <tr>Is the school big? No, it isn’t.</tr>
-            <ref text="617">td. 14</ref>
-          </li>
-        </xl>
-      </p>
-    </module>
-    <module id="seoomar">
-      <h>seòmar</h>
-      <p><g><a href="?gd=seoomar">seòmar</a> mór</g>
-        <en>a large room</en> – <xl>
-          <li>
-            <gd>Tha an seòmar seo mór.</gd>
-            <tr>This room is big.</tr>
-            <ref text="617">td. 14</ref>
-          </li>
-        </xl></p>
-    </module>
+
+
+
 
     <module id="eallach">
       <h>eallach</h>
@@ -231,26 +242,7 @@
         </xl>
       </p>
     </module>
-    <module id="acras">
-      <h>acras</h>
-      <p><g><a href="?gd=acras">acras</a> mór</g>
-        <en>a great hunger</en> – <xl>
-          <li>
-            <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e mullach na
-              beinne. Bha càrn chlach air mullach na beinne. Chuir Calum clach air a’ chàrn agus
-              shuidh e ri taobh a’ chùirn a’ leigeil analach. [...] An ceann greise dh’éirich Calum
-              ’na sheasamh agus thearnaich e a’ bheinn air a shocair. Chòrd an latha gu math ris ach
-              bha an t-acras mór air nuair a ràinig e an taigh.</gd>
-            <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
-              mountain. There was a cairn of stones on the top of the mountain. Calum put a stone
-              onto the cairn and he sat down beside the cairn having a rest. [...] After a while
-              Malcolm rose up and he descended the mountain leisurely. He enjoyed the day well but
-              he was very hungry when he reached the house.</tr>
-            <ref text="617">td. 146</ref>
-          </li>
-        </xl>
-      </p>
-    </module>
+
 
   </section>
 
