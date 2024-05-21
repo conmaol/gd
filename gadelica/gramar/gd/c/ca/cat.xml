@@ -5,12 +5,11 @@
         <masc/>
         <en>a cat</en></p>
 
-    <section id="adjs">
+    <section>
         <h>adjectives</h>
         <!--<section id="adj-sbj">
             <h>subject</h>-->
-        <section>
-            <!--id="adj-sbj-size">-->
+        <section id="adj-sbj-size">
             <h>size</h>
             <p><g>cat <a href="?gd=beag">beag</a></g>
                 <en>a little cat</en> – <xl>
@@ -39,8 +38,7 @@
                     </li>
                 </xl></p>
         </section>
-        <section>
-            <!--id="adj-sbj-colour">-->
+        <section id="adj-sbj-colour">
             <h>colour</h>
             <p><g>cat <a href="?gd=baan">bàn</a></g>
                 <en>a white cat</en> – <xl>
@@ -71,8 +69,7 @@
                     </li>
                 </xl></p>
         </section>
-        <section>
-            <!--id="adj-sbj-other">-->
+        <section id="adj-sbj-aesthetics">
             <h>aesthetics</h>
             <p><g>cat <a href="?gd=booidheach">bòidheach</a></g>
                 <en>a pretty cat</en> – <xl>

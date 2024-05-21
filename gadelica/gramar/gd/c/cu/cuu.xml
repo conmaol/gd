@@ -5,11 +5,11 @@
         <masc/>
         <en>a dog</en></p>
 
-    <section id="adjs">
+    <section>
         <h>adjectives</h>
         <!--<section id="adj-sbj">
             <h>subject</h>-->
-        <section> <!--id="adj-sbj-size"-->
+        <section id="adj-sbj-size">
             <h>size</h>
             <p><g>cù <a href="?gd=moor">mór</a></g>
                 <en>a big dog</en> – <xl>
@@ -30,7 +30,7 @@
                     </li>
                 </xl></p>
         </section>
-        <section> <!--id="adj-sbj-colour"-->
+        <section id="adj-sbj-colour">
             <h>colour</h>
             <p><g>cù <a href="?gd=dubh">dubh</a></g>
                 <en>a black dog</en> – <xl>
@@ -56,7 +56,7 @@
                     </li>
                 </xl></p>
         </section>
-        <section> <!--id="adj-sbj-behaviour"-->
+        <section id="adj-sbj-behaviour">
             <h>behaviour</h>
             <p><g>cù <a href="?gd=luath">luath</a></g>
                 <en>a swift dog</en> – <xl>

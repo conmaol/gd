@@ -5,9 +5,9 @@
         <masc/>
         <en>a field</en></p>
 
-    <section id="adjs">
+    <section>
         <h>adjectives</h>
-        <section>
+        <section id="adjs-temp">
             <h>temperature</h>
             <p><g><a href="?gd=fuar">fuar</a> ann an achadh</g>
                 <en>cold in a field</en> – <xl>
@@ -19,7 +19,7 @@
                 </xl>
             </p>
         </section>
-        <section>
+        <section id="adjs-energy">
             <h>energy</h>
             <p><g><a href="?gd=sgiith">sgìth</a> ann an achadh</g>
                 <en>tired in a field</en> – <xl>
@@ -31,7 +31,7 @@
                 </xl>
             </p>
         </section>
-        <section>
+        <section id="adjs-behaviour">
             <h>behaviour</h>
             <p><g><a href="?gd=trang">trang</a> ann an achadh</g>
                 <en>busy in a field</en> – <xl>

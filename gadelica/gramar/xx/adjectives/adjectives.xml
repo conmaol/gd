@@ -88,6 +88,30 @@
     </p>
   </section>
 
+  <section id="taxonomy">
+    <h>taxonomy of adjectives</h>
+    <p><ul>
+        <li>size – <g href="?gd=beag">beag</g>
+          <en>little, small</en>, <g href="?gd=moor">mór</g>
+          <en>big, large</en></li>
+        <li>colour – <g href="?gd=baan">bàn</g>
+          <en>pale</en>, <g href="?gd=donn">donn</g>
+          <en>brown</en>, <g href="?gd=dubh">dubh</g>
+          <en>black</en></li>
+        <li>temperature – <g href="?gd=blaath">blàth</g>
+          <en>warm</en>, <g href="?gd=fuar">fuar</g>
+          <en>cold</en>, <g href="?gd=teth">teth</g>
+          <en>hot</en></li>
+        <li>energy – <g href="?gd=sgiith">sgìth</g>
+          <en>tired</en></li>
+        <li>behaviour – <g href="?gd=luath">luath</g>
+          <en>swift, fast</en>, <g href="?gd=trang">trang</g>
+          <en>busy</en></li>
+        <li>aesthetics – <g href="?gd=booidheach">bòidheach</g>
+          <en>pretty</en></li>
+      </ul></p>
+  </section>
+
 
   <!--<p>Adjectives are words which encode attributes, properties and qualities of those entities which
     are described by <a href="?xx=nouns/nouns">nouns</a>.</p>-->

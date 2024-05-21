@@ -5,9 +5,9 @@
         <masc/>
         <en>heat</en></p>
 
-    <section id="adjs">
+    <section>
         <h>adjectives</h>
-        <section>
+        <section id="adjs-temp">
             <h>temperature</h>
             <p><g><a href="?gd=blaath">blàth</a> le teas</g>
                 <en>warm with heat</en> – <xl>

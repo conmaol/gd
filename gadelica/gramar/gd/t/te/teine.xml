@@ -5,9 +5,9 @@
         <masc/>
         <en>a fire</en></p>
 
-    <section id="adjs">
+    <section>
         <h>adjectives</h>
-        <section>
+        <section id="adjs-size">
             <h>size</h>
             <p><g>teine <a href="?gd=moor">mór</a></g>
                 <en>a big fire</en> – <xl>

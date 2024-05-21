@@ -127,8 +127,8 @@
                 </xl>
             </p>
         </section>
-        <module id="baata">
-            <h>bàta</h>
+        <section id="nouns-artifacts">
+            <h>artifacts</h>
             <p><g><a href="?gd=baata">bàta</a> beag</g>
                 <en>a small boat</en> – <xl>
                     <li>
@@ -137,9 +137,9 @@
                         <ref text="617">td. 21 [adapted]</ref>
                     </li>
                 </xl></p>
-        </module>
-        <module id="loch">
-            <h>loch</h>
+        </section>
+        <section id="nouns-geography">
+            <h>geography</h>
             <p><g><a href="?gd=loch">loch</a> beag</g>
                 <en>a small lake</en> – <xl>
                     <li>
@@ -157,7 +157,7 @@
                     </li>
                 </xl>
             </p>
-        </module>
+        </section>
     </section>
 
     <section id="adjs">
