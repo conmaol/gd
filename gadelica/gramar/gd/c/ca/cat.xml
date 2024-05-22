@@ -2,6 +2,7 @@
 <module>
     <h>cat</h>
     <p><g>cat</g>
+        <!-- animal noun -->
         <masc/>
         <en>a cat</en></p>
 
@@ -84,84 +85,84 @@
         <!--</section>-->
     </section>
 
-    <section id="verbs">
+    <section>
         <h>verbs</h>
-        <!--<section id="verbs-sbj">
-            <h>subject</h>-->
-        <p><g><a href="?gd=ool">òl</a> cat ...</g>
-            <en>a cat drinks ...</en> – <xl>
-                <li>
-                    <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
-                    <tr>Did the cat drink the milk? Yes, it did.</tr>
-                    <ref text="617">td. 48</ref>
-                </li>
-            </xl>
-        </p>
-        <p><g><a href="?gd=cluich">cluich</a> cat</g>
-            <en>a cat plays</en> – <xl>
-                <li>
-                    <gd>A bheil an cat a’ cluich còmhla ri Seònaid air an làr? Tha.</gd>
-                    <tr>Is the cat playing with Janet on the floor? Yes, he is.</tr>
-                    <ref text="617">td. 14</ref>
-                </li>
-            </xl></p>
-        <!--</section>-->
+        <section id="verbs-activities">
+            <h>activities</h>
+            <p><g><a href="?gd=ool">òl</a> cat ...</g>
+                <en>a cat drinks ...</en> – <xl>
+                    <li>
+                        <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
+                        <tr>Did the cat drink the milk? Yes, it did.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+            <p><g><a href="?gd=cluich">cluich</a> cat ...</g>
+                <en>a cat plays ...</en> – <xl>
+                    <li>
+                        <gd>A bheil an cat a’ cluich còmhla ri Seònaid air an làr? Tha.</gd>
+                        <tr>Is the cat playing with Janet on the floor? Yes, he is.</tr>
+                        <ref text="617">td. 14</ref>
+                    </li>
+                </xl></p>
+        </section>
     </section>
 
-    <section id="nouns">
+    <section>
         <h>nouns</h>
-        <!-- <section id="nouns-sbj">
-            <h>subject</h>-->
-        <p><g>cat aig <a href="?gd=teine">teine</a></g>
-            <en>a cat at/by a fire</en>– <xl>
-                <li>
-                    <gd>Tha an cat beag bàn aig an teine.</gd>
-                    <tr>The little white cat is by the fire.</tr>
-                    <ref text="617">td. 9</ref>
-                </li>
-            </xl>
-        </p>
-        <p><g>cat ann am <a href="?gd=poca">poca</a></g>
-            <en>a cat in a sack</en> – <xl>
-                <li>
-                    <gd>Cha robh an cat anns a’ phoca.</gd>
-                    <tr>The cat was not in the sack.</tr>
-                    <ref text="617">td. 21 [229] [adapted]</ref>
-                </li>
-            </xl>
-        </p>
-        <!--</section>-->
-        <!--<section id="nouns-coord">
-            <h>coordinate</h>-->
-        <p><g>òl cat <a href="?gd=bainne">bainne</a></g>
-            <en>a cat drinks milk</en> – <xl>
-                <li>
-                    <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
-                    <tr>Did the cat drink the milk? Yes, it did.</tr>
-                    <ref text="617">td. 48</ref>
-                </li>
-            </xl>
-        </p>
-        <!--</section>-->
-        <p><g><a href="?gd=cuu">cù</a> agus cat</g>
-            <en>a dog and a cat</en> – <xl>
-                <li>
-                    <gd>Tha an cù dubh ach tha an cat bàn.</gd>
-                    <tr>The dog is black but the cat is white.</tr>
-                    <ref text="617">td. 6</ref>
-                </li>
-                <li>
-                    <gd>Tha an cù mór ach tha an cat beag.</gd>
-                    <tr>The dog is big but the cat is small.</tr>
-                    <ref text="617">td. 6</ref>
-                </li>
-                <li>
-                    <gd>Tha an cù aig an dorus agus tha an cat aig an teine.</gd>
-                    <tr>The dog is at the door and the cat is by the fire.</tr>
-                    <ref text="617">td. 6</ref>
-                </li>
-            </xl>
-        </p>
+        <section id="nouns-locations">
+            <h>locations</h>
+            <p><g>cat aig <a href="?gd=teine">teine</a></g>
+                <en>a cat at/by a fire</en>– <xl>
+                    <li>
+                        <gd>Tha an cat beag bàn aig an teine.</gd>
+                        <tr>The little white cat is by the fire.</tr>
+                        <ref text="617">td. 9</ref>
+                    </li>
+                </xl>
+            </p>
+            <p><g>cat ann am <a href="?gd=poca">poca</a></g>
+                <en>a cat in a sack</en> – <xl>
+                    <li>
+                        <gd>Cha robh an cat anns a’ phoca.</gd>
+                        <tr>The cat was not in the sack.</tr>
+                        <ref text="617">td. 21 [229] [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="nouns-complements">
+            <h>complements</h>
+            <p><g>cat ≈ <a href="?gd=bainne">bainne</a></g>
+                <en>a cat and milk</en> – <xl>
+                    <li>
+                        <gd>An do dh’òl an cat am bainne? Dh’òl.</gd>
+                        <tr>Did the cat drink the milk? Yes, it did.</tr>
+                        <ref text="617">td. 48</ref>
+                    </li>
+                </xl>
+            </p>
+            <p><g>cat ≈ <a href="?gd=cuu">cù</a></g>
+                <en>a cat and a dog</en> – <xl>
+                    <li>
+                        <gd>Tha an cù dubh ach tha an cat bàn.</gd>
+                        <tr>The dog is black but the cat is white.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an cù mór ach tha an cat beag.</gd>
+                        <tr>The dog is big but the cat is small.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                    <li>
+                        <gd>Tha an cù aig an dorus agus tha an cat aig an teine.</gd>
+                        <tr>The dog is at the door and the cat is by the fire.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
     </section>
 
 

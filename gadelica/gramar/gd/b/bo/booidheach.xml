@@ -2,13 +2,14 @@
 <module>
     <h>bòidheach</h>
     <p><g>bòidheach</g>
-        <en>pretty</en> is a <a href="?xx=adjectives/simple_adjectives">simple
-            adjective</a>.</p>
-    
+        <adj/>
+        <!-- aesthetic adjective -->
+        <en>pretty</en></p>
+
     <section>
-        <h>themes</h>
-        <module id="cat">
-            <h>cat</h>
+        <h>nouns</h>
+        <section id="nouns-animals">
+            <h>animals</h>
             <p><g><a href="?gd=cat">cat</a> bòidheach</g>
                 <en>a pretty cat</en> – <xl>
                     <li>
@@ -18,22 +19,21 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="ugh">
-            <h>ugh</h>
-            <p><g><a href="?gd=ugh">ugh</a> bòidheach</g> <en>a pretty egg</en> –
-                <xl>
-                    <li>
-                        <gd>Fhuair Màiri nead anns an fhraoch. Bha trì uighean bòidheach anns an
-                            nead.</gd>
-                        <tr>Mary found a nest in the heather. There were three pretty eggs in the
-                            nest.</tr>
-                        <ref text="617">td. 76 [adapted]</ref>
-                    </li>
-                </xl>
-            </p>
-        </module>
+            <section id="nouns-animals-products">
+                <h>products</h>
+                <p><g><a href="?gd=ugh">ugh</a> bòidheach</g>
+                    <en>a pretty egg</en> – <xl>
+                        <li>
+                            <gd>Fhuair Màiri nead anns an fhraoch. Bha trì uighean bòidheach anns an
+                                nead.</gd>
+                            <tr>Mary found a nest in the heather. There were three pretty eggs in
+                                the nest.</tr>
+                            <ref text="617">td. 76 [adapted]</ref>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+        </section>
     </section>
-    
-</module>
 
+</module>
