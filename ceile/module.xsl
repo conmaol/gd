@@ -131,6 +131,12 @@
     </a>
   </xsl:template>
 
+  <xsl:template match="g/a">
+    <a href="{@href}" style="text-decoration: none;">
+        <xsl:apply-templates/>
+    </a>
+  </xsl:template>
+
   <xsl:template match="a">
     <a href="{@href}">
       <xsl:apply-templates/>

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
-    <h>luath</h>
-    <p><g>luath</g> <adj/>
-        <en>swift, fast, quick</en>.</p>
+    <h>luath</h> <!-- behaviour adjective -->
+    <p><g>luath</g>
+        <adj/>
+        <en>swift, fast, quick</en></p>
     <section>
         <h>nouns</h>
-        <module id="cuu">
-            <h>cù</h>
+        <section id="nouns-animals">
+            <h>animals</h>
             <p><g><a href="?gd=cuu">cù</a> luath</g>
                 <en>a swift dog</en> – <xl>
                     <li>
@@ -21,9 +22,6 @@
                     </li>
                 </xl>
             </p>
-        </module>
-        <module id="maigheach">
-            <h>maigheach</h>
             <p><g><a href="?gd=maigheach">maigheach</a> luath</g>
                 <en>a fast hare</en> – <xl>
                     <li>
@@ -34,13 +32,13 @@
                     </li>
                 </xl>
             </p>
-        </module>
+        </section>
     </section>
-    
+
     <section>
         <h>verbs</h>
-        <module id="ruith">
-            <h>ruith</h>
+        <section id="verbs-activities">
+            <h>activities</h>
             <p><g><a href="?gd=ruith">ruith</a> ... gu luath</g>
                 <en>... runs quickly</en> – <xl>
                     <li>
@@ -51,8 +49,8 @@
                     </li>
                 </xl>
             </p>
-        </module>
+        </section>
     </section>
-    
+
 
 </module>

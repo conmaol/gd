@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
-    <h>sgìth</h>
+    <h>sgìth</h> <!-- energy adjective -->
     <p><g>sgìth</g>
         <adj/>
         <en>tired</en></p>
@@ -26,8 +26,8 @@
             </p>
             <p>Examples with first and second person pronouns – <xl>
                     <li>
-                        <gd>Tha sibh trang ag obair anns an achadh agus tha
-                            <a href="?gd=sibh">sibh</a> sgìth.</gd>
+                        <gd>Tha sibh trang ag obair anns an achadh agus tha <a href="?gd=sibh"
+                                >sibh</a> sgìth.</gd>
                         <tr>You are busy working in the field and you are tired.</tr>
                         <ref text="617">td. 7</ref>
                     </li>
@@ -63,60 +63,68 @@
                 </xl>
             </p>
         </section>
-        <p><g>sgìth ann an <a href="?gd=achadh">achadh</a></g> <en>tired in a field</en> –
-            <xl>
-                <li>
-                    <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an achadh.</gd>
-                    <tr>Mary is tired. She is tired working in the field.</tr>
-                    <ref text="617">td. 7</ref>
-                </li>
-            </xl>
-        </p>
+        <section id="nouns-geography">
+            <h>geography</h>
+            <p><g>sgìth ann an <a href="?gd=achadh">achadh</a></g>
+                <en>tired in a field</en> – <xl>
+                    <li>
+                        <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an achadh.</gd>
+                        <tr>Mary is tired. She is tired working in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
     </section>
 
-    <section id="verbs">
+    <section>
         <h>verbs</h>
-        <p><g>sgìth [ag] <a href="?gd=obair">obair</a></g>
-            <en>tired working</en> – <xl>
-                <li>
-                    <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an achadh.</gd>
-                    <tr>Mary is tired. She is tired working in the field.</tr>
-                    <ref text="617">td. 7</ref>
-                </li>
-                <li>
-                    <gd>Tha Calum sgìth: tha e ag obair gu trang anns an achadh.</gd>
-                    <tr>Malcolm is tired: he is working busily in the field.</tr>
-                    <ref text="617">td. 7</ref>
-                </li>
-                <li>
-                    <gd>Tha sibh trang ag obair anns an achadh agus tha sibh sgìth.</gd>
-                    <tr>You are busy working in the field and you are tired.</tr>
-                    <ref text="617">td. 7</ref>
-                </li>
-                <li>
-                    <gd>Tha mi sgìth le obair.</gd>
-                    <tr>I am tired with work.</tr>
-                    <ref text="617">td. 244</ref>
-                </li>
-            </xl>
-        </p>
-        <p><g>sgìth a’ <a href="?gd=coisich">coiseachd</a></g>
-            <en>tired walking</en> – <xl>
-                <li>
-                    <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
-                        mullach na beinne.</gd>
-                    <tr>Malcolm was tired walking on the moor, but at last he reached the top of the
-                        mountain.</tr>
-                    <ref text="617">td. 146</ref>
-                </li>
-            </xl>
-        </p>
+        <section id="verbs-activities">
+            <h>activities</h>
+            <p><g>sgìth ag <a href="?gd=obair">obair</a></g>
+                <en>tired working</en> – <xl>
+                    <li>
+                        <gd>Tha Màiri sgìth. Tha i sgìth ag obair anns an achadh.</gd>
+                        <tr>Mary is tired. She is tired working in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha Calum sgìth: tha e ag obair gu trang anns an achadh.</gd>
+                        <tr>Malcolm is tired: he is working busily in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha sibh trang ag obair anns an achadh agus tha sibh sgìth.</gd>
+                        <tr>You are busy working in the field and you are tired.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                    <li>
+                        <gd>Tha mi sgìth le obair.</gd>
+                        <tr>I am tired with work.</tr>
+                        <ref text="617">td. 244</ref>
+                    </li>
+                </xl>
+            </p>
+            <p><g>sgìth a’ <a href="?gd=coisich">coiseachd</a></g>
+                <en>tired walking</en> – <xl>
+                    <li>
+                        <gd>Bha Calum sgìth a’ coiseachd air a’ mhonadh, ach mu dheireadh ràinig e
+                            mullach na beinne.</gd>
+                        <tr>Malcolm was tired walking on the moor, but at last he reached the top of
+                            the mountain.</tr>
+                        <ref text="617">td. 146</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
     </section>
 
-    <section id="adjs">
+    <section>
         <h>adjectives</h>
-        <p><g><a href="?gd=trang">trang</a> agus sgìth</g>
-            <en>busy and tired</en> – <xl>
+        <section id="adjs-comps">
+            <h>complements</h>
+            <p><g><a href="?gd=trang">trang</a> ≈ sgìth</g>
+            <en>busy and (hence) tired</en> – <xl>
                 <li>
                     <gd>Tha Calum sgìth – tha e ag obair gu trang anns an achadh.</gd>
                     <tr>Malcolm is tired – he is working busily in the field.</tr>
@@ -128,7 +136,7 @@
                     <ref text="617">td. 7</ref>
                 </li>
             </xl>
-        </p>
+        </p></section>
     </section>
 
 

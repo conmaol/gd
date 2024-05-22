@@ -1,42 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>trang</h>
+    <!-- behaviour adjective -->
     <p><g>trang</g>
         <adj/>
         <en>busy</en></p>
-
-    <!--<section>
-        <h>nouns</h>
-        <module id="duine_trang">
-            <h>duine trang</h>
-            <p><g><a href="?gd=duine">duine</a> trang</g>
-                <en>a busy man</en> – <xl>
-                    <li>
-                        <gd>Bha sinn trang ag obair.</gd>
-                        <tr>We were busy working.</tr>
-                        <ref text="617">td. 9 [adapted]</ref>
-                    </li>
-                    <li>
-                        <gd>An robh sibh trang? Bha.</gd>
-                        <tr>Were you busy? Yes, we were.</tr>
-                        <ref text="617">td. 14 [227] [adapted]</ref>
-                    </li>
-                </xl>
-            </p>
-            <module id="tee_trang">
-                <h>té trang</h>
-                <p><g><a href="?gd=tee">té</a> trang</g>
-                    <en>a busy woman</en> – <xl>
-                        <li>
-                            <gd>Tha Màiri agus Calum trang an diugh.</gd>
-                            <tr>Mary and Malcolm are busy today.</tr>
-                            <ref text="617">td. 7</ref>
-                        </li>
-                    </xl>
-                </p>
-            </module>
-        </module>
-    </section>-->
 
     <section>
         <h>nouns</h>
@@ -57,26 +25,68 @@
                     </li>
                 </xl>
             </p>
-            <p>Examples with first and second person pronouns – <xl>
-                    <li>
-                        <gd>Tha <a href="?gd=mi">mi</a> trang.</gd>
-                        <tr>I am busy.</tr>
-                        <ref text="617">td. 7</ref>
+            <p>Examples with first and second person pronouns – <ul>
+                    <li>first person – <ul>
+                            <li>singular <g href="?gd=mi">mi</g>
+                                <en>I, me</en> – <xl>
+                                    <li>
+                                        <gd>Tha mi trang.</gd>
+                                        <tr>I am busy.</tr>
+                                        <ref text="617">td. 7</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                            <li>plural <g href="?gd=sinn">sinn</g>
+                                <en>we, us</en> – <xl>
+                                    <li>
+                                        <gd>Tha sinn trang.</gd>
+                                        <tr>We are busy.</tr>
+                                        <ref text="617">td. 7</ref>
+                                    </li>
+                                    <li>
+                                        <gd>Bha sinn trang ag obair.</gd>
+                                        <tr>We were busy working.</tr>
+                                        <ref text="617">td. 9 [adapted]</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
-                    <li>
-                        <gd>Tha <a href="?gd=sinn">sinn</a> trang.</gd>
-                        <tr>We are busy.</tr>
-                        <ref text="617">td. 7</ref>
+                    <li>second person – <ul>
+                            <li>singular <g href="?gd=thu">thu</g>
+                                <en>you, thou, thee</en> – <xl>
+                                    <li>
+                                        <gd>Tha thu trang.</gd>
+                                        <tr>You are busy.</tr>
+                                        <ref text="617">td. 7</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                            <li>plural <g href="?gd=sibh">sibh</g>
+                                <en>you</en> – <xl>
+                                    <li>
+                                        <gd>Tha sibh trang ag obair anns an achadh agus tha sibh
+                                            sgìth.</gd>
+                                        <tr>You are busy working in the field and you are
+                                            tired.</tr>
+                                        <ref text="617">td. 7</ref>
+                                    </li>
+                                    <li>
+                                        <gd>An robh sibh trang? Bha.</gd>
+                                        <tr>Were you busy? Yes, we were.</tr>
+                                        <ref text="617">td. 14 [227] [adapted]</ref>
+                                    </li>
+                                </xl>
+                            </li>
+                        </ul>
                     </li>
+                </ul>
+            </p>
+            <p>Examples with third person pronouns – <xl>
                     <li>
-                        <gd>Tha <a href="?gd=thu">thu</a> trang.</gd>
-                        <tr>You are busy.</tr>
-                        <ref text="617">td. 7</ref>
-                    </li>
-                    <li>
-                        <gd>Tha <a href="?gd=sibh">sibh</a> trang ag obair anns an achadh agus tha
-                            sibh sgìth.</gd>
-                        <tr>You are busy working in the field and you are tired.</tr>
+                        <gd>Tha Calum sgìth – tha <a href="?gd=e_">e</a> ag obair gu trang anns an
+                            achadh.</gd>
+                        <tr>Malcolm is tired – he is working busily in the field.</tr>
                         <ref text="617">td. 7</ref>
                     </li>
                 </xl>
@@ -101,24 +111,28 @@
                 </xl>
             </p>
         </section>
+        <section id="nouns-geography">
+            <h>geography</h>
+            <p><g>trang ann an <a href="?gd=achadh">achadh</a></g>
+                <en>busy in a field</en> – <xl>
+                    <li>
+                        <gd>Tha Màiri agus Calum trang an diugh – tha iad ag obair anns an
+                            achadh.</gd>
+                        <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
+                        <ref text="617">td. 7</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
     </section>
-    
-    <p><g>trang ann an <a href="?gd=achadh">achadh</a></g> <en>busy in a field</en> –
-        <xl>
-            <li>
-                <gd>Tha Màiri agus Calum trang an diugh – tha iad ag obair anns an achadh.</gd>
-                <tr>Mary and Malcolm are busy today – they are working in the field.</tr>
-                <ref text="617">td. 7</ref>
-            </li>
-        </xl>
-    </p>
 
-
-    <section id="verbs">
+    <section>
         <h>verbs</h>
-        <p><g><a href="?gd=obair">obair</a> gu trang</g>
-            <en>working busily/hard</en>, <g>trang ag <a href="?gd=obair">obair</a></g>
-            <en>busy working</en> – <xl>
+        <section id="verbs-activities">
+            <h>activities</h>
+            <p><g><a href="?gd=obair">obair</a> gu trang</g>
+            <en>working busily/hard</en> (cf. <g>trang ag obair</g>
+            <en>busy working</en>) – <xl>
                 <li>
                     <gd>Tha Calum sgìth – tha e ag obair gu trang anns an achadh.</gd>
                     <tr>Malcolm is tired – he is working busily in the field.</tr>
@@ -150,13 +164,15 @@
                     <ref text="617">td. 75</ref>
                 </li>-->
             </xl>
-        </p>
+        </p></section>
     </section>
 
-    <section id="adjs">
+    <section>
         <h>adjectives</h>
-        <p><g>trang agus <a href="?gd=sgiith">sgìth</a></g> <en>busy and tired</en> –
-            <xl>
+        <section id="adjs-comps">
+            <h>complements</h>
+            <p><g>trang</g> ≈ <g href="?gd=sgiith">sgìth</g>
+            <en>busy and (hence) tired</en> – <xl>
                 <li>
                     <gd>Tha Calum sgìth – tha e ag obair gu trang anns an achadh.</gd>
                     <tr>Malcolm is tired – he is working busily in the field.</tr>
@@ -168,7 +184,7 @@
                     <ref text="617">td. 7</ref>
                 </li>
             </xl>
-        </p>
+        </p></section>
     </section>
 
 </module>

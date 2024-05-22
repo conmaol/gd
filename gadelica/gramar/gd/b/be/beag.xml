@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>beag</h>
+    <!-- size adjective -->
     <p><g>beag</g>
         <adj/>
         <en>small, little</en></p>
@@ -11,12 +12,13 @@
             <h>people</h>
             <p>Examples with proper nouns – <xl>
                     <li>
-                        <gd>Tha Màiri beag.</gd>
+                        <gd>Tha <a href="?gd=maairi">Màiri</a> beag.</gd>
                         <tr>Mary is small.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
                     <li>
-                        <gd>Bha torman an uillt a’ dèanamh ciùil ann an cluais Chaluim bhig.</gd>
+                        <gd>Bha torman an uillt a’ dèanamh ciùil ann an cluais <a href="?gd=calum"
+                                >Chaluim</a> bhig.</gd>
                         <tr>The murmur of the burn was making music in little Malcolm’s ear.</tr>
                         <ref text="617">td. 146</ref>
                     </li>
@@ -127,8 +129,8 @@
                 </xl>
             </p>
         </section>
-        <section id="nouns-artifacts">
-            <h>artifacts</h>
+        <section id="nouns-vehicles">
+            <h>vehicles</h>
             <p><g><a href="?gd=baata">bàta</a> beag</g>
                 <en>a small boat</en> – <xl>
                     <li>

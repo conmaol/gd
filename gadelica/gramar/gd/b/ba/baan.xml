@@ -1,32 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module>
     <h>bàn</h>
+    <!-- colour adjective -->
     <p><g>bàn</g>
         <adj/>
         <en>white, pale, light, fair</en></p>
 
     <section>
         <h>nouns</h>
-        <!--<module id="person_baan">
-            <h>[duine] bàn</h>
-            <p><g>[duine] bàn</g>
-                <en>a fair-haired [person]</en> – <xl>
+        <section id="nouns-people">
+            <h>people</h>
+            <p>Examples with proper nouns – <xl>
                     <li>
-                        <gd>Tha Màiri bàn.</gd>
+                        <gd>Tha <a href="?gd=maairi">Màiri</a> bàn.</gd>
                         <tr>Mary is fair-haired.</tr>
                         <ref text="617">td. 8 [adapted]</ref>
                     </li>
                     <li>
-                        <gd>Tha Màiri bhàn anns an achadh an diugh.</gd>
+                        <gd>Tha <a href="?gd=maairi">Màiri</a> bhàn anns an achadh an diugh.</gd>
                         <tr>Fair-headed Mary is in the field today.</tr>
                         <ref text="617">td. 9 [adapted]</ref>
                     </li>
                 </xl>
             </p>
-        </module>-->
-
-        <section id="nouns-people">
-            <h>people</h>
             <section id="nouns-people-parts">
                 <h>body-parts</h>
                 <p><g><a href="?gd=falt">falt</a> bàn</g>
@@ -74,20 +70,22 @@
             </p>
         </section>
 
-
     </section>
 
-    <section id="adjs">
+    <section>
         <h>adjectives</h>
-        <p><g>bàn agus <a href="?gd=dubh">dubh</a></g>
-            <en>white and black</en> – <xl>
-                <li>
-                    <gd>Tha an cù dubh ach tha an cat bàn.</gd>
-                    <tr>The dog is black but the cat is white.</tr>
-                    <ref text="617">td. 6</ref>
-                </li>
-            </xl>
-        </p>
+        <section id="adjs-contrasts">
+            <h>contrasts</h>
+            <p><g><a href="?gd=dubh">dubh</a> ≈ bàn</g>
+                <en>black and white</en> – <xl>
+                    <li>
+                        <gd>Tha an cù dubh ach tha an cat bàn.</gd>
+                        <tr>The dog is black but the cat is white.</tr>
+                        <ref text="617">td. 6</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
     </section>
 
 </module>
