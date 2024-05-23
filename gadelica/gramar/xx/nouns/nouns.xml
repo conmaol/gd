@@ -493,38 +493,84 @@
 
   <section id="tax">
     <h>taxonomy of nouns</h>
-    <p>
-      <ul>
-        <li>people – <g href="?gd=balach">balach</g>
-          <masc/>
-          <en>a boy</en>, <g href="?gd=bodach">bodach</g>
-          <masc/>
-          <en>an old man</en>, <g href="?gd=caileag">caileag</g>
-          <fem/>
-          <en>a girl</en>, <g href="?gd=ciiobair">cìobair</g>
+    <section>
+      <h>people</h>
+      <p><g href="?gd=balach">balach</g>
+        <masc/>
+        <en>a boy</en>, <g href="?gd=bodach">bodach</g>
+        <masc/>
+        <en>an old man</en>, <g href="?gd=caileag">caileag</g>
+        <fem/>
+        <en>a girl</en>, <g href="?gd=duine">duine</g>
+        <masc/>
+        <en>a man</en>, <g href="?gd=fear">fear</g>
+        <masc/>
+        <en>a man</en>, <g href="?gd=gille">gille</g>
+        <masc/>
+        <en>a boy</en></p>
+      <section>
+        <h>jobs</h>
+        <p><g href="?gd=ciiobair">cìobair</g>
           <masc/>
           <en>a shepherd</en>, <g href="?gd=clachair">clachair</g>
           <masc/>
-          <en>a stonemason</en>, <g href="?gd=duine">duine</g>
-          <masc/>
-          <en>a man</en>, <g href="?gd=fear">fear</g>
-          <masc/>
-          <en>a man</en>, <g href="?gd=gille">gille</g>
-          <masc/>
-          <en>a boy</en>, <g href="?gd=saor^n">saor</g>
+          <en>a stonemason</en>, <g href="?gd=saor^n">saor</g>
           <masc/>
           <en>a carpenter, a joiner</en>, <g href="?gd=tuathanach">tuathanach</g>
           <masc/>
-          <en>a farmer</en>
-          <ul>
-            <li>aggregates – <g href="?gd=clann">clann</g>
-              <fem/>
-              <en>children</en></li>
-            <li>relations – <g href="?gd=athair">athair</g>
-              <masc/>
-              <en>a father</en>, <g href="?gd=maathair">màthair</g>
-              <fem/>
-              <en>a mother</en></li>
+          <en>a farmer</en></p>
+      </section>
+      <section>
+        <h>relations</h>
+        <p><g href="?gd=athair">athair</g>
+          <masc/>
+          <en>a father</en>, <g href="?gd=maathair">màthair</g>
+          <fem/>
+          <en>a mother</en></p>
+      </section>
+      <section>
+        <h>groups</h>
+        <p><g href="?gd=clann">clann</g>
+          <fem/>
+          <en>children</en></p>
+      </section>
+      <section>
+        <h>body parts</h>
+        <p><g href="?gd=aodann">aodann</g>
+          <masc/>
+          <en>a face</en>, <g href="?gd=ceann">ceann</g>
+          <masc/>
+          <en>a head</en>, <g href="?gd=cluas">cluas</g>
+          <fem/>
+          <en>an ear</en>, <g href="?gd=falt">falt</g>
+          <masc/>
+          <en>hair</en>, <g href="?gd=laamh">làmh</g>
+          <fem/>
+          <en>a hand</en>, <g href="?gd=sroon">sròn</g>
+          <fem/>
+          <en>a nose</en>, <g href="?gd=suuil">sùil</g>
+          <fem/>
+          <en>an eye</en></p>
+      </section>
+      <section>
+        <h>clothing</h>
+        <p><g href="?gd=coota">còta</g>
+          <masc/>
+          <en>a coat</en>, </p>
+      </section>
+    </section>
+    <section>
+      <h>animals</h>
+    </section>
+    <section>
+      <h>buildings</h>
+
+    </section>
+    <p>
+      <ul>
+        <li>people – <ul>
+            <li>aggregates – </li>
+            <li>relations – </li>
           </ul>
         </li>
         <li>animals – <g href="?gd=boo">bó</g>
@@ -566,9 +612,7 @@
           <masc/>
           <en>a field</en>, <g href="?gd=allt">allt</g>
           <masc/>
-          <en>a stream, a burn</en>, <g href="?gd=aodann">aodann</g>
-          <masc/>
-          <en>a face</en>, <g href="?gd=baile">baile</g>
+          <en>a stream, a burn</en>, <g href="?gd=baile">baile</g>
           <masc/>
           <en>a town</en>, <g href="?gd=bata">bata</g>
           <masc/>
@@ -578,9 +622,7 @@
           <fem/>
           <en>a slope</en>, <g href="?gd=caladh">caladh</g>
           <masc/>
-          <en>a harbour</en>, <g href="?gd=ceann">ceann</g>
-          <masc/>
-          <en>a head</en>, <g href="?gd=clach">clach</g>
+          <en>a harbour</en>, <g href="?gd=clach">clach</g>
           <fem/>
           <en>a stone</en>, <g href="?gd=clachan">clachan</g>
           <masc/>
@@ -588,9 +630,7 @@
           <masc/>
           <en>a shore</en>, <g href="?gd=cliathach">cliathach</g>
           <fem/>
-          <en>a side</en>, <g href="?gd=cluas">cluas</g>
-          <fem/>
-          <en>an ear</en>, <g href="?gd=cnoc">cnoc</g>
+          <en>a side</en>, <g href="?gd=cnoc">cnoc</g>
           <masc/>
           <en>a hill</en>, <g href="?gd=craobh">craobh</g>
           <fem/>
@@ -598,9 +638,7 @@
           <fem/>
           <en>a rock</en>, <g href="?gd=eilean">eilean</g>
           <masc/>
-          <en>an island</en>, <g href="?gd=falt">falt</g>
-          <masc/>
-          <en>hair</en>, <g href="?gd=feur">feur</g>
+          <en>an island</en>, <g href="?gd=feur">feur</g>
           <masc/>
           <en>grass</en>, <g href="?gd=fraoch">fraoch</g>
           <masc/>
@@ -610,9 +648,7 @@
           <fem/>
           <en>a sun</en>, <g href="?gd=gual">gual</g>
           <masc/>
-          <en>coal</en>, <g href="?gd=laamh">làmh</g>
-          <fem/>
-          <en>a hand</en>, <g href="?gd=linne">linne</g>
+          <en>coal</en>, <g href="?gd=linne">linne</g>
           <fem/>
           <en>a pool</en>, <g href="?gd=loch">loch</g>
           <masc/>
@@ -634,11 +670,7 @@
           <masc/>
           <en>a pit, a hollow</en>, <g href="?gd=sraaid">sràid</g>
           <fem/>
-          <en>a street</en>, <g href="?gd=sroon">sròn</g>
-          <fem/>
-          <en>a nose</en>, <g href="?gd=suuil">sùil</g>
-          <fem/>
-          <en>an eye</en>, <g href="?gd=teine">teine</g>
+          <en>a street</en>, <g href="?gd=teine">teine</g>
           <masc/>
           <en>a fire</en>, <g href="?gd=tolman">tolman</g>
           <masc/>
@@ -668,9 +700,7 @@
               <masc/>
               <en>a car</en>, <g href="?gd=coire">coire</g>
               <masc/>
-              <en>a kettle</en>, <g href="?gd=coota">còta</g>
-              <masc/>
-              <en>a coat</en>, <g href="?gd=leabhar">leabhar</g>
+              <en>a kettle</en>, <g href="?gd=leabhar">leabhar</g>
               <masc/>
               <en>a book</en>, <g href="?gd=litir">litir</g>
               <fem/>
