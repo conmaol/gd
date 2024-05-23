@@ -111,17 +111,23 @@
 
     <section>
         <h>nouns</h>
-        <section id="nouns-locations">
-            <h>locations</h>
-            <p><g>cat aig <a href="?gd=teine">teine</a></g>
-                <en>a cat at/by a fire</en>– <xl>
-                    <li>
-                        <gd>Tha an cat beag bàn aig an teine.</gd>
-                        <tr>The little white cat is by the fire.</tr>
-                        <ref text="617">td. 9</ref>
-                    </li>
-                </xl>
-            </p>
+        <section id="nouns-buildings">
+            <h>buildings</h>
+            <section>
+                <h>parts</h>
+                <p><g>cat aig <a href="?gd=teine">teine</a></g>
+                    <en>a cat at/by a fire</en>– <xl>
+                        <li>
+                            <gd>Tha an cat beag bàn aig an teine.</gd>
+                            <tr>The little white cat is by the fire.</tr>
+                            <ref text="617">td. 9</ref>
+                        </li>
+                    </xl>
+                </p>
+            </section>
+        </section>
+        <section id="nouns-containers">
+            <h>containers</h>
             <p><g>cat ann am <a href="?gd=poca">poca</a></g>
                 <en>a cat in a sack</en> – <xl>
                     <li>
@@ -132,8 +138,8 @@
                 </xl>
             </p>
         </section>
-        <section id="nouns-complements">
-            <h>complements</h>
+        <section id="nouns-food">
+            <h>food</h>
             <p><g>cat ≈ <a href="?gd=bainne">bainne</a></g>
                 <en>a cat and milk</en> – <xl>
                     <li>
@@ -143,6 +149,9 @@
                     </li>
                 </xl>
             </p>
+        </section>
+        <section id="nouns-animals">
+            <h>animals</h>
             <p><g>cat ≈ <a href="?gd=cuu">cù</a></g>
                 <en>a cat and a dog</en> – <xl>
                     <li>

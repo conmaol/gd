@@ -98,9 +98,21 @@
 
     <section>
         <h>nouns</h>
-        <section id="nouns-locatives">
-            <h>locatives</h>
-            <p><g>... <a href="?gd=aig">aig</a> dorus</g>
+        <section id="nouns-people">
+            <h>people</h>
+            <p><g><a href="?gd=gille">gille</a> aig dorus</g>
+                <en>a boy at a door</en> – <xl>
+                    <li>
+                        <gd>A bheil an gille aig an dorus? Chan eil.</gd>
+                        <tr>Is the boy at the door?</tr>
+                        <ref text="617">td. 15 [adapted]</ref>
+                    </li>
+                </xl>
+            </p>
+        </section>
+        <section id="nouns-animals">
+            <h>animals</h>
+            <p><g><a href="?gd=cuu">cù</a> aig dorus</g>
                 <en>at a door</en> – <xl>
                     <li>
                         <gd>Tha an <a href="?gd=cuu">cù</a> dubh aig an dorus.</gd>
@@ -112,17 +124,14 @@
                         <tr>I saw a dog at the door.</tr>
                         <ref text="617">td. 6</ref>
                     </li>
-                    <li>
-                        <gd>A bheil an <a href="?gd=gille">gille</a> aig an dorus? Chan eil.</gd>
-                        <tr>Is the boy at the door?</tr>
-                        <ref text="617">td. 15 [adapted]</ref>
-                    </li>
                 </xl>
             </p>
         </section>
-        <section id="nouns-contrasts">
-            <h>contrasts</h>
-            <p><g>dorus ≈ <a href="?gd=teine">teine</a></g>
+        <section id="nouns-buildings">
+            <h>buildings</h>
+            <section>
+                <h>parts</h>
+                <p><g>dorus agus <a href="?gd=teine">teine</a></g>
                 <en>a door and a fire</en> – <xl>
                     <li>
                         <gd>Tha an cù aig an dorus agus tha an cat aig an teine.</gd>
@@ -130,7 +139,7 @@
                         <ref text="617">td. 6</ref>
                     </li>
                 </xl>
-            </p>
+            </p></section>
         </section>
     </section>
 
